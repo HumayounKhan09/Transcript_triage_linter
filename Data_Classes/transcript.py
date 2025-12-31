@@ -6,7 +6,7 @@ Description: Data Class for transcript
 from datetime import datetime
 
 class transcript:
-    def __init__(self, raw_text: str,normalized_text: str, speakers: list,timestamp: datetime):
+    def __init__(self, raw_text: str,normalized_text: str, speakers: list,timestamp: str):
         self._raw_text = raw_text
         self._normalized_text = normalized_text
         self._speakers = speakers
@@ -19,7 +19,7 @@ class transcript:
         return self._normalized_text
     def get_speakers(self) -> list:
         return self._speakers
-    def get_timestamp(self) -> datetime:
+    def get_timestamp(self) -> str:
         return self._timestamp
     
     #Defining Setters
@@ -29,7 +29,7 @@ class transcript:
         self._normalized_text = normalized_text
     def set_speakers(self, speakers: list):
         self._speakers = speakers
-    def set_timestamp(self, timestamp: datetime):
+    def set_timestamp(self, timestamp: str):
         self._timestamp = timestamp
 
     #Defining __str__ method

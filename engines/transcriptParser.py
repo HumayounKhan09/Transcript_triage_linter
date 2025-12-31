@@ -3,6 +3,7 @@ File Name: transcriptParser.py
 Description: Parser for transcript data
 """
 from Data_Classes.transcript import transcript
+from datetime import datetime
 class transcriptParser:
     def __init__(self):
         pass
@@ -23,4 +24,8 @@ class transcriptParser:
                 speakers.add(speaker)
         return list(speakers)
     
-    
+    def parse_transcript(self, raw_text: str) -> transcript:
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        normalized_text = self._normalize_text(raw_text)
+        speakers = self._getSpeakers(raw_text)
+        return transcript(raw_text, normalized_text, speakers, timestamp)
