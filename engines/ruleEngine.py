@@ -8,7 +8,7 @@ from Data_Classes.reasonCode import reasonCode
 
 
 class ruleEngine:
-    _ESCALATION_RULES = {
+    ESCALATION_RULES = {
     "HARDSHIP_LANGUAGE": {
         "keywords": ["lost my job", "unemployed", "can't afford", "can't pay", "financial hardship", "struggling", "behind on payments", "medical bills", "reduced income", "laid off"],
         "single_words": ["unemployed", "struggling", "hardship"]
@@ -43,7 +43,7 @@ class ruleEngine:
     }
 }
 
-    _NORMAL_RULES = {
+    NORMAL_RULES = {
         "PAYMENT_INTENT": {
             "keywords": ["make a payment", "pay my mortgage", "send a payment", "payment amount", "pay online", "what's my balance"],
             "single_words": ["payment", "balance"]
@@ -64,108 +64,108 @@ class ruleEngine:
 
     def _check_hardship(self)->int:
         points = 0
-        for keyword in self._ESCALATION_RULES["HARDSHIP_LANGUAGE"]["keywords"]:
+        for keyword in self.ESCALATION_RULES["HARDSHIP_LANGUAGE"]["keywords"]:
             if keyword in self._normalized_text:
                 points += 2
-        for word in self._ESCALATION_RULES["HARDSHIP_LANGUAGE"]["single_words"]:
+        for word in self.ESCALATION_RULES["HARDSHIP_LANGUAGE"]["single_words"]:
             if word in self._normalized_text:
                 points += 1
         return points
     
     def _check_loan_mod_request(self)->int:
         points = 0
-        for keyword in self._ESCALATION_RULES["LOAN_MOD_REQUEST"]["keywords"]:
+        for keyword in self.ESCALATION_RULES["LOAN_MOD_REQUEST"]["keywords"]:
             if keyword in self._normalized_text:
                 points += 2
-        for word in self._ESCALATION_RULES["LOAN_MOD_REQUEST"]["single_words"]:
+        for word in self.ESCALATION_RULES["LOAN_MOD_REQUEST"]["single_words"]:
             if word in self._normalized_text:
                 points += 1
         return points
     
     def _check_bankruptcy_or_lawyer(self)->int:
         points = 0
-        for keyword in self._ESCALATION_RULES["BANKRUPTCY_OR_LAWYER"]["keywords"]:
+        for keyword in self.ESCALATION_RULES["BANKRUPTCY_OR_LAWYER"]["keywords"]:
             if keyword in self._normalized_text:
                 points += 2
-        for word in self._ESCALATION_RULES["BANKRUPTCY_OR_LAWYER"]["single_words"]:
+        for word in self.ESCALATION_RULES["BANKRUPTCY_OR_LAWYER"]["single_words"]:
             if word in self._normalized_text:
                 points += 1
         return points   
     
     def _check_legal_threat(self)->int:
         points = 0
-        for keyword in self._ESCALATION_RULES["LEGAL_THREAT"]["keywords"]:
+        for keyword in self.ESCALATION_RULES["LEGAL_THREAT"]["keywords"]:
             if keyword in self._normalized_text:
                 points += 2
-        for word in self._ESCALATION_RULES["LEGAL_THREAT"]["single_words"]:
+        for word in self.ESCALATION_RULES["LEGAL_THREAT"]["single_words"]:
             if word in self._normalized_text:
                 points += 1
         return points
     
     def _dispute_fee(self)->int:
         points = 0
-        for keyword in self._ESCALATION_RULES["DISPUTE_FEE_OR_CHARGE"]["keywords"]:
+        for keyword in self.ESCALATION_RULES["DISPUTE_FEE_OR_CHARGE"]["keywords"]:
             if keyword in self._normalized_text:
                 points += 2
-        for word in self._ESCALATION_RULES["DISPUTE_FEE_OR_CHARGE"]["single_words"]:
+        for word in self.ESCALATION_RULES["DISPUTE_FEE_OR_CHARGE"]["single_words"]:
             if word in self._normalized_text:
                 points += 1
         return points
     
     def _check_supervisor_request(self)->int:
         points = 0
-        for keyword in self._ESCALATION_RULES["SUPERVISOR_REQUEST"]["keywords"]:
+        for keyword in self.ESCALATION_RULES["SUPERVISOR_REQUEST"]["keywords"]:
             if keyword in self._normalized_text:
                 points += 2
-        for word in self._ESCALATION_RULES["SUPERVISOR_REQUEST"]["single_words"]:
+        for word in self.ESCALATION_RULES["SUPERVISOR_REQUEST"]["single_words"]:
             if word in self._normalized_text:
                 points += 1
         return points
     def _check_abusive_language(self)->int:
         points = 0
-        for keyword in self._ESCALATION_RULES["ABUSIVE_LANGUAGE"]["keywords"]:
+        for keyword in self.ESCALATION_RULES["ABUSIVE_LANGUAGE"]["keywords"]:
             if keyword in self._normalized_text:
                 points += 2
-        for word in self._ESCALATION_RULES["ABUSIVE_LANGUAGE"]["single_words"]:
+        for word in self.ESCALATION_RULES["ABUSIVE_LANGUAGE"]["single_words"]:
             if word in self._normalized_text:
                 points += 1
         return points
     def _check_third_party_caller(self)->int:
         points = 0
-        for keyword in self._ESCALATION_RULES["THIRD_PARTY_CALLER"]["keywords"]:
+        for keyword in self.ESCALATION_RULES["THIRD_PARTY_CALLER"]["keywords"]:
             if keyword in self._normalized_text:
                 points += 2
-        for word in self._ESCALATION_RULES["THIRD_PARTY_CALLER"]["single_words"]:
+        for word in self.ESCALATION_RULES["THIRD_PARTY_CALLER"]["single_words"]:
             if word in self._normalized_text:
                 points += 1
         return points   
     
     def _check_payment_intent(self)->int:
         points = 0
-        for keyword in self._NORMAL_RULES["PAYMENT_INTENT"]["keywords"]:
+        for keyword in self.NORMAL_RULES["PAYMENT_INTENT"]["keywords"]:
             if keyword in self._normalized_text:
                 points += 2
-        for word in self._NORMAL_RULES["PAYMENT_INTENT"]["single_words"]:
+        for word in self.NORMAL_RULES["PAYMENT_INTENT"]["single_words"]:
             if word in self._normalized_text:
                 points += 1
         return points
     
     def _check_escrow_question(self)->int:
         points = 0
-        for keyword in self._NORMAL_RULES["ESCROW_QUESTION"]["keywords"]:
+        for keyword in self.NORMAL_RULES["ESCROW_QUESTION"]["keywords"]:
             if keyword in self._normalized_text:
                 points += 2
-        for word in self._NORMAL_RULES["ESCROW_QUESTION"]["single_words"]:
+        for word in self.NORMAL_RULES["ESCROW_QUESTION"]["single_words"]:
             if word in self._normalized_text:
                 points += 1
         return points
     
     def _check_new_loan_inquiry(self)->int:
         points = 0
-        for keyword in self._NORMAL_RULES["NEW_LOAN_INQUIRY"]["keywords"]:
+        for keyword in self.NORMAL_RULES["NEW_LOAN_INQUIRY"]["keywords"]:
             if keyword in self._normalized_text:
                 points += 2
-        for word in self._NORMAL_RULES["NEW_LOAN_INQUIRY"]["single_words"]:
+        for word in self.NORMAL_RULES["NEW_LOAN_INQUIRY"]["single_words"]:
             if word in self._normalized_text:
                 points += 1
         return points
