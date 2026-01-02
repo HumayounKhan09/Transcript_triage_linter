@@ -2,7 +2,9 @@
 File Name: entityExtractor.py
 Description: Entity Extractor Engine
 """
+from html import entities
 from Data_Classes.transcript import transcript as Transcript
+from Data_Classes.entities import Entities
 import re as r #This is the regex library
 
 class entityExtractor:
@@ -58,12 +60,12 @@ class entityExtractor:
         loan_pattern = r'\bLN-\d{6,10}\b'
         return [m.group(0) for m in r.finditer(loan_pattern, text)]
     
-    def extract_all_entities(self, transcript: Transcript) -> dict:
+    def extract_all_entities(self, transcript: Transcript) -> Entities:
         text = transcript.get_normalized_text()
-        entities = {
-            "amounts": self.extract_amounts(text),
-            "dates": self.extract_dates(text),
-            "phones": self.extract_phones(text),
-            "loan_numbers": self.extract_loan_numbesrs(text)
-        }
-        return entities
+        extracted_entities = Entities(
+            amounts=self.extract_amounts(text),
+            dates=self.extract_dates(text), 
+            phones=self.extract_phones(text),
+            loan_numbers=self.extract_loan_numbesrs(text)
+        )
+        return extracted_entities

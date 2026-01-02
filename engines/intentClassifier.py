@@ -11,7 +11,7 @@ class intentClassifier:
     def __intit__(self):
         pass
 
-    def score_intent(self, reasonCodes: list[reasonCode]) -> str:
+    def classify(self, reasonCodes: list[reasonCode]) -> str:
         hard= 0
         loanMod = 0
         banc= 0

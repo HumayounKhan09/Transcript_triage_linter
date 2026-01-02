@@ -2,6 +2,7 @@
 File Name: entityExtractor.py
 Description: Entity Extractor Engine
 """
+from Data_Classes.entities import Entities
 from Data_Classes.transcript import transcript as Transcript
 import re  #This is the regex library
 
@@ -162,13 +163,12 @@ class entityExtractor:
     def extract_loan_numbesrs(self, text: str) -> list:
         return self.extract_loan_numbers(text)
 
-    def extract_all_entities(self, transcript: Transcript) -> dict:
+    def extract_all_entities(self, transcript: Transcript) -> Entities:
         text = transcript.get_normalized_text()
-        entities = {
-            "amounts": self.extract_amounts(text),
-            "dates": self.extract_dates(text),
-            "phones": self.extract_phones(text),
-            "loan_numbers": self.extract_loan_numbers(text),
-        }
-        return entities
-
+        extEntities = Entities(
+            amounts=self.extract_amounts(text),
+            dates=self.extract_dates(text),
+            phones=self.extract_phones(text),
+            loan_numbers=self.extract_loan_numbers(text
+        ))
+        return extEntities

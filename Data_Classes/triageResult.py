@@ -3,10 +3,10 @@ File Name: triageResult.py
 Description: Data Class for triageResult
 '''
 from Data_Classes.reasonCode import reasonCode
-from Data_Classes.entities import entities  
+from Data_Classes.entities import Entities  
 
 class triageResult:
-    def __init__(self, intent: str, escalate: bool, risk_level: str, reason_codes: list[reasonCode], key_entities: list[entities], summary_bullet: list[str]):
+    def __init__(self, intent: str, escalate: bool, risk_level: str, reason_codes: list[reasonCode], key_entities: list[Entities], summary_bullet: list[str]):
         self._intent = intent
         self._escalate = escalate
         self._risk_level = risk_level

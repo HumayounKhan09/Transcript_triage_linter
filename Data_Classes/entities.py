@@ -3,36 +3,32 @@ File Name: entities.py
 Description: Data Class for Entities
 '''
 
-class entities:
-    def __init__(self, name: str, entity_type: str, relevance: float):
-        self._name = name
-        self._entity_type = entity_type
-        self._relevance = relevance
+class Entities:
+    def __init__(self, amounts:list, dates:list, phones:list, loan_numbers:list):
+        self._amounts = amounts
+        self._dates = dates
+        self._phones = phones
+        self._loan_numbers = loan_numbers
 
     #Getters
-    def get_name(self) -> str:
-        return self._name
-    
-    def get_entity_type(self) -> str:
-        return self._entity_type
-    
-    def get_relevance(self) -> float:
-        return self._relevance
-    
-    #Setters
-    def set_name(self, name: str):
-        self._name = name
+    def get_amounts(self) -> list:
+        return self._amounts
+    def get_dates(self) -> list:
+        return self._dates
+    def get_phones(self) -> list:
+        return self._phones
+    def get_loan_numbers(self) -> list:
+        return self._loan_numbers
 
-    def set_entity_type(self, entity_type: str):
-        self._entity_type = entity_type
+ 
 
-    def set_relevance(self, relevance: float):
-        self._relevance = relevance
-
-        
     #Defining __str__ method
     def __str__(self) -> str:
-        return f"Entities(name={self._name}, entity_type={self._entity_type}, relevance={self._relevance})"
+        return f"Entities(amounts={self._amounts}, dates={self._dates}, phones={self._phones}, loan_numbers={self._loan_numbers})"
     #Defining __repr__ method
     def __repr__(self) -> str:
         return self.__str__()
+    
+
+
+    
