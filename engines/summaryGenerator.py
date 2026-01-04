@@ -13,10 +13,8 @@ class summaryGenerator:
         pass
 
     def _extract_payment_info(self, entities: Entities) -> str:
-        amounts = entities.get_amounts()
-        if amounts:
-            return f"Payment amount mentioned: {', '.join(amounts)}."
-        return NONE
+        return ""
+    
     
 
 
