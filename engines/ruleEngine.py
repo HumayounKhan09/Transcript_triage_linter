@@ -174,7 +174,6 @@ class ruleEngine:
         reason_codes = []
         threshold = 2
 
-        es = False
         hard= self._check_hardship() 
         loanMod = self._check_loan_mod_request()
         banc= self._check_bankruptcy_or_lawyer() 
@@ -189,25 +188,29 @@ class ruleEngine:
         pay= self._check_payment_intent()
         escrow = self._check_escrow_question() 
         newLoan= self._check_new_loan_inquiry()
-           
+        
+
+        es = (hard >= threshold or loanMod >= threshold or banc >= threshold or 
+              legal >= threshold or dispFee >= threshold or superv >= threshold or 
+              abusive >= threshold or tpc >= threshold)
 
         # Check escalation rules
         if hard >= threshold:
-            reason_codes.append(reasonCode("HARDSHIP_LANGUAGE", not es, hard))
+            reason_codes.append(reasonCode("HARDSHIP_LANGUAGE", es, hard))
         if loanMod >= threshold: 
-            reason_codes.append(reasonCode("LOAN_MOD_REQUEST", not es, loanMod))
+            reason_codes.append(reasonCode("LOAN_MOD_REQUEST", es, loanMod))
         if banc >= threshold:
-            reason_codes.append(reasonCode("BANKRUPTCY_OR_LAWYER", not es, banc))
+            reason_codes.append(reasonCode("BANKRUPTCY_OR_LAWYER", es, banc))
         if legal >= threshold:
-            reason_codes.append(reasonCode("LEGAL_THREAT", not es, legal))
+            reason_codes.append(reasonCode("LEGAL_THREAT", es, legal))
         if dispFee >= threshold:
-            reason_codes.append(reasonCode("DISPUTE_FEE_OR_CHARGE", not es, dispFee))
+            reason_codes.append(reasonCode("DISPUTE_FEE_OR_CHARGE", es, dispFee))
         if superv >= threshold:
-            reason_codes.append(reasonCode("SUPERVISOR_REQUEST", not es,superv))
+            reason_codes.append(reasonCode("SUPERVISOR_REQUEST", es,superv))
         if abusive >= threshold:
-            reason_codes.append(reasonCode("ABUSIVE_LANGUAGE", not es, abusive))
+            reason_codes.append(reasonCode("ABUSIVE_LANGUAGE", es, abusive))
         if tpc >= threshold:
-            reason_codes.append(reasonCode("THIRD_PARTY_CALLER", not es, tpc))
+            reason_codes.append(reasonCode("THIRD_PARTY_CALLER", es, tpc))
         
         # Check normal rules
         if pay >= threshold:

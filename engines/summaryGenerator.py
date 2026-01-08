@@ -18,7 +18,7 @@ class summaryGenerator:
             return f"Payment Amounts Mentioned: {', '.join(str(p) for p in payment)}."
         return NONE
     
-    def extract_requst_bull
+
     
   
     
