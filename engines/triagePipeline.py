@@ -21,46 +21,53 @@ class TriagePipeline:
     
     def process_single(self, file_path: str) -> TriageResult:
         """Process a single transcript file and return TriageResult"""
-        # Parse transcript
-        transcript = self.parser.parse(file_path)
+        # Parse transcript - read file and parse
+        with open(file_path, 'r') as f:
+            raw_text = f.read()
+        transcript = self.parser.parse_transcript(raw_text)
         
-        # Initialize engines that need transcript
+        # Initialize engines
         rule_engine = RuleEngine(transcript)
-        intent_classifier = IntentClassifier(transcript)
-        escalation_engine = EscalationEngine(transcript)
-        summary_generator = SummaryGenerator(transcript)
+        intent_classifier = IntentClassifier()
+        escalation_engine = EscalationEngine()
+        summary_generator = SummaryGenerator()
         
         # Run through rule engine
-        rule_violations = rule_engine.check_rules()
+        reason_codes = rule_engine.apply_rules()
         
         # Extract entities
-        entities = self.entity_extractor.extract(transcript)
+        entities = self.entity_extractor.extract_all_entities(transcript)
         
         # Classify intent
-        intent = intent_classifier.classify()
+        intent = intent_classifier.classify(reason_codes)
         
         # Determine escalation
-        escalation_needed = escalation_engine.should_escalate()
+        escalation_result = escalation_engine.evaluate_escalation(reason_codes)
+        escalation_needed = escalation_result["escalation_needed"]
+        risk_level = escalation_result["risk_level"]
         
         # Generate summary
-        summary = summary_generator.generate()
+        summary_bullets = []
+        payment_bullet = summary_generator.extract_payment_bulllet(entities)
+        if payment_bullet:
+            summary_bullets.append(payment_bullet)
         
         # Create and return TriageResult
         return TriageResult(
-            transcript=transcript,
-            rule_violations=rule_violations,
-            entities=entities,
             intent=intent,
-            escalation_needed=escalation_needed,
-            summary=summary
+            escalate=escalation_needed,
+            risk_level=risk_level,
+            reason_codes=reason_codes,
+            entities=[entities],
+            summary_bullet=summary_bullets
         )
     
     def process_batch(self, file_paths: list) -> list:
         """Process multiple transcripts and return list of TriageResults"""
-        # TODO: Loop through file_paths
-        # TODO: Call process_single() for each
-        # TODO: Collect all TriageResults in a list
-        # TODO: Return the list
-        pass
+        results = []
+        for file_path in file_paths:
+            result = self.process_single(file_path)
+            results.append(result)
+        return results
 
 
