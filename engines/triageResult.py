@@ -4,7 +4,7 @@ Description: This is the main driver of the entire linter
 """
 
 
-from Data_Classes.transcript import transcript as Transcript
+
 from Data_Classes.triageResult import triageResult as TriageResult
 from engines.transcriptParser import transcriptParser
 from engines.ruleEngine import ruleEngine as RuleEngine
@@ -45,12 +45,12 @@ class TriagePipeline:
         escalations, risk_level = self.escalate.evaluate_escalation(reason_codes)
 
         # Generate summary
-        summary = self.summary.extract_payment_bulllet(entity)
+        summary = self.summary.generate_bullets(intents, entity, reason_codes)
         # Create and return TriageResult
-        triage_res= TriageResult(intents,escalations,risk_level,reason_codes,entity,[])
+        triage_res= TriageResult(intents,escalations,risk_level,reason_codes,entity,summary)
         return triage_res
     
-    def process_batch(self, file_paths: list) -> list:
+    def process_batch(self, file_paths: list) -> list[TriageResult]:
         """Process multiple transcripts and return list of TriageResults"""
         # Loop through file_paths
         results = []
