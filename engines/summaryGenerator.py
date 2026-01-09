@@ -16,7 +16,6 @@ class summaryGenerator:
         payment = entities.get_amounts()
         if len(payment) > 0:
             return f"Payment Amounts Mentioned: {', '.join(str(p) for p in payment)}."
-        return NONE
     
 
     
