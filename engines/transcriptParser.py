@@ -17,11 +17,12 @@ class transcriptParser:
     def _getSpeakers(self, raw_text: str) -> list:
         # Example speaker extraction: assuming speakers are denoted by "Speaker 1:", "Speaker 2:", etc.
         speakers = set()
-        lines = raw_text.split('\n')
+        lines = raw_text.splitlines()
         for line in lines:
             if ':' in line:
-                speaker = line.split(':')[0].strip()
-                speakers.add(speaker)
+                speaker = line.split(':', 1)[0].strip()
+                if speaker:
+                    speakers.add(speaker)
         return list(speakers)
     
     def parse_transcript(self, raw_text: str) -> transcript:
