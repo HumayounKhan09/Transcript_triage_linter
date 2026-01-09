@@ -1,0 +1,34 @@
+Agent: Good afternoon, mortgage servicing, this is Kevin, how can I help you?
+Caller: Hi Kevin, my name is Margaret Sullivan and I have a question about something I received in the mail. My account number is 890123.
+Agent: Sure, I'd be happy to help. What did you receive?
+Caller: It's called an escrow analysis? I think? It's got all these numbers on it and I don't really understand what it means. I'm 68 years old and this financial stuff is not my strong suit.
+Agent: No problem, I can explain it for you. Let me pull up your escrow account.
+Caller: My grandson usually helps me with these things but he's away at college and I didn't want to bother him during midterms. But this seemed important so I thought I should call.
+Agent: You did the right thing calling. So your escrow account is where we collect money each month to pay your property taxes and homeowners insurance.
+Caller: Right, I know that part. That's the extra $400 or whatever that's on top of my regular mortgage payment.
+Agent: Exactly. We do an analysis every year to make sure we're collecting the right amount. Sometimes taxes or insurance go up or down and we need to adjust.
+Caller: Oh dear. Did mine go up? Is that what this is telling me?
+Agent: Let me look... Yes, it looks like your homeowners insurance premium increased this year.
+Caller: By how much? Is it a lot?
+Agent: Your insurance went from $1,200 per year to $1,600 per year, so an increase of $400 annually.
+Caller: $400! Oh my goodness. Why did it go up so much?
+Agent: Insurance companies have been increasing rates in many areas. You'd need to contact your insurance company for the specific reason. We just pay the bill they send us from your escrow account.
+Caller: I see. So what does this mean for me? Do I need to pay something?
+Agent: According to the analysis, there's a shortage in your escrow account of $600. This happened because the insurance went up and we didn't have enough collected.
+Caller: $600? I don't have $600 just sitting around. I'm on a fixed income. This is very concerning.
+Agent: I understand. You have two options. You can either pay the $600 shortage in full, or we can spread it out over the next 12 months by increasing your monthly payment.
+Caller: How much would my payment go up if I spread it out?
+Agent: Let me calculate that... Your current escrow portion is $433 per month. With the shortage spread out and the new insurance premium, it would go up to about $516 per month.
+Caller: So an extra $83 a month? That's... that's doable I guess. That's better than $600 all at once. I can cut back on some things.
+Agent: That's probably the easier option for most people.
+Caller: But this could happen again next year, couldn't it? What if my insurance goes up again?
+Agent: It's possible. We do the analysis every year and adjust as needed.
+Caller: Maybe I should shop around for cheaper insurance? Can I do that?
+Agent: Yes, you can absolutely get quotes from other insurance companies. You'd just need to make sure the new policy meets our requirements and then send us the updated insurance information.
+Caller: How do I know what your requirements are?
+Agent: I can mail you that information, or I can explain it over the phone if you have a few minutes.
+Caller: Can you mail it? I should probably write this all down and discuss it with my grandson when he comes home for Thanksgiving.
+Agent: Absolutely. Is the address we have on file still correct?
+Caller: Yes, I'm still at the same place. I've been here for 22 years. This is my retirement home. I just hope I can afford to keep it.
+Agent: I'm sure we can work through this. Is there anything else I can help you with today?
+Caller: No, I think that's all. Thank you for being patient with me and explaining everything.

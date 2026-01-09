@@ -1,0 +1,14 @@
+Agent: Good morning, thank you for calling ABC Mortgage Servicing, my name is Jennifer, how can I help you today?
+Caller: Oh hi, yeah, um, I'm calling because I need to, well, I was looking at my statement and I think I need to make a payment? Or actually, wait, let me find my account number. Hold on.
+Agent: No problem, take your time.
+Caller: Okay so it's, let me see, is it the one that starts with a 1? Yeah, 123456. That's it.
+Agent: Perfect, let me pull that up. Okay Mr. Johnson, I have your account here. What can I help you with today?
+Caller: Right, so I got the statement in the mail, the one with the yellow envelope? And it says my payment is due on the 15th but I wasn't sure if, like, I already paid this month or not because I think I set up autopay but I'm not totally sure it went through?
+Agent: Let me check your payment history. I see your last payment was received on September 3rd for $2,450. Your next payment of $2,450 is due October 15th.
+Caller: Oh okay, so I haven't paid for October yet. That makes sense. Yeah, I want to go ahead and pay that now over the phone if that's okay?
+Agent: Absolutely, I can process that for you today. Are you paying the full $2,450?
+Caller: Yeah, the full amount. Actually wait, is there like a fee for paying over the phone? My friend said her mortgage company charges like $10 or something.
+Agent: We do have a $5 convenience fee for phone payments, or you can make a free payment through our website.
+Caller: Oh, um, okay. I'm not great with computers. I'll just do it over the phone. That's fine.
+Agent: No problem. I'll need your checking account information and routing number.
+Caller: Sure, let me grab my checkbook. One second... okay got it.

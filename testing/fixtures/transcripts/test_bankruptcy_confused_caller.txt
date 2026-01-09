@@ -1,0 +1,22 @@
+Agent: Thank you for calling, this is Marcus, how may I help you?
+Caller: Hi, um, I need to tell you something about my account. It's 567890.
+Agent: Okay, I have your account pulled up. What did you need to inform us of?
+Caller: So, this is kind of embarrassing, but I had to file for bankruptcy. My lawyer told me I needed to call all my creditors and let them know.
+Agent: I see. When did you file?
+Caller: It was last Tuesday. Or wait, was it Wednesday? Let me think... yeah, Tuesday. September 12th. It's a Chapter 13. At least I think it's Chapter 13. There's a Chapter 7 too, right? My lawyer explained it but I was pretty stressed and I didn't retain everything.
+Agent: That's understandable. Do you have your case number?
+Caller: Oh, um, I think it's in the paperwork somewhere. Hold on, let me look. There's so much paper. My lawyer gave me like a whole folder of stuff. Okay, here it is - case number 23-BK-45678. Does that sound right?
+Agent: Yes, that format looks correct. And what's your attorney's name?
+Caller: Sarah Johnson. Well, actually it's the law firm of Johnson and Associates. Sarah is the one I've been working with but I think there are other lawyers there too.
+Agent: Okay, I'm going to need to flag your account immediately and forward this information to our bankruptcy department.
+Caller: What does that mean exactly? Like, do I still make payments or not? Because my lawyer said something about an automatic stay? But I wasn't sure if that starts right away or after some court date or what.
+Agent: The automatic stay typically goes into effect as soon as you file. However, I'm not able to provide legal advice. You'll need to discuss the payment specifics with your attorney.
+Caller: Right, okay. But I want to keep the house. We're not trying to get out of the mortgage. This is about credit card debt mostly. And medical bills. My husband had surgery last year and even with insurance it was like $40,000 out of pocket. That's really what pushed us into this.
+Agent: I understand. Our bankruptcy team will reach out to you and your attorney to discuss how to proceed with the mortgage.
+Caller: How long does that usually take? Because my next payment is due in like two weeks and I don't know if I should pay it or not.
+Agent: They should contact you within 3-5 business days. In the meantime, don't make any payments until you've consulted with your attorney about how to handle the mortgage specifically.
+Caller: Okay. This whole thing is so stressful. I've never been in a situation like this before. We always paid our bills on time until everything just got to be too much.
+Agent: I understand this is difficult. Is there anything else I can help you with today?
+Caller: No, I think that's it. You said your bankruptcy department will call me?
+Agent: Yes, or they may reach out to your attorney first. Make sure your attorney has our contact information.
+Caller: Okay, I'll let Sarah know. Thank you.

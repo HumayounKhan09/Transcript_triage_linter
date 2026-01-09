@@ -1,0 +1,23 @@
+Agent: Mortgage servicing, this is Tom, how can I assist you?
+Caller: Hi Tom, my name is Lisa Chen and my account number is 456789. I'm calling about a charge on my account that I think is an error.
+Agent: Okay, I'd be happy to look into that for you. What charge are you referring to?
+Caller: So I got my statement and there's a $150 late fee, but I paid on time. I always pay on time. I've had this mortgage for six years and I've never been late once.
+Agent: Let me pull up your payment history. Okay, I see the late fee you're referring to. The payment due date was August 15th and according to our records, the payment was received on August 17th.
+Caller: Right, but I mailed it on August 8th. I always mail it a week early specifically to avoid this kind of thing.
+Agent: I understand. Unfortunately, we can only go by the date the payment is received and posted to your account, not the postmark date.
+Caller: But that doesn't seem fair. I did my part. If the mail was slow, that's not my fault. I sent it with plenty of time.
+Agent: I hear your frustration. The due date policy is outlined in your mortgage agreement. However, if you'd like to avoid this in the future, we do offer automatic payments where the money is withdrawn directly on the due date.
+Caller: I don't want automatic payments. I want this late fee removed because I did not pay late. I paid early. The check was in the mail a full week before the due date.
+Agent: Let me see what I can do. Sometimes we can request a one-time courtesy waiver for situations like this. Can you hold for a moment while I check?
+Caller: Sure, thank you.
+[hold]
+Agent: Ms. Chen, thank you for holding. I spoke with my supervisor and unfortunately we're not able to waive the fee in this case because the payment was received after the due date.
+Caller: Are you serious? This is unacceptable. I've been a customer for six years, never missed a payment, and you're telling me you won't waive one $150 fee?
+Agent: I understand this is disappointing, but the policy is consistent for all customers.
+Caller: Well, your policy is unreasonable. What if I just don't pay it? What then?
+Agent: The fee would remain on your account and could potentially affect your credit if left unpaid.
+Caller: So you're going to damage my credit over a fee that's not even legitimate? You know what, I want to speak to a manager. I want this escalated right now.
+Agent: I can certainly transfer you to a supervisor. Please hold while I connect you.
+Caller: And just so you know, if this doesn't get resolved, I'm going to file a complaint with the Consumer Financial Protection Bureau. This is exactly the kind of stuff they investigate.
+Agent: I understand you're upset. Let me get you to a supervisor right away.
+Caller: I've also been thinking about refinancing anyway, and this is just giving me another reason to take my business elsewhere. This is terrible customer service.

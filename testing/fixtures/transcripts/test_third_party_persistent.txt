@@ -1,0 +1,20 @@
+Agent: Good afternoon, ABC Mortgage, this is Sarah, how can I help you?
+Caller: Hi there, yes, I'm calling about my wife's mortgage account. Her name is Patricia Martinez and the account number is 345678.
+Agent: Okay, and what's your name, sir?
+Caller: I'm Robert Martinez. I'm her husband. We've been married for 32 years.
+Agent: I see. And what did you need help with today Mr. Martinez?
+Caller: Well, Patricia asked me to call because she's dealing with some health issues right now and she's not really up to making phone calls. She wanted me to check on the escrow balance because we got some notice in the mail about it.
+Agent: I understand, but for security purposes I can only discuss account information with the account holder or authorized parties listed on the account.
+Caller: But I'm her husband. I pay the bills. I mean, the money comes from our joint checking account.
+Agent: I completely understand, but unfortunately we have privacy regulations we have to follow. Is your name listed as an authorized user on this account?
+Caller: I don't think so? I mean, I don't know. We opened this mortgage in 1998, so I don't even remember what we signed back then. This seems a little excessive, don't you think?
+Agent: I know it can be frustrating, but these are important protections. What I can do is explain the process for getting added as an authorized user.
+Caller: How long does that take? Because Patricia really needs this information today. She's worried about this escrow thing and it's stressing her out, which is not good for her condition right now.
+Agent: The fastest way would be for Mrs. Martinez to call us directly and add you to the account while on the phone. That can be done in just a few minutes.
+Caller: She's sleeping right now. She takes medication that makes her drowsy. Can't you just make an exception? I can verify all her information - social security number, birth date, whatever you need.
+Agent: I appreciate the situation, but I'm not able to make that exception. Alternatively, she could sign a power of attorney document and fax it to us.
+Caller: A power of attorney? That sounds really complicated. We don't have a lawyer or anything.
+Agent: There are simple forms available online, or you could visit one of our branch locations.
+Caller: This is ridiculous. I'm just trying to help my wife. All I want to know is about the escrow account. Can you at least tell me what the notice was about in general terms without giving me specific account details?
+Agent: I can tell you that escrow notices typically relate to either a shortage, surplus, or analysis results, but I can't discuss the specifics of this account without authorization.
+Caller: Fine. I'll have Patricia call when she wakes up. But this is really inconvenient, I hope you know that.

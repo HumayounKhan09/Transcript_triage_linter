@@ -1,0 +1,28 @@
+Agent: Good morning, thank you for calling, this is Derek, how can I assist you?
+Caller: Hi Derek, I need to talk about my account and some payments. My account number is 112233.
+Agent: Sure thing, let me pull that up. Okay, I have your account. What did you need to discuss?
+Caller: So first of all, what's my current balance? I'm looking at this statement from last month and I want to make sure it's still accurate.
+Agent: Your principal balance is $850,000 and your total amount due including this month's payment is $5,825.
+Caller: Okay, and that $5,825 includes my regular monthly payment of $5,200?
+Agent: Correct, plus there's a late fee from last month of $175, and some interest that accrued.
+Caller: Right, about that late fee. I know I was late last month. I had a business trip that ran longer than expected and I just completely forgot to pay before I left. That one's on me. But $175 seems really high for a late fee.
+Agent: Our late fee is calculated as 5% of the payment amount, so on a $5,200 payment, that comes to $260, but we cap it at $175.
+Caller: Oh, so I'm actually getting a break compared to the percentage? I guess that's something. Still hurts though.
+Agent: I understand. Are you wanting to make a payment today?
+Caller: Yes, but I need to figure out how much. I can't do the full $5,825 today. I'm expecting a commission check next week that will cover everything, but right now I can do maybe $5,000. Would that work?
+Agent: You can make a partial payment, yes. The system will apply it to the oldest charges first, so it would cover the late fee and most of your current monthly payment.
+Caller: And then I wouldn't get hit with another late fee if I pay the remaining $825 next week?
+Agent: As long as the remaining amount is paid before the end of the month, you should be fine.
+Caller: Okay good. Let me also ask you about something else while I have you on the phone. I got an email about mortgage insurance. I think it said my home has appreciated enough that I might not need PMI anymore? Is that true?
+Agent: Let me check... Yes, I see you have private mortgage insurance. You're paying $145 per month for that. Once you reach 20% equity in the home, you can potentially request to have that removed.
+Caller: And how do I know if I've reached 20% equity?
+Agent: Your original loan was for $950,000 on a home purchased for $1,000,000. You've paid it down to $850,000, so you have about 15% equity based on the original value. However, if your home has appreciated in value, you might actually have more equity than that.
+Caller: We did some major renovations last year - new kitchen, updated bathrooms, finished the basement. I bet the home is worth more now.
+Agent: You'd need to get an appraisal to prove the current value. If the appraisal shows you have 20% equity, we can remove the PMI.
+Caller: And how much does an appraisal cost?
+Agent: Usually between $400 and $600. But if it results in removing your $145 monthly PMI payment, it pays for itself in about four months.
+Caller: That's a good point. Who do I contact to set that up?
+Agent: I can send you information about our approved appraisal companies, or you can call our PMI department directly.
+Caller: Okay, send me that information. So back to today's payment - I want to pay $5,000. Can I do that over the phone with my checking account?
+Agent: Absolutely. There is a $5 convenience fee for phone payments.
+Caller: Of course there is. That's fine. Let me get my account information.

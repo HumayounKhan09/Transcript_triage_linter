@@ -1,0 +1,17 @@
+Agent: Thank you for calling mortgage servicing, this is David speaking, how may I assist you?
+Caller: Yeah, hi, um, this is kind of a complicated situation. My account number is 234567 and I'm calling because, well, I want to make my payment but I also need to talk about my situation because things have gotten really difficult lately.
+Agent: I'm sorry to hear that. Let me pull up your account. Okay, I have it here. What's going on?
+Caller: So, okay, here's the thing. I got laid off from my job about six weeks ago. Well, technically it was a restructuring, they called it, but basically I don't have a job anymore. And I've been applying everywhere but you know how the market is right now, it's really tough.
+Agent: I understand, that must be very stressful.
+Caller: Yeah, it's been really hard. My wife is still working but her salary alone isn't enough to cover everything. We have two kids, you know, and daycare costs and everything. So anyway, I looked at our savings and I can make a payment today, but I don't think I can keep up with the full payment every month right now. My mortgage is like $2,800 a month and that's just, it's too much with my wife's income alone.
+Agent: I see. How much are you able to pay today?
+Caller: I was thinking maybe $1,200? That's about what I can swing without completely draining our emergency fund. But here's my question - I've heard about loan modifications and forbearance and all that stuff. I don't really know what the difference is or what I should do. My neighbor went through something similar and she said I should call you guys right away.
+Agent: That's good advice. Let me explain your options. We do have hardship programs available.
+Caller: Okay, because I really don't want to lose the house. We've been here for eight years and the kids are in a good school district and everything. I just need like, I don't know, maybe six months to find a new job? Or maybe I need to restructure the whole loan, I have no idea.
+Agent: I understand. Let me ask you a few questions. Have you missed any payments yet?
+Caller: No, I've kept up so far by using savings, but I can see that's not sustainable. That's why I'm calling now before I actually miss one. I figured it's better to be proactive, right?
+Agent: Absolutely, that's the right approach. Let me transfer you to our loss mitigation department. They can review your situation and discuss forbearance options or possibly a loan modification.
+Caller: Okay, and should I still make that $1,200 payment today or should I wait?
+Agent: I'd recommend making whatever payment you can today, and then our loss mitigation team can set up a plan going forward.
+Caller: Alright, yeah, let's do that. And how long will this process take? Like if I need forbearance, can I get that approved today or does it take weeks?
+Agent: The loss mitigation team will be able to give you a timeline. Let me get you transferred.

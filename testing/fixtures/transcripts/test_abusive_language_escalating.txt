@@ -1,0 +1,25 @@
+Agent: Thank you for calling, this is Amanda, how can I help you?
+Caller: Oh great, another person. Do any of you people know what you're doing over there?
+Agent: I'm sorry, did you have a previous call about an issue? How can I assist you today?
+Caller: My account is 789012 and I'm calling about my escrow account AGAIN. This is the third time I've called about this.
+Agent: I apologize that you've had to call multiple times. Let me pull up your account and see what's going on with your escrow.
+Caller: What's going on is that you idiots can't get my escrow calculation right. It's been wrong for four months now. Four months! How hard is basic math?
+Agent: I understand you're frustrated. Let me review your escrow account history.
+Caller: I've been going round and round with your company since June. First they said my property taxes went up, then they said my insurance went up, then they said it was both. Nobody can give me a straight answer. You people are completely incompetent.
+Agent: I see there was an escrow analysis completed in June that showed a shortage. Let me look at the details.
+Caller: A shortage that doesn't exist! I paid my property taxes directly in January. I have the receipt. But you still collected money for property taxes through escrow. So you double-charged me!
+Agent: I see. If you paid the property taxes directly, we would need documentation of that to adjust the escrow account.
+Caller: I've faxed that documentation three times! THREE TIMES! What do you do with the faxes, use them as toilet paper?
+Agent: Sir, I understand you're upset, but I need you to speak respectfully so I can help you.
+Caller: Respectfully? You want me to be respectful? You've been stealing my money for four months and you want me to be respectful?
+Agent: I'm here to resolve this issue, but I can't continue the call if you're going to be verbally abusive.
+Caller: Oh, I'm being abusive? That's rich. You people are the ones committing fraud and I'm the problem?
+Agent: Let me look for the documentation you mentioned. Can you hold for a moment?
+Caller: I've been holding for months! What's a few more minutes? Sure, put me on hold again. That's all you people are good at.
+[hold]
+Agent: Thank you for holding. I was able to locate two faxes in our system from July and August, but I'm not seeing one from June.
+Caller: So you admit you received them and did nothing? That's even worse! This is negligence. This is theft. I should report you to the attorney general.
+Agent: I'm going to forward this to our escrow department so they can review the documentation and adjust your account.
+Caller: No! I'm not going through another department. I'm not playing this game anymore. Fix it right now or transfer me to your supervisor.
+Agent: I don't have the authority to make escrow adjustments directly, but I can get you to a supervisor who can escalate this.
+Caller: Useless. Absolutely useless. Fine, transfer me. And tell your supervisor I'm also switching mortgage companies as soon as I can. I'm done with this garbage company.

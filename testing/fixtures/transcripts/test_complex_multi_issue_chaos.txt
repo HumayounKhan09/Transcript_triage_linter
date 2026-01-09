@@ -1,0 +1,47 @@
+Agent: Thank you for calling ABC Mortgage, this is Nicole, how may I help you?
+Caller: Hi Nicole, oh boy, where do I even start. This is complicated. My account is 223344.
+Agent: Okay, I have your account up. What's going on?
+Caller: So, I'm behind on my payments. I lost my job about two and a half months ago and I've been scrambling ever since. I'm a graphic designer - well, I was a graphic designer - and my company downsized and I was one of the people let go.
+Agent: I'm sorry to hear that.
+Caller: Yeah, it's been rough. The severance helped for a bit but that's almost gone now. I've been freelancing, trying to pick up clients, but it's not consistent income. Anyway, I called a couple months ago when I first lost my job and talked to someone about options, but honestly I was in such a panic that day I don't even remember what they told me.
+Agent: Let me check your account notes... I see there was a call on July 18th where hardship options were discussed.
+Caller: Okay, yeah, that must have been it. Did I apply for anything?
+Agent: It doesn't look like a formal application was submitted. The notes say information was provided but no application was completed.
+Caller: I probably was supposed to send in paperwork or something and I dropped the ball. Things have been so chaotic. So where do I stand now? How far behind am I?
+Agent: You're currently two months past due. Your total amount owed is $8,900, which includes two months of payments at $4,200 each, plus late fees.
+Caller: $8,900. Okay. That's actually not as bad as I feared. I thought there might be more fees or something.
+Agent: There are late fees included in that amount - $250 total.
+Caller: Wait, hold on. $250 in late fees seems really high. Can you break that down for me?
+Agent: It's $125 per month for each missed payment.
+Caller: $125 each? That seems excessive. When I called before, someone told me the late fee was 5% of the payment amount, which would be like $210, not $250.
+Agent: The late fee is 5% or $125, whichever is greater.
+Caller: Whichever is greater? That wasn't explained to me before. So I'm being charged a higher fee than what the percentage would be?
+Agent: Correct, that's what the mortgage agreement specifies.
+Caller: I don't remember signing anything that said that, but okay, whatever. That's not even my biggest problem right now. My bigger issue is that I don't think I can catch up on this while also making current payments. I'm making maybe $2,000 a month from freelancing and my mortgage is $4,200. The math doesn't work.
+Agent: I understand. Have you considered forbearance or a loan modification?
+Caller: That's what I wanted to talk about. What's the difference? Everyone keeps using these terms and I don't fully understand what they mean.
+Agent: Forbearance is a temporary pause or reduction in payments, usually for 3-6 months, while you get back on your feet. A loan modification actually changes the terms of your loan - might lower your interest rate, extend the term, or reduce the payment permanently.
+Caller: Okay, so forbearance is short-term and modification is long-term. Which one makes more sense for me?
+Agent: That depends on your situation. If you think you'll have full income again in a few months, forbearance might work. If you need a permanent payment reduction, modification would be better.
+Caller: Honestly, I don't know. I'm applying for full-time jobs but the market is tough. I might be freelancing for a while. Or I might get a job offer next week. I have no idea.
+Agent: Let me ask you this - have you spoken with an attorney about your options? Given your situation, some people consider bankruptcy.
+Caller: Bankruptcy? No, I haven't talked to a lawyer. Is that something I should do? I don't even know any lawyers. And wouldn't that ruin my credit forever?
+Agent: I can't give legal advice, but bankruptcy is one option people in financial hardship sometimes explore. It would be a conversation to have with an attorney who specializes in that.
+Caller: That sounds scary. And expensive. I don't have money for a lawyer.
+Agent: There are often free legal aid services available. But let's focus on what we can help with directly. I can send you information about both forbearance and loan modification applications.
+Caller: Okay, yes, send me that. How long does it take to get approved for either of those?
+Agent: It varies. Forbearance can be quicker - sometimes within a week or two. Modifications typically take 30-60 days because there's more documentation and review involved.
+Caller: What kind of documentation?
+Agent: Tax returns, pay stubs or proof of current income, bank statements, a hardship letter explaining your situation.
+Caller: I don't have pay stubs because I'm self-employed now. Would invoices work?
+Agent: Yes, invoices and bank statements showing deposits would work.
+Caller: And what happens while I'm waiting for a decision? Do I keep getting late fees?
+Agent: If you submit a complete application, we typically put a hold on late fees while the application is being reviewed.
+Caller: Okay, that's good at least. One more thing - I saw something on your website about disputing charges. Can I dispute these late fees?
+Agent: You can submit a dispute, yes, but I should tell you that the fees were charged according to the terms of your mortgage agreement.
+Caller: So probably not worth disputing?
+Agent: I can't tell you whether to dispute or not, but you do have that right if you believe a charge is in error.
+Caller: No, if it's in the agreement, then I guess it's valid. I just wish someone had explained all these fees more clearly when I first got the mortgage. I feel like I'm being nickel and dimed when I'm already struggling.
+Agent: I understand your frustration. Let me get you transferred to our loss mitigation department. They can start the application process with you today if you have time.
+Caller: Yes, please. I need to figure this out. I can't lose this house. My kids go to school in this neighborhood and I don't want to uproot them on top of everything else.
+Agent: Let me get you transferred right now. Please hold.
