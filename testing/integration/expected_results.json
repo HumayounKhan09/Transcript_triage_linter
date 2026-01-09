@@ -1,0 +1,148 @@
+{
+  "transcripts": [
+    {
+      "filename": "test_abusive_language_escalating.txt",
+      "intent": "ESCROW_QUESTION",
+      "escalate": true,
+      "risk_level": "HIGH",
+      "reason_codes": ["LEGAL_THREAT", "SUPERVISOR_REQUEST", "ABUSIVE_LANGUAGE", "ESCROW_QUESTION"],
+      "summary_bullet_count": 2,
+      "has_amounts": false,
+      "has_loan_numbers": false
+    },
+    {
+      "filename": "test_bankruptcy_confused_caller.txt",
+      "intent": "BANKRUPTCY_OR_LAWYER",
+      "escalate": true,
+      "risk_level": "HIGH",
+      "reason_codes": ["HARDSHIP_LANGUAGE", "BANKRUPTCY_OR_LAWYER", "ESCROW_QUESTION"],
+      "summary_bullet_count": 3,
+      "has_amounts": true,
+      "has_loan_numbers": false
+    },
+    {
+      "filename": "test_complex_multi_issue_chaos.txt",
+      "intent": "LOAN_MOD_REQUEST",
+      "escalate": true,
+      "risk_level": "HIGH",
+      "reason_codes": ["HARDSHIP_LANGUAGE", "LOAN_MOD_REQUEST", "BANKRUPTCY_OR_LAWYER", "PAYMENT_INTENT"],
+      "summary_bullet_count": 3,
+      "has_amounts": true,
+      "has_loan_numbers": false
+    },
+    {
+      "filename": "test_dispute_escalates_slowly.txt",
+      "intent": "SUPERVISOR_REQUEST",
+      "escalate": true,
+      "risk_level": "MEDIUM",
+      "reason_codes": ["SUPERVISOR_REQUEST"],
+      "summary_bullet_count": 3,
+      "has_amounts": true,
+      "has_loan_numbers": true
+    },
+    {
+      "filename": "test_escrow_confused_customer.txt",
+      "intent": "ESCROW_QUESTION",
+      "escalate": false,
+      "risk_level": "LOW",
+      "reason_codes": ["ESCROW_QUESTION"],
+      "summary_bullet_count": 2,
+      "has_amounts": true,
+      "has_loan_numbers": true
+    },
+    {
+      "filename": "test_legal_threat_angry_escalation.txt",
+      "intent": "LEGAL_THREAT",
+      "escalate": true,
+      "risk_level": "HIGH",
+      "reason_codes": ["BANKRUPTCY_OR_LAWYER", "LEGAL_THREAT"],
+      "summary_bullet_count": 2,
+      "has_amounts": false,
+      "has_loan_numbers": false
+    },
+    {
+      "filename": "test_new_loan_inquiry_detailed.txt",
+      "intent": "NEW_LOAN_INQUIRY",
+      "escalate": false,
+      "risk_level": "LOW",
+      "reason_codes": ["PAYMENT_INTENT", "ESCROW_QUESTION", "NEW_LOAN_INQUIRY"],
+      "summary_bullet_count": 2,
+      "has_amounts": true,
+      "has_loan_numbers": false
+    },
+    {
+      "filename": "test_payment_and_hardship_messy.txt",
+      "intent": "LOAN_MOD_REQUEST",
+      "escalate": true,
+      "risk_level": "HIGH",
+      "reason_codes": ["HARDSHIP_LANGUAGE", "LOAN_MOD_REQUEST", "PAYMENT_INTENT"],
+      "summary_bullet_count": 3,
+      "has_amounts": true,
+      "has_loan_numbers": true
+    },
+    {
+      "filename": "test_payment_multiple_amounts.txt",
+      "intent": "PAYMENT_INTENT",
+      "escalate": false,
+      "risk_level": "LOW",
+      "reason_codes": ["PAYMENT_INTENT", "ESCROW_QUESTION"],
+      "summary_bullet_count": 2,
+      "has_amounts": true,
+      "has_loan_numbers": true
+    },
+    {
+      "filename": "test_payment_simple_rambling.txt",
+      "intent": "PAYMENT_INTENT",
+      "escalate": false,
+      "risk_level": "LOW",
+      "reason_codes": ["PAYMENT_INTENT"],
+      "summary_bullet_count": 2,
+      "has_amounts": true,
+      "has_loan_numbers": false
+    },
+    {
+      "filename": "test_third_party_attempts_payment.txt",
+      "intent": "ABUSIVE_LANGUAGE",
+      "escalate": true,
+      "risk_level": "HIGH",
+      "reason_codes": ["ABUSIVE_LANGUAGE", "PAYMENT_INTENT", "ESCROW_QUESTION"],
+      "summary_bullet_count": 3,
+      "has_amounts": true,
+      "has_loan_numbers": true
+    },
+    {
+      "filename": "test_third_party_persistent.txt",
+      "intent": "ABUSIVE_LANGUAGE",
+      "escalate": true,
+      "risk_level": "HIGH",
+      "reason_codes": ["BANKRUPTCY_OR_LAWYER", "ABUSIVE_LANGUAGE", "THIRD_PARTY_CALLER", "ESCROW_QUESTION"],
+      "summary_bullet_count": 2,
+      "has_amounts": false,
+      "has_loan_numbers": true
+    }
+  ],
+  "batch_metrics": {
+    "total_transcripts": 12,
+    "escalation_rate": 66.67,
+    "escalated_count": 8,
+    "non_escalated_count": 4,
+    "high_risk_count": 7,
+    "medium_risk_count": 1,
+    "low_risk_count": 4,
+    "top_reason_code": "ESCROW_QUESTION",
+    "top_reason_code_count": 7,
+    "reason_code_counts": {
+      "LEGAL_THREAT": 2,
+      "SUPERVISOR_REQUEST": 2,
+      "ABUSIVE_LANGUAGE": 3,
+      "ESCROW_QUESTION": 7,
+      "HARDSHIP_LANGUAGE": 3,
+      "BANKRUPTCY_OR_LAWYER": 4,
+      "LOAN_MOD_REQUEST": 2,
+      "PAYMENT_INTENT": 6,
+      "NEW_LOAN_INQUIRY": 1,
+      "THIRD_PARTY_CALLER": 1
+    },
+    "common_patterns_count": 2
+  }
+}

@@ -29,12 +29,11 @@ class intentClassifier:
         max_code = "NONE"
 
         for rc in reasonCodes:
-            if rc.get_code() == "HARDSHIP":
+            if rc.get_code() == "HARDSHIP_LANGUAGE":
                 hard = rc.get_score()
                 if hard > max:
                     max = hard
-                    max_code = "HARDSHIP"
-
+                    max_code = "HARDSHIP_LANGUAGE"
             elif rc.get_code() == "LOAN_MOD_REQUEST":
                 loanMod = rc.get_score()
                 if loanMod > max:
@@ -53,12 +52,11 @@ class intentClassifier:
                     max = legal
                     max_code = "LEGAL_THREAT"
 
-            elif rc.get_code() == "DISPUTE_FEE":
+            elif rc.get_code() == "DISPUTE_FEE_OR_CHARGE":
                 dispFee = rc.get_score()
                 if dispFee > max:
                     max = dispFee
-                    max_code = "DISPUTE_FEE"
-
+                    max_code = "DISPUTE_FEE_OR_CHARGE"
             elif rc.get_code() == "SUPERVISOR_REQUEST":
                 superv = rc.get_score()
                 if superv > max:

@@ -169,6 +169,6 @@ class entityExtractor:
             amounts=self.extract_amounts(text),
             dates=self.extract_dates(text),
             phones=self.extract_phones(text),
-            loan_numbers=self.extract_loan_numbers(text
-        ))
+            loan_numbers=self.extract_loan_numbers(text),
+        )
         return extEntities

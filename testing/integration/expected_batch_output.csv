@@ -1,0 +1,8 @@
+SUMMARY METRICS
+Total Transcripts,12
+Escalation Rate,66.7%
+Top Intent,ESCROW_QUESTION (2)
+Top Reason Code,ESCROW_QUESTION (7)
+Common Patterns,third party + escalation (1 occurrences); abusive without supervisor escalation (2 occurrences)
+
+filename,intent,escalate,risk_level,reason_codes,summary
