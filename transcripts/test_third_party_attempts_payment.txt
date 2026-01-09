@@ -1,0 +1,42 @@
+Agent: Mortgage servicing, this is Brian speaking, how can I help you today?
+Caller: Hi Brian, I'm calling to make a payment on behalf of my mother. Her name is Dorothy Chen and the account number is 334455.
+Agent: Okay, and what's your name?
+Caller: I'm David Chen, her son.
+Agent: Hi David. What brings you in to make a payment for your mother today?
+Caller: She's elderly - she's 82 - and she's not comfortable doing phone stuff or computers. She's old school, she likes to mail checks, but her check for this month got lost in the mail or something. It never arrived. So she asked me to call and pay over the phone so it doesn't get recorded as late.
+Agent: I see. Is your name listed as an authorized user on the account?
+Caller: I don't think so? I'm not sure. She opened this mortgage like 30 years ago. It's paid way down, she only owes like $60,000 left on it.
+Agent: For security purposes, I can only accept payment authorization from the account holder or someone listed as authorized on the account.
+Caller: She's right here with me. She's sitting right next to me. Can't she just tell you it's okay?
+Agent: That would help. Can I speak with her?
+Caller: Sure, hold on. [muffled talking] Mom, he needs to talk to you. Mom, you need to take the phone. [pause] She doesn't want to talk to you. She says she doesn't hear well on the phone and she wants me to handle it. She already wrote me a check from her account, I have it right here.
+Agent: I understand, but I need to verify authorization with her directly.
+Caller: She's right here! I'm her son! We live together! I take care of all her bills - her utilities, her insurance, everything. I just need to pay her $3,200 mortgage payment.
+Agent: I appreciate the situation, but our policy requires that the account holder provide authorization directly for any payments or account changes.
+Caller: This is ridiculous. She's an 82-year-old woman who can barely hear. You're saying she has to get on the phone and struggle through a conversation just to pay her bill? That doesn't make any sense.
+Agent: I understand it's frustrating, but these are important security measures to protect customers.
+Caller: Protect them from what? From their own children helping them?
+Agent: Unfortunately, we do occasionally see situations where someone claims to be family but isn't, or where there are disputes about finances. The policy protects all customers.
+Caller: Okay, look, I get that you have rules. But what's the solution here? She needs to make this payment.
+Agent: She could make the payment herself by phone if she's willing to speak with me. Or she could make a payment online through our website. Or she could visit a branch location in person.
+Caller: She doesn't do computers. And we don't live near a branch. The closest one is like 40 miles away and she doesn't drive anymore.
+Agent: Another option would be to add you as an authorized user on the account. She could do that either by calling us, visiting a branch, or submitting a notarized authorization form.
+Caller: A notarized form? We'd have to go to a notary? Where would we even find a notary?
+Agent: Many banks offer notary services, or UPS stores often have notaries available.
+Caller: This is so much hassle just to pay a bill. Look, she sent a check that got lost. That's not her fault. Now you're saying she's going to get hit with a late fee because of your security policies?
+Agent: I understand the situation is frustrating. When was the check mailed?
+Caller: Last week. Thursday. The 7th.
+Agent: And when is the payment due?
+Caller: Tomorrow. The 15th.
+Agent: If she mails another check today with overnight delivery, it should arrive in time.
+Caller: Overnight delivery costs like $25! You want her to spend $25 to avoid a late fee that's probably $30?
+Agent: I understand it's not ideal.
+Caller: This is absurd. What if I just give you my mother's Social Security number and date of birth and answer all the security questions? Would that work?
+Agent: I'd still need to speak with her directly to verify that she's authorizing this payment.
+Caller: Let me try one more time. Mom! Mom, you need to talk to the man. Just say yes, that's all you have to say. [pause] She says her hearing aids aren't working right today. This is impossible.
+Agent: I'm sorry I can't be more flexible on this. Our hands are really tied by the security policies.
+Caller: So basically we have to overnight a check for $25 or drive 40 miles to a branch or find a notary and fill out forms just to pay her mortgage? Those are the only options?
+Agent: If you can get her added as an authorized user, this won't be an issue going forward. That's probably worth doing regardless.
+Caller: Fine. I'll figure something out. This is terrible customer service, I hope you know that.
+Agent: I apologize for the inconvenience. Is there anything else I can help you with today?
+Caller: No. You've been very unhelpful. Thank you for nothing.

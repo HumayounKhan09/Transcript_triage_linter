@@ -5,8 +5,15 @@ Description: Command Line Interface
 
 import argparse
 import os
+import sys
 import glob
 import json
+
+# Ensure package imports work when running `python cli.py` from inside `engines/`.
+ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
+if ROOT_DIR not in sys.path:
+    sys.path.insert(0, ROOT_DIR)
+
 from engines.batchReporter import batchReporter
 from engines.triageResult import TriagePipeline
 
@@ -177,11 +184,13 @@ class CLI:
         print(f"Top intents: {top_intents}")
     
     def wait_for_exit(self):
-        """Wait for user to press Enter before exiting"""
-        input("\nPress Enter to exit...")
+        """No-op pause for CLI completion (kept for compatibility)."""
+        return
     
     def main(self):
         try:
+            # Normalize CWD to repo root so relative paths (transcripts/, results/) work.
+            os.chdir(ROOT_DIR)
             # Parse arguments
             args = self.parse_args()
             

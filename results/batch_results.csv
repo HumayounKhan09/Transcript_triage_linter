@@ -1,0 +1,20 @@
+SUMMARY METRICS
+Total Transcripts,12
+Escalation Rate,66.7%
+Top Intent,ESCROW_QUESTION (2)
+Top Reason Code,ESCROW_QUESTION (7)
+Common Patterns,third party + escalation (1 occurrences); abusive without supervisor escalation (2 occurrences)
+
+filename,intent,escalate,risk_level,reason_codes,summary
+transcript_001.txt,ESCROW_QUESTION,True,HIGH,LEGAL_THREAT|SUPERVISOR_REQUEST|ABUSIVE_LANGUAGE|ESCROW_QUESTION,General inquiry about account. | Call escalated due to: legal action threatened, supervisor requested, abusive language used.
+transcript_002.txt,NEW_LOAN_INQUIRY,False,LOW,PAYMENT_INTENT|ESCROW_QUESTION|NEW_LOAN_INQUIRY,General inquiry about account. | Borrower discussed multiple amounts: $425,000.00, $2,500.00, $3,500.00, $2,850.00, $350.00, $10,000.00, $20,000.00, $550,000.00, $450,000.00, $25,000.00, $15,000.00.
+transcript_003.txt,LOAN_MOD_REQUEST,True,HIGH,HARDSHIP_LANGUAGE|LOAN_MOD_REQUEST|PAYMENT_INTENT,General inquiry about account. | Borrower discussed multiple amounts: $2,800.00, $1,200.00. | Call escalated due to: financial hardship mentioned, loan modification requested.
+transcript_004.txt,PAYMENT_INTENT,False,LOW,PAYMENT_INTENT|ESCROW_QUESTION,General inquiry about account. | Borrower discussed multiple amounts: $850,000.00, $5,825.00, $5,200.00, $175.00, $260.00, $5,000.00, $825.00, $145.00, $950,000.00, $1,000,000.00, $400.00, $600.00, $5.00.
+transcript_005.txt,PAYMENT_INTENT,False,LOW,PAYMENT_INTENT,General inquiry about account. | Borrower discussed multiple amounts: $2,450.00, $10.00, $5.00.
+transcript_006.txt,LEGAL_THREAT,True,HIGH,BANKRUPTCY_OR_LAWYER|LEGAL_THREAT,General inquiry about account. | Call escalated due to: bankruptcy or legal counsel referenced, legal action threatened.
+transcript_007.txt,BANKRUPTCY_OR_LAWYER,True,HIGH,HARDSHIP_LANGUAGE|BANKRUPTCY_OR_LAWYER|ESCROW_QUESTION,General inquiry about account. | Borrower mentioned payment amount of $40,000.00. | Call escalated due to: financial hardship mentioned, bankruptcy or legal counsel referenced.
+transcript_008.txt,ESCROW_QUESTION,False,LOW,ESCROW_QUESTION,General inquiry about account. | Borrower discussed multiple amounts: $400.00, $1,200.00, $1,600.00, $600.00, $433.00, $516.00, $83.00.
+transcript_009.txt,ABUSIVE_LANGUAGE,True,HIGH,ABUSIVE_LANGUAGE|PAYMENT_INTENT|ESCROW_QUESTION,General inquiry about account. | Borrower discussed multiple amounts: $60,000.00, $3,200.00, $25.00, $30.00. | Call escalated due to: abusive language used.
+transcript_010.txt,ABUSIVE_LANGUAGE,True,HIGH,BANKRUPTCY_OR_LAWYER|ABUSIVE_LANGUAGE|THIRD_PARTY_CALLER|ESCROW_QUESTION,General inquiry about account. | Call escalated due to: bankruptcy or legal counsel referenced, abusive language used, third party caller (unauthorized).
+transcript_011.txt,SUPERVISOR_REQUEST,True,MEDIUM,SUPERVISOR_REQUEST,General inquiry about account. | Borrower mentioned payment amount of $150.00. | Call escalated due to: supervisor requested.
+transcript_012.txt,LOAN_MOD_REQUEST,True,HIGH,HARDSHIP_LANGUAGE|LOAN_MOD_REQUEST|BANKRUPTCY_OR_LAWYER|PAYMENT_INTENT,General inquiry about account. | Borrower discussed multiple amounts: $8,900.00, $4,200.00, $250.00, $125.00, $210.00, $2,000.00. | Call escalated due to: financial hardship mentioned, loan modification requested, bankruptcy or legal counsel referenced.

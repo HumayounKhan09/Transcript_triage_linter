@@ -42,7 +42,9 @@ class TriagePipeline:
         # Classify intent
         intents = self.intent.classify(reason_codes)
         # Determine escalation
-        escalations, risk_level = self.escalate.evaluate_escalation(reason_codes)
+        escalation_result = self.escalate.evaluate_escalation(reason_codes)
+        escalations = escalation_result["escalation_needed"]
+        risk_level = escalation_result["risk_level"]
 
         # Generate summary
         summary = self.summary.generate_bullets(intents, entity, reason_codes)

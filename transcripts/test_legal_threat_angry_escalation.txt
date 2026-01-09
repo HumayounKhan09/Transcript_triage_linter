@@ -1,0 +1,22 @@
+Agent: Good morning, ABC Mortgage, this is Jessica, how can I help you today?
+Caller: Finally! Do you know how long I've been on hold? Twenty-three minutes! Twenty-three minutes of listening to that awful music!
+Agent: I apologize for the wait time. How can I assist you?
+Caller: My account is 678901 and I am calling about these absolutely ridiculous charges on my account. This has been going on for three months now and nobody seems to be able to fix it.
+Agent: I'm sorry you've been experiencing issues. Let me pull up your account and see what's going on.
+Caller: What's going on is that I've been charged late fees every single month even though I pay on time. Every. Single. Month. I have the bank records to prove it.
+Agent: Okay, let me look at your payment history. I see... it looks like the payments have been received on the 17th, 18th, and 16th for the last three months, and the due date is the 15th.
+Caller: That's because you guys keep cashing my checks late! I mail them on the 5th every month. The 5th! That's ten days early!
+Agent: I understand your frustration, but we can only go by the date we receive and process the payment, not when it's mailed.
+Caller: That is not my problem! I am doing my part. If your mail processing is slow, that's on you, not on me. This is affecting my credit score, did you know that? I checked my credit report and my score dropped 40 points because of these late payment reports.
+Agent: I'm very sorry to hear that. Let me see what options we have.
+Caller: Options? I don't want options. I want these fees removed and I want the late payment reports removed from my credit report. This is damaging my financial reputation over something that is not my fault.
+Agent: I'll need to review this with a supervisor to see what can be done.
+Caller: I've talked to supervisors before! I called two months ago about this same issue and nothing was done. I called again last month and was told someone would call me back and nobody ever did.
+Agent: I apologize that you haven't received proper follow-up. Let me make sure this gets escalated appropriately today.
+Caller: You know what? I'm done playing games with you people. If these fees are not reversed and if these credit report marks are not removed by the end of this week, I'm going to file a lawsuit. I've already spoken to a consumer rights attorney and he said I have a strong case.
+Agent: I understand you're very upset. Let me get my supervisor on the line right now.
+Caller: I'm also going to file a complaint with the Consumer Financial Protection Bureau and the Better Business Bureau. This is predatory lending behavior and it's probably happening to hundreds of other customers too.
+Agent: Please hold while I get a supervisor for you.
+Caller: And one more thing - I'm documenting all of this. I've kept copies of every check, every statement, every letter you've sent me. My attorney is going to have a field day with this if it's not resolved immediately.
+Agent: I'm transferring you now to my supervisor, please stay on the line.
+Caller: This better actually connect me to a supervisor and not just put me back on hold for another 20 minutes.
