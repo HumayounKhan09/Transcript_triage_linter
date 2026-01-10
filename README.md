@@ -212,4 +212,4 @@ MIT License
 
 ## Author
 
-Humayoun
+Humayoun Khan
