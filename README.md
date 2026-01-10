@@ -182,7 +182,7 @@ The following edge cases are documented with `@pytest.mark.xfail` tests:
     │         │
     ▼         ▼
 ┌────────┐ ┌──────────────┐
-│ruleEngine│ │entityExtractor│  → Match keywords, extract entities
+│ruleEngine| │entityExtractor│  → Match keywords, extract entities
 └────┬───┘ └──────┬───────┘
      │            │
      ▼            │
@@ -190,20 +190,20 @@ The following edge cases are documented with `@pytest.mark.xfail` tests:
 │intentClassifier││  → Determine primary intent
 └────────┬───────┘│
          │        │
-         ▼        │
-┌─────────────────┐
-│escalationEngine │  → Calculate risk level
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│summaryGenerator │  → Generate bullet points
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│  TriageResult   │  → Final output
-└─────────────────┘
+         ▼        ▼
+  ┌─────────────────┐
+  │escalationEngine │  → Calculate risk level
+  └────────┬────────┘
+           │
+           ▼
+ ┌─────────────────┐
+ │summaryGenerator │  → Generate bullet points
+ └────────┬────────┘
+          │
+          ▼
+ ┌─────────────────┐
+ │  TriageResult   │  → Final output
+ └─────────────────┘
 ```
 
 ## License
