@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+if command -v python >/dev/null 2>&1; then
+  PY=python
+elif command -v python3 >/dev/null 2>&1; then
+  PY=python3
+else
+  echo "pre-push: python not found; aborting push." >&2
+  exit 1
+fi
+
+echo "pre-push: running tests..."
+$PY -m pytest testing/ -v

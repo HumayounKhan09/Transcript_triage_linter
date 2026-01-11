@@ -147,6 +147,22 @@ python -m pytest testing/integration/ -v
 python -m pytest testing/ -v --runxfail
 ```
 
+### Pre-push Hook (Local)
+
+Run tests automatically before every `git push`:
+
+```bash
+git config core.hooksPath .githooks
+```
+
+This uses the repo hook at `.githooks/pre-push`. A failed test will block the push.
+
+To disable it later:
+
+```bash
+git config --unset core.hooksPath
+```
+
 ### Test Coverage
 
 | Category | Tests | Coverage |

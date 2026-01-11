@@ -29,7 +29,7 @@ class TestBasicBehavior:
 
     def test_none_text_raises_attribute_error(self):
         with pytest.raises(AttributeError):
-            run_rules(None)
+            run_rules(None) # type: ignore
 
     def test_empty_text_returns_empty_list(self):
         assert run_rules("") == []

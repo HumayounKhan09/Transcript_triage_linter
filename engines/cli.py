@@ -8,6 +8,7 @@ import os
 import sys
 import glob
 import json
+import time
 
 # Ensure package imports work when running `python cli.py` from inside `engines/`.
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
@@ -83,6 +84,7 @@ class CLI:
             with open(output_path, "w") as f:
                 f.write(csv_string)
         self.print_summary(detail)
+        return detail
     
     def run_batch_mode(self, format):
         """Process all transcripts in batch"""
@@ -108,14 +110,16 @@ class CLI:
             with open(output_path, "w") as f:
                 f.write(csv_string)
         self.print_batch_stats(batch_results)
+        return batch_results
     
     def run_single_mode_safe(self, file_path, format):
         """Run single mode with error handling"""
         try:
-            self.run_single_mode(file_path, format)
+            return self.run_single_mode(file_path, format)
         except Exception as e:
             print(f"✗ Error processing {file_path}: {e}")
             print("Check that the transcript file is properly formatted.")
+            return None
     
     def run_batch_mode_safe(self, format):
         """Run batch mode with error handling"""
@@ -124,12 +128,13 @@ class CLI:
             if not files:
                 print("✗ No transcript files found in transcripts/ directory")
                 print("Add .txt files to transcripts/ and try again")
-                return
+                return None
             
-            self.run_batch_mode(format)
+            return self.run_batch_mode(format)
         except Exception as e:
             print(f"✗ Error during batch processing: {e}")
             print("Some files may have been processed successfully.")
+            return None
     
     def save_json(self, result, filename):
         """Save TriageResult as JSON file"""
@@ -182,6 +187,12 @@ class CLI:
         print(f"Total processed: {total}")
         print(f"Escalation rate: {esc_rate:.1f}%")
         print(f"Top intents: {top_intents}")
+
+    def format_duration(self, elapsed_seconds):
+        """Format duration in ms or s depending on length."""
+        if elapsed_seconds < 1:
+            return f"{round(elapsed_seconds * 1000)} ms"
+        return f"{elapsed_seconds:.2f} s"
     
     def wait_for_exit(self):
         """No-op pause for CLI completion (kept for compatibility)."""
@@ -210,9 +221,21 @@ class CLI:
             
             # Route to correct mode with error handling
             if args.single:
-                self.run_single_mode_safe(args.single, args.format)
+                start = time.perf_counter()
+                result = self.run_single_mode_safe(args.single, args.format)
+                if result is not None:
+                    elapsed = time.perf_counter() - start
+                    duration = self.format_duration(elapsed)
+                    print(f"\nCompleted 1 transcript in {duration}.")
             elif args.batch:
-                self.run_batch_mode_safe(args.format)
+                start = time.perf_counter()
+                results = self.run_batch_mode_safe(args.format)
+                if results is not None:
+                    elapsed = time.perf_counter() - start
+                    duration = self.format_duration(elapsed)
+                    total = len(results)
+                    label = "transcript" if total == 1 else "transcripts"
+                    print(f"\nCompleted {total} {label} in {duration}.")
             
             # Success message
             print("\n✓ Process completed successfully!")
