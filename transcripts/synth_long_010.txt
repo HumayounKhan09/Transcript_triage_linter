@@ -1,0 +1,72 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Lisa, how can I assist you today?
+Caller: Hi, my name is Bernard Kostadinov, loan number 691438. I'm currently in an active Chapter 13 bankruptcy and I want to ask some questions about selling my home. I talked to my bankruptcy attorney but she said I also needed to talk to you.
+Agent: Hello Mr. Kostadinov. This is a complex area and I want to make sure I give you accurate information. Let me pull up your account first. Can you verify your date of birth and property address?
+Caller: November 3rd, 1968, and the address is 3817 Copperfield Way, Indianapolis, Indiana 46228.
+Agent: Thank you. I have your account. I can see the active Chapter 13 notation and a trustee contact on file. Before I say anything else, I want to let you know that because of your bankruptcy status, there are certain things I have to be careful about discussing — specifically anything that could be considered collection activity. I won't be asking you to pay anything or treating this as a collection call. This is purely informational. Is that understood?
+Caller: Yes, my attorney explained that. She said you might say that.
+Agent: Good. And do you want me to note that this call is informational only, initiated by you, and that your attorney is Carla Osei of Osei Legal Group?
+Caller: Yes, that's correct.
+Agent: Noted. Now, tell me what you're trying to figure out.
+Caller: Okay. So I filed Chapter 13 in February of last year. My plan was confirmed in May. The plan is a 60-month plan. I'm currently about 18 months into the plan. The plan includes catching up on my mortgage arrears — I had about $22,400 in arrears when I filed — and my trustee has been making those payments.
+Agent: I can confirm that. I see a trustee payment arrangement on the account and I can see a series of trustee disbursements. The arrears balance currently showing in our system — what remains to be paid through the plan — is approximately $10,800. So roughly half has been cured.
+Caller: Right, that's consistent with what my attorney told me. So here's the thing. My situation has changed significantly in the last six months. I got a significant promotion at work. My income went from about $68,000 to $94,000. And separately, my wife and I are planning to relocate to Cincinnati because her mother is ill and needs help. So we want to sell the Indianapolis house and buy something in Cincinnati.
+Agent: That's a significant life change. The short version is that selling a home while in an active Chapter 13 is possible but requires several steps. Let me walk through them because the process is more involved than a standard sale.
+Caller: That's what I was afraid of.
+Agent: First, and most importantly, you need court approval for any sale. Because the home is an asset in your bankruptcy estate, you cannot sell it without the bankruptcy court's authorization. Your attorney files what's called a Motion to Sell, and the trustee and creditors have an opportunity to object.
+Caller: My attorney mentioned that. She said the trustee usually doesn't object if the creditors are being paid in full. Is that right?
+Agent: Generally, yes. Trustees are primarily concerned with ensuring creditors are made whole. If your sale price is sufficient to pay off the mortgage in full — both the regular balance and the trustee-administered arrears — and if there are no other secured creditors with claims on the home, the trustee is typically supportive. Let me tell you what your payoff looks like from our side.
+Caller: Please.
+Agent: Your current outstanding principal balance is $188,400. Your regular monthly interest accrual at your rate of 5.1% is approximately $800 per month. The $10,800 in remaining plan arrears are also owed to us as part of the plan cure. So your approximate total payoff — and I'll need to generate a formal payoff statement for this to be exact — would be $188,400 principal plus the remaining plan arrears of approximately $10,800, minus any credits for recent trustee payments, plus per-diem interest.
+Caller: So roughly $199,000 to pay you off.
+Agent: Approximately. We can provide a formal payoff quote that shows the exact amount through a specific payoff date. That's called a payoff demand letter, and in a bankruptcy context it's typically requested by your attorney or the title company handling the sale. We're required to provide it within a reasonable time.
+Caller: Okay. How much is the house worth? Do you know?
+Agent: I don't have a current valuation in our system. What are you thinking?
+Caller: We had a realtor come through last week and she said it should list at about $265,000 and she expects it to sell quickly at that price or close to it.
+Agent: At $265,000 sale price, after paying off approximately $199,000 mortgage payoff and real estate commissions of typically 5 to 6% — let's say $15,900 — you'd net roughly $50,100 before any other closing costs. That's your approximate equity.
+Caller: Now here's my question. What happens to that $50,100? Does it go to the trustee? Does it go to my creditors? Can I keep any of it?
+Agent: Great question. In Chapter 13, the treatment of sale proceeds depends on several factors: the exemptions available under Indiana law, the nature of the remaining creditors in your plan, and whether the trustee believes the plan needs to be modified.
+Caller: Indiana has a homestead exemption. My attorney said $19,300 for a married couple.
+Agent: That's correct — Indiana's homestead exemption for married couples is $19,300 under IC 34-55-10-2. So of your approximately $50,100 in net equity, you could exempt $19,300. The remaining $30,800 in non-exempt equity would become property of the bankruptcy estate.
+Caller: Would the trustee take the $30,800?
+Agent: The trustee would likely require that the non-exempt equity be used to pay unsecured creditors. This may mean your plan needs to be modified — instead of the original 60-month plan, the trustee might propose accelerating payments to unsecured creditors using the sale proceeds, potentially ending the plan sooner.
+Caller: That sounds like a good thing — finishing the plan early.
+Agent: It could be. If the $30,800 in non-exempt proceeds is sufficient to pay off your remaining unsecured creditors under the plan, the plan might be completed much earlier than your remaining 42 months. However, that depends on how much unsecured debt is in your plan. Do you know approximately what you owe to unsecured creditors in the plan?
+Caller: My attorney said it's about $41,000 in total unsecured debt — credit cards and medical bills. I've paid into the plan for 18 months, so maybe $12,000 to $14,000 of that has been paid.
+Agent: So roughly $27,000 to $29,000 remaining in unsecured. If you apply $30,800 of sale proceeds to that, it would largely pay it off, which could allow the trustee to file a motion to complete the plan. You might be able to exit bankruptcy in months rather than years.
+Caller: That's actually exciting. I didn't realize that was possible.
+Agent: Your attorney should model this out for you. There are trustee fees and administrative claims that also need to be paid from the estate, so the math is a bit more complicated than I'm describing, but the general concept is right.
+Caller: Okay. Now here's the next piece. Can I buy a new home in Cincinnati while I'm still in Chapter 13?
+Agent: Yes, but with conditions. Incurring new debt while in Chapter 13 requires court approval. Buying a home typically involves taking on a new mortgage, which is new debt. You'd need to file a motion with the court to incur the new debt, and the trustee and creditors have the right to object.
+Caller: Would the court approve it?
+Agent: Courts generally look at whether the new debt is necessary and whether you can afford it. With your income increase to $94,000 and a relocation for a family medical necessity, those are factors that courts often view favorably. Your attorney would present those arguments.
+Caller: My attorney mentioned that we might need to get lender pre-approval and submit that to the court as part of the motion. Does that sound right?
+Agent: That's exactly right. A lender willing to extend credit to an active Chapter 13 debtor — sometimes called a bankruptcy-friendly lender — would issue a conditional approval or pre-approval letter that your attorney would attach to the motion. This demonstrates to the court that the debt is viable and that a lender has independently evaluated your ability to repay.
+Caller: Are there lenders who do mortgages to Chapter 13 debtors?
+Agent: There are. FHA guidelines allow borrowers in active Chapter 13 to obtain mortgages as long as the bankruptcy plan payments have been made on time for at least 12 months and you have trustee and court approval. You've been in the plan for 18 months, so you likely meet that time requirement, assuming your plan payments have been current.
+Caller: They have been. I haven't missed a plan payment.
+Agent: Then you may be eligible for FHA financing. I want to be clear that I'm not a mortgage lender — Meridian is your servicer, not your lender for a new purchase — but the FHA program is something you'd explore with a mortgage lender or your attorney.
+Caller: Let me also ask about something my attorney brought up. She said that when we sell, there could be tax implications from the discharge of the mortgage. Is that something I need to worry about?
+Agent: This is really a question for a tax professional, and I want to be careful about overstating my expertise here. What I can tell you is that when a mortgage is paid off through a regular sale, there's generally no debt forgiveness — you're paying it in full — so the cancellation of debt income that sometimes triggers tax issues in short sales or foreclosures doesn't apply to you. Because your payoff covers the full amount owed, the IRS doesn't see forgiven debt.
+Caller: That's a relief. And what about my credit? I know the bankruptcy is going to be on my credit for a while. If we complete the plan early, does that affect how it reports?
+Agent: A Chapter 13 that's completed — meaning you make all required payments and receive a discharge — reports differently than a dismissed Chapter 13. A completed Chapter 13 discharge shows for seven years from the filing date. The fact that you completed it early versus at the full 60 months doesn't change the reporting, but completing it cleanly rather than dismissing it is much better for your credit profile.
+Caller: My attorney said seven years is better than ten years for a Chapter 7. That's partly why we did Chapter 13.
+Agent: That's correct. Chapter 7 reports for ten years from filing, Chapter 13 for seven. And completing a Chapter 13 demonstrates to future lenders that you reorganized and paid your obligations, which is generally viewed more favorably than a Chapter 7 liquidation.
+Caller: Okay. I think I need to go back to my attorney with all of this. But I wanted to confirm what the mortgage payoff situation looks like from your side, and I now have a clear picture of that.
+Agent: Good. Let me also tell you that if you want a formal payoff statement for the attorney or the title company, you or your attorney can request one through our payoff request line — the number is (800) 555-4729 — or in writing. Specify the property address and the desired payoff-effective date. We typically provide payoff statements within five business days and they're valid for 30 days.
+Caller: And can the payoff statement be sent directly to our closing attorney?
+Agent: Yes. Just specify the name, email, and fax number for the closing attorney in the request and we'll send it directly to them.
+Caller: My attorney also asked if there are any prepayment penalties on this loan.
+Agent: Let me check. Your loan is a 30-year fixed originated in 2016. There are no prepayment penalties on this loan. You can pay it off at any time with no penalty.
+Caller: Good. One last question. When we close on the sale, how does the payoff actually get to you? Does it go to the trustee first or directly to you?
+Agent: In a bankruptcy sale with court approval, the mechanics at closing typically work as follows: the title company or closing attorney disburses directly to us from the sale proceeds to satisfy the mortgage. The trustee is not an intermediary for the mortgage payoff — the mortgage is a secured claim and gets paid from the sale proceeds at closing, ahead of the trustee distribution. The remaining equity then flows to the estate and the trustee handles distribution from there.
+Caller: That makes sense. The secured claim gets paid first.
+Agent: Exactly. Your mortgage is a first-lien secured claim. It gets paid at closing before any trustee distribution. What the trustee gets is what's left over.
+Caller: Perfect. This has been really helpful, Lisa. I feel like I have a much clearer picture of the mortgage side of this now.
+Agent: I'm glad. The bankruptcy layer adds complexity but it doesn't make the sale impossible — it just adds steps that require court approval and trustee coordination. Your attorney sounds like she's guiding you well.
+Caller: She's been great. Okay, I think I have everything I need. Is there a reference number for this call?
+Agent: Yes, the reference is MC-2023-6612. And if you or your attorney need to reach our bankruptcy coordination team specifically — they handle Chapter 13 accounts and understand the nuances better than the general queue — their direct line is extension 5500.
+Caller: Extension 5500, bankruptcy coordination. Got it.
+Agent: Is there anything else before I let you go?
+Caller: No, that covers everything. Thank you for being so thorough. Goodbye.
+Agent: Good luck with everything, Mr. Kostadinov. I hope the relocation goes smoothly and your wife's mother recovers well. Goodbye.
+Caller: Thank you. Goodbye.

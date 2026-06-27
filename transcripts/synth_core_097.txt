@@ -1,0 +1,38 @@
+Agent: Thank you for calling Patriot Home Lending, this is Marcus. How can I help you today?
+Caller: Hi Marcus, my name is Anita Goswami. I was approached by a mortgage broker who says he can lower my monthly payment by three hundred dollars without refinancing. He says he works with my current servicer — meaning you guys — and can do something to my loan to reduce the rate. My loan number is 8813-0049.
+Agent: Hi Anita, I'm glad you called to verify this before taking any action. Can you tell me a bit more about how this broker contacted you and what he said exactly?
+Caller: He called me out of the blue — I didn't reach out to him. He said he had access to my loan information and that there's a "lender credit opportunity" available on my account. He wanted me to pay a five hundred dollar processing fee upfront and said he'd get my rate lowered.
+Agent: I want to be very direct with you: what you're describing has several characteristics of a mortgage relief scam. Let me explain why, and then I'll tell you what legitimate rate reduction options actually exist.
+Caller: Please do.
+Agent: First, mortgage brokers and third parties do not have access to your loan account information unless you've given them authorization. The fact that this individual claims to have your loan details without your consent is a major red flag.
+Caller: He mentioned my approximate payment amount. How would he know that?
+Agent: Payment amounts on many loans can be estimated from public records or from data purchases. He may have purchased a list of mortgage holders and estimated payment ranges based on loan sizes and origination dates. It doesn't mean he has actual account access.
+Caller: That's unsettling.
+Agent: Second, there is no such thing as a "lender credit opportunity" that reduces your interest rate without a formal refinance. Your mortgage rate is set by the terms of your note signed at closing. The only legitimate way to permanently lower your rate is through a refinance — a new loan application, new underwriting, and new closing.
+Caller: He said specifically it wasn't a refinance. He called it a "loan modification opportunity."
+Agent: Loan modifications do exist, but they're available only in specific circumstances — typically when a borrower is experiencing a documented financial hardship that makes the current payment unaffordable. A modification for rate reduction is not something third parties initiate on your behalf for a fee. It's something we would discuss directly with you if you applied for hardship assistance.
+Caller: I'm not in hardship. My loan is current.
+Agent: Then you would not qualify for a hardship loan modification. And if you were in hardship, we would work with you directly at no cost — you don't need to pay a broker to access modification options.
+Caller: So the five hundred dollar fee is a red flag?
+Agent: It's a significant red flag. Federal law — specifically the Mortgage Assistance Relief Services rule, or MARS Rule, enforced by the FTC — prohibits companies from collecting upfront fees before providing mortgage assistance services. A legitimate broker would not ask for payment before delivering results.
+Caller: He said the five hundred dollars was a processing fee, not payment for results.
+Agent: That framing is a common workaround attempt. The MARS Rule is designed to prevent exactly that structure — taking money upfront for a claimed mortgage-related service. You should not pay this person anything.
+Caller: What if he actually does have some kind of deal with you?
+Agent: I can confirm right now — we do not have any third-party agreements with brokers to modify borrower rates through a fee-based arrangement. We have no record of this individual in our system as an authorized third party on your loan. Authorized third parties must be explicitly designated by the borrower.
+Caller: Okay. So this is almost certainly a scam.
+Agent: Based on everything you've described — unsolicited contact, claimed account access, upfront fees, and promises of rate reductions without refinancing — yes, this has all the hallmarks of a mortgage relief scam.
+Caller: What should I do?
+Agent: A few things. First, do not pay the five hundred dollars or provide any financial information, account numbers, or personal identification to this person. Second, I would recommend you report this to the FTC at reportfraud.ftc.gov, and also to the Consumer Financial Protection Bureau at consumerfinance.gov. Third, if he contacts you again, you can tell him you've reported the contact.
+Caller: Should I contact my state attorney general?
+Agent: Yes — your state attorney general's consumer protection division is also a good resource. Many states actively pursue mortgage fraud cases.
+Caller: Now, the real question — can I actually lower my payment legitimately? My rate is five point eight seven five percent. I got this loan four years ago.
+Agent: Rates have moved significantly over the past four years. Let me check — five point eight seven five percent originated four years ago. Current market rates for a thirty-year fixed are around six point seven to seven percent depending on your credit profile, so your existing rate is actually below current market.
+Caller: Oh. So refinancing would raise my rate?
+Agent: Most likely, yes, under current rate conditions. There are scenarios where a refinance might still make sense — if you're switching from a thirty-year to a fifteen-year to pay off faster, for example, or if you're cashing out equity for a specific need — but purely to lower your rate, refinancing at today's rates would likely increase your payment.
+Caller: So what this broker is claiming is doubly impossible — he can't lower my rate without refinancing, and even if I refinanced, I'd probably go up?
+Agent: That's exactly right. Your current rate is already competitive relative to today's market. The "three hundred dollar savings" he's claiming is simply not achievable through any legitimate means right now.
+Caller: That actually clarifies everything perfectly. Marcus, thank you. You may have just saved me five hundred dollars.
+Agent: I'm glad you called. Trust your instincts when something sounds too good to be true — especially in the mortgage space. Is there anything else I can help with?
+Caller: No, that's all I needed. I'm going to hang up and report this person.
+Agent: Good. Feel free to call us back if he contacts you again or if you have any other questions about your loan. Have a safe day, Anita.
+Caller: Thank you, Marcus.

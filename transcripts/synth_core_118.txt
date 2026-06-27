@@ -1,0 +1,44 @@
+Agent: Thank you for calling Heritage Home Servicing. This is Amber. Can I have your name and loan number?
+Caller: Hi. My name is Rachel Portman. My loan number is 3-4-9-0-6-1-5.
+Agent: Thank you, Ms. Portman. Property address and last four of Social?
+Caller: Address is 1022 Oleander Drive, Minneapolis, Minnesota 55417. Last four is 2-2-7-9.
+Agent: Thank you, account is up. How can I help you today?
+Caller: My home went through a foreclosure sale last week. May 20th. I didn't try to stop it — I couldn't keep the house and I knew it. But I talked to a neighbor who said Minnesota has something called a redemption period. He said I might actually have more time before I have to leave. Is that true?
+Agent: Ms. Portman, I'm glad you called. Yes, your neighbor is correct. Minnesota does have a statutory redemption period after a foreclosure sale, and depending on the circumstances of your loan, that period can be quite significant.
+Caller: How long is it?
+Agent: In Minnesota, the standard post-sale redemption period for a mortgage foreclosure is six months from the date of the foreclosure sale. However, there's an important exception. If the mortgage has been in default for more than two years at any point, or if the property has been abandoned, the redemption period can be shortened to five weeks. The standard situation — a residential property that is not abandoned and a mortgage that has not been in extended default — gives you six months.
+Caller: So if the sale was May 20th, I could potentially stay until November 20th?
+Agent: Under the standard six-month rule, yes — your redemption period would run until approximately November 20th. During that time, you remain in possession of the property and have the legal right to redeem the loan by paying the full amount owed including costs, fees, and interest to the foreclosing party.
+Caller: I obviously cannot redeem the loan. I don't have the money. But I need to know — do I have to pay rent during this time? Can they charge me anything?
+Agent: During the redemption period, you are technically still the owner of the property — or more precisely, you are the party in possession with the right of redemption. The purchaser at the foreclosure sale — which is typically the lender or a third-party bidder — holds what's called a sheriff's certificate. They don't take full ownership until the redemption period expires. During that time, you are not typically required to pay rent to the foreclosing party.
+Caller: That seems almost too generous. Is there a catch?
+Agent: The practical catch is that you are responsible for maintaining the property during the redemption period. You should not damage or strip the property of fixtures, appliances, or anything that was part of the real estate at the time of the foreclosure. If you intentionally damage the property or allow it to deteriorate significantly, the new owner may have legal recourse. Neglect can also sometimes be used to argue for a shorter redemption period or to accelerate post-sale proceedings.
+Caller: I wouldn't damage it. I'm a clean person. But what about my utilities — who pays for electricity and heat?
+Agent: During the redemption period, you are responsible for your own utility costs as the occupant. The future owner — who currently holds only a sheriff's certificate — doesn't control the utilities and doesn't pay them. You continue to manage the property as you would have, just without the mortgage obligation since that's been extinguished by the sale.
+Caller: So for the next six months I live there as if it's mine, pay utilities, keep it up, but don't pay the mortgage?
+Agent: That's essentially correct. The mortgage obligation was resolved by the foreclosure sale. You no longer owe the mortgage servicer — us — anything for the ongoing monthly payment. The remaining question is what happens when the redemption period ends.
+Caller: What happens then?
+Agent: When the redemption period expires — assuming you haven't redeemed the loan — the purchaser at the foreclosure sale receives full title and legal ownership of the property. At that point, they have the right to take possession. If you haven't vacated, they would file an eviction action in the courts to legally remove you. Eviction in Minnesota has its own timeline — typically a few weeks from filing to a hearing.
+Caller: So practically speaking, I have until November 20th plus however long an eviction takes?
+Agent: In practice, yes — though I want to be careful about framing this as a strategy, because if you refuse to leave after the redemption period and require a formal eviction, the new owner could potentially seek damages for the holdover period in some circumstances. The better approach is to use the redemption period productively — find new housing, coordinate your move, and try to vacate voluntarily by or before the redemption period ends.
+Caller: That's my plan. I just needed to know how much time I had. Six months is enough for me to find an apartment and get organized.
+Agent: That sounds like a reasonable plan, and six months gives you meaningful time. Is there anything specific about the post-foreclosure timeline or your former account that you need from us?
+Caller: Yeah, a couple things. First — do I owe anything to you anymore? Like any remaining balance?
+Agent: Let me look at your account. Your loan balance at the time of the foreclosure sale was $187,300 and the sale price — the amount bid at the sale — was $161,000. That leaves a potential deficiency of $26,300. Whether we pursue that deficiency depends on several factors. Under Minnesota law, there are some limitations on deficiency judgments after foreclosure, particularly related to the redemption period.
+Caller: Can you explain that?
+Agent: Under Minnesota Statute 582.30, after a foreclosure by advertisement — which is the most common type in Minnesota — the ability to bring a deficiency action is limited. Specifically, no deficiency judgment is available on a purchase money mortgage on a residential property with four or fewer dwelling units if the foreclosure was by advertisement. Whether your loan was a purchase money mortgage — meaning the original loan used to buy the property — is the key question.
+Caller: Yes, this was the original purchase money loan. I bought this house in 2018 with this loan.
+Agent: In that case, under Minnesota law, a deficiency judgment after foreclosure by advertisement on a one-to-four unit residential purchase money mortgage is generally not permitted. You should consult with a Minnesota licensed attorney to confirm the specifics of your situation, but that legal protection exists specifically for homeowners in your position.
+Caller: That's a huge relief. So they basically can't come after me for the $26,000?
+Agent: Based on what you've described and Minnesota's statutory framework, that appears to be the case for a purchase-money first mortgage on a residential property — but please confirm with an attorney because the details of your specific foreclosure matter.
+Caller: Okay, I will. Second question — what about my credit? It says "foreclosure" on my report now?
+Agent: Yes. The foreclosure will be reported to the credit bureaus. A completed foreclosure is one of the most significant negative credit events and will remain on your report for seven years from the date of the first missed payment that led to the foreclosure. That said, the impact diminishes over time, and with responsible financial behavior going forward, you can begin rebuilding.
+Caller: And when can I get a mortgage again?
+Agent: The waiting period to get a new mortgage after foreclosure varies by loan type. Conventional loans backed by Fannie Mae or Freddie Mac typically require a seven-year waiting period from the date of the foreclosure completion. FHA loans require a three-year waiting period. VA loans also have a two-to-three year waiting period, and USDA loans have a three-year waiting period. In all cases, the period can sometimes be shortened if there were documented extenuating circumstances.
+Caller: Seven years for conventional. That's a long time.
+Agent: It is. But three years for FHA is more attainable, and many people who've gone through foreclosure are able to purchase again with FHA financing within that window if they've rebuilt savings and credit.
+Caller: Thank you. I came into this call not knowing how much time I had and feeling panicked. I feel much calmer now.
+Agent: I'm glad I could help, Ms. Portman. You have six months of legal possession under Minnesota law, no mortgage payment obligation, and what sounds like a clean path forward. Use the time well. Is there anything else?
+Caller: No, that's everything. Thank you, Amber.
+Agent: Of course. Take care, and best of luck. Call us at 1-800-555-0271 if anything comes up. Goodbye.
+Caller: Goodbye.

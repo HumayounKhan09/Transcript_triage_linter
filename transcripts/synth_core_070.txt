@@ -1,0 +1,44 @@
+Agent: Thank you for calling Meridian Home Lending, this is Monique. Can I get your loan number to start?
+Caller: It's 6634-882-01. My name is Raymond Thibodeau.
+Agent: Thank you, Mr. Thibodeau. Can you verify your date of birth and the property address?
+Caller: I was born January 15th, 1958. Property is 88 Riverview Lane, Baton Rouge, Louisiana 70806.
+Agent: Got your account. How can I help you today?
+Caller: My ARM adjusted last month and my payment went up to $2,190 from $1,580. I'm sixty-eight years old, I'm retired, and I'm on a fixed income. There is no way I can pay $2,190. I need to know what I can do.
+Agent: Mr. Thibodeau, I'm very sorry to hear about the difficult situation this has put you in. Retirement income is fixed by nature and a sudden jump in mortgage payment can absolutely create a genuine crisis. You've called the right place. Let me look at your account and then let's go through your options carefully.
+Caller: Thank you. I've been losing sleep over this.
+Agent: I understand. Your account shows your ARM adjusted on June 1st, 2026. Your previous rate was 4.250% and your new rate is 6.250% — a 2.00% increase, which appears to have been the maximum allowed under your periodic cap. Your new payment is $2,193.00. Your previous payment was $1,578.00. That's a difference of $615.00 per month.
+Caller: Yes. And my Social Security and my pension together come to $3,100 a month. I was managing on $1,578 but $2,193 leaves me almost nothing after utilities, food, and my medications.
+Agent: I hear you clearly. A fixed income situation where the mortgage payment is over 70% of monthly income is a recognized hardship. Let me walk you through every option available to you, starting with the most impactful.
+Caller: Please. I'm listening.
+Agent: The first and potentially best long-term solution is a loan modification. Given that you're on a fixed income and the ARM adjustment has created a genuine affordability crisis, you may qualify for a loan modification that converts your ARM to a fixed rate and extends the term to reduce the payment. The goal of the modification would be to bring your monthly payment to approximately 31% of your gross monthly income — which on $3,100 per month would be around $960 per month.
+Caller: My payment could go down to $960?
+Agent: That's the target under standard modification guidelines. Whether that's achievable depends on the specifics of your loan — your investor's guidelines, your current balance, and the rate calculation formula. It would likely involve extending your loan to a new forty-year term and setting a fixed rate based on the modification program terms. The payment might not reach exactly $960, but a significant reduction from $2,193 is realistic.
+Caller: What's my loan balance right now?
+Agent: Your current balance is $198,300.00. Let me give you a rough estimate. At a 5.50% fixed rate — which is a common target rate for Freddie Mac and Fannie Mae flex modifications — over forty years, your payment on $198,300 would be approximately $1,072.00. That's a reduction of about $1,121 from where you are now.
+Caller: That would be manageable. How do I apply?
+Agent: I'm going to open the application today. For a retired borrower on Social Security and pension income, you'll need to document your income through Social Security award letters and pension statements, along with two months of bank statements. The application also includes a hardship letter. In your case, the letter simply needs to explain that your retirement income is fixed and cannot absorb the ARM adjustment.
+Caller: I can write that. It's the truth.
+Agent: Absolutely. Now, while the modification is being reviewed — which takes up to thirty days — the question is what you do about the current payment. Are you able to make a partial payment while the review is under way?
+Caller: I could maybe pay $1,600. I just can't do the full $2,193.
+Agent: I understand. I want to be transparent — partial payments create some complexity. A partial payment may be held in a suspense account and not applied to your loan until the full payment amount is received. However, given that you're applying for a modification, I'll note on your account that you're in active loss mitigation review, which provides certain protections under federal servicing rules.
+Caller: Should I pay the $1,600 or not?
+Agent: My recommendation is to send what you can toward the payment and submit the loss mitigation application simultaneously. The application triggers protection from foreclosure referral while it's under review. It doesn't protect you from late fees, but it protects the bigger picture.
+Caller: Okay. What else can I do?
+Agent: Second option is a forbearance — a temporary pause or reduction in payments while we work on a permanent solution. Given your age and income situation, I'd strongly recommend the modification as the better long-term fix, but if you need immediate relief while the modification is processed, a forbearance can buy time.
+Caller: Can I have both?
+Agent: Yes. You can be in a short-term forbearance while the modification application is under review. The forbearance pauses or reduces your payment obligation, and the modification restructures the loan permanently. They work together.
+Caller: And if the modification is denied?
+Agent: If denied, you have appeal rights and can request evaluation under other programs. For elderly borrowers on fixed income, there are also state-level programs. In Louisiana, the Louisiana Housing Corporation has administered mortgage assistance programs. I'd also recommend reaching out to a HUD-approved housing counselor — they specialize in helping seniors facing exactly this situation, and their service is free.
+Caller: I didn't know any of this was available.
+Agent: Many borrowers don't, which is why I'm glad you called. There is also one more consideration I want to mention. If your home has significant equity — which at sixty-eight you've likely built — a reverse mortgage might be an option to explore. A reverse mortgage would eliminate your monthly mortgage payment entirely, using your equity. It's a major financial decision with pros and cons, so I recommend speaking with a HUD-approved reverse mortgage counselor separately about that.
+Caller: I've heard of reverse mortgages but always thought they were risky.
+Agent: They can be appropriate in certain situations, particularly for fixed-income seniors with substantial equity. It's worth getting independent counseling before deciding anything. A HUD counselor at 1-800-569-4287 can walk through all of this with you at no cost.
+Caller: Let's start with the modification first.
+Agent: That's the right priority. I'm opening the application now. You'll receive the packet by email and mail within twenty-four hours. Submit it with your Social Security award letter, pension statement, two months of bank statements, and your hardship letter. Your reference number is LM-2026-011784.
+Caller: LM-2026-011784. I'll write that down.
+Agent: And please — once you submit the application, call back and confirm we received it. The submission creates a legal protection from foreclosure referral that we want to activate as quickly as possible.
+Caller: I'll do that. Thank you, Monique. I feel like I have some options now.
+Agent: You have real options, and you called at the right time. We'll work through this. Is there anything else I can help you with today?
+Caller: No, I think that's everything.
+Agent: Take care of yourself, Mr. Thibodeau. Have a good day.
+Caller: Thank you. Bye.

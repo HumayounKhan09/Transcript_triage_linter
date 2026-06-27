@@ -1,0 +1,46 @@
+Agent: Thank you for calling Coastal Mortgage Servicing, this is Lisa. Can I get your loan number?
+Caller: Yes. It's 559317. My name is Charles Dupree.
+Agent: Thank you, Mr. Dupree. Property address and last four of Social?
+Caller: 4 Harborview Circle, Charleston, South Carolina. Last four is 2284.
+Agent: I have your account. How can I help you today?
+Caller: My HOA put a lien on my property. I'm behind on my HOA dues — I owe $8,400 they say. They sent a letter saying they recorded a lien. I'm worried about what this does to my mortgage. Can they take my house?
+Agent: Mr. Dupree, I understand why this is alarming, and I want to give you a thorough explanation of how HOA liens interact with your mortgage. The short answer is yes, this is serious and it needs to be addressed, but the situation is not as immediately catastrophic as you might fear. Let me explain how this works.
+Caller: Please. I've been reading things online and I'm getting different information.
+Agent: Online information on this topic varies a lot because HOA lien law is very state-specific. South Carolina has specific statutes governing HOA liens and their priority relative to mortgage liens. Let me explain the framework.
+Caller: Please.
+Agent: When you bought your home and took out your mortgage, the mortgage was recorded and became a lien on the property. HOA liens are also recordable liens, and South Carolina allows HOAs to record a claim of lien after a homeowner has been delinquent for 30 days or more. Your HOA has apparently done this with the $8,400 in unpaid dues.
+Caller: How long have the dues been building up? The $8,400 is about two and a half years of dues at $275 a month. I fell behind when I had a medical issue and just kept falling behind.
+Agent: Two and a half years of dues — I understand. Now here's the key question that affects everything: does your HOA have super-priority status in South Carolina? In some states, HOA liens have what's called super-priority, meaning they can be foreclosed ahead of a first mortgage lender even if the mortgage was recorded first. Other states, HOA liens are subordinate to first mortgages.
+Caller: I don't know what South Carolina law says about that.
+Agent: South Carolina is a non-super-priority state for HOAs, with some nuances. Under South Carolina law, first mortgage liens generally take priority over HOA liens when the mortgage was recorded first. Since your mortgage was recorded before this HOA lien — which it was, as you bought the home before these dues accumulated — our lien as your mortgage servicer is in first position. That means if the HOA tried to foreclose its lien, it would be a junior lien foreclosure. The HOA could potentially foreclose on the property, but we as the first mortgage holder would still be paid first from any sale proceeds.
+Caller: So they can actually foreclose on me even though I have a mortgage?
+Agent: In theory, yes — an HOA can initiate foreclosure of its lien for unpaid dues in South Carolina. However, given the dynamics, HOA foreclosures on properties with significant first mortgages are uncommon because buyers at HOA foreclosure sales take the property subject to the first mortgage. Any buyer would have to deal with our mortgage, which makes the property less attractive to foreclosure buyers. The more practical risk is damage to your credit, the lien clouding title when you try to sell or refinance, and the HOA potentially pursuing litigation.
+Caller: So what does this mean for my mortgage specifically?
+Agent: For your mortgage directly, a few things. First, your mortgage has a due-on-encumbrance clause — most mortgages do. That means if you allow a lien to be placed on the property, technically it's a violation of your loan covenants. Now, servicers don't typically accelerate loans over HOA liens immediately, but we do take note. Second, your escrow — I'm looking at your account — you don't have property taxes escrowed, but I notice HOA dues are not escrowed either. Some lenders escrow HOA dues to prevent this exact situation. We don't currently do so for your loan.
+Caller: Can you add HOA dues to my escrow going forward?
+Agent: We can potentially add them, but first let's address the existing $8,400 because that's the urgent issue. Adding future dues to escrow doesn't clear the existing lien. What's your current financial situation? Are you in a position to pay the HOA directly?
+Caller: I'm working, I make about $5,800 a month. My regular mortgage is $1,645. I have car payments and living expenses. I can't write a check for $8,400 right now.
+Agent: Could you negotiate a payment plan directly with the HOA?
+Caller: I tried. They said they want it in full or they're going to refer it to their attorney.
+Agent: That's common. HOA collection attorneys often get involved at this stage, and once attorneys are involved, you may also face attorney fees on top of the $8,400. This is a problem that tends to grow. Let me suggest some paths forward.
+Caller: I'm listening.
+Agent: Option one: personal loan or credit line to pay the HOA in full. If you have reasonable credit and access to a personal loan, paying the HOA $8,400 upfront stops all accumulating fees and attorney costs, removes the lien, and puts you in a clean position. You'd then repay the personal loan monthly. At current personal loan rates for someone with moderate credit, you might pay 10% to 14% interest on $8,400, which is $230 to $280 per month over 36 months. Painful but finite.
+Caller: My credit has taken a hit from this. I'm not sure I'd qualify.
+Agent: Option two: negotiate with the HOA through mediation or through a housing counselor. HUD-approved housing counselors in South Carolina can sometimes help facilitate negotiations with HOAs. It's worth reaching out to a counselor — it's free, and sometimes they can get the HOA to accept a structured payment plan even when the HOA was previously refusing.
+Caller: I didn't know that was an option.
+Agent: Yes. Contact your local HUD-approved housing counselor — you can find them at hud.gov/housingcounselor. Tell them you have an HOA lien situation. This is within their scope. Option three — and this is less ideal but worth knowing — a cash-out refinance that pays off the HOA. Your current mortgage balance — let me look — is $219,800. Your property value for a home in Harborview Circle in Charleston — do you have a recent estimate?
+Caller: A neighbor sold for $395,000 about six months ago. My place is similar.
+Agent: $395,000 value. At 80% LTV you could borrow $316,000 on a refinance. Your current balance is $219,800. A cash-out refi could give you enough to pay the HOA and potentially more. However — current 30-year rates are around 7.25%, and your current rate is what?
+Caller: 4.25%. I got it in 2021.
+Agent: Oh. You have a 4.25% mortgage. A cash-out refinance at 7.25% would dramatically increase your monthly payment. Let me calculate. $219,800 plus $8,400 equals $228,200 new balance. At 7.25% for 30 years, your new payment would be approximately $1,556 plus escrow versus your current $1,645 including escrow... actually let me reread that. Your current P&I is $1,085 and escrow is $560? Let me look again.
+Caller: My payment is $1,645 total. I don't know the breakdown.
+Agent: Looking at your account — P&I is $1,083, escrow is $562. So at 4.25%, your P&I is $1,083. If you refinanced $228,200 at 7.25%, the new P&I would be $1,557. That's $474 more per month forever. You'd be giving up an incredible low rate to solve an $8,400 problem. I would strongly advise against that.
+Caller: Yeah, I agree. I don't want to give up 4.25%.
+Agent: Then the cash-out refi is off the table. Option one or two — personal loan or HOA negotiation — are your better paths. And I want to flag: the longer this sits, the more the HOA's attorney fees will accumulate. Those fees get added to the lien amount, so the $8,400 could become $11,000 or $12,000 fairly quickly once litigation begins.
+Caller: What about my mortgage — will you start the process of anything against me because of the lien?
+Agent: For now, we're monitoring. I'm noting on your account that the HOA lien exists and that you've called in to address it. We'd send a formal notice if we determined the encumbrance required action, but at this stage — given you're current on your mortgage and have now informed us — we'd typically give a reasonable window for resolution. I can't promise a specific timeframe, but proactive communication, like calling us, is always viewed favorably.
+Caller: Can I have a reference number in case something comes up with your collections department?
+Agent: Absolutely. Your reference number is 8821-CDU-HOA. And I'm documenting this call — HOA lien of $8,400 recorded, borrower aware and taking steps to resolve, mortgage is current, no immediate action recommended from servicing side.
+Caller: Thank you, Lisa. That was more thorough than I expected.
+Agent: This is the kind of issue that has layers. Get to a HUD counselor soon — that's my strongest recommendation. Good luck, Mr. Dupree.
+Caller: I'll do that today. Thank you.

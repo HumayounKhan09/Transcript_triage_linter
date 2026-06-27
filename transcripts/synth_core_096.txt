@@ -1,0 +1,45 @@
+Agent: Thank you for calling Westmont Mortgage Services, this is Sandra. How can I help you today?
+Caller: Hi Sandra. My name is Michelle Tran. I'm applying for an apartment and the landlord is asking for proof that I've been making mortgage payments on time. I'm not even sure what that document is called. Loan number is 6620-1195.
+Agent: Hi Michelle. I can definitely help with that. Let me pull up your account. I see your loan — a thirty-year fixed on a property in San Jose, California. What the landlord is likely asking for is called a Mortgage Payment History Letter or a Good Standing Letter. We can provide that.
+Caller: Yes, that sounds right. What does it include?
+Agent: The letter is issued on Westmont Mortgage letterhead and typically confirms your loan number, the property address, the origination date of the loan, your current payment status, and the number of months you've made on-time payments. It's essentially a professional reference for your payment behavior.
+Caller: Can it also show my current balance? The apartment application asks about my monthly obligations.
+Agent: The standard version of the letter can include your current monthly payment amount. We generally don't include the outstanding balance by default, but I can note your request so that the team adds that detail.
+Caller: That would be helpful. Also, the landlord wants to see that I've been in good standing for at least the past twelve months. Are all twelve of my last payments on time?
+Agent: Let me check your payment history. Looking at the past twelve months — June last year through this month — I can see all twelve scheduled payments were received and applied within the due date. Your last late payment would have been — it looks like you've been current for well over two years, actually.
+Caller: That's great to hear. I always pay early actually.
+Agent: I can see that in the history — several of your payments were received before the first of the month. That's reflected in the account notes.
+Caller: Can the letter say something like "has maintained a consistent history of on-time payments" rather than just the raw data?
+Agent: Our standard form letter does include language to that effect. It typically reads something like "the borrower has maintained a satisfactory payment record" and states the number of consecutive on-time payments. The specific phrasing is part of our standard template and I can't customize it substantially, but it does include affirmative language about your payment record.
+Caller: That's fine. How do I request the letter?
+Agent: I can submit the request right now on your behalf. It typically takes three to five business days to generate and will be mailed to your address on file. If you need it sooner, you can also request it through our online portal at westmontmortgage.com where expedited delivery is sometimes available.
+Caller: Three to five days might be cutting it close. My apartment application deadline is July tenth.
+Agent: Today is June twenty-seventh. Three to five business days would be July second to July fifth — that's within your window. However, the letter would be mailed, and delivery could take another two to three days on top of the generation time.
+Caller: Can it be emailed to me or to the landlord directly?
+Agent: We can email a PDF version of the letter, which would be much faster. I'd need an email address to send it to. Would you prefer it sent to you or directly to the landlord?
+Caller: Send it to me. My email is michelletran at gmail dot com.
+Agent: M-I-C-H-E-L-L-E-T-R-A-N at gmail dot com?
+Caller: That's right.
+Agent: Got it. I'll note that as an email delivery request. The team typically generates the PDF within two to three business days and emails it to you. That would be by June thirtieth or July first at the latest.
+Caller: That's much better. Is there any cost?
+Agent: No, the Good Standing Letter is provided at no charge to borrowers.
+Caller: While I have you — the landlord also asked for a copy of my most recent mortgage statement. Is that something you can send?
+Agent: Your monthly mortgage statement is available through your online account. If you log into westmontmortgage.com under Statements and Documents, you can download a PDF of your most recent statement, which shows your loan balance, payment amount, and escrow breakdown. That's available immediately.
+Caller: Oh, I didn't know I could do that online. I usually just pay online but I've never looked at the statements section.
+Agent: It's under the Account Documents tab. You can typically access up to twenty-four months of statements there.
+Caller: Perfect. That actually solves that part. Now, is the Good Standing Letter going to show my address?
+Agent: Yes. The letter will show the mortgaged property address. If the letter shows a different address than your current mailing address — which might be the case if you're renting somewhere now while owning the mortgaged property — that might look odd to the landlord.
+Caller: Actually, I currently live in the house that has the mortgage. I'm not renting. I'm looking to rent a second apartment in another city for work.
+Agent: Understood — so the letter will show your primary residence address, which is your mortgage address. That should be fine for the landlord.
+Caller: Yes, that makes sense. Sandra, can the letter also confirm that there are no pending defaults or notices of default?
+Agent: Our standard letter confirms the loan is in good standing, which implies no pending default actions. It doesn't enumerate every possible negative status, but "in good standing" carries that implication. If the landlord needs something more specific, they could write to us directly with a consent form and we can respond to specific questions.
+Caller: I think "in good standing" is probably sufficient. My landlord isn't a lender — they're just checking financial responsibility.
+Agent: Exactly — a Good Standing Letter is typically more than enough for rental applications.
+Caller: One last thing — do I need to sign anything or give written authorization for you to generate this letter?
+Agent: For this type of letter to yourself, verbal authorization on a recorded line is typically sufficient — and this call is recorded. If you're requesting that the letter be sent to a third party other than yourself, we'd need written authorization. Since you've asked for it to be emailed to you directly, we're fine with verbal authorization.
+Caller: Great. And you'll generate it in the next few days?
+Agent: Yes. I've submitted the request now with email delivery to michelletran at gmail dot com, a twelve-month payment history scope, and a note to include the monthly payment amount. You'll receive a confirmation email within one business day and the letter itself within two to three.
+Caller: Wonderful. Thank you so much, Sandra. You were very thorough.
+Agent: My pleasure, Michelle. Is there anything else I can help you with today?
+Caller: No, that's everything. Thank you.
+Agent: Have a great day and good luck with the apartment application.

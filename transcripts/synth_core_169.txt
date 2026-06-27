@@ -1,0 +1,51 @@
+Agent: Thank you for calling Heritage Mortgage Services, this is Sarah. How can I help you today?
+Caller: Hi Sarah, my name is Jerome Watkins. I bought my home three years ago using a down payment assistance program from my county. I'm thinking about refinancing and someone told me I might have to repay the down payment assistance money. I want to understand how that works.
+Agent: Hi Jerome, that's a very important question and the answer depends entirely on the specific terms of your assistance program. These programs vary widely in their repayment requirements. Let me pull up your account to see what I can find in your file.
+Caller: My loan number is 5566-8891-Q.
+Agent: One moment. Okay, Jerome Watkins, property in Fulton County, Georgia, purchase loan originated March 2023, first mortgage balance $241,500. I can see a notation about a down payment assistance program — it looks like a Fulton County DPA loan for $14,700. Let me see if there are any repayment notes.
+Caller: That's right, $14,700. I thought it was a grant at first but now I'm not sure.
+Agent: I can see in your file that the $14,700 was structured as a zero-interest deferred loan, not a grant. Those are two very different things, and it's important to understand which one you have.
+Caller: What's the difference?
+Agent: A grant is money given to you that does not need to be repaid, period. Some programs offer genuine grants, particularly for very low-income borrowers or in specific geographic areas. A deferred loan, on the other hand, is a true loan — but the repayment is deferred, meaning you don't make monthly payments on it. The balance becomes due when you sell, refinance, or no longer occupy the property as your primary residence.
+Caller: So refinancing triggers repayment?
+Agent: For many deferred loan programs, yes. The specific trigger language in your case — let me look — the file shows the second lien note states repayment is due upon sale, transfer, refinance, or rental of the property.
+Caller: So if I refinance my first mortgage, I owe the $14,700?
+Agent: That's what the note indicates. Refinancing your first mortgage is a triggering event under those terms because it involves paying off and replacing the existing first mortgage, which is considered a change in the loan structure.
+Caller: That changes my whole calculation. Is there any way around it?
+Agent: There are a few things to explore. First, some programs allow a refinance exception. If the refinance is rate-and-term — meaning you're not taking cash out, just getting a better rate — some programs will subordinate the assistance loan rather than requiring full repayment. Subordination means the DPA loan stays in second lien position behind your new first mortgage rather than being paid off.
+Caller: What does that require?
+Agent: It requires the DPA program administrator — in your case, likely Fulton County or the administering agency — to agree to a subordination request. Your new lender would need to send them a subordination request package, and they'd review whether your new loan meets their criteria. Some programs will subordinate readily; others have restrictions on how many times they'll subordinate or what kinds of refinances they'll allow.
+Caller: How do I find out if Fulton County will subordinate?
+Agent: I'd recommend calling the agency directly. The contact information for the DPA program should be in your original closing documents. The program administrator can tell you their current subordination policy and what documentation they require. This is a very common request and most agencies have a defined process.
+Caller: What if they won't subordinate?
+Agent: Then you'd need to repay the $14,700 either at closing from your own funds or by rolling it into your new first mortgage. Rolling it in would increase your new loan balance to approximately $256,200. Depending on your home's value and the LTV that creates, it may be doable.
+Caller: What's my home worth now?
+Agent: Do you have a sense of current value?
+Caller: Similar homes have sold for around $325,000 to $340,000. I'd estimate $330,000.
+Agent: At $330,000 and a new balance of $256,200, your LTV would be 77.6 percent. That's under 80 percent, so no PMI would be triggered. That's actually a favorable scenario — you could roll in the $14,700 payoff plus any closing costs and still stay within conventional guidelines.
+Caller: What about the interest savings? Does the math still work if I have to pay back $14,700?
+Agent: Let's work through it. What's your current first mortgage rate?
+Caller: 7.25 percent. I've been watching rates and they look like they might be around 6.5 percent now.
+Agent: On your current balance of $241,500 at 7.25 percent, your payment is roughly $1,647 per month. If you refinance to a new balance of $256,200 — rolling in the $14,700 — at 6.5 percent for 30 years, your new payment would be approximately $1,619 per month. So even with a higher balance, you'd save about $28 per month.
+Caller: That's a smaller saving than I hoped for.
+Agent: The $14,700 payoff significantly erodes the benefit of the rate drop. If you could get the subordination approved instead, your new loan would stay at $241,500. At 6.5 percent, that payment would be about $1,527 per month — saving you $120 per month. That's much more meaningful.
+Caller: So the subordination route is clearly better for me.
+Agent: Mathematically, yes. The subordination preserves your existing assistance while still letting you get the rate reduction. I'd strongly encourage you to pursue that option first.
+Caller: What exactly do I need to do to request subordination?
+Agent: The process typically works like this: first, you'd get under application with a new lender — we can help with that here. The new lender prepares a subordination request package that includes the new loan details, terms, and a request letter. That package gets sent to the DPA program administrator. The administrator reviews and responds, usually within two to four weeks. If approved, they sign a subordination agreement that allows the new first mortgage to close while their second lien remains in place.
+Caller: And if they approve, I close on my new first mortgage and the $14,700 stays as a separate loan in the background?
+Agent: Exactly. Your new first mortgage closes, the old first mortgage is paid off, and the DPA second lien continues in its subordinated position. You make no monthly payments on the DPA — it remains deferred until you eventually sell, move out, or refinance again in the future.
+Caller: Does the interest on the DPA accrue?
+Agent: Your file shows the DPA is zero-interest, so the balance remains $14,700 regardless of how long it's deferred. No interest accrues. That's very favorable compared to programs that charge even a small interest rate on the deferred amount.
+Caller: Good. So my plan is to call Fulton County, ask about their subordination process, then come back to you to start my refinance application?
+Agent: That's the right sequence. Get confirmation from the county on their policy first. If they confirm they'll subordinate, then apply for the refinance here and we'll manage the subordination request as part of the process. If they say they won't subordinate, come back to us and we can evaluate whether rolling in the payoff still makes financial sense for you.
+Caller: This is really helpful. I was not expecting this complexity when I started thinking about refinancing.
+Agent: DPA programs add a layer of complexity that many borrowers aren't fully briefed on at the time of purchase. You're not alone. The good news is that subordination is a normal, manageable process. Agencies do it regularly.
+Caller: Thank you, Sarah. Is there anything I should have ready when I call the county?
+Agent: Have your loan number, the property address, and the name of the DPA program handy. Ask specifically about their subordination policy, any fees they charge for subordination, and their turnaround time. Some programs charge $50 to $200 for the subordination administrative fee.
+Caller: Good to know. I'll call them Monday.
+Agent: Perfect. Is there anything else I can help you with today?
+Caller: No, this was exactly what I needed. Thank you so much.
+Agent: Of course, Jerome. Good luck and call us when you're ready to apply.
+Caller: Will do. Goodbye.
+Agent: Goodbye.
