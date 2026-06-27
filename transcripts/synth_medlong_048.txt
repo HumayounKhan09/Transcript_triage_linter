@@ -1,0 +1,50 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Yuki, how can I help you today?
+Caller: Hi Yuki, my name is Brandon Osei. Loan number 4482-667-120. I'm calling because my student loan repayment just restarted and somehow my IDR payment came out way higher than I expected and it's making it impossible to keep up with my mortgage.
+Agent: Brandon, thank you for reaching out. That is a really common situation right now with IDR recalculations. Let me pull up your account. Property address and date of birth?
+Caller: 5544 Redwood Place, Minneapolis, Minnesota 55408. Date of birth October 14, 1988.
+Agent: And last four of Social?
+Caller: 4412.
+Agent: Got your account. Let me ask — are you current on the mortgage right now?
+Caller: I'm current but barely. I made my May payment a week late and my June payment I scraped together. I'm calling now because I genuinely don't know if I can make July's payment.
+Agent: Okay. Tell me about what happened with the student loans. What repayment plan are you on and what changed?
+Caller: I was on a SAVE plan — the Saving on a Valuable Education plan — and my payment under that was $0 because of how my income was calculated. Then with all the legal challenges to the SAVE plan, the Department of Education moved me to a different IDR plan and my payment went from $0 to $847 a month. Starting in April.
+Agent: That's a significant jump. And your mortgage payment?
+Caller: $1,778 a month. I'm a social worker — I make $4,150 a month after taxes. Combined with the student loan payment, my two biggest bills are $2,625 a month out of $4,150. That's 63 percent of my take-home before food, utilities, or anything else.
+Agent: Let me understand your full expense picture. What else are you paying monthly?
+Caller: Utilities about $160. Groceries, maybe $320 — I'm single. Car insurance $108. I don't have a car payment, I own my car. I have a small credit card balance, minimum payment is $45. No other debt.
+Agent: So total monthly obligations are $2,625 student loan plus mortgage, plus $633 other — about $3,258 against $4,150. That leaves $892 for everything else including any medical, clothing, personal care, any emergency.
+Caller: It's basically nothing. I've stopped going to the dentist. I haven't bought new clothes in six months. I'm very close to the edge.
+Agent: I understand. And the student loan situation — have you been in contact with your student loan servicer about the recalculation? Because if the SAVE plan legal situation gets resolved or you're moved to another plan, that payment could change.
+Caller: Yes, I called FedLoan — actually now it's MOHELA. They said I'm stuck at $847 under the current plan until further legal clarity. And I asked about PSLF — Public Service Loan Forgiveness — because I'm a social worker and I should qualify. They said I have credit for 87 months so I'm almost there, about nine more months and I'd hit the 120 payment requirement.
+Agent: So if you maintain PSLF-eligible payments for nine more months, your student loans are forgiven entirely.
+Caller: Yes. So I absolutely cannot default on the student loan payments — that would mess up my PSLF count. But the $847 is killing me right now.
+Agent: This is a very specific situation. You're $892 away from loan forgiveness on one hand and close to missing a mortgage payment on the other. The goal is to bridge nine months.
+Caller: Exactly. If someone could help me get through nine months, after that my take-home is effectively $847 more a month and the mortgage becomes completely manageable.
+Agent: That's a clear and finite hardship. Nine months, specific end date, meaningful income improvement. That's actually one of the stronger hardship narratives I hear because it has a defined resolution. Let me walk you through what I can offer.
+Caller: Please.
+Agent: Given your income, your expenses, and the specific cause — the IDR recalculation — you qualify for our hardship assistance program under a payment reduction category. What I'd explore for you is a partial forbearance or a repayment plan that temporarily reduces what we require you to pay each month. Given the nine-month timeline to PSLF, I'd suggest applying for a six-to-nine-month partial forbearance.
+Caller: What would my reduced payment look like?
+Agent: It depends on what the review determines. But if we can reduce your required payment by $400 to $500 a month for nine months, that brings your mortgage contribution down to $1,278 to $1,378. That would leave you roughly $1,300 to $1,400 for all other expenses, which is still tight but survivable for nine months.
+Caller: $1,278 to $1,378 — yes. That would change things significantly.
+Agent: The deferred amount — let's say $450 a month times nine months, so $4,050 — would be added to the back of your loan as a deferral. After your PSLF kicks in and your financial situation improves, that $4,050 just lives at the end of your loan.
+Caller: That's very manageable. My loan balance is what, $224,000?
+Agent: $224,180 as of today. Adding $4,050 to the back end is a small fraction. And you'd likely refinance or sell before you ever got to that point in the amortization.
+Caller: This is exactly what I needed to hear. How do I apply?
+Agent: I'm opening the application right now. Case HP-2025-031844. For the documentation, I'll need your last two pay stubs, your student loan statement showing the current IDR payment of $847 — that's really the key document here — and your PSLF employment certification or PSLF tracker if you have one showing the 87 months of qualifying payments.
+Caller: I have the student loan statement. I have the PSLF payment count from the MOHELA website. And I have pay stubs. I can submit all of that tonight.
+Agent: Upload at meridianmortgage.com/hardship-upload, reference HP-2025-031844. Please specifically include the student loan statement and the PSLF payment tracker because those documents uniquely document the finite nature of your hardship, which is important for the reviewer.
+Caller: I'll include a cover letter explaining the PSLF timeline.
+Agent: That's a great idea. The clearer the story, the faster the review. I'm also going to note in your account that the May late payment was directly caused by the April IDR recalculation — that context may be useful if there's any late fee or credit consideration later.
+Caller: I did get a late fee for May. $42.
+Agent: I'm noting that as a disputed fee tied to the hardship-causing event. Once the hardship application is reviewed and resolved, we'll evaluate waiving that fee.
+Caller: Good. What's my timeline for a decision?
+Agent: Documents in tomorrow night — the review should complete by July 10th at the latest, which is before your July payment due date. I'll flag this as time-sensitive given that July payment concern.
+Caller: Perfect. And Yuki — I want to be clear. This is not a chronic situation. I pay my bills. I've paid this mortgage for three years without a late payment until the SAVE plan situation in April. This is one specific thing that happened that I have no control over.
+Agent: I hear you. And your payment history reflects that — three years, clean until May. The account history supports exactly the narrative you're describing.
+Caller: I was on the phone with the Department of Education for two hours trying to get my IDR recalculated and they couldn't help me. It's just not fair.
+Agent: The IDR situation has affected a lot of borrowers in ways that were completely unpredictable. The fact that you're being proactive and have a clear path out of it — nine months — is exactly the kind of situation this program exists for.
+Caller: Okay. I feel a lot better. Case number HP-2025-031844, documents tonight, decision by July 10th.
+Agent: That's exactly right. And Brandon — one more thing. If the PSLF certifies in nine months as expected, feel free to call us back. At that point we'd revisit your account and if you want to restructure or make a lump sum toward the deferred amount, we can discuss that then.
+Caller: I'd like that. I plan to put my first post-PSLF paycheck toward the mortgage.
+Agent: That's the right mindset. Good luck with everything. Goodbye.
+Caller: Thank you so much, Yuki. Goodbye.
