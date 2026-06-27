@@ -36,10 +36,12 @@ class entityExtractor:
         raw_contexts = []
         for m in re.finditer(money_pattern, text, flags=re.IGNORECASE | re.VERBOSE):
             raw_hits.append(m.group(1))
-            raw_contexts.append(text[max(0, m.start() - 40):m.start()].strip())
+            window = text[max(0, m.start() - 40):m.end() + 40]
+            raw_contexts.append(window.strip())
         for m in re.finditer(bare_pattern, text, flags=re.IGNORECASE | re.VERBOSE):
             raw_hits.append(m.group(1))
-            raw_contexts.append(text[max(0, m.start() - 40):m.start()].strip())
+            window = text[max(0, m.start() - 40):m.end() + 40]
+            raw_contexts.append(window.strip())
 
         def to_number(raw: str):
             s = raw.strip().lower()

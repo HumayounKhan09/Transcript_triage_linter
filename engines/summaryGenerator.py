@@ -23,17 +23,27 @@ class summaryGenerator:
 
     # Keywords that suggest what role a nearby amount plays
     _CONTEXT_LABELS = [
-        (["monthly payment", "payment amount", "pay per month", "monthly mortgage"], "monthly payment"),
-        (["principal balance", "loan balance", "remaining balance", "outstanding balance", "current balance"], "loan balance"),
+        (["monthly payment", "payment amount", "pay per month", "monthly mortgage", "regular payment", "your payment is", "payment is due", "next payment", "last payment", "full payment", "make a payment", "make the payment"], "monthly payment"),
+        (["principal balance", "loan balance", "remaining balance", "outstanding balance", "current balance", "balance is"], "loan balance"),
         (["loan amount", "mortgage amount", "original loan", "borrow"], "loan amount"),
-        (["purchase price", "home price", "sale price", "property value", "appraised"], "property value"),
+        (["purchase price", "home price", "sale price", "property value", "appraised", "home value"], "property value"),
         (["escrow shortage", "escrow deficiency"], "escrow shortage"),
-        (["escrow", "impound", "property tax", "insurance premium"], "escrow amount"),
-        (["late fee", "convenience fee", "processing fee", "fee"], "fee"),
-        (["down payment", "down-payment"], "down payment"),
-        (["payoff", "pay off", "pay-off"], "payoff amount"),
+        (["escrow", "impound", "property tax", "insurance premium", "tax escrow"], "escrow amount"),
+        (["late fee", "convenience fee", "processing fee", "phone fee", "service fee", "penalty fee", "fee for", "fee is", "charges a fee", "charge a fee"], "fee"),
+        (["down payment", "down-payment", "money down"], "down payment"),
+        (["payoff", "pay off", "pay-off", "total amount to pay"], "payoff amount"),
         (["forbearance", "deferral", "deferred"], "deferred amount"),
-        (["arrears", "past due", "overdue", "behind"], "amount past due"),
+        (["arrears", "past due", "overdue", "behind on", "missed payment", "unpaid"], "amount past due"),
+        (["interest rate", "rate of"], "interest rate"),
+        (["pmi", "private mortgage insurance", "mortgage insurance premium", "mip"], "insurance premium"),
+        (["repair", "damage", "insurance claim", "claim check", "claim amount"], "insurance claim"),
+        (["credit limit", "line of credit", "heloc", "equity line"], "credit line"),
+        (["tax", "property tax", "county tax", "city tax"], "tax amount"),
+        (["per year", "annually", "annual premium", "yearly"], "annual amount"),
+        (["per month", "a month", "monthly portion", "escrow portion", "goes up to", "would be"], "monthly amount"),
+        (["insurance", "homeowner", "hazard insurance", "flood insurance"], "insurance amount"),
+        (["shortage", "all at once", "lump sum", "one-time"], "lump sum"),
+        (["increase", "went up", "go up", "extra", "additional", "difference", "delta"], "increase amount"),
     ]
 
     def _label_from_context(self, ctx: str) -> str:
