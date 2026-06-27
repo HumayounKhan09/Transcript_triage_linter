@@ -1,0 +1,49 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Yuki, how can I help you today?
+Caller: Hi. My name is Christine Baxter. Loan number 9912-004-557. I'm going through a divorce and I'm trying to figure out what's going to happen with my mortgage because I don't think I can afford it on one income.
+Agent: Christine, I'm sorry you're going through that. Divorce is an incredibly difficult time and the financial piece adds a whole other layer of stress. Let me pull up your account and we can talk through your situation. Can I verify your property address and date of birth?
+Caller: 6614 Stonehaven Drive, Denver, Colorado 80210. Date of birth November 12, 1979.
+Agent: Thank you. I have your account. Is there anything currently past due, or are you calling proactively before things become a problem?
+Caller: We're still current. My husband — soon to be ex-husband — is still contributing to the mortgage while we go through the legal process. But my attorney says the divorce could finalize in three to four months and once it does he won't be on the hook for it anymore. I need to know now what I'm dealing with.
+Agent: That's very smart planning. Understanding your options before you're in crisis gives you so much more flexibility. Let me look at your loan details. I see this is a joint loan — both you and your husband are on the mortgage.
+Caller: Yes. We've both been contributing equally. We each bring in about $5,800 a month, so the household has been about $11,600 gross.
+Agent: And your mortgage payment?
+Caller: $2,317 a month. We've been splitting it. So each of us is paying about $1,158 toward the mortgage.
+Agent: So you're going from a dual-income household that could manage this comfortably to a single-income situation where you'd need to cover $2,317 on $5,800 gross income. That's roughly 40 percent of gross income going to housing.
+Caller: Right. And I've heard that lenders generally want you at 28 to 30 percent of gross for housing costs. So I'm over that, but not by a catastrophic amount?
+Agent: The 28 percent front-end ratio guideline is a qualification benchmark. For hardship assistance purposes, we look at whether you can make the payment given all your other obligations. Tell me about your other monthly expenses.
+Caller: I have one daughter, she's 11. I'll be primary custodian. We're negotiating child support but it might be $800 a month from him. Car payment is $298. Health insurance through my employer covers both of us so that won't change much. Student loans — $210. My car insurance is $137. Groceries and household for two, probably $550.
+Agent: Let me work through this. Income: your salary $5,800, potential child support $800, total roughly $6,600. Expenses: mortgage $2,317, car $298, student loan $210, insurance $137, food $550, that's $3,512 before miscellaneous. That leaves about $3,100 for everything else including your daughter's activities, healthcare copays, clothing, and savings.
+Caller: It's tight but manageable. Unless something breaks or there's a medical thing.
+Agent: It's what we call borderline affordable. Not in crisis but not comfortable either. The key question is whether you want to stay in the home. Is that the goal?
+Caller: Yes. My daughter grew up in that house. Her school is right there. My ex is moving out voluntarily — the house is mine in the settlement if I can manage the payments. He wants to be removed from the mortgage.
+Agent: So you'd need to refinance into your name only to release him from liability.
+Caller: Yes. My attorney mentioned that. And I'm worried whether I'll qualify on my income alone.
+Agent: At $5,800 monthly gross with a $2,317 payment, your front-end debt-to-income ratio is 40 percent. Most conventional refinance products want that at or below 43 to 45 percent total DTI including all debts. Adding your car, student loan — that's an additional $508 — bringing your total monthly debt to about $2,825, which is 48.7 percent of your gross. That's above the standard limit.
+Caller: So I might not qualify for a refinance on my own?
+Agent: Under standard conventional guidelines, it would be challenging. However, there are a few things that could help. First, if child support is ordered by a court and you've received it consistently for at least six months, lenders can count it as income. $800 monthly added to your income improves the picture.
+Caller: The divorce isn't final yet so I don't have that yet.
+Agent: Right. That's one of the timing challenges. Another consideration — what's the equity position in your home? What do you think it's worth and what's the current balance?
+Caller: Zillow shows it around $580,000. The mortgage balance is $389,400.
+Agent: That's approximately $190,000 in equity. That's significant. There are loan products — sometimes called portfolio loans — that take a more flexible view of DTI if the loan-to-value ratio is low. With 33 percent equity, you might find non-conforming options.
+Caller: I didn't know that was a thing.
+Agent: It is. And I want to be honest — your refinance options aren't something I can process here as a servicer. You'd need to speak with a loan officer, possibly through us or another lender. But the equity situation is meaningful context.
+Caller: What happens to my current loan while I figure this out? Can my ex be on it for now?
+Agent: Yes. The existing loan continues as-is until it's refinanced or otherwise modified. Your ex-husband's obligation under the original note doesn't change until the loan is refinanced. The divorce decree may say the house is yours and he's released from obligation as a legal matter, but the lender's rights under the original note are separate — legally, both of you remain borrowers until the refinance happens.
+Caller: My attorney said that. He said the divorce decree doesn't get him off the mortgage, only a refinance does.
+Agent: Your attorney is correct. So the plan is: finalize divorce, get child support ordered, show 6 months of receipt if possible, then refinance. In the meantime, what I can help with on the servicing side is planning for the transition.
+Caller: What does planning look like?
+Agent: A few things. First, if you haven't already, I'd suggest getting a full income picture together — pay stubs, tax returns, documentation of any other income — so you're ready to apply for a refinance quickly when the time comes. Second, if there's a period after the divorce finalizes where you're managing the payment alone and it becomes difficult before the refinance is complete, you could reach out to us about a temporary hardship assistance arrangement.
+Caller: So you have a bridge option?
+Agent: Potentially. If you're going through a divorce-related income change, that is a recognized hardship under our assistance programs. I can open a general hardship file now as a precautionary measure and add notes about your situation so that if you need assistance in the four months between now and the refinance, you have a faster path to help.
+Caller: That sounds like a safety net. I like that idea.
+Agent: I'll open a precautionary hardship file — case number HP-2025-031641. Nothing is triggered yet, no payment changes, no implications for the loan. It just means your situation is documented and if you need to request assistance you don't start from scratch.
+Caller: That's really smart. Thank you. Is there anything else I should be thinking about?
+Agent: A few things. One — the name on the account. When the refinance happens, the account will be in your name only. Make sure to update insurance as well, because if the homeowner's policy still has your ex-husband's name on it after the refinance, that could create complications with the escrow.
+Caller: Good point. I hadn't thought about that.
+Agent: Two — if you decide you can't keep the home after all, other options exist, including selling to capture the equity. With $190,000 in equity you'd walk away with meaningful proceeds even after transaction costs. That's a real alternative if the payment becomes unworkable.
+Caller: I hope it doesn't come to that. But it's good to know it's there.
+Agent: Three — free housing counseling. HUD-approved counselors can review your full financial picture and give you specific advice. 1-800-569-4287. They're free and they deal with divorce-related housing situations constantly.
+Caller: I'll call them. You've been really thorough, Yuki. I feel like I have a roadmap now.
+Agent: That was the goal. Case HP-2025-031641 is open for your records. Call anytime. And congratulations on facing this head-on. Take care of yourself.
+Caller: Thank you. Goodbye.
+Agent: Goodbye, Christine.

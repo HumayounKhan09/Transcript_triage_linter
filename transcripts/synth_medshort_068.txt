@@ -1,0 +1,44 @@
+Agent: Thank you for calling Meridian Home Lending. This is James speaking. How can I help you?
+Caller: Hi James. My name is Nicole Tran. I've been paying PMI on my mortgage for almost five years now and I did some research and I think I have the right to cancel it under some federal law. I wanted to call and find out exactly what I need to do.
+Agent: Hi Nicole. You're absolutely right that there's a federal law that protects borrowers in this situation. It's called the Homeowners Protection Act, and you do have rights under it. Let me pull up your account and we can go through exactly where you stand. Can I get your loan number?
+Caller: Yes, it's 6-6-0-1-2-3-8.
+Agent: And the property address?
+Caller: 228 Hillside Drive, Portland, Oregon, 97206.
+Agent: Last four of your Social?
+Caller: 3-3-7-5.
+Agent: I have your account. So let me give you an overview of the Homeowners Protection Act, also called HPA, and then tell you specifically where your loan stands.
+Caller: Perfect.
+Agent: The HPA applies to loans originated after July 29, 1999, and yours is from 2019, so you're fully covered. The law gives you two pathways to cancel PMI. The first is borrower-requested cancellation, which is what you're calling about. The second is automatic termination, which happens on its own at a certain point even if you don't request it.
+Caller: What's the threshold for borrower-requested cancellation?
+Agent: For borrower-requested cancellation, your loan balance must be at or below eighty percent of the original value of your home — meaning the lesser of the original purchase price or the original appraised value at the time of purchase. Additionally, your payment history must be good, meaning you haven't been thirty days late in the past twelve months or sixty days late in the past twenty-four months.
+Caller: My payment history is clean. Never missed a payment.
+Agent: That's important and helpful. Now let me tell you where your balance stands. Your current unpaid principal balance is two hundred and thirty-one thousand, four hundred and fifty dollars. Your original purchase price was three hundred and ten thousand dollars. So eighty percent of three hundred and ten thousand is two hundred and forty-eight thousand. Your current balance is below that threshold.
+Caller: So I've already crossed the eighty percent mark?
+Agent: Based on your scheduled payments, yes. Your balance is at approximately seventy-four point seven percent of the original value. You crossed the eighty percent line several months ago.
+Caller: Why hasn't PMI been cancelled automatically then?
+Agent: The automatic cancellation — which happens without a request from you — triggers at seventy-eight percent based on the original amortization schedule, not your actual balance. Since you've been making extra payments or the schedule just caught up, the auto-cancellation point based on schedule might not have been reached yet officially. But you have the right to request cancellation now under the borrower-requested provision because your actual balance is below eighty percent.
+Caller: What do I need to do to request it?
+Agent: You need to submit a written cancellation request. I can note this on your account today to start the process. Along with the request, we may require a current appraisal to confirm the value of the property hasn't declined since you purchased it.
+Caller: An appraisal? That costs money.
+Agent: It does. Typically three hundred to five hundred dollars. However, in some cases we can use automated valuation tools or a broker price opinion, which is less expensive. Whether we require a full appraisal depends on your loan type and the investor guidelines.
+Caller: My loan is conventional. Would you require a full appraisal?
+Agent: For conventional loans where the cancellation is based on original value — meaning we're just confirming your balance crossed eighty percent without relying on any appreciated home value — we typically don't require an appraisal. We can work from the original purchase price.
+Caller: Mine is purely based on paying down the balance, not appreciation. My house may have gone up in value but I'm not counting on that.
+Agent: In that case, a full appraisal likely isn't necessary. We just need to confirm the balance is at or below eighty percent of the original three hundred and ten thousand, which I've already verified it is. The request can proceed.
+Caller: How long does it take once I request it?
+Agent: Once you submit the formal written request and we process it, PMI cancellation typically happens within thirty days. We'll send you a written confirmation once it's done.
+Caller: How much am I paying in PMI per month?
+Agent: Your current PMI premium is one hundred and forty-two dollars per month. Once cancelled, that amount would come off your monthly payment immediately.
+Caller: So I'd save one hundred and forty-two dollars a month going forward.
+Agent: That's right. At five years in, and assuming you were paying PMI from the start, you've already paid over eight thousand dollars in premiums. Getting it cancelled now stops further payments.
+Caller: I wish I'd known I could request this sooner.
+Agent: Many borrowers don't know. The HPA does require that lenders disclose PMI cancellation rights at origination, and then send annual notices. But it's a common surprise to borrowers that they have to actively request it in many cases.
+Caller: Okay, let's get the request submitted. What do I do right now on this call?
+Agent: I'll flag your account for PMI cancellation review and submit the request to our PMI department. They'll confirm the balance verification, check your payment history, and process the cancellation. You should receive a written confirmation within thirty days.
+Caller: Is there any chance they'll deny it?
+Agent: If your balance is confirmed below eighty percent and your payment history is clean, denial would be unusual. The main reason for denial would be if a required appraisal showed the property value had declined significantly, but since we're using original value in your case, that's not a factor here.
+Caller: Great. Let's do it.
+Agent: Request submitted. Your PMI cancellation reference number is PMI-6-6-1-2-4-3-8. Is there anything else I can help with today, Nicole?
+Caller: No, that's everything. Thank you so much. One hundred and forty-two dollars a month back in my pocket is going to make a real difference.
+Agent: You've earned it. Congratulations on getting to this point. Have a great day.
+Caller: Thanks, James. You too.

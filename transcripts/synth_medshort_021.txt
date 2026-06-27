@@ -1,0 +1,42 @@
+Agent: Thank you for calling BlueRidge Mortgage, this is Maria speaking. How can I help you today?
+Caller: Hi Maria. I want to make an extra payment this month — just five hundred dollars extra — and I want to make sure it goes to principal only and not toward my next month's payment or anything like that.
+Agent: Hi there. That's a smart thing to do and I can absolutely help. Let me pull up your account first. Can I get your name and property address?
+Caller: Sure. My name is Nathaniel Ford. Address is 7734 Cedar Brook Lane, Richmond, Virginia 23220.
+Agent: Thank you. Last four of your Social Security number?
+Caller: 3381.
+Agent: And last four of the loan number?
+Caller: 6617.
+Agent: Perfect. I've got your account, Nathaniel. Now, let me make sure I understand what you're looking to do. You want to make your regular scheduled payment as normal, and then separately make an additional $500 that goes entirely to reduce your principal balance?
+Caller: Exactly. I don't want it to advance my next due date or anything like that.
+Agent: I completely understand and that's actually a really important point. By default, extra funds received above your regular payment could be applied to advance your next due date rather than to principal reduction, depending on how the payment is submitted. So it matters how we process it.
+Caller: That's exactly what I want to avoid. How do I make sure it's applied correctly?
+Agent: There are a few ways to ensure the extra payment is designated as principal-only. If you pay online through our borrower portal, there is a specific option when you make an additional payment to select principal reduction as the payment type. That designation carries through and ensures it's applied correctly.
+Caller: I don't usually use the online portal. Can I do it by phone?
+Agent: Absolutely. I can process a principal-only payment for you right now over the phone. I'll note it specifically as principal reduction in the payment instructions so our processing team applies it correctly.
+Caller: Let's do that. I've already made my regular payment for this month, which came out on the third. So this would just be the extra five hundred.
+Agent: Perfect. So this is a standalone additional principal payment of $500. Can I get your bank routing number and account number?
+Caller: Same account I have on file. Routing 051000017, account 4490183765.
+Agent: Thank you. Just to confirm: routing 051000017, checking account 4490183765, and you're authorizing a principal-only payment of $500?
+Caller: Yes, that's correct.
+Agent: Processing now. All right, Nathaniel, your principal-only payment of $500 has been submitted. Your confirmation number is BLPR-2024-003712. And I've specifically designated this as a principal reduction payment.
+Caller: Great. How long before I see it reflected in my balance?
+Agent: Principal payments typically post within one to two business days. Once it posts, your balance will drop by $500 and the interest that accrues going forward will be slightly lower because the balance is smaller.
+Caller: Even a small reduction makes a difference over time, right?
+Agent: It does. Let me give you a quick illustration. Your current rate is 5.5% on a balance of approximately $245,000. Each dollar of principal you reduce saves you about five and a half cents per year in interest, but more importantly it slightly shortens your amortization. If you made a $500 extra principal payment every month, you'd pay off the loan about three and a half years early and save around $28,000 in interest.
+Caller: That's motivating. I've been thinking about being more intentional about doing this regularly.
+Agent: Many borrowers set up a recurring extra principal payment so they don't have to remember to call each time. Would you like to do that?
+Caller: How would that work?
+Agent: We can set up a recurring additional principal payment of $500 to draft from your account the same day as your regular payment each month. So on the third of each month, your regular payment would draft, and an additional $500 designated as principal would also draft.
+Caller: Would that be on autopilot permanently or could I stop it?
+Agent: You can cancel or modify the recurring additional payment at any time with at least three business days' notice before the next draft date.
+Caller: That sounds really appealing. Let's set that up too.
+Agent: Great. I'll enroll you in a recurring monthly principal-only payment of $500, drafting on the third of each month from your account ending in 3765. Starting next month, you'll see two drafts on the third — your regular payment and the additional $500 principal payment.
+Caller: Perfect. And I'll get confirmation of all of this?
+Agent: You'll receive a confirmation of today's one-time payment by email if we have one on file, and the recurring enrollment will be noted on your next monthly statement. Would you like to provide an email for the confirmation?
+Caller: Sure. It's nathaniel.ford at outlook dot com.
+Agent: Got it. Nathaniel.ford at outlook.com. I'll submit the confirmation to that address.
+Caller: Thank you so much, Maria. I feel like I'm actually taking control of this thing now.
+Agent: That's a great feeling to have. You're making excellent financial decisions. Is there anything else I can help with today?
+Caller: No, that's perfect. Thank you.
+Agent: Of course. Have a great day, Nathaniel. Goodbye.
+Caller: Bye.
