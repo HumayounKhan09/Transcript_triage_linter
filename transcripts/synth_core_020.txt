@@ -1,0 +1,50 @@
+Agent: Horizon Mortgage Servicing, this is Lisa, how can I help you today?
+Caller: Hi. I got a letter from you about flood insurance and I am furious. I've lived in this house for eleven years and I've never had to buy flood insurance and now all of a sudden you're telling me my escrow is going to go up by a hundred and fifty dollars a month? I want an explanation.
+Agent: I completely understand your frustration and I want to give you a full explanation. Let me pull up your account. Loan number or address?
+Caller: Address is 8813 River Bend Terrace, Baton Rouge, Louisiana. Loan number is 706413.
+Agent: And your name and last four of your Social?
+Caller: Harold Lemieux. Social ends in 5542.
+Agent: Thank you Harold. I've got your account and I can see the flood insurance notification. You're right that this is a new requirement and I want to explain exactly why.
+Caller: Please. Because I've never flooded. My neighbors have never flooded. This whole neighborhood is perfectly safe.
+Agent: I hear you, and I want to explain that what changed has nothing to do with your specific property's flood history. It has to do with how FEMA — the Federal Emergency Management Agency — classifies flood risk zones. They update their flood maps periodically, and your property has been remapped.
+Caller: Remapped? What does that mean?
+Agent: FEMA maintains something called Flood Insurance Rate Maps, or FIRMs. They divide land into flood zones based on statistical risk models. Zone X, for instance, is low risk. Zone AE is the Special Flood Hazard Area — sometimes called the hundred-year floodplain — and it carries a mandatory flood insurance requirement for federally-backed mortgages.
+Caller: So I'm in the AE zone now?
+Agent: Yes. According to the updated FIRM that became effective last month for East Baton Rouge Parish, your property has been reclassified from Zone X to Zone AE. That reclassification triggers the mandatory flood insurance requirement under federal law.
+Caller: But I've been here eleven years without flooding. This seems crazy.
+Agent: I understand why it feels that way. FEMA's maps are based on elevation data, hydrology modeling, and rainfall projections. Sometimes their models change because of new data — satellite elevation surveys, revised rainfall patterns, climate modeling updates. It doesn't mean your house flooded or will flood. It means the statistical model now puts it in a higher-risk category.
+Caller: Can I fight this?
+Agent: Yes, actually. You have the right to challenge a FEMA flood map determination through a process called a Letter of Map Amendment, or LOMA. If you can get a licensed surveyor to certify that your property's lowest adjacent grade is above the base flood elevation — basically, that your house sits higher than FEMA's flood line — then FEMA can issue a LOMA that removes your property from the mandatory flood zone. If successful, the requirement goes away.
+Caller: How much does that cost?
+Agent: Getting a certified elevation certificate from a surveyor typically costs three hundred to seven hundred dollars depending on your area. Filing the LOMA itself with FEMA is free. If your elevation supports it, the LOMA can potentially be processed within sixty days.
+Caller: And in the meantime, do I have to buy flood insurance while I wait?
+Agent: Yes. Federal law requires that once we receive a Notice of Special Flood Hazard Area determination — which we have for your property — we must notify you and require you to obtain flood insurance within forty-five days if you have a federally-backed mortgage. Your loan is held by Fannie Mae, so this requirement applies.
+Caller: What happens if I don't buy it within forty-five days?
+Agent: If you don't obtain flood insurance within the required period, we are required under federal law to purchase flood insurance on your behalf. That's what's called force-placed insurance.
+Caller: And how much would that cost?
+Agent: Force-placed flood insurance is significantly more expensive than what you could buy on the open market through the NFIP — the National Flood Insurance Program. Force-placed policies can run three to four times the cost of a standard NFIP policy. So it's in your financial interest to purchase your own policy rather than have us force-place it.
+Caller: The letter said eighteen hundred dollars a year. Is that what flood insurance costs?
+Agent: Eighteen hundred is a common range for an NFIP policy for a residential property in an AE zone. The exact premium depends on your home's elevation, construction type, and coverage amount. You might be able to find policies in the fifteen hundred to twenty-two hundred range depending on specifics.
+Caller: So my escrow goes up by eighteen hundred dollars a year — that's a hundred and fifty dollars a month added to my payment?
+Agent: That's the estimate, yes. Your escrow would be adjusted to collect one hundred and fifty dollars a month to cover the premium. If you find a policy that's less expensive, the escrow adjustment would be smaller.
+Caller: Where do I buy NFIP insurance?
+Agent: Most standard homeowner's insurance agents sell NFIP policies. Call your current homeowner's insurance agent first — they can usually write an NFIP policy or point you to a carrier that can. NFIP policies are standardized by FEMA, but the agent can help you navigate the specifics.
+Caller: My current agent is with Allstate. Would they do it?
+Agent: Allstate does sell NFIP policies, yes. I'd call them and tell them you've been placed in Zone AE and need flood insurance to satisfy a lender requirement. They can quote you.
+Caller: Okay. Now, if I go the LOMA route and get it removed, what happens to the escrow?
+Agent: If FEMA issues a LOMA removing your property from the mandatory flood zone, you'd send us a copy of the LOMA, and we'd remove the flood insurance requirement. Any flood insurance you've purchased can be cancelled, and if your escrow has been collecting for it, you'd get a refund of the collected amount.
+Caller: So it's worth doing the LOMA even if it takes a few months?
+Agent: If the surveyor determines your elevation supports it, absolutely. You'd spend three to seven hundred on the survey, potentially get rid of eighteen hundred a year in insurance costs going forward. Break-even is under six months.
+Caller: My house is on a hill. I am genuinely up higher than the street.
+Agent: That's a positive indicator for a successful LOMA. An elevation certificate would confirm it formally. I'd call a licensed surveyor this week.
+Caller: Okay. I'm going to do that. And my forty-five day window starts when?
+Agent: From the date on the letter you received. Let me see — the notice went out on November 1st. So your deadline is December 16th.
+Caller: That gives me a few weeks. I'll call a surveyor and my insurance agent both today.
+Agent: That's the right plan. And Harold — even if you pursue the LOMA, you may want to get the policy in place before December 16th to be safe, in case the LOMA process takes longer than expected. You can cancel the policy if the LOMA comes through.
+Caller: Buy the insurance now, pursue the LOMA simultaneously, cancel the insurance if the LOMA is approved.
+Agent: Exactly right. That protects you on both fronts.
+Caller: Alright. I'm still not happy about this but at least now I understand it and I have a plan. Thank you Lisa.
+Agent: I understand the frustration — these remapping events affect whole neighborhoods and it feels very sudden. Is there anything else you need?
+Caller: No. I think I'm good. Going to make some calls.
+Agent: Good luck, Harold. Take care.
+Caller: Thank you. Bye.
