@@ -1,0 +1,1 @@
+{"intent": "PAYMENT_INTENT", "escalate": false, "risk_level": "LOW", "reason_codes": [{"_code": "PAYMENT_INTENT", "_is_escalation": false, "_score": 2}], "entities": {"_amounts": [], "_amount_contexts": [], "_dates": [], "_phones": [], "_loan_numbers": []}, "summary_bullet": ["General inquiry about account."]}
