@@ -1,0 +1,39 @@
+Agent: Thank you for calling Brightway Mortgage, this is Maria speaking. How can I help you today?
+Caller: Hi. My name is Carol Hutchins. I got a letter saying my mortgage is being transferred to some other company. I'm a little upset about it and I want to understand what's going on. Nobody asked me if I was okay with this.
+Agent: Hi Carol. I completely understand why that can feel unsettling. This is actually something that happens quite often in the mortgage industry, and I want to walk you through exactly what it means so you feel informed. Let me pull up your account first. Can I get your property address and the last four of your Social?
+Caller: 9902 Pinehurst Road, Nashville, Tennessee 37209. Social last four is 8854.
+Agent: Thank you. And last four of your loan number?
+Caller: 3366.
+Agent: Got it. I've got your account. So the letter you received is called a Transfer of Servicing notice. Can you tell me what date the letter says the transfer is effective?
+Caller: It says July 1st.
+Agent: Okay. So what does a servicing transfer actually mean. Your mortgage loan itself, the terms, the interest rate, the balance, all of that stays exactly the same. The only thing that changes is who collects your payment and manages your account day to day. That's called the servicer.
+Caller: So whoever I've been paying you is changing to someone else?
+Agent: Exactly. After July 1st, you'll send your payments to the new servicer, which in this case is Horizon Home Servicing. The letter should have their contact information, mailing address, and website.
+Caller: Why does this happen? Did I do something wrong? Is it because of a late payment?
+Agent: Not at all. Servicing transfers have nothing to do with your payment history. In the mortgage industry, lenders frequently buy and sell the rights to service loans as part of their business operations. It's a normal financial transaction on our end. Your loan is being transferred as part of a larger portfolio move, not because of anything related to your account specifically.
+Caller: So my interest rate won't change?
+Agent: Absolutely not. Your interest rate is locked by your loan agreement and cannot be changed by a servicing transfer.
+Caller: What about my escrow? I have property taxes and insurance in escrow.
+Agent: Your escrow balance transfers with the loan. The new servicer will receive your entire escrow account balance from us and will continue to pay your property taxes and homeowners insurance on your behalf. You shouldn't experience any interruption.
+Caller: What if there's a discrepancy in the balance when it transfers?
+Agent: If you believe there's an error in your escrow balance after the transfer, you'd contact the new servicer and they're required to investigate and respond within 30 days under federal law.
+Caller: Do I need to do anything right now?
+Agent: A couple of things. First, make sure your June payment, if it's not already made, comes to us here at Brightway, since we're still your servicer through June 30th. Starting with your July payment, you'll make payments to Horizon Home Servicing at the address in your letter.
+Caller: What if I accidentally send my July payment to you by mistake?
+Agent: That's a common concern. Under federal law, we're required to forward any misdirected payments to the new servicer for 60 days after the transfer date. So if your July payment arrives here by mistake, we'll forward it along and no late fee can be assessed during that period.
+Caller: Oh, that's a nice protection. I didn't know that.
+Agent: It's called the 60-day grace period under RESPA, the Real Estate Settlement Procedures Act. It's specifically designed to protect borrowers during servicing transitions.
+Caller: Okay. And if I have questions after July 1st, I call the new company?
+Agent: Yes, Horizon Home Servicing. Their number should be in the transfer notice letter. They'll have full access to your account history.
+Caller: What about my autopay? I have autopay set up with you.
+Agent: That's very important. Your autopay with us will not automatically transfer to the new servicer. You'll need to set up a new autopay with Horizon Home Servicing after July 1st. In the meantime, please make sure your July 1st payment is made manually or allow it to fail over to us where we'll forward it.
+Caller: I'll set it up right away after July 1st. I don't want to miss a payment.
+Agent: That's the right approach. I'd recommend calling Horizon Home Servicing shortly after the transfer date to set up autopay and verify your account details.
+Caller: I'm still a little frustrated that I wasn't given a choice in this. It feels personal.
+Agent: I understand that feeling. Unfortunately, the right to transfer loan servicing is typically included in your original mortgage agreement. While it can feel abrupt, the legal protections in place are designed to ensure you're treated fairly and nothing about your actual loan changes. Your home and your loan terms are exactly as they were.
+Caller: I guess I understand. Thank you for explaining all of this clearly, Maria.
+Agent: Of course. Is there anything else I can help you with today, Carol?
+Caller: No, I think I understand now. Thank you.
+Agent: Happy to help. Good luck with the transition and have a great day.
+Caller: You too. Goodbye.
+Agent: Goodbye.

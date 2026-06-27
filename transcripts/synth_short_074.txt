@@ -1,0 +1,36 @@
+Agent: Thank you for calling Pinnacle Mortgage Servicing. This is Yuki. How can I help you today?
+Caller: Hi Yuki. I'm thinking about refinancing with a different company and the loan officer over there asked me to confirm that my current loan is in good standing. I want to be able to tell them that with confidence. Can you give me a status rundown?
+Agent: Absolutely. That's something I can help verify. Let me pull up your account. Can I get your name and loan number?
+Caller: My name is Clarissa Worthington. My loan number is 3301-BB-60127.
+Agent: Thank you Clarissa. Can you confirm the property address?
+Caller: 2900 Shady Creek Lane, Minneapolis, Minnesota 55416.
+Agent: And the last four of your SSN?
+Caller: 7724.
+Agent: Thank you, I have your account. Let me do a thorough review so I can give you a complete picture.
+Caller: I appreciate it. Take your time.
+Agent: Alright, so starting with payment status — your account is current. Your most recent payment was received and posted on May 2nd. There are no missed payments, no delinquencies, and no past-due balances showing on the account.
+Caller: Good. And has there ever been a late payment?
+Agent: Let me look at your full payment history. I see one instance from about thirty-seven months ago where a payment was received seventeen days past the due date — that's still within the grace period — so that would not be classified as a late payment. Other than that your payment history is clean.
+Caller: Great. What about the loan balance and any flags?
+Agent: Your current unpaid principal balance is two hundred and seven thousand, eight hundred and eighty dollars. There are no derogatory flags, no loss mitigation actions, no open disputes, and no insurance or escrow issues on the account.
+Caller: Is the escrow account in good shape?
+Agent: Yes. Your escrow account has a positive balance and your most recent escrow analysis resulted in only a minor adjustment. Taxes and insurance are current with no shortfalls.
+Caller: And what about my payment history in terms of being on time? Would a new lender see that as clean?
+Agent: From our reporting, your loan has had a consistent on-time payment record as I mentioned. We report to credit bureaus monthly and your account has been reported as current every month with no late payment codes reported from this account.
+Caller: What about my interest rate and remaining term? The new lender will want those.
+Agent: Your current interest rate is 5.875 percent. Your loan is a thirty-year fixed-rate mortgage that originated in March of 2018. Based on your payment history your remaining term is approximately twenty-one years and nine months.
+Caller: And my original loan amount?
+Agent: Your original principal balance at origination was two hundred and sixty-five thousand dollars.
+Caller: So they can see I've paid down about fifty-seven thousand in principal over the years.
+Agent: Correct. That's consistent with a standard amortization schedule for your loan terms.
+Caller: One more thing — if the new lender wants a formal verification of mortgage, can they get that from you?
+Agent: Yes. New lenders typically request a Verification of Mortgage, or VOM, directly from us as part of their underwriting process. They would contact us through our lender verification line, and we'd provide a standardized document showing current balance, payment history, monthly payment amount, and account status.
+Caller: I don't need to do anything to initiate that?
+Agent: No. It's a lender-to-lender request. You'd simply authorize the new lender to contact us, which is typically part of the loan application paperwork you sign with them.
+Caller: Perfect. So I can go back and tell them my loan is in good standing with no issues?
+Agent: Yes, that's accurate based on everything I see on this account.
+Caller: Wonderful. Thank you so much Yuki, you were very thorough.
+Agent: My pleasure Clarissa. Good luck with your refinance. Is there anything else I can help you with?
+Caller: No, that's everything. Have a great day.
+Agent: You too. Goodbye.
+Caller: Bye.

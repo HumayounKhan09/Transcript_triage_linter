@@ -1,0 +1,32 @@
+Agent: Thank you for calling Landmark Mortgage Servicing, this is Lisa speaking. How can I help you today?
+Caller: Hi Lisa. My name is Priscilla Moore. I was looking at my credit report and the way my mortgage is listed looks weird to me. It shows a balance that doesn't match what I think I owe, and the account name is different from what I expected. I want to make sure everything is being reported correctly.
+Agent: Hi Priscilla. That's definitely worth looking into. Accurate credit reporting is important. Let me pull up your account so we can compare. Can I get your property address and the last four of your Social?
+Caller: It's 5588 Oakmont Terrace, Kansas City, Missouri 64114. Social last four is 1147.
+Agent: And the last four of your loan number?
+Caller: 6604.
+Agent: Great. I've got your account. Can you tell me exactly what you see on your credit report? Which bureau, and what name appears on the account?
+Caller: I checked through Credit Karma, which pulls from TransUnion. The account name shows as LMF Holdings LLC and the balance shows as $223,000. But when I log into my mortgage account, I see a balance of $219,500. That's over three thousand dollars off.
+Agent: Okay, let me address both of those. First, LMF Holdings LLC — that's actually one of our investor entities. When your mortgage is sold on the secondary market, the servicing may remain with us, but the underlying loan ownership may be held by an investment entity. LMF Holdings LLC is affiliated with Landmark and is how the loan appears in the credit reporting system. This is normal and not a sign of anything improper.
+Caller: Oh, interesting. So I'm still paying you but the actual owner of the loan is this LMF Holdings?
+Agent: Exactly. You continue to make payments to us and work with us for everything. LMF Holdings is simply the investor or legal owner of the note. Most mortgages are owned by investors or entities like this, including Fannie Mae, Freddie Mac, or private entities.
+Caller: Okay, that makes sense. But what about the $3,500 balance difference?
+Agent: Good catch. Let me look at the timing. Your account balance as of today is $219,500. Credit bureaus receive reporting from us on a monthly basis, and there is usually a lag between when a payment is received and when it reflects on your credit report. When was your last payment?
+Caller: I paid on June 1st. I paid my full monthly payment of $1,924.
+Agent: And today is June 14th. Depending on the reporting cycle, your June payment may not yet have updated on the credit report. The bureau may be reflecting your balance as of May's reporting date, before your June payment posted. Let me check the reporting history on our end.
+Caller: So it might just be a timing thing?
+Agent: Yes. Looking at our records, we reported your balance to TransUnion on May 31st, which would have reflected your balance before your June 1st payment. The balance at that time was $223,042, which matches what you're seeing.
+Caller: So it's not actually wrong, just a month behind?
+Agent: Correct. Your credit report should update to reflect the lower balance after our next reporting cycle, which typically occurs at the end of this month. Once that posts, you should see the current balance of approximately $219,500.
+Caller: That's a relief. I also noticed the credit report shows the original loan amount as $248,000, but I thought I borrowed $245,000. Is that also a reporting error?
+Agent: Let me check your origination details. Your original loan amount at origination was $245,000. However, the figure of $248,000 may include financed closing costs or prepaid items if any were rolled into the loan at closing. Do you recall if any closing costs were financed?
+Caller: Actually, yes. I think we rolled some of the closing costs in. My origination fees and something else.
+Agent: That would account for the difference. The $248,000 represents the total financed amount including those costs, while you may have been quoted a base loan of $245,000 before the financed items. This is standard and would have been disclosed on your closing documents.
+Caller: Okay. So nothing on my credit report is actually wrong?
+Agent: Based on what we've discussed, no. The account name reflects the investor entity, which is accurate. The balance discrepancy is a one-month reporting lag, and the original loan amount includes financed closing costs. Everything looks correct.
+Caller: That's a big relief. I was worried someone had made an error or worse.
+Agent: Completely understandable. It's always wise to check your credit report regularly. If after the end of this month you still see the old balance on your TransUnion report, please call us back and we can look at filing a dispute on your behalf.
+Caller: Good to know. Thank you so much for explaining all of this, Lisa. You were really thorough.
+Agent: Of course. Is there anything else I can help you with today, Priscilla?
+Caller: No, I think that covers it.
+Agent: Wonderful. Have a great day. Goodbye.
+Caller: You too. Bye.

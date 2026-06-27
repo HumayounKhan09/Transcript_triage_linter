@@ -1,0 +1,43 @@
+Agent: Thank you for calling Horizon Home Lending, this is Sandra. How can I assist you?
+Caller: Hi Sandra. I heard that some mortgage companies let you pay every two weeks instead of once a month. Do you offer that?
+Agent: Great question. Yes, we do offer a bi-weekly payment program. Let me pull up your account and we can talk through the details. May I have your name?
+Caller: Owen Fitzgerald.
+Agent: Thank you, Mr. Fitzgerald. And the last four of your Social Security Number?
+Caller: 7714.
+Agent: And the property address?
+Caller: 663 Redwood Circle, Portland, Oregon 97209.
+Agent: Got it. I have your account. So you're asking about our bi-weekly payment program. Are you familiar with how it works, or would you like me to explain?
+Caller: Please explain it. I've heard it saves money but I don't understand why.
+Agent: Happy to. Instead of making one payment per month, you make half of your regular payment every two weeks. Because there are 52 weeks in a year, you end up making 26 half-payments — which equals 13 full payments per year instead of 12.
+Caller: So I basically make one extra full payment per year without really feeling it.
+Agent: Exactly. That extra payment goes directly to your principal balance, which reduces interest accrual and shortens your loan term.
+Caller: How much shorter are we talking?
+Agent: Based on your current balance and interest rate, enrolling in bi-weekly payments would shorten your loan term by approximately 4 years and 3 months, and save you roughly $28,400 in total interest over the life of the loan.
+Caller: That's a significant savings. So why doesn't everyone do this?
+Agent: Some people prefer the simplicity of a single monthly payment and the budget predictability that comes with it. Others prefer to control their own extra payments manually. The bi-weekly program automates it for those who benefit from that structure.
+Caller: Is there a fee to enroll?
+Agent: Our bi-weekly program has a one-time enrollment fee of $295. Some borrowers compare that against the long-term interest savings and decide it's worthwhile.
+Caller: $295 one time versus saving $28,000 over the loan. That math seems obvious.
+Agent: Many customers see it that way. Just keep in mind the savings are realized over the full remaining loan term, not immediately.
+Caller: How does the payment work exactly? Does it come out of my bank automatically?
+Agent: Yes. The bi-weekly program requires ACH auto-debit from a checking or savings account. Half your payment would be drafted every two weeks. Your current monthly payment is $1,541.00, so the bi-weekly draft would be $770.50.
+Caller: And those drafts — do they align with any particular schedule like my paydays?
+Agent: We set the draft schedule based on your enrollment date. We try to align it with a biweekly cadence, and you can request that drafts start on a specific weekday.
+Caller: I get paid every other Friday, so I'd want it to come out on Fridays.
+Agent: That's a common request and we can generally accommodate it.
+Caller: Okay. How do I enroll?
+Agent: I can initiate enrollment on this call. I'd need your bank routing and account number, and your verbal consent. After that, an enrollment confirmation is mailed to you for your records. The first draft begins about 14 days after enrollment is complete.
+Caller: So my first draft would still be a couple weeks out?
+Agent: Yes. And your July monthly payment — if it's not yet made — would still be your responsibility through normal channels before bi-weekly drafts begin.
+Caller: I already paid July. Let's do this.
+Agent: Great. Can you grab your routing and account number?
+Caller: Sure, hold on. Routing is 121042882, account is 7730048819.
+Agent: Got it. Routing 121042882, account ending in 8819. Is this a checking account?
+Caller: Yes.
+Agent: Perfect. I'll initiate the bi-weekly enrollment now. You'll receive a confirmation packet in the mail within 5 to 7 business days.
+Caller: Excellent. Thanks for explaining everything clearly, Sandra.
+Agent: My pleasure. Is there anything else I can help you with today?
+Caller: No, that's all. Really appreciate it.
+Agent: Of course. Thank you for calling Horizon Home Lending. Have a great day, Mr. Fitzgerald.
+Caller: You too. Bye.
+Agent: Goodbye.

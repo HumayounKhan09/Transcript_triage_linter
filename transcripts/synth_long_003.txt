@@ -1,0 +1,69 @@
+Agent: Thank you for calling Cascade Home Lending, this is Sandra speaking, how can I assist you today?
+Caller: Yeah, Sandra, my name is Robert Finch, loan number 551087. I've been dealing with this company for six months over fees that were charged to my account in error, and I am done being patient. I want to speak to a supervisor.
+Agent: Mr. Finch, I hear you, and I'm sorry you're frustrated. I'd like to pull up your account and try to help you directly before transferring, if that's okay. Sometimes I can resolve things faster than a supervisor because I don't have to wait for a warm transfer. Can you verify your social's last four and your property address?
+Caller: Fine. 8-8-4-2. Address is 712 Orchard Glen Road, Charlotte, North Carolina 28205. But I'm telling you right now, I have been through this with four different agents, and every one of them said the same things and nothing got fixed.
+Agent: I understand, and that is not acceptable. I'm looking at your account right now and I want to read through the notes before I say anything so I actually understand what's happened. Can you give me two minutes to review the history?
+Caller: Sure. Take your time. I've got all day apparently.
+Agent: Okay. Mr. Finch, I'm looking at your account and I can see a series of notes going back to March. I want to make sure I have the full picture — can you tell me in your own words what happened, from the beginning?
+Caller: Sure. In February, my bank changed routing numbers when they merged with another bank. I updated my autopay online but apparently something didn't save correctly on your end. So my February payment didn't come through. I called in March when I got the late notice, I paid immediately, I thought it was resolved. But then I started seeing late fees — $95 fees — going back to February. And then March had one too because apparently the payment was one day late when I made it. And this kept cascading. I ended up with six months of $95 late fees, that's $570. And I've been trying to get that reversed for six months.
+Agent: I'm seeing the fee history here. Let me count them. February 15th, $95. March 3rd, $95. Then additional fees in April, May, June, and July. That's six total, $570. And looking at the notes — I see you called on March 8th, March 29th, April 14th, May 22nd, and June 30th.
+Caller: Five calls. And on March 29th, an agent named — I wrote it down — an agent named David told me he was escalating it and a supervisor would call me back within 48 hours. That callback never happened. Then I called in April and they said there was no record of the escalation request. Then in May I was told the fees were being reviewed and I'd get a letter. The letter never came. I got another late fee notice instead.
+Agent: Mr. Finch, I'm looking at the March 29th note and I can confirm it does say escalation requested, supervisor callback promised within 48 hours. And I can see there's no record of that callback being completed. That is a failure on our end, and I want to acknowledge that directly.
+Caller: Thank you. Finally someone admits it. Because here's the thing, Sandra — I've kept every note, every date, every agent name. I have a written log. And if this isn't resolved today, my next call is to the CFPB. I've already drafted the complaint. And my brother-in-law is an attorney and he's told me I have a legitimate claim for damages given the documented broken promises.
+Agent: I take that very seriously, and I'm not going to dismiss it. Let me look at what I can actually do here, and then I want to escalate appropriately regardless. I have the authority to reverse up to two late fees without supervisor approval. The additional four would need supervisor review. But I want to be transparent with you — I think your situation warrants full review, not partial. Can I ask you to hold briefly while I get a supervisor on the line with us?
+Caller: Yes, finally. That's what I've been asking for.
+Agent: Please hold, Mr. Finch. I'll be back within three minutes.
+Caller: Okay.
+Agent: Mr. Finch, thank you for holding. I have Kevin Miller, our senior customer resolution manager, joining the call. Kevin, I've briefed you — Mr. Finch, loan 551087, six late fees totaling $570 stemming from a bank routing number change in February, multiple broken callback promises documented in our notes, caller has a written log and is prepared to file a CFPB complaint.
+Caller: That's right.
+Agent: Kevin, I'll let you take it from here.
+Kevin: Mr. Finch, this is Kevin Miller. I'm the senior customer resolution manager and I've been listening since Sandra briefed me. I've been reviewing your account while we were on hold and I want to be direct: what I see in these notes is not acceptable. You were promised a callback on March 29th. That callback didn't happen. You were told in May that a letter was being sent. That letter wasn't sent. Those are documented failures.
+Caller: Yes. Exactly. And yet I keep getting late fees. My credit score dropped 27 points because of late payment reporting, by the way. That's a separate issue I want to address.
+Kevin: Noted. I want to address both. Let me start with the fees. I have the authority to reverse fees in cases of servicer error or documented broken promises. Looking at this account, the original February late fee is debatable — it was technically our system that failed to process the autopay — but I will acknowledge that you updated the information and the failure was on our end. That fee, February 15th, $95, I'm reversing that now.
+Caller: Okay.
+Kevin: The March 3rd fee — this one is related to the one-day-late payment you made when you called in to resolve the February issue. You paid on March 3rd, and the payment was due March 1st. That's borderline. However, given that you were calling specifically to resolve a servicer error, charging you a fee for that payment is not something I can stand behind. I'm reversing that as well.
+Caller: Good. That's two. What about the other four?
+Kevin: The April through July fees are where it gets more complicated. Once the February and March payments were applied, your account should have been current. Let me look at whether those subsequent fees were legitimately triggered.
+Caller: I can tell you what happened. In April I made my payment on the 5th, which is within my grace period. The fee shouldn't have triggered at all.
+Kevin: You're right. Your grace period extends through the 15th of the month. An April 5th payment should not have generated a late fee. I'm looking at the transaction log... the payment was received April 5th and posted April 6th. The fee was generated April 2nd automatically. There appears to have been a system error — the fee triggered before the grace period even elapsed.
+Caller: So it was wrong.
+Kevin: It was wrong. I'm reversing the April fee. That's three.
+Caller: May, June, July. Three more.
+Kevin: May and June — let me look at the payment dates. May payment was received May 12th, posted May 13th. Fee generated May 3rd. Same issue — fee generated before grace period elapsed. That is a system error. I'm reversing May.
+Caller: And June?
+Kevin: June payment received June 10th. Fee generated June 4th. Again, within the grace period. Reversing June as well. That's five of six.
+Caller: July.
+Kevin: July is different. July payment was received July 18th, which is after the 15th grace period cutoff. That fee was technically correct.
+Caller: I was on vacation July 18th and I called ahead and an agent told me that as long as I paid before the end of July I wouldn't have a fee.
+Kevin: Is that documented in the notes? Let me look... I see a July 9th call. The note says — caller inquired about payment date flexibility during travel, agent advised to pay by July 15th to avoid fee.
+Caller: That's not what I was told. I was told end of July. I have a note of who I spoke to — it was someone named Angela.
+Kevin: I see an Angela on the July 9th call. The note doesn't support what you say you were told, but I also acknowledge that our agents don't always document conversations fully. This is a he-said-she-said situation, Mr. Finch, and I want to be honest with you about that.
+Caller: So what are you going to do?
+Kevin: Given the documented pattern of errors on this account, and given that you've already been through five calls with broken promises, I'm going to reverse the July fee as well as a goodwill gesture. Not because the fee was necessarily wrong by the letter, but because you have been failed by this company repeatedly and I'm not going to fight you over $95 given that context.
+Caller: Okay. So all six are reversed.
+Kevin: All six, $570 total, reversed. I'm entering those right now. You'll see your account balance updated within one to two business days.
+Caller: What about the credit reporting? My score dropped 27 points.
+Kevin: That's the harder one. Our credit reporting obligation is governed by federal law, specifically the Fair Credit Reporting Act. We can submit what's called a deletion or correction request to the credit bureaus, but the bureaus make the final determination. If the reporting was accurate at the time of reporting — meaning your payments were genuinely late when we reported them — we can request a goodwill adjustment but cannot guarantee the bureaus will act on it.
+Caller: The February payment was late because your system failed. That should be deleted.
+Kevin: I agree, and I'll submit a goodwill correction request to all three bureaus for the February reporting. For March, which was one day late due to circumstances related to calling us to fix a servicer error, I'll also include that in the goodwill request. For April through June, since those fees were wrong — the system was reporting late when you were actually in the grace period — there may be grounds for correction there as well. I'll note all of this in the correction request.
+Caller: How long does that take?
+Kevin: The bureaus have 30 to 45 days to investigate and respond. I'll give you a reference number you can use to follow up. The correction request reference will be CR-2023-0904-Finch.
+Caller: Okay. And what about the complaint I was about to file?
+Kevin: That is entirely your right, Mr. Finch. Filing a CFPB complaint is always a valid option regardless of what happens on this call. I would only ask that you note in your complaint that a resolution was reached today, because the CFPB looks at final outcomes. If you file before our resolution takes effect, the record will show a complaint filed before the correction was applied, which can sometimes muddy the waters.
+Caller: I'll wait a week and see if the fees actually drop off my account. If they do, I'll decide then.
+Kevin: That's fair and reasonable. Sandra, are you still on the line?
+Agent: Yes, I'm here.
+Kevin: Sandra, can you document the full resolution on this account — all six fees reversed, credit correction request submitted under reference CR-2023-0904-Finch, and note that the caller has been promised a follow-up letter summarizing today's resolution?
+Agent: I'll document all of that right now. Mr. Finch, you should also receive a written confirmation letter within seven business days summarizing all actions taken today.
+Caller: I want that in writing. I've been burned before with verbal promises.
+Kevin: That's completely understandable, and you will have it. Is there anything else I can address for you today?
+Caller: Yeah, one more thing. Can you make sure my autopay is actually set up correctly so this never happens again?
+Agent: I'm looking at your autopay settings right now. Your bank account on file ends in 7733, routing number — I can verify this — is it 253279846?
+Caller: Let me check. Yes, that's the new routing number. That's the correct one.
+Agent: I'm confirming it's correctly entered, and I'm adding a note to run a manual verification payment next cycle. We can do a $0.01 micro-test to confirm the account is functional before your September 1st payment due date.
+Caller: Yeah, let's do that.
+Agent: Done. Mr. Finch, I want to say on behalf of Cascade Home Lending, I'm sorry for the experience you've had. This should not have taken six months and five calls. The promises that were made and not kept are not acceptable.
+Caller: I appreciate you saying that. And Kevin, thank you for actually doing something today instead of just telling me you understand my frustration.
+Kevin: It's the least I can do. Take care, Mr. Finch.
+Caller: Goodbye.
+Agent: Thank you. Goodbye.

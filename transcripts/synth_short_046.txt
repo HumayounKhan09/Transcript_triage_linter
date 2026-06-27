@@ -1,0 +1,37 @@
+Agent: Thank you for calling Parkway Mortgage Servicing, this is Tom. How can I help you today?
+Caller: Hi Tom. I'm going to be applying for a car loan next month and the dealer mentioned my mortgage payment history would be reviewed. I want to make sure my account is current and I have no late payments showing.
+Agent: Absolutely, I can verify that for you. Let me pull up your account. Can I get your full name?
+Caller: Denise Whitfield.
+Agent: Thank you, Ms. Whitfield. And your loan number or property address?
+Caller: Property address is 341 Birchbark Way, Indianapolis, Indiana.
+Agent: And to verify your identity, the last four of your Social Security number?
+Caller: 8851.
+Agent: And your date of birth?
+Caller: June 13, 1984.
+Agent: Thank you. One moment while I access your account.
+Caller: Sure.
+Agent: Okay, I have your account here. I can confirm that your account is current. Your most recent payment was received on June 2nd and applied to your June obligation. Your account has no outstanding balance due and your next payment is due on July 1st.
+Caller: Good. And what about late payments? Has there ever been a late payment showing on the account?
+Agent: I'm looking at your full payment history. Over the life of the loan, I can see that all payments have been made within the grace period. Your loan has a grace period through the 15th of each month. All payments on record have been received by the 15th, so no late fees have ever been assessed and there are no delinquency marks on the account.
+Caller: That's a relief. How far back does your history go?
+Agent: Your loan originated in March 2017, so we have the full history from origination through today. All 87 payments made to date have been on time within the grace period.
+Caller: 87 payments, all on time. That's what I wanted to hear.
+Agent: You have an excellent payment record. That should reflect well when a lender reviews your mortgage history as part of the car loan application.
+Caller: Can I get some kind of written confirmation of that? Like a letter or printout that I could show the dealer or lender?
+Agent: Yes, we can provide a payment history statement. You have a couple of options. Online, through your borrower portal, you can download a payment history report in PDF format that shows all payment dates, amounts, and how they were applied. If you need something more formal, we can also generate a mortgage verification letter on company letterhead that states your account is current and in good standing.
+Caller: Which would be better for a car loan application?
+Agent: For most auto loan applications, the payment history report from your online account is usually sufficient. Lenders will also be able to see your payment history through your credit report, which is the primary source they use. The letter on letterhead is more often requested for things like apartment rentals or professional verifications.
+Caller: Okay, so just downloading the history report should be fine?
+Agent: In most cases, yes. If the lender specifically asks for a letter, you can call us back and we can arrange that. There's no charge for either document.
+Caller: Perfect. How do I download the history report online?
+Agent: Log in to your account on our website. From the main account overview page, look for the Payment History section. There should be an option to view or download a statement. You can choose a date range, and I'd recommend selecting from loan origination to present to capture the full history.
+Caller: That sounds straightforward. And it would show all 87 payments?
+Agent: Yes, it'll show every payment with the date received, the amount, and how it was applied, meaning how much went to principal, interest, and escrow.
+Caller: That's actually more detail than I need but good to have. One more thing. Is there any risk that the car loan inquiry could affect my mortgage in any way?
+Agent: No, a credit inquiry from an auto lender doesn't affect your mortgage account with us at all. The only way your mortgage account would be impacted is if you stopped making payments, which doesn't sound like anything you're planning.
+Caller: Definitely not. Okay, I feel good. Thanks for confirming everything, Tom.
+Agent: Of course, and good luck with the car loan application. Is there anything else I can help you with today?
+Caller: No, that's all. Thanks again.
+Agent: Thank you for calling Parkway Mortgage Servicing, Ms. Whitfield. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

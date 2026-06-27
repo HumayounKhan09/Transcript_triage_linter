@@ -1,0 +1,46 @@
+Agent: Horizon Mortgage Servicing, this is Lisa, how can I help you today?
+Caller: Hi Lisa. I recently inherited some money and I want to put fifteen thousand dollars toward my mortgage principal. I want to make sure I do this right so it actually reduces the principal and doesn't just get applied to next month's payment.
+Agent: That's wonderful, and I love that you're thinking about it carefully. Let me pull up your account so I can walk you through the process and the impact. Loan number or address?
+Caller: Loan number is 739561. Address is 31 Cottonwood Circle, Albuquerque, New Mexico.
+Agent: And your name and last four of your Social?
+Caller: Brenda Nakamura. Social ends in 6630.
+Agent: Got you, Brenda. I've got your account. Your current loan balance is two hundred and twenty-eight thousand four hundred and fifty-two dollars, and your interest rate is five point eight seven five percent. Monthly payment is one thousand three hundred and nineteen dollars. Let me tell you exactly what the fifteen thousand would do.
+Caller: Please. And I want to make sure it goes to principal, not toward future payments.
+Agent: Absolutely. When you make the payment, you'll need to specifically designate it as a principal-only payment. That's the key step. If you just send in fifteen thousand with no designation, our system might apply it as prepaid monthly payments — which is not what you want.
+Caller: How do I designate it?
+Agent: If you pay online, there's a specific "additional principal" payment option in the payment menu — it's separate from your regular payment. If you pay by check, write "principal only" on the memo line. And if you want to call in and make the payment over the phone, just tell the rep it's for principal only. Any of those methods will work.
+Caller: Okay. What does fifteen thousand toward principal actually do to my loan?
+Agent: Great question. Let me walk you through the math. Your current balance is two hundred and twenty-eight thousand, four hundred and fifty-two dollars. If you pay fifteen thousand to principal today, your new balance becomes two hundred and thirteen thousand, four hundred and fifty-two dollars.
+Caller: Does my monthly payment go down?
+Agent: Not automatically. Your loan has a fixed payment schedule — the payment amount stays the same. What changes is how that payment is allocated. Right now, a bigger portion goes to interest and a smaller portion to principal. After a large principal reduction, more of each payment goes to principal and less to interest.
+Caller: So my payment stays the same but the loan gets paid off faster?
+Agent: Exactly. Let me give you the numbers. On your current schedule, you're approximately eleven years and four months into a thirty-year loan, which means you have about eighteen years and eight months remaining. With a fifteen thousand dollar principal reduction today, you'd shave off approximately seventeen months of payments.
+Caller: Seventeen months. So instead of being done in about eighteen and a half years, I'd be done in about seventeen years?
+Agent: Yes, roughly. And the interest savings are significant. Let me calculate that for you. Over the remaining life of your loan, you'd save approximately fourteen thousand two hundred dollars in interest by making this payment today.
+Caller: That's incredible. So I put in fifteen thousand and save fourteen thousand in interest on top of that?
+Agent: Essentially, yes. The interest savings accumulate over the remaining life of the loan. The earlier in the amortization schedule you make a large principal payment, the more you save, because interest accrues on the outstanding balance.
+Caller: That's almost like getting a guaranteed return on the fifteen thousand.
+Agent: Exactly right. It's a guaranteed tax-free return equal to your interest rate of five point eight seven five percent. If you had invested that money elsewhere, you'd need to beat five point eight seven five percent after taxes to do better than paying down the mortgage.
+Caller: Wow. I hadn't thought of it that way. My financial advisor mentioned I might be better off investing the money, but I don't know.
+Agent: That's a legitimate debate and I don't want to tell you what's right for your situation — that's really a conversation for your financial advisor. But what I can tell you is the guaranteed math. The mortgage paydown is a guaranteed five point eight seven five percent return. Whether you can reliably beat that in the market, after taxes, is a question your advisor is better positioned to answer.
+Caller: Fair enough. Okay, let's say I decide to go ahead with the fifteen thousand. When should I make the payment?
+Agent: You can make it any time. A few things to keep in mind — interest accrues daily on your balance, so the sooner you pay, the more you save. Also, if you haven't already made your regular payment this month, make the regular payment first, then make the principal-only payment separately. Or make them at the same time but keep them as two separate transactions.
+Caller: My regular payment is due on the first. It's currently the twenty-second. Should I pay the regular payment now and then the principal?
+Agent: If your payment isn't due for ten more days, you can time it however you like. Some people prefer to pay them together. Just make sure both are coded correctly — one as your regular payment and one as principal only.
+Caller: Can I do both on the website at the same time?
+Agent: Yes. In the payment portal, you can make your regular scheduled payment and also make an additional principal payment in the same session. They'll post separately.
+Caller: And I'll see the balance update?
+Agent: Usually within one to two business days of the payment posting, your balance will reflect the principal reduction. You can log in and verify.
+Caller: What about my amortization schedule? Can I see the updated one?
+Agent: Yes. After the payment posts, you can request an updated amortization schedule through the website or we can mail one to you. It will show the revised payoff timeline.
+Caller: That would be great to have. I'd love to see it in black and white.
+Agent: Once the payment posts, just log into your account and look for "loan details" or call us back and we can mail it.
+Caller: Okay. I think I'm ready to do this. Let me make sure I have it right — make my regular payment, make a separate principal-only payment for fifteen thousand, and the balance drops, the loan shortens by about seventeen months.
+Agent: That's exactly right. And Brenda, this is a really smart use of an inheritance. Your future self will thank you.
+Caller: Ha, that's what I keep telling myself. The money is just sitting in a savings account earning two percent interest. This just seems like the right move.
+Agent: At five point eight seven five versus two percent, the math is pretty clear. You're losing ground leaving it in savings.
+Caller: That's what I figured. Okay, I'm going to go online today and get it done. Thank you so much, Lisa.
+Agent: My pleasure. Is there anything else I can help you with today?
+Caller: No, I think that's it. You answered all my questions.
+Agent: Wonderful. Congratulations on the decision and enjoy the peace of mind of a shorter loan. Have a great day.
+Caller: Thank you. Bye bye.

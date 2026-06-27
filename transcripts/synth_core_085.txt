@@ -1,0 +1,43 @@
+Agent: Thank you for calling Evergreen Mortgage Servicing, this is Fatima. How can I help you today?
+Caller: Hi Fatima, my name is Leonard Ashby. I'm trying to get a subordination agreement from you guys. My loan number is 7720-4401. I'm putting solar panels on my house and the solar company's lender is requiring that my mortgage lender subordinate to their lien.
+Agent: Hi Leonard, I can help walk you through the subordination process. Let me pull up your loan. Okay, I see your account — a thirty-year fixed conventional loan on your property in Tucson, Arizona. And you said this is for a solar panel installation?
+Caller: Right. I'm going with SunStream Energy. They're financing the solar system through their lending partner. The system costs about forty-one thousand dollars. And their lender — I think it's a company called Green Capital Funding — is putting a lien on my house as collateral for the loan.
+Agent: I see. So you have two questions embedded in this really — whether we'll grant the subordination, and how to initiate the process.
+Caller: Exactly. I wasn't sure if this was even something you do.
+Agent: We do review and sometimes grant subordination requests. A subordination agreement allows a junior lienholder to maintain their lien position while acknowledging that our first mortgage takes priority in the event of a default or foreclosure. In this context, Green Capital Funding would be in second position behind us.
+Caller: So you'd be first and they'd be second?
+Agent: That's the structure. The question we look at is whether the combined loan-to-value ratio of all liens against the property is within acceptable limits, and whether the subordination request meets our guidelines.
+Caller: What's your current loan-to-value on my loan?
+Agent: Let me check. Your current outstanding loan balance is one hundred eighty-eight thousand dollars. I don't have a current appraisal on file but based on your original appraisal and estimated appreciation, your property was valued at three hundred ten thousand at closing two years ago. Estimated current value is likely in the three hundred twenty to three hundred forty thousand range, but we'd need a current value to make a formal determination.
+Caller: My neighbor's house sold last month for three hundred fifty thousand and it's comparable to mine. So let's say three hundred forty thousand.
+Agent: Using three hundred forty thousand as the value, your first mortgage LTV is about fifty-five percent. Adding the forty-one thousand solar lien, the combined LTV would be approximately sixty-seven percent. That's generally within the range we'd consider for a subordination.
+Caller: So there's a decent chance you'd approve it?
+Agent: I can't make a guarantee on this call, but sixty-seven percent combined LTV is not an alarm level. The formal process involves a written subordination request submitted through our servicing department, a current appraisal or valuation, a copy of the proposed lien documents from Green Capital Funding, and a subordination fee.
+Caller: What's the fee?
+Agent: Our subordination processing fee is three hundred dollars. Some requests may also require a title endorsement or updated title search, which would be a separate cost paid to the title company — typically three hundred to five hundred dollars for a subordination endorsement.
+Caller: So potentially six hundred or more just in fees to process this?
+Agent: That's a reasonable estimate for the full process including title work. Whether you need a new title policy endorsement depends on the requirements of both your loan and Green Capital Funding's lender.
+Caller: Green Capital said they need the subordination agreement before they can fund the solar loan. How long does this process take?
+Agent: Once we receive the complete request package, our review team takes fifteen to twenty business days — that's three to four weeks. Given that solar financing often has rate lock or funding deadlines, I'd recommend starting the process as soon as possible.
+Caller: What do I need to submit exactly?
+Agent: You'll need to submit a subordination request letter stating the purpose of the subordination and the terms of the new lien. You'll also need a copy of the solar financing documents — the loan agreement showing the amount, term, and lien position — and a current appraisal or broker price opinion. The request should come with the three hundred dollar processing fee.
+Caller: Where do I send all that?
+Agent: You can mail the package to Evergreen Mortgage Servicing, Subordination Department, 8800 Evergreen Parkway, Suite 300, Tucson, AZ 85701. You can also request the submission form online at evergreenmortgage.com under Loan Services.
+Caller: Is there any chance this gets denied?
+Agent: There are a few scenarios where we might not be able to approve. If the combined LTV exceeds our guidelines — typically we cap at eighty percent for conventional loans — that would be a concern. If the new lien has terms that create a risk to our collateral position, that could also be a factor. And if your loan is current but very recently delinquent, that could affect approval.
+Caller: My loan is current and I've never been late.
+Agent: That's a positive factor. Payment history on the primary mortgage is considered.
+Caller: What about the solar lien terms — does the length or interest rate of the solar loan matter to you?
+Agent: We look at the overall risk picture. A twenty-year solar lien at a fixed rate is viewed differently than a floating rate product. If the solar lien has acceleration clauses or unusual terms, that could require additional review. Your standard SunStream solar loan is typically a familiar product to our review team.
+Caller: SunStream said their rate is seven point nine percent fixed for twenty years. Monthly payment would be around three hundred fifty dollars.
+Agent: That's a fairly standard solar loan structure and not one that would raise unusual flags. Your combined mortgage and solar payment monthly would be your mortgage payment plus three hundred fifty — what's your current mortgage payment?
+Caller: About fourteen hundred a month.
+Agent: So combined you'd be at seventeen-fifty. As long as that fits your budget and your overall debt-to-income is reasonable, the payment structure itself isn't an obstacle to the subordination.
+Caller: Okay. I'm going to get the package together. One more thing — does the subordination agreement affect my homeowner's insurance in any way?
+Agent: No, it doesn't. The subordination only addresses lien priority, not insurance. However, solar panel systems should be added to your homeowner's insurance policy as an endorsement — make sure they're covered for damage or theft. That's a separate conversation with your insurer.
+Caller: Oh, I hadn't thought of that. Good to know.
+Agent: Your insurer can add a solar panel endorsement that covers them as part of the dwelling. Some policies include them automatically under the dwelling coverage; others require a rider.
+Caller: I'll call my insurance company too. Okay, Fatima — this was really comprehensive. Thank you.
+Agent: Happy to help, Leonard. Get that package submitted soon so you have enough time for the review before your funding deadline. Is there anything else?
+Caller: No, that's everything. Thanks.
+Agent: Have a great day.

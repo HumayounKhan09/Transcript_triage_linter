@@ -1,0 +1,49 @@
+Agent: Thank you for calling Broadview Mortgage Servicing. This is Amber. May I have your loan number and name?
+Caller: Hi, I'm Denise Farrell. Loan number is 3-3-7-7-8-8-1.
+Agent: Thank you, Ms. Farrell. Property address and last four of your Social for verification?
+Caller: 5590 Oak Creek Boulevard, Aurora, Colorado 80014. Last four is 2-2-6-8.
+Agent: Thank you, I've got your account. What can I help you with?
+Caller: So I've been talking with a HUD housing counselor, and she told me that because my loan is owned by Fannie Mae, there are specific Fannie Mae guidelines that govern what kind of modification I can get. She told me to call my servicer and ask specifically about Fannie Mae's guidelines. So that's what I'm doing. I want to understand what Fannie Mae actually allows or requires.
+Agent: Your counselor gave you excellent advice, and yes — your loan is confirmed as Fannie Mae-owned, which means Fannie Mae's Servicing Guide governs the modification options available to you. I'm happy to walk you through the key guidelines. What's the nature of your hardship?
+Caller: I lost my job in February. I've been looking for work and I have two months of savings left. I'm 45 days past due right now.
+Agent: I'm sorry to hear that. Unemployment is one of the documented hardship categories under Fannie Mae's guidelines. Let's go through the framework. The primary modification option for Fannie Mae loans is the Flex Modification. There's also the option of a forbearance plan, which is often the first step before a modification is evaluated. And for unemployment specifically, Fannie Mae has provisions around unemployment forbearance.
+Caller: Let's start with the unemployment forbearance. What does that look like?
+Agent: Fannie Mae guidelines allow servicers to offer forbearance to unemployed borrowers in order to provide time to find new employment or explore alternatives. The initial forbearance can be granted for up to six months. Critically, if you remain unemployed at the end of that period, Fannie Mae guidelines actually require the servicer to evaluate you for an extension of up to another six months, for a total of 12 months.
+Caller: Twelve months of forbearance is possible?
+Agent: Yes. Fannie Mae's guidelines specifically contemplate extended forbearance for unemployment situations. It's not automatic — you'd need to continue communicating with us and updating us on your job search — but 12 months is the potential outer boundary.
+Caller: That would give me real time to find work. What happens to the payments I miss during that time?
+Agent: The deferred amounts accumulate during forbearance. At the end of the forbearance period, Fannie Mae guidelines require us to evaluate you for a modification to address those arrears. If you're re-employed or have new income at that point, the Flex Modification would be the primary vehicle. The arrears would typically be capitalized into the loan and the terms adjusted to achieve a sustainable payment.
+Caller: What's the Flex Modification specifically? What can it do to my loan?
+Agent: The Fannie Mae Flex Modification waterfall works in steps. Step one is to capitalize any past-due amounts into the loan balance. Step two is to reduce the interest rate. The rate can be reduced to the Freddie Mac Primary Mortgage Market Survey rate, rounded to the nearest 0.125%, but not below a floor set by Fannie Mae, which has historically been around 3% in recent years — though that floor changes with market conditions. Step three, if needed, is to extend the loan term up to 480 months — 40 years — from the modification date. Step four, if the payment still can't reach the target, is a principal forbearance where a portion of the balance is set aside as a non-interest-bearing balloon due at payoff or sale.
+Caller: So principal forbearance is possible but not principal forgiveness?
+Agent: That's correct. Fannie Mae does not permit principal forgiveness under the Flex Modification. They do permit principal deferral — moving a portion of the balance to the end of the loan as a non-interest-bearing balloon. That reduces the monthly payment without forgiving the debt.
+Caller: What's the target payment they're trying to hit?
+Agent: Fannie Mae's target is a monthly principal and interest payment of 20% of your gross monthly income. For the streamlined track, the target is actually a 20% payment reduction from your current principal and interest payment — it doesn't necessarily require income documentation for the streamlined version.
+Caller: My current P&I payment is $1,218. So a 20% reduction would be to about $975?
+Agent: That's the right math — approximately $975 for a streamlined offer. That said, the terms depend on how the waterfall plays out with your current rate and balance.
+Caller: What's my current rate?
+Agent: I can see it here — your current interest rate is 6.375% with a principal balance of $211,800.
+Caller: That rate is pretty high. There's probably room to come down.
+Agent: There likely is room, yes. And with a 40-year extension and a rate reduction, you'd get meaningful payment relief. Let me run some rough numbers. At 4.5% on $211,800 over 40 years, your P&I would be approximately $872. That would represent more than a 28% reduction from your current P&I.
+Caller: That's significant. What are the eligibility requirements?
+Agent: For the streamlined Flex Modification, Fannie Mae requires the loan to be at least 60 days delinquent. You're 45 days, so you'd be close. You'd also need the loan to have been originated at least 12 months before the modification. What's your origination date?
+Caller: April 2022. So it's been about four years.
+Agent: That clears the seasoning requirement easily. Regarding the 60-day delinquency threshold — if you miss one more month, you'd reach 60 days and qualify for the streamlined track. Alternatively, you can apply for the standard Flex Modification track, which requires income documentation but doesn't require 60 days delinquency.
+Caller: What does the standard track require for documentation?
+Agent: Two most recent pay stubs — or in your case, since you're unemployed, documentation of any unemployment benefits you're receiving, including award letters. Bank statements from the last two months. A signed hardship letter. A completed RMA form — that stands for Request for Mortgage Assistance, it's a Fannie Mae standardized form. And your most recent federal tax return.
+Caller: Does receiving unemployment benefits count as income for purposes of the modification?
+Agent: Yes. Fannie Mae guidelines treat unemployment compensation as qualifying income for modification eligibility purposes. So even though you're not employed, if you're receiving unemployment benefits, that income can support a modification analysis.
+Caller: I am receiving benefits — $1,890 a month.
+Agent: That's meaningful. With a projected modified payment of roughly $870 to $975, you'd be within a reasonable debt-to-income range. That actually looks workable for a standard track application right now, without waiting to reach 60 days.
+Caller: So I could apply now and not wait?
+Agent: You could. Based on what you've described — unemployment compensation as documented income, 45 days delinquent, no prior modification on this account — you look like a reasonable candidate for the standard track with income documentation. I'd encourage you to pursue this path rather than waiting.
+Caller: What's the first step?
+Agent: I'll open a case today. You'd need to gather the documents I mentioned and submit through our portal. In the meantime, I can also evaluate you for a forbearance to protect you during the review process.
+Caller: Yes, let's do the forbearance too while the modification is being reviewed.
+Agent: Absolutely. We can put a short-term forbearance in place — that stops any foreclosure clock while your complete modification application is under review. I'll open both cases simultaneously.
+Caller: This has been incredibly helpful. I finally feel like I understand what I'm entitled to.
+Agent: That's exactly why it helps to know your investor's guidelines. You're asking the right questions. Your case number will be on the acknowledgment you receive in two to three business days. Any other questions?
+Caller: No, that's everything. Thank you, Amber.
+Agent: Absolutely, Ms. Farrell. Good luck with the job search, and call us at 1-800-555-0518 with any questions. Take care.
+Caller: You too. Goodbye.
+Agent: Goodbye.

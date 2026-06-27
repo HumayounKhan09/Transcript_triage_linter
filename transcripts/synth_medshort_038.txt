@@ -1,0 +1,37 @@
+Agent: Thank you for calling Vantage Mortgage Services, this is Derek. How can I help you today?
+Caller: Hi Derek, my name is Patrick Callahan. I've been making extra principal payments for the past three years — usually a couple hundred dollars extra each month. I want to know how many years I've actually knocked off my loan. Is there a way you can tell me what my remaining term is now?
+Agent: Hi Mr. Callahan, that's a great question and it's a good sign you've been so disciplined about extra payments. Let me pull up your account and we can look at the current picture. Can I get your loan number or property address?
+Caller: It's 88 Lakeview Terrace, Madison, Wisconsin 53705. Loan number is VMS-3302-11-884.
+Agent: And can you verify the last four of your Social Security number?
+Caller: 4429.
+Agent: Thank you. I have your account. Let me review the loan history. Your original loan was a 30-year fixed mortgage originated in March 2014 at an interest rate of 4.125 percent. Original loan amount was $248,000. Is that right?
+Caller: Yes, that's right.
+Agent: Good. I can see your current principal balance is $151,844.12. And looking at your payment history, I can confirm you've been making consistent extra principal payments. A lot of months I see anywhere from $150 to $300 extra on top of your regular payment.
+Caller: Yeah, it varies. Some months when I have more I throw extra at it. Is there a projected payoff date on my account?
+Agent: Our system calculates a projected payoff date based on current balance and your contractual payment amount — meaning without the extra payments. That shows your contractual payoff in March 2044, which would be your original 30-year term. But that figure doesn't account for your extra payments.
+Caller: Right, that's what I figured. Can you calculate the actual payoff with the extra payments considered?
+Agent: I can give you a good estimate based on your current balance. To project an accurate payoff, I need to make some assumptions about your future extra payment amounts. What extra amount are you planning to continue?
+Caller: Let's say $200 extra per month going forward.
+Agent: Okay. Your current balance is $151,844, your interest rate is 4.125 percent, and your regular principal and interest payment is — let me pull that — $1,202.17 per month. If you add $200 extra to that, you're paying $1,402.17 per month total toward principal and interest. Let me work through this.
+Caller: Take your time.
+Agent: At $1,402.17 per month against a balance of $151,844 at 4.125 percent, you're looking at a payoff in approximately 11 years and 4 months from today. That would put your payoff around late 2035.
+Caller: So instead of 2044, I'm looking at 2035?
+Agent: That's correct, assuming consistent $200 extra monthly payments from this point forward. You've already shaved a significant amount of time off your loan through your three years of extra payments. Had you followed the original amortization schedule, you'd have paid down to roughly $186,000 or so by now. You're at $151,844 — you're almost $35,000 ahead of schedule.
+Caller: Wow. That's really satisfying to hear. So roughly how many years have I knocked off already?
+Agent: Based on where your balance would be without the extra payments versus where it is now, you've effectively moved your payoff up by approximately four to five years already. Combined with continuing $200 extra per month going forward, you're on track to finish roughly eight to nine years early compared to your original 30-year schedule.
+Caller: That is huge. Do you know how much interest I'll save over that time?
+Agent: I can give you a rough estimate. On a 30-year mortgage at 4.125 percent with an original balance of $248,000, the total interest over the full term would have been approximately $186,000. By paying off around 2035 instead of 2044, you'll avoid roughly nine years of remaining interest. That's a substantial savings — conservatively in the range of $25,000 to $35,000 in avoided interest, depending on the exact payoff timing.
+Caller: That's real money. I knew it was worth doing but I didn't realize it was that significant.
+Agent: Every dollar of extra principal payment directly reduces your balance, which in turn reduces the interest calculated on the remaining balance each month. It compounds over time. The earlier you make extra payments, the more impactful they are because you're reducing the base on which interest accrues.
+Caller: Question — if I wanted to make a larger lump sum payment at some point, say $5,000 or $10,000, how would I do that to make sure it goes to principal only?
+Agent: Good question. When you make an additional payment through our online portal, you'll designate it as a principal-only payment. If you call in, just tell the agent you want a principal-only payment processed. If you mail a check, write "principal only" in the memo line and include a note. What you want to avoid is an undesignated extra payment, which may be held in suspense or applied as a future installment rather than directly to principal.
+Caller: I've been using the online portal and selecting principal-only. That's the right way?
+Agent: Yes, that is exactly right. I can confirm in your payment history that all your extra payments are showing as principal-only applied — they're all hitting the balance correctly.
+Caller: Good to know. One more question — is there anything that would change this projection? Like, could something reset my payoff date?
+Agent: There are a few scenarios. If you refinance, the clock essentially resets on whatever new term you choose. If you add a new lien against the property, that wouldn't change your first mortgage payoff date but would add other obligations. If you stopped making extra payments, you'd revert to the standard amortization going forward. But barring those changes, your trajectory is very positive.
+Caller: No plans to refinance. I'm sticking with this until it's done.
+Agent: That discipline will serve you well. Is there anything else I can help you with today?
+Caller: No, that's everything. This was actually really motivating. Thank you, Derek.
+Agent: My pleasure. Keep up the great work, Mr. Callahan. Have a wonderful day.
+Caller: You too. Bye.
+Agent: Goodbye.

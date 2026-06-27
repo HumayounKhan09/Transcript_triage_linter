@@ -1,0 +1,28 @@
+Agent: Thank you for calling Meridian Mortgage, this is Rachel. How can I assist you?
+Caller: Hi Rachel. I've been reading about mortgage options for people having financial difficulties and I keep seeing two terms — forbearance and deferral. I'm not in trouble right now but I want to understand the difference before anything ever happens. Can you explain them?
+Agent: That's really smart to understand these options before you need them. I'm happy to give you a brief overview. Can I pull up your account to confirm your loan type? Eligibility can vary.
+Caller: Sure. My name is Jerome Castellano and my loan number is 4408-QQ-22901.
+Agent: Thank you Jerome. Can you verify the property address?
+Caller: 7712 Brookfield Avenue, Denver, Colorado 80222.
+Agent: And the last four of your SSN?
+Caller: 9915.
+Agent: I have your account. Good standing, no issues — great. So let me walk you through both options at a high level. Forbearance and deferral are both forms of payment relief, but they work differently.
+Caller: Okay, go ahead.
+Agent: Forbearance is essentially a pause or reduction in your mortgage payments for a defined period, typically approved upfront when you're experiencing a hardship. During forbearance you may be allowed to make reduced payments or no payments at all. However — and this is important — the payments you skip are not forgiven. They're deferred and must eventually be repaid.
+Caller: So forbearance doesn't make the payments go away?
+Agent: Correct. Forbearance provides temporary relief but the obligation remains. How the missed payments are repaid depends on the servicer and your loan type. It could be a lump sum at the end, added to the back of the loan, or spread out over future payments.
+Caller: Okay. And what's a deferral then?
+Agent: A deferral is a more specific resolution — it's often what happens after a forbearance period ends. With a deferral, the payments you skipped during forbearance are taken and moved to the end of your loan as a non-interest-bearing balance. So rather than paying a lump sum or having your monthly payment increase, those missed payments just get tacked on to the end and your regular monthly payment resumes as normal.
+Caller: Oh, so a deferral is like a specific way of handling what you owe after forbearance?
+Agent: That's a very good way to put it. Forbearance is the relief period itself, and deferral is often the repayment method used afterward. Though deferral can also be offered standalone in some cases for a single missed or skipped payment.
+Caller: Which one is better?
+Agent: It depends on your situation. Forbearance gives you breathing room during a hardship. Deferral is generally a favorable repayment option because it doesn't require a lump sum and doesn't increase your monthly payment — you just extend the loan slightly. In contrast, some resolution options after forbearance do increase your monthly payment, which can be harder to manage.
+Caller: Can they affect your credit?
+Agent: Forbearance, when properly documented and agreed to, generally does not result in late payment reporting to credit bureaus — though this can depend on the servicer and the terms of the forbearance agreement. Deferral arrangements also typically don't result in negative credit reporting when managed correctly. However, I'd always recommend getting the terms in writing.
+Caller: This is really helpful context. I hope I never need it but good to know.
+Agent: Absolutely. And if you ever find yourself in a difficult situation, please call us early. The earlier we know, the more options we typically have available.
+Caller: Good advice. Thank you so much Rachel.
+Agent: My pleasure Jerome. Is there anything else I can help you with?
+Caller: No, that covered it perfectly. Have a good day.
+Agent: You too. Goodbye.
+Caller: Bye.

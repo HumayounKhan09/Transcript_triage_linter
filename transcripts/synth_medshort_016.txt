@@ -1,0 +1,42 @@
+Agent: Thank you for calling First Continental Mortgage, this is Jennifer speaking. How can I assist you today?
+Caller: Hi Jennifer. I'm closing on the sale of my house next Friday and my attorney's office needs wire transfer instructions to send the payoff funds. Can you provide those?
+Agent: Absolutely, I can help with that. Let me pull up your account. Can I get your name and the property address?
+Caller: My name is Raymond Osei. The property is 714 Cliffside Drive, Seattle, Washington 98115.
+Agent: Thank you. Last four of your Social Security number?
+Caller: 7723.
+Agent: And last four of the loan number?
+Caller: 5519.
+Agent: Great. I've got your account. Now, for wire transfer payoff instructions, I want to make sure we do this properly because wire fraud in real estate closings is unfortunately something we take very seriously.
+Caller: My attorney mentioned that too. What should I know?
+Agent: Great that your attorney flagged it. We always recommend that anyone receiving wire instructions from us verbally or by email call us directly to verify the instructions before sending any funds. Wire fraud happens when criminals intercept emails and substitute fraudulent banking details. We want to make sure your attorney's office receives legitimate instructions.
+Caller: That makes sense. Should I have my attorney call you to verify?
+Agent: Yes, that's exactly right. Once I provide the information to you, please relay to your attorney that they should call our payoff department at the number on our website — not a number I give you — to verbally verify that the wire instructions are authentic before sending.
+Caller: Got it. Now, what are the instructions?
+Agent: Our wire transfer details for payoff funds are as follows. Receiving bank: First Continental Bank, N.A. Routing number for wire transfers: 026013576. Account name: First Continental Mortgage Payoff Account. Account number: 700041138826. And the reference field must include your full loan number, which is FCMT-5519-0082417, along with the property address.
+Caller: Can you say the routing number again?
+Agent: Of course. Routing number is 026013576.
+Caller: And account number?
+Agent: 700041138826.
+Caller: And the reference field — that's where I put the loan number and address?
+Agent: Correct. The full loan number is FCMT-5519-0082417. And your attorney should also include the property address, 714 Cliffside Drive, Seattle, Washington, in the wire memo or reference field. That ensures the funds are posted to your specific loan.
+Caller: Now, I need to know the exact payoff amount. Can you give me a payoff quote good through next Friday, June 21st?
+Agent: Absolutely. Let me calculate that now. Your principal balance as of today is $312,440.88. Your per-diem interest rate is $43.67 per day. From today, June 14th, through June 21st, that's seven days of interest, totaling $305.69. We also have a standard payoff processing fee of $30. Your total payoff amount good through June 21st is $312,776.57.
+Caller: $312,776.57, good through June 21st?
+Agent: Correct. And your per-diem is $43.67, so if the wire arrives on June 22nd or later, you would add $43.67 for each additional day.
+Caller: What time does the wire need to arrive by?
+Agent: Wire transfers must be received and posted by 4:00 PM Eastern Time on the good-through date to be applied on that day. If a wire arrives after 4:00 PM, it will post the following business day, requiring an additional per-diem.
+Caller: My closing is at ten AM Pacific, so two PM Eastern. That should be fine.
+Agent: That works well. The funds would arrive well before our cutoff.
+Caller: What if closing gets pushed a day?
+Agent: If your closing date changes, please call us back and we'll issue an updated payoff statement with a revised good-through date. There's no charge for the first update.
+Caller: And once the funds arrive, how quickly does the loan get paid off and when do I get the lien release?
+Agent: Once we receive and verify the wire, typically within one business day, we'll mark the loan satisfied. The release of lien, called a deed of reconveyance in Washington state, will be recorded with King County within 30 days of payoff per state law.
+Caller: My attorney said they need a payoff confirmation for their file. Will you send that?
+Agent: Yes. Within two business days of receiving the payoff funds, we'll mail a payoff confirmation letter to the borrower's address of record. If your attorney needs it sooner, they can request it by calling our payoff department.
+Caller: Perfect. I'll share all of this with my attorney today and remind them to call and verify the wire instructions.
+Agent: That's exactly the right approach. Thank you for being so diligent about this, Raymond.
+Caller: Better safe than sorry with this amount of money. Thank you so much, Jennifer.
+Agent: Absolutely. Congratulations on your upcoming closing. Is there anything else I can help you with?
+Caller: That covers everything. Have a great day.
+Agent: You too. Goodbye.
+Caller: Bye.

@@ -1,0 +1,35 @@
+Agent: Thank you for calling Foundry Home Loans, this is Beth. How may I help you today?
+Caller: Hi Beth. I'm looking at my mortgage statement and I'm confused. My total payment is $2,104 but when I add up the principal and interest it only comes to $1,641. Where does the other $463 go?
+Agent: That's a great question and it's one of the most common points of confusion on a mortgage statement. Let me pull up your account so I can walk you through the breakdown specific to your loan. Can I get your name?
+Caller: Sure, it's Marcus Webb.
+Agent: Thank you, Mr. Webb. And your loan number or property address?
+Caller: Property address is 1820 Redwood Terrace, San Jose, California.
+Agent: And for identity verification, the last four of your Social Security number?
+Caller: 5562.
+Agent: And your date of birth?
+Caller: October 28, 1982.
+Agent: Thank you. One moment while I bring up your account.
+Caller: Sure.
+Agent: Okay, I have your account and your current statement details. So your total monthly payment is $2,104.22. Your principal and interest, which is the base loan payment, is $1,641.18. The difference of $463.04 goes into your escrow account.
+Caller: Oh, it's escrow. I knew I had escrow but I didn't realize it was that much.
+Agent: Escrow contributions are often a significant portion of the total payment. Let me break down what your escrow covers. The $463.04 is split between property taxes and homeowner's insurance. Your monthly property tax contribution is $381.25, and your monthly homeowner's insurance contribution is $81.79.
+Caller: So I'm paying almost $400 a month just in property taxes?
+Agent: Yes, that reflects your Santa Clara County property tax, which is assessed annually. The monthly contribution is one-twelfth of the annual tax bill, which for your property works out to approximately $4,575 per year.
+Caller: Wow. Okay. I knew California property taxes were a thing but I didn't think about it being that much monthly.
+Agent: It's significant. Santa Clara County has relatively high assessed values, so property taxes tend to be higher than many other parts of the country. The good news is California does have Proposition 13, which limits how much assessed value can increase annually.
+Caller: Right, I remember hearing about that. So the $81 is homeowner's insurance?
+Agent: Correct. $81.79 per month, which works out to $981.48 annually. That's your annual homeowner's insurance premium divided by 12 and collected monthly.
+Caller: So both of those get paid on my behalf?
+Agent: Yes. We hold those funds in your escrow account and then pay your property tax bill to Santa Clara County when it comes due, and pay your insurance premium to your insurance company at renewal. You don't have to worry about setting aside money separately for those bills or remembering when they're due.
+Caller: I guess that's a nice feature even if it makes the payment look intimidating.
+Agent: Many borrowers appreciate having it handled automatically. It's also required on most conventional loans where the down payment was less than 20 percent, and on FHA loans regardless.
+Caller: I did put down less than 20 percent. So is there PMI in there too?
+Agent: Let me check. I don't see a PMI or private mortgage insurance line item in your current payment breakdown. It looks like based on your current loan-to-value ratio, PMI was removed at some point. You can see in your history that PMI was canceled in March 2022 when your equity reached the 20 percent threshold.
+Caller: Oh right, I remember getting a letter about that. I had forgotten.
+Agent: That would have reduced your payment at that time. So to summarize your current payment: $1,641.18 goes to principal and interest, $381.25 goes to your tax escrow, and $81.79 goes to your insurance escrow, totaling $2,104.22.
+Caller: That's really clear now. I should have looked at this more carefully a long time ago.
+Agent: It's actually something a lot of people don't think about until they see a discrepancy and call in. Is there anything else you'd like me to explain about your statement?
+Caller: No, that cleared it all up. Thanks a lot, Beth.
+Agent: Happy to help. Thank you for calling Foundry Home Loans, Mr. Webb. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

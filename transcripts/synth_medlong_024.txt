@@ -1,0 +1,55 @@
+Agent: Thank you for calling Veterans United Mortgage Servicing, this is Priya. Can I get your loan number?
+Caller: Yeah, it's 8812-40033.
+Agent: Thank you. And your name and the last four of your Social?
+Caller: Marcus Webb. Social is 6634.
+Agent: Thank you, Mr. Webb. I can see your account — property at 1720 Freedom Ridge Lane, Fayetteville, North Carolina. I also see this is a VA-guaranteed loan. Is that right?
+Caller: Yes. I'm a veteran. I've been having trouble the last couple months. I'm 60 days behind and I just got a notice about it. I don't know what to do.
+Agent: Mr. Webb, I'm glad you called. First, I want to acknowledge your service. Second, I want you to know that VA loans have some of the most robust loss mitigation options available to any borrowers, and we work closely with the VA to try to find a solution before foreclosure is ever considered. You did the right thing by calling now.
+Caller: I was nervous about calling. I thought maybe it was already too late.
+Agent: At 60 days, you're well within the window for intervention. We are required by VA guidelines to make contact and explore every option before initiating any foreclosure action. Let's go through your situation. What happened that caused you to miss payments?
+Caller: I got out of the Army about eight months ago. The transition took longer than expected. I was doing contract work but the contract ended. I just started a new full-time job two weeks ago.
+Agent: Congratulations on the new position. Can I ask what your monthly income will be going forward?
+Caller: About $4,200 a month take-home.
+Agent: And your current mortgage payment?
+Caller: The statement says $1,618 a month.
+Agent: Okay, so your payment is roughly 39 percent of your take-home income. That's manageable. Now let me explain the VA-specific options that apply to your situation.
+Caller: Please — I've read some things online but I don't really know which ones apply to me.
+Agent: The VA has a Loan Technician program — the VA will actually assign a technician to your file who advocates on your behalf with us, the servicer. They review your financial situation and can recommend specific options or even direct us to accept certain workouts. You can request a VA Loan Technician directly from the VA at 1-877-827-3702. I'd recommend making that call today or tomorrow.
+Caller: Okay, I didn't know that was a thing.
+Agent: It's one of the most underused benefits. Now, the actual workout options. First, repayment plan: since you now have income, you could enter a repayment plan where you pay your regular monthly amount plus a portion of what's past due. Two months of missed payments at $1,618 is $3,236 plus late fees. We could spread that repayment over six to twelve months by adding roughly $270 to $540 to your monthly payment.
+Caller: That's possible. I can probably do that.
+Agent: Good. The second option is loan modification. This is where we actually change the terms of your loan to make the payment more affordable long-term. For VA loans, the standard modification rolls the past-due amount into the loan balance and may extend the term to reduce the payment. Your current rate is 3.75 percent fixed, which is excellent — we wouldn't want to disturb that. The modification would primarily add the delinquency to principal and re-amortize.
+Caller: What would that do to my payment?
+Agent: With $3,236 in arrears added to your balance of $198,770, your new balance would be approximately $202,006. Re-amortized at 3.75 percent over the remaining loan term — which is about 27 years remaining — your new payment would be roughly $1,041. That's actually slightly lower than your current payment because we'd be extending slightly.
+Caller: Wait, my payment would go down?
+Agent: It's possible, yes, depending on the exact terms approved. The modification also brings your account current, so the missed payments are absorbed into the loan. That's a significant benefit.
+Caller: What about my credit? The two missed payments already showed up.
+Agent: The two late payments are already reported. However, if you enter a modification agreement and meet the trial payment requirements, no further negative reporting occurs during the trial period and after the modification is finalized. We cannot undo the past reporting, but we can prevent further damage.
+Caller: Is there a trial period?
+Agent: Yes — VA modifications typically require a trial payment period of three months. You make three on-time trial payments at the modified amount. If you complete the trial successfully, the modification becomes permanent. This gives both you and us confidence that the new payment is sustainable.
+Caller: What's the third option you were going to mention?
+Agent: The VA also has a special program called the Veterans Affairs Supportive Housing program, or VASH, which works with homeless veterans and those at risk of homelessness, but that's likely not your situation since you're employed now. More relevant to you is the VA's Compromise Sale — similar to a short sale — and the Deed in Lieu of Foreclosure. But I don't think we need to go there given your new employment.
+Caller: What about the VA SAH grant? My buddy mentioned something called Specially Adapted Housing. Is that related?
+Agent: Great question. The VA SAH grant — Specially Adapted Housing — is actually a separate benefit for veterans with certain service-connected disabilities that affect mobility, such as loss of limb or significant impairment. It's not specifically a foreclosure prevention tool but can provide funds to adapt or acquire housing. Do you have a service-connected disability rating?
+Caller: I have a 30 percent rating for my knee.
+Agent: The SAH grant specifically targets higher disability levels — generally 100 percent permanent and total, or certain specific conditions. At 30 percent, you may not qualify for SAH directly, but you might qualify for other VA housing grants like the Special Housing Adaptation grant. I'd strongly recommend calling the VA Benefits line at 1-800-827-1000 to explore your benefit eligibility separately from the loan servicing question.
+Caller: I didn't realize there were all these different programs. I just thought there was one VA thing.
+Agent: The VA has layered their support over many decades. Separately from benefits, since you have a VA loan, your loan is actually guaranteed by the VA — meaning if we had to foreclose, the VA would cover a portion of any loss. This gives us more flexibility to work with you than with a conventional loan. We are strongly incentivized to find a workout rather than foreclose.
+Caller: That's good to hear. Can I apply for a modification today over the phone?
+Agent: I can open the loss mitigation process right now. I'll create a case in our system for a VA loan modification. You'll receive a package in the mail and email within three business days with a list of documents we need: your most recent pay stub from the new job, two months of bank statements, and a completed financial statement form. Once we have a complete package, we submit it for underwriting review.
+Caller: How long does approval take?
+Agent: For a VA modification, we're required to give you a decision within 30 days of a complete application. Typically it runs two to three weeks.
+Caller: And in the meantime, am I going to keep getting collection calls?
+Agent: Once your account is flagged as in active loss mitigation review, collection calls should stop. The account goes into a protected status. If anyone from our collection team calls, you can reference the case number I'm about to give you.
+Caller: Okay.
+Agent: Your loss mitigation case number is LM-2024-BB-88342. Write that down or save it. It's effective as of today's date.
+Caller: Got it.
+Agent: Also, I want to recommend you contact a VA-approved housing counselor. The National Foundation for Credit Counseling has VA-specialized counselors. The VA also has a free resource at VA.gov under the home loan section. These counselors can help you complete the paperwork and advocate for you with our loss mitigation team.
+Caller: I'll look that up. Is there anything else I should know?
+Agent: One more thing — the VA's monthly reporting to their loan guarantee program means if you haven't already, this loan shows as 60-day delinquent on their radar. The VA Loan Technician I mentioned can flag your file as being in active workout, which protects you. Please make that call to 1-877-827-3702 soon.
+Caller: I'll call them right after I hang up with you.
+Agent: Good. To summarize: repayment plan or modification are the two most likely paths, modification probably the better one given your long-term outlook. I've opened your loss mitigation case, number LM-2024-BB-88342. Documents package incoming in three business days. Call the VA Loan Technician line. And explore your VA benefits separately with 1-800-827-1000.
+Caller: Priya, thank you. You've actually given me hope today.
+Agent: That's what I'm here for. Thank you for your service, Mr. Webb. Please don't hesitate to call us back. We're going to work through this together.
+Caller: Thank you. Goodbye.
+Agent: Take care. Goodbye.

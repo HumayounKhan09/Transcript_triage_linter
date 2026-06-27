@@ -1,0 +1,37 @@
+Agent: Thank you for calling Riverside Mortgage Group, this is Ray. How can I help you today?
+Caller: Hi Ray, my name is Pamela Ostrowski. I had a house fire in March and I'm going through the insurance claim process. My concern is how this is going to affect my escrow and my monthly payments. Loan number is 8801-5523.
+Agent: Hi Pamela, I'm so sorry to hear that. I hope you and your family are safe. Let me bring up your account. I see your loan — a thirty-year conventional on a property in Kansas City, Missouri. And I can see there's actually a notation on your account referencing a homeowner's insurance claim. Are you displaced from the home currently?
+Caller: Yes. We're staying with my in-laws. The fire was in the kitchen and spread to about a third of the house. We can't live there right now. The repairs are supposed to take three to four months.
+Agent: Thank you for the context. Let me walk you through how insurance claims typically interact with your mortgage and escrow, because there are a few important things you should know.
+Caller: Please. My insurance company told me the claim is approved for one hundred forty-two thousand dollars in structural damage. I'm not sure what happens next or who controls that money.
+Agent: This is where it gets important. Because we have a first mortgage lien on the property, Riverside Mortgage Group has an interest in the insurance claim proceeds. Your insurer is required to include us as a co-payee on any claim check over a certain threshold. You'll typically see that the check is made out to both you — Pamela Ostrowski — and Riverside Mortgage Group.
+Caller: Yes, I already got the first check. It's made out to both of us for thirty-eight thousand dollars. My insurance company said more will come.
+Agent: That's a partial disbursement — insurance companies often issue payments in multiple installments on large claims. You're right that more will come. Now, because the check includes our name, you'll need to endorse it and send it to us for processing. We act as a trustee for the claim funds during the repair process.
+Caller: So I can't just cash it?
+Agent: Not without our endorsement, since our name is on the check. What typically happens is you mail the check to our insurance loss department. Once received, we deposit it into a restricted escrow-like account — sometimes called a loss draft account — and then disburse funds to you or your contractor as repairs progress.
+Caller: So you hold the money and release it as work gets done?
+Agent: Exactly. The disbursement process varies by loan status and the size of the claim. For claims over a certain threshold — for us that's usually fifty thousand dollars — we do an inspection-based disbursement. For the initial payment, we'd release an initial amount to get work started, then release additional funds at defined milestones like twenty-five percent complete, fifty percent, and so on.
+Caller: That sounds complicated. My contractor wants half up front to start the work.
+Agent: That's a common friction point. We can typically provide an initial draw of up to one third of the total claim funds to get the project started, as long as you've provided us with a signed contractor agreement showing the scope of work and the total contract price.
+Caller: How do I submit the check and all those documents?
+Agent: You'd send the endorsed check along with a contractor agreement and completed loss draft packet to our address. I'll give you that information. The address is Riverside Mortgage Group, Loss Draft Department, PO Box 67100, Kansas City, MO 64106. You can also reach the loss draft team directly at 800-555-8833.
+Caller: Okay. Now, my question about the escrow — my house is basically not livable. Do I still have to pay my mortgage?
+Agent: Yes, unfortunately the mortgage obligation continues regardless of the property condition. However, your insurance policy likely includes additional living expenses coverage, which would pay for temporary housing and living costs while your home is being repaired. Have you made a claim for additional living expenses?
+Caller: I did, and they're covering our hotel — I mean, they paid for a hotel for a month and now we're at my in-laws. They said additional living expenses would cover rent or temporary lodging up to eighteen months.
+Agent: Good. Now on the escrow side — your monthly escrow payment continues as normal. It covers your property taxes and your hazard insurance premium. The claim itself doesn't change your escrow payment because the insurance premium is separate from the claim proceeds.
+Caller: Will my insurance premium go up because of the claim?
+Agent: That's a question for your insurer — we don't have control over how they rate policies. It's possible your premium increases at renewal due to a large claim. If it does, your escrow payment would increase at your next escrow analysis to account for the higher premium.
+Caller: My policy renews in November. I'm hoping they don't cancel me entirely.
+Agent: That's a legitimate concern with large claims. Some insurers do non-renew after significant claims, especially in higher-risk states. It would be worth having a conversation with your agent about renewal expectations before November. If you need to find a new insurer, make sure to notify us so we can update the escrow disbursement accordingly.
+Caller: That's good advice. Now the claim total is one hundred forty-two thousand. We already have thirty-eight thousand en route. What's the process for the rest?
+Agent: Once repairs begin and hit the first milestone — usually twenty-five percent completion verified by an inspection — you'd request the next disbursement. You'd contact our loss draft team, they'll schedule an inspection of the property, and if the milestone is confirmed, we release the next tranche. This repeats until repairs are complete.
+Caller: Who pays for the inspection?
+Agent: Inspection fees are typically charged to the loss draft account and deducted from the claim proceeds — usually around one hundred fifty to two hundred dollars per inspection. Your contractor should factor this into the timeline.
+Caller: Okay. My contractor has done this before so I think they know the process. I just wanted to understand my side of it.
+Agent: That's smart. Knowing what to expect makes the process smoother. One more thing — once repairs are complete and the property is fully habitable, you'd submit a final inspection request and we'd release the remaining funds. At that point, you'd send us a certificate of completion from your contractor.
+Caller: How long does this whole process typically take?
+Agent: From the time we receive the check to the final disbursement, assuming four milestones and active repairs, it's usually four to six months. With your three-to-four-month repair timeline, it aligns reasonably well.
+Caller: Thank you, Ray. This is more complicated than I expected but now I at least understand the framework.
+Agent: I'm glad I could help, Pamela. The loss draft team at 800-555-8833 is your best ongoing resource — they specialize in exactly this situation. Is there anything else I can help with today?
+Caller: No, that's everything for now. Thank you.
+Agent: Of course. Hang in there — it sounds like things are moving in the right direction. Have a good day.

@@ -1,0 +1,37 @@
+Agent: Thank you for calling Overland Mortgage Services, this is Priya. How may I help you today?
+Caller: Hi Priya. I have kind of a specific question. My payment is due on the first but I know there's a grace period. What I want to know is what time of day does the payment have to be in before it's considered late? Like, is there a cutoff time?
+Agent: That's a really good specific question and I'm happy to clarify it. Let me pull up your account to make sure I give you the information specific to your loan terms. Can I get your full name?
+Caller: Oscar Lindqvist.
+Agent: Thank you, Mr. Lindqvist. And your loan number or property address?
+Caller: Property address is 89 Clearbrook Road, Hartford, Connecticut.
+Agent: And the last four of your Social Security number?
+Caller: 4413.
+Agent: And your date of birth?
+Caller: September 9, 1970.
+Agent: Thank you. One moment.
+Caller: Sure.
+Agent: Okay, I have your account. Your payment is due on the first of each month with a grace period through the 15th. Regarding the time of day, payments must be received and posted to your account by 5:00 PM Eastern Time on the 15th to be considered on time.
+Caller: 5:00 PM Eastern. So if I submit it at 5:01 PM on the 15th?
+Agent: If it's received after 5:00 PM Eastern on the 15th, it would be processed on the next business day and would technically be considered received after the grace period. A late fee could be applied.
+Caller: Okay, so it's really 4:59 PM at the latest to be safe.
+Agent: That's the safe way to think about it. Most customers who are cutting it close submit by at least 4:00 PM to account for any processing delays, especially for ACH payments which can sometimes take a few hours from initiation to posting.
+Caller: Wait, so there's a difference between when I click submit and when it actually posts?
+Agent: Yes, and that's an important distinction. If you initiate an ACH payment through your bank or through a third-party bill pay service, there can be a delay between when you submit the transaction and when it actually posts to your mortgage account. That processing can take anywhere from same day to up to one business day depending on the method.
+Caller: So if I submit through my bank's bill pay at noon on the 15th, it might not post until the 16th?
+Agent: It's possible, depending on your bank. Some banks process mortgage payments same day if submitted by a certain cutoff, while others route them overnight. If you use your bank's bill pay service, I'd recommend checking with your bank about their posting timing for mortgage payments specifically.
+Caller: That's a little nerve-wracking. What about paying directly through your website? Is that faster?
+Agent: Yes, payments made directly through our borrower portal are generally faster because they go directly into our payment processing system. For our online portal, if you submit a payment before 5:00 PM Eastern, it will typically post to your account same day. Payments submitted after 5:00 PM Eastern on our portal would be processed the next business day.
+Caller: So for on-time payment on the 15th, using your website before 5:00 PM Eastern is safest?
+Agent: Correct. Paying through our portal before 5:00 PM Eastern on the 15th gives you the highest certainty that the payment will be posted on time. Phone payments made to us directly follow the same cutoff.
+Caller: What about mailed checks?
+Agent: Mailed payments are considered received on the date they arrive at our processing center, not the postmark date. So for the grace period, a check that arrives on the 15th or earlier is fine, but if it arrives on the 16th it would be late regardless of when it was mailed.
+Caller: I don't mail checks, just wanted to understand the whole picture.
+Agent: Smart. Electronic payment is generally much more reliable for timing purposes.
+Caller: What's the late fee if I do miss the cutoff?
+Agent: Your late fee is 5 percent of your principal and interest payment amount. Your P&I is $1,388.50, so the late fee would be $69.43.
+Caller: Not insignificant. Okay, I'll make sure to pay online before 5:00 PM from now on.
+Agent: That's the safest approach. Is there anything else I can help you with today?
+Caller: No, that covered exactly what I needed. Thanks for being so thorough, Priya.
+Agent: Of course. Thank you for calling Overland Mortgage Services, Mr. Lindqvist. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

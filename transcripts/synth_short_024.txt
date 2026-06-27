@@ -1,0 +1,39 @@
+Agent: Thank you for calling Crestview Mortgage, this is Kevin. How can I help you today?
+Caller: Hi Kevin. I think I was charged a late fee last month and I want to know if that's right and how much it is.
+Agent: I can look into that for you. Can I get your name?
+Caller: Rhonda Gillespie.
+Agent: Thank you, Ms. Gillespie. And the last four of your Social Security Number?
+Caller: 3358.
+Agent: And the property address?
+Caller: 40 Harborview Lane, Providence, Rhode Island 02903.
+Agent: Got it. Let me pull up your account and look at recent activity.
+Caller: Okay.
+Agent: I do see a late charge posted to your account on June 19th in the amount of $74.88.
+Caller: $74.88. Okay so it is there. I kind of suspected it. When was my June payment due?
+Agent: Your June payment was due June 1st with a grace period through June 15th. Our records show that payment was received and posted on June 17th.
+Caller: June 17th. That's two days past the grace period.
+Agent: That's correct. The late fee was assessed because the payment posted on the 17th, which is after the 15th grace period cutoff.
+Caller: I sent the payment online on the 15th. Does that matter?
+Agent: I understand that's frustrating. Let me look at the processing details. Online payments initiated on the 15th generally post same day if submitted before 5 p.m. Eastern time. Do you recall what time you made the payment?
+Caller: I think it was around 8 or 9 at night. I was doing it before bed.
+Agent: If the payment was submitted after our 5 p.m. cutoff on June 15th, it would process on the next business day, which would have been June 16th or 17th depending on weekends. June 15th was a Sunday this year.
+Caller: It was a Sunday? Oh. I didn't realize that.
+Agent: Yes. When a weekend or holiday falls on or near the deadline, it can create some timing complications. Payments submitted on Sunday after business hours typically process Monday or Tuesday.
+Caller: So the fee is technically correct based on when it posted.
+Agent: Based on the posting date, yes. However, given that you made a good-faith effort to pay on the due date, I can review whether a one-time courtesy waiver is appropriate. Have you had any other late payments on this account?
+Caller: No, I'm always on time. This is the first time this has happened in three years.
+Agent: Let me check your payment history. I can confirm — in three years, this is your only late payment on this account. Based on your excellent payment history, I'm happy to waive the $74.88 late fee as a one-time courtesy.
+Caller: Really? That's great. Thank you.
+Agent: Absolutely. Your account history speaks for itself. I'm noting the waiver now. The $74.88 will be removed from your account within one to two business days.
+Caller: Will I see a credit on my statement?
+Agent: Yes, a credit will appear on your next statement showing the late charge reversal.
+Caller: Perfect. And going forward, should I just try to pay before the 15th?
+Agent: That's the best practice. I'd also suggest paying a day or two before the 15th as a buffer, especially since weekends and cutoff times can affect posting. Friday the 13th is better than Sunday the 15th in terms of same-day processing.
+Caller: That's smart advice. I'll set a reminder earlier in the month.
+Agent: Great idea. You can also set up text or email payment reminders through your online portal — those can prompt you earlier in the month.
+Caller: I'll do that. Thank you so much Kevin. I didn't expect you to waive it.
+Agent: Happy to help. You've been a great customer. Is there anything else I can assist with?
+Caller: No, that's all I needed.
+Agent: Wonderful. The late fee waiver is processed. Thank you for calling Crestview Mortgage. Have a great day, Ms. Gillespie.
+Caller: You too. Thanks again. Bye.
+Agent: Goodbye.

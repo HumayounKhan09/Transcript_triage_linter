@@ -1,0 +1,41 @@
+Agent: Thank you for calling Parkview Mortgage Servicing, this is Tyler. How can I help you today?
+Caller: Hi Tyler. My name is Maria Estrada. I have a loan with you and I got a notice saying my interest-only period is expiring in ninety days. I'm a little panicked and I need to understand what that means for my payments.
+Agent: Hi Ms. Estrada, I understand that can feel alarming. Let me pull up your account so we can go through exactly what to expect. Can I get your loan number?
+Caller: Yes, it's 8819-3310.
+Agent: And the property address?
+Caller: 714 Mesa Verde Way, Albuquerque, New Mexico, 87104.
+Agent: And last four of your Social Security number?
+Caller: 2274.
+Agent: Thank you. I've got your account. I can see you're in the last quarter of your interest-only period. Let me explain what's happening and what your new payment will look like.
+Caller: Yes please. My current payment is $1,847 and I've been paying that for ten years.
+Agent: Right. During the interest-only period you've been paying only the interest that accrued each month — no principal reduction. You've had a ten-year interest-only period, which is now ending. What happens next is called the amortization reset or the recast.
+Caller: What does that mean exactly?
+Agent: Starting on your expiration date, your loan will begin fully amortizing. That means your payment will now include both principal and interest, and the loan needs to be paid off by the original maturity date, which in your case is thirty years from origination.
+Caller: So I have twenty years left to pay off the whole balance?
+Agent: Exactly. Ten years of interest-only, now twenty years of principal and interest. The challenge is that you didn't reduce your principal at all during the interest-only period, so you're now amortizing the full original balance — actually let me look — your current balance is $398,500, which is essentially your original loan amount.
+Caller: So I owe just as much as I did when I started?
+Agent: Correct. That's how interest-only loans work. The tradeoff was lower payments for a decade, but the balance didn't decrease. Now that full balance gets amortized over the remaining twenty years.
+Caller: And what's my new payment going to be?
+Agent: Your interest rate is 6.5 percent fixed. On a balance of $398,500 amortized over twenty years at that rate, your new principal and interest payment will be approximately $2,971 per month.
+Caller: That's over a thousand dollars more than what I'm paying now.
+Agent: Yes, $2,971 versus your current $1,847 — that's an increase of $1,124 per month. This is the payment shock that interest-only loans are known for when they recast.
+Caller: I had no idea it was going to be this big of a jump. I feel like I wasn't told.
+Agent: The disclosure requirements around interest-only recast can vary. Your loan documents from origination should have contained this information, but I understand it may not have been prominently explained. I'm sorry you're feeling blindsided.
+Caller: Is there anything I can do? Can I refinance?
+Agent: Refinancing is one option. If you can qualify for a new thirty-year fixed loan, you'd spread the current balance over a longer period, which could lower your payment. However, current rates and your current balance would determine whether that's financially beneficial.
+Caller: What are rates right now?
+Agent: I'd need to transfer you to our origination team for a current rate quote. But generally speaking, if you could get a new thirty-year loan at a rate in the current range, your payment on $398,500 would be in the $2,500 to $2,700 range depending on the rate — still higher than what you're paying now, but lower than the recast amount.
+Caller: Is there any way to extend the interest-only period?
+Agent: Not through our standard programs. Interest-only modifications are not something we offer through normal loss mitigation, and the interest-only period is set in your note. To change that, you'd need to refinance into a new loan.
+Caller: What if I can't afford the higher payment?
+Agent: If you find yourself unable to make the new payment, I want you to contact us right away rather than missing payments. Missing payments damages your credit and can put your home at risk. We have a hardship team that can look at options like a loan modification if you experience a genuine financial hardship.
+Caller: I'm not in hardship — I can probably make it work, it's just going to be tight.
+Agent: That's good to hear. It might also help to look at the twenty-year amortization schedule — as you pay down principal, the interest portion of your payment decreases over time, so the payment doesn't grow; it stays the same but the composition shifts toward more principal.
+Caller: Is there a way I could have been paying principal during the interest-only period?
+Agent: Yes, actually. During the interest-only period, you always had the option to make additional principal payments. They weren't required, but any extra payments would have reduced your balance and therefore reduced the recast shock. Going forward with the amortizing payment, your balance will decrease every month.
+Caller: I wish I had known that ten years ago.
+Agent: It's something that often gets lost. Can I do anything else to help you today? Would you like me to transfer you to our origination team to discuss refinancing options?
+Caller: Yes, I'd like to hear what a refinance might look like. Can you transfer me?
+Agent: Absolutely. Before I do, I want to make sure you have the key numbers. Your current balance is $398,500. Your recast date is ninety days from today. Your new required payment will be $2,971. Those are what the loan officer will need to run the refinance analysis.
+Caller: Got it. Thank you Tyler. You've been really helpful even though this news is stressful.
+Agent: I understand. You have ninety days to make a plan and that's enough time. Let me connect you now.

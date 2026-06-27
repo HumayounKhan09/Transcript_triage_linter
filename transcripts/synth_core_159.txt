@@ -1,0 +1,44 @@
+Agent: Thank you for calling Lakeview Mortgage Corporation, this is Jennifer. How can I help you today?
+Caller: Hi Jennifer, this is Terrence Whitfield. I'm thinking about doing a refinance and a friend told me I could roll the closing costs into the new loan instead of paying them upfront. I want to understand how that works and whether it's a good idea in my situation.
+Agent: Hi Terrence, that's a very common question. Rolling closing costs into your loan is absolutely an option and it's something a lot of borrowers choose to do. Let me explain how it works, and we can talk through whether it makes sense for you. Do you have your current loan information handy?
+Caller: Yes. My loan number with you is 9927-4418-H and my current rate is 7.125 percent.
+Agent: Great, one moment. Okay, Terrence Whitfield, 30-year fixed at 7.125, balance of $334,600, originated April 2022. What's prompting you to consider refinancing?
+Caller: Rates seem to have come down a bit and someone told me I should be looking at this. But I really don't want to come to the closing table with thousands of dollars in cash.
+Agent: That's one of the most common reasons borrowers choose to roll costs in. So here's how it works. When you refinance, the new loan amount is determined by your outstanding balance plus whatever costs you choose to finance. If your current balance is $334,600 and your closing costs are $7,200, your new loan amount would be $341,800.
+Caller: So the loan gets bigger?
+Agent: Correct. You're essentially borrowing a little more to pay off the costs. The upside is you don't need cash at closing. The downside is you're paying interest on those costs for the full life of the new loan.
+Caller: How much does that actually cost me over time?
+Agent: Good question. Let's say your new rate is 6.5 percent and you roll in $7,200 in costs. The additional $7,200 at 6.5 percent over 30 years costs you roughly $9,100 in total interest — meaning you'd pay back about $16,300 for those $7,200 in closing costs. That's the true cost of financing them.
+Caller: So it's not just $7,200 — it's significantly more.
+Agent: Right. The earlier the payoff, the less that compounding hurts. If you refinance or sell in five years, you'd have only paid maybe $2,100 in interest on that rolled-in amount, so the effective cost is much lower.
+Caller: Now, are there limits on how much you can roll in?
+Agent: Yes. The new loan amount can't exceed the conforming loan limits or, more importantly, the maximum LTV for the loan program. For a conventional rate-and-term refinance, most lenders allow up to 95 percent LTV or 97 percent LTV for certain programs. On an FHA refinance, up to 97.75 percent. For VA, 100 percent in some cases.
+Caller: What's my LTV right now?
+Agent: Let me check. I'd need a current value for your home. Do you know roughly what it's worth?
+Caller: I think it's worth around $420,000 based on what neighbors have sold for recently.
+Agent: Okay. At $420,000 value and a current balance of $334,600, your current LTV is about 79.7 percent. If you rolled in $7,200 in costs, your new loan would be $341,800, and at the same $420,000 value, your new LTV would be 81.4 percent.
+Caller: Is 81.4 okay?
+Agent: On a conventional loan, yes. If you go above 80 percent LTV, you'd typically be required to carry private mortgage insurance, or PMI. At 81.4 percent, you'd cross that threshold, which means PMI would apply to your new loan.
+Caller: How much does PMI cost?
+Agent: For a conventional loan at your loan amount and LTV, PMI would typically run $80 to $140 per month, depending on the lender and your credit score. That's an additional cost that would reduce the benefit of your rate drop.
+Caller: So rolling in the costs might trigger PMI that I don't have now?
+Agent: Exactly. This is the hidden trade-off that many borrowers don't consider. You have roughly 20 percent equity right now, which means no PMI on your current loan. If rolling in closing costs pushes you above 80 percent, you'd be adding a new monthly cost.
+Caller: Is there a way around that?
+Agent: A few options. First, you could roll in a smaller portion of the costs — just enough to stay at or below 80 percent LTV. At 80 percent of $420,000, your max loan amount is $336,000. Your current balance is $334,600. So you can only roll in about $1,400 and stay at exactly 80 percent without triggering PMI.
+Caller: That's almost nothing.
+Agent: Right. A second option is to pay some costs upfront and roll in only what keeps you at 80 percent. A third option is to accept the no-cost refinance structure where the lender covers costs in exchange for a slightly higher rate, which keeps your loan balance the same.
+Caller: What would the no-cost approach look like?
+Agent: At a slightly higher rate — say 6.75 instead of 6.5 — your monthly payment savings versus your current 7.125 rate would be smaller, but you'd preserve your 79.7 percent LTV, avoid PMI, and have no out-of-pocket costs. The payment drop would be about $94 per month on your current balance versus roughly $184 per month at 6.5 with costs rolled in — but the 6.5 option triggers PMI of roughly $110, which would actually cost you more each month overall.
+Caller: So the no-cost approach at 6.75 actually gives me a better net monthly outcome once I account for PMI?
+Agent: Potentially, yes. The exact numbers depend on your credit score and the specific lender's PMI pricing, but the math often works out that way for borrowers right around the 80 percent LTV threshold. This is exactly why it's worth modeling multiple scenarios.
+Caller: This is more complicated than I expected. I thought rolling in costs was just a simple yes or no.
+Agent: It's one of those decisions where the details really matter. The good news is that our loan officers can generate a full side-by-side comparison in about 15 minutes once they have your information. It shows you total payment, PMI impact, break-even timelines, and long-term cost for several scenarios.
+Caller: I'd like to do that. Can I schedule a call with a loan officer?
+Agent: Absolutely. I can put you in touch with someone today. Before I do, let me ask — do you have any sense of how long you plan to stay in the home?
+Caller: At least another eight to ten years.
+Agent: That's helpful context. With that horizon, the traditional refinance with some upfront costs might actually be the best value even if you need to come to closing with a check. But the loan officer will model it all out for you.
+Caller: Sounds good. Let's set that up.
+Agent: I'll transfer you to our refinance department. I've noted in your file that you called June 27th, 2026, regarding a refinance with interest in rolling closing costs, current balance $334,600, rate 7.125 percent, and estimated home value $420,000. Is there anything else before I transfer you?
+Caller: No, that covers it. Thank you for explaining everything, Jennifer.
+Agent: My pleasure, Terrence. Please hold for a moment while I connect you.
+Caller: Perfect.
