@@ -1,0 +1,59 @@
+Agent: Thank you for calling Cornerstone Mortgage Servicing, my name is Rachel, how can I help you today?
+Caller: Yeah, hi Rachel, my name is Sandra Kowalski, I'm calling because I'm selling my house and my closing is coming up next week and I need a payoff quote.
+Agent: Absolutely, Sandra, I'd be happy to help you with a payoff quote today. Before I can pull up your account I do need to verify your identity. Can I start with your loan number?
+Caller: Yeah, it's 784291.
+Agent: Thank you. And can I get your full legal name as it appears on the loan?
+Caller: Sandra Marie Kowalski.
+Agent: Thank you. And your property address?
+Caller: 4418 Birchwood Lane, Naperville, Illinois, 60540.
+Agent: Perfect. And the last four digits of your Social Security number?
+Caller: 7713.
+Agent: And can you confirm your date of birth?
+Caller: March 14th, 1974.
+Agent: Great, thank you Sandra. I've pulled up your account and everything looks good on verification. I do see loan number 784291, the property at 4418 Birchwood Lane in Naperville. Let me just take a moment here to look at the full account details before we get started.
+Caller: Sure, go ahead.
+Agent: Okay, so I'm looking at your account now. Your current unpaid principal balance is $187,443.22. Your loan is a 30-year fixed at 4.375% interest rate. Your regular monthly payment is $1,142.58 which includes principal and interest, taxes and insurance escrow. And I do see your account is current — your last payment posted on June 3rd. Is that all consistent with what you're expecting?
+Caller: Yeah that sounds about right. So I need an actual payoff amount, not just the balance. My closing is scheduled for July 10th.
+Agent: Absolutely, that's exactly what I'm going to generate for you. A payoff quote is different from your principal balance — it will include the remaining interest that accrues through your good-through date, any outstanding fees, and we'll also factor in your escrow account. Can I ask — do you know yet what date your closing agent wants the payoff good through?
+Caller: My realtor said they usually request it good through like three to five days after the actual closing, so maybe good through July 15th?
+Agent: That's a really smart question and your realtor gave you good advice. Most title companies request the payoff be good through a few days past the scheduled closing date to give themselves a cushion in case the closing runs a day late or the wire transfer is delayed. July 15th is a reasonable good-through date if your closing is July 10th. Let me go ahead and calculate that now.
+Caller: Okay great.
+Agent: While I'm pulling that together — and this will just take me a moment to calculate — I want to mention that per-diem interest will be part of this conversation. Do you know what per-diem means in this context?
+Caller: I think it's like the daily interest that keeps adding up?
+Agent: Exactly right. Your per-diem interest is the amount of interest that accrues on your loan each day. At your current principal balance and your interest rate of 4.375%, your daily per-diem is approximately $22.58. So every day between your last payment and your payoff date, that amount is being added to what you owe. That's why the good-through date matters — the further out it is, the slightly higher your payoff will be.
+Caller: Okay so if my closing is July 10th and we're saying good through July 15th, that's five extra days of per-diem on top of everything else?
+Agent: That's correct. But here's the important thing — if you close on July 10th and the funds are wired the same day or next business day, and the payoff is received before July 15th, then you would actually get a refund of the unused per-diem days back to you through your escrow refund or directly depending on how the title company handles it. And conversely, if for any reason the closing went past July 15th, your title company or closing agent would need to call us to get a new or extended payoff quote.
+Caller: Oh okay. And is there a fee for getting the payoff quote?
+Agent: There is. Our payoff statement fee is $30.00 for a faxed or mailed payoff. If your title company requests it through our title company portal online, the fee is waived. A lot of title companies use our portal these days. Do you know which title company your closing agent is using?
+Caller: I think it's Midwest Title and Escrow. They're out of Lisle, Illinois.
+Agent: Great. I can actually notate that here. Midwest Title and Escrow in Lisle — I do not have them listed in our portal registry off the top of my head, but your closing agent can call us directly or we can fax the payoff statement to them. Do you have their fax number handy, or would you like our fax number to give to them?
+Caller: I don't have their fax number right now. Can you give me yours so I can pass it along?
+Agent: Of course. Our payoff department fax number is 1-800-555-0174. I want you to write that down — it's specifically the payoff department fax, not the general servicing fax, so make sure your closing agent uses that number and not just any number they might find online. And when they fax the request, they should include your loan number 784291 on the cover sheet, the property address, the good-through date they need, and the name of the closing agent or attorney handling the transaction.
+Caller: Got it, okay. So what is the actual payoff number going to be?
+Agent: Let me give you that now. I've calculated your payoff good through July 15th, 2025. Your payoff amount would be $188,312.47. Let me break that down for you so you understand what's in there. Your unpaid principal balance is $187,443.22. Accrued interest through July 15th, that's from your last payment due date through the good-through date, is $746.14. There is a recording fee of $53.00 which is what we charge to record the lien release with the county after the loan is paid off. And there is the payoff statement fee of $30.00 that I mentioned. There are no other outstanding fees or late charges on your account, so your total payoff good through July 15th is $188,312.47.
+Caller: Okay, let me write that down. One eighty-eight, three twelve, forty-seven?
+Agent: That's correct. $188,312.47 good through July 15th, 2025.
+Caller: And what happens to my escrow? Because I've been paying into escrow for taxes and insurance every month. I feel like there should be money in there.
+Agent: Great question and I'm glad you asked. Your escrow account has a current balance of $3,218.66. This amount is not included in your payoff — it's separate. After your loan is paid off and the transaction closes, we will issue you a refund check for your escrow balance within 20 to 30 business days. We will mail it to the address we have on file, which is your property address. If you're moving, you'll want to call us or update your address in your online account portal before the payoff is received so the check goes to your new address.
+Caller: Oh wow, that's actually a good chunk of change. Okay. And what about my homeowner's insurance? I pay through escrow, right?
+Agent: Yes, your homeowner's insurance premium is being escrowed. Once your loan is paid off, we will notify your insurance company that we are no longer the mortgagee on the policy. You'll want to call your insurance agent after closing to update the policy — remove the mortgage clause and potentially adjust your coverage since you'll own the home free and clear. That's really something to coordinate with your insurance agent directly.
+Caller: Right, that makes sense. Okay, and one more thing — my closing agent asked whether you have a specific wiring instruction sheet or if the title company should just contact you directly for the wire instructions.
+Agent: Yes. Your closing agent will need our wire instructions for the payoff funds. I would not provide wire instructions verbally because wire fraud is a real concern and we want to make sure the funds go to the correct account. What I recommend is that your closing agent fax their request to our payoff department at that number I gave you — 1-800-555-0174 — and our payoff team will respond with an official wire instruction sheet on our letterhead within one to two business days. That official document will have the bank name, routing number, account number, and the reference information they need to include so the wire is applied to your loan correctly.
+Caller: Okay. Is there anything else I need to do on my end? Like should I make my July payment?
+Agent: That's another really important question. Your July payment would be due July 1st. Whether you should make it depends on your closing date. If your closing is solidly on July 10th and funds are wired same day, technically your July payment would be included in the payoff calculation since we'd be collecting interest through the payoff date. However, I want to be clear — if for any reason your closing is delayed past July 10th and you have not made your July payment, you could incur a late fee on July 16th. So many borrowers in your situation choose to make their regular July payment just as protection, and then any overpayment would be refunded to you. Talk to your closing agent about their recommendation, but that's the risk consideration.
+Caller: Okay that makes sense. Better safe than sorry I guess.
+Agent: Exactly. And I would also suggest you ask your closing agent to confirm receipt of the payoff statement once they receive it and to confirm the wire is going to be sent in time. We do not want a situation where the good-through date expires and then the title company is scrambling to get a new quote.
+Caller: Yeah definitely. This is actually really helpful. I feel like my realtor kind of left me in the dark on some of this.
+Agent: That's pretty common actually. Realtors are great at selling homes but the payoff logistics are really more of a title and mortgage servicer conversation. You asked exactly the right questions today. Is there anything else I can help you with?
+Caller: Um, let me think. Oh — what if something happens and the closing gets pushed? Do I need to call back?
+Agent: If the closing gets pushed to a date after July 15th, yes, your title company would need to contact us to get an updated payoff quote. The quote will be recalculated with the new good-through date. There's no additional fee for a revised quote if it's within 30 days of the original request. They can call our payoff department directly at 1-800-555-0290.
+Caller: Wait, that's a different number than the fax?
+Agent: Yes, I'm sorry — let me clarify. The fax number for payoff requests is 1-800-555-0174. The phone number to speak to the payoff department directly is 1-800-555-0290. They're available Monday through Friday, 8am to 6pm Central Time.
+Caller: Okay I've got both of those. And your name was Rachel?
+Agent: Yes, Rachel. And I'll note today's call in your account so if you or your closing agent calls back, they can reference this conversation. I'm also noting the payoff quote amount I gave you verbally today — $188,312.47 good through July 15th, 2025 — in the account notes. Just keep in mind that the formal written payoff statement that your title company will rely on needs to come from our payoff department via fax or portal.
+Caller: Right, yeah. I understand this was just verbal. Okay, I think I have everything I need. Thank you so much, Rachel, this was really helpful.
+Agent: My pleasure, Sandra. Good luck with your closing on July 10th — that's exciting, selling a home is a big deal. Is there anything else at all before I let you go?
+Caller: No, I think I'm good. Thanks again.
+Agent: Of course. Thank you for being a valued Cornerstone customer, Sandra. Have a wonderful day.
+Caller: You too. Bye.
+Agent: Goodbye.

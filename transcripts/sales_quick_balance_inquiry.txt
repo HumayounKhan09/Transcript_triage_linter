@@ -1,0 +1,29 @@
+Agent: Thank you for calling Meridian Home Lending, my name is Lisa, how can I assist you today?
+Caller: Hi Lisa, yes, I just need to check my current balance and find out when my next payment is due. It should be pretty quick.
+Agent: Absolutely, I can help you with that. Before I pull up your account, I do need to verify your identity. Can I start with your full name?
+Caller: Sure, it's Patricia Okonkwo.
+Agent: Thank you, Patricia. And can I get your loan number if you have it handy, or your property address?
+Caller: Yeah, I have the loan number right here. It's four seven two eight one nine.
+Agent: Great, loan number four seven two eight one nine. And for verification purposes, can I get the last four digits of your Social Security Number?
+Caller: It's six six zero three.
+Agent: Perfect. And can you confirm the mailing address on the account?
+Caller: It's two fourteen Birchwood Lane, Covington, Kentucky, four one zero one one.
+Agent: Thank you, Patricia, that all checks out. I'm pulling up your account now. Okay, I have your account here. Your current principal balance as of today, June twenty-seventh, is two hundred and eighteen thousand, four hundred and forty-two dollars and seventeen cents.
+Caller: Okay, so two eighteen four forty-two and change. Got it. And when is the next payment due?
+Agent: Your next payment due date is July first. The total amount due is one thousand three hundred and twelve dollars and fifty-eight cents. That covers your principal, interest, and your escrow for taxes and insurance.
+Caller: Okay, and if I pay it a few days late — like what's the grace period on this?
+Agent: You have a fifteen-day grace period, so any payment received by July sixteenth would not incur a late fee. If it comes in on or after July seventeenth, a late charge of sixty-five dollars and sixty-three cents would be assessed.
+Caller: Perfect, that's good to know. I always try to pay on the first but sometimes life happens. And the payment amount — that one three twelve fifty-eight — that's just for July, right? That's not including any past-due amounts or anything?
+Agent: Correct, that is your standard monthly payment for the July cycle. Your account is current, so there are no outstanding past-due amounts. You're in good standing.
+Caller: Oh wonderful, that's reassuring. I just wanted to make sure because I switched banks recently and I was worried my autopay might not have transferred over cleanly.
+Agent: That's a really good thing to keep an eye on. Do you have autopay set up directly through us here at Meridian, or through your personal bank?
+Caller: Through my personal bank. A bill pay thing.
+Agent: Got it. In that case, as long as you updated the account on your bank's end with your new checking account information, you should be all set. We just receive the payment on our end regardless of which bank it originates from. That said, you may want to log into your bank's bill pay and confirm that the payment for July first is scheduled.
+Caller: Yeah, I already did that actually. I just wanted to double-check everything on your side looked right. And it does, so I'm good.
+Agent: Wonderful. Just to recap for you — your current principal balance is two hundred eighteen thousand, four hundred forty-two dollars and seventeen cents, and your next payment of one thousand three hundred twelve dollars and fifty-eight cents is due July first, with a grace period through July sixteenth.
+Caller: Yes, perfect. That's exactly what I needed. Thank you so much, Lisa.
+Agent: My pleasure, Patricia. Is there anything else I can help you with today?
+Caller: No, that's it. Quick and easy. You guys are always so helpful.
+Agent: We appreciate that. Thank you for being a valued Meridian customer. You have a wonderful day.
+Caller: You too, bye.
+Agent: Goodbye.

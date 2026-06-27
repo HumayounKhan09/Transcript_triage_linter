@@ -1,0 +1,103 @@
+# Transcript: escrow_shortage_long.txt
+
+Agent: Good morning, thank you for calling Pinnacle Mortgage Servicing. My name is Maria, how can I assist you today?
+Caller: Hi, yeah, hi. Um, I got this letter. I got a letter in the mail and I don't really understand what it's saying. It says something about an escrow analysis and I, I don't know, it's very confusing to me and I just — my payment went up and nobody told me it was going to go up, so I'm a little upset about that.
+Agent: I completely understand your concern, and I'm happy to help you work through what that letter means. Before I pull up your account, I do need to verify a few pieces of information. Could I get your name, please?
+Caller: Yeah, it's Gary. Gary Mulholland.
+Agent: Thank you, Gary. And could I get the loan number associated with your account?
+Caller: Um, hold on, let me — I have it here somewhere. I wrote it down. Okay, it's, uh, 7-7-4-2-1-9.
+Agent: Perfect, loan number 774219. And for verification purposes, can you confirm the property address on the loan?
+Caller: Yes, it's 4411 Birchwood Drive, Lakewood, Colorado. 80226.
+Agent: Thank you. And the last four digits of your Social Security number?
+Caller: 3-8-8-1.
+Agent: Great. And can you confirm the date of birth on file?
+Caller: March 14th, 1961.
+Agent: Perfect, Gary, I've got your account pulled up. Just give me one moment to review your file here. Please hold just a moment.
+Caller: Sure, yeah.
+Agent: Thank you for holding. Okay, Gary, I can see your account here. I can see the annual escrow analysis was completed and it does reflect an increase in your monthly payment. I want to walk you through exactly what happened and why. So the first thing I want to ask is — do you have that letter in front of you?
+Caller: I do. I have it right here. It's got all these numbers on it and I, honestly, I've been staring at it for like two days and I cannot figure out what it's telling me.
+Agent: No worries at all. That's what I'm here for. Let me explain what an escrow account is first, just to make sure we're on the same page, and then we'll go through the numbers together. Does that sound okay?
+Caller: Yeah, please. That would be helpful.
+Agent: So your mortgage payment is made up of a few different parts. You have your principal, which is the actual balance of the loan being paid down. You have your interest, which is the cost of borrowing the money. And then you have your escrow portion, which is money we collect every month and hold in a separate account to pay your property taxes and your homeowner's insurance on your behalf. Does that make sense so far?
+Caller: Yeah, I know about that part. I've had the mortgage for twelve years so I know about the escrow. It's just — the letter says there's a shortage and I don't understand what that means.
+Agent: Absolutely, and that's the key word here — shortage. So once a year, we're required to do what's called an annual escrow analysis. What that means is we look at what came out of your escrow account over the past year — so the actual property tax bills that were paid and the insurance premiums — and we compare that to what you paid in. If what came out is more than what came in, that creates what we call a shortage.
+Caller: Okay, but here's what I don't get. Didn't I pay the same amount every month? How can there be a shortage if I paid every single month?
+Agent: That is a really common question and you're right that you paid every month. The issue isn't that you missed payments — it's that the amounts that were paid out of your escrow increased. Specifically, your property taxes went up.
+Caller: They went up? By how much? Nobody told me that.
+Agent: I understand, and I want to clarify — the property tax increase would have been set by your local county assessor's office, not by us. We don't set property taxes. What happened is your county reassessed your property value and the tax bill came in higher than we anticipated when we set your escrow payment last year.
+Caller: Huh. So the county raised my taxes?
+Agent: That's correct. Do you recall receiving any notice from Jefferson County — or it may be a different county — about a property reassessment?
+Caller: You know what, I might have gotten something. My wife and I, we get a lot of mail and sometimes things get set aside. I might have seen something about that but I didn't think it was a big deal. So they raised my taxes and now I have to pay more?
+Agent: Essentially, yes. Let me pull up the specific numbers so we can talk through exactly how much the taxes increased and how that affects your payment. Give me just one moment.
+Caller: Okay.
+Agent: Alright, so looking at your account — for the tax year that just concluded, your property taxes were paid out of your escrow account at a total of $6,842.00. The prior year, those taxes were $5,790.00. So there was an increase of just over one thousand dollars.
+Caller: A thousand dollars? That seems like a lot. Why would my taxes go up a thousand dollars?
+Agent: That's really a question for your county assessor's office, as they determine property values and tax rates. But I can tell you that over the past couple of years, property values in many parts of Colorado have increased significantly, and when your assessed value goes up, your tax bill typically follows.
+Caller: Okay. Well that's — I mean, I'm not happy about that. But okay. So how does that create the shortage you're talking about?
+Agent: So here's how the math works. Last year, when we set your escrow payment, we estimated your taxes at around $5,790 — the amount you paid the year before. We spread that out over twelve months, so we were collecting about $482.50 per month for taxes. But the actual bill came in at $6,842, which is $570.17 per month. So there's a gap of about $87.67 per month. Over the course of the full year that amounts to a little over $1,052 in shortfall.
+Caller: So I owe a thousand dollars?
+Agent: The shortage in your escrow account is $1,052. Now, there are two ways we can handle that. You can pay that amount as a lump sum, which would keep your monthly payment from going up as much. Or we can spread that shortage out over the next twelve months and add it to your monthly payment.
+Caller: And what's my payment going to be either way?
+Agent: Let me get you those exact figures. Please bear with me one moment.
+Caller: Sure.
+Agent: Okay, Gary. So your current monthly payment — the amount you've been paying — is $2,114.00 per month. That includes your principal and interest of $1,431.00, which stays the same, and your current escrow of $683.00, which covers taxes and insurance combined.
+Caller: Okay, yes, that's what I've been paying. Twenty-one fourteen.
+Agent: Correct. Now, going forward, there are two scenarios. If you pay the escrow shortage lump sum of $1,052 upfront, your new monthly payment will be $2,201.50. That's an increase of $87.50 per month, which represents the increase in your ongoing tax collection to match what we now expect the county to bill each year.
+Caller: Okay. And the other option?
+Agent: If you spread the shortage over twelve months, your new monthly payment would be $2,289.17. That's the same $87.50 increase for the ongoing tax adjustment, plus an additional $87.67 per month to pay back the shortage over the next year. So it's about $175 more per month than you're currently paying.
+Caller: Oh wow. That's — that's a pretty big jump. From twenty-one fourteen to twenty-two eighty-nine?
+Agent: I understand that feels significant, Gary. It's an increase of about $175.17 per month if you choose the installment option.
+Caller: And if I pay the lump sum it's only $87 more a month?
+Agent: That's correct. If you pay the $1,052 shortage today or before your next due date, your ongoing monthly payment would be $2,201.50.
+Caller: Hmm. And what happens to my insurance — did that go up too?
+Agent: Great question. Your homeowner's insurance premium was actually very close to what we projected. Your insurance was $1,284 annually this year versus $1,260 last year, so only a $24 difference there. The bulk of the shortage is from the tax increase.
+Caller: Okay. So the insurance is basically the same.
+Agent: Essentially, yes. The insurance is not the driver here.
+Caller: Alright. Now I want to make sure I understand this — so going forward, every year this could happen again? Like if my taxes go up again next year, this could happen all over again?
+Agent: That's a really smart question. Yes, your escrow is recalculated every year based on the actual bills paid in the prior year. We try to set the escrow amount to exactly cover what we expect to be billed. But if your property taxes continue to increase, you could see adjustments in future analyses. If your taxes stay the same or go down, your payment could stay flat or even decrease.
+Caller: Can they go down?
+Agent: They can. If your county lowers your assessed value or if there are changes to the tax rate, yes, you could see a decrease. But that's entirely dependent on what the county does.
+Caller: Okay. Alright. Now let me ask you something — when did this letter get sent out? Because I feel like I just got it and now it's saying I have until — let me look — it says I have until July 15th to pay the lump sum or else the new payment goes into effect on August 1st.
+Agent: That's correct. Your escrow analysis was completed on June 10th and the letter was mailed on June 12th. The deadline for the lump sum payment to avoid the higher installment payment is July 15th, and if no payment is made, the new payment of $2,289.17 takes effect for your August 1st statement.
+Caller: So I still have a couple of weeks.
+Agent: You do. You have until July 15th.
+Caller: Okay. And if I want to pay the lump sum — the $1,052 — how do I do that?
+Agent: You have a few options. You can pay online through our website at PinnacleMortgageServ.com, you can call our automated payment line at 1-800-774-5500, or you can mail a check made payable to Pinnacle Mortgage Servicing with your loan number written in the memo line. If you mail a check, I'd recommend doing so as soon as possible to make sure it's received by July 15th.
+Caller: Can I pay it over the phone right now? Like with you?
+Agent: I can transfer you to our payment line, yes. I'm not able to take payments directly in this queue but I can get you to the right department.
+Caller: Okay. Before I do that — I just want to make sure I'm understanding — so if I pay the thousand fifty-two dollars, my new payment is twenty-two hundred and one dollars and fifty cents?
+Agent: That is correct. $2,201.50 starting with your August 1st payment.
+Caller: And if I don't pay the lump sum, it goes to twenty-two eighty-nine?
+Agent: Twenty-two eighty-nine and seventeen cents, yes.
+Caller: And that extra eighty-seven sixty-seven goes away after a year?
+Agent: Exactly right. After twelve months, if you choose the installment option, the shortage repayment portion drops off, and your payment would go back down to $2,201.50 — assuming no other changes to your taxes or insurance.
+Caller: Okay. That actually makes me feel a little better. I thought this was going to be a permanent thing.
+Agent: No, the shortage repayment is temporary. The underlying increase in your tax collection is the part that stays, but the catch-up piece is just for twelve months.
+Caller: Alright. You know, I wish somebody had called me and told me about this rather than just mailing a letter.
+Agent: I completely understand, and I hear that feedback. We do send written notices as required, but I know those letters can be difficult to navigate.
+Caller: Yeah, the letter is very — there's a lot of numbers on it. It's like, I don't know where to look.
+Agent: I understand. Is there anything else on that letter that you'd like me to clarify before I transfer you?
+Caller: Uh, yeah, actually. There's a section on here — it says something about a cushion. A two-month cushion or something? What is that?
+Agent: Good catch. Federal regulations require us to maintain what's called a cushion in your escrow account — it's a small reserve buffer equal to no more than two months' worth of your expected escrow payments. This cushion is there in case a tax or insurance bill comes in earlier than expected, so we always have funds available to pay it on time. It protects you from having a bill go unpaid.
+Caller: So I'm paying into that too?
+Agent: Yes, it's factored into the overall escrow calculation. You are maintaining that cushion as part of what we collect each month.
+Caller: And how much is the cushion in my account?
+Agent: Your required cushion is $1,140.17, which represents two months of your new projected escrow payment.
+Caller: Okay. So there's always going to be twelve hundred bucks sitting in there basically.
+Agent: Roughly, yes. That's a reserve we hold on your behalf.
+Caller: Okay. And that money, if I ever pay off my loan, I get that back?
+Agent: Yes. If your loan is paid off or the escrow account is closed for any reason, any remaining balance in the escrow account is refunded to you within a certain number of days as required by law.
+Caller: Alright, good. Okay. I think I understand this now. I was really upset when I got this letter, I thought something was wrong with my account or that I'd done something wrong.
+Agent: Not at all, Gary. You've done everything right. You've paid every month. This is simply an adjustment based on external factors — your property taxes went up and we're adjusting your escrow to keep pace. You haven't missed anything.
+Caller: Okay. That's good to hear. Alright so you said you can transfer me to make that lump sum payment?
+Agent: I can. Before I do that, is there anything else you'd like me to clarify or is there any other aspect of your account you'd like to review today?
+Caller: No, I think I'm good. My wife is going to ask me a million questions when I get off the phone but I think I understand it now.
+Agent: I'm happy to send you a written summary if that would help — it would outline what we discussed today, the two payment options, and the deadlines.
+Caller: Oh, can you do that? Yeah, that would be great.
+Agent: I'll note in your account that a summary should be sent to your email on file. Can you confirm the email address we have?
+Caller: It should be g.mulholland1961 at gmail dot com.
+Agent: I see that matches what we have. I'll make that note now. Okay, Gary, let me transfer you to the payments line. The number there is 1-800-774-5500, and if for any reason the transfer doesn't go through, that's the number you can call directly.
+Caller: Alright, thank you, Maria. You were very helpful. You really explained it well.
+Agent: It was my pleasure, Gary. I'm glad we could sort this out. You have a wonderful day.
+Caller: You too, thanks.
+Agent: Thank you for calling Pinnacle Mortgage Servicing. Please hold while I transfer you now.
