@@ -3,6 +3,9 @@ File Name: triageResult.py
 Description: This is the main driver of the entire linter
 """
 
+import math
+import os
+
 from Data_Classes.triageResult import triageResult as TriageResult
 from engines.transcriptParser import transcriptParser
 from engines.ruleEngine import ruleEngine as RuleEngine
@@ -58,9 +61,26 @@ class TriagePipeline:
     # Internal helpers
     # ------------------------------------------------------------------
 
-    def _get_pool(self) -> PipelinePool:
-        if self._pool is None:
-            self._pool = PipelinePool(workers=self._workers)
+    @staticmethod
+    def _optimal_workers(batch_size: int) -> int:
+        """Scale worker count with batch size using a square-root curve.
+
+        workers = min(cpu_count, ceil(sqrt(batch_size)))
+
+        This grows quickly for small batches (where adding a worker helps a
+        lot) and flattens out for large ones (where we hit the CPU ceiling).
+        """
+        cpu = os.cpu_count() or 4
+        return min(cpu, math.ceil(math.sqrt(batch_size)))
+
+    def _get_pool(self, batch_size: int) -> PipelinePool:
+        optimal = self._optimal_workers(batch_size)
+        # Scale up if a larger batch needs more workers; never scale down
+        # (shrinking would throw away warm workers for no gain).
+        if self._pool is None or optimal > self._pool.workers:
+            if self._pool is not None:
+                self._pool.shutdown(wait=False)
+            self._pool = PipelinePool(workers=optimal)
         return self._pool
 
     # ------------------------------------------------------------------
@@ -79,7 +99,7 @@ class TriagePipeline:
         """
         if len(file_paths) < self._PARALLEL_THRESHOLD:
             return [_process_file(p) for p in file_paths]
-        return self._get_pool().process_batch(file_paths)
+        return self._get_pool(len(file_paths)).process_batch(file_paths)
 
     def shutdown(self):
         """Release the warm pool if one was created."""

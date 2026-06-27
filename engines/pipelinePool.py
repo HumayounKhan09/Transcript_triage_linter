@@ -80,9 +80,9 @@ class PipelinePool:
     """
 
     def __init__(self, workers: int = None):
-        self._workers = workers or os.cpu_count() or 4
+        self.workers = workers or os.cpu_count() or 4
         self._executor = ProcessPoolExecutor(
-            max_workers=self._workers,
+            max_workers=self.workers,
             initializer=_init_worker,
         )
 
