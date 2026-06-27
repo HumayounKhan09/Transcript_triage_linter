@@ -8,8 +8,8 @@ from Data_Classes.reasonCode import reasonCode
 from engines.summaryGenerator import summaryGenerator
 
 
-def make_entities(amounts=None, dates=None, phones=None, loan_numbers=None) -> Entities:
-    return Entities(amounts or [], dates or [], phones or [], loan_numbers or [])
+def make_entities(amounts=None, dates=None, phones=None, loan_numbers=None, amount_contexts=None) -> Entities:
+    return Entities(amounts or [], dates or [], phones or [], loan_numbers or [], amount_contexts or [])
 
 
 def make_reason(code: str, is_escalation: bool = True, score: int = 2) -> reasonCode:
@@ -32,15 +32,49 @@ class TestExtractPaymentBullet:
 
     def test_single_amount_formatted(self, gen):
         bullet = gen.extract_payment_bullet(make_entities(amounts=[1234.5]))
-        assert bullet == "Borrower mentioned payment amount of $1,234.50"
+        assert "$1,234.50" in bullet
 
     def test_multiple_amounts_formatted(self, gen):
         bullet = gen.extract_payment_bullet(make_entities(amounts=[10, 2000.1]))
-        assert bullet == "Borrower discussed multiple amounts: $10.00, $2,000.10"
+        assert "$10.00" in bullet
+        assert "$2,000.10" in bullet
+        assert "multiple amounts" in bullet
 
     def test_large_amount_formatted(self, gen):
         bullet = gen.extract_payment_bullet(make_entities(amounts=[1000000]))
         assert "$1,000,000.00" in bullet
+
+    def test_context_label_monthly_payment(self, gen):
+        bullet = gen.extract_payment_bullet(
+            make_entities(amounts=[2450], amount_contexts=["your monthly payment is"])
+        )
+        assert "(monthly payment)" in bullet
+
+    def test_context_label_loan_balance(self, gen):
+        bullet = gen.extract_payment_bullet(
+            make_entities(amounts=[185000], amount_contexts=["the principal balance is"])
+        )
+        assert "(loan balance)" in bullet
+
+    def test_context_label_escrow_shortage(self, gen):
+        bullet = gen.extract_payment_bullet(
+            make_entities(amounts=[600], amount_contexts=["we found an escrow shortage of"])
+        )
+        assert "(escrow shortage)" in bullet
+
+    def test_no_label_when_no_context(self, gen):
+        bullet = gen.extract_payment_bullet(make_entities(amounts=[500]))
+        assert "(" not in bullet
+
+    def test_multiple_amounts_with_mixed_labels(self, gen):
+        bullet = gen.extract_payment_bullet(
+            make_entities(
+                amounts=[2450, 185000],
+                amount_contexts=["monthly payment is", "principal balance is"]
+            )
+        )
+        assert "(monthly payment)" in bullet
+        assert "(loan balance)" in bullet
 
 
 # === extract_request_bullet ===
