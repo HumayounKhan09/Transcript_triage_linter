@@ -1,0 +1,45 @@
+Agent: Thank you for calling Pacific Coast Loan Servicing. This is Brandon. Can I get your loan number please?
+Caller: Hi Brandon. Name is Gregory Shulman. Loan number, let me find it — 6-6-0-9-1-3-4.
+Agent: Thank you, Mr. Shulman. Last four of your Social and property address?
+Caller: 4-4-5-2. And 882 Sycamore Lane, Fresno, California 93720.
+Agent: Got it. Account is up. How can I help you today?
+Caller: I'm trying to understand the difference between an in-house modification and what I've seen called an investor-owned modification or a GSE modification. I was told by a housing counselor that the options available to me depend on who owns my loan. Can you explain the difference?
+Agent: That's a really smart question to be asking and your housing counselor gave you accurate advice. Let me explain the difference clearly. Your loan was originated by a lender, but most mortgages are then sold to investors in the secondary market. There are essentially three categories of loan ownership that determine what modification options are available.
+Caller: Okay, go ahead.
+Agent: The first category is loans owned or backed by the government-sponsored enterprises — Fannie Mae and Freddie Mac. These loans have their own standardized programs, like the Flex Modification. Fannie and Freddie set the rules and the servicer must follow them. The second category is government agency loans — FHA, VA, and USDA. These have their own separate modification waterfall rules set by HUD, the VA, or USDA respectively. The third category is what's called portfolio loans or private label securitization, meaning loans that were not sold to Fannie, Freddie, or a government agency. They're either held on the lender's books or packaged into private mortgage-backed securities. These are what people typically mean when they say in-house modification.
+Caller: And which category am I in? Do you know?
+Agent: Let me check. Your loan is in the third category — it's a portfolio loan held by the original lender, which means it did not go to Fannie Mae, Freddie Mac, or a government agency.
+Caller: Okay, so that's the in-house modification path?
+Agent: Correct. Because your investor is the lender itself rather than a GSE or government agency, there's no standardized federal program you're automatically subject to. Instead, the modification terms are determined by the lender's own loss mitigation guidelines and whatever the investor permits under the terms of the pooling and servicing agreement, if it's in a private MBS.
+Caller: What does that mean in terms of what I can get? Is in-house better or worse?
+Agent: It's genuinely a mixed bag, and it depends heavily on the investor. On the positive side, in-house modifications can sometimes offer more flexibility. Because there's no federal program dictating every term, the investor may be willing to negotiate elements that Fannie or Freddie would never allow — things like principal reduction, which GSE programs essentially prohibit but which some portfolio investors will consider.
+Caller: Wait, principal reduction is possible on in-house loans?
+Agent: It's possible in some cases, yes. Not guaranteed, not even common, but portfolio investors have done it. The logic is that if forgiving some principal means they recover more over time than they would through foreclosure, it can make financial sense to them. GSE guidelines — Fannie Mae and Freddie Mac — have historically prohibited principal reduction under their programs, though this has been a subject of debate for years.
+Caller: That's interesting. What are the downsides of the in-house path?
+Agent: The downsides are that there's less transparency and less standardization. With a Flex Modification, there are published guidelines, prescribed waterfalls, and federal rules about how servicers must process the application. With an in-house modification, the investor has much more discretion. That can mean a faster and more creative solution, but it can also mean a denial with less clear recourse. The appeal rights under CFPB Regulation X apply in both cases for the servicing process itself, but the investor decision on terms is less constrained.
+Caller: So how do I actually apply and what should I ask for?
+Agent: The application process is similar regardless of loan type. You'd submit a loss mitigation application — hardship letter, income documentation, bank statements, expense worksheet, and tax returns. From there, our loss mitigation team evaluates what the investor will allow under their guidelines.
+Caller: Should I be upfront about wanting principal reduction in my application?
+Agent: You can certainly state your desired outcome in your hardship letter — that you're seeking a sustainable modification and that if principal reduction is available you'd like it considered. However, I'd caution against anchoring your expectations to principal reduction. More realistic outcomes for portfolio loans include interest rate reduction, term extension, and capitalization of arrears. Those are the most common tools even in the in-house context.
+Caller: What's my current situation on the account — am I past due?
+Agent: Let me check. Your last payment was received May 3rd, which was the April payment. We have not received a May or June payment, so you're currently 58 days past due.
+Caller: Right. I fell behind because I had some business income that dried up. I'm self-employed and my consulting contracts dropped significantly over the winter.
+Agent: That's exactly the type of hardship we'd document. For self-employed borrowers, the documentation package is a bit different. Instead of pay stubs, we'd need year-to-date profit and loss statements — ideally prepared by an accountant or signed by you — your last two federal tax returns including Schedule C or whatever business structure you file under, and your most recent three months of business bank statements in addition to personal bank statements.
+Caller: That's more paperwork but I have all of it.
+Agent: One thing that helps self-employed borrowers is a thorough, detailed profit and loss statement that clearly shows the trend. If your income dropped significantly in the last two quarters versus the same period last year, that documentation tells the story of the hardship clearly and supports the application.
+Caller: Got it. What's the general timeline once I submit everything?
+Agent: From receipt of a complete application, federal guidelines require a decision or acknowledgment within 30 days. If the application is incomplete, we'll notify you of missing items. I want to be honest that portfolio investor reviews can sometimes take a bit longer because we're submitting to the investor rather than running a standardized algorithm, but we're still governed by the 30-day rule from our end.
+Caller: Can I negotiate the terms at all, or is whatever they offer take-it-or-leave-it?
+Agent: It's largely take-it-or-leave-it in terms of the specific numbers, but you can decline an offer you feel is unworkable and request a review for alternative options if available. The key is to express that clearly in writing — don't just ignore an offer you don't like. Respond and state why it's not feasible and what you'd need for it to work.
+Caller: That's helpful. And you said there might be flexibility that doesn't exist with Fannie or Freddie. How would I even know what the investor's guidelines allow?
+Agent: We can request that information from the investor, and sometimes housing counselors have built-in experience with specific investors' loss mitigation practices. A HUD-approved counselor who specializes in the California market might have dealt with this particular investor before and can advocate on your behalf.
+Caller: I already have a counselor at a local nonprofit. She's been helpful.
+Agent: Good. Keep her engaged. She can help you write a compelling hardship letter and can sometimes communicate directly with our loss mitigation department, which can smooth the process.
+Caller: Alright, I want to get this started. What do I do today?
+Agent: I'll open a hardship case on your account right now, document the income reduction from your consulting work, and generate a document checklist specific to self-employed borrowers. You'll receive it by email or mail within three business days with instructions for submitting through our portal.
+Caller: Email is best. It's gshulman82 at outlook dot com.
+Agent: Perfect, I have that noted. Your case number will be on the acknowledgment email. Is there anything else I can help clarify?
+Caller: No, I think I have what I need. Thanks, Brandon.
+Agent: Absolutely, Mr. Shulman. Good luck with the application. Call us at 1-800-555-0246 with any questions. Take care.
+Caller: You too. Goodbye.
+Agent: Goodbye.

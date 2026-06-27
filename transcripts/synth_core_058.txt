@@ -1,0 +1,44 @@
+Agent: Thank you for calling Broadview Mortgage, this is James. Can I get your account number?
+Caller: Yes, it's 2207-663-19. My name is Kevin Laramie.
+Agent: Thank you, Mr. Laramie. Can you verify your date of birth and the property address?
+Caller: February 8th, 1977. Property is 618 Elmwood Drive, Hartford, Connecticut 06106.
+Agent: Got your account pulled up. What can I help you with today?
+Caller: I took a COVID deferral back in 2021, I think it was about eighteen months of payments. I'm trying to figure out when that amount actually comes due and what my options are for dealing with it.
+Agent: That's a great question to be asking proactively, Mr. Laramie. Let me pull up the specific deferral on your account. I can see the COVID-19 payment deferral executed in November 2021. The deferred amount at that time was $27,936.00, covering eighteen payments at $1,552.00 each.
+Caller: That sounds right.
+Agent: Under the terms of your deferral agreement, that amount becomes due under one of three triggering conditions: first, when the original loan matures — meaning reaches the end of its scheduled term; second, when the loan is paid off through sale or refinance; third, when the first mortgage is otherwise satisfied. The deferred amount was added as a non-interest-bearing subordinate obligation.
+Caller: So it's not due until I sell or pay off the house?
+Agent: That's correct. It does not require any monthly payment and no interest accrues on it. It simply sits there as a deferred lump sum payable at the time the loan terminates.
+Caller: What's my original loan maturity date?
+Agent: Your original loan term was thirty years from origination in April 2008, which puts your maturity date at April 1st, 2038. That's approximately twelve years from now.
+Caller: Okay. So worst case, if I never sell and never refinance, I'd owe $27,936 on top of whatever's left on my principal in 2038?
+Agent: Exactly. When you make your final mortgage payment in April 2038, the deferred amount would also be due. Your closing attorney or the payoff department would include it in any final payoff figure.
+Caller: Does it affect my loan balance as it's reported? Like, does it show on my statements?
+Agent: Good question. The deferred amount is typically shown on a separate line on your mortgage statement under "deferred balance" or "other outstanding obligations." It is not included in your primary unpaid principal balance. So if your primary balance is $124,000, the deferral shows as a separate $27,936.
+Caller: And how does it affect my credit reporting?
+Agent: The deferral itself, when it was executed, would have been reported as a special payment arrangement. Going forward, your credit report reflects your primary loan status. The deferred lump sum does not appear as a separate tradeline on your credit report. As long as your primary loan is current, your credit should reflect that.
+Caller: Okay. Now, what are my options if I want to deal with this now? Like, can I start paying it down?
+Agent: Yes, you can. You have a few options. First, you can make voluntary payments toward the deferred balance at any time. Those payments would be applied to the deferral account and would reduce what you owe at payoff. There's no prepayment penalty.
+Caller: What's the minimum I can pay toward it?
+Agent: There's no minimum — you can pay any amount. Some borrowers just round up their regular payment to chip away at it. Others make lump sum payments when they have extra funds. Each dollar you put toward it reduces the final payoff amount.
+Caller: How do I make a payment specifically to the deferred balance and not just to my regular mortgage?
+Agent: You'd need to call in or use our online portal and specify that the payment is for the deferred balance. If you simply mail a check or pay online without a note, it will be applied to your current monthly obligation first. To direct it to the deferral, contact us and we'll add a payment instruction on your account.
+Caller: Good to know. What if I want to refinance? Does the deferral get paid off then?
+Agent: Yes. If you refinance, the new lender's title search will find the deferral lien and it would be required to be paid off at closing. The payoff amount is exactly $27,936.00 — it never grows because there's no interest. So whatever day you close a refi, that's the amount due.
+Caller: Would a new lender have a problem with it?
+Agent: It depends on the lender and the loan program. Some conventional lenders will require it to be paid off as a condition of the new loan if you're doing a cash-out refi. For rate-and-term refinances, some lenders will allow it to remain as a subordinate lien if they get a subordination agreement. FHA and VA have their own guidelines. I'd recommend asking any prospective refinance lender upfront about how they handle deferred liens.
+Caller: My current rate is 4.375% and rates right now are higher than that, so I wasn't planning to refi anytime soon.
+Agent: That's a very understandable position. At 4.375% on a conventional loan, the current environment doesn't favor refinancing. In that case, your deferral will likely just sit there until rates come back down or you sell.
+Caller: What happens if I sell and the sale proceeds don't fully cover both the regular mortgage and the deferral?
+Agent: If the net sale proceeds are insufficient to pay both obligations, that would be a short sale situation. You'd need to work with both us and the deferral lienholder — which in COVID deferral cases is often Fannie Mae or Freddie Mac depending on who owns your loan — to negotiate a settlement. Who owns your loan, do you know?
+Caller: It's a Fannie Mae loan.
+Agent: Good. Fannie Mae's COVID payment deferral program is the one you have. If you ever get into a situation where you can't fully pay it at sale, Fannie Mae has guidelines for handling that, and in most cases with some equity in the home, it's not an issue. If your home has appreciated since 2021, you likely have more than enough equity to cover both.
+Caller: I think so. The neighborhood has gone up quite a bit.
+Agent: That's reassuring. With Fannie Mae backing and appreciated equity, your deferral is well-protected and you're in a healthy position. Is there anything specific you'd like to do today — make a payment toward the deferral, or just wanted the information?
+Caller: I just wanted to understand it fully. I may start making small extra payments toward it.
+Agent: That's a prudent approach. If you want to set that up, just call back and ask to add a deferral payment instruction to your account. We can notate the routing so any extra payments you designate go there.
+Caller: Perfect. What's your direct number in case I need to call back about this?
+Agent: Our servicing line is 1-800-441-2266, and reference your loan number 2207-663-19. Any agent can help with the deferral balance questions.
+Caller: Great. Thanks, James. This was really helpful.
+Agent: My pleasure, Mr. Laramie. Have a great day.
+Caller: You too. Bye.

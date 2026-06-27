@@ -1,0 +1,39 @@
+Agent: Thank you for calling Riverstone Mortgage Services, this is Priya. How can I assist you today?
+Caller: Hi. My name is Alicia Moreno. I've been having some financial difficulty — I lost my job about six weeks ago and I'm worried about keeping up with my mortgage. Someone told me I should look into forbearance, but someone else mentioned a loan modification. I honestly don't know the difference or which one is right for me.
+Agent: Ms. Moreno, first I want to say I'm sorry to hear about your job loss, and I'm glad you called us proactively. Understanding the difference between forbearance and modification is really important before deciding which path to take. Let me pull up your account and then we'll have a thorough conversation. Can I get your loan number or property address?
+Caller: The address is 1441 Sunrise Mesa Drive, Albuquerque, New Mexico 87112.
+Agent: And your full name?
+Caller: Alicia Rosa Moreno.
+Agent: Last four of your Social?
+Caller: 6072.
+Agent: Thank you. I have your account. I can see you're currently current on your payments — your last payment posted two weeks ago. That's good news. Let me explain both options clearly. Forbearance and loan modification are very different in their purpose, their mechanics, and what happens afterward. I'll start with forbearance.
+Caller: Okay, please.
+Agent: Forbearance is a temporary pause or reduction in your mortgage payments. The key word is temporary. During a forbearance period, you're allowed to pay less — sometimes nothing — for a defined period, typically three to six months, sometimes up to twelve months in some programs. The important thing to understand is that forbearance is not forgiveness. Those payments you skip or reduce are still owed. They don't disappear.
+Caller: So I'd owe it all at the end?
+Agent: That's where it gets nuanced. After forbearance ends, there are several ways the deferred amount can be handled. One option is a lump-sum repayment — you pay back everything you missed at once, which is rarely feasible for someone coming out of financial hardship. A more common option is a repayment plan, where the deferred amount is spread out over a period of months added on top of your regular payment. Another option — and this is very common now — is deferral, where the missed payments are moved to the end of your loan as a non-interest-bearing balance, due when you sell or pay off the home. The specific option depends on your loan type and investor guidelines.
+Caller: That last one sounds much better than a lump sum.
+Agent: For most people it is. Now let me explain modification. A loan modification is a permanent change to the terms of your existing loan. Unlike forbearance, which is a temporary accommodation, modification actually restructures the loan. That might mean reducing the interest rate, extending the loan term from 20 years to 30 years for example, or in some cases deferring a portion of the principal. The goal is to permanently lower your monthly payment to something affordable based on your income.
+Caller: So with modification, my payments would be lower going forward permanently?
+Agent: Correct, if approved. The tradeoff is that modification requires more documentation and a longer application process — usually 30 to 90 days — and you typically need to demonstrate a long-term or permanent change in your financial situation. A job loss of six weeks with an active job search is something we'd look at carefully. Modification is often better suited to someone whose income has changed long-term rather than someone who's expected to return to work within a few months.
+Caller: I'm actively looking. I have some interviews lined up. I think I'll be working again within two or three months, hopefully.
+Agent: That's helpful context. For someone who anticipates returning to income relatively soon, forbearance is often the more appropriate starting point. It gives you breathing room during the gap without permanently restructuring your loan. If your situation changes and the job search takes longer, you can re-evaluate at that point.
+Caller: What does forbearance do to my credit?
+Agent: Under current guidelines — particularly under CARES Act-related frameworks — a formally approved forbearance should not be reported as delinquent to the credit bureaus, provided you've communicated with your servicer and have an active agreement. Accounts in forbearance are typically reported with a special code indicating the accommodation. However, I'd encourage you to ask about this specifically when you apply so you understand exactly how your account will be reported.
+Caller: And a modification — does that hurt credit?
+Agent: A modification's credit impact varies. The modification itself may be noted, and the months leading up to approval — if you were behind on payments — could affect your score. However, once a modification is in place and you're making consistent on-time payments, your credit can recover over time.
+Caller: Given what I told you — that I expect to be back to work relatively soon — what would you recommend I consider first?
+Agent: I don't make formal recommendations since it's your decision and your financial advisor or a HUD-approved housing counselor would be better positioned than I am. But I can tell you that given your description — current on payments, expecting short-term hardship, likely to return to income — forbearance is the option most commonly used in that scenario. It's faster to obtain, less documentation-intensive, and preserves your options if the hardship extends.
+Caller: Okay. How do I apply for forbearance?
+Agent: You can apply right now over the phone with me, or through our website. I'd need to note your hardship reason — job loss — and we'd initiate a review of your eligibility. Given your loan type, can I look at what forbearance programs your investor allows?
+Caller: Please.
+Agent: I can see your loan is a conventional loan serviced under Fannie Mae guidelines. Fannie Mae does offer forbearance programs for borrowers experiencing financial hardship. An initial forbearance period of three months is available, with possible extensions up to 12 months. I can initiate that application right now if you'd like.
+Caller: Yes. I think that's the right move. Let's do it.
+Agent: Okay. I'm noting your account with the hardship code for job loss and initiating a forbearance request. You'll receive a written forbearance agreement within seven to ten business days. Please review it carefully before the effective date.
+Caller: Should I keep making my normal payment while I wait for approval?
+Agent: I'd encourage you to make your next scheduled payment if you're able to. The forbearance won't be retroactive — it begins from the approval date. If you have the funds, making the payment keeps your account current while the agreement is being formalized.
+Caller: I can probably manage one more. Thank you so much for explaining all of this, Priya. I feel much more informed now.
+Agent: You're very welcome. It's a stressful situation and you're handling it the right way by reaching out early. Is there anything else?
+Caller: No, I think I'm good. Thank you.
+Agent: Take care, Ms. Moreno. We'll be in touch with that agreement.
+Caller: Thank you. Bye.
+Agent: Goodbye.
