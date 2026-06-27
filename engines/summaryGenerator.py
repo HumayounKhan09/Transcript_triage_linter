@@ -54,25 +54,44 @@ class summaryGenerator:
                 return label
         return ""
 
-    def extract_payment_bullet(self, entities: Entities) -> Optional[str]:
-        """Generate bullet about payment amounts, with context labels where available."""
+    def extract_payment_bullets(self, entities: Entities) -> list[str]:
+        """Generate one bullet per labeled amount group, plus one catch-all for unlabeled."""
         amounts = entities.get_amounts()
         if not amounts:
-            return None
+            return []
 
         contexts = entities.get_amount_contexts()
 
-        def fmt(amount, ctx):
+        # Group amounts by label
+        labeled: dict[str, list] = {}
+        unlabeled: list = []
+        for i, amount in enumerate(amounts):
+            ctx = contexts[i] if i < len(contexts) else ""
             label = self._label_from_context(ctx)
-            s = f"${amount:,.2f}"
-            return f"{s} ({label})" if label else s
+            if label:
+                labeled.setdefault(label, []).append(amount)
+            else:
+                unlabeled.append(amount)
 
-        if len(amounts) == 1:
-            formatted = fmt(amounts[0], contexts[0] if contexts else "")
-            return f"Borrower mentioned payment amount of {formatted}"
-        else:
-            amt_str = ', '.join(fmt(a, contexts[i] if i < len(contexts) else "") for i, a in enumerate(amounts))
-            return f"Borrower discussed multiple amounts: {amt_str}"
+        bullets = []
+        for label, amts in labeled.items():
+            amt_str = ", ".join(f"${a:,.2f}" for a in amts)
+            # Capitalise label for display
+            display = label[0].upper() + label[1:]
+            bullets.append(f"{display}: {amt_str}")
+
+        if unlabeled:
+            amt_str = ", ".join(f"${a:,.2f}" for a in unlabeled)
+            bullets.append(f"Other amounts mentioned: {amt_str}")
+
+        return bullets
+
+    def extract_payment_bullet(self, entities: Entities) -> Optional[str]:
+        """Single-string summary of amounts (used by tests; delegates to extract_payment_bullets)."""
+        bullets = self.extract_payment_bullets(entities)
+        if not bullets:
+            return None
+        return " | ".join(bullets)
 
     def extract_request_bullet(self, intent: str, reason_codes: list) -> Optional[str]:
         """Generate bullet about what customer requested based on intent"""
@@ -143,28 +162,26 @@ class summaryGenerator:
         return text
 
     def generate_bullets(self, intent: str, entities: Entities, reason_codes: list) -> list[str]:
-        """Generate 2-4 summary bullets for the call"""
+        """Generate summary bullets for the call"""
         bullets = []
-        
+
         # Always try to add request bullet (what they want)
         request_bullet = self.extract_request_bullet(intent, reason_codes)
         if request_bullet:
             bullets.append(self.format_bullet(request_bullet))
-        
-        # Add payment bullet if amounts were mentioned
-        payment_bullet = self.extract_payment_bullet(entities)
-        if payment_bullet:
-            bullets.append(self.format_bullet(payment_bullet))
-        
+
+        # One bullet per labeled amount group
+        for b in self.extract_payment_bullets(entities):
+            bullets.append(self.format_bullet(b))
+
         # Add escalation bullet if escalation occurred
         escalation_bullet = self.extract_escalation_bullet(reason_codes)
         if escalation_bullet:
             bullets.append(self.format_bullet(escalation_bullet))
-        
-        # If we have no bullets at all, add a generic one
+
         if not bullets:
             bullets.append("Customer contacted regarding account inquiry.")
-        
+
         return bullets
 
 

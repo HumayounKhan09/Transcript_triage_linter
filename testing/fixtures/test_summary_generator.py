@@ -38,7 +38,6 @@ class TestExtractPaymentBullet:
         bullet = gen.extract_payment_bullet(make_entities(amounts=[10, 2000.1]))
         assert "$10.00" in bullet
         assert "$2,000.10" in bullet
-        assert "multiple amounts" in bullet
 
     def test_large_amount_formatted(self, gen):
         bullet = gen.extract_payment_bullet(make_entities(amounts=[1000000]))
@@ -48,23 +47,23 @@ class TestExtractPaymentBullet:
         bullet = gen.extract_payment_bullet(
             make_entities(amounts=[2450], amount_contexts=["your monthly payment is"])
         )
-        assert "(monthly payment)" in bullet
+        assert "Monthly payment" in bullet
 
     def test_context_label_loan_balance(self, gen):
         bullet = gen.extract_payment_bullet(
             make_entities(amounts=[185000], amount_contexts=["the principal balance is"])
         )
-        assert "(loan balance)" in bullet
+        assert "Loan balance" in bullet
 
     def test_context_label_escrow_shortage(self, gen):
         bullet = gen.extract_payment_bullet(
             make_entities(amounts=[600], amount_contexts=["we found an escrow shortage of"])
         )
-        assert "(escrow shortage)" in bullet
+        assert "Escrow shortage" in bullet
 
     def test_no_label_when_no_context(self, gen):
         bullet = gen.extract_payment_bullet(make_entities(amounts=[500]))
-        assert "(" not in bullet
+        assert "Other amounts mentioned" in bullet
 
     def test_multiple_amounts_with_mixed_labels(self, gen):
         bullet = gen.extract_payment_bullet(
@@ -73,8 +72,8 @@ class TestExtractPaymentBullet:
                 amount_contexts=["monthly payment is", "principal balance is"]
             )
         )
-        assert "(monthly payment)" in bullet
-        assert "(loan balance)" in bullet
+        assert "Monthly payment" in bullet
+        assert "Loan balance" in bullet
 
 
 # === extract_request_bullet ===
@@ -196,4 +195,5 @@ class TestGenerateBullets:
         entities = make_entities(amounts=[250.0])
         reasons = [make_reason("HARDSHIP_LANGUAGE")]
         bullets = gen.generate_bullets("payment", entities, reasons)
-        assert len(bullets) == 3
+        assert any("$250.00" in b for b in bullets)
+        assert any("escalated" in b.lower() for b in bullets)
