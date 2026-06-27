@@ -1,0 +1,49 @@
+Agent: Thank you for calling Summit Lending Group, this is Marcus. How can I help you today?
+Caller: Hi Marcus, my name is Priya Mehta. I'm self-employed and I want to refinance my home, but my loan officer is asking for a lot of documents I'm not sure how to pull together. I run my own consulting business and I don't get W-2s. I'm wondering what the process looks like for someone like me.
+Agent: Hi Priya, self-employed borrowers have a slightly different documentation path but it's very manageable with the right preparation. Let me pull up your application so I have context. What's your application number?
+Caller: It's 3315-7729-N.
+Agent: One moment. Okay, Priya Mehta, refinance application, property in Austin, Texas, current balance $389,200. Your loan officer has noted self-employed income, two-year history. Let me walk you through what's typically required and why.
+Caller: My concern is that my business income is good but my net income on paper looks lower because of business deductions. Is that going to be a problem?
+Agent: That's the most common challenge self-employed borrowers face, and your concern is well-founded. For W-2 employees, lenders use gross income before taxes. For self-employed borrowers, lenders use the net income from your tax returns after deductions — the number on the bottom line of your Schedule C or your K-1.
+Caller: That's going to be a problem. My gross revenue last year was about $140,000 but my net after business expenses was about $87,000.
+Agent: Okay, $87,000 net means approximately $7,250 per month in qualifying income. Let me look at your proposed payment and DTI.
+Caller: What's the current calculation showing?
+Agent: Your proposed new payment is approximately $2,560 per month. If we use $7,250 in income, your front-end housing ratio is about 35.3 percent and your total monthly debts — I see a car loan of $410 and a small credit card minimum of $85 — bring your back-end DTI to about 42.8 percent. That's within conventional guidelines of 45 percent, so it's not as dire as you might fear.
+Caller: Oh, that's better than I expected. But is $87,000 really what they use? I have a lot of deductions.
+Agent: The lenders start with the net income on your Schedule C and then add back certain non-cash deductions, which is actually beneficial to you. The primary add-backs are depreciation, depletion, amortization, and sometimes business use of home. These are expenses that reduce your taxable income but don't actually reduce your cash flow because no money went out the door.
+Caller: I have quite a bit of depreciation on my equipment. Maybe $8,000 a year.
+Agent: Excellent. If we add back $8,000 in depreciation, your qualifying income rises from $87,000 to $95,000, or roughly $7,916 per month. That would improve your DTI further, to around 38.5 percent on the back end. That's quite comfortable.
+Caller: What documents do I need to provide for this calculation?
+Agent: For a self-employed borrower, the standard documentation includes your federal personal tax returns for the last two years — 2024 and 2025 — with all schedules. That's the foundation. You'll also need your business tax returns for the same two years if your business is structured as an S-corporation or a partnership. If you're a sole proprietor, the Schedule C in your personal return is sufficient.
+Caller: I'm a sole proprietor, so it's just the Schedule C in my 1040?
+Agent: Correct. No separate business return required for a sole proprietor. In addition to the tax returns, you'll need a year-to-date profit and loss statement — often called a P&L — showing current year income and expenses through a recent month. The P&L doesn't need to be audited but it should be prepared in a professional format.
+Caller: Does it need to be prepared by a CPA?
+Agent: Not required to be prepared by a CPA, but it needs to be signed by you and clearly show income and expenses month by month. If you use accounting software like QuickBooks, you can generate a P&L report directly from that. Your CPA can also prepare one if you prefer. Lenders may also require a letter from your CPA or accountant confirming your business is still active and in good standing.
+Caller: What if this year is my first strong year? Like 2023 and 2024 were harder years for the business and 2025 was a breakout year?
+Agent: That's a situation that requires careful review. Lenders typically average your self-employment income over two years. If 2023 was significantly lower than 2024, the average might undercount your actual earning capacity. However, if income is declining — meaning 2024 was higher than 2025 — some lenders will use only the lower year rather than the average, which could hurt you.
+Caller: My 2024 net was $72,000 and my 2025 net was $87,000. So income is increasing.
+Agent: That's favorable. Increasing income from year to year is viewed positively. For an increasing trend, most conventional guidelines allow the lender to average the two years. So your qualifying income would be ($72,000 plus $87,000) divided by 2, which equals $79,500, or $6,625 per month.
+Caller: That's lower than using just 2025. Does the average hurt me?
+Agent: Let me recalculate your DTI at $6,625 per month. Proposed payment $2,560 plus your other debts of $495 equals $3,055 total monthly obligations. Divided by $6,625, that's 46.1 percent. That's slightly over the 45 percent conventional threshold.
+Caller: Oh no.
+Agent: Let's not panic. A few things to consider. First, the add-backs. If we add back that $8,000 in depreciation, add $4,000 per year depreciation from 2024 as well — let me assume $4,000 — the adjusted totals become $76,000 for 2024 and $95,000 for 2025. Average is $85,500, or $7,125 per month. At that income, DTI drops to about 42.9 percent. That's well within guidelines.
+Caller: So the depreciation add-back is really important.
+Agent: It's often the key adjustment for self-employed borrowers. Gather your depreciation schedules from both years of tax returns and make sure your loan officer is aware of them. They should be reflected in the income analysis worksheet.
+Caller: What about a bank statement loan? I've heard of those.
+Agent: Bank statement loans are a type of non-QM loan — not qualifying mortgage — that uses 12 or 24 months of bank statements to document income rather than tax returns. The lender applies an expense ratio to your deposits to estimate net income. The benefit is you can often qualify on a higher income figure if your deposits are strong. The downside is non-QM loans typically have higher rates — maybe 0.5 to 1.5 percent higher than conventional — and stricter LTV limits.
+Caller: How high is the rate difference?
+Agent: For a borrower with strong credit — and your file shows a 762 score, which is excellent — the non-QM rate might be around 7.25 to 7.5 percent compared to roughly 6.75 for conventional. On a $389,000 loan, that's about $170 more per month. A significant premium.
+Caller: So it's better to try and make conventional work first.
+Agent: Definitely. Based on the depreciation add-back, it looks like you're very close to making conventional work. Let me ask — do you have twelve months of business bank statements available?
+Caller: Yes, I bank with Chase for the business.
+Agent: Even for the conventional route, having business bank statements can be helpful if the underwriter wants to verify your P&L or confirm the cash flow pattern. It's worth having them ready even if the primary documentation is the tax returns.
+Caller: What should I send first to get this moving?
+Agent: Start with your 2024 and 2025 1040s with all schedules, your year-to-date P&L through May or June 2026, and your last 12 months of business bank statements. Those are the core documents. Your loan officer can complete the income analysis and tell you within a day or two where you stand.
+Caller: Okay, I can get all of that together this week. Is there a secure way to upload them?
+Agent: Yes, we have a secure portal. Your loan officer can send you an upload link. Alternatively, you can bring physical copies, but the portal is faster and more convenient.
+Caller: Great. This has been really helpful. I was afraid the self-employment thing would disqualify me.
+Agent: Not at all. Self-employed borrowers close loans every day. It just takes a little more documentation. Your income trend and credit score are both strong — I think you're in good shape.
+Caller: That's reassuring. Thank you, Marcus.
+Agent: My pleasure, Priya. Good luck, and call us if you have any questions while you're pulling the documents together.
+Caller: Will do. Goodbye.
+Agent: Goodbye.

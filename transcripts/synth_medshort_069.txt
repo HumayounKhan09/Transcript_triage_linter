@@ -1,0 +1,37 @@
+Agent: Meridian Home Lending. This is Yuki. How can I help you today?
+Caller: Hi. My name is Frank Delacroix. I'm calling because I discovered there may be a title issue on my property. My neighbor is claiming there's an easement that was never disclosed to me when I bought the house. I have title insurance and I want to know if this is something my title insurance would cover and whether this is something you handle or if I need to call someone else.
+Agent: Hi Frank. That sounds stressful, and you're right to be asking questions. Let me be upfront with you about something important: as your mortgage servicer, Meridian Home Lending handles your loan payments and account management. Title insurance is a separate product and a separate relationship. Let me pull up your account to give you what context I can, and then point you in the right direction. Can I get your loan number?
+Caller: It's 2-2-4-5-8-8-9.
+Agent: Property address?
+Caller: 77 Bayshore Court, New Orleans, Louisiana, 70115.
+Agent: Last four of your Social?
+Caller: 8-8-5-5.
+Agent: Got it. I have your account. So first, let me explain the difference between what we hold and what title insurance covers, because understanding that distinction will help you know who to call.
+Caller: Please.
+Agent: When you purchased your home, you likely purchased two title insurance policies. One is the lender's title insurance policy, which protects Meridian Home Lending's interest in the property in case of a title defect. The other is an owner's title insurance policy, which protects your personal interest as the property owner. These are separate policies.
+Caller: I remember buying both. They were separate line items at closing.
+Agent: Right. The lender's policy protects us, not you. For your personal claim about an undisclosed easement, you'd be making a claim against your owner's title policy. That policy is between you and the title insurance company directly.
+Caller: So I need to call the title company?
+Agent: Yes. The title company that issued your owner's title policy is the right party to contact. I can see in your closing documents that the title company used was Gulf States Title. Does that sound familiar?
+Caller: Yes, I remember them from closing.
+Agent: You'd want to contact Gulf States Title and specifically ask to speak to their claims department. Title insurance claims on owner policies are handled differently from property casualty claims — you'd explain the easement situation and they'd investigate whether it was a title defect that existed prior to your purchase that they failed to disclose.
+Caller: What would constitute a valid claim?
+Agent: An easement claim is generally valid for title insurance purposes if the easement existed at the time you purchased the property, was recorded or discoverable in the public record, was not excluded from your policy, and was not disclosed to you at closing. If all of those conditions are met, the title insurer typically has an obligation to either clear the title or indemnify you for the loss.
+Caller: What would indemnification look like? Like, they pay me money?
+Agent: It depends on the circumstances. If the easement affects the use or value of your property, they might compensate you for the diminution in value, defend you in any legal proceedings, or in some cases work with the neighbor to resolve or extinguish the easement. The exact remedy depends on the facts.
+Caller: My neighbor is claiming he has a recorded right of way across the back of my property that I never knew about. If it's recorded, how did it not show up in my title search?
+Agent: That's exactly the kind of question the title company needs to answer. They're supposed to do a full search of public records and disclose any recorded encumbrances. If there was a recorded easement and it wasn't caught or disclosed, that could be a serviceable claim.
+Caller: What should I bring to that conversation?
+Agent: Bring your original owner's title insurance policy document, which should have a policy number on it. Bring any documentation of the neighbor's claim — ideally whatever recording number or document they're referencing. And note the timeline: when you bought the house, when you first learned of the claim, and what the neighbor is saying specifically.
+Caller: I actually have a copy of what my neighbor showed me — it's a recorded easement agreement from 1978. He says it grants him access across the rear of the lot.
+Agent: That's a concrete piece of information. A 1978 recorded easement should have appeared in a title search. That's the kind of document that makes this a legitimate claim to bring to Gulf States Title.
+Caller: Does any of this affect my mortgage with you?
+Agent: It could, if the title defect significantly affects the property value or your ability to convey clear title in a future sale. As the mortgage holder, we have an interest in the property securing the loan being free of major title defects. The lender's policy we hold would protect us if the easement significantly diminished the collateral value. But that's our concern, not yours to resolve. Your concern is your owner's policy.
+Caller: And should I let you know what the title company says?
+Agent: It's not required that you report back to us unless the issue significantly affects the property. But if Gulf States Title resolves it — either by extinguishing the easement or issuing an indemnity — it might be worth noting for your own records. If it escalates to litigation or the property value is substantially affected, that's something you'd want to keep us informed about.
+Caller: I understand. Thank you, Yuki. You've been clear about who does what and that's exactly what I needed.
+Agent: I'm glad I could help clarify. I know it's not the direct resolution you might have hoped for, but you're asking the right questions. Contact Gulf States Title's claims department as your first step.
+Caller: I'll do that today. Thank you again.
+Agent: Of course, Frank. I hope it gets resolved quickly. Take care.
+Caller: Thanks. Bye.
+Agent: Goodbye.

@@ -1,0 +1,50 @@
+Agent: Horizon Mortgage Servicing, this is Sandra, how can I help you today?
+Caller: Hi, I want to talk about refinancing. I have a six point five percent rate right now and I've been seeing some lenders advertising six point one. I want to know if it's actually worth doing.
+Agent: Great question, and I'm glad you're running the math before jumping in. Let me pull up your account so I can give you specific numbers rather than general estimates. Loan number or address?
+Caller: Address is 703 Hartwell Street, Nashville, Tennessee. Loan number is 552847.
+Agent: And your name and last four of your Social?
+Caller: Mitchell Graves. Last four is 3358.
+Agent: Thank you Mitchell. I've got your account. Current rate is six point five percent, your balance is three hundred and twelve thousand, and you have twenty-four years left on your loan. Monthly principal and interest is two thousand and eighteen dollars. Is that what you're seeing?
+Caller: Yeah, that's right. Two thousand and eighteen.
+Agent: Okay. So let's model a refinance to six point one percent. First, I want to confirm — when you see six point one advertised, is that with no points?
+Caller: I've seen it both ways. Let me ask about the no-points version first.
+Agent: Smart. Let's look at six point one percent, no points, on your current balance of three hundred and twelve thousand. If you refinance into a new thirty-year at six point one, your new payment would be approximately one thousand eight hundred and ninety-five dollars.
+Caller: So I'd save about a hundred and twenty-three dollars a month.
+Agent: Correct. One hundred and twenty-three dollars per month.
+Caller: That sounds good. What are the closing costs?
+Agent: They vary by lender, but for a rate-and-term refinance — no cash out, just changing the rate — you're typically looking at two to three percent of the loan amount. On three hundred and twelve thousand, that's roughly six thousand two hundred to nine thousand three hundred and sixty dollars.
+Caller: Let's use the middle — say seven thousand five hundred.
+Agent: Fair. At seven thousand five hundred in closing costs and monthly savings of one hundred and twenty-three dollars, your break-even point is sixty-one months — just over five years.
+Caller: So if I stay in the house more than five years, I come out ahead?
+Agent: That's right. Every month after that sixty-one-month break-even, you're pocketing a hundred and twenty-three dollars.
+Caller: I've been in this house eight years and I'm planning to stay at least another ten. So I'd be well past the break-even.
+Agent: You would. Over ten years past break-even, you'd save approximately fourteen thousand seven hundred and sixty dollars net after accounting for the closing costs.
+Caller: That's meaningful. But here's my concern — I restart a thirty-year clock. I have twenty-four years left now. If I refinance into a new thirty, I'll be paying for six more years than my current schedule.
+Agent: That's a really important point and one a lot of people miss. You're right. And those extra six years of payments would add up. Let me quantify it. At about one thousand eight hundred and ninety-five a month for the last six years you'd be adding — that's nearly a hundred and thirty-seven thousand dollars in additional payments. Of course, more of that would be principal than interest toward the end, but the total cost of the loan over its full life would likely be higher even with the lower rate.
+Caller: So the lower payment is actually costing me more in the long run?
+Agent: If you continue making the minimum payment on the new thirty-year, yes. However — there's a simple solution. After you refinance, continue paying your current payment of two thousand and eighteen dollars instead of the new minimum of one thousand eight hundred and ninety-five. That extra one hundred and twenty-three dollars goes to principal every month. It would accelerate your payoff significantly.
+Caller: Would it get me back to my current twenty-four-year payoff?
+Agent: It would actually do better than that. By paying two thousand and eighteen on a loan with a one thousand eight hundred and ninety-five minimum, you'd pay off in approximately twenty-two years rather than thirty. So you'd actually reduce your payoff by two years compared to your current schedule.
+Caller: Wait, that's better than where I am now?
+Agent: In payoff timeline, yes, because the lower interest rate means more of each payment goes to principal. You'd be paying more principal with each payment than you do now, even though the loan balance at the start would be similar.
+Caller: I like that. So the optimal strategy would be: refinance to six point one, continue paying two thousand and eighteen a month, pay off in about twenty-two years, and save money on interest.
+Agent: That's a well-constructed plan. The only question is how certain the six point one quote is. Rates can change between the time you get a quote and the time you close. And six point one might only be available to borrowers with very high credit scores.
+Caller: What's my credit score based on what you can see?
+Agent: I don't have your credit score in our system — we only have what was pulled when you originated. Do you know what it is currently?
+Caller: I checked last month, it was seven sixty-eight.
+Agent: Excellent. Seven sixty-eight should put you in the tier where you'd get the best rates available. Some lenders have slightly different tier cutoffs, but generally seven sixty or above qualifies for prime pricing.
+Caller: One more thing — are there any other costs I should factor in? Like, do I need a new appraisal?
+Agent: Almost certainly yes. Most refinances require an appraisal, typically three hundred to five hundred dollars, and that's usually included in the closing costs figure. You should also factor in title insurance — a refinance requires a lender's title policy. And there are miscellaneous fees: recording fees, credit pull, and any prepaid items like homeowner's insurance and property tax escrow.
+Caller: What's a rough total all-in?
+Agent: For your loan size and a standard rate-and-term refi, the all-in total including appraisal, title, and fees is typically six thousand to ten thousand. The quotes I gave you with seven thousand five hundred are in the middle of that range.
+Caller: Okay. That still makes the break-even around five years, which I'm comfortable with.
+Agent: The math does work in your favor given your ten-plus year horizon. I'd recommend getting at least three formal loan estimates — those are the official Good Faith Estimate documents — from different lenders. Compare not just the rate but the APR, which includes fees, and the total closing costs on each.
+Caller: Can I get one from you?
+Agent: Absolutely. We have a refinance team I can connect you with. Would you like me to transfer you to them today, or do you want to shop around first and come back?
+Caller: I'll shop around first and then come back to you.
+Agent: Makes sense. When you do get quotes, ask each lender to give you a Loan Estimate form — that's the standard document. It lets you do an apples-to-apples comparison.
+Caller: Okay, great. You've been really helpful, Sandra. I feel like I have a clear picture now.
+Agent: Glad I could help. Anything else today?
+Caller: No, I'm good. Thanks.
+Agent: Have a great day, Mitchell. Good luck with the rate shopping.
+Caller: Thank you. Bye.

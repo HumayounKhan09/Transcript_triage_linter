@@ -1,0 +1,50 @@
+Agent: Good afternoon, Coastal Premier Mortgage, this is Beth. May I get your loan number?
+Caller: It's 7730-94551.
+Agent: And your name and last four of Social for verification?
+Caller: Angela Forsythe. Social is 2248.
+Agent: Thank you, Ms. Forsythe. I have your account — property at 9920 Halcyon Way, San Diego, California. I can see this is an interest-only loan. What can I help you with today?
+Caller: Yes, the interest-only loan. I got a letter last month saying my IO period ends in three months and my payment is going to increase significantly. I wasn't expecting it to be this dramatic. Can you explain what's happening and what my options are?
+Agent: Absolutely, and I want to walk you through this carefully because it is a significant change. Let me pull up the details on your loan. Your original loan amount was $480,000 in 2014. Your IO period is 10 years, ending in September of this year. Current monthly payment is $1,125.00, which is interest-only at 2.8125 percent — this is a fixed IO rate. Current principal balance is $480,000 — unchanged from origination because you've made no principal payments.
+Caller: Right, $1,125 a month for ten years. What's it going up to?
+Agent: After the IO period ends, your loan converts to a fully amortizing payment. The remaining term is 20 years — your original note was a 30-year loan, 10 IO and 20 amortizing. However, and this is where it gets complex, your loan also has an adjustable rate component. After the IO period, the rate adjusts to a new rate based on the index plus your margin.
+Caller: I knew there was a rate component but I haven't really tracked it. What's the rate going to be?
+Agent: Your margin is 2.25 percent above the 1-year LIBOR — though LIBOR has been replaced with SOFR. Let me check the current index adjustment. Your rate adjustment cap is 5 percent lifetime and 2 percent per period. Your initial fixed IO rate was 2.8125 percent. The current index is running at approximately 5.3 percent. With your margin of 2.25, that gives a rate of 7.55 percent, subject to the lifetime cap. Your initial cap rate — the cap measured from the initial rate — means your maximum lifetime rate is 7.8125 percent.
+Caller: So my rate is going from 2.8 percent to 7.55 percent at the same time as I start paying principal?
+Agent: Correct. Both changes hit at the same time. Let me calculate your new payment. $480,000 principal balance, 7.55 percent rate, amortized over 20 years. Your new monthly principal and interest payment will be approximately $3,842.
+Caller: I knew it was going to be bad but — three thousand eight hundred dollars? My current payment is $1,125. That's almost $2,717 more a month.
+Agent: I understand the shock of that number. This is exactly the kind of payment increase that needs to be planned for well in advance, which is why the servicer is required to send you advance notice. Are you currently employed, and do you have a sense of whether you can manage the new payment?
+Caller: I'm self-employed, my income is decent, but $3,842 is going to be a real stretch. Especially since my property taxes and insurance are separate — I don't have an escrow account.
+Agent: Right, so the full housing cost including taxes and insurance would be even higher. Let me ask — what do you believe your home is currently worth?
+Caller: The Zillow estimate is around $820,000. The market has been strong in my neighborhood.
+Agent: That's very helpful. Your current balance is $480,000 on an $820,000 property, so your LTV is approximately 58.5 percent. That's actually an excellent equity position and opens up several options.
+Caller: What are my options?
+Agent: Let me go through them in order of simplicity. First option: accept the payment conversion and pay the new amount. Not easy at $3,842, but if your income can support it, you're building equity fast with a 20-year amortization on the higher balance.
+Caller: I don't think I can comfortably absorb that. What's next?
+Agent: Second option: refinance into a new 30-year fixed mortgage. With your equity position and assuming your credit is strong, you could likely obtain a conventional 30-year fixed today at around 7.0 to 7.25 percent. On your $480,000 balance, a 30-year at 7.125 percent gives a payment of approximately $3,232. That's still a large increase from $1,125, but it's about $600 less than the converted payment, and it's a fixed rate with a longer amortization.
+Caller: $3,232 is still a lot. Could I do a cash-out refi and get more cash out to use as a cushion?
+Agent: Potentially. At 80 percent LTV on $820,000, you could borrow up to $656,000. Your payoff is $480,000, so you could theoretically cash out up to $176,000, minus closing costs. However, that increases your debt and your payment further. Unless you have a specific use for the cash that generates a return, it would generally make the situation worse, not better.
+Caller: I wasn't really thinking cash-out. Just asking. Let me think about the straight refinance.
+Agent: Third option worth considering: if affordability is the main concern, you might look at a 40-year refinance if you can find a lender offering one. Spreading the payments over 40 years reduces the monthly payment. At 7.5 percent on 40 years, $480,000 comes to approximately $3,068 per month. The trade-off is you build equity very slowly and pay far more interest over time.
+Caller: What about an interest-only refinance? Can I just get another IO loan?
+Agent: IO refinance products exist but have become much less common and more restrictive since 2014 when you got your original loan. Some lenders do offer them, typically for high-value properties with significant equity and strong borrower profiles. The rate on IO products today would be higher than on a fully amortizing loan, and you'd just be kicking the same problem down the road — another IO period followed by a larger payment shock.
+Caller: Fair point. What about a modification on my existing loan? Can I extend the amortization period?
+Agent: Loan modification for a loan that isn't delinquent is limited. Generally, modifications are a loss mitigation tool designed for borrowers in hardship who have missed payments. However, our servicing guidelines do allow a preemptive hardship review for imminent payment shock situations. If you can demonstrate that the new payment would create a genuine hardship — which a $2,717 increase certainly could — we can submit a modification request to the loan's investor.
+Caller: Who is the investor on my loan?
+Agent: Your loan is held by a private label securitization trust — not Fannie or Freddie — which means the modification guidelines are set by the trust's pooling and servicing agreement. I'd need to review the PSA, which I can do, but the terms can vary. Some trusts allow rate modifications, term extensions, or conversion to fixed rate. Let me flag this for review.
+Caller: If they allow modification, what might that look like?
+Agent: In the best case, the trust might approve extending your amortization period from 20 years to 30 years at conversion, reducing the principal and interest payment. At 7.55 percent on 30 years instead of 20, the payment would be approximately $3,373 versus $3,842. Still high, but $469 less per month.
+Caller: Every dollar helps. Can they also cap the rate?
+Agent: That's less commonly approved in private securitizations but sometimes happens. I'd need to submit the inquiry to the investor. The modification review process takes 30 to 45 days typically.
+Caller: Can we do that while I also shop for a refinance, so I have parallel tracks going?
+Agent: Absolutely. There's no prohibition on you pursuing a refinance while a modification is under review. If you find a refinance that works, you take it. If not, the modification may provide a fallback. I'd recommend contacting a HUD-approved housing counselor as well — they often have experience with IO payment shock situations and may know of programs specific to California.
+Caller: What's the timeline pressure? My conversion date is September 1st.
+Agent: That's approximately 90 days from now. That's tight but workable. I'd recommend initiating the modification review now — I'll do that today — and simultaneously contacting at least two to three refinance lenders this week. If you want the refi to close by September 1st, you need to be in application within 30 days to allow for processing and closing.
+Caller: Let's open the modification review now as you suggested.
+Agent: I'll create the inquiry case. I'll also note on your account that you have 90 days to conversion and that the IO payment shock is the driver. You'll receive a follow-up call from our loan resolution team within 5 business days. Your case number is CP-2025-AF-99341.
+Caller: Perfect. Thank you, Beth. This has been a lot of information but it all makes sense now.
+Agent: I'm glad. The key takeaways: your payment is going to $3,842, you have excellent equity, refinance to a 30-year fixed is likely your best standalone option, and we're opening a modification inquiry as a parallel path. Please don't wait on the refinance shopping.
+Caller: Understood. Thank you.
+Agent: Good luck, Ms. Forsythe. Is there anything else?
+Caller: No, that's everything. Thank you so much.
+Agent: Of course. Have a good day. Goodbye.
+Caller: Bye.

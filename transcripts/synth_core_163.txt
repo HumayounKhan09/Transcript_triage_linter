@@ -1,0 +1,51 @@
+Agent: Thank you for calling Greenfield Mortgage, this is Jennifer. How can I help you today?
+Caller: Hi Jennifer, this is Otis Chamberlain. I'm trying to refinance my home but my income on paper doesn't support the new loan amount by itself. My adult daughter said she'd be willing to co-sign for me to help. I want to understand how that works and whether it would actually help.
+Agent: Hi Otis, that's a very generous offer from your daughter. Adding a co-signer is definitely a tool that can help in situations like yours. Let me pull up your file so we can talk specifics. Do you have an application number?
+Caller: Yes, it's 4439-6614-M.
+Agent: Thank you. One moment. Okay, Otis Chamberlain, refinance application, property in Memphis, Tennessee, current balance $175,400. I see the file shows a DTI concern and the loan officer has flagged it for review. Let me walk you through how a co-signer works on a refinance.
+Caller: Please.
+Agent: First, I want to clarify some terminology. In mortgage lending, the person you're describing — someone who adds their income and credit to strengthen the loan but doesn't live in the home — is often called a non-occupant co-borrower rather than a co-signer. The legal distinction matters. A co-signer in some contexts implies limited liability, but in mortgage lending, a co-borrower is fully and equally liable for the debt, just like you are.
+Caller: So my daughter would be on the hook for the entire loan amount?
+Agent: Exactly. If you stopped paying, the lender could pursue her for repayment. The mortgage would appear on her credit report. Any missed payment would affect her credit score just as it affects yours. She needs to understand and accept that before moving forward.
+Caller: She's aware. She said she trusts me and she wants to help. What does adding her do for my application?
+Agent: Adding your daughter as a co-borrower allows us to combine her income with yours for DTI calculation. Her income is added to the denominator, making the ratio more favorable. Also, if her credit score is higher than yours, we'd use the better score in pricing your loan — although the methodology varies. Some lenders use the lower of all borrowers' middle scores; others use the primary borrower's score. Let me check your application to see which applies here.
+Caller: My loan officer told me my score is 688. My daughter's is around 755.
+Agent: On a conventional loan, the industry standard is to use the lower of all borrowers' middle scores for qualification purposes. Since your score is 688, adding your daughter at 755 would not improve the score used for qualification — you'd still be priced on 688.
+Caller: That's disappointing. So her better credit doesn't help?
+Agent: For pricing purposes, typically not on conventional. However, some loan programs handle this differently. On FHA loans, for example, non-occupant co-borrowers are allowed and the rules around score selection may vary. It's worth your loan officer checking whether an FHA refinance would change the credit score treatment.
+Caller: But would her income help?
+Agent: Yes, absolutely. Income is additive regardless of the score question. Let me look at your numbers. Your documented gross monthly income is $4,150. The proposed mortgage payment on this refinance would be $1,218 per month, and your total monthly debt obligations are $1,890. Your back-end DTI right now is 45.5 percent, which exceeds the guideline.
+Caller: And adding my daughter's income would bring that down.
+Agent: Correct. What does your daughter earn?
+Caller: She works full-time as a nurse. I think she makes about $72,000 a year.
+Agent: $72,000 annually is $6,000 per month gross. If we add that to your $4,150, the combined gross income is $10,150 per month. Now, adding your daughter as a co-borrower means her debts also get counted. Do you know if she has any significant monthly debt payments?
+Caller: She has a car payment — around $380 a month — and I think maybe $90 in student loans. She said she doesn't have much credit card debt.
+Agent: Okay. So her additional monthly debts are approximately $470. Your existing total debt including the mortgage is $1,890. Adding her $470 brings total monthly debts to $2,360. Combined income is $10,150. New back-end DTI is $2,360 divided by $10,150 — that's 23.3 percent. That is excellent.
+Caller: So adding her would drop us from 45.5 percent to 23.3 percent?
+Agent: Correct. That's a very significant improvement. It would unquestionably allow the refinance to proceed from a DTI standpoint.
+Caller: What about the loan-to-value? Does adding her affect that at all?
+Agent: LTV is based purely on the loan amount relative to the home's appraised value. Adding a co-borrower doesn't change LTV. Your current balance of $175,400 and your home's estimated value — do you have that?
+Caller: I think it's worth around $245,000.
+Agent: At $245,000, your LTV would be about 71.6 percent. That's well under 80 percent, so no PMI concern. And it gives you good equity positioning regardless of whether you have a co-borrower.
+Caller: Good. Now, does my daughter need to go through the whole application process too?
+Agent: Yes. As a co-borrower, your daughter will need to provide all the same documentation you did. That includes her two most recent pay stubs, W-2s for the last two years, federal tax returns for the last two years, two months of bank statements, and authorization for a credit pull. She'll sign all the same loan documents at closing.
+Caller: She was expecting that. She said she's fully prepared.
+Agent: That's great. Does your daughter currently have a mortgage of her own?
+Caller: She rents. She doesn't own any property.
+Agent: That simplifies things. If she had her own mortgage, that would add to the debt count and also involve questions about rental income or occupancy. Since she's a renter with no existing mortgage, it's straightforward.
+Caller: One thing I want to ask — does this affect her ability to buy her own home later?
+Agent: Yes, potentially. Your mortgage will appear on her credit report and be counted as a debt obligation when she applies for her own mortgage in the future. If she were to apply while she's still on your loan, her DTI calculation would include your mortgage payment as if she were responsible for paying it herself, even if she doesn't actually make the payments. This can reduce her buying power.
+Caller: She mentioned she wasn't planning to buy for at least three or four years.
+Agent: In that time, you may be able to refinance again and remove her from the loan — what's called removing a co-borrower — if your income situation improves. Or if your balance is low enough relative to your income, she might be removed during a future rate refinance. But there's no automatic removal — it would require a new loan or a formal assumption process.
+Caller: That's important to know. So it's not a permanent situation.
+Agent: Correct. It's not permanent, but she needs to understand she'll carry it until it's addressed. The exit strategy should be part of the conversation you have with her before moving forward.
+Caller: We've already discussed it. She's okay with it. How do we proceed from here?
+Agent: I'll flag your file and note that you'd like to add your daughter as a non-occupant co-borrower. Your loan officer will reach out with a new application package for her to complete. Once we have her documentation, the underwriter can recalculate DTI and move the file forward.
+Caller: How long does that typically take?
+Agent: With a complete package from her, the additional review typically takes five to seven business days. If everything is in order, you're looking at closing within three to four weeks from her completing her application.
+Caller: That's manageable. Thank you for explaining everything, Jennifer.
+Agent: Of course, Otis. I'm glad we could work through a path forward. Is there anything else before I make those notes?
+Caller: No, I think we're all set. Thank you so much.
+Agent: My pleasure. Have a wonderful day, Otis.
+Caller: You too. Goodbye.
+Agent: Goodbye.

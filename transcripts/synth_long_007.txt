@@ -1,0 +1,61 @@
+Agent: Thank you for calling Sunbelt Mortgage Servicing, this is Maria, how can I assist you today?
+Caller: Hi, my name is Gregory Tillman, loan number 489225. I received a loan modification offer in the mail and I have a lot of questions and frankly I'm not happy with what you're offering.
+Agent: I understand, Mr. Tillman. Let me pull up your account. Can you verify your date of birth and property address?
+Caller: February 28th, 1979, and the address is 9310 Briarwood Drive, Nashville, Tennessee 37215.
+Agent: Got it. I have your account and I can see a modification offer was sent out on the 14th. I also have the offer details in front of me. Can you tell me specifically what's concerning you about the offer?
+Caller: What's concerning me is the interest rate. I currently have a rate of 4.1% — I've had that since 2020. The modification offer is showing a rate of 6.25%. You want me to sign a permanent modification that takes my rate from 4.1% up to 6.25%? That's a rate increase. That's the opposite of help.
+Agent: I can see why that would be confusing and frustrating. Can I try to explain the logic behind how modification rates are determined? It may not change how you feel about it, but I want to make sure you have the full picture.
+Caller: Sure. Explain it. Because I've been trying to get help for six months and this is what you send me?
+Agent: First, let me confirm your current situation. You've been on a temporary forbearance since April, correct? Your loan is currently 120 days past due with a total delinquency amount of $14,860.
+Caller: Yes, that's right. I went through a period of unemployment. I'm back to work now, but I can't just pay $14,860 all at once. That's why I applied for a modification.
+Agent: I understand. Now, here's the mechanics of how your modification was calculated. First, the $14,860 in unpaid amounts gets added to your existing principal balance. Your outstanding principal before the delinquency was $278,400. With the $14,860 capitalized into the loan, your new principal balance becomes $293,260.
+Caller: Okay, so I owe more than before. That already doesn't feel right.
+Agent: I understand. Capitalization is one of the most counterintuitive aspects of modification. You're not borrowing more money in a traditional sense — you're adding the amounts you already owed but couldn't pay. The alternative would be requiring you to pay that $14,860 out of pocket to bring the loan current, which we've established you can't do. So the capitalization is essentially the mechanism that makes the modification possible.
+Caller: Fine. I get that part. But why 6.25%? The market is around 7% right now. Why are you giving me a rate above my current rate but below market? That's some kind of middle ground that's bad for me on both ends.
+Agent: That's a sharp observation and you deserve a full answer. The modification rate is not set by market conditions the way a refinance rate would be. It's determined by a calculation called the Net Present Value test, or NPV test, which is required under Fannie Mae modification guidelines — and your loan is a Fannie Mae loan.
+Caller: What's an NPV test?
+Agent: The NPV test compares two scenarios from Fannie Mae's perspective. Scenario A: what is the present value of the cash flow from your loan if we modify it? That means: all the payments you'd make over the modified loan term, discounted to today's dollars. Scenario B: what is the present value if we don't modify — meaning we pursue foreclosure? The NPV test identifies which scenario produces more value for the investor.
+Caller: And the modification is supposed to be better for them?
+Agent: Correct. For the modification to be approved, Scenario A must produce a higher NPV than Scenario B. The calculation is complex — it factors in your new balance, projected payments, default probability, foreclosure timelines and costs, property value, and current interest rate environment.
+Caller: Okay, but you still haven't told me why 6.25% specifically.
+Agent: The modification rate calculation starts with what's called the Fannie Mae required net yield. The investor — Fannie Mae — needs the modification to generate a certain return. That floor rate, based on current Fannie Mae guidelines, is 6.25%. That's the minimum rate that produces an acceptable return for the investor while also hitting the target of making your payment affordable.
+Caller: Is the 6.25% negotiable?
+Agent: No, it's not negotiable. I want to be honest with you about that. The rate is set by the investor guidelines, not by our discretion as the servicer. I cannot change the rate in the modification offer. What I can do is explain what you'd be accepting, and help you decide whether it makes sense for your situation.
+Caller: Okay. Let me ask this. If I sign this modification at 6.25%, what is my new payment?
+Agent: Your new principal and interest payment at 6.25% on a $293,260 balance over a fresh 40-year term — Fannie Mae modifications often extend to 40 years — would be approximately $1,720 per month.
+Caller: My current payment is $1,389 per month at 4.1%. So my payment goes up too?
+Agent: Yes. At $293,260 with a higher rate, even over 40 years, the payment is higher than your original $1,389. However, I want to put this in context. Your alternative to the modification is to pay the $14,860 in full to bring the loan current at your original 4.1% rate, then continue at $1,389. If you can't do that — which you've indicated you can't — the modification is a pathway forward.
+Caller: What if I could come up with some of the $14,860? Like, what if I paid half of it and asked for a partial modification?
+Agent: That's actually a question worth asking. If you made a partial payment toward the delinquency before the modification was finalized, that reduces the capitalized amount and could reduce the modified balance. Let me calculate — if you paid, say, $7,000 toward the $14,860, the capitalized amount would be $7,860. Your new balance would be $278,400 plus $7,860 equals $286,260. At 6.25% over 40 years, that payment would be approximately $1,675.
+Caller: So paying $7,000 upfront saves me $45 a month.
+Agent: Roughly, yes. Over 40 years, that adds up — about $21,600 in total payment savings — but it requires you to have $7,000 available now.
+Caller: I don't have $7,000 liquid right now. Not quite.
+Agent: Then the full capitalization modification may be your most realistic option. But let me address your underlying frustration, because I think it's legitimate. You're being asked to accept a higher rate than you had. And I want to be transparent — yes, that is true. The modification exists to resolve an acute crisis: $14,860 in delinquency, 120 days past due, potential foreclosure. It does so at a cost, which is a higher rate over a longer term. The trade-off is avoiding foreclosure and keeping your home.
+Caller: But why can't you just defer the $14,860 the way you do for COVID cases? I've read online that some people got deferrals where the missed amount goes to the back of the loan with no interest.
+Agent: That's a completely valid question. COVID deferrals were a specific Fannie Mae program tied to pandemic-related hardships. That program closed for new requests in August. Non-COVID deferrals are available in some circumstances, but they require the borrower to have a resolved hardship and the ability to resume regular payments. Fannie Mae's current deferral guidelines cap the eligible delinquency at 12 months for non-COVID programs, and your situation of six months may technically qualify — but the key is whether our investor servicing agreement allows it.
+Caller: Can you check? Because if I could defer the $14,860, keep my original rate of 4.1%, and just resume my $1,389 payment, that would be infinitely better than this modification.
+Agent: Let me check the investor eligibility for your specific loan. Give me one moment... Your loan was originated in 2020, sold to Fannie Mae in November 2020. Looking at the current servicing guidelines... yes, there is a non-COVID deferral option available for conventional Fannie Mae loans. However, Mr. Tillman, I want to caution you — the deferral program also has specific eligibility requirements, and I can't guarantee you'd qualify. The main requirements are: hardship is resolved, you can resume regular payments, and the delinquency meets certain parameters.
+Caller: My hardship is resolved — I'm back at work. I've been working since August. I've actually made two payments since then.
+Agent: I see that. You made a September payment and an October payment. Both posted. That's actually encouraging for deferral eligibility. If you've resumed regular payments and your hardship has resolved, you may qualify for a deferral rather than a modification.
+Caller: Why wasn't I offered the deferral in the first place? Why did you send me a modification offer?
+Agent: That's a fair question and I want to look at the notes. It appears the modification was the first option evaluated because your account was in the loss mitigation queue before you made the September and October payments. The system evaluated your file based on the state of the account at the time of review, which was before you resumed paying.
+Caller: So I might have two options now.
+Agent: You might. I want to be careful — I'm not the underwriter who will make the final decision. But I can submit a deferral eligibility request to be evaluated alongside, or instead of, the modification. This would delay your decision deadline on the modification while the deferral is reviewed.
+Caller: How long does that take?
+Agent: Typically 15 to 20 business days for an initial determination. Your modification offer has a response deadline of November 30th. I can document your intent to request deferral review, which should pause the modification deadline while the alternative is evaluated.
+Caller: I want to do that. I want to request the deferral review and pause the modification.
+Agent: I'm documenting that now. Request for non-COVID deferral evaluation submitted October 25th. Modification response deadline paused pending deferral determination. You'll receive written confirmation within five to seven business days.
+Caller: And if the deferral is denied, I'm back to the modification?
+Agent: Correct. If deferral is denied, the modification offer would be reactivated and you'd have a new deadline to respond. However, if you also disagree with the modification and want to escalate, you have the right to appeal a modification denial or a denial of deferral. The appeal must be submitted in writing within 14 days of the denial letter.
+Caller: What's the basis for an appeal?
+Agent: You can appeal on the grounds that the NPV calculation contained factual errors, that you were not considered for all eligible programs, or that the servicer failed to follow Fannie Mae guidelines. If you go that route, I'd strongly recommend working with a HUD-approved housing counselor who can review the calculation on your behalf. The hotline is 1-800-569-4287 and the service is free.
+Caller: I'll look into that. But first let's see what they say about the deferral.
+Agent: Agreed. I think that's the right sequence. If the deferral comes through and you can keep your 4.1% rate, that's unquestionably the better outcome. I'll make sure the deferral request is flagged as high priority given the modification deadline.
+Caller: Thank you, Maria. I'm still not happy with the situation, but I feel like at least I understand it now, and I feel like there might actually be a better option I wasn't told about.
+Agent: You should have been told about all available options. I'm sorry that didn't happen initially. Is there anything else I can help clarify?
+Caller: No. I'll wait for the deferral determination. What's the reference number for today?
+Agent: Your case reference is LM-2023-7714. If you call back, any agent can pull this up. And if you need to reach the loss mitigation team directly, their line is extension 3300.
+Caller: Got it. Thank you.
+Agent: Thank you, Mr. Tillman. We'll be in touch soon.
+Caller: Goodbye.
+Agent: Goodbye.

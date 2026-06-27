@@ -1,0 +1,41 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Sandra. How can I help you today?
+Caller: Hi. My name is Beverly Hutchins. I'm calling because I've been really struggling to keep up with my mortgage and I was reading about something called a deed in lieu of foreclosure. I just want to understand what it is before I decide anything. I'm not ready to commit, I just want information.
+Agent: Hi Ms. Hutchins, I appreciate you calling and I'm glad you're reaching out to understand your options. A deed in lieu of foreclosure is one of the alternatives we discuss when homeowners are in financial difficulty. I want to ask a few questions to help me give you relevant information. But first, let me verify your account. Can you give me your property address?
+Caller: Yes. It's 2095 Willowbrook Road, Cleveland, Ohio, 44118.
+Agent: Last four of your Social Security number?
+Caller: 8831.
+Agent: Date of birth?
+Caller: July 16th, 1964.
+Agent: Thank you. I have your account. Before I explain the deed in lieu process, can you tell me a little bit about your situation? Are you currently behind on payments?
+Caller: I'm two months behind. I had a job loss and then a medical issue on top of it. It's been a really hard year.
+Agent: I'm very sorry to hear that. Two months behind is significant, but it's also not so far along that your options are limited. A deed in lieu is one option, but there may be others worth considering first. Can I ask — is your goal to stay in the home if possible, or are you at a point where you'd be okay with leaving?
+Caller: Honestly, I don't know if I can afford to stay. The payment is just too high for where my income is right now. So I might be okay with leaving if it meant a clean break.
+Agent: That's helpful to know. So a deed in lieu might be relevant for you. Here's how it works at a basic level: in a deed in lieu of foreclosure, you voluntarily transfer ownership of the property back to the lender in exchange for being released from the mortgage debt. You sign over the deed, we accept it, and the loan is satisfied.
+Caller: And why would I do that instead of just letting foreclosure happen?
+Agent: A deed in lieu typically has less negative impact on your credit than a completed foreclosure. Foreclosure is generally one of the most damaging events for a credit score and can stay on your record for seven years. A deed in lieu is also a negative event, but some lenders and credit scoring models treat it somewhat differently. Additionally, a deed in lieu is usually faster and less legally complicated than a full foreclosure.
+Caller: And I don't owe anything after? Like if the house sells for less than what I owe?
+Agent: That's a critical question and I want to be honest with you. The answer depends on the specific agreement. Some deed in lieu agreements include a full waiver of deficiency, meaning you owe nothing even if the home is worth less than the balance. Others may preserve the lender's right to pursue a deficiency. You would want any deed in lieu agreement to specifically include deficiency waiver language before you sign.
+Caller: What's my balance right now?
+Agent: Your current balance is $138,550.
+Caller: And the house — I looked online and similar houses in my neighborhood are selling for about $115,000. So I'd be underwater.
+Agent: That's an important piece of information. With your balance at $138,550 and the property potentially worth $115,000, the lender would take a loss if they accepted a deed in lieu. That's why deed in lieu approvals aren't automatic — the investor and servicer have to evaluate whether it makes financial sense compared to other options. Getting the deficiency waiver confirmed in writing is especially important in your case given the potential gap.
+Caller: Would you even accept a deed in lieu given the situation?
+Agent: I can't make that determination on this call — a deed in lieu application goes through our loss mitigation department and is evaluated based on hardship documentation, the property value, the investor guidelines, and other factors. I can start that conversation if you decide to apply.
+Caller: What about other options? You mentioned there might be others.
+Agent: Given you're only two months behind, a forbearance plan could pause your payments temporarily while you stabilize your income. A loan modification could potentially lower your payment to something more manageable. And a short sale is another option if you want to exit the home — similar to a deed in lieu but you find a buyer yourself, and the lender agrees to accept less than the full payoff.
+Caller: The short sale sounds like it might be better if my house is worth less than I owe.
+Agent: In many situations, a short sale is actually preferred by lenders over a deed in lieu, precisely because it typically results in a better market price. Both are valid exit strategies if staying in the home isn't the goal.
+Caller: I need to think about all of this. I'm not ready to make a decision today. I just wanted to understand what a deed in lieu actually is.
+Agent: That's completely understandable. You don't need to decide anything today, and I wouldn't want you to. What I would strongly suggest is speaking with a HUD-approved housing counselor — they're free, they're independent, and they can help you think through all of your options with your full financial picture in mind.
+Caller: I've heard that before but never called. Is it really free?
+Agent: Yes, HUD-approved counselors are free or very low cost. You can call 800-569-4287 or visit HUD.gov to find one near you. They work for you, not the lender, and they can help you evaluate whether a deed in lieu, short sale, modification, or some other option makes the most sense.
+Caller: Okay. I'll do that. And if I decide I want to formally apply for a deed in lieu, what do I do?
+Agent: Call us back and ask to speak with loss mitigation. They'll start the application process, collect your hardship documentation — things like a hardship letter, income and expense information, and recent bank statements — and evaluate your file. The process takes time, so the sooner you start the more options you preserve.
+Caller: Thank you Sandra. You've been kind about this. This has been a hard call to make.
+Agent: I can only imagine. I'm glad you reached out. Please don't wait too long to take the next step — the sooner you engage with the process, the better your options tend to be.
+Caller: I'll call the HUD counselor this week.
+Agent: Good. Is there anything else I can help you with today?
+Caller: No, that's enough for today.
+Agent: Thank you for calling Meridian Mortgage, Ms. Hutchins. Take care of yourself.
+Caller: Thank you. Bye.
+Agent: Goodbye.

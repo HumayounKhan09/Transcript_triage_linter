@@ -1,0 +1,41 @@
+Agent: Thank you for calling TrustFirst Mortgage, this is Anita. How can I help you today?
+Caller: Hi Anita. My name is Dwayne Garrett. I just renewed my homeowner's insurance and my agent sent me a copy of the new declarations page. I want to make sure I submit it to you the right way so you don't put that force-placed insurance on my account. I got one of those notices a couple years ago and it was a headache.
+Agent: Hi Mr. Garrett, I'm glad you're staying on top of this. You're absolutely doing the right thing by proactively sending us the updated documentation. Let me pull up your account to check the current status and give you the best submission options. Can I get your loan number or property address?
+Caller: Sure. The property is 3319 Brixton Court, Oklahoma City, Oklahoma 73120. Loan number is TF-882-44-1193.
+Agent: And your full name for verification?
+Caller: Dwayne Marcus Garrett.
+Agent: Last four of your Social Security number?
+Caller: 6628.
+Agent: Thank you. I have your account. Let me look at what we currently have on file for insurance. I can see the previous policy expired — your prior policy with State National Insurance expired last week. So the timing is good. We haven't generated a lapse notice yet, but typically one would go out within two to three weeks of detecting an expiration without a replacement policy on file.
+Caller: Yeah, I cut it a little close. My agent sent me the dec page yesterday and I want to get it to you today.
+Agent: Perfect timing. Let me walk you through your submission options. There are three main ways to send us the declarations page. First and fastest is the insurance email address — you can email the declarations page directly to insurance underscore docs at trustfirst-mortgage dot com. This is typically processed within one to two business days.
+Caller: Can I send it from my own email or does it have to come from the agent?
+Agent: Either way is fine. You can forward the declarations page from your email or have your agent send it directly. What matters is that the document includes all the required information. Let me check what we need to see on the declarations page to accept it.
+Caller: My agent gave me the full dec page. It's pretty detailed.
+Agent: Good. What we need to verify: first, your name must match the name on the loan — which would be Dwayne Garrett. Second, the property address must match. Third, we need to be listed as the mortgagee — our mortgagee clause is TrustFirst Mortgage, ISAOA ATIMA, P.O. Box 5500, Tulsa, Oklahoma 74101. Is that what's on the declarations page?
+Caller: Let me look — it says TrustFirst Mortgage, ISAOA ATIMA, P.O. Box... it says P.O. Box 5200, not 5500.
+Agent: Let me verify that. Give me just a moment to check the correct box number.
+Caller: Sure.
+Agent: Thank you for your patience. I've confirmed the correct mortgagee address is P.O. Box 5500 — the 5200 appears to be outdated. Your agent may have an old mortgagee clause from a prior policy. You'll want to have them reissue the declarations page with the corrected box number before you submit.
+Caller: Oh, good thing I called then. Would you have rejected it otherwise?
+Agent: It could have caused a delay. Our insurance team would have tried to contact the insurer to verify coverage, but if the mortgagee clause is incorrect, there can be a gap where we don't know if we're properly listed as the lender with an insurable interest. Getting the address corrected upfront avoids that.
+Caller: Okay. I'll call my agent right now after this and have them correct it. How long does that take?
+Agent: Most agents can reissue a corrected declarations page same day or within 24 hours. Once you have the corrected version, just email it to the address I gave you. You should get a confirmation or see the update reflected on your account within a couple of days.
+Caller: What if I can't wait? Is there a faster way to process it?
+Agent: If you fax the document, our insurance team often processes faxed documents on the same day they're received. The fax number is 800-555-0412. But I'd still recommend getting the corrected mortgagee clause first, otherwise processing may stall at the verification step.
+Caller: Makes sense. Are there any other issues you're seeing on my account?
+Agent: Let me do a quick review. Your loan is current — last payment posted on time. No late fees. No other open items. The only thing is the insurance documentation gap. Once you submit the corrected declarations page, your account will be fully in order.
+Caller: Good to know. What exactly needs to be on the dec page to check all the boxes? Let me make sure my agent includes everything.
+Agent: The declarations page should show the policy number, the effective and expiration dates of coverage, the named insured matching your name, the property address, the dwelling coverage amount — which should be at least equal to your loan balance — the deductible amount, and the mortgagee clause listing us as TrustFirst Mortgage ISAOA ATIMA. If your agent includes all of that on a standard declarations page, we should have everything we need.
+Caller: My balance is around $174,000. The policy has dwelling coverage of $250,000. So that should be fine?
+Agent: Yes, $250,000 dwelling coverage exceeds your $174,000 balance, so that satisfies the minimum coverage requirement.
+Caller: Great. And deductible is $1,500. Any issues there?
+Agent: No issues. $1,500 is well within our allowable deductible range.
+Caller: Perfect. So the only fix needed is the mortgagee address, and then I send it in. Got it.
+Agent: Exactly. Once that correction is made and the document is submitted, you should receive a confirmation notice from our insurance department confirming your policy has been updated on the account. If you don't receive that within five business days of submission, give us a call to follow up.
+Caller: I will. Thank you for catching that address error, Anita. That could have been a problem.
+Agent: Glad we caught it. You were smart to call and verify before submitting. Is there anything else I can help you with?
+Caller: No, that's it. I'll call my agent now.
+Agent: Great. Have a wonderful day, Mr. Garrett.
+Caller: You too. Bye.
+Agent: Goodbye.

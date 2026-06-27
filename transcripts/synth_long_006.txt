@@ -1,0 +1,67 @@
+Agent: Thank you for calling Allied Home Mortgage Servicing, this is Kevin, how can I help you today?
+Caller: Kevin, my name is Helen Marchetti, loan number 293856. I got my payment statement in the mail yesterday and I nearly passed out. My payment jumped by $1,250 a month. Can you please tell me what happened because I think there's a mistake.
+Agent: I completely understand why that's alarming, Ms. Marchetti. Let me pull up your account right now. Can you verify your social's last four and your property address?
+Caller: 7-7-2-4, and the address is 6814 Lakeview Parkway, Minneapolis, Minnesota 55416.
+Agent: I've got your account. I can see you have an adjustable-rate mortgage. Can you tell me what your current payment has been before this change?
+Caller: My payment has been $1,640 a month for five years. The new statement shows $2,890. That's a difference of $1,250 and I cannot afford that. I thought ARMs adjusted slowly, not all at once like this.
+Agent: I want to walk you through exactly what happened and why, because I think understanding the mechanics will help, even if the outcome is still very difficult. Can I ask a few questions first?
+Caller: Yes, please.
+Agent: Do you know what type of ARM you have? Specifically what's called the initial fixed period?
+Caller: I think it was a 5-1 ARM. The mortgage broker explained it to me in 2018 when I bought the house, but I'll be honest, I don't remember all the details.
+Agent: I have your loan documents in the system. You're correct — it's a 5/1 ARM. That means the rate was fixed for five years — in your case from October 2018 through October 2023 — and then it adjusts every year after that. Your fixed rate for those five years was 3.875%.
+Caller: Right. And that gave me the $1,640 payment. So why did it jump so much?
+Agent: Let me explain the adjustment mechanism. Your ARM is tied to an index — specifically the one-year SOFR, which stands for Secured Overnight Financing Rate. Think of it as a benchmark interest rate that reflects current market conditions. Your contract also includes what's called a margin — a fixed percentage added on top of the index. Your margin is 2.75%.
+Caller: Okay.
+Agent: So your new rate is: current one-year SOFR index plus your margin of 2.75%. When your rate adjusted this month, the SOFR index was 5.50%. Five point fifty plus two point seventy-five equals eight point twenty-five percent. That is your new interest rate.
+Caller: Eight point twenty-five. I went from three point eight-seven-five to eight point twenty-five?
+Agent: That's correct. A difference of 4.375 percentage points.
+Caller: That can't be legal. That's almost double the rate I had.
+Agent: I understand why it feels that way. It is legal under the terms of your loan agreement, but let me also tell you what limits do exist. Your loan does have adjustment caps. You have what's called a periodic cap of 2% and a lifetime cap of 5%.
+Caller: What does that mean?
+Agent: The periodic cap means your rate can only increase by 2% in any single adjustment period. If the market rate implied a larger jump, the cap limits it to 2% at a time. Your lifetime cap of 5% means your rate can never exceed your original 3.875% plus 5%, which is 8.875%. So the highest your rate can ever go is 8.875%.
+Caller: But you said it went to 8.25%. So it hit nearly the max in one jump?
+Agent: Not quite — the periodic cap is 2%, and your rate went from 3.875% to 8.25%, which is a 4.375% increase. That's more than the 2% periodic cap, so the cap should have limited your first adjustment to 3.875 plus 2, which equals 5.875%.
+Caller: Then why is my statement showing 8.25%? That's wrong!
+Agent: You're absolutely right to question that. Let me look at the original note more carefully. Hold on... okay, I see the issue. Your loan has a 5/1 ARM with what's called a 5/2/5 cap structure, not a 2/2/5 cap structure. The first number — 5 — is the initial adjustment cap. So for the very first adjustment, your rate can increase by up to 5 percentage points. After that, each subsequent annual adjustment is capped at 2%. And the lifetime cap is 5%.
+Caller: So the first jump can be five percent? I never knew that.
+Agent: This is disclosed in your loan documents — specifically in what's called the ARM Disclosure that was provided at closing — but I understand that document is dense and technical, and this is often not explained clearly enough to borrowers at the time of origination. I'm not going to tell you that you should have known better, because the reality is this is a complicated product and many borrowers don't fully understand the first-adjustment cap.
+Caller: Is there anything I can do about it? Like legally?
+Agent: That's a fair question and I want to address it carefully. If you believe the ARM disclosure was not provided to you as required by the Truth in Lending Act, or if you believe the rate adjustment was miscalculated, you have the right to request a complete payment history and rate change history from us in writing. You also have the right to file a complaint with the Consumer Financial Protection Bureau if you believe there was a disclosure failure.
+Caller: I want to request that history. What did you just call it?
+Agent: A complete payment and rate change history. You can request it in writing to our correspondence address, or you can request it by phone and we document it. I'm noting in your account now that you've requested a complete loan history including ARM rate adjustment notifications and calculation history. We have 10 business days to provide that under federal law.
+Caller: Okay. But in the meantime, how do I deal with this $2,890 payment? I can't pay that. I'm on a fixed income — I'm 71 years old. I've been retired for three years. My Social Security is $1,840 a month and I have a pension of $1,920. So I have $3,760 total income, and they're asking for $2,890 for the mortgage alone.
+Agent: That is a genuinely precarious situation, and I want to help you understand what options are available. Can I walk through several?
+Caller: Please.
+Agent: The first option is a refinance. You would refinance out of the ARM into a fixed-rate loan. Current 30-year fixed rates are around 7.1 to 7.4%. Let's look at your current loan balance — it's $221,500. If you refinanced $221,500 over 30 years at 7.25%, your new PI payment would be approximately $1,511 per month. That's actually less than your new ARM payment, and more importantly, it's fixed. It won't change.
+Caller: That's better than $2,890. But I'm 71 — would they even give me a 30-year mortgage?
+Agent: Age cannot be used as a basis to deny a mortgage under the Equal Credit Opportunity Act. The bank cannot legally factor your age into approval. They do look at income, credit, and assets. Given your income of $3,760 per month, 43% is $1,617. If your total housing cost after refinance is around $1,800 — PI plus taxes and insurance — you might be close to qualifying, but it would depend on your credit score and the specific lender.
+Caller: My credit is good. I've never missed a payment in my life. My score is around 740 I think.
+Agent: A 740 score is strong. I'd encourage you to speak with a mortgage lender or HUD-approved housing counselor about refinance eligibility. This is a very viable path for you.
+Caller: What if I can't qualify for a refinance?
+Agent: Option two is a loan modification with us. A modification is a permanent change to your existing loan terms. Given that you have an ARM and you're experiencing payment shock — which is the technical term for what you're going through — you may be eligible for what's called a rate cap modification or a term extension modification. We would evaluate your financial situation and potentially offer you a fixed rate for the remaining term.
+Caller: What rate would you give me?
+Agent: I can't quote you a specific rate — that depends on the investor and the net present value calculation — but modifications on Fannie Mae loans, and your loan is held by Fannie Mae, typically target a payment that's at 31% of your gross income. 31% of $3,760 is $1,165. That suggests a modified payment in the $1,100 to $1,200 range for principal and interest, which would require a rate somewhere around 5.5 to 6% depending on how your term is structured.
+Caller: That would be much more manageable. How do I apply?
+Agent: You'd apply by calling our loss mitigation department. But I want to be transparent — modification eligibility typically requires some form of documented hardship. Payment shock from an ARM adjustment does qualify as a hardship in many cases, especially combined with retirement income constraints. I'm going to flag your account for loss mitigation review today and document the ARM payment shock as the hardship reason.
+Caller: What do I do while I'm waiting? Do I have to pay the $2,890?
+Agent: That's an important question. If you pay the full $2,890, your account stays current. If you pay the old amount of $1,640, there will be a payment shortage, which creates a partial payment, which doesn't post to your account — it goes into a suspense account — and your account could show as delinquent even though you paid something.
+Caller: That seems terribly unfair.
+Agent: I understand. If you're going to pay less than the full amount, it's very important to call us and have a plan on file — whether that's a modification review or a temporary forbearance — so we can note the account appropriately. Going into modification review protects you from collection activity while the review is active.
+Caller: Can you start that process right now, today, on this call?
+Agent: I can initiate it. I'm flagging your account for hardship review related to ARM payment shock on fixed retirement income. The hardship type I'm entering is payment unaffordability resulting from rate reset. I'll note you've requested loss mitigation review. You should receive a packet in the mail within 7 business days with a list of required documentation.
+Caller: What will they ask for?
+Agent: Typically: two months of bank statements, proof of income — for you, that's Social Security award letter and pension statement — most recent tax return, and a brief hardship letter explaining that the ARM payment exceeds your ability to pay on your fixed retirement income.
+Caller: That's very straightforward for me. My income doesn't change month to month.
+Agent: Exactly, and that actually simplifies your case. You have stable, documented income that doesn't change — that's much easier for a modification underwriter to work with than a borrower with variable income.
+Caller: Let me ask you one more thing. You said the rate can go up to 8.875% maximum. When does it adjust again?
+Agent: Your next adjustment date would be October 1st of next year — twelve months from now. If rates have declined by then, your rate would actually go down at that point, capped at a 2% reduction per adjustment. If SOFR drops to, say, 4% by next October, your rate would go from 8.25% down to 6.25%, which would lower your payment to around $1,920.
+Caller: So I might be paying less next year if rates go down.
+Agent: Possibly. But waiting a year to hope rates improve is a risky strategy given your current payment exceeds your budget by over $1,000. The modification path gives you certainty.
+Caller: I think I want the modification. I'll gather my documents.
+Agent: Good. I've initiated the review. Your case reference number is HM-2023-4471. And I want to strongly encourage you to also call a HUD housing counselor — the number is 1-800-569-4287 — they can review any modification offer we make and advise you whether to accept or negotiate.
+Caller: I didn't know there were free services like that.
+Agent: Most borrowers don't, and it's one of the most valuable resources available. Is there anything else I can help with?
+Caller: No, I think I have what I need. This has been a lot to absorb. Thank you, Kevin. You've been very thorough.
+Agent: It's what you deserve when you call with a question this complex. Good luck, Ms. Marchetti. You have more options than you realized when you first called.
+Caller: That's true. Okay. Goodbye.
+Agent: Goodbye. Take care.

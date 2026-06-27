@@ -1,0 +1,43 @@
+Agent: Meridian Home Lending. This is Monique. How can I help you?
+Caller: Hi. My name is Teresa Kim. I'm a little confused about something. I've gotten letters over the years from different companies about my mortgage. I got something recently from a company called National Pacific Investors Trust, and I wasn't sure if that's who I should be paying or if you are. Can you explain who's who in this whole thing?
+Agent: Hi Teresa. That's actually a really common point of confusion, and I'm glad you called rather than assuming. Let me pull up your account and walk you through exactly how the mortgage industry works. Can I get your loan number?
+Caller: It's 8-8-3-5-1-0-7.
+Agent: Property address?
+Caller: 1091 Cherry Blossom Way, Seattle, Washington, 98103.
+Agent: Last four of your Social?
+Caller: 5-5-1-3.
+Agent: Perfect. I have your account. Okay, so there are three distinct roles in the mortgage world and understanding them will clear up a lot of confusion. Let me explain each one.
+Caller: Please. I feel like I've been making payments but never fully understood who's actually involved.
+Agent: So the first role is the originator. This is the company that created your loan — processed your application, approved you, and funded the loan at closing. For you, that was Westfield Mortgage Group. They are who you originally applied with.
+Caller: I remember Westfield. That was back in 2018.
+Agent: Right. Now, most originators don't hold onto loans permanently. They sell them. Which brings us to the second role: the investor. The investor is the entity that currently owns the economic rights to your loan — meaning they receive the principal and interest payments and they hold the loan as a financial asset.
+Caller: Is that National Pacific Investors Trust?
+Agent: Let me check your account. Yes, National Pacific Investors Trust is the current investor on your loan. They purchased your loan from the original originator after closing. This is extremely common — the majority of mortgage loans in the United States are sold to investors after origination.
+Caller: So I owe them the money?
+Agent: Technically, yes — they own the debt. But the key thing is that you do not interact with them directly and you do not send payments to them. This is because of the third role: the servicer.
+Caller: Which is you?
+Agent: Exactly. Meridian Home Lending is your servicer. We're the company that manages your loan day-to-day on behalf of the investor. We collect your monthly payments, manage your escrow account, send you statements, handle customer service calls exactly like this one, and act as the intermediary between you and the investor.
+Caller: So National Pacific doesn't care that I called you instead of them?
+Agent: That's correct. They actually expect you to call us. They hired us to service the loan precisely so they don't have to handle individual borrower interactions. From a practical standpoint, they're a silent owner in the background.
+Caller: When did they buy my loan?
+Agent: The transfer to National Pacific occurred in March of 2021. We've been servicing it on their behalf since then.
+Caller: And Westfield is completely out of the picture now?
+Agent: Westfield is out of the picture, yes. They originated the loan and then sold it. That's their business model — originate and sell. They're no longer a party to your loan.
+Caller: So if I ever had a dispute or a problem, I'd call you?
+Agent: Always call us for anything related to your loan. We're the servicer — payments, escrow, PMI, forbearance, payoff requests, all of that comes through us. National Pacific doesn't handle any of that.
+Caller: Is there any reason I'd ever need to contact National Pacific directly?
+Agent: In normal circumstances, no. There's essentially no reason for a borrower to contact their loan investor directly. All of your rights and remedies are administered through the servicer. The only time investor contact might arise is in an extreme legal dispute, but even then it would typically go through formal legal channels, not a direct phone call.
+Caller: What was the letter I got from them, then? If I don't deal with them, why did they write to me?
+Agent: It's likely either a notification required by law when the investor ownership transfers — called a transfer of ownership notice — or it may have been a general investor communication about the portfolio of loans they hold. These notices are required in some circumstances under federal mortgage regulations, even if the investor doesn't handle day-to-day servicing.
+Caller: The letter basically just introduced them and said my loan was now part of their portfolio.
+Agent: Yes, that's a standard investor notification letter. It's informational. The key sentence to look for is usually something like "your servicer remains" — and if it says Meridian Home Lending remains your servicer, then you continue doing everything exactly as you have been.
+Caller: I see that now. It does say Meridian Home Lending remains your servicer. I guess I just panicked when I saw a new company name.
+Agent: That's a completely natural reaction. Most people have that moment of anxiety. The letter is a legal requirement, not a call to action for you.
+Caller: So nothing changes for me at all?
+Agent: Nothing whatsoever. Same payment amount, same due date, same phone number, same portal. You can ignore the investor letter except to keep it for your records.
+Caller: That's a big relief. Thank you for explaining all of this, Monique. I feel like I actually understand how this works now.
+Agent: I'm really glad. It's one of those things that's confusing until someone explains the different roles, and then it clicks. Is there anything else I can help with today?
+Caller: No, that's all I needed. Thank you so much.
+Agent: Of course, Teresa. Have a great afternoon.
+Caller: You too. Bye.
+Agent: Goodbye.

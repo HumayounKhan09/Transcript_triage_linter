@@ -1,0 +1,42 @@
+Agent: Meridian Home Lending. This is Rachel. How can I help you today?
+Caller: Hi Rachel. My name is Amanda Chu. I've been trying to get my PMI removed and I ordered a new appraisal like you guys told me to, but the appraisal came in lower than I expected. It wasn't bad enough to wipe out my equity, but it means my LTV is higher than I need it to be for PMI removal. I'm frustrated and I don't know what my options are.
+Agent: Hi Amanda. I'm sorry to hear that — a low appraisal when you're trying to remove PMI is definitely frustrating. Let me pull up your account and we can talk through your situation specifically. Can I get your loan number?
+Caller: It's 5-5-8-2-9-0-1.
+Agent: And the property address?
+Caller: 488 Greenbrook Lane, Atlanta, Georgia, 30319.
+Agent: Last four of your Social?
+Caller: 4-4-6-7.
+Agent: I have your account. I can see the PMI removal request was submitted last month and there's a note about the appraisal coming in below the target value. Let me look at the details. The appraisal came in at three hundred and forty thousand dollars, and your current balance is about two hundred and seventy-eight thousand. Let me do the math — that gives you an LTV of approximately eighty-one point eight percent. You needed eighty percent or below.
+Caller: Right. I needed the appraisal to come in above three hundred and forty-seven thousand to hit that eighty percent mark. I'm close but not there.
+Agent: You're very close. At eighty-one point eight percent you're only about one point eight points away. Let me walk you through your options.
+Caller: Please. Because I feel like I've hit a dead end.
+Agent: You haven't. There are several paths forward. The first option is to simply continue making your regular payments and let the balance pay down naturally to the eighty percent threshold. Given your current balance and payment schedule, let me look at your amortization — you'd hit eighty percent of the appraised value in roughly seven to nine months based on your current principal reduction rate.
+Caller: So I could just wait less than a year?
+Agent: Based on these numbers, yes. If the appraisal value stays the same and you keep making regular payments, you'd reach eighty percent naturally. At that point you could submit a new cancellation request without needing another appraisal since we have the recent one on file.
+Caller: I'd have to pay for another appraisal?
+Agent: That depends on the investor guidelines. We may be able to use the recent appraisal for the next twelve months for PMI purposes. You wouldn't necessarily need to pay for a new one if you request cancellation within that window.
+Caller: That's good. What are the other options?
+Agent: The second option is to make an additional principal payment to close the gap now. You're about six thousand dollars away from reaching eighty percent of the appraised value. If you made a six thousand dollar principal-only payment today, your new LTV would be at or very close to eighty percent.
+Caller: Hmm. Six thousand is a lot but it's not impossible. And I'd avoid paying PMI for the next seven to nine months.
+Agent: Right, and PMI on your loan runs about one hundred and forty-eight dollars a month. Over eight months that's about twelve hundred dollars. Versus spending six thousand now. The math doesn't quite favor the lump sum purely on PMI savings, but there's also the benefit of reducing your principal balance and long-term interest.
+Caller: It's not purely a PMI calculation. Fair point. What's the third option?
+Agent: The third option is to dispute or challenge the appraisal. This is less common but worth considering. If you believe the appraiser made errors — like using the wrong comparable sales, missing recent improvements you made to the home, or applying incorrect adjustments — you have the right to submit a reconsideration of value to the appraiser.
+Caller: How does that work?
+Agent: You'd compile evidence showing why the value should be higher. Comparable sales of similar properties that sold for more, documentation of improvements you've made, or data points the appraiser may have missed. You'd submit this to us and we'd pass it along to the appraisal management company for the appraiser to review. They're not obligated to change the value, but if you have strong evidence, adjustments do happen.
+Caller: I did add a deck last year that I don't think was factored in properly.
+Agent: That's worth pursuing. Improvements that add value, like a deck, outdoor living space, or renovated kitchen, should be reflected in the appraisal. If you have a contractor invoice showing the cost of the deck and any permits filed, those are supporting documents for a reconsideration.
+Caller: Who do I submit that to?
+Agent: Submit it to us and we'll route it to the appraiser. You'd include a cover letter specifically requesting a reconsideration of value, the supporting comparables or improvement documentation, and reference your PMI removal request number.
+Caller: Your reference number for my PMI request was PMI-9-9-4-0-1-1-7. Is that the one to reference?
+Agent: Yes, that's the right number. Include that in any submission.
+Caller: And if the reconsideration changes the value high enough, what then?
+Agent: If the revised value brings your LTV to eighty percent or below, the PMI cancellation would proceed using the updated value.
+Caller: Okay. I think I want to try the reconsideration first since it costs nothing. And if that doesn't work, I'll think about whether to make a lump sum or just wait.
+Agent: That's a reasonable order of operations. The reconsideration is free, has no downside, and you have legitimate documentation to support it with the deck. If it works, PMI goes away now. If it doesn't, your other options are still on the table.
+Caller: How long does the reconsideration take?
+Agent: Typically two to three weeks from submission to response.
+Caller: I can live with that. Thank you, Rachel. I came in feeling like it was over and now I have a real plan.
+Agent: That's what we're here for. Good luck with the reconsideration. Is there anything else I can help with?
+Caller: No, that's everything. Thank you so much.
+Agent: Of course. Take care, Amanda.
+Caller: You too. Bye.

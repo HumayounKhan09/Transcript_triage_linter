@@ -1,0 +1,46 @@
+Agent: Thank you for calling Cornerstone Loan Solutions. This is Tyler. Can I get your name and loan number?
+Caller: Hi Tyler. My name is Felicia Bauer. I have two loans with you. The first is 5-5-8-8-1-2-3 and the second is 5-5-8-8-1-2-4.
+Agent: Let me pull both of those up. And for verification — property address and last four of Social?
+Caller: 731 Harmony Glen Road, Charlotte, North Carolina 28277. Last four is 9-9-0-3.
+Agent: Got both accounts. I see a first mortgage with a balance of $198,700 and a second mortgage — a HELOC — with a balance of $43,200. What can I help you with today?
+Caller: So I'm in the process of modifying my first mortgage. I got a trial plan offer for the first loan and I've made the first two trial payments. But my housing counselor raised a question I can't answer — she asked me what happens to my second mortgage when the first is modified. And then she asked whether the second lien could also be modified. I don't know the answers and I wanted to call.
+Agent: Your counselor raised exactly the right question and I'm glad she flagged it. Second lien situations with a concurrent first mortgage modification are genuinely complex. Let me walk you through how they interact.
+Caller: Please.
+Agent: First, the modification of your first mortgage doesn't automatically affect your second mortgage. They're separate obligations — separate contracts, potentially separate investors — and they operate independently. Modifying the first does not modify the second, and the second lien servicer — which is also us in this case, since both loans are with Cornerstone — has its own modification framework.
+Caller: So I have two separate modification processes?
+Agent: You potentially do, yes. However, there's an important historical context here. Under the Second Lien Modification Program, or 2MP, which was part of the Making Home Affordable framework, second lien holders were required to modify their second liens when the first was modified under HAMP. However, HAMP ended in 2016 and with it the formal 2MP program.
+Caller: So that program is gone?
+Agent: The formal HAMP-era 2MP is gone. However, servicers and investors of second liens still have their own loss mitigation guidelines, and there are still strong incentives for second lien modification when the first is being modified.
+Caller: Why? What's in it for the second lien holder?
+Agent: Great question. A second mortgage is subordinate — meaning in foreclosure, the first lien gets paid first. If the first lien was foreclosed and there wasn't enough equity to pay the second, the second lien holder would get nothing or very little. So second lien holders have a financial interest in keeping you in the home and paying, rather than triggering a foreclosure scenario where they're wiped out.
+Caller: My home is worth about $265,000. My first is $198,700 and the HELOC is $43,200. Combined that's $241,900. So there is equity.
+Agent: Right, there's roughly $23,000 in equity above the combined balances. That's slim, and in a foreclosure with fees and costs, the second lien holder would likely see very little. That strengthens their incentive to work with you.
+Caller: Can you tell me what's available for the HELOC modification?
+Agent: Your HELOC — home equity line of credit — is in what's called its repayment period, since the balance is $43,200. Let me look at the terms. I see the HELOC rate is currently at Prime plus 1%, which puts it at about 9.5% with current Prime Rate. The minimum payment on your HELOC right now is approximately $340 per month.
+Caller: That's right. So between the first and the HELOC I'm paying — my trial payment on the first is $1,187 and the HELOC is $340 — that's $1,527 total.
+Agent: And your income situation — what's your hardship?
+Caller: My husband and I both had our hours cut. Our combined income dropped from about $7,200 gross to $5,400. The first mortgage got flagged for modification because our first lien payment-to-income ratio went over threshold. But the second lien payment on top of it is part of what's killing our budget.
+Agent: That's a clear case for requesting second lien assistance simultaneously. Here's what's available. For the HELOC, we can look at a rate reduction — reducing the margin above Prime or converting to a fixed rate at a lower level. We can also look at extending the repayment term to lower the minimum payment. In some cases, a portion of the HELOC balance can be deferred or re-amortized differently.
+Caller: Can they also just freeze it? I don't plan to draw more on the HELOC anyway.
+Agent: If your HELOC is in a draw period, we could convert it to a fixed-rate repayment term rather than leaving it as a revolving line. Since you're already in repayment, it sounds like that transition has already occurred. The relevant question is whether we can reduce the rate or extend the repayment to lower your monthly obligation.
+Caller: Is there a formal second lien modification program I apply for?
+Agent: Yes. We have a second lien workout process that's separate from the first mortgage modification. You'd submit a second hardship application specifically for the HELOC. In this case, since we're the servicer for both, we can potentially coordinate the reviews. Many servicers try to evaluate first and second lien modifications concurrently when the same borrower is involved.
+Caller: Can you flag that for me — to have both reviewed together?
+Agent: I can certainly note in your file that you're requesting concurrent review and flag it for the loss mitigation team. I'll make a note that you want the HELOC modification request considered alongside the first lien trial plan.
+Caller: What would a modified HELOC payment look like? Can you give me a ballpark?
+Agent: If we reduced the rate from 9.5% to, say, 5% fixed and extended the repayment term from the current remaining period to a longer term — let's say 20 years — on a balance of $43,200, your payment would drop from $340 to approximately $285. If we extended to 25 years at 5%, it would be around $253. Those are rough estimates and the actual terms would depend on what our investor allows for the HELOC pool.
+Caller: Even a $100 monthly reduction on the HELOC would help at this point.
+Agent: It makes a real difference. And the investor rationale is the same — a performing modified second lien is better than the alternative. What documentation would I need to submit for the HELOC modification specifically?
+Agent: For the second lien modification, the documentation requirements overlap significantly with the first — hardship letter, pay stubs, bank statements. Since you're already in the process for the first lien, much of what you've gathered is reusable. We'd need a separate request form indicating you're applying for HELOC modification, and the same supporting documents.
+Caller: Can I just submit one package for both?
+Agent: I'll coordinate with our team to allow a single document submission that satisfies both reviews. That's not always standard procedure, but given that we hold both loans, it's a reasonable request to make.
+Caller: I really appreciate this. My counselor said to make sure I didn't let the second lien fall through the cracks while focusing on the first.
+Agent: She's absolutely right. People often focus entirely on the first and are surprised when the second lien servicer calls or starts taking action separately. Addressing them together is smart.
+Caller: Is there any risk that the HELOC holder could foreclose independently?
+Agent: A second lien holder has the legal right to foreclose, but practically it's rare when there's a first lien larger than the home's value or when the first lien servicer is actively working on a modification. The cost and risk to the second lien holder in that scenario is high. That said, second liens can and do pursue their rights, which is another reason to keep communication open.
+Caller: Understood. Let's get the HELOC request opened today alongside the first.
+Agent: I'll add the HELOC modification request to your file and note the concurrent review request. You'll receive an updated acknowledgment covering both loans within three business days. Is there anything else?
+Caller: I think that covers everything. Thank you so much, Tyler.
+Agent: Of course, Ms. Bauer. Good luck completing the trial period on the first. Call us at 1-800-555-0289 with any questions. Take care.
+Caller: Thank you. Goodbye.
+Agent: Goodbye.

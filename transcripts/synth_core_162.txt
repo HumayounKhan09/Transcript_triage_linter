@@ -1,0 +1,47 @@
+Agent: Thank you for calling National First Mortgage, this is Michael. How can I help you today?
+Caller: Hi Michael, my name is Lucinda Graves. I applied for a refinance about a month ago and everything seemed fine, but then last week my loan officer told me my credit score dropped and it's now affecting my application. I'm really stressed out about this and I don't understand what happened.
+Agent: Hi Lucinda, I'm sorry to hear you're dealing with this. Credit score changes during a refinance can definitely be stressful, but there are often ways to address it. Let me pull up your application. What's your loan number?
+Caller: It's 8803-5517-L.
+Agent: Thank you. One moment. Okay, Lucinda Graves, refinance application, current balance $218,900, property in Raleigh, North Carolina. I see the initial credit pull showed a score of 741, and a subsequent pull shows 718. That's a 23-point drop. Let me see if there are any notes about what caused it.
+Caller: The loan officer just said my score dropped. She didn't explain why.
+Agent: I understand. Let me look at what I can see in the file. I can see there's a notation about a new account and increased utilization. Does that ring a bell?
+Caller: Oh no. I opened a Home Depot credit card in May because they offered a discount on some appliances. I needed them for the house. Is that what caused it?
+Agent: That's very likely the cause. Opening a new credit account affects your score in two ways. First, the application creates a hard inquiry on your credit report, which typically causes a small drop — usually 3 to 5 points. Second, the new account reduces the average age of your credit history, which is another factor in score calculation. Both happen immediately and can take months to recover.
+Caller: I had no idea that would be a problem. My loan officer told me not to open new accounts but I thought that was about big things like car loans.
+Agent: Unfortunately credit cards count just as much as car loans when it comes to these effects. It's one of the most common mistakes during a refinance. I'm sorry your loan officer didn't emphasize that more clearly. But let's focus on what we can do now.
+Caller: Is a score of 718 going to kill my refinance?
+Agent: It depends on the loan program and the rate tier. For a conventional refinance, the major credit score thresholds tend to be at 760, 740, 720, and 700. You moved from 741 to 718, which dropped you from the 740 tier to the 720 tier in terms of loan-level price adjustments. That typically means a slightly higher rate or a higher fee.
+Caller: How much higher?
+Agent: The rate impact of going from 740 to 720 on a conventional loan is typically around 0.125 to 0.25 percent in rate, or equivalent in pricing. On a loan of your size, that's roughly $15 to $30 per month difference. It's real, but it doesn't necessarily kill the refinance — it just makes it a little less favorable.
+Caller: Is there anything I can do to get my score back up quickly?
+Agent: There are some strategies. One important thing — you mentioned the Home Depot card. What's the balance on it?
+Caller: I put about $1,800 on it for the appliances. I haven't paid it off yet.
+Agent: Paying down that balance as quickly as possible will help. Credit utilization — the ratio of your balance to your credit limit — is one of the biggest score factors. If the Home Depot card has a $2,500 limit and you have $1,800 on it, your utilization on that card is 72 percent. High utilization hurts your score significantly.
+Caller: If I pay it off, how fast would my score recover?
+Agent: Credit card balances update on your credit report typically once a month, when the card issuer reports to the bureaus — usually around your statement closing date. If you paid the balance in full tomorrow and the statement cycle closes within a few weeks, you could potentially see the score improvement reflected within 30 to 45 days.
+Caller: My refinance — do we have time for that?
+Agent: Let me check. Your rate lock expires August 15th and today is June 27th. You have about seven weeks. If you pay the balance off immediately and the score updates in four to five weeks, you might be in time to benefit before your lock expires. It would be close.
+Caller: What if it doesn't update in time?
+Agent: A couple of options. First, your loan officer may be able to pull a rapid rescore. This is a service where the mortgage lender submits documentation — like proof of payment — to the credit bureaus for an expedited update. A rapid rescore can update your credit report in 3 to 5 business days rather than waiting for the monthly cycle.
+Caller: That sounds helpful. Why didn't my loan officer mention that?
+Agent: It's a service not all loan officers proactively bring up. But it's definitely worth asking about. Your loan officer would submit proof of the paid balance to the credit bureaus through a rapid rescore service. There may be a nominal fee. The updated score could then reflect the payoff and you might get back above 740.
+Caller: If I get back to 740 or higher, does the pricing go back to what I was originally quoted?
+Agent: If you can get above 740, you'd be back in the 740 tier and qualify for the original pricing, assuming nothing else has changed in your file. Your original quote would need to be confirmed with your loan officer, but generally yes.
+Caller: I want to do the rapid rescore. What do I need to do?
+Agent: Step one is to pay off the Home Depot balance immediately. Get confirmation of the payoff in writing — a receipt or a letter showing the balance is zero. Step two, call your loan officer and specifically ask for a rapid rescore to be initiated. Provide the payoff documentation. She'll submit it through the bureau services.
+Caller: Are there any other things I should look at? Any other accounts with high balances?
+Agent: Do you know if any other credit cards or revolving accounts have balances that are a high percentage of their limits?
+Caller: I have a Visa with maybe a $700 balance and a $5,000 limit. That's all I can think of.
+Agent: A $700 balance on a $5,000 limit is 14 percent utilization — that's actually very good. That won't be hurting you. The Home Depot card is likely the main culprit given the high utilization rate. Paying that off should have the most meaningful impact.
+Caller: Okay. And the hard inquiry from the Home Depot application — does that hurt much?
+Agent: Hard inquiries typically cause a 3 to 5 point drop that diminishes over time. That part you can't fix quickly. But it's the smaller portion of the impact. The utilization improvement from paying off the balance will have a much bigger positive effect.
+Caller: What about the age of credit history? You said that was also impacted.
+Agent: That's correct. The new account lowers the average age of your accounts, and that's a longer-term effect — it improves gradually over years, not weeks. You won't see meaningful recovery on that factor in time for your refinance. But if the utilization fix gets you back above 740, the inquiry and age effects may be offset.
+Caller: I'm going to go pay this off right now. Today. Can I call back and have someone note on my file that I plan to do a rapid rescore?
+Agent: I can note it right now. I'll document that you called on June 27th, 2026, regarding the credit score drop, that the likely cause is the new Home Depot account opened in May, that you intend to pay the balance of approximately $1,800 in full today, and that you'd like your loan officer to initiate a rapid rescore upon receipt of payoff documentation.
+Caller: That's exactly right. Thank you for laying all this out so clearly.
+Agent: Of course, Lucinda. One more tip — once you've paid it, log into the Home Depot credit portal and take a screenshot showing the zero balance immediately. That documentation will be useful for the rapid rescore submission.
+Caller: Smart. I'll do that. Thank you so much, Michael.
+Agent: You're very welcome. Good luck — and please call us back if you have any questions along the way.
+Caller: I will. Goodbye.
+Agent: Goodbye, Lucinda. Have a good day.

@@ -1,0 +1,121 @@
+Agent: Thank you for calling Vantage Mortgage Servicing, this is Rachel speaking. How can I help you today?
+
+Caller: Rachel, my name is Howard Bellamy. I want a complete payment history audit on my loan. I believe my payments have been misapplied for approximately five years and I want to review every single transaction.
+
+Agent: Mr. Bellamy, I can absolutely help you with that. Can you provide me your loan number so I can pull up the account?
+
+Caller: Loan number is 2278561. Property is at 881 Creston Avenue, Denver, Colorado 80209.
+
+Agent: Thank you. Let me pull that up. Your loan balance is showing $198,440. Loan originated — let me see — originated in April 2018, 30-year conventional, original balance $225,000, rate of 4.5 percent. What specific concerns do you have about payment application?
+
+Caller: I have been keeping my own ledger for five years, Rachel. I track every payment I send, when I send it, the check number or transfer reference, and the amount. When I compare my ledger to the statements you've been sending me, I find discrepancies. Specifically, I believe there are at least three instances where payments were not posted in the month they were received, which caused fees to be assessed that should not have been. I also believe there is at least one instance where a payment was applied incorrectly — not in the standard order of interest, then principal, then escrow.
+
+Agent: I take this seriously, Mr. Bellamy. Requesting a full payment history is completely within your rights and it's something we can provide. I'm going to pull the complete transaction history right now. Can you tell me the date range you want to start from?
+
+Caller: From loan origination. April 2018 to today. Every transaction.
+
+Agent: That's six years of data. I have it on screen and I can walk through it with you now, and I'll also arrange to have it mailed or emailed to you in full. What format would you prefer for the written copy?
+
+Caller: Email. h.bellamy at denveraccounting.net.
+
+Agent: Noted. Okay. I'm looking at the full ledger. Let me start from origination. First payment due June 1, 2018, received May 28, 2018, posted June 1, 2018. Payment amount $1,140.51. Applied: $843.75 to interest, $296.76 to principal, full amount correct. Do you have that matching your records?
+
+Caller: Yes, that matches. Let's move faster. I can tell you the specific dates I'm concerned about. June 2019, October 2020, and March 2022. Those are my three primary concerns. And then a separate question about a payment in August 2021.
+
+Agent: Okay. June 2019 first. I'm looking at — payment due June 1, 2019. I see a payment received June 4th, 2019 in the amount of $1,140.51, posted June 4th. No late fee assessed because it was within the grace period. Does that match?
+
+Caller: My records show that payment was sent on May 29th. Electronic transfer. I have the bank confirmation.
+
+Agent: Your bank shows it originated May 29th?
+
+Caller: It shows it was initiated May 29th and my bank's confirmation shows it settled June 1st. You posted it June 4th. There is a three-day gap between when my bank shows settlement and when you posted it.
+
+Agent: I want to look at this carefully. In 2019 our electronic processing — let me check notes on the account. There were some processing delays reported industry-wide in that period related to a system migration we completed in May 2019. I can see an internal note on the file from that period. It's possible there was a legitimate processing delay. Was there a late fee assessed?
+
+Caller: No late fee. But this is the principle — if you're not posting payments when you actually receive them, that affects the interest calculation and the principal reduction, even slightly. Over five years it compounds.
+
+Agent: You're correct that payment posting date affects when interest accrues. If a payment was received June 1st and posted June 4th, you accrued three extra days of interest. At your balance in June 2019 — approximately $218,000 — three days of interest at 4.5 percent is about $80. That's a real amount. Let me note this as a potential posting date discrepancy and continue. Now October 2020?
+
+Caller: October 2020. I submitted payment October 1, 2020. It was a check, mailed September 28th. My bank shows it cleared October 5th. Your statement shows it posted October 9th.
+
+Agent: October 2020. I'm looking at that entry. Payment received October 9, 2020, posted October 9th. And — yes, I see a late fee of $28.38 was assessed.
+
+Caller: That's outrageous. I mailed the check on the 28th of September. Your company received and cashed it on October 5th. That is within the grace period. Why was a late fee assessed?
+
+Agent: I want to look at this very carefully. Can you hold for a moment while I review the imaging on this payment?
+
+Caller: Yes.
+
+Agent: Mr. Bellamy, I'm reviewing the check image. The check is stamped as received in our lockbox on October 9th. Your bank shows the check cleared — meaning funds were drawn — on October 5th.
+
+Caller: When a check clears at my bank, that means your bank has the money. How does your lockbox not receive it until October 9th?
+
+Agent: I understand the confusion. The way lockbox processing works, there can be a gap between when a check clears the paying bank and when we actually process and post it in our system. However — and I want to be very careful here — RESPA's payment crediting requirements under Regulation X state that a servicer must credit a payment as of the date of receipt, not the date of processing. If your check was physically in our possession on October 5th, it should have been credited as of October 5th, which is within the grace period.
+
+Caller: So the late fee was improperly assessed.
+
+Agent: Based on what I'm seeing, the late fee assessment appears to be in error. I'm going to escalate this for reversal. Let me note this. October 2020 late fee of $28.38 flagged for reversal pending supervisor review. I'm very confident this will be reversed. Now, you said March 2022?
+
+Caller: March 2022. This one is about misapplication. Payment amount $1,140.51 sent March 1, 2022. Your statement shows it was posted March 2, 2022, which is fine. But the application — I calculated that $822.50 should have gone to interest based on my running balance at that point, and $318.01 to principal. Your statement shows $867.22 to interest and $273.29 to principal.
+
+Agent: That's a meaningful discrepancy. Let me check the balance as of February 28, 2022. Balance at February 28, 2022 is showing $209,847. Interest accrued in March 2022 — the daily rate at 4.5 percent on $209,847 is approximately $25.93 per day, times 30 days is $777.90. Your calculation seems off on interest. Let me do this more carefully.
+
+Caller: I've done this calculation six times. I'm a CPA, Rachel.
+
+Agent: I appreciate that and I want to make sure we're both working from the same numbers. Can you walk me through your calculation?
+
+Caller: Balance as of February 1, 2022 after February payment was $210,152. Interest for March at 4.5 percent divided by 12 months is 0.375 percent. 0.375 percent of $210,152 is $788.07. The rest of the payment — $1,140.51 minus $788.07 — is $352.44 to principal. Not the figures on my statement.
+
+Agent: You're using a monthly interest calculation and I was using a daily calculation. Let me reconcile. For a standard mortgage, interest accrues daily. The daily rate is 4.5 percent divided by 365 equals 0.012329 percent per day. March 2022 has 31 days. $210,152 times 0.012329 percent times 31 days equals $803.21. That's the interest portion. Principal would then be $1,140.51 minus $803.21 equals $337.30.
+
+Caller: That's closer to my number but still different from your statement.
+
+Agent: The discrepancy between what the statement shows and what the math produces needs to be investigated. I'm noting this one for formal review. This one is more complex because it depends on the exact balance and accrual method. I want to be honest with you — if there's a systematic error in how interest was being calculated, it would require a full account audit by our accounting team.
+
+Caller: That's exactly what I'm asking for. A full audit.
+
+Agent: And you have every right to that. What's the August 2021 concern?
+
+Caller: August 2021 I made a double payment. I sent $2,281.02 — exactly two payments. I was trying to pay ahead. Your statement applied the full amount to the August payment and shows $1,140.51 sitting in a suspense account. I expected the second payment to be applied to September as a regular payment. Instead, you held it in suspense and assessed a late fee in September when no payment came in, even though the money was sitting with you.
+
+Agent: August 2021 — let me look. Yes. I see $2,281.02 received August 3rd. $1,140.51 applied to August. And $1,140.51 — I see it going into — it was held in unapplied funds. A late notice was generated September 1st and a late fee of $28.38 assessed. Then on September 8th the suspense funds were applied to September.
+
+Caller: Outrageous. You had my money. You had exactly one payment sitting in an account and you still assessed a late fee.
+
+Agent: You're right. If a payment is received and is sitting as unapplied funds in the amount of a full payment, under RESPA and standard servicing guidelines, it should have been applied to the next scheduled payment on September 1st. Holding it until September 8th while assessing a late fee was incorrect. I'm flagging that $28.38 for reversal as well.
+
+Caller: That's two confirmed errors. I believe there are more. I want a complete written audit from your accounting department.
+
+Agent: I'm going to request that today. I'm opening a formal audit request right now. Reference number — I'll get that in a moment. I want to be clear about what this audit entails: our accounting team will review every payment received, every posting date, every fee assessed, and every application, against the loan terms and regulatory requirements. You'll receive a written report.
+
+Caller: How long will that take?
+
+Agent: A full six-year audit — honestly, 30 to 45 business days is realistic. These are thorough reviews.
+
+Caller: I'll also be submitting a qualified written request in writing to document this formally.
+
+Agent: That's absolutely your right. Address it to our QWR processing address at PO Box 4400, Denver, CO 80241. Send it certified mail. Once we receive a QWR we have five business days to acknowledge and 30 days to provide a substantive response.
+
+Caller: I know the requirements. I want to confirm the two errors you've acknowledged: the October 2020 late fee of $28.38 and the September 2021 late fee of $28.38.
+
+Agent: Confirmed. Both of those are flagged for reversal. I'll send you a written confirmation within 5 business days confirming the reversals. If there are additional errors found in the full audit, those will be addressed in the audit report.
+
+Caller: And the March 2022 application discrepancy?
+
+Agent: That's flagged as under investigation as part of the full audit. If there was a misapplication, it will be corrected and you'll receive a written explanation. I can't confirm it as an error yet because the calculation requires reconciliation, but it will be reviewed.
+
+Caller: Acceptable. Who will be my point of contact for the audit?
+
+Agent: Your audit will be assigned to our account reconciliation team. I'll request that a named contact be assigned to you and included in the written acknowledgment you receive. In the meantime, I'm your reference: Rachel Porter, employee ID VMS-2291, reference number for this call AUD-2024-0619-5532.
+
+Caller: I'll document that. Thank you, Rachel. You've handled this professionally. I do want to note that if the audit surfaces additional errors — as I believe it will — I expect full corrections with retroactive application adjustments and any compounded interest differences returned.
+
+Agent: Noted, and that would be the appropriate remedy under RESPA. You'll receive the written acknowledgment at h.bellamy at denveraccounting.net within 5 business days. Is there anything else today?
+
+Caller: That covers it for now. I'll be following up in writing.
+
+Agent: Understood, Mr. Bellamy. Have a good day.
+
+Caller: You too. Goodbye.
+
+Agent: Goodbye.

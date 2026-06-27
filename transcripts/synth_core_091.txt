@@ -1,0 +1,41 @@
+Agent: Thank you for calling Sunrise Mortgage Group, this is Sandra. How can I help you today?
+Caller: Hi Sandra. My name is Valerie Hutchins. I believe there's been an error in my escrow calculation and it's costing me money. My loan number is 2290-4418.
+Agent: Hi Valerie. Let me pull up your account. Okay, I have your file — a thirty-year fixed mortgage on your property in Tampa, Florida. You said there's an escrow calculation error. Can you walk me through what you're seeing?
+Caller: Yes. My escrow was analyzed last month and my payment went up by one hundred twelve dollars a month. That's over thirteen hundred dollars more per year. When I looked at the escrow statement carefully, the numbers don't add up. I think there's been a calculation mistake.
+Agent: I want to take this seriously. Let me bring up your most recent escrow analysis. Okay, it was completed on May twentieth and the statement went out June first. Your current monthly escrow payment is shown as seven hundred forty-four dollars, up from six hundred thirty-two.
+Caller: Right. Now when I add up what the escrow is supposed to cover — my property taxes and my insurance — it doesn't equal what you're collecting.
+Agent: Let me walk through the numbers with you. Your annual property taxes are projected at four thousand one hundred twenty-four dollars. Your hazard insurance premium is one thousand six hundred eighty dollars annually. Added together, that's five thousand eight hundred four dollars per year, which is four hundred eighty-three dollars per month.
+Caller: That's what I got when I added them up too. But you're collecting seven hundred forty-four dollars a month. That's a huge difference.
+Agent: The difference between four hundred eighty-three and seven hundred forty-four is two hundred sixty-one dollars per month. That amount typically reflects the escrow cushion — federal law allows us to maintain a cushion of up to two months of projected disbursements. Two months of four hundred eighty-three is approximately nine hundred sixty-six dollars. But that's a cushion target, not an addition to the monthly payment.
+Caller: So the cushion shouldn't add to my monthly payment?
+Agent: The cushion exists as a buffer balance in the account, not as a direct addition to each monthly payment. The monthly payment is calculated to fund the annual disbursements plus rebuild or maintain the cushion. Let me look at your escrow balance. Your current escrow balance is — I'm seeing fifty-two dollars. That's very low.
+Caller: Right. My balance was almost completely depleted when a large tax payment went out.
+Agent: I see. Your Hillsborough County tax disbursement of four thousand one hundred twenty-four dollars went out on March thirty-first. Prior to that, your escrow balance was sufficient. After that payment, the balance dropped dramatically. So the higher monthly payment is an attempt to rebuild the account to an adequate level.
+Caller: But the increase seems too large. If I'm supposed to have two months of disbursements as a cushion, that's about nine hundred sixty-six dollars. If I currently have fifty-two dollars, I need about nine hundred fourteen more to reach the cushion. Spread over twelve months that's about seventy-six dollars a month. But you increased my payment by over two hundred.
+Agent: That's an excellent analysis, Valerie. You're correct that the cushion rebuilding component should only be around seventy-six dollars per month at most. Let me look more carefully at the analysis details.
+Caller: Take your time.
+Agent: I'm reviewing the analysis now. The projected disbursements in the analysis show property taxes at four thousand one hundred twenty-four and insurance at one thousand six hundred eighty. Those look correct based on your actual bills. But there's a projection here for a second insurance disbursement — it shows a second insurance payment of one thousand six hundred eighty in October.
+Caller: I only have one insurance policy. There's no second insurance disbursement.
+Agent: That appears to be the error. It looks like the analysis is projecting two insurance disbursements in the twelve-month period instead of one. That doubles the insurance component of the projection, inflating the required monthly payment.
+Caller: So they counted my insurance premium twice?
+Agent: That's what the data is suggesting. The total projected disbursements in the analysis are showing seven thousand four hundred eighty-four instead of the correct five thousand eight hundred four. The difference is one thousand six hundred eighty — exactly one insurance premium.
+Caller: Yes! That's exactly what I was getting at. My insurance company only bills once a year. I pay the full annual premium in June.
+Agent: You are absolutely right. This appears to be an escrow analysis input error. The duplicate insurance disbursement should not be there. I'm going to document this error and submit a request for the escrow analysis to be corrected.
+Caller: And my payment — will it go back down?
+Agent: Yes. With a corrected analysis reflecting the actual one-time annual insurance premium, your escrow payment should be closer to five hundred fifty to five hundred sixty dollars — the four hundred eighty-three dollar monthly disbursement amount plus a reasonable cushion rebuilding component. That would actually be a reduction from your prior payment of six hundred thirty-two, largely because your account balance is lower than it should be relative to the cushion target.
+Caller: Wait — why would it be lower than my old payment of six hundred thirty-two?
+Agent: The old payment was based on slightly different projections. A corrected analysis now would reflect the actual current tax and insurance amounts, and since both are slightly lower than what was projected last year, the new payment could come out below the prior level. I'd estimate around five hundred fifty-five to five hundred seventy dollars.
+Caller: That's actually lower than before. Okay. What rights do I have here? I've heard about RESPA requirements for escrow.
+Agent: Yes — RESPA, the Real Estate Settlement Procedures Act, governs escrow account management. Under RESPA, we're required to conduct an accurate annual escrow analysis and to provide you with the statement we sent. You also have the right to request an escrow analysis review if you believe an error occurred, which you're doing right now.
+Caller: How long do you have to correct an error like this?
+Agent: We should complete the corrected analysis and notify you within thirty business days of receiving the dispute. I'm flagging this as a priority today. If the corrected analysis shows overpayment, you'd receive either a refund or a credit to your escrow balance, along with a revised monthly payment going forward.
+Caller: And the excess I've already paid since June first — will that be refunded?
+Agent: If the analysis is corrected effective July first, you'd have made one month's payment at the inflated amount — seven hundred forty-four instead of the corrected amount. The difference would be calculated and either refunded or applied as a credit to your escrow balance, at your preference.
+Caller: I'd prefer a check. Can I request that?
+Agent: Yes. You can specify that preference in writing. I'll note it on the file as well.
+Caller: Great. What's the reference number for this call or dispute?
+Agent: I'm generating a case number for you now. Your case number is ESC-2024-88441. You'll receive written confirmation of the dispute within five business days and the corrected analysis within thirty.
+Caller: Thank you, Sandra. I'm glad I checked the numbers carefully.
+Agent: You did exactly the right thing. Escrow analysis errors do happen and you have every right to have it corrected. Is there anything else I can help with?
+Caller: No, that covers it. Thanks so much.
+Agent: Thank you for calling, Valerie. Have a great day.

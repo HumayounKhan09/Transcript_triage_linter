@@ -1,0 +1,41 @@
+Agent: Thank you for calling Rural Heritage Mortgage Servicing. This is Brandon. May I have your name and loan number?
+Caller: Hi Brandon. Name is Ellen Stoddard. Loan number is 2-0-5-5-3-8-9.
+Agent: Thank you, Ms. Stoddard. Property address and last four of Social?
+Caller: The address is 4102 County Road 7, Clarinda, Iowa 51632. And last four is 3-8-4-4.
+Agent: Got it, account is pulled up. I can see this is a USDA Rural Development guaranteed loan. How can I help you today?
+Caller: So I have a USDA loan and I've had an income reduction. My husband and I used to both work at a meat packing plant here, and they cut shifts dramatically. Between us we went from $5,400 a month combined down to about $3,600. We've missed one payment — March — and we're struggling to make April. I want to know if there's a USDA loan modification option and how it works.
+Agent: I'm sorry to hear that, Ms. Stoddard. Significant income reductions in rural employment situations are exactly the kind of hardship that USDA's loss mitigation programs are designed to address. Let me explain what's available. Your loan is a Section 502 Guaranteed Loan, which means USDA Rural Development has issued a guarantee to us as the lender against default. When borrowers like you face hardship, we work with USDA to evaluate options.
+Caller: What options does USDA have specifically?
+Agent: USDA has a formal loss mitigation protocol for guaranteed loans. The options in their framework include: a Repayment Agreement, which lets you catch up on arrears over time added to your regular payment. A Special Forbearance, similar to other programs, which temporarily reduces or suspends payments. A Loan Modification, which adjusts the loan terms. And then for more severe cases, a Pre-Foreclosure Sale or Deed-in-Lieu.
+Caller: Let's focus on the modification. What can it do to my loan?
+Agent: For USDA guaranteed loan modifications, the servicer and USDA work together on what's called a Special Loan Servicing option. The modification can do several things. It can capitalize past-due amounts — your missed March payment and any fees — into the loan balance. It can extend the loan term. And in some cases, it can reduce the interest rate, though that depends on whether the resulting payment meets USDA's targeted payment ratio.
+Caller: What's the targeted payment ratio?
+Agent: USDA's loan servicing guidelines aim for a modified payment that doesn't exceed 31% of your gross monthly income. If a rate reduction and term extension can get you there, that's the modified payment.
+Caller: Our gross combined is about $4,500 — before the reduction it was $6,750. Now it's dropped to around $4,500.
+Agent: So 31% of $4,500 would be $1,395 as the target. What's your current payment?
+Caller: $1,218 a month. Principal, interest, taxes, and insurance all together.
+Agent: Interesting — your current payment is actually below the USDA target of $1,395. That might seem like good news, but it also means the current terms aren't unaffordable by the standard USDA ratio. The issue is clearly the income drop affecting your overall ability to manage all expenses together.
+Caller: Right. When we were making $5,400, $1,218 was fine. But now at $3,600, it's a stretch on top of groceries and utilities and the car.
+Agent: That makes complete sense. Let me check your loan details. Your current balance is $127,400. Your interest rate is 4.25% fixed. You have approximately 24 years remaining.
+Caller: If they modify the loan, would they lower that 4.25 rate?
+Agent: USDA guidelines allow for an interest rate reduction as part of the modification waterfall. The rate can be reduced, but it can't go below 1% regardless of how low they'd need to go to hit the payment target. However, given that your current payment is already below the 31% target, rate reduction may not be the primary tool. Term extension would be more relevant — extending your remaining 24 years toward a longer period to reduce the payment slightly.
+Caller: What if they extend the term — by how much?
+Agent: USDA guidelines allow term extension to up to 40 years from the original loan origination date. Your loan origination date — let me look — appears to be November 2016. So the maximum would be November 2056, about 30 more years. Extending from 24 years remaining to 30 years would further reduce the principal and interest component of your payment. Combined with capitalized arrears, the net effect on payment might be modest.
+Caller: So the modification might not drastically change my payment since it's already relatively low?
+Agent: That's an honest assessment. The USDA modification tools are most powerful when the original rate is significantly above market, which isn't the case at 4.25%. The more impactful option for you might actually be the Special Forbearance — suspending your payment for three to six months while your income situation stabilizes, and then resuming payments when the plant shifts return to normal.
+Caller: Is there any chance the shifts come back? Honestly, we don't know. It could be permanent.
+Agent: In that case, a combination approach might be best. A forbearance now to protect you immediately, followed by a modification evaluation once we know whether your income stabilizes or remains reduced. If it's a permanent reduction, the modification makes more sense as a long-term solution.
+Caller: What about USDA's moratorium on foreclosure? I heard there were protections.
+Agent: USDA Rural Development has historically provided additional protections during declared disasters or national emergencies, and there have been various administrative moratoria in recent years. For your specific account right now, I'd encourage you to check with USDA Rural Development's state office as well, because their direct-loan and guaranteed-loan programs sometimes have overlapping protections. Our job as the servicer is to follow those directions when USDA issues them.
+Caller: Good to know. What documentation do I need to submit for either forbearance or modification?
+Agent: For the forbearance, the documentation burden is lighter — a signed hardship letter describing the income reduction and supporting documentation of the reduced hours or pay, like a recent pay stub showing current earnings. For the full modification application, we'd need both your pay stubs, the last two months of bank statements, a completed financial worksheet, and your most recent tax return.
+Caller: My most recent tax return was for 2024 and it shows the higher income. Would that hurt me?
+Agent: We'd supplement the tax return with your current pay stubs and a hardship letter explaining that the income reduction occurred after the tax year covered by that return. Current pay stubs documenting the reduced hours carry significant weight in demonstrating the change.
+Caller: That makes sense. One more question — we also have a small USDA direct loan on some farmland. Does that interact with this at all?
+Agent: That's a different program entirely — USDA direct loans are serviced by USDA directly, not by us. Your guaranteed loan modification wouldn't directly affect that direct loan, but if you were in default on the direct loan, USDA could potentially consider the combined picture in any workout they do there. I'd recommend keeping those two matters separate for now and dealing with each servicer individually.
+Caller: Okay, that makes sense. Let's get the forbearance started and the modification evaluation going.
+Agent: Absolutely. I'll open a hardship case today, document the income reduction, and initiate a Special Forbearance that will protect your account while we gather documents for the modification review. You'll receive written confirmation by mail within five business days.
+Caller: Thank you. This is such a stressful time. I appreciate the help.
+Agent: Absolutely, Ms. Stoddard. You're doing the right thing by addressing this early. Call us at 1-800-555-0145 anytime you have questions. Take care.
+Caller: Thank you, Brandon. Goodbye.
+Agent: Goodbye.

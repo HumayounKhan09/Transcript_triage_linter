@@ -1,0 +1,37 @@
+Agent: Thank you for calling Heritage Mortgage Servicing, this is Tom. How can I assist you today?
+Caller: Hi Tom. My name is Natalie Ogundimu. I have an FHA loan and I'm getting a little confused about the mortgage insurance premium. I keep hearing different things about when it goes away or if it ever goes away. Can you pull up my loan and tell me exactly what the schedule looks like for my MIP?
+Agent: Hi Ms. Ogundimu, absolutely. MIP on FHA loans is one of the most commonly misunderstood topics, so let's get your account up and I'll walk through exactly how it works for your specific loan. Can I get your loan number or property address?
+Caller: Yes, the address is 557 Clover Hill Drive, Indianapolis, Indiana 46220. Loan number is HMS-78-22-4490.
+Agent: And your full name?
+Caller: Natalie Adaeze Ogundimu.
+Agent: Last four of your Social Security number?
+Caller: 8831.
+Agent: Thank you. I have your account. Let me look at your loan details. Your FHA loan was originated in September 2018. That origination date is very important for MIP purposes because the rules changed over the years. Let me pull up the specific parameters for your loan.
+Caller: I was told at closing that MIP was for the life of the loan, which I've always hated. Is that true?
+Agent: That's a very important question and the answer depends on your loan-to-value at origination and your loan term. Let me look at your origination numbers. Your original loan amount was $214,000 and your appraised value at origination was $229,000. So your original LTV was approximately 93.4 percent.
+Caller: Right, I put about 6.5 percent down. Not quite 10 percent.
+Agent: That's the key threshold. For FHA loans originated after June 2013 — which yours was, since it was 2018 — the MIP duration rules are as follows. If your original loan-to-value was greater than 90 percent at origination, annual MIP is required for the life of the loan. If your original LTV was 90 percent or less, MIP is required for 11 years.
+Caller: So because I put down 6.5 percent and my LTV was over 90, I'm stuck with MIP for the life of the loan?
+Agent: Under the FHA's rules as they stood when you originated, yes. The current MIP on your account shows as 0.55 percent annually, which comes out to approximately $98 per month in your payment. That is the annual MIP rate applied to your average annual balance.
+Caller: That adds up over the life of a loan. Is there any way to get rid of it?
+Agent: Yes. The main way to eliminate FHA MIP is to refinance out of your FHA loan into a conventional loan. If your current home value has appreciated and your loan balance has decreased, your current LTV may be low enough to qualify for a conventional loan without requiring private mortgage insurance at all, or with PMI that's less expensive than your FHA MIP and can eventually be cancelled.
+Caller: Can you tell me what my current balance is and give me a rough idea of what my LTV might be now?
+Agent: Your current balance is $187,204. I don't have an updated appraisal, but I can tell you what value your home would need to be at various LTV thresholds. For 80 percent LTV — which is the conventional threshold where you'd typically have no PMI — your home would need to be worth at least $234,005. Given that you're in Indianapolis and purchased in 2018, there has been meaningful appreciation in many Indiana markets. A current market value above $234,000 would put you in strong shape for a conventional refinance with no PMI.
+Caller: My neighbor just sold her house down the street for $265,000. My house is similar.
+Agent: If your home is worth approximately $265,000, your current LTV would be about 70.6 percent — well below the 80 percent threshold. At that LTV, you'd have no PMI requirement at all on a conventional loan. That could be worth exploring, especially if current interest rates are favorable for your situation.
+Caller: What would happen to the MIP I've already paid? I'm not getting that back, right?
+Agent: Correct, MIP premiums paid are not refundable in most cases. At origination there was an upfront MIP premium — typically 1.75 percent of the loan amount — which was either paid at closing or financed into the loan. There is a partial refund of the upfront MIP if you refinance into another FHA loan within the first few years, but if you refinance into a conventional loan, that refund doesn't apply.
+Caller: Can you tell me if my upfront MIP was financed or paid at closing?
+Agent: Let me look. I can see in your origination data that your upfront MIP of $3,745 was financed into the loan amount. So it's included in your current balance. There's no additional cash you'd get back from that.
+Caller: I figured. Okay. And just to confirm — if I refinance to conventional, the monthly MIP of about $98 stops completely?
+Agent: Yes. Conventional loans use PMI if the LTV is above 80 percent, but at 70.6 percent LTV, you would not be required to have PMI on a conventional loan. Your monthly payment would decrease by that $98, and it would never come back unless you borrowed against the home again in a way that brought LTV above 80.
+Caller: That's a meaningful savings over the remaining life of the loan. I should probably talk to a loan officer.
+Agent: That would be a smart step. I can note that you're interested in refinancing information — we do have a loan origination team that can run numbers and compare your current payment with a potential conventional loan payment, factoring in current rates. Would you like me to have someone reach out?
+Caller: Actually yes, that would be helpful.
+Agent: I'll put a referral note on your account with your contact preference. Can I confirm the best phone number for you?
+Caller: Yes, it's 317-555-0194.
+Agent: Got it. Someone from our refinance team will reach out within two business days. Is there anything else I can help you with today?
+Caller: I think that covers everything. You were really helpful, Tom. I feel like I actually understand FHA MIP now.
+Agent: Glad to hear it. It's a complicated topic but knowing your options puts you in control. Have a great day, Ms. Ogundimu.
+Caller: You too. Thanks. Bye.
+Agent: Goodbye.

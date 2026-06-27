@@ -1,0 +1,44 @@
+Agent: Thank you for calling Lakeland Mortgage Services, this is Monique. Can I pull up your account?
+Caller: Sure. Loan number is 8847-229-01. My name is Theresa Kowalski.
+Agent: Thank you, Ms. Kowalski. Can you verify your Social Security last four and the property address?
+Caller: 6651, and it's 712 Maple Grove Road, Pittsburgh, Pennsylvania 15217.
+Agent: Got your account up. How can I help you today?
+Caller: I got a letter saying you guys are ordering an appraisal on my property. I didn't request an appraisal. What is this about?
+Agent: I can explain that, Ms. Kowalski. The appraisal mentioned in your letter is being ordered by us as the servicer as part of our annual PMI review process. Let me look at your account more closely.
+Caller: I've been paying PMI for a while and I thought at some point it goes away on its own. Is that what this is about?
+Agent: Yes. Your PMI is approaching the automatic cancellation threshold under the Homeowners Protection Act. Based on your original amortization schedule, your loan is projected to reach 78% LTV — which is the mandatory automatic cancellation point — within the next several months. In preparation for that, and because your original LTV at origination was close to 80%, we're required to verify the current property value before cancelling PMI.
+Caller: Wait — I thought PMI was supposed to cancel automatically. Why do you need an appraisal for that?
+Agent: Great question. Under the Homeowners Protection Act, there are two scenarios. For automatic cancellation — which happens when the loan reaches 78% LTV based on the original amortization schedule — no appraisal is required. The servicer cancels it automatically. However, if the borrower has missed any payments in the prior twenty-four months or if the servicer has reason to believe the property's value has declined, the servicer may require a current appraisal before cancelling, even for automatic cancellation.
+Caller: Have I missed any payments?
+Agent: Let me check your payment history. Your account shows no missed or late payments in the past twenty-four months. Your payment history is clean.
+Caller: So why the appraisal?
+Agent: The other trigger I mentioned — the servicer may order an appraisal if the property's value may have declined. This is sometimes done in specific geographic markets or as a standard portfolio review. Let me check the notes on your account. I see a notation here that your ZIP code was flagged in a quarterly portfolio review for potential value sensitivity. That triggered the appraisal order.
+Caller: My neighborhood hasn't gone down. Property values here have been stable. I think this is excessive.
+Agent: I understand your position. The appraisal is a servicer right under your loan agreement and the Homeowners Protection Act, and it's being done at our expense — you will not be charged for this appraisal.
+Caller: Oh, I won't be charged? That's the first good news.
+Agent: Correct. When the servicer orders an appraisal for its own PMI review purposes — not because you requested PMI cancellation — the cost is borne by us. If you had proactively requested cancellation and we ordered the appraisal as part of that, the rules are different and we can require you to pay. But this is our appraisal, ordered for our purposes.
+Caller: Okay. So what happens now?
+Agent: An appraiser will contact you to schedule an interior inspection of the property. This is a full appraisal, not a drive-by, so they will need access to the interior. They'll call you to set a time that works. If they've already sent a scheduling notice and you haven't responded, I'd recommend calling the number on that notice.
+Caller: I did get a card in the mail from someone. It has a phone number. I wasn't sure if it was legitimate.
+Agent: That card would be from our approved appraisal vendor. If you have the card handy, the vendor name should be on it. Let me check who we use. Our current appraisal vendor is Nationwide Valuation Services. Is that the name on the card?
+Caller: Let me find it. Yes — it says Nationwide Valuation Services. So it is legitimate.
+Agent: It is. Please call them to schedule at your convenience. They'll visit, assess the property, and return a report within ten to fourteen business days.
+Caller: What happens if the appraisal comes back low?
+Agent: If the current appraised value shows that your LTV is above 78% — meaning the property has depreciated — then PMI would not be cancelled at this time. You'd continue paying PMI until either the loan balance drops further or a future appraisal supports cancellation.
+Caller: And if it comes back fine?
+Agent: If the appraisal confirms the property value supports an LTV at or below 78% based on your current balance, PMI will be cancelled and your payment will be reduced by your current PMI amount. Looking at your account, your PMI is $91.00 per month.
+Caller: $91.00 a month is meaningful. I've been paying that for ten years.
+Agent: And at the automatic cancellation threshold, you should be reaching it very soon regardless — the appraisal just needs to confirm value. Your current balance is $198,440.00. At 78% LTV, you'd need the property value to be at least $254,410.00. Do you have any sense of what your home is worth today?
+Caller: My neighbor sold a similar house for $290,000 last fall. So I think we're well above that.
+Agent: $290,000 would put your current LTV at 68.4% — comfortably below 78%. If your appraisal comes in anywhere close to comparable sales, PMI cancellation looks very likely.
+Caller: So this is actually good news?
+Agent: It is. The appraisal is the final step before your PMI comes off. It was unexpected, I understand, and you weren't clearly notified of why it was being ordered. I'll note in your account that you called about this and request that a clearer explanation letter be sent to you.
+Caller: I'd appreciate that. The letter I got was very vague.
+Agent: That's fair feedback. Communication should be clearer when we're asking someone to schedule an appraisal inspection. I'll flag that for our correspondence team.
+Caller: How will I know when the PMI is cancelled?
+Agent: You'll receive a written cancellation notice by mail confirming the effective cancellation date and the reduction in your monthly payment. Your next monthly statement after cancellation will show the new, lower payment amount.
+Caller: Perfect. Thank you for explaining it, Monique. I went from annoyed to understanding in one call.
+Agent: That's exactly what I'm here for. Call Nationwide Valuation Services at the number on the card and get that appointment scheduled. Is there anything else I can help with?
+Caller: No, that covers it.
+Agent: Have a great day, Ms. Kowalski.
+Caller: You too. Thanks. Bye.

@@ -1,0 +1,45 @@
+Agent: Thank you for calling Northgate Home Finance, this is Ray. How can I help you today?
+Caller: Hi Ray. My name is Connie Bergstrom. I'm calling because I'm in the process of splitting my lot and I'm wondering how that affects my mortgage. My loan number is 5539-1183.
+Agent: Hi Connie. Let me pull up your account. Okay, I see your loan — a thirty-year fixed on a property in Madison, Wisconsin. And your collateral is described as a residential lot with a single-family home. Can you tell me more about the lot split?
+Caller: Sure. My property is about a three-quarter acre lot. The city recently approved my application to split it into two separate parcels. The front parcel is about a third of an acre where my house sits, and the back parcel is about forty percent of an acre — it's an empty buildable lot behind my house.
+Agent: I see. So you're creating a new separate buildable parcel from what was previously part of your mortgaged property. That's a significant change to your collateral.
+Caller: Yes. My plan is to sell the back lot. I have a neighbor who wants to buy it for one hundred twenty-five thousand dollars.
+Agent: This situation is directly related to what's called a partial release of collateral — the same concept I'd discuss if you were selling only part of the secured property. Your mortgage lien currently covers the entire three-quarter acre. Once the lot split is recorded, you'll technically have two separate parcels, but both are still encumbered by our mortgage until we formally release the back parcel.
+Caller: So I can't just sell the back lot without getting your approval?
+Agent: Correct. Because the back lot is currently part of your collateral, any sale of that parcel would require us to release our lien from it. You can't convey clear title to the buyer without our consent and a formal lien release.
+Caller: I was afraid of that. The city approved the split but they don't know about the mortgage.
+Agent: The city's approval is about land use and zoning — they're not involved in lien positions. The mortgage lien is a separate legal matter recorded with the county. So yes, you need our consent before the lot can be sold with clear title.
+Caller: Okay. So what's the process to get that release?
+Agent: It's a partial release of collateral request. We'd review whether the remaining collateral — the front parcel with your home — adequately secures the outstanding loan balance. Let me check your balance. Your current loan balance is one hundred sixty-seven thousand dollars.
+Caller: And what would the house parcel alone appraise for?
+Agent: That's what we'd need to determine through an appraisal. What's your estimate of the home's value on the front parcel?
+Caller: My house was appraised at two hundred eighty thousand last year when I refinanced, but that was before the lot split. The lot probably added some value. I'd guess the house on the smaller lot might be worth two hundred forty to two hundred sixty thousand.
+Agent: At two hundred fifty thousand — a midpoint estimate — the LTV on the remaining collateral would be about sixty-seven percent. That's within a range we could work with. The formal appraisal will determine the actual number.
+Caller: If the appraisal comes in lower — say two hundred thousand — would that be a problem?
+Agent: At two hundred thousand, the LTV would be about eighty-four percent. That starts to approach the upper end of what we'd generally consider acceptable for a partial release. It's not automatically disqualifying, but it would require closer review and might affect the conditions of the release.
+Caller: What conditions are you talking about?
+Agent: Typically the primary condition is that some portion of the sale proceeds from the back lot be applied to the outstanding loan balance. This is called a release price. Reducing the loan balance improves the LTV on the remaining collateral and makes the release more favorable from our perspective.
+Caller: If I get one hundred twenty-five thousand for the back lot, how much might I have to pay toward the mortgage?
+Agent: That depends on the specific release price negotiated. It could be a fixed percentage of the sale price — say twenty to thirty percent — or it could be an amount calculated to bring the LTV on the remaining collateral to a target level like sixty-five or seventy percent. If the appraisal supports the home at two hundred fifty thousand, a modest release price might be sufficient.
+Caller: If I apply thirty thousand to the mortgage, my balance goes down to one hundred thirty-seven thousand. Against two hundred fifty thousand that's about fifty-five percent LTV.
+Agent: That math is right and that would be a strong position. The specifics depend on our appraisal and underwriting review.
+Caller: Is there a deadline I need to worry about? My buyer wants to close in October.
+Agent: It's late June now, so you have about four months. Our partial release process typically takes twenty to thirty business days once we have a complete submission. Ordering an appraisal and getting that back usually takes two to three weeks. So if you submit the request within the next few weeks, October is feasible.
+Caller: What do I submit to start?
+Agent: A written partial release request describing the transaction — the lot split details, the parcel to be released, the parcel to remain as collateral, the proposed sale price, and the buyer if known. You'd attach the recorded lot split documentation from the county — the new legal descriptions for both parcels — and a copy of the purchase agreement if you have one. There's also a five hundred dollar processing fee.
+Caller: Do I also need a new survey?
+Agent: If the lot split documentation from the city includes certified plats or survey documents for each parcel, that typically satisfies the requirement. We just need clear legal descriptions for both the parcel to be released and the retained parcel.
+Caller: I have the recorded plat from the city. It shows both parcel boundaries and legal descriptions.
+Agent: That should work. Include a copy of that with your submission.
+Caller: And if my sale falls through while this is being processed, what happens?
+Agent: If the sale falls through, the partial release simply doesn't proceed. There's no obligation created by submitting the request. The processing fee is non-refundable, but no other financial impact to your loan.
+Caller: Okay. One more question — after the sale and release, will my monthly payment change?
+Agent: Your monthly payment will change only if you apply proceeds to the loan balance. If you apply thirty thousand, for example, we'd apply that as a principal reduction. If you want that to change your monthly payment rather than just shorten the loan term, you'd need to request a re-amortization of the loan, which is sometimes called a loan recast. There's usually a small fee for that — around two hundred fifty dollars — and it recalculates your payment based on the new lower balance over the remaining term.
+Caller: That could lower my payment meaningfully. Good to know.
+Agent: Exactly. Where do you want me to send the submission instructions?
+Caller: Can you email me information?
+Agent: I can note your request and have our modifications team email the partial release application packet to the email address we have on file. Or you can find the forms at northgatefinance.com under Loan Services.
+Caller: I'll look at the website. Thank you Ray, this was very helpful.
+Agent: My pleasure, Connie. Good luck with the project. Is there anything else I can help with?
+Caller: No, I'm good. Thanks.
+Agent: Have a great day.

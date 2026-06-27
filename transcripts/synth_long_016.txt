@@ -1,0 +1,68 @@
+Agent: Good afternoon, may I speak with Mr. Craig Whitfield?
+Caller: Who's calling?
+Agent: This is Priya calling from Summit Mortgage Servicing regarding your account at 1408 Sycamore Avenue, Springfield, Illinois. Am I speaking with Mr. Whitfield?
+Caller: Yeah, that's me. What do you want.
+Agent: Mr. Whitfield, thank you for taking my call. I'm calling because your mortgage account — loan number 5580-093-CF — has been past due and we haven't been able to reach you. I want to make sure you're okay and talk through what options we have available to help you.
+Caller: I've gotten your letters. I've been ignoring them because I don't want to deal with it right now.
+Agent: I hear you. Can I ask — is there something going on that's making it hard to engage with this?
+Caller: Look, I don't know what you want me to say. I'm 150 days behind. I know how bad that is. I'm not stupid.
+Agent: I don't think you're stupid at all, Mr. Whitfield. I think you're going through something difficult and sometimes the hardest thing is reaching out for help. You didn't hang up, which tells me part of you is willing to talk. I'd like to listen.
+Caller: There's not much to tell. Life fell apart. That's the summary.
+Agent: Sometimes that's the whole story. Is it financial, health, a job situation, something in the family?
+Caller: All of the above, mostly. My wife and I separated in January. She took the kids. I'm in the house alone. I lost my job — I was in logistics management at a regional distribution company, they closed the facility. February. And then I had a health thing in April, chest pains, turned out to be a panic attack but I didn't know that at the time. Three days in the hospital. I've got the bills from that too now.
+Agent: Mr. Whitfield, that's a lot to carry. I'm sorry. Separation from your family, losing your job, and then a health scare all within a few months — that's genuinely overwhelming. I want you to know that nothing I'm telling you today is meant to add pressure. My job in this call is to understand your situation and present options that might help.
+Caller: Okay.
+Agent: Can I ask — what does your income look like right now?
+Caller: I'm on unemployment. I get $1,840 a month. I've been applying but the market for logistics management in Springfield is thin. I had a second interview with a company in Decatur two weeks ago and I haven't heard back.
+Agent: And your mortgage payment is how much?
+Caller: $1,190. I think. With taxes and insurance.
+Agent: Your account shows $1,188 including escrow. So your mortgage payment is 64 percent of your unemployment income. That doesn't leave much for food, utilities, and everything else.
+Caller: No. It doesn't. I've been prioritizing utilities and eating. The mortgage has been — it's just not getting paid.
+Agent: That makes sense given what you're working with. You didn't stop paying because you don't care about the house. You stopped because the math doesn't work right now.
+Caller: Yeah. That's it exactly. It's not that I don't want to keep the house. That house is — my kids grew up there. My oldest started kindergarten from that house. I'm not ready to lose it.
+Agent: I understand. And I want to be clear — you have not lost it. At 150 days delinquent, on a conventional loan like yours, we are required to evaluate all available loss mitigation options before a foreclosure referral can even be made. You called on the right day.
+Caller: What does that mean practically?
+Agent: It means your loan is not in foreclosure. It means there is a window — right now — to engage the process and access options that can help you stay in the home, or at minimum protect you while you navigate this. Let me walk through what's available.
+Caller: Okay. I'm listening.
+Agent: The first and most immediately helpful option is a forbearance. During forbearance, your payments are temporarily suspended. No new late fees accrue. The delinquency clock pauses. We're not collecting payments during this time. It gives you a period — typically three to six months — to stabilize your situation, find employment, and get back on your feet.
+Caller: What happens to the money I owe after forbearance?
+Agent: Great question. At the end of forbearance, there are several ways to resolve the amount. If your situation has improved significantly and you can pay it all at once, that's a reinstatement. But most borrowers coming out of forbearance aren't able to do that, so more commonly we move to either a repayment plan, where the owed amount is spread out over several months added to your regular payment, or a loan modification, where the missed payments are added to the back of the loan and the loan is re-amortized.
+Caller: The repayment plan sounds rough. I can barely make the regular payment right now.
+Agent: If your income is at $1,840 a month, a repayment plan at your current payment level plus a portion of arrearage is unlikely to be feasible. That's why I'd want to connect a forbearance with a path to modification, not a repayment plan. The modification option is what I want to focus on.
+Caller: What would a modification do for me?
+Agent: Your loan is a Freddie Mac conventional loan. Freddie Mac has a modification program — the Flex Modification — that can reduce your payment by targeting a new payment at 40 percent of your gross monthly income. At your current unemployment income of $1,840, 40 percent is $736 a month. That's a $452 reduction from your current $1,188.
+Caller: Could they actually get it to $736?
+Agent: The math would require either a significant rate reduction or a term extension or both. Your current rate is 4.5 percent on a balance of $197,200 that would become $226,980 after adding the $29,780 arrearage. At a 40-year term at the Flex Modification floor rate, which is currently 3.375 percent, the payment would be approximately $839. Not quite to $736, but it's a meaningful reduction. The final number depends on the exact calculation and whether principal deferral is applied.
+Caller: Even $839 would be better than what I'm supposed to pay. My problem right now is I'm not paying anything.
+Agent: Right. And the modification stabilizes you at a number that's more sustainable. Now, I want to be transparent about the income piece. Currently, unemployment income does count for modification eligibility. But modifications are designed for sustainable long-term payment ability. If you get a new job, your income goes up, and the modification payment of $839 may be very affordable. If unemployment ends and you haven't found work, we'd have a problem.
+Caller: The job in Decatur — if I get that, it pays $78,000 a year. That's around $6,500 a month. I could definitely make $839 on that.
+Agent: At $6,500 a month, $839 is 13 percent of your gross income. That is entirely sustainable. So the question is whether you use the forbearance to bridge the gap while pursuing employment, and then move to modification or potentially reinstatement depending on your employment situation.
+Caller: If I get the Decatur job, could I just catch up everything? Like pay all the arrears at once?
+Agent: Yes. Reinstatement — paying the full arrearage plus fees in a lump sum — is always an option. Your current arrearage is $29,780 including late charges. If you get the job and have a signing bonus or savings, you could reinstate. Some employers offer relocation packages that provide cash upfront. Worth asking about.
+Caller: I'll keep that in mind. I didn't think about framing the relocation allowance that way.
+Agent: Lots of options here. Let me also mention something that applies to your family situation. If you and your wife are separated but not yet divorced, and she's on the mortgage — let me check — she's not listed as a co-borrower?
+Caller: No. The house is in my name only. We bought it before we got married, put it in my name, never changed it.
+Agent: Then the separation doesn't complicate the mortgage process for us. However, I want to flag that depending on how the divorce proceeds in Illinois, a family court could issue orders related to the property. If there's an attorney in your separation case, it might be worth mentioning that you're in active loss mitigation so they don't take action that conflicts with the process.
+Caller: We're doing mediation. There's no attorney yet. But noted.
+Agent: Good. Now, Mr. Whitfield, to move forward today I need to open a formal hardship intake. This is the first step in the loss mitigation process. I'm going to ask you several questions and record your answers, and that will generate the Borrower Response Package that gets sent to you for signature. Are you willing to do that now?
+Caller: Yeah. I am. I actually feel better about this than I did when I answered the phone.
+Agent: I'm glad. Let me just say — the fact that you're willing to engage is meaningful. A lot of borrowers don't answer, or hang up, and by the time they engage it's genuinely harder to help them. You're making this easier on yourself by talking today.
+Caller: I almost didn't answer. I almost let it go to voicemail.
+Agent: But you answered. So let's do this. I'll start the intake. First, can you confirm the number of people residing in the property?
+Caller: Just me right now. My kids are with my wife. They were there most weekends until things got complicated.
+Agent: Understood. Gross monthly income, we'll document unemployment at $1,840. Do you have any other income sources? Rental income, retirement distributions, any 1099 work?
+Caller: No. Just the unemployment.
+Agent: Monthly expenses — can you walk me through your approximate fixed monthly expenses outside the mortgage? Utilities, car payment, insurance, anything else?
+Caller: Car payment is $340. Insurance on the car is $130. Utilities run about $240 on average. Cell phone $85. Food probably $300 a month for just me. Medical bills from the hospital, I'm paying $50 a month on a payment plan. That's most of it.
+Agent: Total non-housing expenses approximately $1,145. Income $1,840. That leaves $695 a month for housing. Your current payment is $1,188. So the shortfall without any modification is $493. This documents the hardship clearly and supports the case for a modified payment.
+Caller: When you say it like that it's obvious I need help.
+Agent: The numbers tell the story. Now, hardship type. For your records, I'm documenting: job loss — facility closure in February 2024; marital separation — January 2024; medical event — April 2024. Is there anything else contributing to the hardship you want on record?
+Caller: I think that covers it.
+Agent: Okay. What I'll do now is open the forbearance effective today — that stops the clock on any foreclosure referral consideration and gives you 90 days of protection. The forbearance agreement will be mailed and emailed to you. Simultaneously, I'll initiate the loss mitigation application, and the Borrower Response Package will arrive within five business days. You'll need to sign and return it along with your bank statements, unemployment award letter, and two most recent tax returns.
+Caller: I can get all of that. I filed my taxes.
+Agent: Perfect. And the moment you have any job offer or income change, call us immediately. That can affect which path is best — modification, repayment plan, or reinstatement.
+Caller: What's the phone number to use when I call back?
+Agent: Summit Mortgage Servicing, 1-844-560-7720. Reference loan number 5580-093-CF. And Mr. Whitfield — I'm going to give you my direct extension. It's extension 4417. You can ask for me specifically if you want continuity.
+Caller: Priya, extension 4417. Thank you. Genuinely.
+Agent: You're welcome. Hang in there. Things can turn around. Go ahead and call that company in Decatur if you haven't heard back — you're allowed to follow up. Good luck.
+Caller: I will. Thanks again.

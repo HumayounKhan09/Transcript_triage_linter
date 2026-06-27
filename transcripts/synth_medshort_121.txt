@@ -1,0 +1,49 @@
+Agent: Thank you for calling Evergreen Mortgage Servicing, this is Nicole. How can I help you today?
+Caller: Hi Nicole. My name is Arthur Benson. I've been paying PMI for about three years now and I want to get it removed. My neighbor told me I could just ask for it to be cancelled but you guys sent me a letter saying I need an appraisal. I want to understand why.
+Agent: Hi Mr. Benson, PMI removal is something we get a lot of questions about. Let me pull up your account and then I can walk you through the specific guidelines that apply to your loan. Can I get your loan number?
+Caller: Sure, it's 9902-7716.
+Agent: And the property address?
+Caller: 188 Birch Hill Drive, Worcester, Massachusetts, 01602.
+Agent: And last four of your Social?
+Caller: 6637.
+Agent: Thank you. Got your account. Let me look at your investor guidelines. Your loan is owned by a private investor — not Fannie Mae or Freddie Mac — and that makes a difference in how PMI removal works.
+Caller: What difference does it make?
+Agent: The Homeowners Protection Act of 1998 sets the baseline rules for PMI cancellation for all conventional loans. It says borrowers can request PMI cancellation when their loan balance reaches 80 percent of the original value of the property, based on the original purchase price or original appraised value.
+Caller: So I should be able to cancel it once I reach 80 percent. What's my current loan-to-value?
+Agent: Your original home value — the purchase price you paid — was $380,000. Eighty percent of that is $304,000. Your current loan balance is $341,200. So based on original value, you haven't yet reached the 80 percent threshold on a scheduled payment basis.
+Caller: Oh. I was assuming I had paid it down enough.
+Agent: You're still about $37,000 away from the threshold based solely on scheduled amortization. However, there's another route — which is what your letter was describing. If your home has appreciated in value, you can request cancellation based on current market value even before reaching that threshold on a scheduled basis.
+Caller: My home has definitely gone up in value. The market here has been strong.
+Agent: That's where the appraisal comes in. To request cancellation based on current value, the loan-to-value needs to be 80 percent or below based on a current appraisal. The investor guidelines for your loan require a current appraisal — they don't accept AVMs or drive-by valuations for this purpose.
+Caller: What's an AVM?
+Agent: Automated Valuation Model — it's a computer-generated estimate like what you see on Zillow. Lenders sometimes use those for other purposes but your investor specifically requires a full interior appraisal for PMI removal.
+Caller: How much does that cost?
+Agent: A residential appraisal typically runs between $400 and $700 depending on the property type and your location. It's paid by you as the borrower.
+Caller: And if the appraisal comes in at a high enough value, the PMI goes away?
+Agent: If the appraisal demonstrates that your current loan balance is 80 percent or less of the current value, and you've met the other criteria, yes. The other criteria include having a satisfactory payment history — typically no thirty-day late payments in the past twelve months and no sixty-day late payments in the past twenty-four months.
+Caller: I've never had a late payment.
+Agent: That's excellent and that requirement is easily satisfied. So the main hurdle for you is whether the appraised value supports your request.
+Caller: What does my balance need to be compared to the appraised value?
+Agent: Your current balance is $341,200. To reach 80 percent LTV based on current value, the home needs to appraise at $426,500 or higher.
+Caller: It's worth way more than that. Similar homes on my street have sold for five hundred or more.
+Agent: Then an appraisal could very well support your cancellation request. The appraiser uses recent comparable sales to establish value, so comparable sales in your neighborhood are exactly what will drive the number.
+Caller: How do I get the appraisal ordered?
+Agent: You don't order it yourself — you need to submit a written PMI cancellation request to us, and we'll order the appraisal through our approved appraiser panel. You pay for the appraisal upfront or we can add it to your account depending on your preference.
+Caller: Why do you order it? Why can't I order my own?
+Agent: The investor guidelines require that the appraisal be ordered through the servicer's approved panel to ensure independence and consistency. An appraisal you commission yourself wouldn't be accepted for PMI purposes.
+Caller: Okay. Can I submit the request right now over the phone?
+Agent: You can request it verbally and I'll note the account, but we'll also need a written request — you can submit it through the online portal or mail a signed letter to our PMI department.
+Caller: I have the portal. What section is the request under?
+Agent: Log in and go to Manage My Loan, then select PMI or Mortgage Insurance options. There should be a PMI Cancellation Request form.
+Caller: And once I submit it, how long does it take?
+Agent: We'll acknowledge your request within a few business days and then order the appraisal. Appraisal scheduling can take one to two weeks depending on appraiser availability in your area. Once the appraisal report comes in, we review it and if it supports the cancellation, we notify you and cancel the PMI, typically within thirty days.
+Caller: So it could be six to eight weeks from now?
+Agent: Roughly. It depends on scheduling, but that's a reasonable estimate.
+Caller: And once it's cancelled, it stays cancelled?
+Agent: Once cancelled based on an appraisal, yes — assuming you continue making payments and your loan stays current. If the loan ever becomes significantly delinquent, there could be reinstatement requirements depending on the situation.
+Caller: But in normal circumstances, it just goes away?
+Agent: Correct. No reinstatement under normal circumstances once cancelled.
+Caller: Alright. I'll log in and submit the request today. Thank you, Nicole.
+Agent: You're welcome. Sounds like your home value will support the cancellation. Good luck, Mr. Benson. Is there anything else?
+Caller: No, that's everything I needed. Thanks.
+Agent: Have a great day.

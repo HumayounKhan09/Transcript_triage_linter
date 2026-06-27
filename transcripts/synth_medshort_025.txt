@@ -1,0 +1,43 @@
+Agent: Thank you for calling Summit Ridge Mortgage, this is Maria speaking. How can I help you today?
+Caller: Hi Maria. My name is Bernard Jacobs. I just got my annual escrow analysis in the mail and it shows a shortage of $720. The letter says I can either pay it in a lump sum or spread it over twelve months. I want to pay the lump sum today. I'd rather just get it done.
+Agent: Hi Bernard. That's a perfectly reasonable choice and I'd be happy to process that for you today. Let me pull up your account first. Can I get your property address and the last four of your Social Security number?
+Caller: The address is 7725 Oakdale Ridge Court, St. Louis, Missouri 63119. Social last four is 4463.
+Agent: Thank you. And the last four of your loan number?
+Caller: 9913.
+Agent: Perfect. I've got your account and I can see the escrow analysis. The shortage is $720, correct?
+Caller: That's right. I just want to pay it and be done.
+Agent: Absolutely. And just so you understand what we're looking at — the shortage occurred because your property taxes went up since our last analysis. The county increased your assessed value and your tax bill went up by about $600 for the year. Combined with a small insurance premium increase, that created the $720 shortfall in your escrow account.
+Caller: I figured it was the taxes. We got a notice from the county assessor a few months ago.
+Agent: That's exactly right. The county reassessment flowed through to your tax bill and that in turn created the escrow shortage.
+Caller: Now if I pay the lump sum today, does my monthly payment go up at all going forward?
+Agent: Yes, it will, but less than if you spread the shortage. Let me explain. When you pay the lump sum today, you replenish the shortage immediately. However, your escrow payment going forward still needs to increase to cover the higher anticipated tax and insurance amounts next year. The shortage replenishment is one piece, and the forward-looking adjustment is another.
+Caller: So I'm paying the $720 shortage today and my monthly payment is still going up?
+Agent: Correct. If you pay the shortage today, your new monthly payment will increase by $78 per month starting next billing cycle. If you had spread the shortage over twelve months, your payment would have increased by $138 per month — $78 for the higher going-forward escrow, plus $60 per month to recover the shortage over twelve months.
+Caller: So by paying the lump sum I save sixty dollars a month for twelve months, which is another seven hundred and twenty dollars.
+Agent: Exactly right. It balances out almost exactly. The lump sum means a larger outlay today but lower monthly payments going forward by that sixty dollars.
+Caller: That math works for me. I'd rather pay it now. Can you take a payment by phone?
+Agent: Absolutely. There's a convenience fee of $12.50 for phone payments. Or if you'd prefer, you can pay online through your borrower portal at no charge. The portal has a specific escrow shortage payment option.
+Caller: Let's do it by phone. The extra twelve-fifty is fine. I don't want to log in and navigate around.
+Agent: No problem at all. So the total today would be $720 for the escrow shortage plus $12.50 convenience fee, for a total of $732.50. I'll need your bank routing number and account number.
+Caller: Routing is 081000210. Account number is 6613904472. Checking account.
+Agent: Thank you. Let me confirm: routing 081000210, checking account ending in 4472, and you authorize a payment of $732.50 for your escrow shortage plus the convenience fee?
+Caller: Yes, that's authorized.
+Agent: Processing now. All right, Bernard, your escrow shortage payment of $732.50 has been submitted. Your confirmation number is ESC-2024-049281.
+Caller: Can you say that again?
+Agent: ESC-2024-049281.
+Caller: Got it. Now, when does my new monthly payment of — what did you say, seventy-eight dollars more — when does that kick in?
+Agent: Your new monthly payment will be reflected starting with your next billing statement, which will go out in the next seven to ten days for your upcoming July payment. Your new total monthly payment will be $2,041, up from your current $1,963.
+Caller: I just want to make sure my autopay is updated to match that new amount.
+Agent: Great point. Your autopay will automatically update to reflect the new payment amount. You don't need to change anything manually — our system adjusts the autopay draft amount when the payment changes as a result of an escrow analysis.
+Caller: That's convenient. I was worried I'd have to call to update it.
+Agent: For escrow-driven payment changes, the autopay updates automatically. If you ever change your own payment amount or add extra principal, that would be a separate step.
+Caller: Good to know. Now one other question. Does paying the shortage affect my escrow cushion?
+Agent: Good question. The $720 shortage replenishes your escrow balance to the required minimum, which is a two-month cushion of anticipated disbursements. After your payment posts, your escrow account will be at the required cushion level. The going-forward payment increase is then calibrated to maintain that cushion through the next analysis year.
+Caller: Perfect. So I'm fully funded going forward?
+Agent: That's correct. After today's payment posts within one to two business days, your escrow account will be fully funded and your new monthly payment will take care of the rest.
+Caller: Excellent. I appreciate how straightforward this was. I was dreading making this call but it went smoothly.
+Agent: I'm glad. These calls are usually pretty quick once we have the account pulled up. Is there anything else I can help with today, Bernard?
+Caller: No, that covers everything. Thank you, Maria.
+Agent: Of course. Thank you for calling Summit Ridge Mortgage. Have a wonderful day.
+Caller: You too. Bye.
+Agent: Goodbye.

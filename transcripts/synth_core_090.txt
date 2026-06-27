@@ -1,0 +1,37 @@
+Agent: Thank you for calling Consolidated Mortgage Services, this is Fatima. How can I help you today?
+Caller: Hi Fatima, my name is Gerald Kovacs. I have a question about a boundary dispute I'm dealing with and whether it affects my mortgage. Loan number is 8870-2244.
+Agent: Hi Gerald. Let me look up your account. I have your file — a thirty-year fixed on a property in suburban Atlanta, Georgia. Can you describe what the boundary dispute is about?
+Caller: Sure. My neighbor and I disagree about where the property line is between our houses. He had a survey done and it shows the line a few feet into what I thought was my yard. I had a survey done and my surveyor says the line is further toward his house. So we have two different surveys giving different results.
+Agent: That's not uncommon — surveying is an imprecise enough discipline that two surveys can sometimes yield different results, especially on older subdivisions or properties with unclear historical records. The difference in opinion creates what's called a boundary dispute.
+Caller: Right. My neighbor is now claiming that a portion of my fence — about four feet of it — and part of my driveway are technically on his property based on his survey. I think he's wrong, but I'm worried about what this means for my mortgage.
+Agent: I understand the concern. Let me explain how boundary disputes typically interact with mortgage loans. At the time your loan was originated, a title search was conducted and title insurance was issued. Do you recall whether you purchased an owner's title insurance policy at closing?
+Caller: I think so. I paid for it at closing. I have a big stack of closing documents somewhere.
+Agent: That's the most important thing right now — locate your owner's title insurance policy. It should be in a document that says "Commitment for Title Insurance" or "Title Insurance Policy" from a company like First American, Fidelity National, or Old Republic. The policy number and the title insurance company name would be on the first page.
+Caller: Why is the title insurance relevant?
+Agent: Because boundary disputes and encroachments — which is what your neighbor is claiming with the fence and driveway — are typically covered under owner's title insurance. If your neighbor prevails in establishing that part of your fence or driveway encroaches on his property, you may have a claim against your title insurer.
+Caller: So my title insurance would pay if I have to move the fence?
+Agent: Potentially. Owner's title insurance typically covers survey defects, encroachments, and boundary issues that existed at the time of closing. If the boundary was not accurately reflected in the title report and you've suffered a loss as a result — such as having to relocate improvements — you could file a claim with the title company.
+Caller: What about from the mortgage side — does this affect my loan?
+Agent: From our perspective as the mortgage servicer, a boundary dispute itself doesn't immediately affect your loan. Your obligation to pay the mortgage continues regardless of the dispute. However, there are a few scenarios where it could become our concern.
+Caller: Like what?
+Agent: If the dispute escalates to a legal judgment that results in a court-ordered property line adjustment — meaning a court determines that a portion of what you thought was your land is legally your neighbor's — that could technically reduce the size of your collateral. In extreme cases, if a court ordered the removal of improvements that are on disputed land, that could affect the property's value.
+Caller: My home is well within my surveyor's interpretation of the boundary. The dispute is only about four feet of fence and about six feet of driveway near the property line. My house itself is not in dispute.
+Agent: In that case, the direct impact on your collateral is minimal. A four-foot strip along a property line is unlikely to materially affect the appraised value of the house itself. The dispute is more of a legal and neighbor relations matter than a mortgage matter.
+Caller: That's somewhat reassuring. Should I notify you about the dispute?
+Agent: You're not required to notify us of every legal matter involving the property, but for significant legal proceedings — like a lawsuit about property rights — it's generally advisable. Is this at the lawsuit stage or still informal?
+Caller: It's informal right now. We've exchanged letters through attorneys but there's no lawsuit filed.
+Agent: At that stage, notification to us is not necessary. If a lawsuit is filed and a lis pendens — that's a recorded notice of a pending legal action — is placed on the property, that could show up in our title monitoring and we'd likely reach out to you at that point.
+Caller: What's a lis pendens and how does it affect things?
+Agent: A lis pendens is a notice recorded in the county property records that alerts third parties that there's active litigation involving the property. It doesn't encumber the property like a lien does, but it does cloud the title and would complicate any sale or refinance until the lawsuit is resolved.
+Caller: So if my neighbor sues me and files a lis pendens, I'd be stuck?
+Agent: Not permanently, but until the lawsuit is resolved, yes. A sale or refinance would be challenging because title companies don't like insuring properties with active litigation. It would need to be resolved — either settled or adjudicated — before title would be considered clear.
+Caller: Okay. My hope is this gets settled without litigation. My attorney thinks we can negotiate an agreement.
+Agent: That's the best outcome. A negotiated boundary agreement — sometimes called a boundary line agreement or a written stipulation recorded with the county — can resolve the dispute and put both parties on the same page without litigation.
+Caller: Would a recorded boundary agreement satisfy your requirements if we ever needed to refinance?
+Agent: Generally yes. A recorded boundary agreement that establishes the agreed-upon property line would be viewed favorably by a title company and a new lender. It resolves the ambiguity and clears the title.
+Caller: Good. One question about the surveys — my survey cost me nine hundred dollars. His survey might be different from mine. Who's right?
+Agent: That's ultimately a legal question, not one we can answer. If the surveys conflict, resolution typically involves either commissioning a third survey from a neutral party, or having a court resolve the discrepancy based on recorded deeds, historical records, and the survey evidence. Your attorney can advise on the best approach.
+Caller: Thank you, Fatima. This was really helpful. I feel better knowing my mortgage isn't in immediate jeopardy.
+Agent: It sounds like the situation is manageable, especially if litigation is avoided. Let me know if anything changes on the legal front and you want to discuss the implications. Is there anything else?
+Caller: No, that's everything. I appreciate your time.
+Agent: Of course. Good luck with the negotiation, Gerald. Have a good day.
