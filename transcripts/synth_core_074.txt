@@ -1,0 +1,51 @@
+Agent: Thank you for calling Broadleaf Mortgage Services, this is Yuki. Can I get your loan number?
+Caller: It's 8823-661-07. My name is Walter Hutchins.
+Agent: Thank you, Mr. Hutchins. Can you verify your date of birth and the property address?
+Caller: March 28th, 1971, and the address is 1447 Birchwood Drive, Lansing, Michigan 48910.
+Agent: I've got your account up. What can I help you with today?
+Caller: I just had an escrow analysis done and my payment is going up, and I got a question about when the next escrow analysis will happen. I want to understand the cycle so I can plan ahead.
+Agent: That's a really thoughtful approach to managing your finances, and I'm happy to explain the escrow analysis cycle in detail. Let me also look at the analysis that just completed so I have all the details in front of me.
+Caller: Sure.
+Agent: Your most recent escrow analysis was completed in May 2026. Your payment effective date for the new amount is July 1st, 2026. Your escrow payment increased from $612.00 per month to $741.00 per month — an increase of $129.00 per month. Is that the analysis you received notice of?
+Caller: Yes, that's the one. My total payment went from $1,949 to $2,078.
+Agent: Correct. Now, to your question about the escrow analysis cycle. Under RESPA — the Real Estate Settlement Procedures Act — servicers are required to conduct an escrow analysis at least once per year. The analysis period typically covers twelve months of escrow activity.
+Caller: So once a year?
+Agent: At minimum once a year. Your loan is on an annual escrow review cycle, meaning every twelve months we look at what was collected versus what was paid out and project the next twelve months' requirements based on known or expected tax and insurance costs.
+Caller: When exactly will the next one happen?
+Agent: Your next scheduled escrow analysis would be in May 2027 — twelve months from the one just completed. The results of that analysis would be effective for your payment starting July 1st, 2027.
+Caller: So I have roughly a year before the next change to my payment?
+Agent: Correct — barring any interim analyses. A standard escrow cycle is very predictable: analysis in May, new payment effective July, stable for twelve months, then analysis again.
+Caller: You said barring interim analyses. When would an interim one happen?
+Agent: Good question. An interim or off-cycle escrow analysis can be triggered by certain events. The most common trigger is a significant change in your property taxes or insurance premium. For example, if your county issues a special assessment or significantly raises your tax bill mid-year, we might receive updated disbursement information that requires an interim adjustment.
+Caller: My property taxes just went up because the county did a reassessment.
+Agent: Then it's possible you could see a mid-cycle update. If the new tax bill differs significantly from what we used in the May analysis, we may need to adjust your escrow before May 2027. I should check what tax amount we used in the current analysis.
+Caller: The new tax bill shows $5,880 annually. The old one was $4,920.
+Agent: That's a significant difference — $960 more per year, or $80 more per month in escrow. Let me see what amount was used in the May analysis. The May analysis used $4,920 annually, which is $410 per month in tax escrow. If we update to $5,880, the tax escrow would be $490 per month — that's the $80 increase I mentioned.
+Caller: So my payment is going to go up again?
+Agent: Likely yes, once we receive the updated tax bill from the county and update our records. The timing depends on when we get that information. If the updated tax bill is reflected in county records that we access during the next annual tax season, it'll be captured in the May 2027 analysis. But if you proactively send us a copy of the new tax bill, we can update sooner and avoid a larger shortage building up.
+Caller: Is it better to update it sooner or wait?
+Agent: From a financial planning standpoint, updating sooner means your monthly payment goes up now but avoids a surprise shortage catching up in the next annual analysis. Waiting means the shortage accumulates and when the May 2027 analysis catches it, your payment may need to increase more to recover both the going-forward tax increase and the months of undercollection.
+Caller: So it's better to rip the bandage off now?
+Agent: Generally yes, if you can handle the payment increase. It avoids a larger lump adjustment later. If I send the new tax bill in, what would happen?
+Caller: If you upload or fax us the new tax bill, we'd do an interim escrow analysis within thirty days. Your payment would be adjusted upward by approximately $80.00 to reflect the new tax amount, effective the next billing cycle after the analysis completes.
+Caller: So my $2,078 payment would go to $2,158?
+Agent: Approximately, yes — $2,078 plus $80 is $2,158. Plus the May analysis already captured some adjustment, so the exact final figure depends on the detailed calculation. The general estimate is in that range.
+Caller: What about my insurance? Could that trigger an interim analysis too?
+Agent: Yes. If your insurance premium renews at a significantly different amount — typically a change of more than two months' worth of insurance escrow — that can also trigger an update. When is your insurance renewal?
+Caller: October.
+Agent: So we'll get the updated premium information around October. If it's significantly different from what we have on file, we'd factor that into either an interim update or the May 2027 analysis, depending on when the information arrives and how material the change is.
+Caller: What's the current insurance escrow amount you have on file?
+Agent: Looking at the May analysis, we're collecting $302.00 per month for insurance, based on an annual premium of $3,624.00. When your October renewal comes in, if that figure changes meaningfully, it will be factored in.
+Caller: What counts as a meaningful change?
+Agent: There's no hard statutory definition, but a common practice is that a change of more than two months' worth of monthly escrow — roughly $200 in your case — would prompt an interim update. Small fluctuations are typically captured in the annual analysis rather than triggering an off-cycle adjustment.
+Caller: This all makes sense. Is there a way to monitor my escrow balance without calling?
+Agent: Yes. Your monthly statement shows your current escrow balance, recent disbursements, and the required cushion balance. You can also log into your online account at broadleafmortgage.com — under account details, there's an escrow activity section that shows every deposit and disbursement in real time.
+Caller: Good to know. I'll set that up. Is there anything else I should know about the cycle?
+Agent: One thing worth knowing — even during a stable year, your escrow can accumulate a small surplus or shortage because tax and insurance payments don't always align perfectly with collections. The annual analysis smooths those out. A small variance — under one month's escrow — is normal and expected.
+Caller: Alright. I'll send in the new tax bill and brace for the update.
+Agent: That's the right call. Fax to 1-877-220-3318 or upload through the portal. Your reference number for today is EA-2026-033902.
+Caller: EA-2026-033902. Thank you, Yuki.
+Agent: Of course. Is there anything else I can help with?
+Caller: No, that covers it.
+Agent: Have a great day, Mr. Hutchins.
+Caller: Thanks. Bye.

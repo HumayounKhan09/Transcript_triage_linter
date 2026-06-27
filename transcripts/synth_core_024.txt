@@ -1,0 +1,63 @@
+Agent: Horizon Mortgage Servicing, this is Kevin, how can I help you today?
+Caller: Hi Kevin. I have a construction loan with you guys and I was just told by my builder that the project is complete. My loan is supposed to convert to a permanent mortgage. I have a lot of questions about what that looks like.
+Agent: Congratulations on completing your construction — that's exciting. And yes, a construction-to-permanent loan conversion is something we handle and I'm happy to walk you through the process and answer all your questions. Let me pull up your account first. Loan number?
+Caller: It's 420591. The address is going to be 15 Larkspur Court, Scottsdale, Arizona — that's the new home address.
+Agent: And your name and last four of your Social?
+Caller: Isabel Reyes. Social ends in 1144.
+Agent: Got it, Isabel. I've got your construction loan account. I can see it was originated at five hundred and twenty thousand, the draw period appears to have been fully utilized, and yes, we have a conversion flag on the account. First, let me ask — have you received any formal notification from us about the conversion process?
+Caller: I got a letter about three weeks ago saying the construction phase was ending and to call in. I've been a little overwhelmed with the move and I'm just now calling.
+Agent: No problem. Let's go through everything. A construction-to-permanent conversion means the construction loan — which was interest-only during the build phase — now converts to a standard amortizing mortgage. You'll go from paying interest only on drawn funds to paying principal and interest on the full loan balance.
+Caller: How much is my full balance right now?
+Agent: Your outstanding balance at conversion is four hundred and ninety-seven thousand three hundred and eighty-two dollars. That's the total drawn during construction.
+Caller: I thought I'd draw the full five twenty.
+Agent: The full five hundred and twenty thousand was your construction budget maximum. If some line items came in under budget, the undrawn amount simply doesn't get borrowed. It's a common situation — four ninety-seven is very close to the full amount.
+Caller: Okay. So now what?
+Agent: Now your loan converts to a permanent mortgage. Let me look at what rate you locked in. You have a thirty-year fixed rate at six point two five percent that was locked in when the construction loan was originated. That rate carries through to the permanent loan.
+Caller: Six point two five. Is that good right now?
+Agent: Compared to current market rates in the mid-to-high sixes, it's actually a very solid rate. Your lock held through construction, which can take a year or more in some cases.
+Caller: Our build took fourteen months. I was worried the rate wouldn't hold.
+Agent: These construction-to-permanent structures specifically lock the permanent rate at origination for that reason. You're protected.
+Caller: So what is my payment going to be?
+Agent: Let me calculate. On four hundred and ninety-seven thousand three hundred and eighty-two dollars at six point two five percent on a thirty-year term, your principal and interest payment will be approximately three thousand sixty-eight dollars per month.
+Caller: Three thousand and sixty-eight. And then escrow on top of that?
+Agent: Yes. Your escrow needs to be established. We'll need to set up your homeowner's insurance and property taxes. Do you have a homeowner's insurance policy in place?
+Caller: Yes, we got it when the house was framed. The policy number is with Travelers. The annual premium is two thousand four hundred.
+Agent: Good. And do you know what your property taxes will be in Maricopa County?
+Caller: I called the county assessor. They said new construction gets reassessed, but based on the assessed value they're estimating about four thousand two hundred annually. But they said it could change once the final assessment is done.
+Agent: That's typical for new construction — the first full assessment year sometimes differs from the estimate. For now, we'll use four thousand two hundred. So your annual escrow need is two thousand four hundred for insurance plus four thousand two hundred for taxes — six thousand six hundred total. Divided by twelve that's five hundred and fifty per month in escrow.
+Caller: So my total payment will be three thousand and sixty-eight plus five fifty?
+Agent: Three thousand six hundred and eighteen. Plus we'll add a two-month cushion to your escrow account at the start. That's eleven hundred dollars required at closing.
+Caller: Wait — there's a closing for the conversion?
+Agent: There's typically some documentation required and potentially a modified closing. In many construction-to-perm loans, the conversion is done with a "modification agreement" rather than a full new closing — which is simpler. But there are usually some fees and the escrow cushion requirement.
+Caller: What fees?
+Agent: The modification fee — typically two to five hundred dollars. Document preparation fee — typically around three hundred. Title update — possibly two to three hundred. And the escrow cushion of eleven hundred. All told, you might be looking at two to two thousand five hundred in total conversion costs.
+Caller: Can that come out of my remaining construction funds?
+Agent: If there are any undrawn construction funds — that twenty-two thousand six hundred that wasn't drawn — those don't automatically become available to you. The undrawn amount is not drawn and not borrowed, so it's simply released. It can't be used to pay conversion costs.
+Caller: Oh. I thought if I had budget left over I could use it for landscaping or something.
+Agent: I understand the confusion, but undrawn construction funds just reduce your final balance. They're not accessible as cash. The good news is your final loan is smaller because of it.
+Caller: Okay. When does the conversion happen?
+Agent: Once we verify completion, there are typically a few steps. Certificate of occupancy — do you have that?
+Caller: Yes, we got it from the city two weeks ago.
+Agent: Perfect. That's usually the main trigger. We'll also order a final inspection to confirm the property is complete and in the condition described in the original plans. That inspection usually takes one to two weeks to schedule.
+Caller: And then what?
+Agent: After inspection, we prepare the modification agreement and send it to you for signature. You sign, we record it, and the loan converts. First permanent payment is due thirty days after the conversion date.
+Caller: When is the first payment likely due?
+Agent: If we move efficiently and the inspection comes back clean, I'd estimate conversion in three to four weeks, putting your first permanent payment around the beginning of next month.
+Caller: That gives me a little time. And is there anything I need to do?
+Agent: The main thing is making sure the certificate of occupancy is on file with us — do you have a copy you can upload? Also, if there are any outstanding contractor liens, those need to be cleared before we'll convert.
+Caller: How do I know if there are outstanding liens?
+Agent: Your title company should have done a lien search. You can also check with Maricopa County recorder's office. If you've paid all your contractors and they've signed lien releases, you should be clear. Did your builder provide lien releases from all subcontractors?
+Caller: I have a packet from the builder with signed lien releases. My real estate attorney reviewed them.
+Agent: Excellent. I'll upload the note to your account that you have those ready. You may need to send copies to us.
+Caller: Can I email them or upload through the portal?
+Agent: Yes, the document upload portal works. Upload the certificate of occupancy and the lien release packet.
+Caller: And then I just wait for the modification agreement?
+Agent: Correct. We'll send it by mail and email. You sign it and return it — typically you can do an e-signature now, which is much faster.
+Caller: I love e-signatures. Okay. Any other questions I should be asking that I haven't thought of?
+Agent: One thing — your homeowner's insurance policy. Make sure the coverage amount is at least equal to your loan balance of four ninety-seven thousand. And that the loss payee is updated to Horizon Mortgage Servicing. Sometimes during construction, the policy lists the lender differently.
+Caller: I'll call Travelers to confirm.
+Agent: Good call. Anything else, Isabel?
+Caller: I don't think so. I'm excited — it finally feels real.
+Agent: Congratulations on the new home. You've been very thorough with questions. Good luck with the move-in.
+Caller: Thank you Kevin. Bye.
+Agent: Goodbye. Take care.
