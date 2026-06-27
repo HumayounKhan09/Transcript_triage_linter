@@ -1,0 +1,69 @@
+# Transcript: sales_third_party_elderly_parent.txt
+
+Agent: Good morning, thank you for calling Pinnacle Mortgage Servicing. My name is Tom. How can I help you today?
+Caller: Hi Tom. My name is Claudia Nkrumah. I'm calling on behalf of my mother, Dorothy Nkrumah. She's the borrower on the loan. I'm her daughter. She's 79 years old and she has some cognitive issues — she's been diagnosed with mild to moderate dementia — and she's not able to handle her own financial affairs anymore. I've been trying to manage things for her and I have questions about her mortgage.
+Agent: Good morning, Claudia. Thank you for calling and for looking after your mother. I want to help you, and I also want to make sure we do this in a way that protects your mother's interests as the borrower. Let me explain how third-party calls work on our end and what we'll need to do to be able to share account information with you. Does that sound okay?
+Caller: Yes, that's fine. I've been through this with other financial institutions and I know there are rules. I'm prepared.
+Agent: Great. So we have a few ways that a third party can be authorized to discuss an account. The first and simplest is if the borrower herself is on the line with us right now and can verbally authorize you to participate in the call. The second is if there's a written third-party authorization on file that the borrower previously submitted naming you specifically. And the third — and this applies to your situation — is if you have a valid, executed Durable Power of Attorney document naming you as the agent for your mother.
+Caller: I have a Durable Power of Attorney. I had it prepared by an elder law attorney about eight months ago. It covers financial matters. I've sent it to several of my mother's financial institutions.
+Agent: Excellent. Did you ever submit that to Pinnacle Mortgage Servicing specifically?
+Caller: I'm not certain. I know I sent it to her bank and to her investment account company. I may not have sent it to you yet. Is there a way to check?
+Agent: Let me look at the account. Can I get the loan number first?
+Caller: Yes. It's 4-9-2-0-6-1.
+Agent: Loan number 492061. And the property address?
+Caller: It's 6770 Larkspur Circle, Memphis, Tennessee, 38120.
+Agent: And the primary borrower's date of birth?
+Caller: Dorothy's? May 17th, 1947.
+Agent: And last four of her Social Security?
+Caller: 2-8-3-3.
+Agent: Perfect. I've pulled up the account. Let me look for any third-party authorizations. Bear with me one moment.
+Caller: Sure.
+Agent: Okay. Looking at the account notes — I do not see a Power of Attorney or third-party authorization currently on file for this loan.
+Caller: I thought that might be the case. What do I need to do to get it on file?
+Agent: You would need to submit a copy of the Durable Power of Attorney document to us. We accept it by fax at 1-888-550-4422, or by mail to Pinnacle Mortgage Servicing, Attn: Third Party Authorization, P.O. Box 82200, San Antonio, Texas 78282. We can also accept it through the document upload portal on our website.
+Caller: And once I submit it, what's the turnaround for it to be reviewed and accepted?
+Agent: Typically three to five business days after we receive it. Once it's processed, it will be noted in the system and any agent can see it on the account.
+Caller: Okay. Now, in the meantime, is there anything at all you can tell me or help me with today? Or do I really have to wait?
+Agent: I want to be as helpful as I can. Without the authorization on file, I can't discuss specific account details with you — balances, payment history, that sort of thing. What I can do is answer general questions about how our products and programs work, and I can tell you what options exist so that you're prepared when you do call back with the authorization in place.
+Caller: Okay. That's reasonable. I have general questions so let's do that.
+Agent: Of course.
+Caller: First — my mother is on a fixed income. She gets Social Security and a small pension. I'm worried that her mortgage payment might be something she's falling behind on or is at risk of falling behind on. Are there programs for elderly homeowners who are struggling with their mortgage?
+Agent: Yes, and that's an excellent question. There are several options available that could be relevant for your mother. First, if she's experiencing a financial hardship — meaning her income doesn't cover her expenses including the mortgage — she may qualify for a hardship assistance program. That can include things like a temporary reduction in payment, or even a loan modification that permanently restructures the loan to make it more affordable.
+Caller: What would a modification look like for someone her age? She's 79. She's been in that house since 1989.
+Agent: A loan modification would look at things like her current interest rate, the remaining balance, and her verified income. The goal would be to bring her monthly payment to an amount that fits within her budget. I don't know the details of her loan, but generally modifications can include extending the loan term, reducing the interest rate, or in some cases deferring a portion of the balance.
+Caller: Extending the loan term for a 79-year-old seems odd. I mean, would they extend it another thirty years?
+Agent: That's a really thoughtful observation. Loan modifications for older borrowers do sometimes result in extended terms, but the loan would only need to be repaid when it's paid off normally, or when the property is sold or transferred. It's not as if she'd have to live to be 109 to pay it off. The extended term lowers the monthly payment and makes it manageable on a fixed income.
+Caller: That does make some sense. What about a reverse mortgage? I know those are for older homeowners.
+Agent: A reverse mortgage is a completely different product from what we service here. That's something you'd need to look into with a separate lender — typically a HUD-approved reverse mortgage counselor would be your first step. I can tell you that it is available to homeowners aged 62 and older, and it essentially allows them to use the equity in their home for income without making monthly mortgage payments. But I can't go into a lot of detail on that since it's outside what we service.
+Caller: Okay. I'll look into that separately. Let me ask you about escrow. My mother gets letters from you occasionally and she shows them to me when I visit. She got one recently about an escrow analysis and there was mention of a payment increase. Can you tell me in general how escrow analysis works and why payments might increase?
+Agent: Absolutely. Escrow is the portion of the mortgage payment used to pay property taxes and homeowner's insurance on the borrower's behalf. Once a year, we review what was actually paid out for taxes and insurance versus what was collected, and we adjust the monthly payment accordingly. If taxes or insurance costs went up, the monthly payment would go up to cover those increased amounts going forward.
+Caller: So it's not something that was wrong — it's just a natural adjustment?
+Agent: Typically, yes. Property tax increases are very common, especially in areas where property values have risen. The servicer — us — doesn't control property taxes. We just pay whatever the county bills and then adjust the escrow collection.
+Caller: Okay. So the letter she got about a payment increase — that could be routine.
+Agent: It very likely is. It's one of the most common reasons for payment changes. Now once you get the Power of Attorney on file, I'd be happy to walk you through the specific numbers on her account on your next call.
+Caller: That's good to know. Can I ask — when I do get the Power of Attorney on file, will I be able to make payments on her behalf? Like, will I be able to pay the mortgage using my bank account?
+Agent: Yes. Once the POA is processed, you should be able to act on her behalf in most ways, including making payments. You could set up electronic payments, or we could process one-time payments. The POA essentially lets you step into her shoes on the account.
+Caller: And can I change the mailing address for statements?
+Agent: Also yes. That's a common request from adult children managing a parent's affairs. You can request that statements be sent to your address so you can monitor everything.
+Caller: That would be really helpful. She lives alone and sometimes mail sits for days before I can check on it.
+Agent: Completely understandable. Once the authorization is in place, we can also set up email notifications so you'd get alerts when a statement is ready or if there's a payment concern.
+Caller: That's wonderful. Now — I want to make sure I understand the process going forward. I submit the Power of Attorney. You review it in three to five days. Then I call back and I should be able to access the account?
+Agent: Correct. When you call back, you'll want to state that you're a third-party caller with a Power of Attorney on file for Dorothy Nkrumah on loan 492061. The agent will be able to verify the POA in the system and then proceed with you as her authorized representative.
+Caller: Is there any chance the POA would not be accepted? Like is there a format requirement?
+Agent: Great question. Our legal team reviews POA documents for a few things: it needs to be signed and dated by the borrower, notarized, and it should explicitly grant authority over financial matters. A Durable Power of Attorney from an elder law attorney should include all of those elements. If for any reason there's an issue with the document, we'd contact you to let you know.
+Caller: Okay. My attorney prepared it and it's been accepted at her bank and investment firm, so I think it should be fine.
+Agent: That's a very good sign. As long as it meets the criteria I described, we don't anticipate any issues.
+Caller: Tom, one more thing — I want to make sure that even without me being authorized yet, there are no issues with the account. You said you can't share details with me, but can you at least tell me if the account is in good standing? In general terms?
+Agent: I understand why you're asking and I appreciate you caring so much about your mother. What I can tell you is that if there were a serious delinquency issue — missed payments, foreclosure proceedings — there would typically be significant correspondence going to the property address. Without getting into specific account details, I would encourage you to watch for any certified mail or urgent-looking notices. And once your POA is on file, I'd encourage you to call promptly so we can review the account together.
+Caller: Okay. I understand. I'll get the POA submitted today — I'll fax it today actually. I have a copy at home.
+Agent: Excellent. When you fax it, please include a cover sheet with the loan number — 492061 — and your name and contact number so we can reach you if there are any questions during the review.
+Caller: I'll do that. And in three to five business days I can call back?
+Agent: You can call back as early as three business days. If you call sooner and it's not yet processed, we may not be able to assist yet, so three to five days is a safe window.
+Caller: Okay. Tom, thank you. You've been very clear and very helpful. I know it must seem frustrating to callers when they can't get information right away, but I understand why the rules are in place. You're protecting my mother.
+Agent: That's exactly right, and I appreciate you recognizing that. Our rules around third-party authorization exist specifically to protect vulnerable borrowers. You're clearly a very caring and organized daughter, and your mother is lucky to have someone looking out for her.
+Caller: Thank you. That means a lot. Okay. I'll fax everything today and call back early next week.
+Agent: Perfect. And Claudia — when you call back, feel free to ask the agent to review any recent correspondence, including that escrow analysis letter, so you can understand the full picture of her account.
+Caller: I will. Thank you, Tom.
+Agent: Thank you for calling Pinnacle Mortgage Servicing. You take care.
+Caller: You too. Goodbye.
+Agent: Goodbye.
