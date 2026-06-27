@@ -10,15 +10,8 @@ class entityExtractor:
     def __init__(self):
         pass
 
-    def extract_amounts(self, text: str) -> list:
-        """Extract monetary amounts from normalized mortgage transcripts.
-
-        Returns ONLY numeric amounts (ints when whole dollars, floats if decimals).
-        Handles:
-          - $850,000 / USD 850000 / 850000 dollars
-          - 850k / 1.25m / 3 million / 2.4 billion
-          - Bare digits near mortgage-ish keywords: "mortgage amount 850" -> 850000
-        """
+    def _extract_amounts_with_context(self, text: str) -> list[tuple]:
+        """Core extraction. Returns list of (numeric_amount, context_snippet) pairs."""
         # --- 1) Money patterns with explicit currency/magnitude ---
         num = r"(?:\d{1,3}(?:,\d{3})+|\d+)(?:\.\d+)?"
         prefix = r"(?:(?:US|CA|C)?\$\s*|(?:USD|CAD)\s*)"
@@ -36,21 +29,23 @@ class entityExtractor:
         """
 
         # --- 2) Bare digits near mortgage amount keywords (transcript-style) ---
-        # We intentionally avoid matching "loan number" by requiring *amount-ish* keywords/phrases.
         ctx_kw = r"""(?:mortgage\s+amount|mortgage\s+balance|principal\s+balance|loan\s+amount|borrow(?:ing)?\s+amount|purchase\s+price|home\s+price|price)"""
         bare_pattern = rf"""\b{ctx_kw}\b\s*(?:is|:)?\s*({num})\b"""
 
         raw_hits = []
-        raw_hits.extend([m.group(1) for m in re.finditer(money_pattern, text, flags=re.IGNORECASE | re.VERBOSE)])
-        raw_hits.extend([m.group(1) for m in re.finditer(bare_pattern, text, flags=re.IGNORECASE | re.VERBOSE)])
+        raw_contexts = []
+        for m in re.finditer(money_pattern, text, flags=re.IGNORECASE | re.VERBOSE):
+            raw_hits.append(m.group(1))
+            raw_contexts.append(text[max(0, m.start() - 40):m.start()].strip())
+        for m in re.finditer(bare_pattern, text, flags=re.IGNORECASE | re.VERBOSE):
+            raw_hits.append(m.group(1))
+            raw_contexts.append(text[max(0, m.start() - 40):m.start()].strip())
 
         def to_number(raw: str):
             s = raw.strip().lower()
-            # strip common currency tokens
             s = s.replace('usd', '').replace('cad', '').replace('dollars', '').replace('dollar', '')
             s = s.replace('$', '').strip()
 
-            # magnitude
             mult = 1.0
             if re.search(r"\bbillion\b", s) or re.search(r"\bbn\b", s):
                 mult = 1_000_000_000.0
@@ -68,7 +63,6 @@ class entityExtractor:
                     mult = 1_000.0 if tag == 'k' else 1_000_000.0 if tag == 'm' else 1_000_000_000.0
                     s = re.sub(r"\b(k|m|b)\b", "", s).strip()
 
-            # clean commas/spaces
             s = s.replace(',', '').strip()
             if not s:
                 return None
@@ -78,7 +72,6 @@ class entityExtractor:
             except ValueError:
                 return None
 
-            # Mortgage shorthand: if no explicit markers and it's "850" etc, interpret as thousands.
             has_marker = any(x in raw.lower() for x in ['$', 'usd', 'cad', 'dollar', 'k', 'm', 'b', 'thousand', 'million', 'billion', 'bn'])
             if not has_marker and 100.0 <= val < 10000.0:
                 val *= 1000.0
@@ -87,23 +80,31 @@ class entityExtractor:
                 return int(round(val))
             return val
 
-        nums = []
-        for h in raw_hits:
+        pairs = []
+        for h, ctx in zip(raw_hits, raw_contexts):
             v = to_number(h)
             if v is not None:
-                nums.append(v)
+                pairs.append((v, ctx))
 
-        # de-dupe while preserving order
+        # de-dupe while preserving order (by value)
         seen = set()
         uniq = []
-        for v in nums:
+        for v, ctx in pairs:
             if v not in seen:
                 seen.add(v)
-                uniq.append(v)
+                uniq.append((v, ctx))
 
         return uniq
 
-    def extract_dates(self, text: str) -> list: 
+    def extract_amounts(self, text: str) -> list:
+        """Return flat list of numeric amounts (backward-compatible)."""
+        return [v for v, _ in self._extract_amounts_with_context(text)]
+
+    def extract_amounts_with_context(self, text: str) -> list[tuple]:
+        """Return list of (amount, context_snippet) pairs."""
+        return self._extract_amounts_with_context(text)
+
+    def extract_dates(self, text: str) -> list:
         date_patterns = [
             r'\b(?:\d{1,2}[/-]){2}\d{2,4}\b',                # MM/DD/YYYY or DD/MM/YYYY
             r'\b\d{4}[/-](?:\d{1,2}[/-]){2}\d{1,2}\b',      # YYYY/MM/DD
@@ -116,7 +117,7 @@ class entityExtractor:
         for pattern in date_patterns:
             dates.extend([m.group(0) for m in re.finditer(pattern, text, flags=re.IGNORECASE)])
         return dates
-    
+
     def extract_phones(self, text: str) -> list:
         phone_pattern = r'''
             (?<!\w)
@@ -126,9 +127,9 @@ class entityExtractor:
             \d{4}                           # Last 4 digits
             (?!\w)
         '''
-        return [m.group(0) for m in re.finditer(phone_pattern, text, flags=re.VERBOSE)]   
-    
-    
+        return [m.group(0) for m in re.finditer(phone_pattern, text, flags=re.VERBOSE)]
+
+
     def extract_loan_numbers(self, text: str) -> list:
         """Extract loan/account numbers from transcripts.
 
@@ -165,8 +166,10 @@ class entityExtractor:
 
     def extract_all_entities(self, transcript: Transcript) -> Entities:
         text = transcript.get_normalized_text()
+        pairs = self._extract_amounts_with_context(text)
         extEntities = Entities(
-            amounts=self.extract_amounts(text),
+            amounts=[v for v, _ in pairs],
+            amount_contexts=[ctx for _, ctx in pairs],
             dates=self.extract_dates(text),
             phones=self.extract_phones(text),
             loan_numbers=self.extract_loan_numbers(text),

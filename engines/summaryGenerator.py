@@ -21,16 +21,48 @@ class summaryGenerator:
             "THIRD_PARTY_CALLER"
         ]
 
+    # Keywords that suggest what role a nearby amount plays
+    _CONTEXT_LABELS = [
+        (["monthly payment", "payment amount", "pay per month", "monthly mortgage"], "monthly payment"),
+        (["principal balance", "loan balance", "remaining balance", "outstanding balance", "current balance"], "loan balance"),
+        (["loan amount", "mortgage amount", "original loan", "borrow"], "loan amount"),
+        (["purchase price", "home price", "sale price", "property value", "appraised"], "property value"),
+        (["escrow shortage", "escrow deficiency"], "escrow shortage"),
+        (["escrow", "impound", "property tax", "insurance premium"], "escrow amount"),
+        (["late fee", "convenience fee", "processing fee", "fee"], "fee"),
+        (["down payment", "down-payment"], "down payment"),
+        (["payoff", "pay off", "pay-off"], "payoff amount"),
+        (["forbearance", "deferral", "deferred"], "deferred amount"),
+        (["arrears", "past due", "overdue", "behind"], "amount past due"),
+    ]
+
+    def _label_from_context(self, ctx: str) -> str:
+        """Map a raw context snippet to a human-readable label."""
+        lower = ctx.lower()
+        for keywords, label in self._CONTEXT_LABELS:
+            if any(kw in lower for kw in keywords):
+                return label
+        return ""
+
     def extract_payment_bullet(self, entities: Entities) -> Optional[str]:
-        """Generate bullet about payment amounts"""
+        """Generate bullet about payment amounts, with context labels where available."""
         amounts = entities.get_amounts()
-        if len(amounts) > 0:
-            if len(amounts) == 1:
-                return f"Borrower mentioned payment amount of ${amounts[0]:,.2f}"
-            else:
-                amt_str = ', '.join([f"${a:,.2f}" for a in amounts])
-                return f"Borrower discussed multiple amounts: {amt_str}"
-        return None
+        if not amounts:
+            return None
+
+        contexts = entities.get_amount_contexts()
+
+        def fmt(amount, ctx):
+            label = self._label_from_context(ctx)
+            s = f"${amount:,.2f}"
+            return f"{s} ({label})" if label else s
+
+        if len(amounts) == 1:
+            formatted = fmt(amounts[0], contexts[0] if contexts else "")
+            return f"Borrower mentioned payment amount of {formatted}"
+        else:
+            amt_str = ', '.join(fmt(a, contexts[i] if i < len(contexts) else "") for i, a in enumerate(amounts))
+            return f"Borrower discussed multiple amounts: {amt_str}"
 
     def extract_request_bullet(self, intent: str, reason_codes: list) -> Optional[str]:
         """Generate bullet about what customer requested based on intent"""
