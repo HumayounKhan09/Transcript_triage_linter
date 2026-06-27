@@ -1,0 +1,41 @@
+Agent: Thank you for calling Keystone Mortgage Partners, this is Marcus. How can I assist you today?
+Caller: Hi Marcus, I'm calling because I found out there's a mechanics lien on my property and I'm worried about what it means for my mortgage. My name is Sharon Tillman, loan number 6612-9940.
+Agent: Hi Sharon. Let me pull up your account. Okay, I see your loan — a thirty-year fixed on a property in Charlotte, North Carolina. A mechanics lien can definitely be a concern depending on the circumstances. Can you tell me what happened?
+Caller: I had some renovation work done about eight months ago — a kitchen remodel. The contractor did the work, I paid him, but apparently he didn't pay one of his subcontractors. The subcontractor filed a mechanics lien against my property for eleven thousand three hundred dollars.
+Agent: I see. So you paid the general contractor in full but a downstream subcontractor wasn't paid and has now liened the property. That's a frustrating but unfortunately not uncommon situation.
+Caller: Right. I found out about the lien when I tried to refinance last month and the title company flagged it. The refinance got put on hold.
+Agent: Yes, a mechanics lien would typically prevent a clean title transfer or refinance because title companies won't insure a property with an open lien. The lien creates a cloud on title.
+Caller: My existing mortgage — does this affect it? Is your loan in jeopardy in any way?
+Agent: Your existing mortgage is already recorded and in first position. The mechanics lien is recorded after our mortgage, so it's junior to our lien. From the standpoint of your current mortgage, the lien doesn't affect your loan status or your obligation to make payments. However, it does affect your ability to refinance, sell the property, or take out additional financing until it's resolved.
+Caller: So I can't refinance until this is cleared?
+Agent: Generally no. Any new lender would require clear title, and the title insurance company would require the lien to be resolved before issuing a new title policy. So the lien would need to be released before your refinance could close.
+Caller: How do I get it released?
+Agent: There are a few paths. The most straightforward is paying the subcontractor the eleven thousand three hundred dollars — either yourself or in negotiation with them. If you get a release of lien from the subcontractor, the lien is extinguished and title can be cleared.
+Caller: I already paid my contractor. I shouldn't have to pay again.
+Agent: You're right that as a matter of fairness, this isn't your fault. However, in most states including North Carolina, mechanic's lien law allows a subcontractor or supplier to lien the property even if the property owner already paid the general contractor. The legal remedy is typically for you to pay the subcontractor and then pursue the general contractor for breach of contract or in small claims court.
+Caller: So I might have to pay eleven thousand twice — once to the contractor and now to the sub?
+Agent: That's the practical reality in many lien situations. It's unjust but it's how lien law works — the lien attaches to the property itself, not just the contractor relationship.
+Caller: What other options do I have?
+Agent: A few. First, if you had a construction contract with your general contractor that included a payment provision requiring them to pay subs before final disbursement, you may have grounds to demand they resolve the lien or face breach of contract claims. Have you contacted the general contractor about this?
+Caller: I called him and he said he's not responsible because the subcontractor overbilled him. He's disputing it.
+Agent: That dispute is between him and the sub, but unfortunately you're caught in the middle because it's your property that's liened. Second option — some states allow a property owner to file a bond to substitute for the lien, which releases the lien from the property while the dispute is resolved. This is called a mechanic's lien bond or a lien release bond. You'd want to consult with a real estate attorney in North Carolina about whether that's available to you.
+Caller: How much would a bond cost?
+Agent: Typically a lien release bond costs ten to fifteen percent of the lien amount annually from a surety company. On eleven thousand three hundred dollars, that might be roughly eleven hundred to seventeen hundred dollars per year. The bond substitutes for the lien, allowing your title to be cleared, while the dispute plays out.
+Caller: That seems more manageable. Would a bonded lien allow me to refinance?
+Agent: Potentially. Some title companies and lenders will accept a bonded lien because the property itself is no longer clouded — the bond is a substitute security. You'd need to confirm with your refinance lender that they'd accept that arrangement. Not all lenders do.
+Caller: What about just challenging the lien? Can I fight it?
+Agent: Yes. If the lien was improperly filed — wrong legal description, missed filing deadlines, improper notice — it can potentially be challenged and removed. In North Carolina, mechanics liens have specific statutory requirements. A real estate attorney can review the lien for technical defects.
+Caller: I definitely want to talk to an attorney. Is there anything from the mortgage side I need to do right now?
+Agent: From our perspective, your loan is in good standing and we're not taking any adverse action. The lien doesn't currently affect your payment obligations or loan terms. If you do proceed with a refinance through us or anyone else, you'd need the lien resolved before closing.
+Caller: And if I have to pay the subcontractor and settle this — do I need to send you any documentation?
+Agent: Only if you're refinancing. Once the lien is released, you'd get a Satisfaction of Lien or Lien Release from the subcontractor — it needs to be recorded with the county register of deeds. The title company for your refinance would then verify the lien is cleared.
+Caller: Recorded with the county — so it's a public record process.
+Agent: Correct. The mechanics lien was recorded with the county, and the release needs to be recorded there as well to clear the title.
+Caller: Okay. I'm going to consult with an attorney this week. Marcus, is there anything specific I should ask an attorney about regarding my mortgage?
+Agent: You might ask them about North Carolina's mechanic's lien statute of limitations — liens have to be enforced within a certain period or they expire. Also ask about your subrogation rights against the general contractor, and about the lien bond option we discussed. Those are the most relevant angles for your situation.
+Caller: Subrogation rights — meaning I could go after the contractor after I pay the sub?
+Agent: Exactly. If you're forced to pay a debt that was the contractor's responsibility, you may have a right to recover that amount from the contractor through legal action.
+Caller: Good to know. Thank you, Marcus. You've been incredibly helpful.
+Agent: I'm glad. Real estate attorneys deal with mechanics lien situations regularly so don't hesitate to get that consultation. Is there anything else I can help you with today?
+Caller: No, that's all. Thank you so much.
+Agent: Of course. Have a good day, Sharon.

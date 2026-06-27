@@ -1,0 +1,45 @@
+Agent: Meridian Home Lending. This is Rachel. How can I assist you today?
+Caller: Hi Rachel. My name is Paula Jernigan. I have an escrow account and I know there's a property tax installment coming up. I'm a little nervous about whether you've actually set aside enough to pay it. I want to understand the status of my account before the disbursement happens.
+Agent: Hi Paula. That's a very reasonable thing to want to verify. Let me pull up your account so we can look at this together. Can I get your loan number?
+Caller: It's 7-7-8-4-1-0-2.
+Agent: And the property address?
+Caller: 450 Clearwater Drive, Sacramento, California, 95826.
+Agent: Last four of your Social?
+Caller: 2-2-4-8.
+Agent: Thank you. I have your account. And I can see your escrow account details right here. So you're in California, where property taxes are paid in two installments — the first installment is due November first and delinquent December tenth, and the second is due February first and delinquent April tenth. Is it the first installment you're calling about?
+Caller: Yes, the one coming up in November. I just want to make sure you have enough saved.
+Agent: Absolutely, let's look at this carefully. Your current escrow balance is three thousand, seven hundred and forty-one dollars. The anticipated first installment amount, based on the most recent tax bill we have on file, is two thousand, eight hundred and nineteen dollars.
+Caller: So you have more than enough for the first installment.
+Agent: You do. After the first installment is paid, your projected remaining balance would be about nine hundred and twenty-two dollars. Now, the second installment is roughly the same amount — two thousand, eight hundred and nineteen dollars as well, since your total annual tax bill is approximately five thousand, six hundred and thirty-eight dollars split evenly.
+Caller: After the first installment, will there be enough left for the second installment in February?
+Agent: This is where it gets interesting. After the first disbursement in November, you'd have about nine hundred and twenty-two dollars remaining. Between November and February first, you'd make approximately three monthly payments, each with an escrow component. Let me calculate what that looks like.
+Caller: Please.
+Agent: Your monthly escrow contribution is five hundred and thirty-nine dollars. Over three months, that's an additional one thousand, six hundred and seventeen dollars. Add that to the nine hundred and twenty-two dollar balance after November, and you'd have approximately two thousand, five hundred and thirty-nine dollars by February first.
+Caller: And the second installment is two thousand, eight hundred and nineteen dollars. So that's a shortfall of about two hundred and eighty dollars.
+Agent: You did that math very quickly and you're right. There is a slight projected shortfall for the second installment. This is actually a common issue with escrow accounts — the calculations don't always line up perfectly depending on when the tax bills come in and when disbursements are made.
+Caller: So what happens if there's not enough to pay the second installment?
+Agent: If the balance is insufficient, we have a couple of options. We can advance the funds to pay the tax bill on time and carry a negative escrow balance, which would then be corrected over the next year through your annual escrow analysis. Or we'd contact you in advance if the shortfall is anticipated to be significant.
+Caller: Can you advance the funds? Or would my taxes be paid late?
+Agent: We would advance the funds. We are required to pay your taxes on time as part of our servicing obligation. We would not let your taxes go delinquent due to an escrow shortfall. You might see a negative balance reflected in your account temporarily, but the tax payment would be made.
+Caller: And how would I repay the shortfall?
+Agent: At your next annual escrow analysis, the shortfall would be factored in. Your monthly escrow contribution might be adjusted slightly upward for the following year to prevent the same situation from recurring.
+Caller: Could I pay extra into escrow now to avoid the shortfall entirely?
+Agent: Yes. You can make a voluntary escrow contribution — a payment specifically designated to go into your escrow account. If you paid in about three hundred dollars now, your escrow would have a comfortable buffer for the February installment.
+Caller: How do I do that?
+Agent: You can do it through our online portal under the payments section — there's an option to make an escrow-only payment. Or you can call in and process it over the phone. The amount would be credited directly to your escrow account, not to principal or interest.
+Caller: Let's do that over the phone right now. Three hundred dollars.
+Agent: I can process that. I'll need your bank routing and account number.
+Caller: Routing is 1-2-1-1-4-2-3-5-2. Account is 7-7-4-4-0-1-8-8-5.
+Agent: Routing 1-2-1-1-4-2-3-5-2, account 7-7-4-4-0-1-8-8-5. Processing three hundred dollars to your escrow account on loan 7-7-8-4-1-0-2. Is that all correct?
+Caller: That's correct.
+Agent: Done. Your confirmation number is ESC-8-8-2-3-4-4-5. Your escrow balance after this posts will be approximately four thousand and forty-one dollars.
+Caller: That gives me a comfortable cushion for both installments then.
+Agent: With the payments you'll make over the next few months, yes, you should be in a solid position through the February installment and still have a balance going into spring.
+Caller: Good. One more question. When exactly will you disburse the first installment? Like on November first or earlier?
+Agent: We typically disburse tax payments a few days early to ensure they arrive before the due date. For the November first due date, you'd likely see the disbursement go out in late October, around the twenty-eighth or twenty-ninth.
+Caller: Will I see that in the portal when it happens?
+Agent: Yes. The disbursement will show in your escrow activity section in the portal. You'll see the payment date, the amount, and the payee — your county tax authority.
+Caller: Perfect. That's all I needed to know. Thank you for going through all of that with me, Rachel.
+Agent: Of course, Paula. You asked exactly the right questions. Staying ahead of your escrow balance is smart. Have a great day.
+Caller: You too. Goodbye.
+Agent: Goodbye.

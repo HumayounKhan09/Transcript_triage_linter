@@ -1,0 +1,44 @@
+Agent: Thank you for calling Cornerstone Home Loans, this is Carlos. Can I pull up your account?
+Caller: Loan number is 7734-991-02. My name is Helen Brockway.
+Agent: Thank you, Ms. Brockway. Can you verify the last four of your Social and property address?
+Caller: 4471, and it's 822 Sycamore Way, Baltimore, Maryland 21218.
+Agent: Got your account up. How can I help you today?
+Caller: I received a denial letter for my loan modification application. It doesn't explain very clearly why, and I want to know what my options are going forward.
+Agent: I'm sorry to hear about the denial, Ms. Brockway. That's always a frustrating outcome, especially after going through the application process. Let me look at the denial on your account and see what reason was noted. I can see the denial letter was generated June 18th, 2026. The stated reason on our end is that your income did not support a modified payment within the required debt-to-income threshold for the modification program offered.
+Caller: What does that mean exactly?
+Agent: Loan modifications have eligibility parameters — one of the key ones is your debt-to-income ratio, which compares your total monthly debt obligations to your gross monthly income. For the modification program that was evaluated for you, the guideline is that your total monthly debt payments cannot exceed a certain percentage of your gross income. Based on the income documents you submitted, the calculated modified payment would have exceeded that threshold.
+Caller: What was my DTI?
+Agent: Your gross monthly income as submitted was $3,800.00. The proposed modified payment was $1,492.00. Adding your other debts — we see a car payment and minimum credit card payments totaling approximately $680.00 per month — your total monthly obligations would have been $2,172.00, giving a back-end DTI of 57.2%. The program cap is 50%.
+Caller: I had no idea that was the cutoff. Can I provide different documentation?
+Agent: You can appeal the decision if you believe the income figure used was incorrect or if you have additional income that wasn't captured in the original application. Do you have any income sources that weren't included — part-time work, rental income, Social Security, anything like that?
+Caller: Actually, yes. My mother contributes $400 a month toward household expenses. Would that count?
+Agent: Non-borrower household income can be considered in some modification programs as a contributing factor. It doesn't automatically qualify as income for DTI purposes unless the contributing person is a co-borrower, but it can be used as a compensating factor. More significantly — do you have any other income sources you receive personally?
+Caller: I do some freelance work, occasional consulting. I made about $8,200 last year from it.
+Agent: That's approximately $683.00 per month in average self-employment income. If you can document it with your tax return, a profit-and-loss statement, or bank deposits, that could change your DTI significantly. Let me run the numbers. If we add $683.00 to your $3,800.00, your gross monthly income becomes $4,483.00. Your back-end DTI with the proposed modified payment drops to 48.4%. That's below the 50% threshold.
+Caller: So I could qualify if I include that?
+Agent: Potentially, yes. You have thirty days from the denial letter to submit a formal appeal with new or corrected documentation. The appeal would need to include the additional income documentation — your Schedule C from last year's tax return showing the freelance income, and ideally two to three months of bank statements showing the deposits.
+Caller: I filed my taxes. I can get the Schedule C.
+Agent: That's exactly what you need. Also, if the $400 contribution from your mother is something she can document in a letter — a written statement saying she contributes $400 monthly toward household expenses — we can include that as a compensating factor narrative even if it doesn't directly count in the income calculation.
+Caller: How do I file the appeal?
+Agent: Your denial letter includes an appeal request form — there should be a page attached to the letter. You complete that form, attach your new income documentation, and return it to our Loss Mitigation department. The address is on the letter — or you can upload it through our web portal under "Document Upload," fax to 1-877-334-2100, or mail to P.O. Box 8801, Charlotte, North Carolina 28201. I'd recommend uploading or faxing for speed.
+Caller: What happens during the appeal?
+Agent: The appeal goes back to our underwriting team for a fresh evaluation using the new information. They must make a decision within thirty days of receiving the complete appeal. If the appeal is approved, they'll issue a trial modification period — typically three months of trial payments at the modified amount — and then you sign a permanent modification agreement.
+Caller: And if the appeal is also denied?
+Agent: Then you'd receive a second denial letter and the modification path would be exhausted for this program cycle. At that point, you'd have additional options. One is an independent appeal through our Consumer Relations department, separate from the loss mitigation appeal. Another is filing a complaint with the Consumer Financial Protection Bureau — we're required to respond to CFPB complaints within fifteen business days. A third option is consulting a HUD-approved housing counselor, who can sometimes identify programs we haven't evaluated, including state-level assistance programs.
+Caller: Are there state programs in Maryland?
+Agent: Yes. Maryland has a homeowner assistance fund and the Maryland Mortgage Program has offered loss mitigation counseling in the past. I'd recommend contacting the Maryland Department of Housing and Community Development. A HUD-approved counselor can help you navigate those. Their service is free.
+Caller: That's good to know. What about other modification programs? Could I be evaluated for something different?
+Agent: Your loan is a conventional loan held by a private investor, not Fannie Mae or Freddie Mac, which limits the available programs. However, our investor does have a proprietary modification option with slightly different eligibility criteria. If the standard program appeal is denied, we can evaluate you under that option. Proprietary modifications sometimes have different DTI limits or term extension options.
+Caller: Why wasn't I evaluated for that the first time?
+Agent: Standard practice is to evaluate the primary program first. Proprietary programs are often considered after the standard program is exhausted. I want to be transparent about that — it's a process limitation, not something anyone intended to withhold.
+Caller: Okay. Let's focus on the appeal first with the new income documentation.
+Agent: Agreed. That's the cleanest path. Get your Schedule C and your bank statements together and submit the appeal as soon as possible — ideally within the next ten days to give the reviewers full time within the thirty-day window. Your appeal reference number will be the same as your original case number, which I can confirm for you.
+Caller: What is that number?
+Agent: Your modification case number is MOD-2026-112740. Use that on all appeal documents.
+Caller: MOD-2026-112740. I'll write that down.
+Agent: And note your appeal deadline — thirty days from June 18th puts it at July 18th, 2026.
+Caller: Okay. Thank you, Carlos. I felt hopeless when I got that letter, but there's more to try.
+Agent: Absolutely there is. Your situation is not closed. The additional income documentation is a real path to approval. Please don't give up.
+Caller: I won't. Thank you.
+Agent: Of course. Have a good day, Ms. Brockway.
+Caller: You too. Goodbye.

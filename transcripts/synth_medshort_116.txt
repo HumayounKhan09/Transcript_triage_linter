@@ -1,0 +1,37 @@
+Agent: Thank you for calling Meridian Loan Servicing, this is Nicole. How can I help you today?
+Caller: Hi Nicole. My name is Josephine Kwon. About two years ago I did a short sale on a property. I've been worried ever since about whether the lender can still come after me for the difference between what the home sold for and what I owed. I never got any clear answer.
+Agent: Hi Ms. Kwon. I can try to help with this, though I want to be upfront that some aspects of this may require legal advice. Let me see what I can find. Can I get your old loan number if you have it?
+Caller: I do have it. It's 6612-0091.
+Agent: And the property address that was sold?
+Caller: 4411 Briarwood Court, Sacramento, California, 95835.
+Agent: And last four of your Social?
+Caller: 3367.
+Agent: Thank you. I'm pulling up the account. This would be a closed account since the property was sold. Let me look at the short sale records. I see the property closed in the short sale approximately twenty-two months ago. The sale price was $318,000 and the outstanding balance at that time was $387,500. The deficiency — the difference — was approximately $69,500.
+Caller: That's the number I've been losing sleep over. Can they come after me for that?
+Agent: Let me look at what's noted in the file regarding the deficiency. I see a short sale approval letter was issued. This is critical — the terms in that approval letter determine whether the lender waived the deficiency.
+Caller: I have that letter somewhere but I couldn't understand all the legal language.
+Agent: Let me read what we have on file. The approval letter in our system states — and I'm quoting — "Upon completion of the short sale, servicer agrees to release lien and will not seek a deficiency judgment." That's the key language you're looking for.
+Caller: Oh. So they can't come after me?
+Agent: Based on the language in the approval letter, the servicer — which was us — waived the right to pursue a deficiency judgment. That's a written waiver and it's significant.
+Caller: So it's done? They can't come after me two years later?
+Agent: Based on that approval language, the servicer has waived its right. However, I want to note a few things. First, this is the servicer's commitment — the investor who owned the loan is a separate party. In some cases, if the servicer waives deficiency but the investor has separate rights, there can be complications. Let me check who the investor was.
+Caller: Okay.
+Agent: The loan was owned by Freddie Mac. Freddie Mac's standard short sale guidelines include a deficiency waiver when the approval letter contains that language. So you should be covered on both the servicer and investor side.
+Caller: That's a relief. But I've also heard something about taxes on forgiven debt. Someone told me I might owe taxes on the $69,500 that was forgiven.
+Agent: That's a very important point and it's separate from whether the lender can pursue you. Historically, cancelled debt is considered taxable income by the IRS. If $69,500 of debt was forgiven, that amount could theoretically be reportable as income on your tax return.
+Caller: So I could owe income tax on almost seventy thousand dollars?
+Agent: Potentially, though there are very important exclusions. The Mortgage Forgiveness Debt Relief Act, and its various extensions, excluded cancellation of mortgage debt on a primary residence from taxable income. Did you live in this property as your primary residence?
+Caller: Yes, it was my primary home.
+Agent: Then the exclusion may apply. Did you receive a 1099-C from the lender?
+Caller: I never got one. Should I have?
+Agent: Lenders are generally required to issue a 1099-C for cancelled debt of $600 or more. The fact that you didn't receive one is worth noting — it may have been lost in the mail, or there may be a reason one wasn't issued. I'd strongly recommend speaking with a tax professional about this because the rules and their application to your specific year and circumstances are complex.
+Caller: It's been two years. Am I still at risk for the tax issue?
+Agent: The IRS has statutes of limitations for tax assessments, but if you didn't report the forgiven debt and a 1099-C was filed with the IRS, they could match it and send a notice. A tax professional can review your returns for the year of the short sale and advise whether an amended return or other action is needed.
+Caller: I don't want to open a can of worms if I don't have to.
+Agent: I understand, but it's better to understand your actual situation than worry about it indefinitely. A CPA or tax attorney familiar with cancelled debt can give you a clear picture quickly and inexpensively.
+Caller: You've actually given me more clarity in fifteen minutes than I've gotten in two years. Thank you.
+Agent: I'm glad I could help. To summarize: on the deficiency, the approval letter language waives the lender's right to pursue you, and the Freddie Mac guidelines support that. On the tax side, there are potential exclusions for primary residences, but you should verify with a tax professional.
+Caller: I will do that. Thank you so much, Nicole.
+Agent: Of course. Is there anything else I can help you with today?
+Caller: No, that's all. Have a great day.
+Agent: You too, Ms. Kwon. Take care.

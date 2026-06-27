@@ -1,0 +1,51 @@
+Agent: Good morning, Rural Development Mortgage Services, this is Derek. Can I start with your loan number?
+Caller: Yes, it's 2207-51884.
+Agent: Thank you. And your name and last four of Social?
+Caller: Patricia Lindqvist. Social ends in 0447.
+Agent: Thank you, Ms. Lindqvist. I see your property at 612 County Road 18, Creston, Iowa. This is a USDA Section 502 Direct loan. Is that correct?
+Caller: Yes, the USDA Rural Development loan. I've had it about six years. I'm calling because I've had a reduction in income and I'm worried I might have trouble making my payments soon. I wanted to understand what options might be available.
+Agent: I'm glad you called proactively, Ms. Lindqvist. USDA Rural Development loans have some unique servicing features that differ from conventional or FHA loans, so it's worth going through your options specifically. Let me pull up your loan details. Your current balance is $87,440.22, interest rate of 3.0 percent, and your current payment is $414.18 per month. Is that right?
+Caller: Yes. I've always paid on time. My concern is I'm going back to school part-time and my hours are being reduced.
+Agent: Good context. Because your loan is a USDA Section 502 Direct loan, it was originated by the USDA itself through your local Rural Development office, not through a private lender. This means the servicing is also handled by USDA — which is why you're calling us — and the workout options are somewhat different.
+Caller: My neighbor told me USDA has a special moratorium program?
+Agent: They may be thinking of the Special Forbearance program, which USDA does offer. Let me explain the full toolkit. The first option is a moratorium on payments. USDA Direct loans can qualify for a payment moratorium — a temporary suspension of payments — for up to two years in cases of severe hardship. This is more generous than most programs.
+Caller: Two years? That seems like a long time.
+Agent: It is, and it's one of the unique benefits of USDA Direct loans. However, interest continues to accrue during the moratorium, and the deferred payments can be added back to the loan balance. It's available for situations where the hardship is significant and temporary.
+Caller: My situation isn't quite that extreme. I'll still have income, just reduced.
+Agent: That's actually a better position to be in. You might be a better candidate for either a Special Forbearance or a loan modification. Let me explain both.
+Caller: Please.
+Agent: Special Forbearance under USDA is a temporary reduction or suspension of payments for borrowers experiencing a short-term hardship — illness, temporary job loss, unexpected expenses. It typically covers a period of up to 12 months. During forbearance, missed or reduced payments are tracked and resolved through a repayment plan or by adding to the loan balance afterward.
+Caller: That sounds like it might fit. How do I apply?
+Agent: You'd contact your local USDA Rural Development office — the one that originated your loan — and request a Special Forbearance. You'll need to submit a completed hardship application explaining your situation, along with income documentation. Because your loan is administered directly by USDA rather than a private servicer, the local office has a lot of discretion.
+Caller: What about a modification? Is that different?
+Agent: Yes. USDA loan modifications can involve reducing the interest rate further, extending the loan term, or both. Importantly, USDA Direct loans already have interest rate subsidy — your rate of 3.0 percent likely includes a subsidy based on your income. If your income is decreasing, you might actually qualify for a higher subsidy rate, which could reduce your effective payment further without a formal modification.
+Caller: Wait — my payment could actually go down because my income is going down?
+Agent: Potentially, yes. The USDA Section 502 Direct program includes an interest credit subsidy that reduces the note rate based on your income relative to the area median income. Each year, or when there's a significant income change, USDA recalculates your payment. If your income drops substantially, you might qualify for a lower effective rate, meaning a lower payment.
+Caller: I never knew that. I thought my payment was fixed.
+Agent: Many borrowers don't realize this because when you first set up the loan, your income was at a certain level and that determined the initial subsidy. But USDA is supposed to review income annually. When was the last time your income was reviewed?
+Caller: About two years ago, I think. They mailed something that I signed.
+Agent: It may be time for a fresh income review regardless of the forbearance question. If your income has changed significantly, your payment subsidy could be recalculated. This is a separate process from forbearance.
+Caller: How do I request that review?
+Agent: Contact your local USDA Rural Development office directly. They handle income reviews, forbearance requests, and modifications. The national USDA Rural Development service center number is 1-800-414-1226. You can find your local office at rd.usda.gov. Given that your loan was originated through the Iowa USDA office, I'd suggest contacting the Iowa Rural Development state office as well.
+Caller: Is there anything you can do from this end?
+Agent: Our role here is to service the loan on USDA's behalf, meaning we handle payment processing and account maintenance. The forbearance and modification decisions are made by USDA directly. I can note your account that you've called to proactively discuss hardship options and that you've been directed to contact the local RD office. That notation could be helpful if there's ever a question about when you first indicated hardship.
+Caller: That's a good idea. Can you also tell me what my loan-to-value is? I was wondering if there was any equity.
+Agent: Your balance is $87,440. Can you tell me what you believe the current property value is?
+Caller: My county assessed it at $105,000 last year. Comparable sales in the area suggest it might be worth $115,000 now.
+Agent: At $115,000 value and $87,440 balance, your LTV would be about 76 percent. That's not a large amount of equity, but there is some. That said, USDA loans have a specific rule about equity and payoff — there's a recapture provision on USDA Section 502 Direct loans.
+Caller: What's a recapture provision?
+Agent: Because the government subsidized your interest rate over the life of the loan, USDA has the right to recapture some of that subsidy when you sell or refinance. The recapture amount is calculated based on how much subsidy you received, how long you've been in the loan, and how much your home has appreciated. It's capped at 50 percent of the value appreciation.
+Caller: So if I sell, I might owe USDA some money back?
+Agent: Potentially, yes. This is something many USDA borrowers aren't aware of. You can request a recapture calculation from USDA at any time to understand what that potential liability would be. It wouldn't apply in a forbearance situation, only if you sell or refinance.
+Caller: Good to know. I'm not planning to sell, but I like knowing.
+Agent: One more thing worth mentioning — if your hardship is related to being in school, some educational financial aid situations affect income calculations differently. USDA counts certain types of income and excludes others. When you contact the local RD office, make sure to tell them you're going back to school part-time because that framing affects how they evaluate your hardship and income going forward.
+Caller: My income is dropping because hours are reduced, not because of school directly. But school is why I'm taking fewer hours.
+Agent: That's helpful context to share with them. The root cause of hardship matters in how they document and process your case. Have your schedule or any documentation from your employer about the reduced hours, along with your school enrollment verification, to present together.
+Caller: That makes sense. So my action steps are: call USDA at 1-800-414-1226, contact the Iowa Rural Development office, ask about income review and special forbearance, and gather documentation?
+Agent: Exactly right. And call them soon — before you actually miss a payment if at all possible. Proactive contact is always viewed more favorably, and some programs have better options available before delinquency begins.
+Caller: I was worried I was overreacting by calling this early.
+Agent: You're not. This is exactly the right time to call. Early intervention leads to the best outcomes. Is there anything else I can help you with today?
+Caller: No, I think I have a clear path forward. Thank you, Derek.
+Agent: Of course. Good luck with school, Ms. Lindqvist. Don't hesitate to call us as things develop.
+Caller: Thank you very much. Goodbye.
+Agent: Goodbye.

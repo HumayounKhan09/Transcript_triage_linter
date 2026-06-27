@@ -1,0 +1,50 @@
+Agent: Horizon Mortgage Servicing, this is Sandra, how can I help you today?
+Caller: Hi, yes, I'm calling because I'm a month behind on my mortgage and I don't know what to do. I'm on a fixed income — I'm retired — and I had some unexpected expenses in November and things just kind of spiraled.
+Agent: I'm sorry to hear that you're going through a tough time. You've called the right place and we have programs for exactly this kind of situation. Let me pull up your account. What's your loan number or address?
+Caller: The address is 2290 Elmhurst Road, Des Moines, Iowa. And I think my loan number is 528049.
+Agent: And your name and last four of your Social?
+Caller: Dorothy Callahan. Social ends in 3377.
+Agent: Thank you Dorothy. I've got your account here. You're right, I can see you have one missed payment — November's payment is showing past due. Your regular payment is one thousand and forty-four dollars. Is that right?
+Caller: Yes, that's right. I get Social Security and a small pension, about two thousand two hundred a month total. I've been paying this mortgage for twelve years and I've never been late before.
+Agent: I can see that in your account — twelve years of on-time payments. That's a really strong history and it matters when we look at your options.
+Caller: I'm embarrassed to be calling. I just need a little help getting back on track.
+Agent: Please don't be embarrassed. This is what we're here for. Let me walk you through what's available. Since you're one payment behind and your income is fixed, we have a couple of repayment options that might work well for you.
+Caller: Okay. What are they?
+Agent: The first is a simple repayment plan. Rather than paying the full past-due amount — one thousand forty-four dollars — in a lump sum, we spread that over several months by adding a portion to your regular payment. For example, over six months, you'd add about one hundred and seventy-four dollars to your regular payment each month. So your total payment during the repayment period would be about one thousand two hundred and eighteen dollars.
+Caller: Is that the only option?
+Agent: No, there's also a twelve-month repayment plan, which would add about eighty-seven dollars per month — making your payment about one thousand one hundred and thirty-one dollars. And there's also the possibility of a deferral.
+Caller: What's a deferral?
+Agent: A deferral means we move the missed payment to the end of your loan. So instead of paying it back in monthly increments, you'd just owe it when the loan matures or when you sell or refinance the home. Your monthly payment would go back to the regular amount of one thousand forty-four dollars right away.
+Caller: Oh, that sounds like the easiest option. Why would I do a repayment plan instead?
+Agent: The deferral is certainly easier on your month-to-month budget, but the deferred amount continues to accrue interest over the remaining life of the loan. So you'd end up paying a bit more overall. The repayment plan costs less in the long run even though it's harder month to month.
+Caller: How much more would the deferral cost me?
+Agent: On one missed payment of one thousand forty-four dollars at your interest rate of four point two five percent, deferred over, let's see — your loan matures in about eighteen more years — you'd pay an additional roughly eight hundred to nine hundred dollars in interest over that time compared to just paying it back on a repayment plan.
+Caller: So I'd pay nine hundred more over time but only eighty-seven more per month? On my budget, the monthly matters more.
+Agent: That's a perfectly reasonable way to think about it. For someone on a fixed income where monthly cash flow is the primary concern, a deferral can be a very good choice. It immediately normalizes your payment and takes the pressure off.
+Caller: Does this hurt my credit score?
+Agent: The November payment has already been reported as thirty days past due since it's been over thirty days. I can't undo that reporting. However, once you're set up on either a repayment plan or deferral and your payments are current, no further negative reporting should occur.
+Caller: Oh. So my credit is already affected?
+Agent: I'm afraid so — once a payment is more than thirty days past due, it does get reported. But one late payment after twelve years of perfect history has much less impact than multiple lates. And going forward, staying current is the most important thing.
+Caller: I feel awful about that. I've always had good credit.
+Agent: I understand. But truly, one event in twelve years is not going to ruin your credit. Lenders look at patterns, and your history is overwhelmingly positive. Focus on getting back on track.
+Caller: Okay. I think I want to do the deferral. How do I set that up?
+Agent: I can start the process right now. I do need to confirm a few things. Your income — you mentioned about two thousand two hundred a month from Social Security and pension. I'll need to document that. Do you have your most recent Social Security award letter or pension statement?
+Caller: I have my bank statements. All my income is deposited directly.
+Agent: Bank statements work. I'll also need a brief explanation of why you fell behind — it can be just a sentence or two explaining the unexpected expenses in November.
+Caller: My furnace went out and I had to replace it. That was thirty-two hundred dollars. It wiped out my savings.
+Agent: That's exactly the type of documentation we need. A simple written statement saying your furnace failed in November, requiring an unplanned expense of thirty-two hundred dollars, which caused you to be unable to make your mortgage payment. Keep it brief and factual.
+Caller: I can write that up today. Can I email it to you?
+Agent: You can upload it to our document portal online. Let me give you the case number for this request so the documents get matched to your application. Your case number is PAP-2024-55103.
+Caller: PAP-2024-55103. Can you also tell me what happens if something like this happens again? I don't have much savings.
+Agent: That's an important question. I'd encourage you to build up a small emergency buffer if at all possible — even a few hundred dollars specifically for mortgage payments. I know that's easier said than done on a fixed income. I'd also suggest looking into your state's homeowner assistance fund — Iowa has a HAF program that may have resources for exactly this situation.
+Caller: I didn't know about that. What is that?
+Agent: The Homeowner Assistance Fund is a federal program administered by individual states. Iowa Housing Corporation runs it. They can sometimes provide temporary assistance with mortgage payments for homeowners in hardship. The eligibility requirements vary, but it might be worth a call. The number for Iowa Housing is 1-800-432-7230.
+Caller: I'll look into that. Okay. So my next steps are: upload my bank statements and a hardship letter to the portal, reference the case number, and then what?
+Agent: Once we receive your documents, our team reviews the deferral request within five to seven business days. You'll receive a letter confirming approval and the new terms. After that, just make your regular payment of one thousand forty-four on December 1st and going forward as normal.
+Caller: That simple?
+Agent: That simple. And Dorothy — please don't hesitate to call us again if something comes up. Calling early makes a big difference. You were already one month behind when you called; catching it at one month is much easier than catching it at three.
+Caller: I waited a week after I knew I had a problem. I was embarrassed.
+Agent: Please don't wait next time. We'd rather hear from you early. Is there anything else I can help with today?
+Caller: No, I think I'm all set. Thank you Sandra, you were very kind.
+Agent: My pleasure, Dorothy. Take good care and things will get back on track. Goodbye.
+Caller: Thank you dear. Goodbye.

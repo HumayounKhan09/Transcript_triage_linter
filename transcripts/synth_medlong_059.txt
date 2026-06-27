@@ -1,0 +1,57 @@
+Agent: Thank you for calling Westfield Mortgage Servicing. This is Deepa. Can I get your loan number?
+Caller: 2244-6609. Terrence Whitfield.
+Agent: Thank you, Mr. Whitfield. Last four of your Social and property zip code?
+Caller: 8833. Zip code is 77042.
+Agent: Thank you. I've got your account open. How can I help you today?
+Caller: I've been looking at my mortgage statements for the past 18 months and there are all kinds of fees on here that I don't think are right. I've got NSF fees, late fees, attorney fees. I need to go through all of them and I want them disputed or explained.
+Agent: Absolutely, Mr. Whitfield. That's completely your right and I'm happy to go through the fee history with you. Let me pull up the detailed transaction history and we'll go through it chronologically. I want to make sure every charge is legitimate and I'll flag anything that looks questionable. Can you tell me the approximate time period you're concerned about?
+Caller: January 2025 through right now. June 2026. Eighteen months.
+Agent: I have the transaction history pulled up. Let me look at the fees specifically. I'm going to list what I see and you can tell me which ones you want to discuss. Ready?
+Caller: Yes.
+Agent: Starting in January 2025: January 8th, NSF fee, $35. January 22nd, NSF fee, $35. February 14th, NSF fee, $35. There are NSF fees in most months through May 2025. I count twelve NSF fees totaling $420.
+Caller: Okay. Those I want to look at. I've been banking for thirty years and I've had maybe two NSF situations ever. Twelve in five months seems wrong.
+Agent: Let me look at the underlying transaction dates. The NSF fees correspond to electronic payment attempts. It looks like you had a recurring ACH set up. Let me look at the bank account on file. The ACH was drawing from account ending in 4412.
+Caller: That account was closed in October 2024. I moved my banking to a different institution. Did anyone tell me the ACH would keep trying to pull from a closed account?
+Agent: Let me look at whether there was any communication to you about failed ACH attempts. I see the first NSF was January 8th, 2025. Prior to that, in November and December 2024, the ACH attempts were also returning NSF — I see two more in November and December. But looking at the notes, I don't see any outbound contact to you — no letter, no call documented — notifying you of the failed payments.
+Caller: So they were failing to pull from a closed account for months and nobody called me?
+Agent: That's what the file indicates, and I want to be candid with you — if the servicer was repeatedly attempting to draw from an account that was returning NSF without notifying you, and if you weren't aware those attempts were failing, then these fees may not be appropriate. At minimum, the failure to notify you is a concern.
+Caller: I want all twelve of those NSF fees reversed. That's $420.
+Agent: I'm going to flag all twelve for review. I can reverse them conditionally pending supervisor confirmation. Let me note this in the file. Okay, what's next?
+Caller: The late fees. I see late fees in almost every month for a year. My payment is $1,640 and I was being charged $82 per month in late fees.
+Agent: I can see the late fees. There are eleven late fees of $82 each, totaling $902. These are assessed when the payment is received after the 15th of each month. Now, if the ACH was failing and you weren't receiving notice, it's possible you weren't making alternate arrangements because you thought the ACH was working. Is that what happened?
+Caller: Exactly. I thought I had autopay set up. I thought my mortgage was paying itself. I had no idea it was failing every month because nobody told me.
+Agent: That is a critical piece of context. The failure mode here — if the servicer's system kept attempting to draft from a closed account without alerting you — would mean you reasonably believed your payments were being made. I would characterize this as a constructive failure to notify. These late fees are also disputable on that basis.
+Caller: I want those reversed too. All eleven of them. That's $902.
+Agent: Noted. I'm flagging all eleven late fees as part of this dispute. Now let me look at the attorney fees you mentioned.
+Caller: There are attorney fees from — I wrote it down — March 15, 2026. $1,850. And then another one May 1, 2026, for $975. Total of $2,825 in attorney fees.
+Agent: I can see those. Let me look at the underlying reason codes for those charges. The March 15th charge of $1,850 is labeled as foreclosure referral attorney fee. The May 1st charge of $975 is labeled as foreclosure attorney review and demand letter fee.
+Caller: Nobody sent me a foreclosure notice. Why are there foreclosure attorney fees?
+Agent: Let me look at the account delinquency history. Given the NSF situation we described, your account was accruing delinquency throughout 2025 without you knowing. By early 2026, you were likely several months past due from the servicer's perspective even though you believed you were current.
+Caller: I literally didn't know. I was getting statements but I didn't look closely enough at them — I'm not proud of that — but I thought the ACH was working.
+Agent: I understand. Here's the issue with the attorney fees. Once a loan is referred to an attorney for foreclosure processing, the borrower is typically responsible for those fees under the mortgage agreement. However, there is a significant question here about whether the referral to foreclosure was appropriate given that the root cause of the delinquency was a servicer-side failure to notify you of failed ACH drafts.
+Caller: So they caused the problem by not telling me and then charged me for the foreclosure they started because of the problem they caused?
+Agent: That's a reasonable characterization of the situation as you've described it. I want to be clear — I can't make a unilateral determination that the attorney fees are waived. That decision requires review by our fee dispute team and potentially our compliance department. But I can tell you that the case for disputing those fees is strong if the notification failure can be documented.
+Caller: Can you pull the old statements? The statements from 2024 and early 2025? Because I think those statements should show the ACH attempting and failing — and I never called in because I didn't see any indication of a problem.
+Agent: That's a great point. The statements from that period would reflect the payment history. Statements are available in your online portal going back 24 months. You can also request paper copies by calling our document request line at 1-800-444-9231. For the dispute, I'd recommend pulling your bank statements from the closed account showing it was closed in October 2024, and comparing that against the NSF fee dates.
+Caller: I have those. I already requested records from the old bank. I have a letter from them confirming the account was closed October 14, 2024.
+Agent: That documentation is exactly what you need. With that letter, you can establish the factual basis that the ACH target account was closed before the first NSF, which supports the argument that all subsequent NSFs and related consequences — including the late fees and the attorney fees — flow from the failure to notify.
+Caller: So what do I do? How do I formally dispute all of this?
+Agent: I'm going to submit a formal fee dispute on your behalf today for the full $4,147 — that's the $420 in NSF fees, $902 in late fees, and $2,825 in attorney fees. You'll receive written confirmation of the dispute within three business days. Then you need to mail or email supporting documentation — specifically that bank letter confirming the account closure date — to disputes@westfieldmortgage.com or by mail to our dispute processing center at 800 Commerce Way, Houston, Texas 77002.
+Caller: How long does the dispute take to resolve?
+Agent: The formal resolution period is 30 business days from the date we receive your supporting documentation. If any fees are approved for reversal, they'll be credited to your account and documented in writing.
+Caller: What's my current past-due balance? Like what do I actually owe right now that's not disputed?
+Agent: Let me look at your account net of the disputed amounts. Your current past-due balance excluding the disputed fees is $4,920, which represents approximately three months of missed principal and interest payments after we removed the fee activity. That's the amount you would need to address to bring the account current, regardless of how the fee dispute resolves.
+Caller: I have the money for that. I've been saving because I finally figured out what was happening in February 2026 when I got the foreclosure notice. I've had $6,000 set aside but I was afraid to send it while all this was in dispute.
+Agent: I'd recommend paying the undisputed past-due amount now and having the fee dispute run separately. Paying the $4,920 would get you to current — or close to it — on the underlying loan, and the fee dispute would resolve independently. This is the cleanest path and it removes the risk of further foreclosure action while the dispute is pending.
+Caller: Okay. I can make that payment today. Let me do that.
+Agent: I can take the payment by phone or direct you to the online portal. Would you prefer phone?
+Caller: Phone.
+Agent: I'll need your bank routing and account number for the new account. There's a $15 phone payment fee. Would you prefer I waive that given the circumstances and have you use the online portal?
+Caller: I'll do the online portal. Same website?
+Agent: Yes, westfieldmortgage.com. Log in with your loan number. The payment will post within one to two business days.
+Caller: Alright. Deepa, this was really thorough. I appreciate you taking the time.
+Agent: You came in with good documentation and clear questions, Mr. Whitfield. That made it much easier. I'll make sure the dispute is formally entered today and you'll get a confirmation email within 24 hours. Anything else?
+Caller: No. That's everything. Thank you.
+Agent: Thank you for calling Westfield Mortgage. Have a good afternoon.
+Caller: You too. Goodbye.
+Agent: Goodbye.

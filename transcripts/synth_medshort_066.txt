@@ -1,0 +1,41 @@
+Agent: Meridian Home Lending. This is Carlos. How can I help you today?
+Caller: Hi Carlos. I'm Warren Kessler. I saw something on the news about an insurance company going under in Florida and it got me thinking — what happens if my insurance company goes bankrupt? Like, would my mortgage be affected?
+Agent: That's a really thoughtful question, Warren, and given what's been happening in the insurance market, it's on a lot of people's minds. Let me pull up your account and then give you a thorough answer. Can I get your loan number?
+Caller: Sure. It's 9-9-2-6-0-4-3.
+Agent: Property address?
+Caller: 190 Coral Bay Lane, Tampa, Florida, 33611.
+Agent: Last four of your Social?
+Caller: 4-4-2-0.
+Agent: I have your account. So you're in Florida, which actually makes this very relevant given the insurance market situation there. Let me address this carefully because there are a few layers to your question.
+Caller: I figured it might be more complicated than I expected.
+Agent: So the first thing to understand is that your mortgage absolutely requires active homeowners insurance as a condition of the loan. This is in your loan agreement. If your insurance coverage lapses for any reason — including because your carrier goes bankrupt — you are technically in breach of your loan covenants.
+Caller: That sounds scary. What would happen?
+Agent: Let me walk through it practically. If a homeowners insurance company becomes insolvent, the state's insurance guaranty association typically steps in. Every state has one. In Florida, it's the Florida Insurance Guaranty Association, also known as FIGA. They take over claims handling and policy obligations up to certain limits.
+Caller: So my coverage might continue even if the company goes bankrupt?
+Agent: In many cases, yes — FIGA would cover claims and maintain some level of coverage during the transition. However, your policy would not simply continue indefinitely. FIGA manages the run-off period, but you would need to find new coverage relatively quickly, typically within sixty to ninety days.
+Caller: And what does Meridian Home Lending do in that situation?
+Agent: We monitor insurance coverage on all loans we service. If we detect that your insurance has lapsed, we'll attempt to notify you. We give you a window — typically thirty to forty-five days — to provide proof of new insurance coverage.
+Caller: And if I can't get new coverage in time?
+Agent: If you can't provide proof of coverage within that window, we are required by your loan agreement to purchase what's called lender-placed insurance, or force-placed insurance. This protects the lender's interest in the property.
+Caller: I've heard that's really expensive.
+Agent: It is considerably more expensive than regular homeowners insurance, yes. Lender-placed insurance premiums can be two to five times higher than a standard policy. It also only covers the lender's interest — your personal property and liability are not covered. It's truly a last resort.
+Caller: And that would be charged to my escrow?
+Agent: It would be charged to your loan account. If you have an escrow account, the premium would be disbursed from there, potentially causing a shortfall that increases your monthly payment. It's in everyone's interest — yours and ours — to avoid this.
+Caller: So if my insurance company goes under, I need to act fast and get a new policy.
+Agent: Yes, immediately. Don't wait for notifications from anyone. The moment you hear your carrier is insolvent or is canceling policies, start shopping for new coverage. Even a policy from Citizens Property Insurance — which is Florida's insurer of last resort — would satisfy the requirement.
+Caller: What's the process to notify you of the new policy?
+Agent: You'd provide the declarations page showing the new coverage is in force. You can upload it through our portal or fax it to our insurance department. The declarations page needs to show the property address, your name as the insured, the coverage amounts, and the policy period.
+Caller: And Meridian needs to be listed on the policy?
+Agent: Yes, we need to be listed as the mortgagee — the lender with an interest in the property. Typically you'd list us as: Meridian Home Lending, ISAOA, which stands for its successors and assigns as their interests may appear. Your new insurance agent will know how to do this.
+Caller: Do I need our current policy number handy when I'm shopping?
+Agent: It helps. You'll also want to know your coverage amounts. I can see in your account that your current policy has a dwelling coverage amount of four hundred and twenty thousand dollars. Your new policy should match or exceed that to maintain continuous protection.
+Caller: My current policy is through Florida Capital Home Insurance. Are they on any kind of watchlist? I'm nervous now.
+Agent: I understand the anxiety, but I can't make assessments about specific insurers' financial health — you'd want to check their AM Best rating, which is an independent financial strength rating for insurance companies. A rating of A or better is generally considered strong.
+Caller: Good tip. I'll look that up. Anything else I should know?
+Agent: One more thing — if your insurance company is failing but policies are still technically in force, you might also be eligible to receive a return of unearned premium. That's the portion of your premium covering the period after the policy ends. FIGA administers those refunds, though it can take time.
+Caller: So I might get some money back too. Okay. I feel better having a plan. Act quickly, find new coverage, notify you immediately, make sure Meridian is listed as mortgagee.
+Agent: That's exactly right. You've summarized it perfectly. And call us anytime if you're unsure whether your coverage is showing as active in our system. We can confirm that over the phone.
+Caller: That's reassuring. Thank you, Carlos. I learned a lot today.
+Agent: Happy to help, Warren. Stay on top of that AM Best rating. Take care.
+Caller: I will. Thanks. Bye.
+Agent: Goodbye.

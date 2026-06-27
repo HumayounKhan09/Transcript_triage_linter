@@ -1,0 +1,45 @@
+Agent: Thank you for calling Evergreen Mortgage Services, this is Tom. How can I help you today?
+Caller: Hi Tom. I want to confirm that my homeowner's insurance is current in my escrow. I got a renewal notice from my insurance company recently and I just want to make sure you all are up to date on everything.
+Agent: Absolutely, that's a great thing to verify. Let me pull up your account. Can I get your full name?
+Caller: Yolanda Brennan.
+Agent: Thank you, Ms. Brennan. And your loan number or property address?
+Caller: Property address is 678 Sunridge Court, Albuquerque, New Mexico.
+Agent: And the last four of your Social Security number?
+Caller: 8823.
+Agent: And your date of birth?
+Caller: November 7, 1969.
+Agent: Thank you. One moment while I access your account.
+Caller: Sure.
+Agent: Okay, I have your account here. I can see the homeowner's insurance information we have on file. We show a policy with Desert Shield Insurance. The policy number is DSI-339427. The effective date on file is May 1, 2024, and the expiration date is May 1, 2025.
+Caller: Okay, so the old policy. The renewal was May 1st, 2025. Did the new one come through?
+Agent: Let me check if we've received any updated documentation. I see the prior policy but I don't see a current policy reflecting a May 2025 renewal date on file yet.
+Caller: That's what I was worried about. My insurance company said they send it automatically, but obviously something didn't come through.
+Agent: It's not uncommon for there to be a small lag in receiving the renewal information. Sometimes the insurance company's transmission to us takes a few extra weeks. However, since we're past the May 1st expiration date, this is something we'll want to resolve promptly.
+Caller: What happens if it shows as expired on your end?
+Agent: If we cannot verify active homeowner's insurance on the property, our system will eventually trigger a lender-placed insurance notice. Lender-placed insurance, also called force-placed insurance, is a policy we arrange on your behalf to protect the collateral. It's more expensive than a standard homeowner's policy and typically provides less coverage. We want to avoid that outcome if possible.
+Caller: I definitely have active insurance. I have the new declarations page right here. My new policy runs May 1, 2025 through May 1, 2026.
+Agent: Perfect. That's exactly what we need. You can get us that updated information in a few ways. The fastest option is to upload the declarations page through your borrower portal online under the documents section. You can also fax it to our insurance team at 1-877-555-0312, or mail it to our insurance processing department.
+Caller: I can upload it right now if you walk me through it.
+Agent: Of course. Log in to your account at evergreenmortgage.com. Once you're in, look for the Documents or Insurance section in the navigation menu. There should be an Upload Document button. Select homeowner's insurance or insurance declaration as the document type, then attach the PDF of your declarations page.
+Caller: Okay, let me log in. One moment.
+Agent: Take your time.
+Caller: Okay, I'm in. I see the Documents section. Okay, I see Upload Document.
+Agent: Great. Select that and then choose the document type. It may say Insurance Declarations or Homeowner's Insurance Policy.
+Caller: I see Homeowner's Insurance Declaration. Selecting that. Now it wants me to attach the file.
+Agent: Go ahead and attach the PDF of your new declarations page.
+Caller: Okay, I found it in my downloads. Attaching. It says it's uploading.
+Agent: Good. Once it completes you should see a confirmation message on the screen.
+Caller: It says upload successful. Document submitted for review.
+Agent: Excellent. I can see the upload is now in queue in our system. From here, our insurance team will review the document and update your account records. Processing typically takes three to five business days.
+Caller: Should I follow up to confirm it was processed?
+Agent: You can call back in about five business days and we can confirm the update was made. Alternatively, once processed, the insurance section in your online account will reflect the new policy dates.
+Caller: So I can check myself online?
+Agent: Yes. Under your account, there's usually an Insurance section that shows the policy on file. Once our team processes the upload, it should show the new May 2026 expiration.
+Caller: That's easy enough. And the lender-placed insurance thing, that won't happen now that you have the new doc?
+Agent: As long as our insurance team processes it and confirms your coverage is active, the lender-placed insurance trigger will be cleared. You're in good shape having submitted it today.
+Caller: Great. That's a relief. Thanks for walking me through all of that, Tom.
+Agent: Of course. Thank you for being on top of this, Ms. Brennan. It's much better to catch it now. Is there anything else I can help you with today?
+Caller: No, I think we're good. Appreciate the help.
+Agent: Thank you for calling Evergreen Mortgage Services. Have a wonderful day.
+Caller: You too. Bye.
+Agent: Goodbye.

@@ -1,0 +1,45 @@
+Agent: Thank you for calling Sunrise Mortgage, this is Rachel. Can I get your loan number?
+Caller: It's 9912-007-34. My name is Greg Ashworth.
+Agent: Thank you, Mr. Ashworth. Can you verify your date of birth and the property address?
+Caller: July 4th, 1969. Property is 1903 Hawthorne Lane, Nashville, Tennessee 37206.
+Agent: Got your account up. What can I help you with today?
+Caller: I missed several payments last year during my divorce. It was a rough time — I was dealing with legal costs and my finances were completely upended. I'm finally back on my feet and I want to make good on those missed payments. I'm just not sure how to approach it.
+Agent: I really appreciate you calling in and I want to commend you for getting back on track. Divorce is one of the most financially disruptive events someone can go through, and you're not alone in having missed payments during that time. Let me look at your account and see exactly where we are.
+Caller: Please. I know it's not good.
+Agent: I'm looking now. Your account shows that between July 2025 and November 2025 — five months — payments were missed. A partial payment came in December 2025 of $800.00, but your regular monthly payment is $1,618.00 so that left a partial deficit. Starting January 2026, your payments resumed at the full amount. So your current delinquency is five full missed payments plus the $818.00 shortfall from the partial December payment.
+Caller: That sounds about right. I was in the thick of the divorce proceedings from July through November. December I scraped together what I could.
+Agent: I understand. Let me calculate the outstanding arrears. Five full missed payments at $1,618.00 each is $8,090.00. Add the $818.00 partial shortfall. Late fees for those months — your late fee is $80.90 per occurrence, five occurrences — that's $404.50. There were also two property inspection fees of $15.00 each. Total arrears outstanding as of today are $9,343.50.
+Caller: Okay. And all my payments since January have been on time?
+Agent: Yes. January, February, March, April, May, and June 2026 all show as paid on time. You've got six months of solid on-time payments going. That actually significantly strengthens any resolution option you pursue.
+Caller: Good. I can't afford to just write a check for $9,343. Is there a payment plan?
+Agent: Absolutely. A repayment plan is typically the most straightforward option in your situation. Given that you're current on your regular payment and have demonstrated stability over the last six months, you're a strong candidate. A repayment plan would add an additional fixed amount on top of your regular monthly payment until the arrears are paid off.
+Caller: What would that look like in terms of numbers?
+Agent: Let's work through some scenarios. If we spread the $9,343.50 over twelve months, you'd pay an additional $778.63 per month, bringing your total monthly payment to $2,396.63 during the repayment period. Over eighteen months, the additional amount would be $519.08, for a total of $2,137.08. Over twenty-four months, it would be $389.31 additional, for a total of $2,007.31.
+Caller: The twelve-month option is too tight. What about eighteen months?
+Agent: Eighteen months puts your payment at roughly $2,137 per month. Can you manage that comfortably given your current income?
+Caller: I got a raise when I started at a new job in January. I'm making about $78,000 a year now. So my take-home is around $5,100 a month. Two thousand dollars for the mortgage is tight but doable.
+Agent: That's very workable. With $5,100 take-home and $2,137 in total mortgage, your housing expense ratio is about 42%. It's on the higher side but manageable if your other debts are reasonable. Do you want me to structure the eighteen-month repayment plan proposal?
+Caller: Yes. Let's do that.
+Agent: Good. I'm going to formally open a repayment plan application on your account. This will need to go through a brief review — it's not instantaneous — but given your payment history recovery since January, I'm optimistic. You'll receive a formal repayment plan agreement to sign, and once signed, the plan begins the following month.
+Caller: How long is the review?
+Agent: For a straightforward repayment plan with an otherwise current borrower — which is essentially what you are now — the review typically takes five to ten business days. You'd receive the agreement by mail and email, and return a signed copy.
+Caller: Will this affect my credit any further?
+Agent: Your credit was likely already impacted by the missed payments in 2025. The delinquency reporting for those months is accurate and unfortunately that history doesn't change. However, entering a repayment plan and making on-time payments going forward is positive for your credit going forward. And once the arrears are fully paid off and the account shows as current with no outstanding balance, that's reflected favorably.
+Caller: What about the divorce being on the record? Does that affect the loan at all?
+Agent: If the divorce decree addresses the property — like if it assigned responsibility for the mortgage to you exclusively — you should make sure our records reflect you as the responsible party. Can I ask — was the property addressed in the divorce settlement?
+Caller: Yes. The house was awarded to me. My ex-wife quitclaimed her interest last February.
+Agent: Good. Then we'll want to make sure we have documentation of that quitclaim deed on file. If your ex-wife was also on the original mortgage, her name may still appear on the loan for liability purposes even after the quitclaim, because mortgage obligations require a formal assumption or release to remove a co-borrower. That's a separate process.
+Caller: Does that matter for the repayment plan?
+Agent: Not for the repayment plan itself — it won't delay that. But longer term, if you ever want to refinance to remove her name from the mortgage, you'd do that through a refinance rather than the quitclaim. Just something to be aware of.
+Caller: I figured I'd refinance eventually when rates come down anyway.
+Agent: That's a sensible plan. For now, let's get the repayment plan in place and your arrears cleared up over eighteen months. By then, your account will be clean and you'll be in a much better position for any future refinance.
+Caller: Sounds good. Will I need to submit any documents for the repayment plan?
+Agent: We'll need your two most recent pay stubs showing your current income and a brief hardship letter referencing the divorce. Since the hardship is historical and you're already recovering, the letter can be very short — a paragraph explaining what happened and confirming your current employment stability.
+Caller: Easy enough. Can I email those in?
+Agent: You can upload them through the secure portal at sunrisemortgage.com under "My Documents," or you can fax to 1-800-229-4478. Your case reference number is RP-2026-054411.
+Caller: RP-2026-054411. Got it.
+Agent: Correct. Is there anything else I can help you with today, Mr. Ashworth?
+Caller: No. I'm just relieved there's a path forward.
+Agent: There absolutely is, and you've already done the hardest part — getting current and building a new payment history. This is just the last piece of cleanup. Have a great day.
+Caller: Thank you, Rachel. You too.
+Caller: Bye.

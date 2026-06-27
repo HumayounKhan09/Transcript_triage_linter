@@ -1,0 +1,45 @@
+Agent: Thank you for calling Oakridge Mortgage Servicing, this is Deepa. How can I help you today?
+Caller: Hi, my name is Frank Meader. I'm hoping to get some information about a partial release of collateral. My loan number is 4480-7713.
+Agent: Hi Frank. Let me pull up your account. I see your loan — a twenty-year commercial real estate loan on a property in rural Iowa. Let me see the property description. It looks like the collateral is a parcel of approximately forty-seven acres. Is that correct?
+Caller: Yes. I inherited the forty-seven acres from my uncle. About eight acres of it are what I'd call the home farm — the house, outbuildings, and a couple of irrigated fields. The remaining thirty-nine acres are a separate contiguous parcel that I'm hoping to sell to my neighbor.
+Agent: I see. So you want to sell a portion of the collateral — the thirty-nine acres — while retaining the eight-acre home farm parcel, and you want us to release the lien on the sold portion while keeping the loan secured by the remaining eight acres.
+Caller: That's exactly right. Is that something you can do?
+Agent: Partial releases of collateral are something we can consider, but they go through a specific underwriting review because it changes the loan's security. Let me explain the process and what we look at. The primary concern is whether the remaining collateral — in this case your eight-acre home farm — provides adequate security for the outstanding loan balance.
+Caller: What's my current loan balance?
+Agent: Your outstanding principal balance is one hundred four thousand two hundred dollars.
+Caller: And the eight acres with the house and outbuildings — I think it would appraise for around one hundred seventy-five thousand. My neighbor's thirty-nine acres — he's offering me three hundred twenty thousand for that.
+Agent: So the eight-acre home farm, at approximately one hundred seventy-five thousand, would represent a loan-to-value of about sixty percent on the outstanding balance. That's within a range that we'd typically consider adequate collateral. The question is what our guidelines require for the remaining property.
+Caller: What do your guidelines say?
+Agent: Generally speaking, for a partial release we require that the remaining collateral support the loan at no more than a certain LTV — usually sixty-five to eighty percent depending on the loan type. At sixty percent, your remaining parcel would be within that range assuming the appraisal supports the value you mentioned.
+Caller: And you'd need a new appraisal?
+Agent: Yes. A partial release requires a current appraisal of the retained parcel — the eight acres — by a licensed appraiser. We'd order or review an appraisal of the home farm only, not the full forty-seven acres. The cost is typically three hundred fifty to six hundred dollars and is paid by the borrower.
+Caller: Okay. What else do I need to submit?
+Agent: The formal request should include a letter explaining the proposed transaction — what's being sold, to whom, the proposed sale price, and what collateral would remain. You'd also need a legal description of both the parcel to be released and the parcel to be retained. That typically requires a survey if the parcel to be released hasn't been separately platted.
+Caller: The thirty-nine acres is a separately identified parcel with its own legal description. It was always treated as a separate piece even though it's under the same loan.
+Agent: That simplifies things considerably. If the parcel to be released already has a distinct legal description and its own parcel identification number, we don't need a new survey for the division itself. We just need confirmation from a title company or attorney that the legal description is clean and there are no other encumbrances on the released parcel.
+Caller: There's no other mortgage or lien on any of it. This is the only loan.
+Agent: Good. Is there a partial release clause in your original loan documents? Some loans — particularly rural or agricultural loans — specifically include partial release provisions with defined terms.
+Caller: I looked through my loan documents and I don't see anything called a partial release clause. My loan was originally a farm credit loan that got sold to you.
+Agent: It's possible there's no pre-existing partial release provision, which means this would be reviewed as a modification request under our standard guidelines rather than an automatic contractual right. It's still processable, just requires full underwriting review.
+Caller: How long does the review take?
+Agent: From receipt of a complete application — the letter, the legal descriptions, the appraisal — our review typically takes twenty to thirty business days. For agricultural loans the process can sometimes take a bit longer due to the specialized nature of the collateral.
+Caller: My neighbor wants to close by September thirtieth. Is that feasible?
+Agent: Today is late June, so you have roughly three months. If you submit the request package soon and the appraisal is ordered quickly, three months is workable but not with a lot of cushion. I'd recommend getting the request submitted within the next two weeks.
+Caller: Is there a fee for the partial release?
+Agent: Yes. Our partial release processing fee is five hundred dollars, payable at the time of the request. There's also typically a recording fee to release the lien from the specific parcel, which varies by county but is usually twenty-five to a hundred dollars.
+Caller: And the proceeds from the sale — do any of them have to go toward paying down the loan?
+Agent: That's a key question in partial release reviews. Many lenders require that a portion of the sale proceeds be applied to reduce the outstanding balance as a condition of releasing the collateral. This is called a release price. It helps ensure the remaining loan balance stays aligned with the remaining collateral value.
+Caller: How much might that be?
+Agent: There's no standard formula, but common approaches are a percentage of the sale price — often somewhere between ten and thirty percent — or a fixed amount that brings the LTV on the remaining collateral to a target level. On your numbers, three hundred twenty thousand sale price at twenty percent would mean sixty-four thousand dollars applied to the loan balance.
+Caller: That would reduce my loan to about forty thousand dollars, which would be very manageable.
+Agent: And at forty thousand against a one hundred seventy-five thousand home farm, you'd be at about twenty-three percent LTV — very strong. That type of outcome is generally favorable to both parties.
+Caller: So I might have to prepay a chunk of the loan as part of the deal?
+Agent: Potentially, yes. Whether there's a prepayment penalty on your loan is worth checking — let me look at your file. I see your loan has no prepayment penalty. So applying sale proceeds to the principal balance wouldn't incur any penalty.
+Caller: That's a relief. Okay, Deepa, what's the next step?
+Agent: Submit a written partial release request to our servicing center. Include a description of the transaction, the legal descriptions of both parcels, and the five hundred dollar processing fee. From there we'll assign the file and order the appraisal process. Our servicing address is Oakridge Mortgage Servicing, Loan Modification Department, 2100 Prairie View Drive, Des Moines, IA 50309.
+Caller: Can I email the request first?
+Agent: You can send an initial inquiry to modifications@oakridgemortgage.com with your loan number in the subject line. They'll send you a formal application checklist from there.
+Caller: Perfect. Thank you, Deepa. This was more straightforward than I expected.
+Agent: Glad to hear it. Rural parcel transactions are common enough that we have a defined process for it. Is there anything else?
+Caller: No, that's all. Thanks again.
+Agent: Happy to help. Have a great day, Frank.

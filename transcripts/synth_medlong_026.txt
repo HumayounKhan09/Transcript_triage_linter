@@ -1,0 +1,48 @@
+Agent: Thank you for calling Northgate Mortgage Servicing, this is Anita. Can I pull up your account?
+Caller: I actually have three accounts with you. The main one I'm calling about is 5540-22187.
+Agent: Let me pull that up. And your name and last four of Social?
+Caller: Robert Ng. Social ends in 7712.
+Agent: Mr. Ng, I can see loan 5540-22187, which is on a property at 4102 Ashgrove Terrace, Chicago, Illinois. I can also see two other loans associated with your name — 5540-33994 for a property in Evanston and 5540-41028 for the Lincoln Park condo. Is that correct?
+Caller: Yes, those are all mine. The Ashgrove property is the one I'm concerned about. I've had some income disruption and I think I might fall behind on that one.
+Agent: I understand. I want to make sure I address your concerns fully. Can I ask upfront — are all three loans current right now?
+Caller: The Evanston and Lincoln Park loans are fully current. I've never missed a payment on any of them in eight years. The Ashgrove one is due in ten days and I'm not sure I can cover it. It would be the first missed payment.
+Agent: I appreciate you being forthcoming. Let me look at the specifics of that loan. The Ashgrove loan has a balance of $312,440.18, a rate of 4.25 percent fixed, and a monthly payment of $1,887.22. Is that your primary residence?
+Caller: No, it's a rental property. My primary residence is Evanston.
+Agent: That's an important distinction. Before we go further, I want to address something you may have wondered about — whether problems on one loan affect your other loans. You mentioned worrying about the situation.
+Caller: Yes, exactly. Can you foreclose on my Evanston house because of problems with Ashgrove? Is there a cross-default clause?
+Agent: Cross-default is the term for when a default on one loan triggers a default on other loans with the same lender. I want to give you an accurate answer, which requires me to look at the actual note language. Let me check the loan documents for all three loans.
+Caller: Please.
+Agent: I'm reviewing the notes now. What I can tell you is that cross-default provisions are more common in commercial lending than in residential mortgage lending. For standard residential mortgage loans — which all three of yours appear to be — it is uncommon for the note to contain an explicit cross-default clause. Each loan is secured by its own property and is generally independent.
+Caller: Generally?
+Agent: I want to be precise with you. I do not see an explicit cross-default provision in any of these three notes. What does exist is standard acceleration language tied to default on that specific loan. So if you default on the Ashgrove loan, we as the servicer can pursue remedies against the Ashgrove property — but that does not give us grounds to accelerate the Evanston or Lincoln Park loans solely because Ashgrove is delinquent.
+Caller: That's a relief. But is there any scenario where the other loans could be affected?
+Agent: There are indirect ways. First, if your delinquency on Ashgrove is reported to credit bureaus, it could lower your credit score, which might affect your ability to refinance the other properties in the future but wouldn't affect the existing loans. Second, if you have an investor property loan where the investor's guidelines require cross-collateralization, that could theoretically be an issue — but I don't see that here. These appear to be standard Freddie Mac eligible loans held independently.
+Caller: What about from a collection standpoint? If I miss Ashgrove, will your collectors start calling me about Evanston and Lincoln Park too?
+Agent: No. Collections activity is loan-specific. A collector working the Ashgrove file would contact you about that loan and only that loan. Your Evanston and Lincoln Park loans would continue to be managed normally since they're current.
+Caller: Okay. Now let me ask about the Ashgrove situation itself. What are my options if I can't make the payment?
+Agent: Since Ashgrove is an investment property, the loss mitigation options are somewhat different from primary residence programs. Most COVID and disaster-related assistance programs specifically excluded investment properties. Standard options include a repayment plan, a forbearance agreement, or a loan modification. However, the investor on your loan — let me check — this is a Freddie Mac loan, and Freddie Mac does offer limited hardship options for investment properties, though they are more restrictive than for primary residences.
+Caller: Can you tell me what Freddie allows?
+Agent: For investment property loans, Freddie Mac generally allows repayment plans of up to 12 months and, under certain guidelines, short-term forbearance. Full modifications — rate reductions, term extensions — are primarily designed for owner-occupied properties. For investment properties, the bar is higher.
+Caller: What kind of documentation would I need?
+Agent: Similar to any hardship application — a hardship letter explaining the income disruption, two to three months of bank statements, tax returns from the past two years showing your rental income from the Ashgrove property, and documentation of the hardship event. What was the nature of the income disruption, if you don't mind me asking?
+Caller: My primary tenant of five years moved out, and I have a gap in rental income. The property is listed but it's been vacant for six weeks.
+Agent: That's a documented hardship — vacancy loss is recognized as a temporary hardship for rental property loans. A letter from a real estate agent showing the property is listed, combined with your income documentation showing the loss of rental income, would support a forbearance request.
+Caller: What if I decide to just let Ashgrove go and protect the other two? Like a strategic default?
+Agent: I can explain the consequences so you can make an informed decision. A strategic default on Ashgrove would result in delinquency reporting to credit bureaus affecting your credit score for all three properties' management. Foreclosure on Ashgrove would appear on your credit and could be a significant negative mark. It would not automatically trigger defaults on the other two loans as we discussed. However, a foreclosure on your record could limit your ability to obtain future financing and might affect the terms of any refinancing you pursue on the other properties.
+Caller: What about a short sale on Ashgrove? What's the balance versus estimated value?
+Agent: Your balance is $312,440. Do you have a sense of what Ashgrove would sell for?
+Caller: My realtor thinks $295,000 based on comps.
+Agent: So you'd be approximately $17,000 to $20,000 underwater after accounting for selling costs. That's a relatively small deficiency compared to many short sale situations. We would need to go through the short sale approval process — hardship package, listing with an agent, offer submission, BPO — similar to other short sales. The deficiency waiver would be a negotiation point. Because the gap is small, full waiver is plausible.
+Caller: What if I get a tenant in the next month — can I just come out of any forbearance normally?
+Agent: Absolutely. If the property leases up and your cash flow returns, a repayment plan to make up the one or two missed payments would be straightforward. You'd spread the arrears over a manageable period and get back on track. That's the best-case scenario given that this seems to be a temporary vacancy issue.
+Caller: I think I want to try the forbearance first and get the property leased. If it doesn't lease within 60 days I might revisit the short sale.
+Agent: That's a reasonable strategy. I can open a hardship inquiry now and have the forbearance package sent to you. You'd have 30 days to submit the complete documentation. If the property leases in the meantime, you can simply inform us and we'll process normally.
+Caller: That works. One more question — my accountant says I might be able to deduct some losses related to this. Does going into forbearance affect any tax treatment?
+Agent: Tax treatment is outside my expertise and I'd defer entirely to your accountant or tax advisor on that question. What I can say is that from our side, the forbearance is documented as a servicing arrangement, not a forgiveness of debt — unless we later formally waive a deficiency, which would potentially have tax implications you should discuss with your accountant.
+Caller: Fair enough. Let's get the forbearance inquiry opened.
+Agent: I'll create the case now. Case number will be NM-2025-RN-44217. The package will be emailed and mailed to your Evanston address. Complete documentation within 30 days. And your Evanston and Lincoln Park loans remain completely unaffected by this process.
+Caller: Thank you, Anita. You've been very thorough and I feel much better about the cross-default question.
+Agent: Glad I could clarify that. Good luck with the leasing. Is there anything else today?
+Caller: No, that covers it. Thank you.
+Agent: Of course. Have a good day, Mr. Ng. Goodbye.
+Caller: Goodbye.

@@ -1,0 +1,51 @@
+Agent: Thank you for calling National Home Servicing, this is Beth, how can I help you today?
+Caller: Hi, my name is Tamara Nguyen. I was told by your loss mitigation department that I need to submit a hardship letter as part of my loan modification application. I've never written one before and I have no idea what's supposed to go in it or how formal it needs to be. Can you walk me through it?
+Agent: Hi Tamara, absolutely — this is one of the most common questions we get, and a hardship letter is really not as intimidating as it sounds. It's essentially your story in your own words, explaining why you're having difficulty making your mortgage payments. Let me pull up your account first and then we'll go through everything you need to know. Can I get your loan number or property address?
+Caller: The address is 118 Cobblestone Way, Nashville, Tennessee, 37203. Loan number is NHS-55-228-8870.
+Agent: And for verification — last four of your Social and date of birth?
+Caller: Social ends in 7718, birthday October 4th, 1984.
+Agent: Thank you, Tamara. I have your account here. Loan balance $221,800, monthly payment $1,566, and I can see the open loss mitigation file from last week. Okay, so let's dig into the hardship letter.
+Caller: Great. Should it be on some kind of official form, or typed, or — I just don't know the format.
+Agent: It doesn't need to be on a special form. It's a signed personal statement — think of it like a letter to a person, not a legal document. It can be typed or even handwritten, though typed is preferred because it's easier to read. It should be dated and signed by all borrowers on the loan. Since I see this is just you on the loan, you'd be the only signer.
+Caller: Okay, that's a relief. What goes in it?
+Agent: There are several key components. Let me go through them one by one. First, a brief introduction — just identify yourself and your loan. Something like: My name is Tamara Nguyen, I am the borrower on loan number NHS-55-228-8870 for the property at 118 Cobblestone Way, Nashville, Tennessee. I am writing to explain the financial hardship that has made it difficult for me to maintain my mortgage payments.
+Caller: That's it for the intro?
+Agent: That's all you need. One or two sentences. Then the main body — this is where you explain what happened. The letter needs to clearly describe the nature of your hardship. There are several recognized hardship types. Common ones include job loss, reduction in income, medical illness or medical expenses, death of a co-borrower, divorce or separation, military deployment, or a natural disaster. What's the nature of your situation, if you don't mind me asking?
+Caller: I had a really serious car accident about eight months ago. I was out of work for four months. I went back to work but I had physical therapy bills that weren't fully covered by insurance and I've been paying those while also trying to catch up on the mortgage. The accident bills came to about $22,000 out of pocket and I still have $14,000 left to pay.
+Agent: That's a very clear and compelling hardship. In the letter, you'd describe that directly. Something like: In February of this year, I was involved in a serious automobile accident that resulted in significant injuries. As a result, I was unable to work from February through May, causing a total loss of income for four months. My employment income is $X per month and the loss of that income during this period caused me to fall behind on my mortgage payments. Additionally, I have incurred $22,000 in medical expenses not covered by insurance, of which $14,000 remains outstanding, which continues to strain my monthly budget. The combination of lost income and ongoing medical debt has made it impossible for me to maintain my regular mortgage payment of $1,566.
+Caller: That's really clear. I was thinking it had to be more complicated than that.
+Agent: A lot of people think that. The simpler and more direct, the better. The reviewers read hundreds of these letters and they want facts — what happened, when it happened, how it affected your finances, and whether the hardship is ongoing or resolved.
+Caller: Is mine considered ongoing?
+Agent: That's an important distinction. If your accident is fully behind you and you're back to full income, the hardship is considered resolved — and that's actually a good thing for modification purposes, because it means you have income to work with for a new payment structure. If the medical bills are ongoing, that's a continuing hardship. In your case, it sounds like a combination — you're working again but still carrying significant medical debt. You should describe both: the acute phase when you lost income, and the ongoing impact of the medical debt on your ability to make the original payment.
+Caller: So I should mention both in the letter.
+Agent: Yes. Lay out the timeline — when the accident happened, when you were out of work, when you returned, and then describe the continuing pressure from the medical debt. That tells a complete story.
+Caller: Should I include how I'm trying to address it? Like, I've been on a payment plan with the hospital.
+Agent: Absolutely. That's the third key element of a good hardship letter — your efforts to resolve the situation. Mentioning that you're on a hospital payment plan demonstrates good faith and responsibility. You could add something like: I have established a payment plan with my medical providers and am actively working to reduce this debt, however the combined obligation of medical payments and the full mortgage payment exceeds my current monthly income.
+Caller: That's exactly my situation.
+Agent: Then close with what you're asking for. Something like: I am committed to keeping my home and am requesting a loan modification that would bring my monthly payment to a level I can sustain on my current income. I am prepared to provide full financial documentation and cooperate fully with the review process.
+Caller: Is there a length requirement?
+Agent: No formal length requirement. Most good hardship letters are one to two pages. Don't pad it — include what's relevant and stop. The reviewer's goal is to understand your hardship, not read a novel.
+Caller: Now, what documentation should I attach to the application in addition to the letter?
+Agent: The letter is just one piece. Here's the full documentation list for a modification application. Income documentation: your two most recent pay stubs from your employer showing year-to-date earnings. If you receive any other income — alimony, rental income, disability, etc. — documentation of that. A copy of your two most recent federal tax returns, or if you filed recently and it's not yet two years, the most recent one is acceptable.
+Caller: Okay, I have those.
+Agent: Bank statements: the two most recent months of all bank accounts — checking, savings, any other accounts. Every page — even pages that show zero activity — because reviewers need to see the complete picture.
+Caller: Every page? Even the ones that just say continued?
+Agent: Every page. This is one of the most common reasons applications get marked incomplete — missing pages from bank statements.
+Caller: Got it.
+Agent: For your accident specifically, supporting documentation of the medical hardship helps but isn't always required. An explanation of benefits from your insurance company, a summary of your medical debt balance, or a letter from the hospital confirming your payment plan — these strengthen your file and help the reviewer understand the full picture. They're not mandatory, but include them if you have them easily available.
+Caller: I have EOBs and my hospital payment plan agreement. I'll include those.
+Agent: Perfect. Those will be very helpful. Also, if there was any period where you received disability income or paid leave — documentation of that, even if it's ended. Anything that helps the timeline of your hardship be verifiable.
+Caller: Okay. Is there anything I should not say in the letter? Things that would hurt my application?
+Agent: Good question. Avoid vague language — don't just say things are hard without explaining why. Avoid blaming the lender — the letter isn't a complaint about the loan terms. And don't overstate future income. If you write that your income will be $8,000 a month next year, the reviewer will hold you to that. Be honest and realistic about what you currently earn and what you can sustain.
+Caller: What if I accidentally say something slightly inaccurate?
+Agent: The application requires your signature certifying that the information is truthful to the best of your knowledge. Intentional misrepresentation can result in the modification being rescinded. But minor imprecision in describing your situation isn't usually a problem — just be as accurate as you can.
+Caller: I think I know enough now to write a solid letter. It's going to take me an evening but I feel like I can do it now.
+Agent: You absolutely can. You have a clear, documentable hardship and you're approaching this seriously. That comes through in a letter.
+Caller: What's the deadline for submitting the application?
+Agent: Your file was opened last week and you have 30 days from the date of the application initiation letter to submit the complete package. Let me check — the letter was dated November 4th, so your deadline is December 4th. I'd aim to have it in by November 25th to give us time to identify any missing items before the deadline.
+Caller: That gives me about three weeks. I can do that.
+Agent: You'll be in great shape. Is there anything else I can help with today?
+Caller: I think I have everything I need. Thank you so much, Beth — this was so much more helpful than anything I found online.
+Agent: I'm really glad. Good luck with the letter, Tamara. You've got this.
+Caller: Thank you. Have a great day.
+Agent: You too. Goodbye.

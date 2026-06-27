@@ -1,0 +1,37 @@
+Agent: Thank you for calling Heritage Mortgage Advisors, this is Daniel speaking. How can I help you today?
+Caller: Hi Daniel, my name is Shirley Watkins. I have about $85,000 sitting in my 401k and I'm thinking about taking a loan from it to pay off my mortgage. The remaining balance is around $67,000 and I figure if I just pay it off I'll be done with it. Does that seem like a good idea to you?
+Agent: Hi Shirley, that's a question I take seriously because it touches on both mortgage servicing and personal financial planning, and there are some important considerations on both sides. I can help you understand the mortgage angle and share some things to think through on the retirement side, though I'd always recommend consulting with a financial advisor before making that decision. First — what's the loan you'd be paying off?
+Caller: It's on my primary residence. The address is 302 Meadowbrook Circle. I've been paying on it for 22 years.
+Agent: Let me pull up your account. Do you have your loan number?
+Caller: Yes, it's 2281945.
+Agent: I have your account. Your current balance is $66,847.12 and your interest rate is 6.5 percent. Your monthly payment is $1,028.33 and you have just over 8 years remaining. Is that right?
+Caller: Yes, exactly. I just want to be done with it.
+Agent: I completely understand that feeling. Paying off a mortgage is a powerful moment. Let me share some considerations about using a 401k loan specifically — not a withdrawal, but a loan. Do you know whether your plan offers loans?
+Caller: Yes, my HR person confirmed I can borrow up to 50 percent of my vested balance or $50,000, whichever is less.
+Agent: That's the IRS limit on 401k loans. So if your vested balance is $85,000, you can borrow up to $42,500 — not the full $66,847 you owe on the mortgage. You'd come up short by about $24,000.
+Caller: Oh. I didn't realize there was a cap. I thought I could borrow from the whole thing.
+Agent: The IRS limits 401k loans to the lesser of 50 percent of your vested balance or $50,000. So with $85,000 vested, your maximum is $42,500. You'd need to cover the other $24,000 from savings or another source.
+Caller: Hmm. Do you think I should still do it for the portion I can borrow?
+Agent: I can give you the factual landscape and let you make the informed decision. Here are the key considerations. On the positive side: 401k loan interest goes back to yourself — you're paying interest to your own retirement account, not to a bank. There's no credit check. And you'd reduce your mortgage balance significantly.
+Caller: That all sounds good.
+Agent: On the caution side: while the money is borrowed out of your 401k, it's not invested in the market. If the market goes up during that loan period, you lose those gains on the borrowed portion. 401k loans typically must be repaid within five years. If you leave your job or are laid off, the entire outstanding balance often becomes due within 60 to 90 days. If you can't repay it, the outstanding amount is treated as an early withdrawal, subject to ordinary income tax plus a 10 percent penalty if you're under 59 and a half. How old are you, Shirley?
+Caller: I'm 61.
+Agent: Being over 59 and a half actually changes things meaningfully. If you took a full withdrawal rather than a loan, you'd avoid the 10 percent early withdrawal penalty because you're past that age threshold. You'd still owe ordinary income tax on the amount withdrawn, but the penalty wouldn't apply.
+Caller: So I could just withdraw the money instead of taking a loan?
+Agent: You could. The question is the tax impact. If you withdrew $66,847 from your 401k this year, that entire amount gets added to your taxable income for 2026. Depending on your other income sources, that could push you into a higher tax bracket. For example, if you're currently in the 22 percent bracket and this withdrawal pushed you into 24 percent, the effective tax cost on the withdrawal could be $14,000 to $18,000 or more.
+Caller: I didn't think about the taxes. That changes things.
+Agent: It's one of the biggest factors people overlook. Have you consulted with a tax advisor about this?
+Caller: Not yet. I kind of just decided I wanted to do this and then called you.
+Agent: I'm really glad you called before taking action. I'd strongly encourage a conversation with both a CPA and a financial advisor before moving forward. They can model the tax impact and compare it to the alternative — which is continuing to pay down the mortgage over 8 years at 6.5 percent while keeping your retirement funds invested.
+Caller: The mortgage is 6.5 percent. If my 401k earns more than that, I'm better off leaving the money there?
+Agent: That's the classic comparison. Historically, a diversified retirement portfolio has averaged 7 to 8 percent annual returns over long periods, which would beat your 6.5 percent mortgage rate. But past performance isn't guaranteed, and there's also the psychological value of being debt-free. It's not purely a math decision.
+Caller: I can see that. What if I just paid an extra lump sum toward the mortgage every year using savings rather than touching my retirement?
+Agent: That's a strategy worth considering. You could make extra principal payments on your mortgage using savings without touching your retirement. Even paying an extra $500 to $1,000 per month toward principal would shorten your payoff timeline significantly and reduce total interest paid.
+Caller: How much interest would I save if I paid an extra $500 a month?
+Agent: Let me calculate roughly. On an $66,847 balance at 6.5 percent with 8 years remaining — paying an extra $500 per month, you'd likely pay off the loan in about 4 to 4.5 years instead of 8 and save roughly $15,000 to $18,000 in interest. That's without touching your retirement at all.
+Caller: That sounds like a smarter approach. I think I need to talk to my financial advisor.
+Agent: I think that's the right call, Shirley. The goal — paying off the mortgage — is excellent. The method is worth thinking through carefully. Is there anything else I can help you with about your mortgage today?
+Caller: No, I think you've given me a lot to think about. Thank you for not just telling me what to do.
+Agent: Of course. These are decisions that should fit your whole financial picture, not just the mortgage piece. Take care, Shirley.
+Caller: Thank you, Daniel. Have a great day.
+Agent: You too. Goodbye!

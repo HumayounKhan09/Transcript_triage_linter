@@ -1,0 +1,39 @@
+Agent: Thank you for calling Keystone Home Loans, this is Priya. How can I assist you today?
+Caller: Hi Priya, my name is Stuart Hollenbeck. I've had a mortgage with you for about twelve years on a property in Nevada. Someone at my office mentioned something about balloon payments and I got a little worried because I'm not entirely sure what my loan terms are. Can you look up my loan and tell me if I have a balloon payment coming?
+Agent: Hi Mr. Hollenbeck, absolutely — that's a very important thing to understand about your loan. Let me pull up your account right away and we'll look at the specific terms. Can I get your loan number or the property address?
+Caller: The property address is 5580 Desert Willow Lane, Henderson, Nevada 89002. Loan number is KHL-04-77-3392.
+Agent: And your full name for verification?
+Caller: Stuart Allen Hollenbeck.
+Agent: And the last four of your Social Security number?
+Caller: 2267.
+Agent: Thank you. I have your account. Let me look at your loan documents and the specific terms. Your loan was originated in April 2013 — that's just over twelve years ago. The loan type is noted here. Give me just a moment to review the specific product type and terms.
+Caller: Sure.
+Agent: Okay, I have the information. Mr. Hollenbeck, I can tell you that your loan is a 30-year fixed-rate mortgage at 4.375 percent interest. It is a fully amortizing loan, meaning it is scheduled to pay off completely at the end of the 30-year term in April 2043.
+Caller: So no balloon payment?
+Agent: Correct. There is no balloon payment on your loan. A balloon payment would appear as a large lump sum due at a specific date before the loan is fully amortized — typically in seven or ten years. Your loan does not have that feature. Every payment you make reduces your balance incrementally, and at the end of the 30-year term, your balance will be zero.
+Caller: Oh, what a relief. I was worried about that.
+Agent: Completely understandable concern. Balloon mortgages were more common in the early 2000s and before, and some borrowers who got adjustable or specialty products during the mid-2000s housing boom did end up with them. But the product you have is a straightforward fixed-rate, fully amortizing loan.
+Caller: What exactly is a balloon payment, just so I understand what I was worried about?
+Agent: Sure. A balloon mortgage is a loan where the regular monthly payments are structured as if it were a longer-term loan — say 30 years — but the loan actually comes due in full at a shorter point, like seven or ten years. At that balloon date, whatever principal remains unpaid becomes immediately due in full. The borrower either has to pay it off in cash, refinance into a new loan, or sell the property. For someone who isn't prepared for that maturity date, it can be a serious problem.
+Caller: Yeah, that does sound scary. Why would anyone choose that?
+Agent: In some market conditions, balloon loans had lower initial rates, making them attractive for people who planned to sell or refinance before the balloon was due. Investors and people who didn't plan to stay long used them sometimes. But they carry significant risk if circumstances change and refinancing isn't possible when the balloon comes due.
+Caller: I'm glad I didn't end up with one of those.
+Agent: Based on the year you originated and the loan type, you wouldn't typically have encountered a balloon product, but it's always good to verify.
+Caller: Can you also tell me my remaining balance? As long as I have you on the phone.
+Agent: Of course. Your current principal balance as of today is $168,441.87. You have approximately 18 years and 1 month remaining on your loan based on your standard amortization schedule.
+Caller: Hmm. I actually thought I was further along than that. Is that right for twelve years in?
+Agent: Let me look at your payment history. I can confirm your regular payments have been consistent. For a 30-year loan at 4.375 percent, in the early years of the loan a larger portion of each payment goes toward interest rather than principal — that's just how amortization works. The rate at which you reduce principal accelerates in the back half of the loan.
+Caller: Right, I've heard that. It's just a little discouraging to see eighteen years left.
+Agent: I understand. One thing worth noting — if you're interested in reducing your remaining term, even modest extra principal payments can have a significant impact. An additional $200 or $300 per month toward principal can shorten a 30-year loan by several years and save substantial interest.
+Caller: My neighbor was telling me that. Maybe I should try that.
+Agent: It's worth modeling. If you'd like, I can calculate what an extra $200 per month would do to your payoff timeline.
+Caller: Sure, let's do that quickly.
+Agent: At your current balance of $168,441, your rate of 4.375 percent, and an extra $200 monthly on top of your regular payment of approximately $1,238, you'd be looking at a payoff in about 12 years and 8 months instead of 18 years. That's roughly a 5-year reduction.
+Caller: That's notable. I'll have to think about that.
+Agent: Take your time. It's completely optional — there's no prepayment penalty on your loan, so you could start and stop as your budget allows.
+Caller: No prepayment penalty? Good to know.
+Agent: Correct — your loan has no prepayment penalty clause. Is there anything else I can help you with today?
+Caller: No, that covers everything. I'm very relieved about the no-balloon thing. Thank you, Priya.
+Agent: Absolutely. Enjoy the rest of your day, Mr. Hollenbeck.
+Caller: You too. Bye.
+Agent: Goodbye.
