@@ -1,0 +1,39 @@
+Agent: Thank you for calling Trident Mortgage Servicing, this is Anita. How can I help you today?
+Caller: Hi Anita. I called a couple of weeks ago to update my mailing address. I just want to make sure that change actually went through before I start throwing away mail at my old address.
+Agent: Absolutely, I can confirm that for you. Let me pull up your account. Can I get your full name?
+Caller: Frank Delacroix.
+Agent: Thank you, Mr. Delacroix. And your loan number or property address on the account?
+Caller: The loan number is 00345-67891.
+Agent: And the last four digits of your Social Security number?
+Caller: 1184.
+Agent: And your date of birth?
+Caller: February 16, 1961.
+Agent: Thank you. One moment while I access your account.
+Caller: Sure.
+Agent: Okay, I have your account here. I can see the mailing address currently on file. We show your mailing address as 7200 Harborview Drive, Apartment 4B, Tampa, Florida, 33602. Is that the new address you provided?
+Caller: Yes, that's it. So it did go through?
+Agent: Yes, the update is reflected on your account. I can see the change was made on June 11th. So any correspondence we send going forward will go to that Tampa address.
+Caller: Perfect. And June 11th was when I called, so it was done same day?
+Agent: It appears so, yes. The change was processed the same day the call was logged.
+Caller: Great. That's exactly what I wanted to confirm. And can you also confirm the property address, just so I can make sure that one hasn't been changed? The property isn't my residence anymore, it's a rental now.
+Agent: Of course. The property address on file, which is the address tied to the loan itself, is 511 Magnolia Park Drive, Orlando, Florida, 32801. Is that correct?
+Caller: Yes, that's right. Good. I just want to make sure the property address didn't accidentally get changed when the mailing address was updated.
+Agent: Those are two separate fields in the system, so a mailing address change wouldn't affect the property address. Your property address will remain fixed unless you specifically request a correction, which would be unusual since it's tied to the actual collateral location.
+Caller: Good to know. Now, will my monthly statements start coming to Tampa right away?
+Agent: Yes. Your next statement will be generated for the July billing cycle, and it will be mailed to your new Tampa address. If your billing cycle produces the statement in the next few days, it might still be going to the old address depending on the timing, but the following cycle would definitely go to Tampa.
+Caller: Should I contact you if I don't receive the July statement?
+Agent: You can, though you also have the option to access your statements online. If you're enrolled in our borrower portal, you can view and download statements there without depending on the mail. That's a good backup option any time you have an address change.
+Caller: I'm not enrolled yet. How do I sign up?
+Agent: You can register at our website at tridentmortgageservicing.com. You'll need your loan number, which is 00345-67891, and the email address you'd like to use. It just takes a few minutes to set up.
+Caller: Okay, I'll do that. It would be useful to have access online.
+Agent: Definitely. Once you're enrolled you can view statements, payment history, your escrow account details, and make payments all in one place.
+Caller: That sounds really convenient. One more question while I have you. Can I update my email address in the system while we're at it?
+Agent: Absolutely. What email would you like on file?
+Caller: It's fdelacroix at gmail dot com. F-D-E-L-A-C-R-O-I-X.
+Agent: Got it. f-d-e-l-a-c-r-o-i-x at gmail dot com. I've updated that. You'll want to use that email when you register for the online portal as well.
+Caller: Perfect. That's all I needed. Thanks for confirming everything, Anita.
+Agent: Of course, happy to help. To recap: your mailing address update to 7200 Harborview Drive, Apartment 4B, Tampa, Florida, 33602 went through on June 11th. Your property address and email have also been confirmed and updated. Is there anything else I can do for you?
+Caller: Nope, that's everything. Thanks again.
+Agent: Thank you for calling Trident Mortgage Servicing, Mr. Delacroix. Have a wonderful day.
+Caller: You too. Goodbye.
+Agent: Goodbye.

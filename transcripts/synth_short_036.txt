@@ -1,0 +1,39 @@
+Agent: Thank you for calling Harborview Mortgage, this is Tom. How can I help you today?
+Caller: Hi Tom, I wanted to ask about when my hazard insurance renewal premium will be paid out of my escrow. My policy renews next month and I want to make sure everything is handled.
+Agent: Sure, let me take a look at that for you. First I'll need to verify your account. Can I get your full name?
+Caller: Lisa Drummond.
+Agent: Thank you, Ms. Drummond. And your loan number or property address?
+Caller: Property address is 7720 Spruce Valley Way, Portland, Oregon.
+Agent: And the last four of your Social Security number?
+Caller: 5539.
+Agent: And your date of birth?
+Caller: May 19, 1983.
+Agent: Thank you. One moment while I look up your account.
+Caller: Take your time.
+Agent: Okay, I have your account here. I can see your homeowner's insurance information. We have a hazard insurance policy on file with Pacific Shield Insurance. The policy number is PSI-441807 and the current expiration date is July 14th.
+Caller: That's right. So it renews July 14th. Will you be paying the premium before then?
+Agent: Let me check the disbursement schedule. Yes, I can see that a disbursement for the insurance renewal is scheduled for July 3rd. We typically send payment to the insurance company about two weeks before the policy expiration to ensure the premium is received before the renewal date.
+Caller: Okay, so July 3rd. Do you have the renewal premium amount from my insurance company?
+Agent: Let me check. We have the previous year's premium on file as $1,476.00. However, I don't see a renewed declarations page or updated premium amount in your file yet. Have you already received your renewal documents from Pacific Shield?
+Caller: Yes, they sent me the renewal notice last week. The new premium is $1,619.00. It went up this year.
+Agent: That's a notable increase. Do you know if Pacific Shield sent the updated declarations page and renewal invoice to us directly?
+Caller: I'm not sure. They said they would, but I don't know if they actually did.
+Agent: I understand. We typically need either the renewal invoice or the declarations page from the insurance company before we can process the disbursement. If we only have the old premium amount on file, we might send $1,476 and then there would be a shortfall.
+Caller: That's what I was worried about. What happens if there's a shortfall?
+Agent: If the premium isn't paid in full, the insurance company could issue a notice of cancellation for non-payment of the full renewal premium. The carrier might also contact you directly to request the balance. It's a situation we want to avoid.
+Caller: Absolutely. So what should I do?
+Agent: I'd recommend calling your insurance agent at Pacific Shield today and asking them to send us the updated renewal invoice or declarations page as soon as possible. They can fax it to our insurance team at 1-855-555-0388 or email it to our insurance inbox, which I can give you as well.
+Caller: Sure, go ahead.
+Agent: The email is insurancedocs at harborviewmortgage dot com. They should include your loan number, which is on your monthly statement, and your property address in the correspondence.
+Caller: Okay. And if they get it to you by, say, early next week, will that be enough time before July 3rd?
+Agent: That would be tight, but likely manageable. If we receive it by June 30th, we should have time to update the disbursement amount before it's issued on July 3rd. If we receive it after the disbursement is sent, we would need to issue a second payment for the difference.
+Caller: I'll call them this afternoon and have them send it today.
+Agent: That's the best approach. And if you have a copy of the renewal declarations page, you can also upload it through your online account under the documents section as a backup.
+Caller: I can do that. I have the PDF from my email.
+Agent: Perfect. Uploading it yourself is often the fastest route because it goes directly into the queue. Then have your agent send their copy as well for confirmation.
+Caller: Will do. Thanks for catching this, Tom. I'm glad I called.
+Agent: Very glad you did. Is there anything else I can assist you with today?
+Caller: No, that covers it. I'll get that taken care of right away.
+Agent: Great. Thank you for calling Harborview Mortgage, Ms. Drummond. Have a good day.
+Caller: Thanks, you too. Bye.
+Agent: Goodbye.

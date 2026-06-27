@@ -1,0 +1,33 @@
+Agent: Meridian Mortgage Servicing, this is Marcus. How can I assist you today?
+Caller: Hi, my name is Tamara Osei. I'm currently in a Chapter 13 bankruptcy and I want to make a mortgage payment. My attorney told me I should call you, but I'm not sure what the rules are.
+Agent: Hi Ms. Osei, thank you for calling. I'm glad you reached out. I do need to let you know that because you're in an active bankruptcy, there are certain limitations on what I can discuss with you directly. But I can provide you with general information. First, let me verify your identity so I can pull up your account. Can you provide me with your property address?
+Caller: Yes, it's 7809 Clover Lane, Charlotte, North Carolina, 28205.
+Agent: Thank you. And the last four of your Social?
+Caller: 4421.
+Agent: And your date of birth?
+Caller: September 3rd, 1981.
+Agent: Thank you, Ms. Osei. I see your account here. I also see the bankruptcy flag on the account, which means I do need to be careful about what I can discuss. Your attorney is right that there are specific rules that apply. Can you tell me roughly how long you've been in the Chapter 13 plan?
+Caller: We filed about eight months ago. My plan was confirmed by the court about four months ago.
+Agent: Okay, that's helpful context. In a Chapter 13 bankruptcy, which is a reorganization plan, you typically have two streams of mortgage-related payments happening simultaneously. Your bankruptcy trustee is making payments to us for any pre-petition arrears — meaning whatever you owed before the filing date — and you're generally required to make your ongoing regular monthly mortgage payments directly to us outside of the plan.
+Caller: Right, my attorney said the same thing. I'm supposed to keep paying you directly for my regular payment. But I wasn't sure if you'd accept it or if there was something special I had to do.
+Agent: We absolutely can accept your regular monthly payments while you're in bankruptcy. In fact, it's critical that you make those payments. If you fall behind on the post-petition payments — meaning the ones that come due after your filing date — your lender can file a motion for relief from the automatic stay, which could allow them to proceed with foreclosure even while you're in bankruptcy.
+Caller: Okay, that's a little scary. I haven't missed any payments since filing, I just wanted to confirm I was doing it right.
+Agent: You're doing it right. Keeping those direct payments current is one of the most important things you can do to protect your home during a Chapter 13. Looking at your account, I do see payments coming in, but I want to be transparent — some of the details around arrears and trustee payments are better discussed through your bankruptcy attorney, since they have the full picture of your plan.
+Caller: Sure, I understand. I just wanted to make sure that if I call in and make a payment over the phone, you'll accept it.
+Agent: Yes, we accept phone payments. I do want to make sure you know that any payment made directly to us during an active bankruptcy is applied only to your post-petition regular monthly obligation. We cannot apply it to your pre-petition arrears — those are handled through the trustee.
+Caller: Got it. And what about if I want to pay a little extra on top of my regular payment? Like if I want to pay an extra two hundred dollars?
+Agent: That's something I'd encourage you to discuss with your attorney first. Any extra payment could potentially have implications for your bankruptcy plan, and your attorney would need to make sure it doesn't create any complications with the trustee or the court. It's not necessarily prohibited, but it's a conversation to have with your legal counsel.
+Caller: That makes sense. I'll check with her first. So if I just call in and pay my regular amount — my monthly payment is $1,847 — that's fine?
+Agent: That's correct. Paying your regular monthly amount is straightforward and should be processed normally. You can pay by phone, by mail, through our website if you have online access set up, or by automated phone system.
+Caller: Can I use your website? I wasn't sure if my account access would be different because of the bankruptcy.
+Agent: You should still be able to access your account online. If you have any trouble logging in, you can call back and we can help troubleshoot, or you can always use the automated phone system to make a payment without needing to speak with a representative.
+Caller: Okay, good. And I know you probably can't tell me much, but is there anything on my account that looks concerning? Like are there any flags that would worry you?
+Agent: Ms. Osei, because of the bankruptcy, I do need to limit what I can discuss in terms of account analysis. What I can say is that for questions about your account status in the context of the bankruptcy, your attorney can request a payment history or a proof of claim from us, and that's the best way to get a comprehensive picture.
+Caller: Fair enough. I just get nervous because this whole process has been stressful.
+Agent: I completely understand. Chapter 13 is a multi-year commitment and it can feel overwhelming. The fact that you're proactively calling, making sure you're doing things right — that's really the right approach. Staying current on your direct payments is the single most important thing you can do for your mortgage during this process.
+Caller: Okay. Well thank you Marcus, this was really helpful. I think I just needed someone to confirm I was on the right track.
+Agent: You are on the right track. Is there anything else I can help you with today?
+Caller: No, I think that covers it. I'll make my payment online and I'll talk to my attorney about the extra payment question.
+Agent: Sounds like a good plan. Thank you for calling Meridian Mortgage, Ms. Osei. Take care.
+Caller: Thank you. Bye.
+Agent: Goodbye.

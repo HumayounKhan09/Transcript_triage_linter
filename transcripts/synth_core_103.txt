@@ -1,0 +1,47 @@
+Agent: Thank you for calling National Fidelity Mortgage. This is Amber speaking. Can I have your loan number and name please?
+Caller: Hi, my name is Terrence Watkins. Loan number is 9-0-3-3-5-2-8.
+Agent: Thank you, Mr. Watkins. Let me pull that up. Can you verify your property address and the last four of your Social?
+Caller: 2211 Briarwood Court, Memphis, Tennessee 38118. And the last four is 6-6-4-7.
+Agent: Thank you, I've got your account. How can I help you today?
+Caller: I went through a loan modification about two years ago, back in 2024. It lowered my payment from $1,920 to $1,650. But I'm struggling again. My hours got cut at work and I'm looking at maybe making $600 less a month than I was. I want to know if I can modify the loan again.
+Agent: I understand, and thank you for calling in early. The fact that you've had a prior modification doesn't automatically disqualify you from another one, but it does introduce some additional considerations. Let me look at the modification history on your account. So I can see the modification completed in March of 2024 — is that the one you're referring to?
+Caller: Yes, that's right. March 2024.
+Agent: Okay. So roughly 27 months ago. That's actually relevant because some programs have a seasoning requirement — a minimum amount of time that must have passed since the last modification before you're eligible for another one.
+Caller: How long is that usually?
+Agent: It depends on who owns your loan. For conventional loans backed by Fannie Mae or Freddie Mac, their Flex Modification programs generally require that at least 12 months have passed since the completion of a prior modification. Since yours was 27 months ago, you'd clear that threshold. However, let me check who the investor is on your loan.
+Caller: I honestly don't know. How do I find that out?
+Agent: I can see it right here on your account. Your loan is owned by Freddie Mac. So you'd be looking at the Freddie Mac Flex Modification program for a second modification.
+Caller: Okay, so I'm eligible?
+Agent: Potentially, yes, but I want to walk through a few more things with you. The Flex Modification program looks at whether a borrower has a qualifying hardship — which you would with the hours reduction — and whether the loan is at least 60 days delinquent or whether you can document imminent default. Imminent default means you can demonstrate you're likely to fall behind even if you're currently current or only slightly past due.
+Caller: I'm about 45 days past due right now. I missed one payment.
+Agent: Okay, so you're approaching but not quite at the 60-day threshold for automatic eligibility, but the imminent default provision may apply. Can you tell me more about the income reduction? Is it ongoing or expected to be temporary?
+Caller: My company reduced everyone from 40 hours to 32 hours a week. My manager says it could last through the end of the year. I was making about $3,400 a month net, now it's closer to $2,800.
+Agent: That's a meaningful reduction. And what are your other monthly obligations — car payment, credit cards, anything like that?
+Caller: I have a car payment of $387, about $300 in credit card minimums, utilities and food probably another $600, and then the mortgage.
+Agent: So if I'm doing rough math, your current monthly obligations including the modified mortgage at $1,650 are roughly $2,937 against $2,800 in income. That's already upside down, which absolutely supports an imminent default claim.
+Caller: Yeah, exactly. That's why I called before it got worse.
+Agent: You did the right thing. Now let me explain how a second modification under Flex would work. The program uses a standard waterfall — first they look at lowering the interest rate, then extending the term of the loan, and in some cases deferring a portion of the principal as a non-interest-bearing balloon. The goal is to get your monthly payment to a target of around 20% of your gross monthly income. Do you know your gross monthly income — before taxes?
+Caller: Roughly $3,500 at reduced hours.
+Agent: So the target payment under Flex would be around $700. Your current modified payment is $1,650. To bridge that gap, they'd try to reduce the rate and extend the term first. Let me check — what's your current interest rate and remaining term?
+Caller: I think it's 5.25% after the modification. I have maybe 28 years left.
+Agent: They could potentially extend the term to 40 years from the modification date and reduce the rate, though the rate adjustments under Flex are more limited than older programs like HAMP. There's also the possibility of a principal deferral to help hit the target payment if rate and term adjustments alone don't get there. But I want to be upfront — I can't tell you today exactly what the modified payment would be. That's determined through the NPV analysis and investor calculation.
+Caller: But there's at least a chance this works out?
+Agent: Based on what you've described, there's a reasonable path here. You meet the time-since-last-modification requirement, you have a documented income reduction, and you're in early delinquency. The main variable is whether the NPV test supports a modification.
+Caller: What's the NPV test?
+Agent: It's a net present value analysis that compares what the investor would likely recover if they modify your loan versus what they'd recover through foreclosure. If modification produces a better expected outcome, it's approved. It's a standardized model the servicer runs using inputs like your home's current value, your income, the proposed new terms, and market rates. We'd order a property valuation as part of the process.
+Caller: How much is my house worth right now, roughly?
+Agent: I don't have a current valuation on file, but I can see the original loan was $248,000. Whatever the current market value is, it'll be part of our internal assessment when you apply.
+Caller: Okay. What do I need to do to apply?
+Agent: You'd submit a formal loss mitigation application. That includes a hardship letter explaining the hours reduction and its impact, your two most recent pay stubs reflecting the reduced hours, your last two months of bank statements, a detailed monthly expense worksheet, and your most recent federal tax return.
+Caller: Can I upload these online?
+Agent: Yes, we have a secure online document portal. Once I open your case today, you'll receive an email with login credentials for the portal. You can upload everything there, and it goes directly into your file.
+Caller: How long will the review take?
+Agent: Once we receive a complete package, we have 30 days under federal guidelines to provide a decision. If we need additional documents, we'll contact you and the clock effectively resets until we get a complete application.
+Caller: What happens to my account while it's under review? Can you start foreclosure while it's pending?
+Agent: Once we have a complete application, no — we cannot dual-track, meaning we can't pursue foreclosure at the same time we're reviewing a complete loss mitigation application. That's a federal protection. But it requires a complete application, not just an inquiry.
+Caller: Understood. Let's get this started then.
+Agent: Absolutely. I'm going to open a hardship case right now, document the income reduction from reduced work hours, note your prior modification from March 2024, and flag your account for Flex Modification review. You'll have the case acknowledgment email within two business days.
+Caller: Thank you, Amber. I'm glad I called before this got out of hand.
+Agent: You did the right thing, Mr. Watkins. Reach out to us at 1-800-555-0312 if you have questions in the meantime, and watch for that email. Take care.
+Caller: Will do. Goodbye.
+Agent: Goodbye.

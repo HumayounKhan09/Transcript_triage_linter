@@ -1,0 +1,32 @@
+Agent: Thank you for calling Pinnacle Mortgage. This is Carlos. How can I help you today?
+Caller: Hi Carlos. I'm refinancing and the new lender is asking me for the servicing transfer history on my current loan. They want to know every company that has serviced this loan. Can you help me with that?
+Agent: Yes, I can look into the servicing history on the account. Let me pull it up. Can I get your name and loan number?
+Caller: My name is Anita Ramirez. Loan number is 3305-ZZ-10044.
+Agent: Thank you Anita. Can you confirm the property address?
+Caller: 1715 Juniper Mesa Lane, Phoenix, Arizona 85016.
+Agent: And the last four of your SSN?
+Caller: 6630.
+Agent: Thank you, I have your account. I can see the servicer history on record here. Let me walk you through it. The loan originated in June of 2017. At origination the servicer was First Western Lending Partners.
+Caller: Okay, I remember them.
+Agent: The servicing was then transferred to Great Plains Mortgage Servicing on January 1st, 2019. A transfer notice should have been sent to you at that time from both companies.
+Caller: Yes, I do remember getting letters about a transfer at some point.
+Agent: Servicing was then transferred again from Great Plains Mortgage Servicing to us here at Pinnacle Mortgage on August 1st, 2021. That's when we became your servicer, and we've been handling your loan since then.
+Caller: So there have been three servicers total?
+Agent: That's correct. First Western Lending Partners from origination in June 2017. Great Plains Mortgage Servicing from January 2019. And Pinnacle Mortgage from August 2021 to present.
+Caller: Can you tell me the transfer dates again? I want to write them all down.
+Agent: Absolutely. The first servicing transfer from First Western to Great Plains was effective January 1st, 2019. The second transfer from Great Plains to Pinnacle was effective August 1st, 2021.
+Caller: And the new lender might want some kind of documentation of that. Do you have anything you can send me?
+Agent: We can provide a servicing history letter or verification of mortgage letter that would document the information we have on file for your loan with us. However, I should note that we can only formally document the period from August 2021 when we became your servicer.
+Caller: What about the history from before Pinnacle took over?
+Agent: We have that information in our records as it was transferred to us, but for any official documentation of the periods when First Western or Great Plains serviced the loan, your new lender may need to reach out to those companies directly, or request records from the prior servicers. We can provide what we know, but their records are more authoritative for those periods.
+Caller: Do you have contact information for the prior servicers?
+Agent: Let me check. For First Western Lending Partners I have a contact number of 1-800-444-2271. For Great Plains Mortgage Servicing, the number in our records is 1-888-661-7730. Those may have changed so I'd recommend verifying if you reach out to them.
+Caller: This is helpful. And what's the original lender? Is that different from the first servicer?
+Agent: Yes. The original lender — the company that actually made the loan — was Desert Valley Bank. First Western was the original servicer who collected payments, but Desert Valley Bank originated and funded the loan.
+Caller: Oh interesting, I didn't know they were different.
+Agent: That's very common in the mortgage industry. Lenders often sell the servicing rights to other companies while retaining the loan itself, or they sell the entire loan. It can result in multiple companies being involved over time.
+Caller: Okay. I think I have what I need now. Thank you so much Carlos.
+Agent: You're welcome Anita. Good luck with the refinance. Is there anything else I can assist you with?
+Caller: No, that's everything. Have a good day.
+Agent: You too. Goodbye.
+Caller: Bye.

@@ -1,0 +1,41 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Marcus. How can I assist you today?
+Caller: Hi Marcus. My name is Paul Whitaker. My mortgage matures in about four months and honestly I completely forgot this was coming. It's a short-term loan I took out some years ago. I need to understand what my options are.
+Agent: Hi Mr. Whitaker, this is actually more common than you might think, and four months does give you some time to work with — though not a lot. Let me pull up your account first. Can you verify your identity for me?
+Caller: Sure. My property address is 2210 Oleander Drive, Wilmington, North Carolina, 28403.
+Agent: Last four of your Social?
+Caller: 8814.
+Agent: Date of birth?
+Caller: February 27th, 1959.
+Agent: Thank you. I have your account. I can see the maturity date. Your loan matures on October 31st of this year. The outstanding balance as of today is $94,220. Let me look at the loan type — it's a five-year term loan with an interest-only period. Is that consistent with what you recall?
+Caller: Yes, I think so. I took it out five years ago when I was doing some investing. This property is a rental, not my primary residence.
+Agent: That makes sense for the product type. So here's the situation: at maturity, the full remaining balance of $94,220 becomes due. If you do not pay it off or refinance before or on October 31st, the loan technically goes into default.
+Caller: I understand. So what are my options?
+Agent: There are a few paths. The first and most straightforward is refinancing — taking out a new loan to pay off this one. Given it's an investment property, you'd be looking at conventional investment property loans or commercial products, depending on the lender. Second, if you have liquid assets, you could pay it off in cash. Third, you could sell the property and use the proceeds to pay off the balance at closing.
+Caller: I don't want to sell. It's been a good rental and the rent covers all my costs. Can I just refinance through you?
+Agent: We're the servicer on this loan, not an originating lender, so a new loan would need to come from a lender who originates investment property loans. That said, I can flag your account to our partner originations team if you'd like to explore whether we have a product that fits.
+Caller: Let me think about that. What rates are investment property loans at right now roughly?
+Agent: I don't have current market rate data — rates change daily and depend heavily on your credit score, the property type, loan-to-value ratio, and other factors. A mortgage broker who specializes in investment properties would be your best resource for current rate shopping.
+Caller: My property is worth more than I owe — I think it's worth around $210,000. So the loan-to-value would be pretty low.
+Agent: A $94,220 balance against a $210,000 value is roughly a 45 percent loan-to-value ratio. That's very favorable for refinancing. At that LTV, you'd likely qualify for competitive terms and shouldn't have trouble getting a new loan.
+Caller: Good. And is there any possibility of extending this loan rather than refinancing? Like can we just add another five years without going through a whole new loan process?
+Agent: Loan extensions or renewals are sometimes available but they're handled case by case and depend on investor guidelines. Let me look at your loan — I can see who the investor is on this account. Your loan is held by a private investor, not a GSE. That means there may be more flexibility than with a Fannie or Freddie loan.
+Caller: Can you check if an extension is possible?
+Agent: I can flag the account for our loss mitigation or loan servicing team to evaluate an extension request. I want to be transparent — I can't guarantee an extension is available, but I can submit an inquiry. You would likely need to provide updated income documentation, a current property appraisal, and possibly have your credit reviewed.
+Caller: How long would that evaluation take?
+Agent: Typically a few weeks. Given your timeline of four months, we shouldn't delay in starting this if it's an avenue you want to pursue.
+Caller: I'd like to pursue it alongside shopping for a refinance. Can I do both simultaneously?
+Agent: Absolutely. In fact, I'd recommend it. Having a refinance in progress as a backup while the extension request is evaluated gives you the most security. If the extension is approved, great. If not, you have a refinance ready to go.
+Caller: Smart. Okay. What information do you need to submit the extension inquiry?
+Agent: I'll submit it on the account today noting you're requesting a loan maturity extension evaluation. Our team will likely follow up and need your current income information — tax returns, rental income documentation — and we may order a property value update. They'll reach out by phone or mail.
+Caller: My rental income covers the payment easily and I have other income. I don't think income will be an issue.
+Agent: That's reassuring. A healthy debt coverage ratio on a rental property is a strong factor in any extension or refinancing evaluation.
+Caller: And if for some reason nothing works and we're approaching October 31st without a solution, what then?
+Agent: In that scenario, you'd want to contact us as soon as possible before the maturity date. A loan in maturity default is different from a typical payment delinquency, but it can still lead to demand for full payment and potentially collection or foreclosure proceedings. The key is not to let the date pass without a plan in place. That's why four months — while not a lot — is enough to work with if you act now.
+Caller: Message received. I'll call a mortgage broker this week and I'll wait to hear from your team about the extension inquiry.
+Agent: That's the right plan. Is there anything else I can help you with today, Mr. Whitaker?
+Caller: Can you note on my account that I called and that I'm aware of the maturity date and actively working on a solution? I want a record of that.
+Agent: Absolutely. I'll note in the account record that borrower called on today's date, was informed of the maturity date and balance, expressed intent to refinance and inquired about extension, and is actively pursuing resolution. That's on record now.
+Caller: Great. Thank you Marcus, I feel a lot better having a plan.
+Agent: You're in a much better position than you think — the equity is there and the timeline is workable. Thank you for calling Meridian Mortgage.
+Caller: Thank you. Bye.
+Agent: Goodbye, Mr. Whitaker.

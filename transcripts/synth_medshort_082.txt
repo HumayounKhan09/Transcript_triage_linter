@@ -1,0 +1,45 @@
+Agent: Meridian Mortgage Servicing, this is Marcus. How can I help you?
+Caller: Hi Marcus, my name is Kevin Straussberg. I paid off my mortgage about two months ago, and I just found out that I need to record something called a satisfaction of mortgage with my county. But I haven't received anything from you. I don't know if you sent it or if I'm supposed to do something.
+Agent: Hi Mr. Straussberg, congratulations on paying off your mortgage. That's a significant milestone. I can definitely help you figure out what's happened. Let me pull up your account. Can you give me the property address?
+Caller: Sure, it's 67 Ridgemont Circle, Portland, Oregon, 97214.
+Agent: Thank you. And can I get the last four of your Social Security number?
+Caller: 5509.
+Agent: And your date of birth?
+Caller: February 3rd, 1958.
+Agent: Thank you. I have your account here and I can confirm the loan was paid in full. Now, the satisfaction of mortgage — also called a release of lien or deed of reconveyance depending on the state — is something we are legally required to send and in many states to record. Let me check on the status of that for your account.
+Caller: Oregon. I think in Oregon they call it a deed of reconveyance because it was a trust deed, not a traditional mortgage.
+Agent: You're absolutely right. Oregon is a deed of trust state, so the document that releases the lien is called a deed of reconveyance. After payoff, we're required to send that document to the trustee or to your county recording office within a certain timeframe. Let me look at your account notes.
+Caller: How long does it usually take?
+Agent: Federal and state laws have varying timelines. Many states require the release to be recorded within thirty to sixty days of payoff. Oregon law actually requires the reconveyance to be issued within ninety days of the payoff. Your loan was paid off approximately two months ago, so we're within that window, but I want to see exactly where this stands.
+Caller: I'm asking because I'm trying to refinance a different property and the lender is asking me to demonstrate I have no encumbrances on this property as part of a cross-collateral thing. It's a little complicated, but I need proof the lien is released.
+Agent: I understand. That makes the timeline more pressing. Let me look at the notes on your account. I'm seeing that your account was marked paid in full on the date of your payoff. I'm also seeing a note that the reconveyance was ordered. However, I want to confirm whether it was recorded with the county or just ordered from the trustee.
+Caller: What's the difference?
+Agent: In a deed of trust state, there's typically a trustee who holds the security interest. When you pay off the loan, we instruct the trustee to issue and record the deed of reconveyance. There can be a lag between when we issue that instruction and when the trustee actually records the document with the county. Once it's recorded, the county typically sends you the original recorded document by mail.
+Caller: I haven't received anything in the mail. Is it possible it was sent to the wrong address?
+Agent: Let me check the address we have on file for final correspondence. The address we show is 67 Ridgemont Circle, Portland, Oregon, 97214. Is that correct?
+Caller: Yes, that's my address. I've been there eighteen years.
+Agent: The address looks correct. Looking at the notes more carefully, I see the reconveyance was ordered on the payoff date and sent to the trustee. However, I don't see a confirmation that it was recorded. I'm going to flag this for our payoff team to follow up.
+Caller: So what do I do in the meantime? I need something to show my refinance lender today or tomorrow.
+Agent: I understand the urgency. A couple of options. First, I can request that our payoff team escalate this and try to get you a confirmation of the reconveyance within one to two business days. Second, you can check with Multnomah County — since Portland is in Multnomah County — to see if the deed of reconveyance has already been recorded. You can often check county recording records online.
+Caller: I didn't know I could do that. How would I search for it?
+Agent: Go to the Multnomah County recording office website, look for a property records or document search feature, and search by the property address or your name. If the reconveyance has been recorded, it will show up and you can often get a copy of the recorded document directly from there, sometimes for a small fee.
+Caller: That's really helpful. What if it hasn't been recorded?
+Agent: If it hasn't been recorded, I'll flag your account as urgent and our payoff team can contact the trustee to expedite the process. In some situations, we can also provide you with a paid-in-full letter or a payoff confirmation letter that some lenders will accept as interim documentation while the formal reconveyance is being processed.
+Caller: Would that be enough for my refinance lender?
+Agent: It depends on the lender, but many will accept a payoff confirmation letter on our letterhead showing the loan is satisfied in full. I can request that letter for you right now and it can typically be mailed or emailed within one to two business days.
+Caller: Could it be emailed? Time is a factor here.
+Agent: Yes, we can send it to an email address you provide. Can I get your email?
+Caller: It's kevin.straussberg at gmail dot com.
+Agent: Got it. K-E-V-I-N dot S-T-R-A-U-S-S-B-E-R-G at gmail dot com?
+Caller: Yes, that's right.
+Agent: I'll put in a request for the payoff confirmation letter to be emailed to you. I'll also flag your account for the payoff team to follow up on the reconveyance status. You should receive a call or email from us within two business days with an update.
+Caller: And separately I'll check the county records website?
+Agent: Exactly. If it's already recorded, you might be able to get the documentation you need faster than waiting on us. Both tracks at the same time is the best approach given your timeline.
+Caller: That makes sense. This has been really frustrating — I paid off my mortgage, which is supposed to be a happy occasion, and now I'm chasing paperwork.
+Agent: I completely understand. The lien release process has more moving parts than most people realize after a payoff, and I'm sorry it's causing you stress during what should be a celebration. We'll get this resolved for you.
+Caller: Okay. Thank you Marcus. I appreciate the help.
+Agent: Of course. Is there anything else I can help you with today?
+Caller: No, that's it. I'll check the county website and watch for your email.
+Agent: Sounds good. Thank you for calling Meridian Mortgage, and congratulations again on the payoff.
+Caller: Thanks. Bye.
+Agent: Bye.

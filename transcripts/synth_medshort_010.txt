@@ -1,0 +1,40 @@
+Agent: Thank you for calling Gateway Mortgage Services, this is Lisa speaking. How can I help you today?
+Caller: Hi, my name is Bryan Kowalski. I'm calling because I think something went wrong with my payment. My online account is showing it was returned or something and now I'm really not sure what's going on.
+Agent: Hi Bryan. I'm sorry to hear that. A returned payment can definitely be stressful. Let me pull up your account and we'll figure this out. Can I get your property address and the last four of your Social?
+Caller: Sure. 619 Spruce Street, Pittsburgh, Pennsylvania 15212. Social last four is 5503.
+Agent: And the last four of your loan number?
+Caller: 4481.
+Agent: Got it. I've got your account here. I can see the returned payment. Let me look at the details. Your payment of $1,876 was submitted on June 2nd and returned on June 5th. The return reason code on our end is R04.
+Caller: What does that mean?
+Agent: R04 is the return code for invalid account number. This typically means the bank account number on file doesn't match any active account at the bank it was submitted to.
+Caller: That's weird. I set up my payment the same way I always do. I've been paying online for two years.
+Agent: That's helpful context. Sometimes this happens when a customer opens a new bank account and the old account closes, or if the bank updated account numbers for any reason. Did you by any chance get a new debit card, switch banks, or open a new checking account recently?
+Caller: Oh. Actually, yes. I switched banks about six weeks ago. I moved from PNC to Citizens Bank. But I thought I updated my payment info on your website.
+Agent: That's most likely what happened. It sounds like the old PNC account number may still be stored on your profile from before you updated, or the update may not have saved correctly. The payment was sent to the closed PNC account, which no longer exists, and was returned.
+Caller: So my mortgage payment for June just didn't go through?
+Agent: That's correct. Your June payment is currently showing as unpaid. Today is June 8th, so you're still within your grace period, which ends on June 15th. If we can get a new payment submitted today, you'll be within the grace period and no late fee will be assessed.
+Caller: Oh thank goodness. I was worried I was going to get hit with fees. Okay, what do I do?
+Agent: I can take a new payment over the phone right now using your Citizens Bank account. I'll just need your new routing number and account number. There is a convenience fee of $12.50 for phone payments.
+Caller: That's fine. The routing number for Citizens Bank is 036076150. And my checking account number is 5589014773.
+Agent: Thank you. Let me confirm: routing 036076150, account number 5589014773, checking account?
+Caller: Yes, that's right.
+Agent: Great. So I'll be processing your June payment of $1,876 plus the $12.50 convenience fee, for a total of $1,888.50. Can you confirm you authorize this transaction?
+Caller: Yes, I do.
+Agent: Processing now. All right, Bryan, your payment has been submitted. Your confirmation number is PHN-2024-0187432. The payment should post to your account within one to two business days.
+Caller: And the returned payment — does that affect my credit score?
+Agent: Because your payment was returned rather than simply not made, and because we're resubmitting before the grace period ends, this will not be reported to the credit bureaus. Typically, credit reporting only occurs when a payment is 30 or more days past the due date. You're well within that window.
+Caller: Big relief. Is there a returned payment fee on top of everything?
+Agent: Let me check. Yes, there is a returned payment fee of $25 on your account. However, given that this was caused by a bank account change and not a funds issue, I'm going to submit a request to have that fee waived as a one-time courtesy.
+Caller: Oh wow, thank you. I really appreciate that.
+Agent: Of course. It looks like a genuine account transition issue rather than NSF. The waiver will be reviewed and if approved, you'll see the $25 credit on your account within three to five business days.
+Caller: Now I need to update my bank account info so this doesn't happen again. How do I do that?
+Agent: You can update your payment information through your online account at GatewayMortgage.com. Go to the payment settings section and update your bank account. I'd recommend removing the old PNC information entirely and entering the Citizens Bank details fresh.
+Caller: I'll do that as soon as I hang up. I could also do it with you right now if that's easier.
+Agent: We can update the recurring bank info on your profile right now if you'd like. You've already given me the Citizens Bank routing and account number, so I can update your profile to reflect that going forward.
+Caller: Yes, please do that. That way I don't have to worry about it happening again.
+Agent: Done. Your payment profile has been updated to the Citizens Bank account ending in 4773. All future payments will draft from this account.
+Caller: Perfect. Thank you so much, Lisa. You really took care of everything.
+Agent: That's what I'm here for. Is there anything else I can help you with today?
+Caller: No, I think you covered it all. Thank you again.
+Agent: My pleasure. Have a great day, Bryan. Goodbye.
+Caller: Goodbye. Thank you.

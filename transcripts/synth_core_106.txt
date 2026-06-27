@@ -1,0 +1,47 @@
+Agent: Thank you for calling Horizon Mortgage Solutions. This is Nicole. Can I get your loan number and name?
+Caller: Sure, I'm Patricia Odom. Loan number is 8-8-2-4-4-6-0.
+Agent: Thank you, Ms. Odom. Property address and last four of Social to verify?
+Caller: 1503 Magnolia Street, Baton Rouge, Louisiana 70808. And last four is 7-7-2-5.
+Agent: Got it, account is up. How can I help you today?
+Caller: I got a letter about two weeks ago offering me something called a Flex Modification. It mentioned a lower monthly payment and I'm interested but I'm confused about what it actually is, what it's replacing, and whether I should take it. I used to be in HAMP back years ago, and this seems similar but different.
+Agent: That's a great observation, Ms. Odom. You're right that the Flex Modification program was designed as a successor to HAMP — the Home Affordable Modification Program — which expired at the end of 2016. Flex Modification was implemented by Fannie Mae and Freddie Mac starting in 2017 as a streamlined alternative that servicers like us can offer to eligible borrowers. Let me look at your account to confirm you're on a Fannie Mae or Freddie Mac loan.
+Caller: I believe it's Fannie Mae. That's what I've always been told.
+Agent: Yes, I can confirm — your loan is owned by Fannie Mae. So the offer you received is a Fannie Mae Flex Modification. Can you tell me what your letter showed as the proposed new payment?
+Caller: It said my new monthly payment would be $1,082. My current payment is $1,374.
+Agent: So that would be a reduction of $292 per month, or about 21%. That's a meaningful change. Let me walk you through how the Flex Modification is structured and how that new payment was calculated.
+Caller: Yes please, because the letter didn't explain it very well.
+Agent: The Flex Modification uses a standard waterfall of adjustments to reach a target payment. The target under Fannie Mae guidelines is 20% of your gross monthly income — not net, but gross. However, rather than going through a full income analysis for every borrower like HAMP did, Fannie Mae allows servicers to offer a streamlined Flex Modification to borrowers who meet certain criteria, like being 60 or more days delinquent.
+Caller: I'm currently 74 days behind. So that explains why I got this offer automatically?
+Agent: Exactly. Because you're past the 60-day threshold, you received a streamlined offer — sometimes called a Streamlined Flex. You don't have to submit full financial documentation to accept it, at least not under the streamlined track. You'd simply sign the offer and return it.
+Caller: Wait, I don't have to prove my income?
+Agent: Under the streamlined track, no. Fannie Mae's position is that borrowers who are 60 days or more delinquent are presumed to have a hardship, so the documentation burden is reduced. The terms are standardized based on the loan's characteristics rather than a full underwriting review.
+Caller: And what adjustments did they make to get my payment down to $1,082?
+Agent: Let me pull the specifics from the offer details in your file. It looks like the waterfall used three steps. First, they capitalized your arrears — that means the past-due amounts, about $2,748, were added to the unpaid principal balance. Second, they extended your loan term to 480 months — that's 40 years from the modification date. Third, they reduced your interest rate. Your current rate is 6.75% and the modified rate would be 4.5%, which is based on the Freddie Mac Primary Mortgage Market Survey rate in effect when the offer was generated plus some margin.
+Caller: Wait, why is it based on the Freddie Mac survey if it's a Fannie Mae loan?
+Agent: Good catch — both Fannie Mae and Freddie Mac use the same PMMS rate as a benchmark for Flex Modification interest rates. It's just an industry-standard reference rate for mortgage pricing. The rate offered to you, 4.5%, would be the floor if the PMMS-based calculation produced a lower rate, or it would be the PMMS plus a set spread — whichever is appropriate. In your case, 4.5% appears to be near the current cap.
+Caller: Okay. And my new balance after they roll in the arrears — what would that be?
+Agent: Your current unpaid principal balance is $162,400 and the capitalized arrears bring it to approximately $165,148. So your balance does go up slightly, which is a trade-off of the modification.
+Caller: I don't love that my balance goes up. Is there any alternative?
+Agent: That's a valid concern. The capitalization of arrears is a standard feature of this program. The alternative would be to pay your arrears out of pocket, but since you're behind, that's often not feasible. The trade-off is that you get a substantially lower interest rate and extended term that makes your monthly payment much more manageable, at the cost of a slightly higher balance and a longer payoff timeline.
+Caller: How much longer do I have to pay?
+Agent: Your remaining term before modification was approximately 27 years. After modification it resets to 40 years. So yes, significantly longer. But some borrowers refinance or sell the home before the end of the term, so the total cost depends on how long you stay in the loan.
+Caller: What happens to my credit when I accept this modification?
+Agent: A loan modification is typically reported to the credit bureaus. The modification itself may be noted on your credit report, and the prior delinquency — the 74 days — has likely already been reported. The modification doesn't add a new negative item per se, but your credit report will reflect the changed terms. The most important thing for your credit going forward is making the modified payments consistently and on time.
+Caller: Is there a trial period like there was with HAMP?
+Agent: Yes. Streamlined Flex Modifications include a trial period plan — typically three months. You'd make three trial payments at $1,082, and if all three are made successfully and on time, the modification is made permanent and the loan documents are updated. The offer letter should specify your trial payment start date.
+Caller: The letter says my first trial payment would be due July 1st.
+Agent: So you'd have trial payments due July 1st, August 1st, and September 1st. If all three are made within their respective calendar months, we'd finalize the permanent modification and send you the modification agreement to sign.
+Caller: What if I want to accept — what do I send back?
+Agent: The offer letter should include a reply envelope and a signature page. You sign and return the acceptance page before the offer expiration date. Let me check — do you know when the offer expires?
+Caller: The letter says I have until July 5th to respond.
+Agent: That gives you a little time but not a lot, since your first trial payment would be July 1st. I'd recommend returning the acceptance as soon as possible so we can set up the trial plan in the system before the payment posts.
+Caller: Can I accept it over the phone or online?
+Agent: For a Flex Modification, we need a signed acceptance. You can scan and upload it through our secure portal at horizonmortgageportal.com, or fax it to 1-800-555-0701. That would be faster than mailing it.
+Caller: Okay, I'll scan it and upload it today. This actually sounds pretty good for my situation.
+Agent: I think it's worth serious consideration. A $292 monthly reduction is meaningful, and the streamlined process means you avoid the full document submission of a standard modification. Is there anything else I can clarify?
+Caller: One more thing — if I accept this and then later things get worse, can I apply for another modification?
+Agent: Under Fannie Mae guidelines, after a modification there's generally a 12-month seasoning period before you'd be eligible for another Flex Modification. So it's not a permanent solution to any future hardship, but it gives you stabilization now.
+Caller: Understood. I'll get that paperwork uploaded today. Thank you, Nicole.
+Agent: You're very welcome, Ms. Odom. Please call us at 1-800-555-0322 if you have any questions after reviewing. Good luck.
+Caller: Thank you. Goodbye.
+Agent: Goodbye.

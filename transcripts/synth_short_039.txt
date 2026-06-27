@@ -1,0 +1,44 @@
+Agent: Thank you for calling Centerpoint Mortgage Servicing, this is Anita. How may I help you today?
+Caller: Hi Anita. I'd like to know how many payments I have left on my mortgage. I've been trying to track where I am and I want the exact number.
+Agent: Happy to help with that. Let me pull up your account. Can I start with your full name?
+Caller: Winston Park.
+Agent: Thank you, Mr. Park. And your loan number or property address?
+Caller: The property address is 60 Ridgecrest Boulevard, Atlanta, Georgia.
+Agent: And for verification, the last four digits of your Social Security number?
+Caller: 6641.
+Agent: And your date of birth?
+Caller: December 1, 1966.
+Agent: Thank you. One moment while I look up your account.
+Caller: Of course.
+Agent: Okay, I have your loan information here. Based on your original loan terms and payment history, you currently have 194 monthly payments remaining.
+Caller: 194. So that's what, about 16 years?
+Agent: That's correct. 194 months works out to approximately 16 years and 2 months. Your loan maturity date is August 1, 2041.
+Caller: Okay, so August 2041 is when it's paid off if I keep making regular payments?
+Agent: Correct, assuming you continue making your regular scheduled payments with no additional principal payments or missed payments.
+Caller: How many total payments have I made so far?
+Agent: Your loan was a 30-year, or 360-month, term. With 194 remaining, you've completed 166 payments.
+Caller: 166. And I started in 2011?
+Agent: Your loan originated on February 1, 2011, so yes, you've been in the loan for about 14 years and 4 months at this point.
+Caller: It doesn't always feel that way. So I'm almost halfway done payment-wise?
+Agent: You're actually past halfway. You've made 166 of 360 payments, which is about 46 percent of the total number of payments. You are approaching the midpoint.
+Caller: Close to halfway. Interesting. And the balance, roughly?
+Agent: Your current outstanding principal balance is $203,744.88.
+Caller: And the original loan amount?
+Agent: Your original loan was for $278,000.
+Agent: So you've paid down approximately $74,255 in principal over the life of the loan.
+Caller: Okay. I guess my real question is whether making extra payments would noticeably change that 194 number.
+Agent: Absolutely. Extra principal payments can have a meaningful impact. For example, if you paid an additional $200 per month toward principal starting now, you could shorten the loan by approximately 3 to 4 years, bringing your payoff date closer to 2037 or 2038.
+Caller: That much just from $200 extra a month?
+Agent: Yes, because the additional payments reduce your principal balance faster, which means less interest accrues over time, which means more of each subsequent payment goes to principal, and the cycle compounds. The earlier in the loan you start, the greater the impact.
+Caller: What if I made one large lump sum payment right now?
+Agent: That would also accelerate your payoff. If you told me an amount, I could give you a rough estimate of how many months it might save, or our online payoff calculator can model it for you with precision.
+Caller: Let me think about the numbers. I might want to look at that calculator. Where is it?
+Agent: It's available when you log in to your borrower portal online. Under the account overview page there's a prepayment calculator tool. You can enter different extra payment scenarios and it will show you the revised payoff date and total interest savings.
+Caller: Good. I'll check that out. I mainly just wanted to know the 194 number today.
+Agent: And that's confirmed: 194 payments remaining, with a maturity date of August 1, 2041.
+Caller: Perfect. Thanks, Anita. Really helpful.
+Agent: My pleasure. Is there anything else I can assist you with today?
+Caller: No, that's all I needed.
+Agent: Thank you for calling Centerpoint Mortgage Servicing, Mr. Park. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

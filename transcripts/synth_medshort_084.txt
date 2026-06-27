@@ -1,0 +1,39 @@
+Agent: Meridian Mortgage Servicing, this is Ray. How can I help you today?
+Caller: Hi, my name is Lorraine Xu. I have a question that seems simple but I'm having trouble finding the answer. I want to know who actually owns my mortgage — like, who is the investor — and whether I can contact them directly. Can you tell me that?
+Agent: Hi Ms. Xu, that's actually a pretty common question and you have a right to that information. Let me pull up your account. First, can I verify your identity?
+Caller: Sure.
+Agent: Property address?
+Caller: 4401 Westbrook Terrace, Minneapolis, Minnesota, 55416.
+Agent: Last four of your Social?
+Caller: 2284.
+Agent: Date of birth?
+Caller: August 19th, 1984.
+Agent: Thank you. I have your account. So to answer your question — there are two different entities involved with your mortgage: the servicer, which is us, Meridian Mortgage Servicing, and the investor, which is the entity that actually owns the loan and receives the principal and interest payments.
+Caller: Right, I understand that distinction. I just want to know who the investor is on my loan specifically.
+Agent: Looking at your account, your loan is owned by Fannie Mae — formally, the Federal National Mortgage Association. That's the investor on your loan.
+Caller: Okay. And can I contact Fannie Mae directly? Like if I have a complaint or a question?
+Agent: You can contact Fannie Mae, though it's worth understanding what they can and cannot do. Fannie Mae doesn't handle day-to-day servicing — we do. They set guidelines and policies, but if you have a question about your payment, your escrow, your modification, or anything operational, we're the right point of contact.
+Caller: What if my complaint is about how you're servicing my loan? Can I go over your head to Fannie Mae?
+Agent: Yes, actually. Fannie Mae does have a resource for borrowers who feel their servicer isn't following proper guidelines. It's called the Fannie Mae Mortgage Help Center, and you can reach them at 1-800-2-FANNIE, which is 1-800-232-6643. They can investigate servicer conduct if they believe guidelines aren't being followed.
+Caller: Good to know. And what about you — Meridian — as the servicer? What's the best way to reach someone with authority here if I have an issue?
+Agent: Our customer service line is the main contact, which is the number you're calling now. If you have an unresolved issue, you can also submit a written complaint to our customer relations department, and under RESPA we are required to respond within certain timeframes. You can also escalate to the Consumer Financial Protection Bureau if you feel your concerns aren't being addressed.
+Caller: Can I ask — why did my loan get sold to Fannie Mae? I got a letter years ago saying my loan was being transferred, and at the time I didn't really understand it.
+Agent: That's very common. When lenders originate mortgage loans, they often sell them to investors like Fannie Mae or Freddie Mac to replenish their capital so they can make more loans. Fannie Mae and Freddie Mac are what's called government-sponsored enterprises that purchase mortgages on the secondary market. Your loan was likely sold shortly after origination.
+Caller: And my servicer has changed before too. You're not the original servicer.
+Agent: That's also common. The servicing rights — the right to collect payments and manage the loan — can be sold separately from the loan itself. So the ownership of the loan and the servicer can change independently of each other. In your case, Fannie Mae has owned the loan, but the servicer has changed over time.
+Caller: Okay, that makes sense now. So when my servicer changed, nothing about my loan terms changed?
+Agent: Correct. A servicing transfer cannot change your loan terms — the interest rate, principal balance, payment amount, or maturity date. Those are locked into your original note, and only a formal loan modification can change them.
+Caller: Good. So my main question — I was curious because I wanted to know if I could go to the investor directly to ask about a possible rate reduction. Is that something Fannie Mae handles?
+Agent: Fannie Mae doesn't negotiate directly with individual borrowers on rate reductions. Rate reductions or loan modifications are handled through the servicer, following Fannie Mae guidelines. If you're looking for a lower rate, the two main paths are a refinance, which involves a new loan, or a loan modification, which requires qualifying under specific hardship or eligibility guidelines.
+Caller: I'm not in hardship — I'm just paying a higher rate than what's available now and I thought maybe there was a way to get it reduced without a full refinance.
+Agent: I understand. Without a hardship, the standard path would be a refinance. I'd recommend speaking with our originations team or a mortgage broker to see what rate you'd qualify for today. Even accounting for closing costs, it might make sense financially depending on your remaining loan balance and how long you plan to stay in the home.
+Caller: That's fair. Alright, let me ask one more thing. My monthly statement shows your name and logo, but sometimes I get letters with other company names on them. Who should I trust?
+Agent: Good question. You should receive a welcome letter whenever your servicer changes, and that letter is official notice. If you ever receive correspondence that you're uncertain about, you can call us directly at the number on your official statement to verify whether something is legitimate. Mortgage fraud and mailing scams are unfortunately real, so it's smart to be cautious.
+Caller: Okay. And just so I have it — what's the official mailing address for Meridian Mortgage?
+Agent: Our correspondence address is Meridian Mortgage Servicing, PO Box 7200, Dallas, Texas, 75202. If you send anything, always include your loan number for reference.
+Caller: Thank you Ray. This is actually really helpful. I now understand the whole investor-servicer relationship much better.
+Agent: I'm glad. It's something a lot of borrowers wonder about but don't always get a clear answer on. Is there anything else I can help you with today?
+Caller: No, that covered everything.
+Agent: Thank you for calling Meridian Mortgage, Ms. Xu. Have a wonderful day.
+Caller: You too. Bye.
+Agent: Goodbye.

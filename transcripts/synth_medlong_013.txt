@@ -1,0 +1,45 @@
+Agent: Thank you for calling Heritage Mortgage Servicing, this is Sandra. Can I get your loan number?
+Caller: Yeah. 904417. My name is Bernadette Flowers.
+Agent: Thank you, Ms. Flowers. Property address and last four of Social?
+Caller: 2905 Sycamore Street, Cincinnati, Ohio. Last four is 7782.
+Agent: I have your account. How can I help you today?
+Caller: I'm in a Chapter 13 bankruptcy. My plan was confirmed about four months ago. I don't fully understand how the payments are supposed to work — I have a trustee who's making payments to you, but I'm also getting letters from you saying I have a payment due. My lawyer isn't explaining it well enough. I'm scared I'm going to do something wrong.
+Agent: Ms. Flowers, this is one of the most common sources of confusion for borrowers in active Chapter 13, and I'm going to explain it as clearly as I can. And first, I want to reassure you — the fact that you're paying attention and asking questions is exactly the right thing to do. A Chapter 13 mistake can have very serious consequences, so let's get this right.
+Caller: Okay. Yes. Please explain it.
+Agent: Before I do, I need to let you know that since you have an active bankruptcy case, some of the actions I can take on your account are limited — I can't discuss the pre-petition debt or attempt to collect anything outside of what your bankruptcy plan covers. But I can absolutely explain how your mortgage payments work within the Chapter 13 framework. Is that alright?
+Caller: Yes, that's fine. I just need to understand the mechanics.
+Agent: Great. Let me look at your account. I can see the bankruptcy case was filed on February 14, 2024, and confirmed on March 2, 2024. Your case number is 1:24-bk-01447 in the Southern District of Ohio. Your Chapter 13 plan was confirmed and our claim is listed here. Let me see what's in the claim.
+Caller: Okay.
+Agent: Here's what your account shows. At the time you filed bankruptcy, you had a current monthly mortgage payment of $1,391. You were also 4 months behind on your mortgage — an arrearage of $5,564 plus costs. In Chapter 13, these two pieces — the ongoing monthly payment and the pre-petition arrearage — are handled separately and by different parties. This is the key thing to understand.
+Caller: My lawyer mentioned something like that but I got confused.
+Agent: Let me explain each piece. The first piece is the pre-petition arrearage — that's the $5,564 you owed before you filed bankruptcy. Your Chapter 13 plan includes a provision to pay that arrearage through your trustee. So you're making plan payments to the trustee, and the trustee takes a portion of those payments and sends them to us every month to chip away at the $5,564. By the end of your 5-year plan, the arrearage should be fully paid through the trustee.
+Caller: So the trustee is handling the old debt I was behind on?
+Agent: Exactly. The trustee distributes money to all your creditors according to the confirmed plan — we get a portion each month for the arrearage, and other creditors get their portions as well.
+Caller: Okay. So what about the ongoing monthly payment?
+Agent: That's the second piece, and this is where people often get confused. The ongoing monthly mortgage payment — $1,391 due on the 1st of each month — is called a post-petition payment. Because the debt was incurred after your bankruptcy filing date each month it comes due, you are personally responsible for paying that directly to us. The trustee does not pay your ongoing mortgage. You pay it yourself.
+Caller: Wait, so I pay the trustee, the trustee pays you for the old debt, and I also separately pay you directly every month?
+Agent: That's exactly right. Two separate payments going to us — one from the trustee for the old arrearage, and one from you directly for the current monthly obligation. And the letters you're receiving from us — they're the regular monthly mortgage statements showing your current payment due. Those are legitimate and you should be making those payments directly to us.
+Caller: I haven't been making those payments directly to you. I thought the trustee was handling everything.
+Agent: This is the critical issue. If you have not been making the ongoing $1,391 payments directly to us since your plan was confirmed in March, you may have post-petition defaults accumulating. Let me look at what payments we've received. I can see trustee disbursements — February, March, April, May. Those are the arrearage payments from the trustee. But I'm also looking for direct borrower payments for the monthly obligation. I'm not seeing those.
+Caller: Oh no. So I'm getting further behind?
+Agent: Let me look carefully at the amounts. Your confirmation date was March 2, 2024. So post-petition payments were due March 1 — let's say April was the first post-petition monthly — April, May, June. That's potentially three months of missed post-petition payments at $1,391, totaling $4,173. This is serious and you need to address it.
+Caller: What happens if I don't pay?
+Agent: If you accumulate post-petition defaults in a Chapter 13, we can file a Motion for Relief from the Automatic Stay with the bankruptcy court. The automatic stay is what protects you during bankruptcy — it prevents us from foreclosing. But if you're not making ongoing payments, we have the right to ask the judge to lift that protection. If the stay is lifted, we can proceed with foreclosure even while you're in bankruptcy. That's the worst outcome.
+Caller: I did not know any of this. My lawyer — this should have been explained.
+Agent: I agree this should have been explained clearly at the outset. Many bankruptcy attorneys are thorough, but the Chapter 13 mortgage payment structure trips a lot of people up. The good news is you're finding this out now, not after a stay relief motion is filed.
+Caller: What do I do? How do I fix this?
+Agent: First and most urgent: contact your bankruptcy attorney today and tell them you've been inadvertently missing post-petition mortgage payments. They need to know. There may be a cure process through the court to address this — sometimes called a 3002.1 notice resolution — or your attorney may help you file a motion to catch up the post-petition payments in a structured way. Second, start making your direct monthly payment of $1,391 immediately. For June, if you haven't paid yet, make that payment now. Today if possible. Go to our website — HeritageMortgage.com — and you can make a payment online even if you're in bankruptcy, because these are current monthly obligations.
+Caller: Can I call my trustee too?
+Agent: Yes, you can contact the trustee's office to confirm what their records show — specifically whether they've been making the arrearage disbursements correctly. But understand that the trustee cannot help you with the post-petition payments — that's between you and us directly.
+Caller: How do I know going forward what I owe to whom?
+Agent: Your trustee payment — whatever you agreed to pay the trustee each month — that goes to the trustee. Separately, your mortgage statement from us — $1,391 — goes directly to us every month. Two separate checks or payments. The trustee payment and the mortgage payment are never the same thing.
+Caller: Is there anything on my account I can see online that shows these separately?
+Agent: Yes. In your online portal, under Payment History, you'll see two types of entries: "Trustee Disbursement" entries, which are the trustee's payments hitting your arrearage claim, and "Regular Monthly Payment" entries, which would be your direct payments. Right now you'll see the trustee entries but no regular monthly entries — which confirms the gap we discussed.
+Caller: I'm going to call my attorney the moment I hang up. This is bad.
+Agent: It's fixable, but you need to move fast. The window to address post-petition defaults is usually before a stay relief motion is filed, and that typically happens after 3 or more months of missed payments. You're right at that threshold.
+Caller: Can you give me the exact amount I need to pay today to get caught up?
+Agent: I can give you the monthly amount — $1,391 per month. For April, May, and June — $4,173 total past due. I cannot set up a formal repayment plan for post-petition arrears without court involvement, but making the payments directly is something you can do right now. Your reference number for today is 3318-BFL-BKR. Is there anything else I can clarify?
+Caller: I think I understand now. I'm just — I'm kicking myself.
+Agent: Don't. You didn't know, and now you do. Call your attorney, make your June payment, and get back on track. This is manageable. Take care of yourself, Ms. Flowers.
+Caller: Thank you, Sandra. I really appreciate your patience.
+Agent: Of course. Good luck. Call us anytime you have questions about the direct payment side.

@@ -1,0 +1,40 @@
+Agent: Thank you for calling Sterling Mortgage, this is Lisa. How can I help you?
+Caller: Hi Lisa. I'm closing on a refinance next week and my new lender needs the wire instructions to pay off my current loan with you.
+Agent: Got it. I can provide those. Let me verify your account first. Can I have your name?
+Caller: Nathan Breckenridge.
+Agent: Thank you, Mr. Breckenridge. And the last four of your Social Security Number?
+Caller: 4402.
+Agent: And the property address?
+Caller: 801 Highland Oaks Drive, Austin, Texas 78701.
+Agent: I have your account. And the closing date for your refinance?
+Caller: July 14th.
+Agent: Perfect. The payoff amount good through July 14th, with buffer days through July 18th, is $376,219.44.
+Caller: Can I get the full breakdown?
+Agent: Of course. Principal balance: $373,840.22. Accrued interest through July 18th: $2,379.22. No outstanding fees. Total: $376,219.44.
+Caller: Great. And the wire instructions?
+Agent: I'll provide the wire instructions now. Please have your new lender use the following: Bank name: First National Bank of Texas. Routing number for wire: 111000614. Account number: 8820039410. Account name: Sterling Mortgage Payoff Account. And please include your loan number in the wire memo field. Your loan number is 3341872950.
+Caller: Let me read that back. First National Bank of Texas, routing 111000614, account 8820039410, Sterling Mortgage Payoff Account, memo: loan number 3341872950.
+Agent: That's all correct.
+Caller: Can I get this in writing? My new lender will want a formal document.
+Agent: Absolutely. We can fax or email the official payoff statement with wire instructions included. The payoff statement is the document your new lender needs.
+Caller: Email is easier. My loan officer's email is kmcallister at primechoice lending dot com.
+Agent: K dot mcallister at primechoice lending dot com?
+Caller: Yes, that's it.
+Agent: I'll send the official payoff statement with wire instructions to that email. It typically goes out within two business hours.
+Caller: Will it also come to me?
+Agent: I can copy you as well. What's your email?
+Caller: Nathan dot breckenridge at gmail dot com.
+Agent: Got it. Both emails are on the request. The document will show today's date as the generation date, with the payoff good through July 18th.
+Caller: And if for some reason the closing gets delayed past July 18th?
+Agent: Just call us and we'll generate a new payoff statement with an updated good-through date. The balance will be slightly higher due to additional interest accrual.
+Caller: Makes sense. And after the wire hits, how do I know you've applied it?
+Agent: Once we receive the wire, we process it the same business day if it arrives before 3 p.m. Eastern. We'll send a payoff confirmation letter. And your account will reflect a zero balance.
+Caller: Will I get any money back? Like escrow surplus?
+Agent: Yes. After payoff, your escrow balance is calculated. I show a current escrow balance of $2,108.00. After any adjustments for outstanding disbursements, any remaining surplus will be refunded to you by check within 20 business days.
+Caller: Two thousand dollars or so back. That's helpful.
+Agent: It's a nice offset to closing costs.
+Caller: Alright, I think I have everything. Wire instructions confirmed, payoff statement going to my loan officer and me.
+Agent: That's correct. Is there anything else before your closing?
+Caller: I don't think so. Thanks Lisa, this was smooth.
+Agent: My pleasure. Good luck with your refinance. Goodbye.
+Caller: Thank you. Bye.

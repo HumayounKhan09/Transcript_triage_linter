@@ -1,0 +1,25 @@
+Agent: Thank you for calling Keystone Mortgage Servicing. My name is Carlos. How can I help you today?
+Caller: Hi Carlos. I'm calling because I'm in a bit of a tough spot financially this month. I had an unexpected car repair and it wiped out what I had set aside for my mortgage payment. Is there any way I can get an extension on my payment, even just for a couple of weeks?
+Agent: I understand that can be a stressful situation and I appreciate you reaching out proactively. Let me pull up your account so I can look at your history and options. Can I get your name and loan number?
+Caller: My name is Tanya Breckenridge. Loan number is 2215-EE-71100.
+Agent: Thank you Tanya. Can you verify the property address?
+Caller: 619 Maple Grove Street, Memphis, Tennessee 38104.
+Agent: And the last four of your SSN?
+Caller: 3307.
+Agent: Thank you, I have your account. Let me take a look. Okay, I can see your account is current with no history of late payments. Your payment due date is the first of the month and you have a grace period through the 15th.
+Caller: Yes, the 15th is actually a couple of weeks away from now. I'm just not sure I can make it even by then.
+Agent: I appreciate you being upfront about that. So I want to explain your options briefly. First, because you're within your grace period right now, you technically have until the 15th without incurring a late fee. So that gives you a natural window.
+Caller: Right, but I'm worried I won't have the funds by the 15th either.
+Agent: I understand. In that case, I do want to be transparent with you. We don't offer informal extensions in the traditional sense, but we do have processes for customers experiencing short-term hardships. One option is a formal payment deferral, which involves a review and approval process and is generally for borrowers who are facing a temporary financial hardship.
+Caller: Would I qualify for something like that?
+Agent: Because your account is currently in good standing and this appears to be a one-time situation, you may be a candidate. However, I want to be clear that a formal deferral is not something I can approve on this call — it would go through our hardship assistance team and involves a review process.
+Caller: How long does that take?
+Agent: It can take several business days to process. Given that your due date is approaching I'd recommend we get that inquiry started right away. I can transfer you to our hardship assistance team now if you'd like.
+Caller: Yes, let's do that. I don't want to fall behind if I can help it.
+Agent: Absolutely. I'll note your account and transfer you. While you're waiting I do want to mention — if the deferral is not approved or takes too long, and your payment becomes more than thirty days past due, it could impact your credit. So please be sure to follow up with that team and communicate your situation clearly.
+Caller: I will. I appreciate you being honest about that.
+Agent: Of course. Is there anything else before I transfer you?
+Caller: No, let's just get this going.
+Agent: Understood. I'm going to place you on a brief hold and transfer you to our customer hardship team. Thank you for calling proactively Tanya.
+Caller: Thank you Carlos.
+Agent: One moment please.

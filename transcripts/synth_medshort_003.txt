@@ -1,0 +1,35 @@
+Agent: Thank you for calling Summit Mortgage Services, this is Sandra speaking. How can I assist you today?
+Caller: Hi Sandra. My name is Robert Flemming. I got this escrow statement in the mail and I'm pretty confused by it. There are numbers all over the place and I don't really know what I'm looking at.
+Agent: No worries at all, Robert. Escrow statements can definitely be confusing. Let me pull up your account and we can walk through it together. Can I get your property address and the last four of your Social?
+Caller: Yeah. It's 2250 Maple Grove Court, Sacramento, California 95835. And the last four is 3309.
+Agent: Thank you. And your loan number or last four of the loan?
+Caller: Last four is 6612.
+Agent: Got it. All right, I have your account. So you received your annual escrow analysis statement. Is this the one dated within the last few weeks?
+Caller: Yeah, it's dated May 14th.
+Agent: Perfect. I'm looking at that analysis now. So let me explain what this is all about. Every year we conduct what's called an escrow analysis. This is where we look at how much money came into your escrow account over the past twelve months and how much went out for things like property taxes and homeowners insurance. Then we compare that to what we expect to pay out in the coming year and make sure you have enough in the account to cover those expenses.
+Caller: Okay, that makes sense so far. But it's showing something called a shortage. Does that mean I owe money?
+Agent: It does mean your escrow account is a bit under where it needs to be. Let me explain how that happens. Your escrow account is like a savings account that we manage on your behalf for tax and insurance payments. If either of those went up since last year, the amount we collected in your monthly payment might not have been enough to cover the full disbursements.
+Caller: So did my taxes go up?
+Agent: Let me check. Yes, looking at your account, your property tax disbursement last year was $4,218. This year the county assessed it at $4,620. That's an increase of $402. Your homeowners insurance also went up slightly, from $1,140 to $1,195.
+Caller: Oh, I didn't realize my taxes went up that much. The county never told me directly.
+Agent: That's pretty common. The counties assess and send the bill directly to us since we pay from escrow. The total shortage on your account comes to $347, which is what you see reflected on that statement.
+Caller: Okay so now I'm seeing two options listed. One says I can pay the shortage in a lump sum, and the other says it'll be spread over twelve months. Which is better?
+Agent: That really depends on your preference. If you pay the $347 shortage upfront as a lump sum, your new monthly escrow payment will still go up to cover the higher taxes and insurance going forward, but it won't go up as much. If you choose to spread the shortage over twelve months, your payment will increase a little more each month to cover both the shortage recovery and the higher anticipated expenses.
+Caller: How much does my monthly payment change either way?
+Agent: Great question. If you pay the lump sum today, your new monthly payment will be $1,847, up from your current $1,792. If you spread the shortage, your payment will be $1,876 per month for the next twelve months.
+Caller: So it's about $29 a month difference. Hmm. What do most people do?
+Agent: It really varies. Some customers prefer to just pay it and be done with it. Others prefer to keep the cash on hand. There's no wrong answer.
+Caller: Now the statement also mentions something about a cushion. What's that?
+Agent: Good catch. Federal regulations actually require us to maintain a cushion in your escrow account of up to two months' worth of anticipated disbursements. This is to make sure we always have funds available even if a tax bill or insurance renewal comes in slightly earlier than expected. The cushion isn't money you lose. It just stays in the account and continues to be yours.
+Caller: Okay. And what if I had a surplus instead of a shortage?
+Agent: If your account had more in it than needed, we would send you a refund check for any surplus over $50. In that case you'd see the payment go down instead of up.
+Caller: Got it. That all makes a lot more sense now. I think I'll just pay the lump sum to keep my payment lower going forward.
+Agent: That's a perfectly reasonable choice. Would you like to make that payment today over the phone?
+Caller: Can I do it online?
+Agent: Absolutely. If you log into your account at SummitMortgageServices.com, you can make an escrow shortage payment under the payment options menu. Just select escrow shortage payment specifically so it doesn't apply to your regular mortgage payment.
+Caller: Great. I'll do that tonight. Thank you so much for explaining all of this. It makes total sense now.
+Agent: I'm glad it's clearer. Is there anything else I can help you with today, Robert?
+Caller: No, that's everything. You were really patient explaining it. I appreciate that.
+Agent: Of course. Thank you for calling, and have a great evening.
+Caller: You too. Bye.
+Agent: Goodbye.

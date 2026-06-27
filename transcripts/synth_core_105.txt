@@ -1,0 +1,47 @@
+Agent: Thank you for calling Keystone Loan Servicing. This is Jessica. May I have your account number please?
+Caller: Hi Jessica. This is Robert Huang. Account number is 5-5-1-8-8-2-3.
+Agent: Thank you, Mr. Huang. I'll need to verify your identity — last four of your Social and property address?
+Caller: Sure, last four is 3-3-0-9. Address is 4021 Elmwood Circle, Portland, Oregon 97214.
+Agent: Thank you, I've got the account open. What can I help you with today?
+Caller: I applied for a loan modification about six weeks ago. I got a denial letter last week and it mentioned something called an NPV test. It said the modification failed the NPV test and that's why it was denied. I honestly have no idea what that means. Can someone explain it to me?
+Agent: Absolutely, Mr. Huang, and it's actually a really common question because that language in the denial letter can feel very abstract. Let me walk you through what the NPV test is and what it means for your situation. NPV stands for net present value. In the context of loan modifications, it's a standardized financial model that servicers are required to use to evaluate whether modifying a loan makes financial sense from the investor's perspective.
+Caller: So it's about whether the bank makes money?
+Agent: Essentially, yes — but it's more nuanced than that. The model compares two scenarios. Scenario one is the expected value to the investor if the loan is modified. Scenario two is the expected value to the investor if the loan goes through foreclosure. The model discounts those future cash flows back to today's dollars — that's the present value part — and compares them. If modification produces a higher net present value than foreclosure, the test passes. If foreclosure produces a higher expected return, the test fails.
+Caller: So in my case, the model said they'd do better in foreclosure than if they modified my loan?
+Agent: That's what the calculation showed, yes. But it's important to understand that the NPV model uses specific inputs, and if any of those inputs were incorrect, it can affect the outcome. Under the rules that govern servicers — for conventional loans under GSE guidelines — you have the right to know what inputs were used in the NPV analysis and to challenge them if you believe they're inaccurate.
+Caller: What kind of inputs go into it?
+Agent: There are several key variables. The current market value of your property is a big one — if the estimate used was lower than the actual market value, that could depress the modification scenario's NPV. Your current income and proposed modified monthly payment are also inputs, as is your current interest rate, the proposed modified rate, the remaining loan term, the local foreclosure cost and timeline estimates, and probability-of-default assumptions. There's also a reinstatement probability — the likelihood you'd pay off the loan without modification.
+Caller: How do they estimate my home's value? Did they get an appraisal?
+Agent: In many cases, servicers use automated valuation models — AVMs — rather than a full appraisal. An AVM is an algorithm that estimates value based on comparable sales, and it can sometimes be off. If you believe your home is worth more than what was used in the NPV model, that's actually one of the strongest grounds for appeal.
+Caller: My home is in Portland. The market here has been very active. Do you have any record of what value was used?
+Agent: Let me check your file. I see a third-party valuation dated four weeks ago showing an estimated value of $387,000. Does that seem reasonable to you?
+Caller: Honestly, no. My neighbor sold a nearly identical home last month for $425,000. There have been several comparable sales at or above $400,000 in my area recently.
+Agent: That's a significant discrepancy and absolutely worth pursuing. Here's what you can do. Under the CFPB's loss mitigation rules, servicers must tell you the inputs used in the NPV model if you request them in writing. And you have the right to appeal a denial within 14 days of the denial letter. The letter was dated, it looks like, June 10th. So you'd have until June 24th to file a written appeal.
+Caller: Today is June 18th, so I still have time. What do I put in the appeal?
+Agent: Your appeal should be in writing and should specifically address the grounds you're disputing. In your case, I'd recommend including documentation of the comparable sales in your neighborhood — ideally three to five recent sales of similar properties. A licensed realtor can prepare a comparative market analysis, or CMA, which would be ideal. You'd submit that along with a letter explaining that you believe the property value used in the NPV analysis was understated and that an accurate valuation would change the outcome.
+Caller: Is there a form I need to use or do I just send a letter?
+Agent: A letter is sufficient. You can send it to our loss mitigation appeals department — I can give you the mailing address and the email address for our secure upload portal. Make sure the letter references your loan number, the denial date, and specifically states that you are filing an appeal under CFPB Regulation X.
+Caller: And what happens after I file the appeal?
+Agent: We're required to review your appeal and provide a written decision within 30 days of receiving it. If we determine during the appeal review that a different property value should be used, we'd rerun the NPV analysis with the corrected input and notify you of the outcome.
+Caller: And if the NPV passes with the corrected value, does the modification just get approved?
+Agent: If the NPV passes, it doesn't automatically approve the modification — the full modification review still applies and you'd need to meet other eligibility criteria — but clearing the NPV hurdle is often the key obstacle. If you were already meeting income and hardship criteria, a passing NPV could lead to an approval or a trial plan offer.
+Caller: What were my other criteria like? Did they give a reason beyond NPV?
+Agent: Let me look at the denial letter details in your file. It shows NPV as the primary reason. There's no indication of income insufficiency or other disqualifying factors noted. So the NPV was the sole cited reason.
+Caller: That's good to know, I guess. If I fix the NPV, the rest should be okay.
+Agent: That would be the logical conclusion, though I want to be clear that I can't guarantee an outcome. What I can tell you is that appealing with documented comparable sales in a market like Portland, where values may be moving quickly and AVMs can lag, is a reasonable and often successful path.
+Caller: Can I also request the specific NPV inputs they used — like the exact number?
+Agent: Yes. Under CFPB guidance, if your loan is subject to a modification program that uses NPV as a criterion, you can request the inputs used. Send that request in writing simultaneously with your appeal. You're entitled to receive them in writing.
+Caller: Would hiring an attorney or a housing counselor help at this stage?
+Agent: A HUD-approved housing counselor would be particularly valuable right now. They're familiar with the NPV appeal process, they have no cost, and they can help you frame the appeal effectively. You can find one at HUD's website, HUD.gov, by searching for your zip code.
+Caller: I'll do that. This has been really helpful. Can you give me the mailing address and email for the appeal?
+Agent: Absolutely. The mailing address is Keystone Loan Servicing, Loss Mitigation Appeals Department, P.O. Box 7840, Dallas, Texas 75270. The secure upload email is lossmit.appeals at keystoneservicing.com. You'll want to send it with some form of confirmation — certified mail if physical, or keep the confirmation receipt from the portal.
+Caller: And my loan number again for the letter?
+Agent: Your loan number is 5518823.
+Caller: Perfect. And the denial was dated June 10th, you said?
+Agent: That's correct. June 10th.
+Caller: So my appeal deadline is June 24th and today is the 18th — I have six days.
+Agent: That's right. I'd recommend not waiting until the last day, especially if you need time to get the CMA from a realtor.
+Caller: I'll call a realtor today. Thank you so much, Jessica. This is exactly the information I needed.
+Agent: You're very welcome, Mr. Huang. Good luck with the appeal and please don't hesitate to call if you have additional questions. Our loss mitigation team is at 1-800-555-0427. Have a good day.
+Caller: You too. Goodbye.
+Agent: Goodbye.

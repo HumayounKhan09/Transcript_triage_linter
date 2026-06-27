@@ -1,0 +1,38 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Nicole. How can I help you today?
+Caller: Hi Nicole, my name is Darnell Washington. I got my monthly statement and there's a charge on here called a VA funding fee and I have no idea what that is. Nobody explained it to me when I closed.
+Agent: I'd be happy to help you with that, Mr. Washington. Before I pull up your account, I need to verify a few things. Can you give me your loan number?
+Caller: Yeah, it's 7742-8819.
+Agent: And can you confirm the property address on file?
+Caller: 4418 Creekside Drive, Fayetteville, North Carolina, 28314.
+Agent: Thank you. And the last four digits of your Social Security number?
+Caller: 6603.
+Agent: Perfect, I've got your account pulled up. So you're asking about the VA funding fee showing on your statement. I can walk you through exactly what that is.
+Caller: Please, because it's not a small amount and I'm a little upset nobody told me about this at closing.
+Agent: I completely understand your concern. So the VA funding fee is a one-time fee charged by the Department of Veterans Affairs on all VA-guaranteed home loans. It's not charged by us as the servicer — it goes directly to the VA to help fund the loan guarantee program so that future veterans can also access zero-down financing.
+Caller: Okay but why is it showing up on my monthly statement? I thought it was a one-time thing.
+Agent: Great question. Most borrowers roll the VA funding fee into their loan balance rather than paying it out of pocket at closing. So what you're seeing on your statement isn't a new charge — it's just that the fee was financed, meaning it was added to your principal loan amount, and you're now paying it back as part of your regular monthly payment over the life of the loan.
+Caller: Oh. So it's already been paid to the VA and I'm just paying back the portion that got added to my loan?
+Agent: Exactly right. The VA received that payment at closing. Your lender advanced those funds, and now it's part of your outstanding principal. The fee amount varies based on a few factors — your down payment, whether this is your first VA loan, and whether you're a veteran, active duty, or a surviving spouse.
+Caller: How much was mine?
+Agent: Let me look at your closing documentation here. It looks like your funding fee was 2.15 percent of your base loan amount, which comes out to $5,762. That was added to your original loan balance.
+Caller: Two-point-one-five? Is that the standard rate?
+Agent: For a first-time VA loan use with no down payment, yes — 2.15 percent is the standard rate for veterans and active duty service members. If you had put five percent or more down, it would have been lower. And if you had put ten percent or more down, it would have been even lower than that.
+Caller: I put nothing down. I thought that was the whole point of a VA loan.
+Agent: You're absolutely right, and that's one of the biggest benefits. You didn't need a down payment, and you also didn't need private mortgage insurance, which saves a lot of VA borrowers a significant amount monthly.
+Caller: Okay. So is there any way to get out of that fee? Like if I had known, could I have paid it separately?
+Agent: Yes, actually. Borrowers do have the option to pay the funding fee in cash at closing rather than rolling it into the loan. Some people prefer that to avoid paying interest on it over thirty years. But that's a decision that had to be made at closing.
+Caller: Nobody gave me that choice. I'm a little frustrated about that.
+Agent: I hear you, and that's a fair frustration. The disclosure should have been presented during your loan origination process. I do see in your closing disclosure it is listed as a line item, but I understand that paperwork can be overwhelming at closing and it may not have been explained verbally.
+Caller: Yeah, there were like a hundred pages to sign.
+Agent: Totally understandable. One thing I do want to mention — some veterans are actually exempt from the VA funding fee entirely. If you have a service-connected disability rating of ten percent or more, you would have been exempt. Were you aware of your disability rating at the time of closing?
+Caller: I didn't have a rating at the time. I just got one in March actually. Fifty percent.
+Agent: Mr. Washington, that's actually very important. If you received a service-connected disability rating and that rating was effective before your closing date, you may be entitled to a refund of the funding fee. Even if the rating was awarded after closing, there are situations where the retroactive effective date matters.
+Caller: So I might get money back?
+Agent: Potentially, yes. You would need to contact the VA directly with your disability documentation. The VA would review the effective date of your rating. If it predates your loan closing date, a refund should be issued. I can give you the VA's number and also note this on your account.
+Caller: Yes please, I would really appreciate that.
+Agent: The VA's toll-free number is 1-800-827-1000. I'd recommend having your Certificate of Eligibility, your loan closing date, and your disability award letter handy when you call. I'm also going to put a note on your account documenting this conversation so that if you call back, any of our agents will have the context.
+Caller: That's really helpful, Nicole. I wish someone had explained all this at the beginning.
+Agent: I completely agree, and I'm sorry that wasn't made clearer during the origination process. Is there anything else I can help you with today?
+Caller: No, I think I've got what I need. I'm going to call the VA this week.
+Agent: Excellent. Good luck, Mr. Washington, and thank you for your service. Have a great day.
+Caller: Thank you, you too.

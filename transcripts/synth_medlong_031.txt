@@ -1,0 +1,49 @@
+Agent: Thank you for calling Crestline Mortgage Services, this is Anita. May I get your loan number?
+Caller: Yes, 8801-27763.
+Agent: And your name and last four of Social?
+Caller: Theodore Hanson. Social ends in 4456.
+Agent: Thank you, Mr. Hanson. I see your property at Unit 4B, 340 Lakeview Boulevard, Chicago, Illinois — a condominium. What can I help you with today?
+Caller: My HOA just voted to pass a special assessment of $18,000 per unit for major repairs. I got the letter last week. I'm trying to figure out how this affects my mortgage and whether I have any options.
+Agent: That's a significant assessment and I understand why it raises questions. Let me explain how this interacts with your mortgage and what your options might be.
+Caller: First — does the bank even need to know about this?
+Agent: Let me address that directly. Most mortgage notes and deeds of trust include a clause requiring you to keep the property free of liens and to notify the lender of any significant changes to the property's status. An HOA special assessment can, if unpaid, become a lien on the property — in Illinois, HOA liens can have super-priority status over the mortgage in certain limited cases. So yes, we do have an interest in knowing about it, and you may technically have an obligation to disclose.
+Caller: I wasn't aware of that. Does the HOA lien really take priority over a mortgage?
+Agent: Illinois law is complex on this. Illinois does give HOA liens a limited super-priority — for up to six months of unpaid assessments, including special assessments, the HOA can potentially foreclose ahead of the first mortgage lender in certain circumstances. This is why lenders pay close attention to HOA issues on condos. If you let the special assessment go unpaid, the HOA could eventually place a lien on your unit.
+Caller: I have no intention of not paying it. I just need to figure out how. The HOA is offering a payment plan — $1,500 now and then $750 a month for 22 months, roughly.
+Agent: That's the most common resolution and the one that avoids the most complications. Paying the assessment — whether upfront or through the HOA's plan — protects your title and your relationship with the servicer. From our perspective, as long as no lien is filed against the property, your mortgage is unaffected.
+Caller: What are my options for funding the $18,000?
+Agent: Several possibilities. The first is paying it from savings or taking the HOA payment plan as you described. That's the simplest path and has no mortgage implications.
+Caller: My savings are pretty thin right now. I don't have $18,000 sitting around, and even $750 a month on top of my mortgage is going to be tight.
+Agent: Understood. Let me walk through some mortgage-related options. First, if you have sufficient equity, you could open a home equity line of credit or home equity loan to fund the assessment. What do you believe your unit is worth?
+Caller: I bought it for $285,000 in 2020. Comparable units in the building have sold for around $310,000 recently.
+Agent: And your current mortgage balance?
+Caller: The statement says $248,620.
+Agent: So your LTV is roughly 80 percent on a $310,000 value. That's right at the threshold for many HELOC programs. If the home appraises at $310,000, an 80 percent HELOC would allow you to borrow up to $248,000 — which equals your current mortgage balance. There's essentially no room for a HELOC without the combined LTV exceeding 80 percent.
+Caller: So I don't have enough equity for a HELOC?
+Agent: At exactly 80 percent first mortgage LTV, many lenders won't go above 80 percent combined LTV for a HELOC. Some will go to 85 or even 90 percent combined, but those carry higher rates. If your unit appraises higher — say $325,000 — you'd have more room. It's worth getting an appraisal to know exactly where you stand.
+Caller: What if I did a cash-out refinance instead?
+Agent: A cash-out refinance would replace your existing mortgage with a higher balance. At 80 percent of $310,000, the max new loan would be $248,000 — again essentially your current balance with very little cash-out room. At 85 percent — which is allowable for primary residences on conventional cash-out — you could borrow up to $263,500. That's $14,880 more than your current balance — not quite $18,000, but close.
+Caller: What's my current rate?
+Agent: Your current rate is 3.125 percent fixed, 30-year. Current market rates for a cash-out refi are around 7.25 percent. Replacing a 3.125 percent rate with 7.25 percent to access $14,000 is a very expensive way to get money. Your payment would go from approximately $1,248 to approximately $1,800 per month. That's $552 more per month — far more than the HOA's $750 per month plan, and you'd be paying it for 30 years.
+Caller: That math is terrible. The HOA plan is better than cashing out at those rates.
+Agent: For most borrowers right now, disturbing a sub-3 percent rate is something to avoid unless there's a compelling reason. The HOA payment plan is almost certainly the better financial choice.
+Caller: What if my building's assessments have made it un-warrantable for future buyers? I've heard that can happen.
+Agent: Excellent question and an important one. Fannie Mae and Freddie Mac both have guidelines about condominiums with significant deferred maintenance or large special assessments. If your building's assessment represents a major structural issue — roof, elevators, structural repairs — lenders may flag the building as a "non-warrantable" condo, meaning they won't finance purchases or refinances in that building.
+Caller: What kind of repairs is the assessment for?
+Caller: Sorry — I should have said at the start. It's for facade repair and window replacement. The building is about 25 years old.
+Agent: Facade and windows could be viewed as deferred maintenance depending on how it's documented. If the HOA has documented the assessment in financial statements that describe the severity of the condition, a future buyer's lender might flag it. This is why HOAs are required to maintain adequate reserve funds — to avoid exactly this kind of large special assessment that spooks lenders.
+Caller: Does it affect my ability to refinance?
+Agent: It might. Lenders doing a condo refinance review the HOA's financial health as part of the approval. A large special assessment can trigger questions about the building's reserve fund, the underlying condition, and whether the association is financially stable. We do periodic reviews of condo associations in our portfolio.
+Caller: Should I be worried about that?
+Agent: If the assessment is being paid — either by residents or from reserves — and the HOA has a clear remediation plan, most lenders view that as responsible management. The concern is more when an HOA is aware of major deficiencies but hasn't addressed them. Proactive remediation, which is what your building seems to be doing, is generally viewed more favorably.
+Caller: What do you need from me, if anything?
+Agent: We don't need any documentation from you unless a lien is filed or we're doing a formal condo review. However, I'd recommend keeping any written communication from the HOA about the assessment, the repairs being done, and the payment plan you establish. If you ever refinance or if we conduct a condo review, that documentation will demonstrate responsible handling.
+Caller: Is there any danger to my current loan — any scenario where my mortgage gets called or affected?
+Agent: The only scenarios where your loan would be directly affected are: if you stop making mortgage payments, if an HOA lien is filed and advances to foreclosure before we can step in, or if the building becomes so physically deteriorated that it affects marketability. None of those apply right now. Your loan is safe as long as you continue making your mortgage payment and address the assessment through the HOA plan.
+Caller: I'm going to take the HOA payment plan. The math on everything else just doesn't work.
+Agent: That's a sound decision. Budget for $750 a month for about 22 months, get that agreement in writing from the HOA, and keep copies. And continue making your regular mortgage payments. You should be fine.
+Caller: This was very helpful. You addressed things I didn't even know to ask about.
+Agent: Happy to help. Is there anything else today, Mr. Hanson?
+Caller: No, that covers it. Thank you, Anita.
+Agent: Have a good day. Goodbye.
+Caller: Goodbye.

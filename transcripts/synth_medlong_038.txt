@@ -1,0 +1,51 @@
+Agent: Meridian Mortgage Servicing, my name is Yuki, how can I help you today?
+Caller: I need to speak to someone about something very serious right now. I received a Notice of Default in the mail today. I am completely current on my mortgage. I have not missed one payment. I need to know why you are trying to take my house.
+Agent: Sir, I can hear how alarmed you are and I want you to know I am going to treat this with absolute urgency. Can I get your name and loan number so I can pull up your account immediately?
+Caller: My name is Robert Fitch. Loan number is 5521-776-044. This is my home. I've lived here for eleven years. I am not behind on this mortgage.
+Agent: Mr. Fitch, I'm pulling up your account right now. Property address?
+Caller: 1102 Cedarwood Avenue, Memphis, Tennessee 38104.
+Agent: And I'll need to verify with your date of birth and last four Social.
+Caller: Date of birth January 28, 1961. Social last four 4407.
+Agent: Thank you, verified. I have your account. And Mr. Fitch, I'm looking at your payment history right now. Talk to me while I'm reviewing this. When did you receive this notice?
+Caller: It was in today's mail. It says Notice of Default and Intent to Foreclose. It has a date of June 20th on it, so it was apparently generated a week ago. It references loan 5521-776-044 which is my loan. And it says I owe $9,841 in past-due amounts. Which is impossible.
+Agent: Okay. I'm looking at your payment history. Thirty-year fixed, originated in 2014, rate of 4.125 percent, balance of $201,440. And I am looking at your payments. I see January, February, March, April, May, June — Mr. Fitch, I see six payments in 2025, all received, all applied. Can you tell me where you send your payments and how?
+Caller: I use my bank's bill pay. It goes out on the 28th of every month, posts by the 1st or 2nd. Every single month. I have payment confirmations going back years.
+Agent: That's consistent with what I'm seeing in your payment history. All six 2025 payments are here. I do not understand — okay, wait. I'm seeing something. There is a flag on your account from March of this year. A loss mitigation referral was opened. Mr. Fitch, were you contacted about any kind of hardship or default at any point?
+Caller: No. Never. No one called me, no one wrote to me, nothing. I just paid my mortgage every month like I always have.
+Agent: Mr. Fitch, I want to be very direct with you. Based on what I'm seeing right now, you appear to be current on your loan. There is no payment deficit that I can identify. But there is a loss mitigation referral in this account that should not be there if your account is current, and it appears a default sequence may have been initiated in error. I am escalating this call right now to our loss mitigation supervisor.
+Caller: What does that mean? What happens to the notice? Can they still foreclose on me?
+Agent: I am placing an immediate foreclosure referral hold on your account as of this moment. That is a stop on any foreclosure action. Under federal law, a servicer cannot proceed with a foreclosure sale while a dispute is being actively investigated. You will not lose your home while this case is open.
+Caller: How do I know that? How do I know you'll actually do that?
+Agent: I'm going to give you a case number right now and you can request written confirmation. Case number is FC-HALT-2025-007741. I want you to write that down.
+Caller: FC-HALT-2025-007741. Okay.
+Agent: I'm also noting in your account that the foreclosure referral hold was applied at 2:34 p.m. today by this call. Now I need to transfer you to our loss mitigation supervisory team. They have the authority to formally rescind the Notice of Default, which is what needs to happen here. I do not want to just transfer you blindly — I want to brief them on your situation before you're connected. Can you hold for two minutes while I do that?
+Caller: Yes. But don't lose me. Don't put me in a queue.
+Agent: I will do a warm transfer. I will stay with you until a supervisor is on the line. Please hold.
+Caller: Okay.
+Agent: Mr. Fitch, are you still there?
+Caller: Yes.
+Agent: I have a loss mitigation supervisor named Diana joining the call. Diana, I have Robert Fitch on the line, loan 5521-776-044. He received a Notice of Default today dated June 20th. I have reviewed his account and his payment history is current — all 2025 payments received and applied. There is an unexplained loss mitigation referral from March. I've placed a FC-HALT under case FC-HALT-2025-007741. He needs an immediate investigation and NOD rescission if the account is confirmed current. Diana, do you copy?
+Caller: Is she there?
+Agent: She's joining. Diana, please confirm you're on.
+Caller: I'll wait.
+Agent: Mr. Fitch, I want to make sure you have a couple of pieces of information while we get Diana connected. First, keep the Notice of Default document. Do not discard it. Second, if you have not already done so, I strongly recommend you also contact a HUD-approved housing counselor. Their number is 1-800-569-4287 and it's free. They can act as an advocate for you throughout this process.
+Caller: I'm 63 years old. I have never had a legal problem in my life. I have never been sued, never had a collection, nothing. I've paid this mortgage for eleven years.
+Agent: Mr. Fitch, based on what I am seeing in your account, this appears to be a serious servicer error. I am not saying that lightly. Your loan does not reflect a delinquent status on our payment records. The Notice of Default should not have been generated.
+Caller: What caused it? How does something like this happen?
+Agent: I can't give you a definitive cause until the investigation is complete. Possible causes include a processing error that mislabeled your account, a system migration issue — we did have a servicing platform update in February — or an error in the loss mitigation referral logic. All of those need to be ruled in or out.
+Caller: So a computer mistake could cost me my house?
+Agent: Not on my watch, Mr. Fitch. That is why I placed the halt. And that is why I'm getting supervisory involvement on this call right now rather than just sending you a form letter.
+Caller: My wife is going to be devastated when she gets home and I tell her about this. She already has health problems. This kind of stress is not good for her.
+Agent: I understand. If there is anything I can document in the file about the urgency from a health or personal standpoint that would support prioritizing resolution, I'm happy to do so.
+Caller: Please. She has heart disease. This kind of shock is genuinely dangerous for her.
+Agent: Noted in the file. Medical hardship context — co-borrower health concerns requiring urgent resolution. This will support prioritization.
+Caller: What's the timeline to get that notice cancelled?
+Agent: If the investigation confirms your account is current — which is what the data suggests — the Notice of Default rescission letter should be issued within five to ten business days. That letter would formally cancel the default notice and confirm no foreclosure action is proceeding. We would also be required to notify any credit bureaus if this default was reported.
+Caller: Was it reported to the credit bureaus?
+Agent: I'm checking now. I don't see a bureau report tied to the default yet, which is fortunate. The notice appears to be early in the process before bureau reporting would occur. That's one thing in your favor.
+Caller: Small mercies. Okay. What do I do next?
+Agent: Continue making your payments as normal. Do not stop paying out of alarm. Keep your case number FC-HALT-2025-007741 and call back Monday if you have not received a written acknowledgment of the investigation. The direct line for loss mitigation escalations is 1-800-555-8833.
+Caller: I'll be calling back Monday morning.
+Agent: I'd expect nothing less. And Mr. Fitch — this is going to be resolved. Thank you for calling immediately.
+Caller: Thank you, Yuki. Goodbye.
+Agent: Goodbye, Mr. Fitch. Take care.

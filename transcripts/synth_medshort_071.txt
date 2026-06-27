@@ -1,0 +1,42 @@
+Agent: Meridian Home Lending. This is Carlos. How can I help you today?
+Caller: Hi Carlos. My name is Brandon Whitfield. I just got my property tax reassessment notice in the mail and my taxes went up significantly. I'm trying to understand how this is going to affect my monthly mortgage payment.
+Agent: Hi Brandon. A tax reassessment that increases your bill will definitely affect your monthly payment if you have an escrow account for taxes. Let me pull up your loan and we can work through the math together. Can I get your loan number?
+Caller: It's 3-3-6-7-0-4-4.
+Agent: Property address?
+Caller: 2203 Ridgeline Road, Denver, Colorado, 80211.
+Agent: Last four of your Social?
+Caller: 9-9-1-7.
+Agent: Got it. I have your account. And I can see you do have an escrow account that covers both property taxes and homeowners insurance. So let's work through how a tax increase flows through to your payment.
+Caller: My taxes went from about four thousand a year to five thousand, two hundred. That's over a twelve hundred dollar annual increase.
+Agent: That's a significant jump. So the way it works is this: your monthly escrow contribution is calculated based on your estimated annual tax and insurance obligations divided by twelve, plus a cushion of up to two months of payments. When your taxes increase, the monthly escrow contribution needs to increase to cover the new amount.
+Caller: So if my taxes go up twelve hundred a year, that's a hundred a month more?
+Agent: That's exactly the math. A twelve hundred dollar annual increase divided by twelve months equals one hundred dollars per month more in your escrow contribution. Your total monthly mortgage payment would increase by approximately one hundred dollars.
+Caller: When does that change take effect?
+Agent: This depends on the timing of your annual escrow analysis. We're required to analyze your account once per year and adjust the payment accordingly. When we receive the updated tax bill from your county showing the new assessment amount, that triggers a recalculation.
+Caller: When did you last do my analysis?
+Agent: Your last escrow analysis was completed in January. So your current payment was set based on the prior year's tax amount. When the new tax year's bill comes in, which is typically later this year, we'll recalculate at your next scheduled analysis.
+Caller: So I won't see the higher payment until next January?
+Agent: Not necessarily. It depends on when we receive the new tax bill. If your county sends us an updated bill before your analysis date, we may need to do an interim adjustment. But if the new bill arrives close to your scheduled analysis in January, the adjustment would be incorporated then.
+Caller: My assessment notice said the new rate takes effect with this year's tax year, so the bill would go out later this fall.
+Agent: In that case, the higher bill will arrive in our system likely in October or November. At that point, we might send you a notice of an escrow payment change, or we'll factor it into your January analysis. Either way, you'll be notified before the change takes effect.
+Caller: What if I'm caught short? Like, what if taxes come due before my payment adjusts?
+Agent: This is a legitimate concern and one we handle regularly. If a tax bill comes in higher than what we've been collecting, we'll pay it using the funds available in your escrow account. If the balance isn't sufficient, we'll advance the difference to ensure taxes are paid on time.
+Caller: You'd cover the difference?
+Agent: Yes. We're responsible for paying your taxes on time as your servicer. If there's a shortfall, we advance the funds and then recover the shortfall through an adjustment to your monthly payment, typically spread over the next twelve months.
+Caller: Okay. So I won't get a surprise call saying my taxes were paid late.
+Agent: Correct. The tax obligation is managed on our end, and it's in everyone's interest — yours and ours — that taxes are paid on time. A tax lien on the property would be a serious problem for both of us.
+Caller: What is my current escrow balance?
+Agent: Your current escrow balance is two thousand, one hundred and eighty dollars. Your current monthly escrow contribution is three hundred and seventy-eight dollars.
+Caller: And with the new tax amount, what would my new contribution need to be?
+Agent: Let me calculate. Your current annual tax estimate is three thousand, four hundred and forty dollars. Your insurance is about six hundred and twenty dollars annually. Total current escrow obligation is about four thousand and sixty dollars per year, which at about three hundred and thirty-eight dollars a month plus cushion gets you to your current three hundred and seventy-eight dollars. With taxes going up to five thousand two hundred, the new total annual escrow need is about five thousand, eight hundred and twenty dollars, divided by twelve is about four hundred and eighty-five dollars, plus cushion brings you to approximately five hundred and five to five hundred and fifteen per month.
+Caller: So about a hundred and twenty-five to a hundred and thirty-five more per month in escrow.
+Agent: That's a fair estimate, yes. More than just the pure tax increase because the cushion amount also scales slightly. Your total monthly mortgage payment would increase by roughly that amount.
+Caller: That's a real hit. Is there any way to dispute the reassessment?
+Agent: You'd do that directly with your county assessor's office — that's outside our purview as the servicer. But many counties do allow assessment appeals, and if you believe the new assessed value is higher than market value, it's worth pursuing. Many homeowners successfully reduce their assessments on appeal.
+Caller: If I win the appeal and my taxes go back down, would you adjust my payment again?
+Agent: Yes. At your next escrow analysis after receiving the corrected tax bill, your payment would be recalculated to reflect the lower amount. And if you've been overpaying in the meantime, you'd receive a surplus refund.
+Caller: Good to know. I'm going to look into the appeal process. Is there anything I need to do on your end right now?
+Agent: Not yet. Just monitor for the official tax bill and any letter from us about a payment change. When you see that letter, review it and call us if anything looks off.
+Caller: Will do. Thank you for walking me through all of that, Carlos.
+Agent: Of course. Good luck with the appeal if you pursue it. Have a great day.
+Caller: Thanks. You too.

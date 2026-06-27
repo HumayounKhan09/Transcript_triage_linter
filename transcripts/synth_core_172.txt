@@ -1,0 +1,45 @@
+Agent: Thank you for calling Allied Mortgage Services, this is Marcus. How can I help you today?
+Caller: Hi Marcus, my name is Franklin Adeyemi. I'm selling my home and my real estate attorney mentioned something called a recapture tax that might apply to me because I used a state bond loan when I bought my house. I've never heard of this before and I'm very concerned. Can you help me understand it?
+Agent: Hi Franklin, this is definitely something worth understanding before you close on your sale. A recapture tax is a federal tax provision that applies to borrowers who used mortgage revenue bond loans — sometimes called state bond loans or MRB loans — when they purchased their home. It's administered by the IRS, not by the lender, so I want to make sure I explain clearly where my role ends and where your tax professional's guidance begins.
+Caller: Of course. But can you explain the basic mechanics?
+Agent: Absolutely. Mortgage revenue bonds are a financing tool that states use to offer below-market interest rates to first-time homebuyers with moderate incomes. The federal government subsidizes these programs. In exchange for that subsidy, the IRS includes a recapture provision in the tax code — Section 143 of the Internal Revenue Code. The idea is that if you profit significantly from selling the home within nine years, you repay a portion of the subsidy you received.
+Caller: Nine years? I've only been in the house for six years. So I'm in the window.
+Agent: Yes, the recapture window is nine years from the date of origination. If you sell within that period and meet certain other conditions, the recapture tax could apply. However — and this is important — just being in the nine-year window doesn't automatically mean you owe the tax. There are three conditions that must all be met simultaneously.
+Caller: What are the three conditions?
+Agent: First, you must sell the property within nine years of the closing date of the MRB loan. Second, you must realize a gain on the sale — meaning you sell for more than your adjusted basis in the property. Third, your income in the year of sale must exceed a threshold called the federally subsidized income limit, which is based on your family size and the area. If your income in the year of sale is at or below that limit, no recapture applies regardless of gain.
+Caller: What's the income limit?
+Agent: The income limits are set at origination and indexed to a federal threshold, typically 150 to 200 percent of area median income for your jurisdiction and family size. I don't have the specific limit from your loan file — that should be in your original loan documents or your state housing finance agency can provide it. Can I ask — has your income changed significantly since you purchased the home six years ago?
+Caller: My household income was around $65,000 when I bought. Now it's closer to $110,000.
+Agent: That increase is relevant. Higher income makes it more likely you'd exceed the limit, which means the first condition is potentially met. But you'd need the exact income limit figure from your state program to know for sure.
+Caller: If all three conditions are met, how much tax would I owe?
+Agent: The maximum recapture tax is the lesser of two calculations. First, 6.25 percent of the original MRB loan amount. Second, 50 percent of your gain on the sale. The IRS takes whichever is lower. Let me ask — what was your original loan amount and what's your expected sale price?
+Caller: My original loan was $198,000. I think I'll sell for around $310,000.
+Agent: Okay. Six point two five percent of $198,000 is $12,375. That's the maximum possible recapture. Now let's look at the 50 percent of gain cap. Your gain is your sale price minus your adjusted basis. Adjusted basis starts with your original purchase price — do you remember what you paid?
+Caller: $212,000.
+Agent: Your original basis is $212,000. Adjusted basis would account for things like improvements you made to the home and the depreciation you may have taken if you claimed any home office deductions. Assuming no significant adjustments, your gain is roughly $310,000 minus $212,000, which is $98,000. Fifty percent of $98,000 is $49,000. The lesser of $12,375 and $49,000 is $12,375. So your maximum possible recapture is $12,375.
+Caller: That's a significant amount of money.
+Agent: It can be. However, there's also a holding period reduction that applies. The recapture amount is reduced by 20 percent for each full year after year one that you've held the home. You've held for six years. The reduction factor for year six is calculated as follows — in year one the full amount applies, and it decreases by 20 percent per year beginning in year two.
+Caller: Can you work that through for me?
+Agent: Yes. The recapture amount phases down based on how long you've owned the home. At six years, you're past the halfway point of the nine-year window. The IRS uses a table for this. The applicable percentage for year six — I'm referencing the IRS guidance — is approximately 20 percent of the maximum amount. So instead of $12,375, the tax would be closer to $2,475 if all three conditions are met and your income exceeds the limit.
+Caller: $2,475 is much more manageable. But I want to confirm — if my income is under the limit, it's zero?
+Agent: Correct. Zero recapture tax if your income in the year of sale is below the federally subsidized limit. You would still need to report the sale on your taxes and attach Form 8828, which is the IRS form for mortgage interest credit and recapture. But if the income test shows you're below the limit, the tax is zero.
+Caller: My attorney mentioned Form 8828. So that's real.
+Agent: Yes, Form 8828 is the form where you calculate the recapture tax. You complete it and attach it to your federal return for the year of sale. Your tax preparer or CPA should be familiar with it for MRB loan borrowers.
+Caller: Should I be working with a CPA on this?
+Agent: I strongly recommend it. The recapture tax calculation has nuances — adjustments to basis, the exact income limit for your family size and location, and interpretation of the phase-down table. A CPA familiar with MRB loans can run the calculation accurately and potentially identify factors that reduce or eliminate the tax.
+Caller: What information do I need to gather?
+Agent: You'll need your original loan documents showing it was an MRB loan, your original purchase price and closing costs from your original HUD-1 or closing disclosure, documentation of any capital improvements you made to the home, and your household income for the year of sale. Your state housing finance agency — which issued the bond loan — may also be able to provide a summary of the specific recapture terms for your loan.
+Caller: What state housing agency would that be? I bought in Virginia.
+Agent: Virginia Housing — formerly VHDA, Virginia Housing Development Authority — administers the MRB programs in Virginia. Their website is virginiahoousing.com and they have a borrower services line. They can confirm the income limits and point you to any state-specific resources.
+Caller: Do I get any notice from the lender before I sell? Like a statement of what I might owe?
+Agent: The recapture tax is not collected by the lender — it goes directly to the IRS through your annual tax return. There's no escrow or notice from us as your servicer. The obligation lives entirely in the federal tax code and is between you and the IRS. Your attorney and CPA are the right advisors for this.
+Caller: I understand. I just wanted to be educated going into the sale.
+Agent: You're asking exactly the right questions. Many borrowers get to closing and are surprised by the recapture tax requirement because it wasn't fully explained at purchase. Knowing about it now gives you time to calculate it and budget accordingly.
+Caller: Given the six-year hold and the phase-down, it sounds like even in the worst case I'm looking at $2,475.
+Agent: Based on my rough calculation, yes — assuming all three conditions are met. Your CPA may find it's even lower or zero depending on your exact income and the specific program limit. It's worth knowing the ceiling is manageable.
+Caller: That's reassuring. Thank you so much for explaining this, Marcus.
+Agent: Of course, Franklin. I'll note in your account that you called on June 27th, 2026, with questions about recapture tax in connection with a planned sale. Is there anything else I can help you with today?
+Caller: No, I think I have enough to have an informed conversation with my CPA. Thank you again.
+Agent: My pleasure. Good luck with the sale.
+Caller: Thank you. Goodbye.
+Agent: Goodbye.

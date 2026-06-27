@@ -1,0 +1,50 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, my name is Carlos. Can I get your loan number to pull up your account?
+Caller: Sure, it's 4471-882-09. My name is Patricia Hensley.
+Agent: Thank you, Ms. Hensley. Can you verify the last four of your Social Security Number and the property address?
+Caller: It's 6614, and the property is 2208 Westbrook Lane, Columbus, Ohio 43221.
+Agent: Perfect, I've got your account pulled up. How can I help you today?
+Caller: I'm calling because I've been charged late fees for four months in a row — March, April, May, and June — and I was not late. I have my bank statements right here showing every payment cleared before the fifteenth of each month.
+Agent: I'm sorry to hear that, Ms. Hensley. Let me take a look at what we show on our end. Our records show payments posted on the sixteenth of March, eighteenth of April, seventeenth of May, and the nineteenth of June.
+Caller: That cannot be right. My bank shows the payments left my account on the tenth or eleventh each of those months. There's no way it took six, seven, eight days to post.
+Agent: I understand your frustration. The posting dates we're showing are when the funds were applied to the account on our side, but that can differ from when you initiated the payment at your bank. Can I ask — were these payments made via electronic transfer, check, or through our online portal?
+Caller: Electronic transfer from my Wells Fargo checking account directly to you. I've been doing it the same way for three years without a problem.
+Agent: Okay. So for the months in question — March, April, May, and June — let me note the exact amounts. Each payment was your regular monthly payment of $1,847.32, correct?
+Caller: Yes. Same payment every month.
+Agent: And you said you have bank statements showing the transfer dates?
+Caller: Yes. March 11th, April 10th, May 12th, June 11th. All well within the grace period. The due date is the first and the late fee doesn't kick in until after the fifteenth, right?
+Agent: That's correct, Ms. Hensley. Your grace period extends through the fifteenth of each month, and the late fee is $92.36 per occurrence. So we're looking at four fees totaling $369.44 that you're disputing.
+Caller: Exactly. And I want them removed. This is not my error. I've been a customer for three years and never had an issue.
+Agent: I completely understand. What I'd like to do is open a formal payment posting dispute on your account. This is a research request that goes to our payment processing team, and they'll go back and trace each transaction to determine exactly when we received the funds versus when they were posted.
+Caller: How long does that take?
+Agent: Typically five to seven business days for the initial review, and if they need to go back to the ACH records, it can extend to ten business days. But I'm going to flag this as a priority dispute given that it covers four consecutive months.
+Caller: What do I need to do on my end?
+Agent: I'd recommend uploading or mailing copies of your bank statements showing those four transfer dates. You can upload them through the document portal on our website under the "Account Documents" section, or fax them to our dispute department at 1-800-554-2209. Put your loan number on every page.
+Caller: Okay. And in the meantime, are those fees still showing as owed? Because I don't want this to affect my account status.
+Agent: That's a very important question. While the dispute is under review, I'm going to note in your account that these fees are under investigation. They will remain on the account ledger until the research is complete, but they will not cause your account to be reported to the credit bureaus as delinquent during the dispute window.
+Caller: Good. What if the research comes back in my favor?
+Agent: If our payment processing team confirms that the funds were received by us prior to the sixteenth of each month, all four late fees will be reversed and credited back to your account. You'd see those credits within two business days of the decision.
+Caller: And what if they say the payments came in after the fifteenth even though my bank says otherwise?
+Agent: If there's a discrepancy that can't be resolved internally, you have the right to escalate to our Consumer Relations department and also file a complaint with the Consumer Financial Protection Bureau. But honestly, Ms. Hensley, with four consecutive months of the same issue, this really does point to something on our processing side, and I want to make sure this gets the attention it deserves.
+Caller: Can I talk to a supervisor right now?
+Agent: You can, and I want to be transparent — a supervisor on this call would take the same steps I'm taking, which is opening the dispute ticket. What I'd recommend is letting the research team do their work, and if you don't hear from us within ten business days, call back and ask to escalate directly to our Consumer Relations team. I'll make a note that you requested escalation.
+Caller: Alright. So what's the dispute ticket number?
+Agent: Let me generate that now. Your dispute reference number is DR-2026-00447192. Please keep that for your records. You can also reference it when you call back.
+Caller: DR-2026-00447192. Got it.
+Agent: Correct. Now, I do also see that your June payment was applied but the fee is still showing. Your current balance including the disputed fees is $3,106.89, but your principal and interest payment is current.
+Caller: Right, I've been paying my full payment. I just didn't pay the late fees because they're wrong.
+Agent: I understand, and that's noted. Just so you're aware, if the dispute is resolved in your favor, those fees disappear entirely. If not, they remain due and could accrue interest depending on your loan terms, so we do want to get this resolved quickly.
+Caller: Can you at least waive one of them as a courtesy while we wait?
+Agent: I don't have the ability to waive fees on disputed accounts while a formal dispute is open — it could actually complicate the research. However, if the decision goes in your favor, all four are removed. If it goes against you, you can appeal and that's when a courtesy waiver could be considered based on your account history.
+Caller: Okay. I understand. I just want to make sure this gets handled.
+Agent: Absolutely, and it will be. You have a strong three-year payment history and the dates you're describing are consistent across four months, which the research team will be able to verify. I'm confident this gets resolved.
+Caller: One more thing — will I get a written notice of whatever they decide?
+Agent: Yes. The outcome letter will be mailed to your address on file — 2208 Westbrook Lane — and you'll also receive an email notification if we have your email in the system. Do you want to confirm your email?
+Caller: It's p.hensley at gmail dot com.
+Agent: I've got that noted. P-H-E-N-S-L-E-Y at gmail. Let me just confirm the dispute is fully logged. You're disputing late fees of $92.36 each for March, April, May, and June 2026, totaling $369.44, on the basis that your ACH transfers originated prior to the grace period deadline each month.
+Caller: That's exactly right.
+Agent: Perfect. The dispute is open, reference number DR-2026-00447192, and the research team will begin work on it. Please upload or fax those bank statements at your earliest convenience to speed up the process.
+Caller: I will. Thank you, Carlos.
+Agent: Thank you for your patience, Ms. Hensley. Is there anything else I can help you with today?
+Caller: No, that covers it.
+Agent: Have a great day. Goodbye.
+Caller: Bye.

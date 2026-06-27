@@ -1,0 +1,48 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, this is Kevin, how can I help you today?
+Caller: Hi, I need to talk to someone about my mortgage. I filed for Chapter 7 bankruptcy last week and I need to know what happens to my house.
+Agent: Thank you for letting us know. That's an important step and I want to make sure you have accurate information. Let me pull up your account. Can I get your loan number?
+Caller: It's 417630. The address is 5504 Birchberry Lane, St. Louis, Missouri.
+Agent: And your name and last four of your Social?
+Caller: Ronald Okafor, and the Social ends in 1947.
+Agent: Thank you Ronald. I've pulled up your account. And I want to let you know that our conversation is subject to the automatic stay that's now in effect because of your bankruptcy filing. I'm going to be careful about what I discuss with you, and I'd strongly encourage you to loop in your bankruptcy attorney on anything we talk about.
+Caller: I have an attorney. She's the one who filed for me. I'm just trying to understand the basics of what's going to happen.
+Agent: Absolutely, and I can explain the general framework. So when you file for Chapter 7, a few things happen. First, the automatic stay goes into effect immediately. That means we cannot contact you to collect the debt, we can't pursue foreclosure, we can't send you collection letters — all collection activity is paused.
+Caller: Okay. That's good I guess.
+Agent: It is a protection. But here's something very important to understand about Chapter 7 and a mortgage. A Chapter 7 bankruptcy can discharge — eliminate — your personal liability for the mortgage debt. But it does not eliminate the lien on your property.
+Caller: What does that mean exactly?
+Agent: It means even if the bankruptcy wipes out your personal obligation to pay the debt, your home is still collateral for the loan. The bank's lien on the property survives the bankruptcy. If you want to keep your home, you need to keep making payments.
+Caller: So even though I'm in bankruptcy, I still have to pay my mortgage?
+Agent: If you want to keep the house, yes. The bankruptcy discharge eliminates your personal liability, but the lender can still foreclose on the property through the lien if payments aren't made — even after you get a discharge.
+Caller: But I thought bankruptcy was supposed to give me a fresh start.
+Agent: It does, in an important way. With a Chapter 7 discharge, if for some reason you stop paying and the lender forecloses, they can take the house, but they cannot come after you personally for any deficiency — the difference between what you owe and what the house sells for. You're protected from that. But if you want to stay in the house, you keep paying.
+Caller: What is a reaffirmation? My attorney mentioned it.
+Agent: A reaffirmation agreement is a legal document where you voluntarily agree to remain personally responsible for the mortgage debt, even after bankruptcy. It essentially re-creates your personal liability.
+Caller: Why would I want to do that?
+Agent: There are a few reasons people reaffirm. Some lenders won't report your on-time payments to the credit bureaus after a discharge unless there's a reaffirmation, because technically you're not legally obligated to pay. If you want your mortgage payments to help rebuild your credit, a reaffirmation may be needed. Some people also feel more comfortable with the formality of the agreement.
+Caller: But if I don't reaffirm, what happens?
+Agent: You can still stay in the house and keep paying. The lender isn't going to foreclose as long as you're current. You just won't have the personal liability — and depending on the lender's policies, they may or may not report your payments to credit bureaus. Your attorney can advise you on whether reaffirmation makes sense in your specific situation.
+Caller: My attorney actually recommended against reaffirming. She said it creates risk.
+Agent: That's a common recommendation. If you reaffirm and then later default, you'd be personally liable for any deficiency after foreclosure. Without reaffirmation, you're protected. Many people in Chapter 7 choose not to reaffirm for exactly that reason. Your attorney knows your situation — I'd follow her guidance.
+Caller: Okay. So what happens to my mortgage account right now, while I'm in bankruptcy?
+Agent: Your account is flagged with a bankruptcy notation. Our collections team cannot contact you — all communication goes through your attorney. You'll still receive regular account statements, because those are considered informational, not collection attempts. And we will accept your payments.
+Caller: I've been current up until last month. I missed February's payment. That's part of what pushed me to file.
+Agent: I understand. I can see that in your account. Once the automatic stay is in place, any foreclosure action that might have been started gets paused. I can see a late payment on your account but I don't see that foreclosure proceedings were initiated.
+Caller: I got a letter saying I was delinquent but nothing about foreclosure.
+Agent: Good. So you have some cushion. What I'd suggest — and again, your attorney should be part of this — is that you decide as soon as possible whether you want to keep the house or let it go. If you want to keep it, you should start making current payments again as soon as you can. The bankruptcy doesn't make the missed payment disappear, but it does pause the clock on any enforcement action.
+Caller: If I start paying again, do I have to catch up the missed payment during bankruptcy?
+Agent: In Chapter 7, you're not required to catch up arrears through the bankruptcy itself — that's more of a Chapter 13 thing. But if you want to keep the house long term, you'll need to address the missed payment at some point. Your attorney can help you think through whether you need to work out a repayment arrangement with us, or whether you can catch it up gradually.
+Caller: Can I call you to set up a repayment plan for the missed payment while I'm still in bankruptcy?
+Agent: Any formal repayment arrangement would need to go through your attorney while the automatic stay is in effect. She can contact our bankruptcy department directly. We have a dedicated bankruptcy team and they're the right people for formal negotiations.
+Caller: How do I get them the contact info?
+Agent: When your attorney contacts us, she should reference your loan number — 417630 — and indicate it's a bankruptcy matter. Our bankruptcy department's number is 1-800-555-0199. They'll be able to work directly with her.
+Caller: Okay. And my regular monthly payment — can I make it today?
+Agent: Yes, you absolutely can continue to make payments. Accepting payment from you is not a collection act and doesn't violate the automatic stay. You can pay online, by phone, or by mail just as before.
+Caller: What's my regular payment?
+Agent: Your regular monthly payment is one thousand one hundred and forty-two dollars.
+Caller: Okay. Let me figure out where I stand and I'll probably make a payment by the end of the week.
+Agent: That's a good plan. Is there anything else I can help you with today, Ronald? And again — please work closely with your attorney on all of this. She's your best resource.
+Caller: I know, I know. She's been great. I just needed to hear it from the mortgage company too so I wasn't just going off one source.
+Agent: That makes total sense. You should always verify with us directly. Is there anything else?
+Caller: No, I think I've got what I need. Thank you Kevin.
+Agent: You're welcome Ronald. I hope everything goes as smoothly as possible. Take care.
+Caller: Thank you. Goodbye.

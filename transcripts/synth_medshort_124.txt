@@ -1,0 +1,41 @@
+Agent: Thank you for calling Bluewater Mortgage Servicing, this is Tyler. How can I help you today?
+Caller: Hi Tyler. My name is Sheila Nkemdirim. I received a notice in the mail yesterday that says Notice of Acceleration and I am terrified. I don't fully understand what it means but it sounds like they want all the money at once.
+Agent: Hi Ms. Nkemdirim, I understand receiving that notice is frightening. Let me pull up your account and explain exactly what's happening and what your options are. Can I get your loan number?
+Caller: Yes, it's 7780-2234.
+Agent: And the property address?
+Caller: 3309 Laurel Canyon Road, Houston, Texas, 77036.
+Agent: And last four of your Social?
+Caller: 6603.
+Agent: Thank you. I've got your account. Let me look at the current status here.
+Caller: I fell behind on payments. I know that. But I didn't think it would get to this point so fast.
+Agent: I can see your account went delinquent starting four months ago and you have four missed payments. I can also see the acceleration notice was generated and sent. Let me explain what acceleration means.
+Caller: Please. I'm shaking looking at this letter.
+Agent: Acceleration is a legal term in your mortgage note. When a borrower defaults — meaning missed payments — the note gives the lender the right to accelerate the loan, which means declaring the entire remaining balance due immediately rather than in monthly installments. The notice you received is a formal step required before foreclosure proceedings can begin.
+Caller: So they're going to foreclose on me?
+Agent: This notice is a step in that direction, but it does not mean foreclosure has already started. In Texas, the foreclosure process has specific requirements and timelines. The acceleration notice is one of those required steps. You still have time to act.
+Caller: How much time?
+Agent: In Texas, after acceleration, the lender must provide at least twenty days' notice before the first foreclosure sale date, and foreclosure sales in Texas happen on the first Tuesday of the month. So the timeline depends on where we are in the month, but you typically have at least several weeks before any sale could occur.
+Caller: What can I do to stop it?
+Agent: You have several options. The most important thing is to not ignore this and to call us — which you've done. The first option is reinstatement — bringing the loan completely current by paying all missed payments, late fees, and any fees associated with the default process. That stops the foreclosure and cancels the acceleration.
+Caller: How much would that be?
+Agent: Let me calculate the reinstatement amount. You have four months of missed payments at $1,876 per month — that's $7,504. Late fees have accrued — I'm seeing $282 in late charges. There are also default-related costs of $450 in attorney fees incurred in the acceleration process. Your approximate reinstatement total is $8,236. I'd want to give you a formal written reinstatement quote that includes a per-diem for any additional days before payment.
+Caller: Eight thousand dollars. I don't have that right now.
+Agent: I understand. That's a significant amount. The second option is a repayment plan, where we would bring the loan current over a period of time — spreading the past-due amount over future payments in addition to your regular payment. To be approved for a repayment plan, you generally need to demonstrate that your hardship was temporary and you can sustain the higher payment during the repayment period.
+Caller: Why did I fall behind?
+Agent: You don't have to share details with me unless you want to, but to apply for loss mitigation options, we'll need a written hardship explanation.
+Caller: I was in a car accident in February and missed eight weeks of work. I'm back at work now full-time.
+Agent: A temporary income interruption due to medical reasons is a recognized hardship and you may qualify for a repayment plan or a loan modification. The fact that you're back to work full-time strengthens your application.
+Caller: Would a modification permanently lower my payment?
+Agent: A modification could extend your term, reduce your rate, or both, to bring your payment to an affordable level. It would also bring the loan current without requiring you to pay the full past-due amount upfront.
+Caller: How do I apply?
+Agent: You would need to submit a Borrower Assistance Package — sometimes called a Borrower Response Package — that includes a hardship letter, documentation of your current income, a bank statement, and tax returns. We can mail you the package or you can download it from our website.
+Caller: Can I do this today?
+Agent: You can call our loss mitigation department today and they can start the application process over the phone and send you the document list. I want to be very clear — while your application is under review and you have submitted all required documents, we must pause foreclosure proceedings. Federal servicing regulations protect you from simultaneous loss mitigation review and foreclosure, known as dual tracking.
+Caller: So if I apply today, they can't foreclose while they're reviewing my application?
+Agent: Correct. Once you submit a complete loss mitigation application, we cannot move forward with a foreclosure sale while the application is pending, within certain timeframes. This is governed by CFPB regulations.
+Caller: Okay. I need to do this today. Can you transfer me?
+Agent: I will. Before I do, I want to give you a few key pieces of information. Your approximate reinstatement amount is $8,236 — the loss mitigation team will generate a formal quote. The loss mitigation team's direct line is also available on our website if you need to call back. Document everything in writing. And please consider contacting a HUD-approved housing counselor — they're free and can advocate for you through this process. Their number is 1-800-569-4287.
+Caller: Thank you. I feel less panicked now.
+Agent: You still have options and you reached out — that's the most important step. Let me transfer you to loss mitigation right now.
+Caller: Please. Thank you, Tyler.
+Agent: You're welcome. Transferring you now. Good luck, Ms. Nkemdirim.

@@ -1,0 +1,43 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Fatima. How can I help you today?
+Caller: Hi Fatima, my name is Jerome Baxter. I'm in the middle of a real estate transaction involving my property and the buyer's attorney is asking for a letter from my mortgage servicer showing there's no outstanding balance. I think they're calling it a no-balance letter or a zero-balance letter. My mortgage is fully paid off.
+Agent: Hi Mr. Baxter, congratulations on paying off your mortgage. I can help you with that. Just to clarify the type of document — there are a few different things this could be: a payoff confirmation letter, a paid-in-full letter, or a satisfaction of mortgage. Do you know which one the attorney specifically needs?
+Caller: She called it a payoff confirmation or paid-in-full letter, not the satisfaction because apparently that's already been recorded. She just needs something on your letterhead showing there's no remaining balance.
+Agent: Perfect. Yes, we can issue a paid-in-full letter. Let me verify your account first. Can you give me the property address?
+Caller: It's 7720 Buckner Street, Houston, Texas, 77025.
+Agent: Thank you. And can you confirm the last four of your Social Security number?
+Caller: 4498.
+Agent: And your date of birth?
+Caller: March 5th, 1955.
+Agent: Thank you, Mr. Baxter. I've found your account. I can confirm that this loan was paid in full. Now, the paid-in-full letter — let me explain what it will contain. It will show your name, the property address, the loan number, the date the loan was paid off, the final payoff amount, and a statement confirming there is no remaining balance owed. It will be on our letterhead and signed by our payoff department.
+Caller: That sounds exactly like what the attorney needs. How do I get that?
+Agent: I can submit that request right now. The letter is typically processed within two to three business days and can be sent by mail or by email. Given that you're in the middle of a transaction, email would probably be faster. Would you like it sent to you directly, or to the attorney?
+Caller: Can it go to both?
+Agent: Yes, we can send it to two email addresses. What are those?
+Caller: My email is jerome.baxter55 at outlook dot com. And the attorney's email — let me find it — it's sarah.kim at kimestatelaw dot com.
+Agent: Got that. J-E-R-O-M-E dot B-A-X-T-E-R-5-5 at outlook dot com. And S-A-R-A-H dot K-I-M at K-I-M-E-S-T-A-T-E-L-A-W dot com.
+Caller: That's right.
+Agent: And can I confirm — is this for a warranty deed transfer? The attorney mentioned something about a warranty deed?
+Caller: Yes, we're giving a warranty deed to the buyers. They're purchasing the property from us and the attorney needs to confirm there are no encumbrances from us.
+Agent: Understood. A warranty deed transfer means you're warranting to the buyers that you have clear title to the property, so the buyers' attorney wants confirmation from us that no lien exists. The paid-in-full letter combined with the recorded satisfaction of mortgage should satisfy that requirement.
+Caller: Right, she has the satisfaction document from the county records. She just also wanted this letter from you.
+Agent: Completely standard. I'll submit the request now. Before I do, let me double check — the loan number on file is 4-0-0-4-8-8-1-1-5. Would you like me to include that on the letter?
+Caller: Yes, include everything you can so it looks as official as possible.
+Agent: Of course. The letter will include the loan number, borrower name, property address, payoff date, and confirmation of zero balance. Is there anything specific the attorney mentioned she needs on it that I haven't described?
+Caller: She mentioned it should ideally show the date the account was closed as well.
+Agent: Yes, we can include the account closure date. I'll note that in the request. Is there a deadline for this transaction?
+Caller: The closing is scheduled for next Thursday.
+Agent: So we have about six business days. Two to three days for processing and then you'll have it well before closing. We'll send it to both emails simultaneously.
+Caller: That's great. One more question — what if the attorney needs it notarized? Is that something you can do?
+Agent: Our standard paid-in-full letters are not notarized — they're official letters on company letterhead with an authorized signature. Notarized payoff letters are an unusual request and not something we typically provide. In most real estate transactions, the signed letterhead is sufficient. If the attorney specifically requires notarization, you'd want to escalate that request and it would need to go through a different process, potentially adding time.
+Caller: I'll check with her. I think the letterhead is probably fine. She may have just been covering all her bases.
+Agent: That's common in real estate transactions. Attorneys often ask for everything upfront. For a standard warranty deed transaction, the paid-in-full letter and the recorded satisfaction should be more than adequate.
+Caller: Perfect. Is there anything else I need to do on my end?
+Agent: Nothing on your end for this request. I've got everything I need. You'll receive a confirmation email once the letter is sent, and both you and the attorney should receive it within three business days.
+Caller: Wonderful. And if for some reason it doesn't arrive?
+Agent: If you haven't received it within three business days, call back and reference the request. I'll note your loan number and the request date in the account record right now so any representative can follow up quickly.
+Caller: That gives me peace of mind. Thank you Fatima, this was very easy.
+Agent: Happy to help, Mr. Baxter. Congratulations on the sale. Is there anything else I can assist you with today?
+Caller: No, that's all. Thank you very much.
+Agent: Thank you for calling Meridian Mortgage. Have a wonderful day.
+Caller: You too. Bye.
+Agent: Goodbye.

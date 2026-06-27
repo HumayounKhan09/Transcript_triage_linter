@@ -1,0 +1,37 @@
+Agent: Thank you for calling Keystone Mortgage Servicing, this is Anita. How can I help you today?
+Caller: Hi Anita. My name is Terrence Bowman. I'm calling because there's a $35 late fee on my account and I shouldn't have that fee. I paid my mortgage on time and I want it removed.
+Agent: I understand your frustration, Mr. Bowman, and I want to look into this carefully with you. Let me pull up your account. Can I get your loan number or property address?
+Caller: It's 4807 Ashfield Lane, Kansas City, Missouri 64112. Loan number is KS-009-44-3381.
+Agent: And can you verify the last four of your Social Security number?
+Caller: 1174.
+Agent: Thank you. I have your account. Let me look at the payment history for the billing cycle in question. Can you tell me which month's payment this relates to?
+Caller: It's this past month — the October payment. I submitted it on October 13th through my bank's bill pay system. The due date is the 1st and the grace period goes to the 15th. So I was two days before the grace period deadline.
+Agent: Okay, let me look at October specifically. I can see an October payment posted to your account on October 17th. That's two days past the grace period, which is why the late fee was automatically assessed.
+Caller: Wait, I submitted it on October 13th. How did it not post until the 17th?
+Agent: That's a really important distinction, Mr. Bowman, and it depends on your bank's bill pay process. When you submit a bill pay through your bank, there are two types of bill pay systems. Some send payments electronically and they arrive within one to two business days. Others — often for payees that aren't on the bank's electronic network — generate a paper check, mail it to us, and it posts when we receive and process it. That can take three to five business days or longer.
+Caller: I've been paying this way for two years and never had a problem.
+Agent: I hear you, and let me look at the full payment history to see if there's a pattern. Looking back — I can see previous payments posting on the 10th, 11th, 12th, 13th. October is the first one I see posting on the 17th. That is an anomaly.
+Caller: So something was different in October. Maybe it was a mail delay?
+Agent: That's a reasonable inference. October had a federal holiday on Columbus Day — October 14th — which is a bank holiday. If your bank transmitted the payment as a paper check, holiday processing delays could have held it up for an extra business day or two. That would explain why a payment submitted the 13th didn't arrive until the 17th.
+Caller: So I got hit with a late fee because of a federal holiday I had nothing to do with?
+Agent: Based on what I'm seeing, that appears to be a significant contributing factor. And I want to be fair to you — your prior payment history shows you've consistently paid well within the grace period. This is the first late fee on your account in over two years.
+Caller: It's the first one ever. I've always paid on time.
+Agent: I can see that clearly. Two years of on-time payments and one anomaly tied to a holiday processing delay. Mr. Bowman, given your payment history, the holiday factor, and the fact that you submitted the payment on the 13th — two days before the grace period — I'm going to waive that $35 late fee.
+Caller: Thank you. I appreciate that.
+Agent: You've been a consistent customer and this situation has extenuating circumstances. I've reversed the fee and you should see that reflected on your account within one to two business days.
+Caller: Good. Now what can I do to prevent this from happening again? Because I don't want to keep cutting it close if there might be mail delays.
+Agent: That's a smart question. A few options. First, you could ask your bank whether your bill pay to us is processed electronically or by check. If it's by check, switching to an electronic method — like paying directly through our online portal using your bank account — would ensure same-day or next-day posting.
+Caller: I've thought about switching to your portal but I like managing all my bills from one place through my bank.
+Agent: That's very reasonable. In that case, the best mitigation is to submit the payment a few days earlier — by the 10th or 11th instead of the 13th. That gives a buffer for postal or processing delays and you'd still never actually pay earlier than you want to.
+Caller: Yeah, I think that's what I'll do. Just move it up by a couple days.
+Agent: That would almost certainly prevent this situation from recurring. And if it ever happens again — if there's a delay you believe was outside your control — please call us. We look at payment history when making decisions about fee waivers.
+Caller: Good to know. I almost didn't call because I thought you'd just say tough luck, the payment was late.
+Agent: I understand that hesitation, but context matters to us. Two years of on-time payments speaks for itself. Is there anything else I can help you with today?
+Caller: Actually, while I have you, can you also confirm my current balance and what my next payment amount is?
+Agent: Of course. Your current principal balance is $143,287.44. Your next scheduled payment is due November 1st in the amount of $1,024.50, which includes principal, interest, and escrow. With the waived fee removed, there are no other charges outstanding on your account.
+Caller: Perfect. That all looks right. Thank you for being reasonable about this, Anita. I really do appreciate it.
+Agent: Absolutely, Mr. Bowman. You've been a great customer and it was the right call. Is there anything else?
+Caller: No, that's everything. Have a good day.
+Agent: You too. Take care.
+Caller: Bye.
+Agent: Goodbye.

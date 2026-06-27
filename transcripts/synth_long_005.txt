@@ -1,0 +1,75 @@
+Agent: Thank you for calling Horizon Mortgage Services, this is Lisa, how can I help you today?
+Caller: Hi, my name is Catherine Russo, loan number 807341. I'm calling about my mortgage and it's... it's a complicated situation. My husband and I are separating.
+Agent: I'm sorry to hear that, Ms. Russo. That's a very difficult situation and I want to help you understand your options. Let me pull up the account. Can you verify the last four of your social and the property address?
+Caller: 4-4-8-1, and the address is 28 Sycamore Court, Denver, Colorado 80210.
+Agent: Thank you. I have the account. I can see both Catherine Russo and David Russo are on the loan. Are you calling independently today, or will Mr. Russo be joining the call?
+Caller: He'll be joining. He's actually here with me right now — we're still living in the same house, which is part of the problem. I'm trying to keep the house for me and the kids. He wants to move out. We just don't know if I can afford it on my own.
+Agent: I understand. And are you currently in legal divorce proceedings, or is this earlier in the process?
+Caller: We filed in August. We have a mediator. The divorce should be final sometime in early spring. But we need to figure out what to do with the house before then because the mediator is asking us to come to an agreement.
+Agent: Okay. And do you both want to be on this call together?
+Caller: Yes, David is right here. He can answer questions too.
+Agent: That's fine. I'll be speaking with both of you. This is an unusual call setup but it's actually helpful that you're both present so we can go through everything together. Let me describe the four main options for a situation like yours, and we can discuss which might fit. Is that okay?
+Caller: Yes, please.
+David (background): Yeah, go ahead.
+Agent: The first option is a refinance into one person's name. If Catherine, you want to keep the house, you could apply to refinance the mortgage solely in your name. That would remove David from the loan and from the deed, assuming the divorce decree includes a quit-claim deed. The challenge is that you'd need to qualify for the new loan on your income alone.
+Caller: That's what I'm worried about. I work as a dental hygienist. I make about $58,000 a year. The loan balance is... I don't even know the exact number.
+Agent: I can tell you. Your current outstanding principal balance is $331,200. Your current interest rate is 3.625%, and your PI payment is $1,542. With taxes and insurance, your total payment is $2,187 per month.
+Caller: So to refinance at current rates — what are rates right now?
+Agent: Current 30-year conventional rates are approximately 7.1 to 7.4%, depending on credit score and lender. If you refinanced $331,200 at 7.25% over 30 years, your principal and interest payment alone would be approximately $2,260. Adding current taxes and insurance, your total payment would be around $2,900 per month.
+Caller: Oh god. I can't afford that. My take-home is about $3,800 a month.
+Agent: And standard qualifying guidelines prefer that your total housing expense not exceed 43% of your gross monthly income, and for conventional loans ideally no more than 28 to 36%. Your gross income of $58,000 divided by 12 is about $4,833. 43% of that is $2,078 — you'd need to stay below that threshold to qualify, and $2,900 is well above it.
+Caller: So I can't refinance on my own.
+Agent: Not at current rates with your current income alone. However, there are variations on that option. A co-signer — a parent, sibling, or creditworthy family member — could potentially be added to the refinanced loan to help you qualify. Their income would be included in the calculation.
+Caller: My mom might be willing to do that. She's 67 and she's retired but she has significant retirement income.
+Agent: Retirement income from documented sources like Social Security, pensions, or retirement account distributions does count for qualifying purposes. If your mother had, say, $3,500 per month in retirement income, your combined income would be $8,333 gross, and 43% of that is $3,583, which would likely cover a $2,900 payment.
+Caller: I'd have to ask her. David, do you think my mom would do that?
+David: I don't know, Cath. It's a big thing to ask.
+Agent: It's worth exploring. Let me continue with the other options so you both have the full picture before deciding. The second option is a sale of the home. If you sold the property, you'd split the proceeds according to your divorce agreement. At the current market, based on comparable sales in your zip code — and this is approximate — the property may be worth $410,000 to $430,000. With a payoff of approximately $333,000 — including interest and fees — you might net $77,000 to $97,000 before real estate commissions, which are typically 5 to 6%.
+Caller: So after commissions, maybe $52,000 to $71,000 to split between us.
+Agent: Roughly, yes. That's the equity position if you sold today.
+David: That's not nothing.
+Caller: David, I don't want to sell. The kids are in their school. I don't want to uproot them.
+Agent: I understand, and selling is just one of the options. The third option is relevant if neither of you can sustain the mortgage and selling isn't appealing — that's a short sale. Given that you have positive equity, a short sale doesn't really apply to your situation. A short sale is for when the mortgage exceeds the property value. You have equity, so you're in a better position.
+Caller: Okay, we don't need that one then.
+Agent: The fourth option is a deed-in-lieu of foreclosure. Again, not applicable given your equity — you wouldn't want to sign the property over to us when you have $77,000 or more in equity. So realistically, your options are a refinance with or without a co-signer, a sale, or — and I want to mention this because it sometimes gets overlooked — staying jointly on the loan temporarily.
+David: What does that mean?
+Agent: Some divorcing couples, especially with children and school concerns, negotiate a temporary arrangement where both parties remain on the loan for a defined period — say, two years — while one party lives in the home and makes the payments. The divorce decree would specify who is responsible for the mortgage, and that party would be held accountable under the divorce agreement, even though both names remain on the loan during the interim period.
+Caller: But David's credit would still be tied to this.
+Agent: Correct, and that's the risk for David. If Catherine missed a payment, it would affect David's credit too. And David could not qualify for a new mortgage in most cases while he's still on this loan, unless a lender considered it an exceptional circumstance with documentation of the divorce decree.
+David: So I couldn't buy my own place?
+Agent: Potentially not at full qualification, no. Some lenders will exclude a joint mortgage payment from a borrower's debt-to-income calculation if they have a divorce decree showing the other party is responsible for the payment and if there are 12 months of canceled checks showing the other party has been making the payment. So if Catherine made payments for 12 months, you might be able to buy your own place after that.
+David: Okay, that's actually something to think about.
+Caller: See, I didn't know that was possible. This is helpful.
+Agent: I want to ask about the current payment. Is the mortgage currently being paid?
+Caller: Yes, it's coming out of our joint account. David is still depositing into that account. But obviously once he moves out, that changes.
+Agent: Can you afford the full $2,187 payment on your own each month?
+Caller: Barely. My take-home is $3,800. If I pay $2,187, I have $1,613 for everything else — food, kids' expenses, utilities, car. It would be really tight.
+Agent: Does David anticipate paying any spousal support or child support?
+Caller: The mediation isn't finalized but our mediator says probably $1,200 a month.
+Agent: If you received $1,200 per month in documented spousal or child support, that income counts for qualifying purposes after it's been ordered and consistent for a period of time. If you were receiving $1,200 a month in support, your total income would be $4,900 gross. 43% of that is $2,107, which is just barely within range for the current $2,187 payment — though tight.
+Caller: So with support, I might be able to qualify on my own for a refinance eventually?
+Agent: Possibly, but there are timing requirements. Most lenders require 6 to 12 months of documented support receipt before they'll count it as income. And remember, at current rates, a refinance would increase your payment significantly. The goal with a refinance is primarily to remove David from the loan, not necessarily to get a lower rate.
+Caller: This is making my head spin. There's a lot to think about.
+Agent: I know. And I want to say — I'm not a divorce attorney and I'm not a financial advisor. The legal and tax implications of your options are something you'd want to discuss with those professionals. What I can tell you is what the mortgage side looks like from each path.
+David: Can we ask — what happens if we just do nothing for now? Like if we just keep paying jointly for six months while we figure it out?
+Agent: The mortgage continues as normal. Both of your names remain on the loan, both of your credits are tied to on-time payment, and nothing changes with the servicer. The risk is that if your financial arrangement changes before the mortgage arrangement does, there's a gap period where coverage could fall through.
+Caller: I do have one concern. What if David stops paying into the joint account and the mortgage payment bounces? What happens?
+Agent: If a payment is not received by the due date, late fees apply after the grace period. If a payment is missed entirely, it reports as 30 days late to the credit bureaus after 30 days. If multiple payments are missed, loss mitigation options become relevant — the same types of options I discussed earlier. The key is communication. If you anticipate difficulty making a payment, call us before that happens.
+Caller: Okay. So what would you recommend we do right now, as a next step?
+Agent: I can't make that decision for you. What I would suggest is consulting with a HUD-approved housing counselor — they specialize in exactly this type of situation and the service is free. The HUD hotline is 1-800-569-4287. They can review your full financial picture including the divorce dynamics and help you model the different paths. I'd also suggest speaking with both a family law attorney and a mortgage lender about what a refinance would look like with your mother as a co-borrower.
+Caller: We have a family law attorney. We'll ask her about the temporary joint arrangement.
+David: And I'll think about the 12-month period before I can get my own place.
+Agent: Does it help to know approximately what David's debt-to-income would look like if he were trying to buy in 12 months, absent this mortgage?
+David: Yeah, that would be helpful.
+Agent: What's your income, David?
+David: I'm a software engineer. I make $94,000 a year. So about $7,833 a month gross.
+Agent: 43% of $7,833 is $3,368. If you're not carrying this mortgage payment as a debt — assuming the 12-month payment history by Catherine and a divorce decree — your qualifying ceiling is $3,368 a month for housing plus all other debts. That's workable for a new purchase in Denver's market, depending on what you can put down.
+David: Okay. Yeah, this is making more sense now.
+Caller: I feel like I need to cry and take notes at the same time.
+Agent: Take as much time as you need. This is one of the hardest things a family goes through and you're asking the right questions at the right time.
+Caller: Can we call back if we have more questions after talking to our attorney?
+Agent: Absolutely. Any agent can pull up this account and the notes from today's call. You can also ask for a supervisor if you want to continue the conversation with someone who has account authority. Is there anything else today?
+Caller: No. Thank you, Lisa. This has been really helpful.
+David: Yeah. Thanks.
+Agent: You're both welcome. Good luck to your family. Goodbye.
+Caller: Goodbye.

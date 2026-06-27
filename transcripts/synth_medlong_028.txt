@@ -1,0 +1,58 @@
+Agent: Thank you for calling Summit Mortgage Services, this is Tom. Can I get your loan number to start?
+Caller: 3318-77542.
+Agent: And your name and last four of Social?
+Caller: Gerald Fitch. Social ends in 1190.
+Agent: Thank you, Mr. Fitch. I have your account. Property at 2244 Prairie Wind Drive, Wichita, Kansas. I can see this is a balloon loan. What's on your mind today?
+Caller: The balloon is due in 60 days. August 15th is my maturity date. And I cannot refinance. I've tried three lenders and none of them will do it. I'm panicking a little here.
+Agent: I understand this feels urgent — and it is urgent — but I want to assure you that this situation is more common than you might think with balloon loans, and there are options to discuss. Let me look at the details of your loan first. Your original loan was for $165,000 in 2017. It was a 7-year balloon. Current balance is $142,388.14. Your payment has been based on a 30-year amortization schedule, so the monthly payment was $934.12. The balloon balance due August 15th is $142,388.14.
+Caller: That's the amount. And I can't come up with that.
+Agent: Right. Before we talk about options, can you tell me why the three lenders declined to refinance? Understanding the reason helps me understand what solutions are available.
+Caller: My credit score dropped. I had some medical bills that went to collections — nothing I could have controlled. My score is around 595. The lenders are all saying they need 620 at minimum.
+Agent: Credit score is a common barrier. That's a 25-point gap to the typical conventional minimum. Let me explain the options available on our end.
+Caller: Please. I don't want to lose my house.
+Agent: First, let me explain what options a balloon loan servicer might offer when a borrower can't pay off the balloon at maturity. The formal term is balloon extension or workout. Not all servicers or investors offer these, but our servicing guidelines do allow us to request a balloon extension from the loan's investor in cases of documented hardship.
+Caller: What exactly is a balloon extension?
+Agent: It's an agreement to extend the maturity date of the loan — either giving you additional time to refinance or converting the loan into a standard amortizing loan with a new maturity. The terms depend on investor approval. Some extensions are short — 90 days to six months — to give you time to improve your credit and refinance. Others are full conversions where the loan becomes fully amortizing at a new rate.
+Caller: A full conversion sounds ideal. Can my interest rate change?
+Agent: Yes, the rate could change. Your current rate is 5.25 percent. A conversion would likely reset the rate to current market, which is higher — around 7 to 7.5 percent for a loan at your credit profile. The payment would increase. But it would eliminate the balloon risk and give you a stable fixed payment going forward.
+Caller: What would the payment be at 7.25 percent on 30 years?
+Agent: On $142,388 at 7.25 percent for 30 years, your new payment would be approximately $972. That's only $38 more than your current payment. Actually quite manageable.
+Caller: That's not bad. Why would my payment barely change even though the rate is so much higher?
+Agent: Because your balance has declined meaningfully from the original $165,000 and you're restarting the amortization clock over 30 years. The combination of lower balance and longer term offsets the rate increase. It's not always the case, but in your situation the numbers work out well.
+Caller: So what's the process to request this? Who makes the decision?
+Agent: I would submit a balloon workout request to the loan's investor on your behalf. Your loan is held by a regional bank investment portfolio — not Fannie or Freddie — which means the bank has some flexibility but also their own guidelines. I cannot promise they'll approve a conversion, but I can represent your situation accurately and request it. They typically want to see that you're not willfully choosing not to pay — they want evidence you genuinely cannot refinance.
+Caller: What evidence?
+Agent: The three lender declinations are exactly what we need. Can you get denial letters or written declination notices from those lenders?
+Caller: One of them is a written letter. The other two are emails. Would those work?
+Agent: Yes, emails are fine. We need any documentation showing your refinance applications were declined and the reason. The credit score reason is clearly documented in any adverse action notice the lender is required to provide.
+Caller: I have those. I have the adverse action notices from all three.
+Agent: Perfect. Those are exactly what we need. Combine those with a brief hardship letter from you explaining the medical collections that affected your score, and a summary of your income showing you have the ability to make ongoing payments even if you can't pay the balloon in full.
+Caller: My income is solid. I make $68,000 a year at my job. I've never missed a payment on this loan.
+Agent: I can confirm that — your payment history shows zero missed payments in seven years. That is a significant positive factor. The investor will see that you've been a reliable borrower and the inability to pay the balloon is circumstantial, not behavioral.
+Caller: How long does the approval process take?
+Agent: Once I submit the request with your complete documentation, the investor has 30 to 45 days to respond under our servicing agreement. Given your balloon date is in 60 days, we need to move immediately. I want to submit the request today or tomorrow at the latest.
+Caller: Can you submit it today?
+Agent: I can open the case right now and submit the initial request. I'll note the August 15th maturity as urgent. We'll need the documentation within the next five business days to support the submission. Can you send those denial letters and adverse action notices within that window?
+Caller: Absolutely. I can fax or email them today.
+Agent: Email to our loss mitigation team at workouts@summitmortgage.com, referencing loan number 3318-77542 and case number SM-2025-GF-11092. I'm opening that case as we speak.
+Caller: And what happens if the investor says no? What's my last resort?
+Agent: If the investor declines an extension or conversion, the options become more difficult. One possibility is a short-term forbearance — the investor may agree not to initiate foreclosure immediately while you continue trying to refinance or come up with funds. Another is reaching out to a hard money lender, which is a private lender that charges significantly higher rates but doesn't have credit score minimums. You could bridge with a hard money loan while repairing your credit, then refinance into a conventional loan when your score recovers.
+Caller: Hard money sounds expensive.
+Agent: It is — rates can be 9 to 12 percent, and there are points and fees. But for someone with your equity position, it could be a bridge. Your balance is $142,388 and if your home is worth —
+Caller: I'd say $220,000 maybe $225,000.
+Agent: At $220,000 value and $142,388 balance, your LTV is about 65 percent. Hard money lenders typically lend up to 65 to 70 percent LTV, so you'd be at the edge of their appetite. It's possible but not a slam dunk.
+Caller: What would my credit score need to be to refi out of hard money into conventional?
+Agent: Most conventional lenders want 620 as you've heard. Some FHA lenders will go to 580 with 3.5 percent down. Since this is your existing home with equity, you wouldn't need a down payment — but FHA does have credit score thresholds too. How long ago were the medical collections?
+Caller: About eight months ago.
+Agent: Medical collections have been deprioritized in newer credit scoring models — FICO 9 and VantageScore 4.0 largely ignore paid medical collections. Even unpaid medical collections under $500 are ignored in some models. If you can resolve those medical collections — pay them or get them deleted — your score could recover meaningfully within six to twelve months.
+Caller: I can pay them. They total about $3,400. I just hadn't prioritized it.
+Agent: Paying or settling them should be your top priority alongside this workout request. Once paid, dispute the tradelines with the bureaus and request deletion. Many collection agencies will delete upon payment. Score recovery of 20 to 30 points in 90 days is realistic.
+Caller: If I can get to 620 in 90 to 120 days, a short extension might buy me that time.
+Agent: Exactly. A 90-day extension, plus you paying off the collections and recovering 25 points, lines up as a viable path. That's the scenario I'll present to the investor — you have a concrete, achievable plan to refinance if given 90 to 120 days.
+Caller: This feels much more manageable than it did 20 minutes ago.
+Agent: Good. Here's the summary: I'm opening case SM-2025-GF-11092 today. Send all three denial letters or adverse action notices to workouts@summitmortgage.com within five business days. I'll submit the balloon extension request to the investor immediately. Separately, pay your medical collections as soon as possible. We'll push hard for a 90 to 120 day extension or full conversion given your clean payment history.
+Caller: Thank you, Tom. I really needed this roadmap.
+Agent: Happy to help, Mr. Fitch. Please send those documents today or tomorrow. Time is critical here. Is there anything else?
+Caller: No, I'll get those to you right away. Thank you so much.
+Agent: Good luck. We'll do everything on our end to support this. Goodbye.
+Caller: Goodbye.

@@ -1,0 +1,41 @@
+Agent: Thank you for calling Cascade Mortgage Servicing, this is Amber. How can I help you today?
+Caller: Hi Amber, my name is Dennis Colangelo. I have an adjustable-rate mortgage and I got a notice that my rate is going to adjust next month and I see a term on there called a lookback period. I don't fully understand what that means.
+Agent: Hi Mr. Colangelo, I can explain that. Let me pull up your account first. Can I get your loan number?
+Caller: It's 7744-2201.
+Agent: And the property address?
+Caller: 3819 Cypress Point Drive, Portland, Oregon, 97229.
+Agent: And last four of your Social Security number?
+Caller: 5523.
+Agent: Got your account. So you have a 5/1 ARM — it was fixed for the first five years and now it's going into its first annual adjustment. The notice you received is your rate change notification, which lenders are required to send you before an adjustment takes effect.
+Caller: Right. And it references a lookback period and I want to understand how my new rate was calculated.
+Agent: Absolutely. Your ARM uses the SOFR index — Secured Overnight Financing Rate — as the basis for adjustments. The lookback period refers to how far back in time the lender looks to determine which index value to use for the rate calculation.
+Caller: So they don't just use the current rate?
+Agent: Correct. If your adjustment date is the first of next month, the lender doesn't use the index value from that exact day. Instead, they look back a specified number of days — in your case, the lookback period is forty-five days.
+Caller: Why forty-five days?
+Agent: The lookback period is built into the loan to give the servicer time to calculate and notify you before the adjustment. Practically speaking, we need to lock in a specific index value, calculate your new rate, and send you notice with enough lead time — your note requires sixty days' notice. So we look back forty-five days to have a defined, stable index value to work from.
+Caller: So which specific SOFR value did you use?
+Agent: Let me look at your rate change notice details. Your adjustment date is July 1st, so the lookback goes to May 17th. The 30-day average SOFR rate on May 17th was 5.31 percent.
+Caller: And then what do you add to that?
+Agent: Your margin. Your loan has a margin of 2.75 percent, which never changes. That's fixed in your promissory note. So your new rate is calculated as the index — 5.31 percent — plus your margin — 2.75 percent — which equals 8.06 percent.
+Caller: 8.06? That's a significant jump from my 4.875 fixed rate.
+Agent: I understand that's a meaningful increase. The rate environment has changed significantly since your loan was originated. The SOFR index reflects current market rates, which are considerably higher than when you closed.
+Caller: Is there a cap on how much it can go up?
+Agent: Yes, ARM caps are very important and are specified in your note. You have three types of caps. A periodic cap — sometimes called the first adjustment cap — which limits how much the rate can change at the first adjustment. Yours is five percent. Then there's a periodic cap for subsequent adjustments, which is two percent per year. And a lifetime cap of five percent above your initial rate.
+Caller: Wait — so even though the math gives me 8.06, is there a cap that limits it?
+Agent: Let me check. Your initial note rate was 4.875 percent. Your first adjustment cap is five percentage points. So the maximum your rate could go to on this first adjustment is 9.875 percent. Your calculated rate of 8.06 is below that cap, so the cap doesn't limit it in this case. The full 8.06 rate applies.
+Caller: What's my new payment going to be?
+Agent: Your current principal balance is $334,200 with approximately twenty-five years remaining on the loan. At 8.06 percent, your new principal and interest payment would be approximately $2,617 per month. Your previous P&I payment was $1,941. So an increase of about $676 per month.
+Caller: That's a lot. Is there anything I can do about it?
+Agent: You have a few options. One is to accept the new rate and payment and continue. Two is to make additional principal payments now or going forward to reduce the balance and therefore the payment impact at future adjustments. Three is to refinance into a fixed-rate loan, though current fixed rates are in a similar range and you'd also incur closing costs.
+Caller: What are fixed rates now?
+Agent: I don't have live rate quotes here on the servicing side, but I can transfer you to our origination team who can run a refinance scenario. Given that your ARM rate is now 8.06 percent, it would be worth comparing that to a fixed rate to see if refinancing makes sense.
+Caller: What would future adjustments look like if rates stay the same?
+Agent: If the index stays flat, your rate would remain at 8.06 percent until the next adjustment in twelve months. At that point it would recalculate using the same formula with the then-current index plus 2.75 margin, subject to the two percent periodic cap for subsequent adjustments.
+Caller: So it could go up another two percent next year?
+Agent: In theory, if rates rise further. Or it could drop if rates fall. The periodic cap limits changes in either direction to two percent per year.
+Caller: Okay. That helps me understand the mechanism. I think I need to talk to someone about refinancing options.
+Agent: That's a reasonable thing to explore. Would you like me to transfer you to our origination team right now?
+Caller: Yes, please.
+Agent: Let me connect you. Before I do, is there anything else you wanted to confirm about the rate change notice?
+Caller: No, that explains everything. Thank you, Amber.
+Agent: You're welcome. Holding for just a moment while I connect you.

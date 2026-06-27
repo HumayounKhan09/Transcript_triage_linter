@@ -1,0 +1,37 @@
+Agent: Thank you for calling Pacific Crest Mortgage, this is Sandra speaking. How can I help you today?
+Caller: Hi Sandra. I recently applied for a homestead exemption through the county assessor's office. My neighbor told me it would lower my property taxes, but I'm not sure how it affects my escrow payment. I'm a little worried about how the numbers will change.
+Agent: That's a great question and a smart thing to look into. Let me pull up your account. Can I get your name and property address?
+Caller: Sure. My name is Anita Rosenberg. The address is 6614 Elm Hollow Road, Austin, Texas 78745.
+Agent: Thank you. And last four of your Social Security number?
+Caller: 4408.
+Agent: And last four of the loan number?
+Caller: 7791.
+Agent: Perfect. I've got your account. So let me explain how the homestead exemption interacts with your escrow account. The homestead exemption is a benefit granted by your county or state that reduces the taxable assessed value of your primary residence. This directly lowers your property tax bill.
+Caller: Right. The county told me it could reduce my assessed value by $25,000, which apparently saves me several hundred dollars per year in taxes.
+Agent: That sounds right for Texas. The standard Texas homestead exemption reduces your assessed value by $100,000 for school district taxes, which can be significant depending on your school district's tax rate.
+Caller: Wow, $100,000? That's even more than I thought.
+Agent: Yes, Texas has a fairly generous homestead exemption. So let me explain how that flows through to your escrow account. Right now we collect a certain amount from you each month and hold it in escrow to pay your tax bill when it comes due. If your tax bill decreases due to the exemption, we'll have collected more than we needed.
+Caller: Oh, so would I get money back?
+Agent: Potentially yes. We conduct an escrow analysis every year, typically in the spring. At that analysis, if we see that your disbursements were lower than anticipated because your tax bill dropped, you'd show a surplus. Surpluses over $50 are returned to you as a check, and your monthly payment would adjust downward going forward.
+Caller: How soon would this take effect in my payments?
+Agent: The timing depends on when the homestead exemption takes effect and when your next annual escrow analysis runs. In Texas, if you filed before the county deadline, typically April 30th, your exemption may apply to this tax year. Our next scheduled escrow analysis for your account is in March. At that time we'd incorporate the updated tax amount.
+Caller: So I might have to wait until March to see any savings in my monthly payment?
+Agent: Potentially. If the county applies the exemption to your current year's tax bill and we haven't run your analysis yet, you may overpay slightly into escrow until the next analysis. At that point the overage would be refunded and your payment would drop.
+Caller: What if the county sends me a reduced bill but you've already disbursed the old amount?
+Agent: If the tax bill is lower than what we disbursed, the county would likely refund the overpayment to us and we would credit your escrow account. It can take time for that process to resolve, but it does get sorted out.
+Caller: Is there anything I need to do on my end to notify you?
+Agent: Not necessarily. We receive the tax bills directly from the county and would see the updated amount. However, if you receive written confirmation of your homestead exemption approval, it wouldn't hurt to call us and have a note added to your account. That way our escrow team is aware and can watch for the updated tax information.
+Caller: I'll do that. I have a letter from the county actually that I received last week.
+Agent: Perfect. You can email that document to our escrow team or mail it to our servicing address. I can give you both options.
+Caller: Email would be easier.
+Agent: Our escrow documentation email is escrow at pacificcrestmortgage dot com. Include your loan number in the subject line, which is on your statement.
+Caller: Okay I'll send that today. Now is there any chance my payment could go up because of this?
+Agent: The homestead exemption itself would only cause your taxes to go down or stay the same, so no, it shouldn't cause your payment to go up. Payment increases typically come from property value reassessments or insurance premium increases.
+Caller: That's reassuring. I was a little nervous calling because I wasn't sure if there would be some catch.
+Agent: No catch at all. The homestead exemption is a genuine benefit for primary homeowners. It's worth making sure it's in place especially in Texas.
+Caller: Thank you for explaining all of that, Sandra. I feel a lot better.
+Agent: Happy to help. Is there anything else I can assist you with today, Anita?
+Caller: I think that covers it. Thanks so much.
+Agent: Of course. Have a great day.
+Caller: You too. Bye-bye.
+Agent: Goodbye.

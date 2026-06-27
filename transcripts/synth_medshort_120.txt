@@ -1,0 +1,47 @@
+Agent: Thank you for calling Granite Mortgage Servicing, this is Jessica. How can I help you today?
+Caller: Hi Jessica, my name is Priscilla Dawson. We had a major storm damage our house and I filed a homeowners insurance claim. The insurance company sent a check but it's made out to both me and your company. I need a letter from you to send to my insurance company. I'm not even sure exactly what they need, to be honest.
+Agent: Hi Ms. Dawson, this is actually a very common situation with insurance claims and I can walk you through it. Let me pull up your account first. Can I get your loan number?
+Caller: Yes, it's 3344-9928.
+Agent: And the property address?
+Caller: 6617 Magnolia Street, Jackson, Mississippi, 39204.
+Agent: And last four of your Social?
+Caller: 8834.
+Agent: Got your account. And I'm sorry to hear about the storm damage. Can you tell me about how large the insurance claim is?
+Caller: The adjuster said the damage is around $67,000. The check hasn't arrived yet but the insurance company warned me that it would have your name on it too.
+Agent: Yes, that's standard. Because your home is collateral for your loan, we as the mortgage servicer — and by extension the loan owner — have an insurable interest in the property. The insurance company includes us as a co-payee on the loss draft to ensure the funds are used to repair the property.
+Caller: So it's not the insurance company being difficult — it's just automatic?
+Agent: Exactly. Your homeowners policy has what's called a mortgagee clause that lists us as an additional payee. The insurer is following their obligation under that clause.
+Caller: Okay. So what happens with the check when it comes?
+Agent: For a claim of this size, there's a loss draft process. The check will need to be endorsed by both you and by us before it can be deposited. You can't just cash it on your own.
+Caller: Do I send the check to you?
+Agent: Yes. You would mail the endorsed check along with documentation to our loss draft department. Let me give you the address and what we need.
+Caller: Please.
+Agent: You'll need to send the original insurance check endorsed by you — sign the back where it says endorse here — along with a copy of the insurance adjuster's scope of work or settlement statement, a signed contractor agreement if you've already selected a contractor, and a signed loss draft claim form which you can download from our website.
+Caller: What's the loss draft claim form?
+Agent: It's a form we require to track the repair process. It captures information about the damage, your contractor, and your acknowledgment that funds are being used for repairs.
+Caller: What do you do with the check after that?
+Agent: We hold the funds in a loss draft account. For larger claims — and $67,000 falls into this category — we typically release funds in draws as repairs progress rather than all at once. We'll coordinate inspections to verify that repair work is complete before releasing each draw.
+Caller: How many draws?
+Agent: For a claim of this size, typically two to three draws. Initial draw to get work started — often around a third of the funds — a mid-construction draw when work is substantially underway, and a final draw upon completion and final inspection.
+Caller: How long does the initial draw take?
+Agent: Once we receive all the documents, the initial processing takes about five to seven business days. The initial draw is typically released within a few days after that.
+Caller: Now you mentioned a lender letter earlier — what exactly is that and who needs it?
+Agent: You may have heard this referred to as a mortgagee letter or lienholder confirmation. Some insurance adjusters or insurance company offices request a letter from the servicer confirming our loan details and our participation in the loss draft process. This is so they have our information on file when issuing the check.
+Caller: My insurance agent specifically asked for a letter with your company name, address, loan number, and confirmation that you will participate in the claim process.
+Agent: I can generate that for you. It's called a mortgagee information letter. I can email it to you or mail it, and you can provide it to your insurance agent.
+Caller: Can you email it? I can forward it right away.
+Agent: Yes. I'll generate the letter now. It will include our company name, our loss draft mailing address, your loan number, property address, and a statement confirming our mortgagee interest. The email on file is pdawson1968@yahoo.com — is that still current?
+Caller: That's correct.
+Agent: It should arrive within about an hour. You can forward it directly to your insurance agent.
+Caller: Perfect. And is there a contractor I have to use, or can I pick my own?
+Agent: You can select your own licensed contractor. We don't have a required contractor list. However, we do require the contractor to be licensed and insured, and we'll ask for a copy of their license and insurance certificate as part of the documentation package.
+Caller: The contractor I want to use is already licensed. I've worked with them before.
+Agent: Great. Once you have a signed contractor agreement, include that in your documentation when you mail us the check.
+Caller: And if I need to make some temporary repairs while we're waiting — like a tarp on the roof — can I start that now?
+Agent: Yes, absolutely. You should document everything with photos before and after temporary repairs. Keep all receipts for temporary measures. Many insurance policies actually require you to mitigate further damage, so that's appropriate. Temporary repairs won't affect your claim.
+Caller: This has been extremely helpful. I feel like I know what to do now.
+Agent: I'm glad. The loss draft process can feel overwhelming but it's well-defined once you know the steps. Send your insurance agent the letter when you receive it, wait for the check, then mail us the endorsed check with the required documents.
+Caller: Great. Thank you, Jessica.
+Agent: You're very welcome, Ms. Dawson. Good luck with the repairs. Is there anything else?
+Caller: No, that's everything. Thanks again.
+Agent: Have a good day. Take care.

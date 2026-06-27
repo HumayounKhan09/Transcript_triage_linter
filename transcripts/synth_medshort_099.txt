@@ -1,0 +1,47 @@
+Agent: Meridian Mortgage Servicing, this is Ray. How can I help you today?
+Caller: Hi Ray. My name is Paulette Simmons. I want to get a copy of my original promissory note. My attorney says I should have a copy of it and I never really got one, or I can't find it, and I want to make sure I have it on file.
+Agent: Hi Ms. Simmons, requesting a copy of your promissory note is something you have the right to do. Let me pull up your account and we can figure out the best way to get that to you. Can I verify your identity?
+Caller: Of course.
+Agent: Property address?
+Caller: 1114 Sandpiper Drive, Savannah, Georgia, 31405.
+Agent: Last four of your Social?
+Caller: 2266.
+Agent: Date of birth?
+Caller: April 17th, 1961.
+Agent: Thank you. I have your account. Now, your request is for the original promissory note. I want to make sure I set the right expectation here. The original promissory note — the actual piece of paper you signed at closing — is typically held by the loan servicer, custodian bank, or investor as the holder of the note. What we can typically provide is a certified copy.
+Caller: Is a certified copy the same thing legally?
+Agent: For most practical purposes, yes. A certified copy is a reproduction of the original document that has been certified to be a true and accurate copy. For purposes of confirming your loan terms, interest rate, payment obligations, and other provisions — which is what most attorneys need — a certified copy is generally sufficient. The original would only matter in specific legal proceedings where the holder of the original needs to be established.
+Caller: My attorney mentioned something about the chain of title on the note — like wanting to verify who has the right to enforce it. Is that something a copy can help with?
+Agent: That's a more specific legal question. The right to enforce a note follows the holder — the entity that physically possesses the original note — and the chain of endorsements on the back of the note, similar to how checks are endorsed. A copy of the note, if it shows the endorsements, can help verify the chain. However, if your attorney wants to verify actual holder status, that may require a more detailed legal process.
+Caller: I'm not in any dispute right now. I just want my own records to be complete. My attorney said after all these years I should have a copy.
+Agent: Absolutely. Getting a copy for your own records is very reasonable. We can provide a certified copy of the promissory note as part of a loan document request. This process is sometimes called a qualified written request or simply a document request.
+Caller: Is there a fee?
+Agent: There can be a nominal fee for document retrieval, depending on state law and our policies. Some states prohibit charging for copies of loan documents. In Georgia, let me check — I believe there may be limits on what we can charge. I'd need to look that up to give you a definitive answer, but I can submit the request and any applicable fee will be disclosed to you before it's charged.
+Caller: Okay. And if there is a fee, how much are we talking?
+Agent: It's typically in the range of twenty-five to fifty dollars for document retrieval, but I don't want to commit to a specific number without confirming. It won't be a large amount.
+Caller: That's fine. How do I request it?
+Agent: You can submit the request in writing — either by mail or through our secure document portal on our website. Include your name, property address, loan number, and a clear statement that you're requesting a certified copy of the original promissory note. Or I can note the request here in your account and have our document fulfillment team process it.
+Caller: Can you process it from this call?
+Agent: I can submit a document request on your behalf right now, yes. Let me do that. I'm entering a request for a certified copy of the promissory note for loan number — I'll read it back to you — 4-0-0-7-0-2-9-9-8.
+Caller: Okay.
+Agent: The request is entered. Standard processing time is ten to fifteen business days. The document will be mailed to your address of record, which is 1114 Sandpiper Drive, Savannah, Georgia, 31405. Is that correct?
+Caller: Yes, that's right.
+Agent: Would you also like it sent to an email address, if that's available?
+Caller: Yes — it's paulette.simmons61 at gmail dot com.
+Agent: P-A-U-L-E-T-T-E dot S-I-M-M-O-N-S-6-1 at gmail dot com?
+Caller: Yes, that's it.
+Agent: Added. They'll send it to both. Now, one thing I want to mention — when your loan has been sold or transferred, it's possible the original note is held by a custodian rather than directly by us. If that's the case, retrieval could take a little longer. We'd notify you of any delay.
+Caller: How often does that happen?
+Agent: It's fairly common. Loans that have been securitized — bundled into mortgage-backed securities — have their original notes held by a document custodian, typically a bank. We service the loan but may not hold the physical document. In that case we'd contact the custodian for the copy, which can add a few extra days.
+Caller: And will the copy show the full note including any endorsements or allonges?
+Agent: An allonge is a document attached to the note that shows subsequent transfers or assignments. A certified copy should capture all pages of the note including any endorsements or attached allonges. If you receive the copy and it doesn't appear complete, you can call back and request the complete version.
+Caller: Good. One more thing — is there any concern from your side about why I'm asking for this? I want to make sure this doesn't trigger any kind of flag on my account.
+Agent: Not at all. Requesting a copy of your own loan documents is a routine and legitimate request. Borrowers have a right to their loan documentation. It doesn't create any negative flag or raise any concern. This is a document fulfillment request, nothing more.
+Caller: Okay. I just wanted to ask because a friend of mine said when she asked for hers, the servicer got weird about it.
+Agent: Some servicers handle these requests better than others. This is a standard request and we process them regularly. Your account status is completely unaffected.
+Caller: Thank you Ray. That's all I needed.
+Agent: Of course. Is there anything else I can help you with today?
+Caller: No, that covers it.
+Agent: Thank you for calling Meridian Mortgage, Ms. Simmons. Have a wonderful day.
+Caller: You too. Bye.
+Agent: Goodbye.

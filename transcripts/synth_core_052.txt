@@ -1,0 +1,46 @@
+Agent: Thank you for calling Horizon Home Lending, this is Rachel. Can I pull up your account with a loan number?
+Caller: Yeah, it's 7723-441-16. My name is Darnell Whitfield.
+Agent: Thank you, Mr. Whitfield. Can you verify your date of birth and the property address?
+Caller: August 14th, 1979, and the address is 508 Pinecrest Drive, Memphis, Tennessee 38117.
+Agent: I've got your account up. How can I help you today?
+Caller: I got a letter in the mail about a property inspection and I'm trying to understand what that means. It says someone's going to inspect my property at 508 Pinecrest?
+Agent: Yes, Mr. Whitfield, I can explain that. I do see that your account is currently past due. Our records show you're four payments behind, with the last payment received being your November 2025 payment. A property inspection is something servicers are required to initiate on delinquent loans to verify that the property is occupied and being maintained.
+Caller: So someone's going to come to my house?
+Agent: A third-party inspector will drive by the property. It's typically a visual inspection from the exterior — they verify that the home appears occupied, that there's no obvious property deterioration, and that it looks like someone is living there. They do not enter the home.
+Caller: I didn't give anyone permission to come to my property. Can I stop this?
+Agent: I understand it feels intrusive, and I want to be clear — this is a standard requirement once a loan reaches a certain delinquency threshold, which in your case is ninety days past due. It's outlined in your mortgage agreement in the section on servicer rights during default. It's not punitive — it's a requirement designed to protect the collateral value, which is the home itself.
+Caller: What if nobody's there when they come?
+Agent: They don't need access to the interior. They simply observe and document from the street or public property. They may leave a notice on the door if they can't confirm occupancy. If they're unable to confirm the property is occupied, that can trigger additional steps in the servicing process.
+Caller: What kind of additional steps?
+Agent: If the property appears vacant, we may be required to take protective measures such as securing the property or winterizing it if applicable. Those actions carry costs that would be added to your loan balance.
+Caller: The house is definitely not vacant. I live there.
+Agent: That's good to know, and the inspection should confirm that. I'd recommend being present or having the home look clearly occupied — lights on, car in driveway if possible — just so the documentation is clear. The inspector isn't there to cause any trouble for you.
+Caller: How much does this inspection cost me?
+Agent: There is a fee associated with it, typically $12 to $18 per inspection depending on the vendor. That gets added to your loan's corporate advances balance. I can see one inspection has already been ordered, and if the delinquency continues, they can be ordered periodically — typically every thirty days.
+Caller: So every month I'm behind, they're going to send someone by and charge me?
+Agent: That's correct. Recurring inspections can be ordered on a monthly cycle as long as the account remains delinquent. The fees accumulate and are recovered when the account is brought current or paid off. I want to be honest with you, Mr. Whitfield — the best way to stop those fees from accumulating is to address the delinquency on the account.
+Caller: I know. I've been dealing with some medical stuff. I had surgery in December and was out of work for almost three months.
+Agent: I'm really sorry to hear that. That kind of situation can really derail finances quickly. The good news is that because this was a hardship situation, you may qualify for some loss mitigation options — things like a repayment plan, a forbearance extension, or possibly a loan modification — that could help you get back on track without losing the home.
+Caller: I didn't know I could ask for that.
+Agent: Absolutely. You have rights under federal servicing guidelines. If you experienced a financial hardship, you can submit what's called a loss mitigation application, and we're required to evaluate you for all available options. Would you like me to send you that application?
+Caller: Yes please. What do I need for it?
+Agent: You'll need documentation of the hardship — a letter explaining what happened, any medical bills or discharge paperwork — and then standard income documentation like your two most recent pay stubs, your last two years of tax returns if you're self-employed, and your two most recent bank statements.
+Caller: Okay. I'm back to work now so I have pay stubs.
+Agent: That's helpful. Being back to work actually strengthens your application because it shows you have income to support a modified or repayment arrangement. Can I ask — do you have any idea what you might be able to contribute monthly right now?
+Caller: I could probably do my regular payment, maybe a little more. But I can't just write a check for four months all at once.
+Agent: I understand. A repayment plan is likely a good fit then. That would let you spread the overdue amount over a period of time — typically three to twelve months — on top of your regular monthly payment. So for example, if your regular payment is $1,240 and your arrears are around $5,000, you might pay an extra $400 to $500 a month until you're caught up.
+Caller: That's more manageable. What happens to the property inspection in the meantime?
+Agent: If you submit a loss mitigation application, we pause certain collection activities while we evaluate your eligibility. However, property inspections are a servicer requirement tied to delinquency status, so they may continue until the account is current. Once you're current, they stop automatically.
+Caller: How do I get the application?
+Agent: I'll flag your account for a loss mitigation outreach call, and we'll mail and email you the packet within two business days. You can also download it from our website under the "Hardship Assistance" section. Your account number is what you'll use to log in.
+Caller: And what's the timeline once I submit?
+Agent: Once we receive a complete application — all pages filled out and all documents included — we have thirty days to evaluate it and send you a written decision under federal guidelines.
+Caller: What's the loan number I should put on the application?
+Agent: That's 7723-441-16. Put it on every page of the application and every document you send. And please send it to our loss mitigation department — the address is on the application itself. You can also fax to 1-888-207-4451 or upload through the web portal.
+Caller: Okay. And about the inspection — there's nothing I need to do to prepare, right? Just be there?
+Agent: Just ensure the home looks occupied. That's really all. And don't worry — you won't be asked to let anyone inside.
+Caller: Alright. Thank you, Rachel. This is a lot more than I expected to learn today.
+Agent: I'm glad I could explain it. You're not in an impossible situation, Mr. Whitfield. Getting that application in is the most important next step. Is there anything else you need today?
+Caller: No, I think that covers it.
+Agent: Good luck with everything. Have a good day.
+Caller: You too. Bye.

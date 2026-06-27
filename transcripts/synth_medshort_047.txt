@@ -1,0 +1,33 @@
+Agent: Thank you for calling Pathway Mortgage Servicing, this is Priya. How can I help you today?
+Caller: Hi Priya. My name is Charles Dumont. I had a COVID forbearance on my mortgage back in 2020 and 2021. I'm not in forbearance now, I'm making my regular payments. But a friend of mine mentioned that there were some extensions available and I'm wondering if I missed something or if there's anything still available to me. I'm doing okay but I want to understand what happened with all of that.
+Agent: Hi Mr. Dumont. I'm happy to discuss this with you and look at your account history. COVID-related forbearance programs were tied to specific legislation and timelines, and I can explain what was available and where things stand today. Let me pull up your account first. Can I get your loan number or property address?
+Caller: Sure. It's 1840 Ravenswood Drive, Portland, Oregon 97201. Loan number is PM-330-15-8811.
+Agent: And can you verify the last four of your Social Security number?
+Caller: 2254.
+Agent: Thank you. I have your account. Let me look at your forbearance history. I can see you entered a COVID forbearance in April 2020, took a 3-month initial period, and then extended for another three months through October 2020. You exited forbearance in November 2020 and have been making regular payments since then. Is that consistent with your recollection?
+Caller: Yes, that's right. Six months total and then I went back to paying normally.
+Agent: Okay, that all checks out. Now let me explain the forbearance extension landscape as it existed. The CARES Act, which was signed in March 2020, created the initial COVID forbearance framework. It allowed borrowers with federally backed mortgages — Fannie Mae, Freddie Mac, FHA, VA, and USDA loans — to request forbearance with an initial period of up to 180 days and an extension for another 180 days, for a total maximum of 360 days.
+Caller: So theoretically I could have gone up to 360 days?
+Agent: For most program types, yes — up to 360 days under the original CARES Act framework. Some programs later extended eligibility further. The GSEs — Fannie Mae and Freddie Mac — ultimately allowed up to 18 months of forbearance for qualifying borrowers. FHA and VA had similar extensions. These extensions were made available incrementally through 2020 and 2021 as the pandemic continued.
+Caller: So there was more available than I used?
+Agent: There was more forbearance available had you needed it, yes. However, I want to emphasize that forbearance is not forgiveness — those payments were deferred, not cancelled. The more forbearance a borrower took, the larger the deferred amount that had to be resolved afterward. Since you exited after six months and resumed payments, you avoided accumulating a larger deferred balance.
+Caller: Right, and I was able to get back to work, so it made sense to stop. How was my deferred amount resolved? I remember it being handled but I'm fuzzy on the details.
+Agent: Let me look at your account notes around when you exited forbearance. I can see that when you exited in November 2020, your deferred amount was placed at the end of your loan as a non-interest-bearing balance — that's called a payment deferral. The deferred amount is essentially a balloon that becomes due when you sell, refinance, or pay off the loan. It's not added to your regular monthly payment.
+Caller: So there's still a deferred amount sitting at the end of my loan?
+Agent: Let me look at the specific amount. Yes, I can see a deferred principal balance of $5,418 at the back of your loan. This is separate from your regular principal balance. When you eventually sell or refinance, this amount would be collected at that time.
+Caller: I didn't realize that was still there. Does it accrue any interest?
+Agent: No — a non-interest-bearing deferral does not accrue interest. It sits there as a flat amount until the triggering event, whether that's payoff or a future sale. You're not being charged anything extra for it.
+Caller: Good. Now, going back to my original question — is there anything available today for people who are still struggling from COVID impacts? I'm fine, but I'm asking for a friend.
+Agent: The formal CARES Act COVID forbearance programs have ended — the last extension deadlines passed in 2023, and the statutory COVID emergency provisions have wound down. The formal COVID forbearance window is closed. However, standard hardship forbearance options that existed before the pandemic are still available for borrowers who can document a financial hardship — job loss, income reduction, medical emergency, and so on. Your friend should contact their servicer and ask about hardship forbearance or loss mitigation options.
+Caller: What if they already took COVID forbearance — can they take regular hardship forbearance on top of that?
+Agent: That depends on the investor and servicer, and on whether they've resolved their prior forbearance. Generally, a borrower who exited COVID forbearance and is current can request standard hardship forbearance if a new qualifying hardship has arisen. Being in good standing after the prior forbearance helps. Your friend should call their servicer to discuss their specific situation.
+Caller: Okay, that's good to know. I'll pass that along. For my own loan — I'm current, the deferral is just sitting there, and I don't need to do anything about it right now?
+Agent: Correct. Your loan is in good standing. The deferred balance will be collected at payoff or sale. No current action is required from you. If you do plan to sell or refinance in the near future, just be aware that the $5,418 will be part of your payoff calculation.
+Caller: Right. I wasn't planning to move anytime soon, so it's not urgent.
+Agent: You're in good shape. Is there anything else I can help you with?
+Caller: Can you tell me my current regular principal balance — separate from the deferred amount?
+Agent: Of course. Your regular principal balance is $261,188.44. Adding the deferred balance, your total obligation is $266,606.44.
+Caller: Okay, good to have that number. Alright, Priya, I think that covers it. Thanks for the thorough explanation.
+Agent: My pleasure, Mr. Dumont. Have a great rest of your day.
+Caller: You too. Bye.
+Agent: Goodbye.

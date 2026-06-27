@@ -1,0 +1,41 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, my name is Priya, how can I help you today?
+Caller: Hi, um, I'm not really sure where to start. My name is Marcus Webb. I have a loan with you guys and I've been... I haven't been paying it. I know that. I just didn't know who to call.
+Agent: Marcus, I'm really glad you reached out today. It takes courage to make this call and I want you to know we're here to help, not to judge. Can I pull up your account? I'll need your loan number or the property address.
+Caller: Yeah, the address is 417 Cedarwood Lane, Tulsa, Oklahoma. The zip is 74105.
+Agent: Thank you. And I'll need to verify your identity — can you give me the last four of your Social and your date of birth?
+Caller: Sure, Social ends in 7742, and my birthday is March 8th, 1979.
+Agent: Perfect, I've got your account here. Marcus Webb, loan number ending in 4481. I can see you're currently sixty days past due. Your regular monthly payment is $1,387 and you have a balance of $194,200. How are you doing today — can you tell me a little about what's been going on?
+Caller: Yeah, I got laid off back in February. I was a project manager at a construction firm and they had a round of cuts and I was one of them. I've been trying to find work since then. I got some severance but that ran out in April and now I'm just... I'm doing some freelance stuff but it's not steady. I've been scared to call because I thought you'd just start foreclosure immediately.
+Agent: I completely understand why you'd feel that way, and I want to reassure you — a call like this is actually one of the most important steps you can take to protect your home. We have a number of options for people in your exact situation, and being sixty days behind doesn't mean foreclosure is imminent. We have a process we have to follow and there are many things we can explore before anything like that ever becomes a consideration.
+Caller: Okay. That's a relief to hear, honestly. I've been losing sleep over this.
+Agent: That's completely understandable. So let me walk you through what we typically look at when someone is experiencing a financial hardship. The first category is what we call forbearance. That's where we pause or reduce your payments temporarily — usually three to six months — while you get back on your feet. You don't have to make full payments during that time. The missed amount gets resolved at the end of the forbearance period, either through a lump sum, a repayment plan, or in many cases a modification.
+Caller: What's a modification?
+Agent: A loan modification is a permanent change to the terms of your loan. That could mean we extend the loan term — say from a 30-year to a 40-year — which brings your monthly payment down. Or in some cases depending on your loan type, we can look at reducing the interest rate or moving any past-due amounts to the back of the loan so you don't have to pay them all at once. Your loan here is a conventional loan serviced under Freddie Mac guidelines, so there are specific programs available to you.
+Caller: That sounds like exactly what I need. How do I qualify?
+Agent: To be considered for loss mitigation — that's the umbrella term for all these options — you'd need to complete what we call a borrower assistance application. It's a packet of documents. The main things are a hardship letter, which is just a written explanation of what happened — your layoff, in this case — and then financial documentation. That includes your most recent two months of bank statements, proof of any income you're currently getting, whether that's unemployment, freelance payments, anything. And your most recent tax return.
+Caller: I've been on unemployment. Does that count as income?
+Agent: Yes, unemployment benefits count as income for the purpose of this review. We'd want to see your award letter or recent benefit statements showing the amount and duration. The key for the modification programs is that we look at your current ability to make some kind of payment — not necessarily your original payment, but something sustainable.
+Caller: What if I can't make anything right now? Like some months it's really tight.
+Agent: That's okay. Forbearance doesn't require you to make payments — it's meant for exactly that scenario where you need breathing room. And during a forbearance, we don't report additional delinquency beyond what's already there, so we're not making your credit situation worse during that period.
+Caller: I didn't know that. That actually matters to me because I want to be able to get back on my feet credit-wise too.
+Agent: Absolutely. And I want to make sure you know about another resource — HUD-approved housing counselors. They're completely free and they can help you navigate this entire process, help you fill out the paperwork, and even negotiate on your behalf if needed. I can give you the HUD hotline number, which is 1-800-569-4287.
+Caller: I'll write that down. Okay. So what do I do first?
+Agent: First thing I'd recommend is getting the borrower assistance application started. I can actually mail you a packet, but honestly the fastest route is if I give you our website where you can download the forms today and get started. Do you have access to a computer?
+Caller: Yeah, I do.
+Agent: Great. The other thing I want to make sure we do today is flag your account so that any foreclosure referral timeline is paused while your application is in review. Once we receive a complete application, you have certain protections under federal guidelines — specifically, we can't dual-track, meaning we can't proceed with foreclosure while a complete loss mitigation application is actively being reviewed.
+Caller: Okay, that's really important to know. So as long as I get that paperwork in, I'm protected?
+Agent: While the application is under review, yes — you have significant protections. The key word is complete — we need all the documents I mentioned. If something's missing we'll send you a letter telling you exactly what we still need, and you'll have time to provide it.
+Caller: How long does the review take?
+Agent: Once we have a complete package, the review typically takes thirty days, sometimes less. We'll send you written notice of any decision, and if you're approved for a modification there's usually a trial period — three months where you make the new proposed payment to demonstrate you can afford it, and then it becomes permanent.
+Caller: That's very fair. I can do three months of payments if they're lower.
+Agent: That's the idea. Let me also note your account today — I'll add a hardship notation and flag that you called and you're actively pursuing assistance. That gets documented.
+Caller: Thank you. I feel so much better than I did twenty minutes ago. I was really dreading this call.
+Agent: I'm glad you reached out, Marcus. You did the right thing. Let me give you one more number — our loss mitigation department directly, in case you have questions as you're filling out the paperwork. That number is 1-800-774-3322, and when you call, reference your loan number ending in 4481.
+Caller: Got it. And I can start on the online forms today?
+Agent: Yes, absolutely. Go to our website, look for the homeowner assistance section, and the application is right there. If you have trouble uploading documents you can also fax them to the number on the packet or mail them, but uploading is fastest.
+Caller: Perfect. Thank you so much, Priya. You've been really helpful.
+Agent: You're welcome, Marcus. You've taken the hardest step already. Is there anything else I can answer for you today?
+Caller: No, I think I've got what I need. I'm going to get on this today.
+Agent: Wonderful. Good luck with the job search, and don't hesitate to call back if questions come up. Have a good day.
+Caller: You too. Thanks again.
+Agent: Take care, Marcus. Goodbye.

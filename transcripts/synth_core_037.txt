@@ -1,0 +1,48 @@
+Agent: Thank you for calling Pacific West Mortgage Servicing, this is Priya, how can I help you today?
+Caller: Hi, I'm James Oduya. I completed my trial modification and I just received a permanent modification agreement in the mail. The paperwork is pretty dense and I want to make sure I understand the terms before I sign anything. Can someone walk me through it?
+Agent: Hi James, congratulations on completing the trial period — that's a major milestone. Absolutely, walking through your modification terms is exactly what I can help with. Let me pull up your account so I can see the details on our end. Can I get your loan number or property address?
+Caller: Property is 2205 Greenway Circle, Portland, Oregon, 97220. Loan number is PW-33-784-5512.
+Agent: And for verification — last four of your Social and date of birth?
+Caller: Social ends in 6637, birthday March 22nd, 1977.
+Agent: Thank you. I have your account, James Oduya. I can see the modification was approved and finalized, and the permanent agreement was mailed November 10th. Great. Let me pull up the modification terms on my screen. Okay, I have the full details here. Can you open the agreement to the first page — the Summary of New Loan Terms section?
+Caller: Yes, I have it. Okay.
+Agent: Let me walk through each component. First — your new interest rate. Your original loan had a rate of 6.375%. The modification has lowered that to 3.5% fixed for the life of the loan.
+Caller: The letter does say 3.5%. That's a significant drop.
+Agent: It is. That alone accounts for a large portion of your payment reduction. A fixed rate means it will never change again for as long as you hold this loan, which is one of the most valuable aspects of the modification.
+Caller: Good. My original loan was also fixed so that makes sense.
+Agent: Exactly — we preserved the fixed-rate structure, just at a lower rate. Second — your new loan term. The modification extends your remaining loan term. Your original loan had approximately 19 years remaining. The modification extends the term to 40 years from the modification effective date, which is December 1st of this year.
+Caller: Forty years. That means I'll be paying until I'm 86, roughly.
+Agent: That's correct on paper. In practice, most people sell, refinance, or pay off the loan before the full term. The extended term is what allows the payment to be lowered so significantly. You can also make extra principal payments at any time without penalty, which would shorten the payoff date.
+Caller: Okay. The payment — it says on page one that my new monthly payment is $987. My old payment was $1,544. That's a huge difference.
+Agent: Yes. The combination of the rate reduction and the term extension drives that $557 monthly savings. Now let me make sure you understand what's included in that $987.
+Caller: It says principal and interest $812 and escrow $175. Is that right?
+Agent: Yes. Your principal and interest is $812, and your escrow — which covers taxes and insurance — is $175 per month. That escrow figure will be reviewed annually and can change if your taxes or insurance premiums change, but the P&I of $812 is fixed.
+Caller: Now, in the middle of the document there's a section called Deferred Balance. It shows $38,400. What is that?
+Agent: This is the part people often have the most questions about. The deferred balance is the amount of your past-due arrears — missed payments, certain fees, and accrued interest — that we've moved to the back of your loan rather than requiring you to pay upfront. You do not make monthly payments on this amount, and no interest accrues on it.
+Caller: So it just sits there?
+Agent: It sits at the back of your loan, yes. It comes due when one of three things happens: you sell the property, you refinance the loan, or you pay off the original principal balance in full. At that point, the deferred balance becomes due as a balloon payment.
+Caller: So if I sell the house in ten years, I owe the remaining mortgage balance plus $38,400?
+Agent: Exactly. That deferred amount doesn't go away — it's not forgiven. But it's separated from your regular payment, doesn't accrue interest, and only comes due at an exit event. Think of it as a silent second lien-like balance attached to your first mortgage.
+Caller: That's significant. I should factor that into any thinking about when I sell.
+Agent: Absolutely. It shows up on your mortgage statements as a separate line item called non-interest-bearing deferred balance, so it will always be visible. And any payoff quote we provide will include it.
+Caller: How does this affect my home equity? Like, if the house is worth $320,000 and I owe $180,000 on the regular balance plus $38,400 deferred, my real equity is $320,000 minus $218,400?
+Agent: That's the correct way to think about it, yes. Total mortgage obligation is your principal balance plus the deferred balance, and both are subtracted from the value to determine your net equity.
+Caller: Okay. Good to understand. Now on page three there's a section that says this modification is made in connection with investor guidelines and that Fannie Mae guidelines apply. Does that matter to me?
+Agent: It means your loan is ultimately owned by Fannie Mae — we're the servicer but they're the investor. The modification follows Fannie Mae's Flex Modification program guidelines, which is their standard modification program. This is actually a good thing because Fannie Mae programs have strong consumer protections and standardized terms.
+Caller: Is there anything in the agreement I need to watch out for — any traps?
+Agent: A few things to be aware of. First — occupancy requirement. The modification requires that the property remain your primary residence. If you move out and convert it to a rental without notifying us, that could trigger a review of the modification terms. Second — you need to maintain homeowner's insurance on the property throughout the life of the loan. That's a standard mortgage requirement but it's repeated in the modification agreement for a reason. Third — if you default again after the modification is permanent, the modification terms don't automatically protect you from foreclosure. You'd go back to the standard loss mitigation process.
+Caller: Understood. What's the signing process?
+Agent: The agreement should have two signature lines if you're the sole borrower — one for the modification agreement itself and one for a notarized signature block if Oregon requires notarization. Oregon is a state that often requires notarization for real property documents.
+Caller: I see a notary line here. So I need to get this notarized?
+Agent: You will need to sign it in front of a notary public. Many banks, UPS stores, libraries, and credit unions offer notary services. Once signed and notarized, return it using the prepaid envelope included — or if there's no envelope, the return address is on page four.
+Caller: It says return by December 20th. That gives me about six weeks.
+Agent: Don't wait until the deadline — aim for at least a week before. If we don't receive it in time, you'd need to request an extension, which creates paperwork and potential gaps.
+Caller: That's good advice. And once I return it, what happens?
+Agent: Once we receive the signed agreement, we process it within ten business days and your modification becomes permanent and effective. Your first new payment of $987 is due December 1st as stated in the agreement — please make sure that payment is made even if the signed agreement is in transit. The trial payments you made demonstrated your ability to pay, and your first permanent payment maintains that momentum.
+Caller: Got it. Make the first payment December 1st regardless of where the paperwork is.
+Agent: Exactly. You can make that payment online through our portal or by calling our payment line.
+Caller: This has been extremely helpful. I feel like I really understand what I'm signing now.
+Agent: That's what we want. You've done the hard work to get here. Is there anything else on the agreement I can clarify?
+Caller: I think I got everything. Thank you, Priya. Really appreciate your thoroughness.
+Agent: My pleasure. Congratulations again, James. Have a great day.
+Caller: You too. Goodbye.

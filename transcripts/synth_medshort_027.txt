@@ -1,0 +1,37 @@
+Agent: Thank you for calling Crestline Mortgage, this is Priya. How can I assist you today?
+Caller: Hi Priya. My name is Gerald Hutchins. I've had my mortgage with you guys for about six years now, and I just got my annual escrow analysis statement. I noticed there's something called an escrow cushion and it looks like you're holding two months of taxes and insurance on top of what I actually owe. Is that normal? Can I get that reduced?
+Agent: That's a great question, Mr. Hutchins. The escrow cushion is completely standard and is actually regulated by federal law. Let me pull up your account first and then walk you through how it all works. Can I get your loan number or property address?
+Caller: The address is 912 Elmhurst Drive, Raleigh, North Carolina 27609.
+Agent: And your full name for verification?
+Caller: Gerald Marcus Hutchins.
+Agent: Last four of your Social, please?
+Caller: 4419.
+Agent: Perfect, I have your account. Okay, so looking at your escrow analysis, I can see your current cushion amount. Before I explain whether it can be reduced, let me explain why it's there. Under RESPA — the Real Estate Settlement Procedures Act — servicers are permitted to hold a cushion of up to two months' worth of escrow payments as a reserve. The purpose is to ensure funds are available even if your tax bill or insurance premium increases unexpectedly or if a disbursement is due before enough payments have accumulated.
+Caller: Right, but two full months feels like a lot of my money sitting in an account earning nothing.
+Agent: That's a fair perspective. The maximum cushion allowed by law is two months, but servicers can hold less. On your loan specifically, your escrow cushion is set to two months, which is our standard. In terms of reducing it — this is something that would need to be reviewed against your loan agreement and your payment history.
+Caller: I've never missed a payment. Not once in six years.
+Agent: I can see that, and your payment history is excellent. Here's the honest answer though: for conventional loans like yours, the cushion requirement is established at origination and is part of your loan servicing agreement. We don't typically reduce the cushion below one month for standard escrow accounts. Reducing it to zero would require an escrow waiver, which has its own considerations.
+Caller: What would an escrow waiver mean exactly?
+Agent: An escrow waiver would mean you'd handle your property taxes and homeowner's insurance payments directly — you'd pay those bills yourself when they come due rather than having them collected monthly through us. Some lenders allow this, and some charge a fee for the waiver — often a slight interest rate adjustment. For your loan type, I'd need to check whether a waiver is even an option.
+Caller: I'd actually be okay paying those myself. I'm pretty organized about it.
+Agent: I understand. Let me check your loan terms. Your loan is a conventional loan, LTV is currently around 64 percent based on the original appraisal and paydown. Some servicers allow escrow waivers once LTV drops below 80 percent, and you're well below that threshold. However, the final authority here rests with the investor who holds your loan, and I can see your loan is held by a third-party investor.
+Caller: So you'd have to ask the investor?
+Agent: Correct. What I can do is submit an escrow waiver inquiry on your behalf. That request goes to the investor for review and typically takes ten to fifteen business days for a response. If approved, there may be a waiver fee, which I can disclose once we have approval. If denied, the escrow requirement remains as is.
+Caller: What are the chances it gets approved, realistically?
+Agent: I can't guarantee an outcome, but your LTV and payment history are both favorable factors. I'd say it's worth requesting.
+Caller: Okay. And if they say no, is there any other option? Like can I at least get the cushion down to one month instead of two?
+Agent: That's a reasonable request. A reduction from two months to one month cushion is something I can flag as a secondary preference in the inquiry. It may be easier to get approved than a full waiver since you'd still be in an escrow account.
+Caller: That would be fine too, honestly. Either one would help.
+Agent: Understood. I'll submit the inquiry with both requests noted — primary being a full escrow waiver, secondary being a cushion reduction to one month. You'll receive written correspondence with the investor's decision.
+Caller: How will I get that? Mail or email?
+Agent: We can send it by mail to the Elmhurst Drive address, or if you have an email on file we can include that as well. Do you want to confirm your email?
+Caller: It's ghutchins at mindspring dot com.
+Agent: I've updated that on the inquiry. You should hear back within about two weeks. Is there anything else about your escrow analysis you'd like me to explain?
+Caller: Actually, yes. The new monthly payment went up thirty-two dollars. Is that just because of the tax increase?
+Agent: Let me look at the breakdown. Yes, I can see your county property tax assessment increased by roughly $380 annually, which is what's driving the monthly increase. Your insurance premium stayed flat. So the $32 increase is almost entirely from the tax reassessment.
+Caller: Okay, that's what I figured but I wanted to confirm. Alright Priya, I think I've got what I need.
+Agent: Great. I'll get that escrow waiver inquiry submitted today. Is there anything else I can help you with?
+Caller: No, that's everything. Thanks a lot.
+Agent: Thank you for calling, Mr. Hutchins. Have a wonderful day.
+Caller: You too. Bye.
+Agent: Goodbye.

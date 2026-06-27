@@ -1,0 +1,46 @@
+Agent: Thank you for calling Ironwood Mortgage Servicing, this is Amber. How can I help you today?
+Caller: Hi Amber. My name is Franklin Getz. I made my mortgage payment last month and it was applied incorrectly. Instead of going to my regular payment, they put it all toward principal and now my account shows I missed a regular payment. I'm pretty upset about this.
+Agent: Hi Mr. Getz, I completely understand your frustration. A misapplied payment is something we take seriously and I want to get this resolved for you. Let me pull up your account. Can I give me your loan number?
+Caller: It's 4423-8807.
+Agent: And the property address?
+Caller: 773 Ridgemont Drive, Denver, Colorado, 80219.
+Agent: And last four of your Social?
+Caller: 5517.
+Agent: Thank you. I've got your account. Let me look at your payment history and see what happened last month.
+Caller: The payment was for $2,148, which is my exact monthly payment. I've been paying the same amount for four years and it's never been a problem.
+Agent: Let me look at the transaction records. I see a payment received for $2,148 on the 15th of last month. It does appear the system applied this entirely to principal rather than to the scheduled installment. I can see why that would be alarming.
+Caller: It shows I have an overdue payment on my account and I did not miss a payment. This could affect my credit.
+Agent: You're correct that this is a problem and I want to reassure you that we can fix this. The payment was received — that's not in dispute — it was simply coded incorrectly. Let me look at how this happened.
+Caller: I wrote the check exactly like I always do. There's nothing different.
+Agent: I can see in the notes that there was a system processing note. It looks like your payment was received along with a separate correspondence and the payment was separated from the correspondence incorrectly during processing. Regardless of how it happened, the fix is what matters now.
+Caller: How long does the fix take?
+Agent: I can initiate the payment reapplication right now. The process is called a payment reallocation. I'll move the payment from the principal-only bucket and apply it as your regular monthly installment payment. That will zero out the overdue status on your account.
+Caller: How long until my account is updated?
+Agent: The reallocation will be processed today and the account update typically reflects within one to two business days. You should see the delinquency cleared within two business days.
+Caller: And what about my credit? Will this show up as a late payment?
+Agent: That's an important question. Our reporting to the credit bureaus happens on a monthly cycle. If the error is corrected before the reporting date and the account shows current, no late payment should be reported. Let me check when our next credit reporting cycle is.
+Caller: It's already been almost a month. Your reporting might have already gone out.
+Agent: Let me check. Our reporting went out on the first of this month. I need to verify what was reported for your account at that time. I see the delinquent status was on your account at the reporting date, which means a potential thirty-day late may have been reported.
+Caller: You reported a late payment to the credit bureaus that shouldn't have been reported.
+Agent: I understand, and I sincerely apologize. If our error resulted in an inaccurate credit reporting, we are obligated to correct that. Here's what I'm going to do. I'll initiate the payment reallocation to correct your account balance, and I'll also submit a credit dispute correction to the three major bureaus reporting that the late status was incorrect and should be updated to current.
+Caller: How long does that take?
+Agent: The credit correction process takes up to thirty days per bureau, though often it resolves faster. The bureaus are required to investigate disputes within thirty days of receiving them.
+Caller: That seems like a long time when this was your mistake.
+Agent: I understand. I'm also going to escalate this to our quality assurance team and document it as a servicer error, which will be noted in your file. You also have rights under the Real Estate Settlement Procedures Act — RESPA — related to servicer errors.
+Caller: What rights are those?
+Agent: Under RESPA, if you submit a written notice of a servicer error — called a Notice of Error — we are required to acknowledge it within five business days and resolve it within thirty business days or provide a written explanation of why we believe no error occurred. We must also not report adverse credit information while the error is being investigated.
+Caller: I'd like to submit that.
+Agent: I recommend you do. Send a written Notice of Error by certified mail to our correspondence address. Clearly state the date of the payment, the amount, how it was incorrectly applied, and that it resulted in inaccurate credit reporting. Include a copy of your bank statement showing the payment cleared.
+Caller: I have that. My bank statement shows the check cleared.
+Agent: Perfect evidence. Keep the original and send a copy with your letter. Once we receive it, the thirty-day resolution clock starts and we cannot report further adverse information while it's under investigation.
+Caller: Can I send it via email or does it have to be mail?
+Agent: For legal protection, I recommend certified mail with return receipt so you have proof of delivery and the date. Our correspondence address is listed on your monthly statement.
+Caller: Alright. And in the meantime, is my next payment still due on the first?
+Agent: Once I process the reallocation today, your next payment will be due as normal on the first of next month. Your account will reflect current status.
+Caller: Okay. And my payment amount stays the same?
+Agent: Yes, $2,148 as it has been.
+Caller: I appreciate you helping me with this. I'm still upset but I feel like you're actually going to fix it.
+Agent: That's my goal. I'm documenting this entire call, initiating the reallocation now, and flagging for credit correction. Is there anything else I can do for you today?
+Caller: No, just please make sure this gets fixed.
+Agent: I will personally ensure these steps are completed today. Thank you for calling and for your patience, Mr. Getz.
+Caller: Thank you, Amber.

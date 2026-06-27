@@ -1,0 +1,41 @@
+Agent: Thank you for calling Meridian Home Lending. This is James speaking. How can I help you today?
+Caller: Hi, I'm Renata Okonkwo. I got a letter in the mail last week and I have to be honest, it made me a little nervous. It says my loan is being sold to some company I've never heard of. What does that mean exactly?
+Agent: I completely understand why that would be unsettling, Renata. This happens more often than most people realize, and I want to walk you through exactly what it means. Can I pull up your account first so I can see what's going on specifically with your loan?
+Caller: Please. My loan number is 6-6-4-1-8-8-9.
+Agent: And the property address?
+Caller: 118 Magnolia Drive, Charlotte, North Carolina, 28205.
+Agent: And the last four of your Social for verification?
+Caller: 3-3-5-8.
+Agent: Thank you. I've got your account here. Okay, so I can see the transfer notice was generated last Tuesday and it was mailed to your address. Let me explain what's happening and then answer any questions you have. Does that work?
+Caller: Yes, please.
+Agent: So your loan is being sold in what's called a secondary market transaction. What this means is that the financial rights to your loan — meaning who receives your principal and interest payments — are being transferred to a new investor. The letter you received is called a goodbye letter from us, and you should also be receiving a hello letter from the new company.
+Caller: I did get two letters, yes. The second one is from something called Cascade Mortgage Trust.
+Agent: Right. So Cascade Mortgage Trust will become the new owner of your loan. However, and this is really important, you may not notice any difference in your day-to-day experience. Your loan servicer, meaning who you make payments to and who you call with questions, may stay the same.
+Caller: So I still pay you guys?
+Agent: Let me check on the servicing side specifically. Yes, looking at your account, the servicing rights are being retained by Meridian Home Lending. So you will continue making payments to us, calling us, logging into the same portal. Nothing changes for you operationally. Only the investor ownership of the loan is transferring.
+Caller: Okay, that's actually a huge relief. I was worried I'd have to set everything up all over again with a new company.
+Agent: Completely understandable concern. In some transfers, the servicing does move too, and that requires more action on the borrower's part. In your case, you're in the simpler situation where only the investor changes. Your payment address, account number, autopay setup — all of it stays exactly the same.
+Caller: Can they change my interest rate because of this?
+Agent: No. Your loan terms are legally protected. The interest rate, the repayment schedule, the loan balance — none of those can be changed by the new investor. The terms are fixed in your original note and mortgage documents, and those are binding regardless of who owns the loan.
+Caller: What about my escrow? I have taxes and insurance in escrow.
+Agent: Your escrow account is also unaffected. The balance in your escrow account transfers along with the loan, and we continue to administer it. Your tax payments and insurance premiums will continue to be disbursed as scheduled.
+Caller: Good. And does this affect my credit at all?
+Agent: No, this type of transfer does not affect your credit score or your credit report. It's an internal transaction between financial institutions. It might show up as a change in the holder of your mortgage on your credit report, but that notation doesn't carry any positive or negative scoring impact.
+Caller: And the new company, Cascade Mortgage Trust — are they reputable? Like, should I be worried about them?
+Agent: I understand why you'd want to know that. Cascade is a registered mortgage investment trust. We work with a number of institutional investors who purchase loans in bulk on the secondary market. They're a passive investor, meaning they're not involved in servicing your loan or interacting with you at all. They're simply receiving the economic interest.
+Caller: So they'll never actually call me or anything?
+Agent: That's correct. You'll never interact with Cascade Mortgage Trust. All your communications remain with us as your servicer.
+Caller: So nothing changes for me day to day. I just keep paying the same amount to the same place.
+Agent: Exactly right. Same payment amount, same due date, same payment address, same servicer, same phone number. This letter was a required legal disclosure, and we're required by federal law to send it to you at least fifteen days before the transfer effective date.
+Caller: When does it actually happen?
+Agent: The transfer effective date is July first. So after that date, technically Cascade owns the loan, but again, you'll have no interaction with them and everything on your end stays the same.
+Caller: Is there anything I need to do?
+Agent: Not really. I'd suggest keeping both letters, the goodbye letter from us and the hello letter from Cascade, just for your records. Some people file them with their mortgage documents. Other than that, no action is required from you.
+Caller: I think I just panicked because I didn't understand what it meant. This is actually not a big deal at all, is it?
+Agent: It really isn't. These loan sales happen constantly in the mortgage industry. It's essentially invisible to the borrower in your situation. You did the right thing by calling to ask.
+Caller: Thank you, James. I feel a lot better. One more question — if something does go wrong or I have a concern after July first, I still call this number?
+Agent: Yes, same phone number, same portal, same team. Nothing changes on that end. We're here for you.
+Caller: Perfect. That's all I needed. Thank you so much.
+Agent: Absolutely, Renata. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

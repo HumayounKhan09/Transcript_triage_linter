@@ -1,0 +1,45 @@
+Agent: Thank you for calling Meridian Home Lending. This is Monique. How can I help you today?
+Caller: Hi, my name is Sheryl Dawkins. I'm going through a really hard time right now. My husband lost his job two months ago and I've been carrying the mortgage on just my income. I've managed so far but I'm starting to get worried. I wanted to ask if there's any way to temporarily reduce my payment while we get back on our feet.
+Agent: Hi Sheryl, I'm so sorry to hear that. You're absolutely right to call us proactively — that's one of the most important things borrowers can do when they're facing financial hardship. Let me pull up your account and then we'll talk through what options might be available to you. Can I get your loan number?
+Caller: It's 4-4-1-8-5-5-6.
+Agent: And the property address?
+Caller: 85 Willowbrook Circle, Memphis, Tennessee, 38115.
+Agent: And the last four of your Social?
+Caller: 6-6-0-4.
+Agent: Thank you, Sheryl. I have your account. I can see your payment history — you're current, which is good. Two payments made since this started, both on time. That's actually helpful for the options available to you.
+Caller: I've been dipping into savings to make it work. But those savings won't last forever.
+Agent: I understand. Let me walk you through the options that may be available based on your loan type and status. First, what type of loan do you have — do you know if it's conventional, FHA, VA?
+Caller: Conventional, I believe. We put twenty percent down.
+Agent: That matches what I see. So for conventional loans in hardship situations, there are a few programs worth discussing. The first is called a forbearance agreement.
+Caller: I've heard that word but I'm not sure exactly what it means.
+Agent: Forbearance is an agreement where we temporarily reduce or pause your monthly payment for a defined period, typically three to six months. During forbearance, we agree not to report your payments as late to the credit bureaus and not to initiate any foreclosure proceedings, as long as you stay in communication with us and meet the terms of the agreement.
+Caller: Does the money I don't pay just disappear?
+Agent: No — and this is important to understand. Forbearance is a pause, not forgiveness. The amounts that are reduced or suspended during the forbearance period are still owed. At the end of the forbearance, we'd work out a repayment plan to bring the account current. That repayment could be structured in several ways.
+Caller: What are the options for repayment?
+Agent: The most common options are a lump sum repayment at the end of forbearance, a repayment plan where the deferred amounts are spread over several months added to your regular payment, or in some cases, the deferred amount is added to the end of the loan as a balloon or deferred principal. The right option depends on what your situation looks like when forbearance ends.
+Caller: What if things are still hard when the forbearance period ends?
+Agent: That's a fair question. If your hardship is ongoing, you can apply for an extension or we'd evaluate you for a loan modification. A modification is different from forbearance — it's a permanent change to your loan terms that could reduce your payment, potentially by lowering the interest rate, extending the loan term, or both.
+Caller: What would a modification do to my payment?
+Agent: I can't give you exact numbers without a formal review, but the goal of a modification is to bring your monthly payment to a level that's sustainable based on your current income. We'd look at your household income, the hardship, and your loan balance to determine what terms are feasible.
+Caller: And does applying for forbearance or a modification hurt my credit?
+Agent: Forbearance itself, when reported properly as agreed, does not generate late payment marks. The account would show as in a forbearance or special program status. That can have some impact on how lenders view your credit, but it's much less damaging than actual missed payments or delinquency.
+Caller: If I applied right now, how long before it would take effect?
+Agent: For a forbearance, once you complete the application and we document the hardship, it can typically be approved within three to five business days. If your payment is due soon, it's worth acting quickly.
+Caller: My payment is due the first of next month, which is in about three weeks.
+Agent: Good, that's enough time. I'd suggest we get the application started today. I'll take some basic hardship information from you now and initiate the process. You'll also need to provide documentation of the hardship — typically a letter explaining the situation and evidence of the income change.
+Caller: Like a termination letter from his employer?
+Agent: That would work well. A termination notice, a layoff letter, or even recent pay stubs showing the income reduction would be helpful. I'll make a note of what you've described on the account.
+Caller: Do I also need to show what I make?
+Agent: Yes. We'd need your recent pay stubs or bank statements showing your current income. The goal is to assess the actual household income situation.
+Caller: That's fine, I can provide all of that. What's my first step?
+Agent: I'll submit a hardship assistance inquiry on your account right now and flag it for our loss mitigation team. They'll contact you within two business days by phone to the number on file and walk you through the formal application. Is the number on file still correct — the one ending in 4-4-2-8?
+Caller: Yes, that's my cell.
+Agent: Perfect. Your case reference number is HA-3-3-8-8-1-7. Write that down in case you need to reference it.
+Caller: HA-3-3-8-8-1-7. Got it. Monique, I was really nervous to call. I felt like calling meant admitting we were in trouble.
+Agent: Calling is exactly the right thing to do. The earlier we hear from a borrower, the more options we have available. You still have a current account and a good payment history — that puts you in the best possible position to work through this.
+Caller: That's reassuring. Thank you for being so kind about it.
+Agent: Of course. You're going to get through this. Our team will be in touch shortly. Is there anything else you need today?
+Caller: No, I think you've given me a lot to go on. Thank you, Monique.
+Agent: Take care, Sheryl. We'll talk soon.
+Caller: Okay. Bye.
+Agent: Goodbye.

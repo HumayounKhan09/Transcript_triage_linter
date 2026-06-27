@@ -1,0 +1,45 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, my name is Carlos, how can I help you today?
+Caller: Hi Carlos, my name is Patricia Odom, and I am absolutely furious right now. I just got a notice in the mail saying my loan is 180 days delinquent and I am at risk of foreclosure. I have never missed a payment in six years. Never.
+Agent: Ms. Odom, I completely understand why you're upset, and I want to assure you we are going to get to the bottom of this right now. Can I pull up your account? I'll need your loan number or the property address.
+Caller: It's 7741-882-004. The property is 2218 Fernwood Drive, Columbus, Ohio 43209.
+Agent: Thank you. Let me verify your identity first. Can you confirm the last four of your Social Security number and your date of birth?
+Caller: Social is 7732, date of birth March 14, 1969.
+Agent: Perfect, thank you Ms. Odom. I'm pulling up the account now. Okay, I can see your loan and I'm looking at the payment history. Give me just a moment here.
+Caller: Take your time. But I'm telling you, I have twelve bank statements showing twelve ACH pulls from my checking account. Every single month. On the 3rd.
+Agent: I believe you, Ms. Odom. So here's what I'm seeing, and I want to walk you through this carefully. Your loan originated in 2018, thirty-year fixed at 4.375 percent, original balance of $287,400. And I can see ACH payment records hitting the account. But I'm also seeing that starting in February of this year, something changed in how those payments were being applied.
+Caller: What do you mean how they were applied? A payment is a payment. It should go to my mortgage.
+Agent: You're absolutely right, and that's exactly what should have happened. What I'm seeing — and I want to be clear this is preliminary and needs full investigation — is that it appears your payments from February through July, all six of them at $1,487 each, may have been credited to a suspense account rather than applied to your loan. That would explain why the loan is showing delinquent even though you've been paying.
+Caller: A suspense account. What is that? Why would they do that?
+Agent: A suspense account is a holding account we use when a payment doesn't match expected amounts or when there's an account coding issue. It holds the funds but doesn't apply them to principal, interest, or escrow. So on paper the loan looks like no payments came in, but the money is actually sitting there. The question is why your payments went there for six months, and that is absolutely an error on our end that needs to be corrected immediately.
+Caller: Six months. Carlos, I'm looking at my bank statements. I paid $1,487 on February 3rd, March 3rd, April 3rd, May 3rd, June 3rd, and July 3rd. That's $8,922 you people have sitting somewhere not applied to my loan. And you sent me a foreclosure warning?
+Agent: Ms. Odom, I hear you and I'm not going to minimize this. What you're describing, if confirmed, is a serious servicer error and you should absolutely not be facing any foreclosure action. Let me tell you exactly what I'm doing right now. I am flagging your account for an immediate payment misapplication investigation. I'm also placing a foreclosure hold on your account as of this call, which means no foreclosure proceedings can advance while this investigation is open.
+Caller: How long is this going to take?
+Agent: The investigation has a thirty-business-day window under federal servicing regulations, but given the nature of this I'm going to escalate it to our escalated resolution team which targets a fifteen-business-day turnaround. They will manually trace every payment, confirm the suspense account balances, and issue a corrected payment history.
+Caller: And what about my credit? Because I guarantee you this has been reported as delinquent to the credit bureaus.
+Agent: That is a very valid concern. If this is confirmed as a servicer error, we are required to submit a correction to all three bureaus and request deletion of any derogatory marks associated with this error. I'm noting that in your case file right now. You will also receive a written apology and explanation.
+Caller: I want that in writing before I hang up. I don't want a verbal promise.
+Agent: Absolutely. I'm going to generate a case acknowledgment letter today. You'll receive it by email — I have your email on file as podom1969 at gmail dot com — is that still correct?
+Caller: Yes, that's right.
+Agent: You'll receive that within one business day. It will confirm the foreclosure hold, the investigation case number, and the timeline. Let me give you your case number right now. Your escalated investigation case number is MI-2025-084471. Please write that down.
+Caller: MI-2025-084471. Got it. Now what do I do in the meantime? Do I keep paying?
+Agent: Yes, please continue making your regular payments. Your next payment of $1,487 is due August 3rd. When you make that payment, use your loan number and add the notation case number MI-2025-084471 in the memo line if paying by check, or call us so we can manually route it. I do not want your August payment going to suspense as well.
+Caller: This is unreal. I have excellent credit. I have never been late on anything in my life. My credit score was 791 in January.
+Agent: I understand how devastating this must feel. And I want to be direct with you — if the investigation confirms what I'm seeing, this was entirely our error. You did everything right. You made every payment on time. The failure was on our processing side.
+Caller: Can I sue you people? I'm just asking.
+Agent: I'm not in a position to give you legal advice, and I'd encourage you to speak with a HUD-approved housing counselor or an attorney if you want to understand your rights. What I can tell you is that under RESPA, when a borrower submits a written notice of error, the servicer has specific obligations and timelines to respond and correct. I'd recommend submitting a formal Notice of Error in writing, which triggers those protections formally.
+Caller: How do I do that?
+Agent: You can mail it to our designated error resolution address, which is Meridian Mortgage Servicing, Error Resolution Department, PO Box 7744, Dallas, Texas 75201. Send it certified mail, return receipt requested, so you have proof of delivery. The letter just needs to identify your loan, describe the error, and request correction.
+Caller: I'll do that today. I'm going to the post office as soon as we hang up.
+Agent: Good. And keep a copy of everything — your bank statements, this call reference number, the case number. Document everything. Is there anyone else involved in this loan, like a co-borrower, that I should note on the file?
+Caller: No, just me. My husband was on it originally but he passed in 2021 and I had the loan modified to my name only.
+Agent: I'm sorry for your loss. I do see that modification from 2021 in the file. I want to make sure that change didn't somehow trigger the suspense issue. I'm going to note that for the investigator to look at as a possible cause.
+Caller: So what's the number I call to follow up?
+Agent: You can call our general servicing line at 1-800-555-4400 and reference case MI-2025-084471. Or if you want to reach the escalated team directly, that number is 1-800-555-7722, available Monday through Friday 8 a.m. to 6 p.m. Eastern.
+Caller: I'm going to be calling every week until this is fixed.
+Agent: That is completely reasonable and I would do the same in your position. And Ms. Odom, I want to reiterate — you will not lose your home over this. This error will be corrected. The foreclosure hold I placed today is effective immediately.
+Caller: You'd better be right about that, Carlos. Because I have lived in that house for eighteen years.
+Agent: I understand. And I'm sorry you had to go through this. Is there anything else I can help clarify for you today?
+Caller: No. I just want this fixed. Send me that email.
+Agent: It will go out today. Your case number again is MI-2025-084471. Thank you for your patience, Ms. Odom, and we will get this resolved.
+Caller: Thank you. Goodbye.
+Agent: Goodbye.

@@ -1,0 +1,37 @@
+Agent: Thank you for calling Ridgemont Mortgage, this is Deepa. How can I help you today?
+Caller: Hi Deepa. My name is Stanley Okafor. I received a letter in the mail — it looks very official — and it's offering to lower my mortgage interest rate. But something feels off about it. My loan number is 3325-8817.
+Agent: Hi Stanley. I'm glad you're calling to verify before doing anything. Let me pull up your account. I have your loan — a thirty-year fixed on your property in Houston, Texas. Can you describe the letter to me in a bit more detail?
+Caller: Sure. It's on what looks like official paper with a logo that says "National Mortgage Relief Center." It has my loan number on it — or at least the last four digits — and it says I've been "selected" for a special rate reduction program. It's offering to lower my rate from six point five to four point seven five percent.
+Agent: Okay. A few things stand out immediately. Can you tell me how they got your loan number — or partial number — and your name?
+Caller: It says it's based on records they have for homeowners in Harris County.
+Agent: That's a common sourcing method for these mailers. County deed and property records are public, and they show recorded mortgages including the lender, borrower name, property address, and approximate loan origination details. The "last four digits" of a loan number can sometimes be derived or guessed from public records, or they may have purchased a mailing list.
+Caller: They have my correct address and the letter says my loan was "recently flagged for a rate relief opportunity." It sounds very specific.
+Agent: The specificity is intentional — it's designed to make you believe this is a personalized offer rather than a mass mailing. "Recently flagged" is marketing language with no actual meaning. No third party has the ability to flag your loan for anything.
+Caller: The letter asks me to call a number to "confirm my eligibility" and they say there's no obligation. But at the bottom in tiny print it says there's a documentation fee of one hundred fifty dollars.
+Agent: That documentation fee is a significant red flag. Let me be very clear: no legitimate mortgage servicer, lender, or government program charges a fee for you to "confirm eligibility" for a rate reduction. The fee is often how these operations make their money — either they collect fees and deliver nothing, or they use the call to gather your personal information.
+Caller: They also say in the letter — and I'm reading this exactly — "not affiliated with your current mortgage servicer or any government agency but using public records to help homeowners like you." So they're admitting they're not affiliated with you.
+Agent: That disclaimer is required by law and they include it to avoid outright misrepresentation. But the letter is designed to look official and authoritative despite that disclaimer. The design, language, and presentation are intended to create an impression of legitimacy.
+Caller: Should I call the number just to see what they say?
+Agent: I would advise against it. Calling the number confirms your phone number is active and can add you to lists for additional solicitations or scams. If you engage with them, they may push harder to get financial information or fees from you.
+Caller: What is the actual mechanism they're claiming — how do they think they can lower my rate?
+Agent: They likely claim one of a few things. Either they say they have a special program where they negotiate with lenders on your behalf, or they claim to refinance your loan at a lower rate. Neither is realistic in the way they present it. A legitimate refinance to lower your rate would require an application, credit check, appraisal, and closing — not a phone call and a hundred fifty dollar documentation fee.
+Caller: Could they be a real mortgage broker who does legitimate refinances and just uses deceptive marketing?
+Agent: It's possible — some deceptive mailers are from real originators who use misleading materials to generate leads. If you called and engaged, they might eventually try to take a loan application. But the deceptive presentation is itself a problem, and the promised rate of four point seven five percent would be extremely unlikely to match current market rates regardless.
+Caller: What is the market rate right now for a thirty-year fixed?
+Agent: Current market rates for a thirty-year fixed are in the range of six point seven to seven point two percent depending on credit score and loan-to-value. The rate on your existing loan — six point five percent — is actually slightly below current market.
+Caller: So if I refinanced, I'd go up?
+Agent: In the current rate environment, yes. Refinancing now would almost certainly increase your rate, not decrease it. The offer of four point seven five percent is not remotely achievable in today's market for a standard thirty-year fixed. That alone tells you the offer is not genuine.
+Caller: Could it be a shorter term? Like a fifteen-year at four point seven five?
+Agent: Even fifteen-year rates are currently around six percent. Four point seven five percent on any fixed product is several points below current market. The number is fabricated to look attractive.
+Caller: Okay. I want to report this. Who do I call?
+Agent: You have several options. You can file a complaint with the Consumer Financial Protection Bureau at consumerfinance.gov. The Federal Trade Commission at reportfraud.ftc.gov also handles mortgage fraud complaints. The Texas Department of Savings and Mortgage Lending is the state regulator that oversees mortgage companies in Texas — they can investigate unlicensed or deceptive mortgage activity at sml.texas.gov. You can also report misleading mailers to the US Postal Inspection Service if they came by mail.
+Caller: That's very specific and helpful. Can I also send you the letter?
+Agent: You're welcome to send it to us for documentation purposes. We have an internal compliance team that tracks these types of mailers, especially when our servicer name or branding is implied. You can scan it and email to compliance@ridgemontmortgage.com with your loan number 3325-8817 in the subject line.
+Caller: I'll do that. Deepa, I want to ask — is there any legitimate rate relief program that I should actually know about?
+Agent: There are legitimate programs but they apply in specific circumstances. If your loan is federally backed — Fannie Mae, Freddie Mac, FHA, or VA — there are streamline refinance programs that can be faster and cheaper than a traditional refinance. But rates for those would still be at or near market rates today, not below. There's also the CFPB's free housing counseling resource at consumerfinance.gov if you ever need assistance understanding your options.
+Caller: My loan — is it Fannie or Freddie backed?
+Agent: Let me check. Your loan is a conventional loan backed by Fannie Mae. So a Fannie Mae High LTV Refinance Option could theoretically apply if your LTV is in a certain range, but again, the rate would not be four point seven five percent.
+Caller: Makes sense. Okay — I feel much better about not responding to that letter.
+Agent: You made the right call. Trust your instincts. Is there anything else I can help you with today?
+Caller: No, that's everything. Thank you Deepa.
+Agent: Thank you for calling, Stanley. Have a great day and stay safe from those mailers.

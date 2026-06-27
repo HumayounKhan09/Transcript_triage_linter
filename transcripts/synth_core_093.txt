@@ -1,0 +1,47 @@
+Agent: Thank you for calling AmeriFirst Home Mortgage, this is Deepa. How can I help you today?
+Caller: Hi Deepa, my name is Janet Portman. I requested a payoff statement last week and I think there's an error on it. Loan number is 9912-3387.
+Agent: Hi Janet. Let me pull up your account. Okay, I see your loan — a thirty-year fixed on your property in Denver, Colorado. You said there's an error on your payoff statement. What are you seeing?
+Caller: The payoff amount shows three hundred forty-two thousand eight hundred seventy-two dollars as of July fifteenth. When I do the math manually, I get a significantly different number. I calculate it closer to three hundred thirty-seven thousand.
+Agent: That's a difference of roughly five thousand eight hundred dollars — that's definitely worth investigating. Payoff statements include several components beyond just the principal balance. Let me pull up the statement that was generated. Can you tell me your good-through date on the payoff?
+Caller: July fifteenth, as I said.
+Agent: Okay, I have the statement. Let me walk through each line item with you so we can find where the discrepancy is.
+Caller: I have it right here in front of me too.
+Agent: Your principal balance as of today — June twenty-seventh — is three hundred thirty-six thousand one hundred forty dollars. First question: does your statement show that same principal balance?
+Caller: It shows three hundred thirty-six thousand one hundred forty. So that part matches.
+Agent: Good. The next component is interest through the good-through date. Interest accrues daily after your last payment. Your per diem — daily interest — is how much?
+Caller: The statement shows a per diem of forty-seven dollars and sixty cents.
+Agent: And from today, June twenty-seventh, to July fifteenth is eighteen days. Eighteen times forty-seven sixty would be eight hundred fifty-six dollars and eighty cents. Does the statement show interest as eight hundred fifty-six dollars and eighty cents?
+Caller: The statement shows interest through July fifteenth as two thousand four hundred twelve dollars.
+Agent: That's significantly higher. Two thousand four hundred twelve divided by forty-seven sixty per diem would be approximately fifty days of interest, not eighteen. Does the statement reference any unpaid interest or a separate interest calculation?
+Caller: Let me look... there's a line that says "deferred interest — two thousand fourteen dollars." I wasn't sure what that was.
+Agent: There's the issue — or at least part of it. Deferred interest would arise if at some point your payments were not covering the full interest accruing, resulting in unpaid interest being added to the balance. Has your loan ever had a period of forbearance, a rate change, or a payment plan?
+Caller: I did a three-month COVID forbearance back in 2020. Could that be related?
+Agent: Yes, it could. During forbearance, interest may have continued to accrue even though payments were suspended. When the forbearance ended, if the accrued interest wasn't immediately paid, it could have been added as a deferred or unpaid interest component. Do you have documentation of how your forbearance was resolved?
+Caller: I was put on a repayment plan afterward. I paid extra for about twelve months to catch up.
+Agent: Did the forbearance agreement or repayment plan documentation specify how the accrued interest would be handled?
+Caller: I'm not sure. I have some paperwork from that time but I'd have to dig through it.
+Agent: That documentation would be important. If the repayment plan required you to repay the accrued interest and you completed the plan, there shouldn't be a remaining deferred interest balance. But if the repayment plan only addressed the missed principal and payment amounts without explicitly clearing the accrued interest, there might legitimately be a residual.
+Caller: So I might have this deferred interest on my account that I didn't know about?
+Agent: It's possible. Let me look at your payment history. I'm scanning through and I see the forbearance was April through June 2020, and a repayment plan ran from August 2020 through July 2021. Looking at the account, the repayment plan documentation says it addressed missed payments but I see a notation that a portion of the interest was deferred. This deferred interest of approximately two thousand fourteen dollars has been on the account since 2021.
+Caller: Why was I never told about this?
+Agent: It should have been disclosed in your forbearance and repayment plan documentation. If it wasn't clearly communicated, that's a concern. Under RESPA, material account information should be provided to borrowers. Whether this is a servicer communication error or something that was disclosed but not clearly understood is something we'd need to investigate.
+Caller: Okay. And the other discrepancy — I can account for the deferred interest now. But even adding two thousand fourteen to three hundred thirty-seven thousand, I get to about three hundred thirty-nine thousand. The statement says three hundred forty-two thousand eight hundred seventy-two. There's still about three thousand eight hundred more unexplained.
+Agent: You're right. Let me look at the remaining line items. I see fees of eight hundred dollars listed on the statement — does your statement show an eight hundred dollar fees line?
+Caller: Yes, there's a line for "outstanding fees — eight hundred dollars."
+Agent: Okay, that accounts for another chunk. Can you see a breakdown of what those fees are?
+Caller: It just says outstanding fees — eight hundred dollars. No breakdown.
+Agent: That's not adequate disclosure. I can look up your fee history. I'm seeing a property inspection fee from February of one hundred fifty dollars, a late fee from November of last year of sixty-eight dollars, and — there's a legal fee of five hundred eighty-two dollars from March. That adds up to eight hundred dollars.
+Caller: A legal fee? I was never in default. Why is there a legal fee?
+Agent: I'm looking at the notation for that charge. It appears to have been added in March and the description says "attorney review — title monitoring." That's unusual for a loan in good standing. I'm flagging this for review because it doesn't look standard.
+Caller: I want that investigated. I've never been late except apparently there's a sixty-eight dollar late fee — that might be from when my bank switched systems and a payment was delayed.
+Agent: I understand. I'm going to do a few things. First, I'm submitting a payoff statement dispute, which will trigger a review within five business days. Second, I'm flagging the five hundred eighty-two dollar legal fee for specific investigation — if it was improperly applied, it will be reversed and removed from your payoff. Third, the late fee from November — if you can show the payment was initiated on time from your bank, we can review that for reversal as well.
+Caller: What documentation do I need for the late fee dispute?
+Agent: A bank statement showing the payment was initiated by the due date would typically be sufficient. You can email that to payoff@amerifirst.com with your loan number 9912-3387 in the subject line.
+Caller: Okay. And when will I get a corrected payoff statement?
+Agent: We'll review all disputed items within five business days and issue a corrected statement if any errors are confirmed. We'd re-run the payoff calculation with corrected figures and email or mail the new statement with an updated good-through date.
+Caller: Good. My closing is tentatively scheduled for July twenty-second. Will this be resolved in time?
+Agent: Five business days puts us at approximately July fifth for the investigation to complete. If corrections are needed, a new statement can be issued with a July twenty-second or later good-through date. You should have sufficient time.
+Caller: Okay. I feel better knowing there's a path forward. Deepa, is there a case number for this?
+Agent: Yes — your dispute case number is PO-2024-11739. You'll receive confirmation of the dispute within two business days.
+Caller: Perfect. Thank you so much.
+Agent: Of course, Janet. Good luck with your closing. Have a great day.

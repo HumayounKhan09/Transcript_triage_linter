@@ -1,0 +1,115 @@
+Agent: Thank you for calling Alliance Home Lending, this is Monique speaking. How can I help you today?
+
+Caller: Hi Monique. My name is Trevor Sosa. I want to refinance my mortgage. I've been trying to figure out if I'm even eligible and I keep hitting walls. I thought maybe if I talk to someone directly I can get some clarity.
+
+Agent: Absolutely, Trevor, that's exactly why we're here. Let me pull up your account and we'll look at the full picture together. Can I get your loan number or property address?
+
+Caller: The address is 3317 Huntington Way, Sacramento, California 95821. Loan number is 8890445.
+
+Agent: Pulling that up now. Okay, I see your account. Current balance of $169,500. Property estimated value in our system is $450,000, which would put your estimated equity around $280,000. That is excellent equity, Trevor. Loan-to-value ratio around 37 percent — that's very strong for a refi. So tell me what's been getting in the way.
+
+Caller: So there are a few things. I went through a bankruptcy. It got discharged about 14 months ago. And my credit score right now is 612. And my income — I work for myself, I'm a freelance contractor, like a gig worker basically. I've had a hard time proving my income the way lenders want to see it.
+
+Agent: Okay. So we have three factors to work through: the bankruptcy waiting period, the credit score, and the income documentation. Let's go through each one because they interact, and the picture might not be as grim as it feels. First, the bankruptcy. Was this a Chapter 7 or Chapter 13?
+
+Caller: Chapter 7. It was discharged in April of 2023.
+
+Agent: Okay. So 14 months discharged. For conventional loans — Fannie Mae and Freddie Mac — the standard waiting period after a Chapter 7 discharge is four years before you can get a new conventional mortgage. However — and this is important — there is an exception for extenuating circumstances that reduces that waiting period to two years. What led to the bankruptcy?
+
+Caller: I lost a big contract in 2021, like my main client. Lost about 60 percent of my income overnight. Then I had some medical bills. It just piled up. It wasn't like I was irresponsible — it was genuine financial catastrophe.
+
+Agent: That narrative — sudden income loss plus medical debt — sounds like it could qualify as extenuating circumstances. To use that exception you'd need to document the circumstances convincingly: the contract termination, the medical bills, showing it was a one-time event beyond your control that you've recovered from. Even with extenuating circumstances though, you're at 14 months and the minimum is 24 months. So for conventional, you're at least 10 months away regardless.
+
+Caller: I figured. What about FHA?
+
+Agent: FHA has a two-year waiting period after Chapter 7 discharge, no extenuating circumstances exception — it's two years firm for FHA refi. So you're still 10 months away for FHA as well.
+
+Caller: What about VA or USDA?
+
+Agent: VA is also two years after Chapter 7. Are you a veteran?
+
+Caller: No.
+
+Agent: USDA rural development is also three years. So all the government-backed programs and conventional all have waiting periods you haven't met yet.
+
+Caller: I keep hearing about non-QM lenders. What's that?
+
+Agent: Non-QM stands for non-qualified mortgage. These are lenders who don't follow the standard underwriting rules — they have their own guidelines. Some non-QM lenders will lend as soon as one day after a bankruptcy discharge. However, the tradeoffs are significant: rates are much higher, typically 2 to 4 percentage points above conventional rates. With rates already above 7 percent, you could be looking at 9 to 11 percent on a non-QM loan.
+
+Caller: That sounds awful. My current rate is 4.75 percent. Why would I refinance into something worse?
+
+Agent: In most cases you wouldn't. The only reason to consider a non-QM refi right now would be if you desperately needed to pull out cash and had no other access to funds. Given your equity is $280,000, that might be tempting, but at 9 or 10 percent on a significant balance, the cost would be very high. I'd generally advise against it in your situation unless you have a specific urgent need.
+
+Caller: I'm not desperate. I just want a lower rate eventually or to tap some equity for home improvements.
+
+Agent: Then the path I'd recommend is patience on the refinance — wait out your two-year mark from April 2023, which is April 2025, just about 10 months away — and use that time to strengthen your credit profile. At 612, you're below the 620 minimum that most conventional lenders require, and ideally you'd want to be 640 or higher for better rate tiers.
+
+Caller: How do I get my score up from 612 to something useful?
+
+Agent: The fastest legitimate ways are: first, check for errors on your credit report. After a bankruptcy, errors are surprisingly common — accounts that were discharged still showing as open, balances still reported. You can dispute those with Equifax, Experian, and TransUnion directly. Second, if you have any current revolving credit — credit cards — keep balances below 10 percent of the limit. Utilization is a major factor. Third, every month of on-time payments from here helps. Twelve months of clean payment history is worth a lot.
+
+Caller: What about becoming an authorized user on someone else's account? I've heard that helps.
+
+Agent: It can, if that person has a long-standing account with a low balance and perfect payment history and the card is reported to all three bureaus. The account's full history gets added to your report. However, it needs to be a trusted person — a family member ideally — because their future behavior affects your score too.
+
+Caller: My sister has great credit. I could ask her.
+
+Agent: That's worth exploring. Now let's talk about the income issue because that's the other major hurdle even once you meet the waiting period. As a self-employed borrower, conventional lenders want to see two full years of self-employment tax returns — Schedule C or the relevant business forms — and they'll average your net income from those two years after business expense deductions.
+
+Caller: My gross is fine. It's maybe $95,000 a year. But my net after deductions is more like $52,000 because I write off a lot of expenses.
+
+Agent: And there's the tension. You're legally reducing your taxable income — which is smart for taxes — but lenders use that net figure. At $52,000 net, with a loan balance of $169,500, your debt-to-income could actually be fine. Let me do a quick estimate. If you refinance $169,500 at a 7 percent rate on a 30-year term, your payment would be approximately $1,128. Your DTI would be around 26 percent — that's excellent. So the income documentation issue may be less severe than you think, as long as you've been consistently self-employed for two years.
+
+Caller: I've been doing this for three years now. So I'll have two full years of tax returns that show this income.
+
+Agent: Good. However, there's another self-employment issue — lenders want to see that your business is stable or growing, not declining. If 2022 showed $60,000 net and 2023 showed $52,000, some lenders will use the lower number only or may decline if they see a declining trend.
+
+Caller: My 2023 was actually better than 2022. 2022 was $47,000 net. 2023 was $52,000.
+
+Agent: A growing trend — that's actually good. That helps. Now, one more option I haven't mentioned — a co-borrower. Is there anyone in your life — spouse, partner, family member — who has strong credit and stable employment income who would consider co-signing?
+
+Caller: I'm not married. I have a girlfriend but we're not at that stage. Parents are retired.
+
+Agent: That's understandable. It's a significant step. A co-borrower is worth considering if you have a trusted person with strong credit because they could qualify you sooner or at a better rate, but it also makes them equally liable for the debt.
+
+Caller: What about manual underwriting? I've heard that's a thing.
+
+Agent: Manual underwriting is where a human underwriter reviews the file instead of relying primarily on the automated underwriting system. It allows for more nuance — you can explain the bankruptcy, show compensating factors like your low LTV, your growing income trend, your equity position. Manual underwriting is available for FHA and VA loans and in some conventional programs. The challenge is you still need to meet the waiting period.
+
+Caller: So even with manual underwriting I have to wait until April 2025?
+
+Agent: For government-backed and conventional loans, yes. Manual underwriting helps with the income documentation and credit score issues, but it doesn't waive the bankruptcy waiting period.
+
+Caller: What if I don't refinance but just take out a home equity loan or HELOC? That's different from a mortgage, right?
+
+Agent: Interesting question. HELOCs and home equity loans are second lien products, not first mortgages, and they technically have different guidelines. However, most HELOC lenders still apply waiting periods after bankruptcy, though some may be shorter — some go down to 12 to 18 months. And your credit score of 612 is below most HELOC requirements as well.
+
+Caller: But after I build the score up to say 660 or 680, would a HELOC be possible at the 12-month mark?
+
+Agent: Possibly. At 12 to 18 months post-discharge, with a 660+ credit score, some portfolio lenders and credit unions that hold HELOCs in-house have more flexible guidelines. Given your 37 percent LTV, you'd be a very low-risk borrower in terms of collateral. That might be worth exploring with local credit unions specifically.
+
+Caller: I hadn't thought about credit unions. That's actually a good idea.
+
+Agent: They often have more flexible underwriting on second liens and some are less rigid about bankruptcy seasoning, especially for members with strong equity. I can't speak to their specific current guidelines, but it's worth calling a few in Sacramento.
+
+Caller: So the bottom line: I need to wait until April 2025 for a conventional or FHA refi, work on my credit in the meantime, and potentially explore a HELOC through a credit union starting as early as a few months from now?
+
+Agent: That's a fair summary. I'd add one thing — call us back in April 2025 when you're at your two-year mark. At that point, if your credit is at 640 or above and your tax returns show consistent income, you should have a fairly clean path to an FHA or conventional refi. Given your equity, you'd have options. And the rate environment in 10 months may be different from today.
+
+Caller: Will rates come down, do you think?
+
+Agent: I can't predict that and I'm not in a position to advise on rate direction — that's genuinely uncertain. But your situation improves with time regardless of what rates do.
+
+Caller: That's fair. Monique, you've been really helpful. I feel like I actually have a plan now instead of just running into walls.
+
+Agent: I'm glad. You have really strong equity, growing income, and a clear timeline. The obstacles are real but they're temporary. Is there anything else I can help you with today?
+
+Caller: No, that's everything. I'm going to work on the credit score and call some credit unions this week.
+
+Agent: Perfect. Good luck, Trevor. Call us back when you're ready to revisit the refi — we'll be here.
+
+Caller: Thanks, Monique. Have a good one.
+
+Agent: You too. Bye now.
+
+Caller: Bye.

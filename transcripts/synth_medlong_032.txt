@@ -1,0 +1,56 @@
+Agent: Good afternoon, Pacific Rim Mortgage Services, this is Beth. Can I get your loan number?
+Caller: Yes, it is 9920-55441.
+Agent: And your name and last four of Social Security number?
+Caller: My name is Wei Zhang. Last four is 9934.
+Agent: Thank you, Mr. Zhang. I have your account — property at 3308 Magnolia Court, Irvine, California. What can I help you with today?
+Caller: I would like to explore refinancing my current mortgage. I am a Chinese national with a U.S. visa — an EB-2 green card application is pending but not yet approved. I have been turned down already by two banks who said they cannot lend to non-citizens. I want to understand what options I have.
+Agent: Thank you for explaining your situation clearly. This is a real area of complexity and I want to give you an accurate picture. Let me look at your current loan first. Your current balance is $544,880.20, rate is 4.75 percent fixed, and the loan originated in 2019. Is that right?
+Caller: Yes, that is correct.
+Agent: And what is prompting the refinance request — is it rate improvement, cash out, or a change in loan term?
+Caller: Current market rates seem to be higher than my rate. Actually I am wondering if I should do a cash-out refinance. I have a business opportunity requiring capital. My home is worth significantly more than what I paid.
+Agent: What do you estimate the current value to be?
+Caller: The property was appraised for a different purpose at $920,000 last year. I believe it has held or increased slightly since then.
+Agent: At $920,000 value and $544,880 balance, your LTV is approximately 59 percent. That's excellent equity. Now let me address your core question — financing for non-US-citizen borrowers.
+Caller: I appreciate that. The other banks were not helpful in explaining why.
+Agent: The reality is that lending to non-citizens is permitted under federal law — lenders cannot discriminate based on national origin. However, lenders do assess risk, and the risk considerations differ by immigration status. Let me walk through the categories.
+Caller: Please.
+Agent: For permanent residents — green card holders — most conventional lenders treat them essentially identically to US citizens. Fannie Mae and Freddie Mac both allow loans to permanent residents with the same guidelines. If your green card is approved before you apply, that opens the full conventional market.
+Caller: My green card is pending. It has been pending for two years. Could be approved next month or next year — I do not know.
+Agent: That's the challenging middle ground. For borrowers with pending permanent residency, lenders look at the visa type and remaining validity. You mentioned EB-2 — that's an employment-based preference category, which is a recognized path to permanent residency. Fannie Mae guidelines allow lending to non-permanent resident aliens if they can document lawful presence and demonstrate a reasonable ability to continue residing in the US.
+Caller: What documents would they want to see?
+Agent: Typically: your valid visa or EAD — Employment Authorization Document — showing lawful status, evidence of your green card application and its pending status, your social security number and US credit history, and documentation that your continued employment authorization is expected. The EAD from the pending green card application is important — do you have a current valid EAD?
+Caller: Yes. I have the EAD card and it is valid for two more years.
+Agent: That's very helpful. A valid EAD is strong documentation of lawful presence. The two-year validity gives lenders confidence that your status is stable for a meaningful period. Some lenders will lend with that documentation — particularly portfolio lenders and some community banks that don't sell loans to Fannie or Freddie but hold them in-house.
+Caller: What is a portfolio lender?
+Agent: A portfolio lender is a bank or credit union that originates mortgage loans using its own funds and keeps them in its own portfolio — it doesn't sell them to Fannie, Freddie, or the secondary market. Because they're not bound by Fannie/Freddie guidelines, they have more flexibility in underwriting. Many portfolio lenders specifically offer foreign national and non-resident alien loan programs.
+Caller: Are the terms different?
+Agent: Generally yes. Portfolio loans for non-citizens typically carry slightly higher rates — often 0.25 to 0.75 percent above comparable conventional loans — and may have different LTV limits, sometimes capping at 70 to 75 percent. Given your LTV of 59 percent, you'd be well within those limits. Rates would currently be in the 7.5 to 8 percent range for a well-qualified borrower.
+Caller: So the rate would be higher than conventional and also higher than my current 4.75 percent. This may not make financial sense for a rate refinance.
+Agent: Correct. If your goal were purely rate improvement, a cash-out refi at current market rates would actually increase your rate significantly regardless of your residency status. The rate environment has changed substantially since 2019.
+Caller: Then let me focus on the cash-out question. Can I do a cash-out refinance as a non-citizen?
+Agent: Yes, but with the same portfolio lender approach. Let's think about the numbers. Your current balance is $544,880 at 4.75 percent. If you do a cash-out refi at 70 percent LTV on $920,000, your new loan maximum is $644,000. Cash available would be $644,000 minus $544,880 minus closing costs — roughly $75,000 to $85,000 net cash.
+Caller: That is what I was thinking. But at what rate?
+Agent: At 7.75 percent on $644,000 for 30 years, your payment would be approximately $4,607 per month. Your current payment at 4.75 percent on $544,880 is approximately $2,843. That's an increase of $1,764 per month to access approximately $80,000 in cash.
+Caller: That is quite expensive. Over 10 years, I would pay $211,680 more in interest just to borrow $80,000 now. This is not good math.
+Agent: You're doing the math exactly right. The opportunity cost of the higher rate, compounded over a long period, far exceeds the benefit of the cash-out unless your business use of that $80,000 generates returns significantly above 7.75 percent.
+Caller: What about a HELOC? My business partner mentioned that as an alternative.
+Agent: A HELOC is worth considering. It would not disturb your existing mortgage at all, preserving your 4.75 percent rate. However, HELOCs for non-permanent resident aliens are even less common than first mortgage products among conventional lenders — again, portfolio lenders are the likely path. HELOC rates are variable, currently prime plus one or two percent, putting you at roughly 9.5 to 10.5 percent. On $80,000, interest-only payments would be around $633 to $700 per month.
+Caller: Still expensive, but much better than refinancing the whole first mortgage.
+Agent: Exactly. The HELOC preserves your excellent 4.75 percent first mortgage. The combined cost is much lower.
+Caller: Are there lenders you could recommend for these specialized products?
+Agent: I can't make specific referrals, but I can suggest how to find them. Search for "foreign national mortgage lenders California" or "ITIN mortgage lenders" — even though you have an SSN, those lenders are experienced with non-citizen borrowers. Credit unions in the Irvine area with international member bases sometimes offer these products. Also, a mortgage broker who specializes in non-QM or portfolio loans would be able to shop multiple lenders at once.
+Caller: What is non-QM?
+Agent: Non-Qualified Mortgage loans are loans that don't meet the CFPB's Qualified Mortgage standards — they have more flexible underwriting, including for alternative income documentation, non-traditional borrowers, and situations like yours. Non-QM lenders include portfolio lenders and specialty originators. They charge more than conventional loans but serve borrowers outside the conventional box.
+Caller: I also have Chinese assets and rental income from a property in Shanghai. Would US lenders count that income?
+Agent: Some non-QM and portfolio lenders will consider foreign assets and income, but documentation requirements are significant. You'd need Chinese bank statements — likely translated and certified — tax documents from China, and possibly a CPA letter verifying the income. It's more complex but some lenders accommodate it. This is another area where a specialized mortgage broker would be valuable.
+Caller: What about my US credit history? It is limited — I have had US accounts for only four years.
+Agent: Four years of US credit history is modest but not minimal. If you have no delinquencies and good utilization on existing accounts, your FICO score may be solid. Some lenders also accept alternative credit history — rent payment records, utility payments — for borrowers with thin US credit files.
+Caller: My FICO I believe is around 740 based on my credit card application last year.
+Agent: 740 is excellent and will open doors with most portfolio lenders even without full citizen status. Your profile — 740 FICO, 59 percent LTV, valid EAD, pending green card, four years of US credit history — is a competitive non-citizen profile. You should be able to find a lender.
+Caller: What do you recommend as my best next step?
+Agent: I'd say: one, contact two or three mortgage brokers who specifically mention non-citizen or foreign national lending in their marketing. Two, gather your documents — EAD, I-485 filing receipt showing pending status, two years of US tax returns, two months of US bank statements, and any Chinese income documentation. Three, consider the HELOC route specifically since it preserves your 4.75 percent rate. The moment your green card is approved, reassess — you'll have access to the full conventional market at that point.
+Caller: I will do that. Thank you, Beth. You have given me a much clearer picture.
+Agent: My pleasure. Good luck with your green card and your business, Mr. Zhang. Is there anything else?
+Caller: No, that is all. Thank you very much.
+Agent: Of course. Have a wonderful day. Goodbye.
+Caller: Goodbye.

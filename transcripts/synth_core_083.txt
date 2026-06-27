@@ -1,0 +1,43 @@
+Agent: Thank you for calling BlueStar Mortgage, this is Deepa. How can I assist you today?
+Caller: Hi Deepa, my name is Calvin Russo. I need a letter from you guys confirming my insurance coverage. My HOA is asking for it. Loan number is 1145-7790.
+Agent: Hi Calvin, let me pull up your account. Okay I see your loan — a thirty-year fixed on a property in Denver, Colorado. You said the HOA is requesting a letter. Can you tell me exactly what they're asking for?
+Caller: The HOA sent me a form. They're asking for something they call an "evidence of insurance" letter or a "certificate of coverage" that shows I have hazard insurance in force. It's for their records — apparently they're doing an annual compliance check on all units in the community.
+Agent: That's a fairly standard request from HOAs, especially in condo communities. Let me clarify what we can provide and what the HOA likely actually needs.
+Caller: I just need whatever they need. I've never dealt with this before.
+Agent: As the mortgage servicer, we don't issue the insurance policy itself — your insurance company does. So the letter that proves your coverage would come from your insurer, not from us. What the HOA is typically looking for is a Certificate of Insurance or your policy's Declarations Page from your homeowner's insurer.
+Caller: Oh. So you can't give me the letter?
+Agent: We can provide a letter confirming that hazard insurance is a requirement of your loan and that our records show a policy on file — essentially a confirmation that your loan account reflects active insurance. But the actual proof of coverage — the policy details, coverage amounts, effective dates — that comes from your insurer.
+Caller: Would a letter from you confirming insurance is on file be sufficient for the HOA?
+Agent: It depends on what specifically the HOA form asks for. Let me ask — does the form ask for coverage amounts, policy number, insurer name, or just a general confirmation that insurance exists?
+Caller: It asks for the policy number, the insurer's name, the coverage amount, and the policy expiration date. There's also a line asking for the insured's name.
+Agent: With those specific fields, the HOA needs information that only your insurer has. We have some of this in our file, but the authoritative document is the declarations page from your insurer. Do you have access to your declarations page from your homeowner's insurance?
+Caller: I have it somewhere. My insurer is Pacific Guard Home Insurance. I think I get a copy every year when it renews.
+Agent: That's perfect. Your insurer can also send a fresh copy directly to the HOA or to you. You'd just call Pacific Guard Home Insurance and ask them to send a Certificate of Insurance or an updated declarations page. Give them the HOA's name and address and they can often send it directly.
+Caller: How quickly can they do that?
+Agent: Most insurers can generate and email a certificate of insurance the same day, sometimes within minutes if done through their online portal or by phone. Declarations pages for policy copies usually take a day or two if mailed but instantly if emailed.
+Caller: That sounds easier than I thought. But what if the HOA specifically wants something from the mortgage company?
+Agent: If their form or letter specifically references the mortgage lender, that's sometimes because they want to verify that the lender's interest is noted on the policy — meaning that BlueStar Mortgage is listed as a mortgagee. I can check our records to confirm our mortgagee clause is on your policy.
+Caller: Please check.
+Agent: Looking at your insurance record — yes, BlueStar Mortgage, ISAOA, is listed as the mortgagee on your Pacific Guard policy. Policy number PG-8833-4417, effective June first this year through May thirty-first next year. Dwelling coverage shows three hundred twenty thousand dollars.
+Caller: Great. So the HOA can see that from my declarations page?
+Agent: Yes. Your declarations page from Pacific Guard will show your name as the insured, the property address, the policy number, the coverage amounts, the effective and expiration dates, and the mortgagee. That's everything on the HOA's form.
+Caller: Okay. But can you also provide something in writing from your end? Some HOAs have asked for a letter on lender letterhead in the past at a previous home I had.
+Agent: Yes, we can provide a Mortgage Insurance Confirmation Letter. It will state your loan number, property address, that hazard insurance is required per your loan agreement, and that our records reflect an active policy meeting the requirement. It won't list all the policy specifics but it confirms our lender-side position.
+Caller: That sounds like something worth having too. How do I request it?
+Agent: I can submit the request for that letter right now. It typically takes three to five business days to generate and would be mailed to your address on file. Would you prefer it mailed or emailed?
+Caller: Email would be faster. My email is calvinrusso at rocketmail dot com.
+Agent: Let me update your communication preference. C-A-L-V-I-N-R-U-S-S-O at rocketmail dot com?
+Caller: That's correct.
+Agent: Got it. I've submitted the request for the Mortgage Insurance Confirmation Letter to be emailed to you within five business days. For the HOA form specifically though, you'll want to call Pacific Guard and request the certificate of insurance or declarations page — that will have all the policy-specific details your HOA is asking for.
+Caller: So two things — the letter from you and the declarations page from Pacific Guard.
+Agent: Exactly. The declarations page from Pacific Guard answers their specific questions about policy number, coverage amounts, and dates. The letter from us confirms the mortgage is in place and insurance is required. Together they cover everything.
+Caller: That works. While I have you — the HOA form also asks for the lender's mailing address and a contact number. What should I put?
+Agent: For the lender information on the HOA form, you can put: BlueStar Mortgage, Attention Insurance Department, 2200 BlueStar Plaza, Denver, CO 80203. Phone number is 800-555-4477.
+Caller: Let me write that down. BlueStar Mortgage, Attention Insurance Department, 2200 BlueStar Plaza, Denver, CO 80203. Phone 800-555-4477. Got it.
+Agent: That's correct. Our insurance department can field any follow-up questions from the HOA if they have them.
+Caller: Perfect. Is there any fee for the confirmation letter?
+Agent: No, the Mortgage Insurance Confirmation Letter is provided at no charge.
+Caller: Great. This is all pretty straightforward. I was worried it would be complicated.
+Agent: It's a routine request. Is there anything else I can help you with today, Calvin?
+Caller: No, I think that's everything. Thank you so much, Deepa.
+Agent: My pleasure. Have a great day.

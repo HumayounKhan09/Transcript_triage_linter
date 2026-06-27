@@ -1,0 +1,35 @@
+Agent: Thank you for calling Summit Mortgage, my name is Derek. How can I help you today?
+Caller: Hi Derek. I need to send some documents to my loan servicer by mail and I realized I don't actually have the correct mailing address. Can you give that to me?
+Agent: Absolutely, I can help with that. Let me first verify your account so I can make sure I'm giving you the right address for your specific loan. Sometimes different loan types or departments have different mailing addresses. Can I get your name?
+Caller: It's Sandra Wilkes.
+Agent: Thank you, Ms. Wilkes. And do you have your loan number handy or would you prefer to use your property address?
+Caller: I have the loan number. It's 00487-22914.
+Agent: Perfect. And for verification, the last four digits of your Social Security number?
+Caller: 8843.
+Agent: And your date of birth?
+Caller: June 29, 1971.
+Agent: Thank you, I've verified your identity. Let me pull up your account. Okay, I have it here.
+Caller: Great.
+Agent: Now, before I give you the address, can you tell me what type of documents you're mailing? That way I can make sure you have the right department address, because general correspondence, legal documents, and insurance documents sometimes go to different addresses.
+Caller: Oh, I didn't know that. I'm sending a copy of my updated homeowner's insurance policy. The insurance company mailed me the new declarations page and I wanted to send a copy to you all.
+Agent: Good thinking. For insurance documents, we actually have a dedicated address for our insurance processing team. Let me give you that. The mailing address for insurance-related documents is Summit Mortgage Servicing, Insurance Processing Department, P.O. Box 77420, Phoenix, Arizona, 85062.
+Caller: Let me write that down. Summit Mortgage Servicing, Insurance Processing Department, P.O. Box 77420, Phoenix, Arizona, 85062?
+Agent: That's correct.
+Caller: Got it. And what if I needed to send something else, like a general letter or a legal document?
+Agent: For general correspondence, the address is Summit Mortgage Servicing, Customer Correspondence, P.O. Box 77100, Phoenix, Arizona, 85062. And for legal documents such as court orders, name changes, or anything requiring notarization, those go to Summit Mortgage Servicing, Legal Documents Department, P.O. Box 77300, Phoenix, Arizona, 85062.
+Caller: Good to know. I'll jot all of those down just in case.
+Agent: That's a good idea. Also, one thing I'd recommend: whenever you mail important documents, especially insurance or legal documents, consider using certified mail with return receipt so you have proof of delivery.
+Caller: I usually do that. Good reminder though.
+Agent: And just so you know, if your insurance company has the ability to send the declarations page electronically, they can also fax it directly to our insurance team. That's often faster than mail.
+Caller: Oh really? Do you have a fax number for that?
+Agent: Yes, the fax number for the insurance team is 1-800-555-0142. If your insurance agent uses that, they can typically note your loan number on the fax cover sheet and it gets routed to your file.
+Caller: That's actually much easier. I'll just ask my insurance agent to fax it over.
+Agent: That would work well. If you provide them with your loan number, which is 00487-22914, and the fax number I gave you, they should be able to handle it on their end.
+Caller: Perfect. Is there usually any confirmation that you received it?
+Agent: Once the insurance document is processed on our end, you can call back and we can confirm it's been updated in the system. Processing typically takes five to seven business days from the time we receive it.
+Caller: Okay, that's reasonable. I'll have my agent send it and then call back in a week or so to confirm.
+Agent: That sounds like a great plan. Is there anything else I can help you with today?
+Caller: No, that's everything. Thanks for the help, Derek, and for giving me all those addresses.
+Agent: My pleasure, Ms. Wilkes. Thank you for calling Summit Mortgage. Have a wonderful day.
+Caller: You too. Bye.
+Agent: Goodbye.

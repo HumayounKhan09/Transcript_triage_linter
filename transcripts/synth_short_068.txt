@@ -1,0 +1,29 @@
+Agent: Thank you for calling Lakeside Mortgage Servicing. My name is James. How may I help you today?
+Caller: Hi James. I have kind of a complicated question. My ex-husband is still on the mortgage with me even though we've been divorced for two years. The divorce decree says the house is mine but he's still a co-borrower. I want to know if I can get his name removed from the loan.
+Agent: I understand, and that's a situation we do get questions about regularly. I want to give you accurate information about the process. Let me first pull up your account. Can I get your name and loan number?
+Caller: Yes, my name is Sandra Beauchamp. Loan number is 7730-KK-40019.
+Agent: Thank you Sandra. Can you verify the property address?
+Caller: 334 Willowbrook Lane, Richmond, Virginia 23229.
+Agent: And the last four of your SSN?
+Caller: 2241.
+Agent: Perfect. I have your account. So Sandra, I can see the loan and I do see two borrowers listed — yourself and the co-borrower you mentioned.
+Caller: Yes. I just want to know in general — is it even possible to remove someone from a mortgage?
+Agent: It is possible, but I want to be upfront with you that it's not a simple administrative change. Removing a co-borrower from a mortgage is a significant process because both borrowers are legally obligated on the note. There are generally two main ways this can be accomplished.
+Caller: Okay, what are they?
+Agent: The most common approach is a refinance. You would refinance the loan solely in your name, which effectively creates a new loan that replaces the current one and removes your ex-husband's obligation. The second option, which not all loans offer, is called an assumption or a co-borrower release, where we may be able to evaluate your creditworthiness independently and remove his name without requiring a full refinance.
+Caller: Does my loan allow that second option — the release?
+Agent: That depends on your loan type and guidelines. I can note your interest in exploring that option. However, I want to be clear that even when it is available, it typically requires an underwriting review to confirm that you can qualify for the loan on your own based on your income, credit, and other factors.
+Caller: That makes sense. What would I need to do to start that process?
+Agent: The next step would be to submit a formal co-borrower release inquiry, which would trigger a review of your loan terms to confirm whether your loan type allows it, and then a preliminary look at your qualification. I can transfer you to our loan modification or assumption department if you'd like to start that conversation today, or I can note your account and have someone reach out to you.
+Caller: I think I'd rather get more information first and then call back. Can you just note the account?
+Agent: Absolutely. I'll note your account that you inquired about a co-borrower release and that you'd like to explore options. I'd also recommend having your most recent divorce decree and any relevant court orders handy when you call back, as those documents are typically required in these cases.
+Caller: Good to know. Is there anything I can do to prepare?
+Agent: Yes — gather recent pay stubs, tax returns from the last two years, and your divorce decree. If you've already been making the payments on your own for a period of time, that payment history works in your favor.
+Caller: I've been paying it entirely myself for two years.
+Agent: That's helpful context and will be relevant when you speak with that department.
+Caller: Alright. This is more involved than I hoped but at least I know what to expect. Thank you James.
+Agent: Of course Sandra. I've added a note to your account. Is there anything else I can help you with today?
+Caller: No, that's enough for now. Thanks again.
+Agent: You're welcome. Have a good day.
+Caller: You too, bye.
+Agent: Goodbye.

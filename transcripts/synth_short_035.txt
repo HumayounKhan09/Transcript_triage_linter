@@ -1,0 +1,39 @@
+Agent: Thank you for calling Broadview Mortgage Servicing, this is Beth. How may I help you today?
+Caller: Hi Beth. I'm calling to find out when my property taxes will be paid out of my escrow. I want to make sure I know when to expect that to happen so I can track it.
+Agent: Sure, I can look that up for you. Let me verify your account first. Can I get your full name?
+Caller: Carolyn Jeffers.
+Agent: Thank you, Ms. Jeffers. And your loan number or property address?
+Caller: It's 1450 Maple Ridge Drive, Denver, Colorado.
+Agent: And for verification, the last four digits of your Social Security number?
+Caller: 3384.
+Agent: And your date of birth?
+Caller: November 25, 1965.
+Agent: Perfect. One moment while I pull up your account.
+Caller: Thank you.
+Agent: Okay, I have your account here. I can see your escrow account details. Based on your property's tax schedule in Denver County, your property taxes are paid in two installments annually.
+Caller: Oh, I didn't realize it was split into two.
+Agent: Yes, that's common in Colorado. The first installment is due in February and the second in June. In your case, the first disbursement from your escrow account for the February installment was sent on February 28th of this year. The amount disbursed was $2,104.50.
+Caller: February 28th. And the second one?
+Agent: The second installment is scheduled for disbursement from your escrow in late June. Based on the tax bill we received from Denver County, the disbursement is scheduled for June 27th of this year.
+Caller: That's coming right up.
+Agent: Yes, it's very soon. The second installment amount will be $2,104.50 as well, matching the first installment for a total annual property tax of $4,209.
+Caller: And you're confident the funds are in my escrow to cover that?
+Agent: Yes. Your escrow account currently shows a balance of $3,847.21, which is more than sufficient to cover the upcoming June disbursement of $2,104.50.
+Caller: Good. I was a little worried about whether enough had accumulated in there.
+Agent: That's a common concern. Your monthly escrow contribution is $351.25, which is designed specifically to accumulate enough to cover both installments plus maintain the required cushion. You're in good shape.
+Caller: After the June payment goes out, what's the balance going to look like?
+Agent: After the June 27th disbursement, the remaining balance would be approximately $1,742.71. That balance will continue to grow with your monthly contributions as the account builds up toward the next February installment.
+Caller: And how do I know once the payment has actually been sent? Will I get a notification?
+Agent: We don't always send a notification specifically for tax disbursements, but there are a couple of ways to track it. You can check your escrow account history online through your account portal, where all disbursements are logged with dates and amounts. Your county's tax office will also update their records once payment is received, typically within two to three weeks of the disbursement date.
+Caller: Can I check on the county website?
+Agent: Most counties have an online property tax lookup by address or parcel number where you can see the payment status. Denver County is generally quite current about posting payments.
+Caller: Okay, that's helpful. What about if the payment doesn't show up on the county side? Is that ever a problem?
+Agent: It can occasionally happen that there's a delay in the county posting the payment, but actual non-payment is very rare. If you checked the county website more than three weeks after our disbursement date and still didn't see a payment posted, that would be worth calling us back about so we can investigate.
+Caller: Got it. So the date to watch for is June 27th.
+Agent: Correct. June 27th is the scheduled disbursement date. Is there anything else I can help you with today?
+Caller: Actually, yes. Is there a way to see my full escrow history for the past year online?
+Agent: Yes, when you log in to your account online, under the escrow section you can view a complete history of contributions and disbursements. You can also download an escrow statement for the year.
+Caller: Wonderful. That's all I needed. Thanks, Beth.
+Agent: Of course. Thank you for calling Broadview Mortgage Servicing, Ms. Jeffers. Have a wonderful day.
+Caller: You too. Goodbye.
+Agent: Goodbye.

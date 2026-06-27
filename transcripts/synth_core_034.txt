@@ -1,0 +1,45 @@
+Agent: Thank you for calling Heritage Mortgage Servicing, this is Anita, how can I help you today?
+Caller: Hi Anita. My name is Lewis Granberry. I have a house that I owe more on than it's worth — I bought it in 2006 right before the market crashed and never really recovered in my neighborhood. I've looked at my situation and I'm thinking a short sale might be my best option. I want to understand the full process before I decide anything.
+Agent: Hi Lewis, that's a very thoughtful approach — understanding the process before deciding is smart. Short sales can be a good option in certain situations. Let me pull up your account so I can look at the specific details, and then we'll have a thorough conversation. Can I get your loan number or property address?
+Caller: The address is 4402 Driftwood Lane, Detroit, Michigan, 48210. Loan number is HM-2006-554-3310.
+Agent: And for identity verification — last four of your Social and date of birth?
+Caller: Social is 3345, birthday is August 30th, 1963.
+Agent: Thank you. Lewis Granberry, I have your account. Loan originated in 2006, current balance $164,400, monthly payment $1,178. You're currently sixty-one days past due — two payments missed. Let me also note your loan type — this is a conventional loan. Alright, let me walk you through the short sale process comprehensively.
+Caller: Please do. I've been reading about it online but the information is scattered.
+Agent: A short sale is when you sell the home for less than you owe on the mortgage, and the lender agrees to accept the sale proceeds as full or partial satisfaction of the debt. So in your case, if the home is worth, say, $110,000 but you owe $164,400, you'd list it, find a buyer, and then ask us to accept $110,000 — or whatever the net proceeds are — as payment in full and release the lien.
+Caller: The house is probably worth around $115,000 to $120,000 based on comps in the neighborhood.
+Agent: So you'd be looking at a deficiency of approximately $44,000 to $50,000 — the gap between what we accept and what you owe. That deficiency is the central issue and I'll come back to it. Let me first walk through the mechanics.
+Caller: Okay.
+Agent: Step one — you'd list the home with a real estate agent who has short sale experience. This is important. A short sale is more complex than a normal sale and the agent needs to know how to navigate it. They'll help you price it appropriately to attract buyers while also making a reasonable case to us.
+Caller: I've been told short sales can take a really long time.
+Agent: They can, and that's a legitimate concern. The timeline varies. Once you have an accepted offer from a buyer, the short sale package — which I'll describe — goes to us for review. Our review can take thirty to sixty days, sometimes longer. And if the first offer doesn't get approved, the process starts over. The entire process from listing to closing can be six months to a year in complex cases, though it varies.
+Caller: What's in the short sale package?
+Agent: The package includes your completed loss mitigation or short sale application, a hardship letter explaining why you need to sell for less than you owe, financial documentation — recent bank statements, pay stubs or income documentation, tax returns — a copy of the purchase contract from the buyer, the buyer's proof of funds or pre-approval letter, and a preliminary HUD-1 or closing disclosure showing the proposed sale terms and what each party is receiving.
+Caller: That's a lot of paperwork.
+Agent: It is, but experienced short sale agents and real estate attorneys handle a lot of it. You'd want to have a team — agent, potentially an attorney or HUD counselor. The documentation establishes that you have a genuine hardship, which is required. Do you have a qualifying hardship?
+Caller: I've been on reduced hours for the past year. I'm a union electrician and work has been slow. I've been managing but it's getting harder and I decided proactively this isn't sustainable.
+Agent: A documented reduction in income is a qualifying hardship. That's important — you don't have to be in crisis, but you do need to demonstrate you can't sustain the current payment long-term.
+Caller: Now the part I'm most worried about — the deficiency. If the house sells for $115,000 and I owe $164,000, are you going to come after me for the $49,000 difference?
+Agent: That's the most important question in any short sale negotiation. Here's the honest answer: it depends on what's negotiated. In a short sale, one of the key asks is that the lender agrees to a full satisfaction, meaning they waive the right to pursue the deficiency. This is called a deficiency waiver or deficiency release.
+Caller: Do you automatically give that?
+Agent: Not automatically — it's negotiated. However, in practice, many investors — including Fannie Mae and Freddie Mac — have programs that provide for deficiency waivers in qualifying short sales, particularly when the borrower has a genuine hardship and the property is a primary residence. I'd want to check your investor. Looking at your loan — your loan is held by Freddie Mac. Freddie Mac has a standard short sale program, and under their guidelines, if you complete their program and cooperate fully, the deficiency is typically waived.
+Caller: Typically. Not always.
+Agent: Correct — I want to be honest with you. It depends on documentation, cooperation, and specific circumstances. This is another reason having an experienced attorney or housing counselor review your agreement before closing is important. Don't close without a written release of deficiency in the closing documents.
+Caller: What about taxes? I've heard something about the forgiven debt being taxable income.
+Agent: You've done your homework and this is a real consideration. When a lender forgives a debt, the IRS can treat that forgiven amount as ordinary income. There is a federal exclusion called the Mortgage Forgiveness Debt Relief Act that historically has protected primary residence homeowners from this tax liability, but Congress has let it expire and renewed it at various points. I'd strongly recommend speaking with a tax advisor — specifically a CPA familiar with real estate — before completing a short sale, so you understand the potential tax impact in the year of sale.
+Caller: That's a big variable.
+Agent: It is. And depending on your income and tax situation, the impact could be minimal or significant. It's not a reason to avoid a short sale necessarily, but it's information you need before making the decision.
+Caller: What does a short sale do to my credit?
+Agent: A short sale typically results in the mortgage being reported as settled for less than the full amount or paid-settled. It's a negative mark on your credit that stays for seven years, but generally has a less severe impact than a foreclosure, and borrowers often see credit score recovery more quickly. In terms of future homebuying — Fannie Mae and Freddie Mac guidelines currently require a waiting period of two to four years after a short sale before you can get another conventional loan, depending on down payment and other factors.
+Caller: Two to four years. I could live with that.
+Agent: And during that time, if you manage other credit well, many people are in a position to qualify again within the shorter end of that range.
+Caller: This has been really educational. I feel like I have a clearer picture. What would my next step be if I decided to move forward?
+Agent: I'd suggest two parallel tracks. First, call HUD counseling at 1-800-569-4287 and find a counselor who specializes in short sales — they can guide you through the process at no cost. Second, find a real estate agent experienced in short sales in the Detroit area. They'll do a broker price opinion and help you determine realistic pricing. Once you have an agent, they can contact us to open the short sale process formally.
+Caller: Can I open it from my end directly?
+Agent: You can call our loss mitigation department and tell them you're considering a short sale — I can flag your account now to note this conversation. But realistically, the process starts when there's an offer and a package to review. Until then, it's exploratory.
+Caller: Understood. I appreciate the thoroughness, Anita. You've answered questions I didn't even know to ask.
+Agent: That's exactly what I hope for. This is a big decision and you deserve complete information. Is there anything else before we wrap up?
+Caller: I think I'm good. Lots to think about.
+Agent: Take your time and get the right support team around you. Good luck, Lewis.
+Caller: Thank you. Goodbye.
+Agent: Goodbye.

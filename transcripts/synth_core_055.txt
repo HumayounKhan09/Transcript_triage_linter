@@ -1,0 +1,46 @@
+Agent: Thank you for calling National Lending Partners, this is Monique. Can I pull up your account?
+Caller: Sure. Loan number is 6612-904-27. My name is Terrence Blum.
+Agent: Thank you, Mr. Blum. Can you verify the last four of your Social and the property address?
+Caller: 5519, and the property is 334 Maple Ridge Road, Louisville, Kentucky 40214.
+Agent: I've got your account up. What can I help you with today?
+Caller: I'm ninety days past due and I'm not working right now and I honestly don't know what to do. I just need someone to walk me through what my options are.
+Agent: I'm really glad you called, Mr. Blum, and I want you to know that being honest with us about your situation is the most important thing you can do right now. Let's go through everything. Can you tell me a little about what happened with your income?
+Caller: I was laid off in late March. My employer shut down our whole division. I've been applying for jobs but nothing has come through yet. I have some savings but they're running low.
+Agent: I understand. A job loss through a company layoff is exactly the kind of documented hardship that our loss mitigation programs are designed to help with. Let me tell you about the options available to you, and then we can talk about which one might make sense given your current situation.
+Caller: Okay, please.
+Agent: The first option is forbearance. Forbearance is a temporary pause or reduction in your monthly payments. It doesn't forgive what you owe — those payments are still due at the end of the forbearance period — but it gives you time to get back on your feet without foreclosure proceedings advancing. Given that you're already ninety days past due and unemployed, we'd likely be looking at a short-term forbearance of three to six months.
+Caller: What happens at the end of the forbearance?
+Agent: At the end of forbearance, you have a few options depending on the loan type and your situation at that point. One is a repayment plan where you pay the missed amounts back over time. Another is a deferral, where the missed payments are moved to the end of the loan and you resume normal payments. A third is a loan modification if the original payment is no longer affordable long-term.
+Caller: What if I still don't have a job at the end of the forbearance?
+Agent: That's a really important question. If you're still unemployed at the end of the forbearance term, you can request an extension if there are valid continued hardship circumstances. But at some point, without income, a loan modification or other permanent resolution becomes difficult to achieve, because modifications require demonstrated ability to make new payments. I want to be straightforward with you about that.
+Caller: What other options are there if things stay bad?
+Agent: If the hardship becomes prolonged and you can't sustain the home, there are two alternatives to foreclosure worth knowing about. The first is a short sale — you sell the home for less than what you owe, and we accept the proceeds as full or partial satisfaction. The second is a deed in lieu of foreclosure — you voluntarily transfer the property to us to satisfy the debt. Both are significantly better for your credit than a completed foreclosure.
+Caller: I don't want to lose the house. I've been there seven years.
+Agent: I hear you, and let's focus on options to keep it. The most appropriate first step right now is a forbearance request. Since you have a documented hardship — the involuntary layoff — you qualify to apply. I'd like to start that process today if you're willing.
+Caller: Yes, let's do that.
+Agent: Good. Let me walk you through what I need. First, a verbal acknowledgment of the hardship — you've already given that. Then a written hardship letter explaining the layoff, when it happened, and your current status. That can be brief — even a paragraph. Second, documentation of the job loss — a layoff notice, a termination letter, or a statement from your employer. Do you have anything like that?
+Caller: I have an email from HR and I have my unemployment claim confirmation.
+Agent: Both of those are excellent. Third, bank statements from the last two months to show your current financial situation.
+Caller: Okay. I can get all of that.
+Agent: Now, because you mentioned you still have some savings — how much are we talking, roughly? You don't have to give me a precise number, just a general range. This helps us assess whether a short-term solution can work.
+Caller: I have about $8,000 in savings right now.
+Agent: That's helpful to know. Your current past-due amount is approximately $4,710 — three payments at $1,535 each, plus late fees of $76.75 per month and two inspection fees. Your savings could technically cover reinstatement right now, but I don't recommend draining your savings when forbearance may be available, because you need that cushion while you're job hunting.
+Caller: Yeah, I was thinking the same thing. That's all I have to live on right now.
+Agent: Exactly. Forbearance is the smarter move here. It preserves your savings, stops the default clock temporarily, and gives you runway to find employment. Once you have income again, we work out a plan to make up the missed payments.
+Caller: How long does forbearance approval take?
+Agent: Once we receive your complete application and supporting documents, we have thirty days to evaluate it under federal guidelines. However, many cases like yours are evaluated sooner. If we receive everything within the next week, you could have a decision within two to three weeks.
+Caller: And in the meantime, is anything happening to my account? Like foreclosure?
+Agent: This is important — once you submit a complete loss mitigation application, we are required under the Consumer Financial Protection Bureau's mortgage servicing rules to pause any foreclosure referral while your application is under review. You're not yet in foreclosure, and submitting the application protects you from that during review.
+Caller: Okay. That's a relief.
+Agent: I want to also mention — since you're in Kentucky, your state has a Homeowner Assistance Fund program that provides mortgage assistance to homeowners who experienced pandemic or economic-related hardships. I'd strongly encourage you to look that up at kyhousing.org. They can provide additional funds that might help cover your arrears.
+Caller: I didn't know about that. Thank you.
+Agent: Of course. Now let me give you the next steps. I'm flagging your account for forbearance review today. You'll receive the application packet by email within twenty-four hours. Complete it and return it with your hardship letter, layoff documentation, and bank statements as quickly as possible. You can upload documents at our website, fax to 1-866-340-2210, or mail to our Loss Mitigation team at P.O. Box 7800, Nashville, Tennessee 37204.
+Caller: And what's my account status right now while I'm waiting?
+Agent: Your account is ninety days delinquent as of today. We will not initiate foreclosure while your application is under review, assuming you get it submitted promptly — I'd recommend doing so within seven days.
+Caller: I'll get it in by next week.
+Agent: Good. Your reference number for today's call is LM-2026-338821. Keep that handy.
+Caller: LM-2026-338821. Got it.
+Agent: Correct. Is there anything else I can help you with today, Mr. Blum?
+Caller: No, I think I know what to do now. Thank you, Monique. I was really dreading this call.
+Agent: I understand, but you did the right thing. Take care, and good luck with the job search.
+Caller: Thank you. Bye.

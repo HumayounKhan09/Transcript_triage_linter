@@ -1,0 +1,39 @@
+Agent: Thank you for calling Premier Home Lending, this is Maria speaking. How may I assist you?
+Caller: Hi Maria. I want to set up automatic payments so I stop worrying about forgetting every month.
+Agent: Absolutely, I can help you enroll in our autopay program today. May I have your name please?
+Caller: Patricia Weston.
+Agent: Thank you, Ms. Weston. And can I verify the last four of your Social Security Number?
+Caller: It's 3381.
+Agent: Great. And can you confirm the property address?
+Caller: 2207 Maple Creek Drive, Raleigh, North Carolina 27609.
+Agent: Perfect, I've got your account here. So you'd like to enroll in automatic payment drafting. Are you looking to draft from a checking or savings account?
+Caller: Checking account.
+Agent: Great. I'll need your bank's routing number and your checking account number. Do you have those available?
+Caller: Yeah, hold on. Okay, the routing number is 053000219.
+Agent: Got it, and the account number?
+Caller: 4471882903.
+Agent: Let me read that back. Routing 053000219, account ending in 2903. Does that sound right?
+Caller: Yes, that's correct.
+Agent: Wonderful. Now, your regular monthly payment is $1,652.40. We can draft on the 1st of each month or you can choose a date between the 1st and the 15th. What would you prefer?
+Caller: Can we do the 5th? That's a couple days after I usually get paid.
+Agent: Absolutely, the 5th works perfectly. So your payment will draft on the 5th of each month starting in August.
+Caller: Wait, it won't start this month? My July payment, do I need to pay that separately?
+Agent: Yes, because today is late in the month, we cannot initiate autopay in time for your July 1st due date. You'll want to make that payment manually, and then autopay will begin for August 5th.
+Caller: Okay, that makes sense. How do I pay July then?
+Agent: You can pay online through our customer portal at premierhome lending dot com, by phone using our automated system, or by mailing a check.
+Caller: I'll probably just do it online. That's fine. So starting August 5th it just comes out automatically?
+Agent: That's correct. Three business days before each draft date, you'll receive a reminder notice by email. If you ever need to cancel or change your bank information, just call us or log in to the portal.
+Caller: And is there any fee to use autopay?
+Agent: No fee at all. In fact, some customers find it helps them avoid late fees entirely.
+Caller: Good. And what if the 5th falls on a weekend?
+Agent: If the 5th is a weekend or bank holiday, the draft will process on the next business day. Your payment will still be considered on time.
+Caller: Perfect. And you'll send me some kind of confirmation?
+Agent: Yes, you'll receive a confirmation email at the email address we have on file. I show that as p.weston at gmail dot com. Is that still current?
+Caller: Yes, that's right.
+Agent: Excellent. You're all set for autopay starting August 5th. Your July payment will need to be made manually before July 15th to avoid a late fee.
+Caller: Got it. Thank you so much, this is way easier than I thought.
+Agent: Happy to help, Ms. Weston. Is there anything else I can assist you with today?
+Caller: No, that covers everything. You were great.
+Agent: Thank you for that. Have a wonderful day and thank you for being a Premier Home Lending customer.
+Caller: Thanks, you too. Bye.
+Agent: Goodbye.

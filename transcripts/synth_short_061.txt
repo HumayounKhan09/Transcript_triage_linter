@@ -1,0 +1,29 @@
+Agent: Thank you for calling Summit Mortgage Servicing. This is Carlos. How can I help you today?
+Caller: Hi Carlos. I have a question about my property taxes. I'm not sure if they get paid directly by me or if they go through my escrow. My neighbor was saying he pays his directly to the county but I thought mine went through my loan. I want to make sure I'm not supposed to be paying them and missing it.
+Agent: That's a really important question and I'm glad you called to check. Let me pull up your account and look at your escrow setup. Can I get your name and loan number?
+Caller: My name is Harriet Bloomfield. My loan number is 2207-SS-44100.
+Agent: Thank you Harriet. Can you confirm the property address?
+Caller: It's 623 Fernwood Avenue, Louisville, Kentucky 40205.
+Agent: And the last four of your SSN?
+Caller: 9930.
+Agent: Perfect. I have your account here. Harriet, your loan does include an escrow account for property taxes. That means your monthly mortgage payment includes an escrow portion, and we collect and hold those funds and then pay your property tax bills directly to the Jefferson County tax authority on your behalf when they come due.
+Caller: Oh good. So I don't need to pay them myself?
+Agent: That's correct. You do not need to pay your property taxes separately. We handle that for you.
+Caller: And is there a way to confirm that the taxes have actually been paid? I'd hate to find out they were missed.
+Agent: Absolutely. I can check the payment history on your escrow account right now. Let me look. Your most recent property tax disbursement was made on November 14th of last year in the amount of two thousand, one hundred and forty-six dollars. That payment went to Jefferson County Revenue Commission. The next disbursement will be due in November of this year.
+Caller: And you'll automatically pay it when it's due without me doing anything?
+Agent: Yes, that's all handled on our end. We receive the tax bills electronically from the county or monitor for the due dates, and we disburse from your escrow account. You'll see it reflected in your annual escrow account statement.
+Caller: What if my escrow account doesn't have enough to cover it?
+Agent: That's a great question. Before each tax payment is due, we perform an escrow analysis to make sure the account has sufficient funds. If there's a shortage, you might see a small adjustment in your monthly mortgage payment to replenish the escrow balance. You'd receive a notice explaining any change.
+Caller: Okay. And my homeowner's insurance — is that also through escrow?
+Agent: Let me check. Yes, your homeowner's insurance is also paid through escrow. Your last insurance premium disbursement was made on February 3rd of this year, in the amount of one thousand and eight dollars, to Statewide Home Insurance.
+Caller: Perfect. So everything tax and insurance-wise is handled through you?
+Agent: Exactly. Both property taxes and homeowner's insurance are included in your escrow account. Your monthly payment is split into principal, interest, and the escrow portion for taxes and insurance.
+Caller: That's such a relief. My neighbor had me second-guessing myself and I was worried I had been forgetting to pay taxes for years.
+Agent: You definitely would have heard from the county if that were the case, but I completely understand wanting to confirm. Your account is all current and in good standing.
+Caller: Wonderful. Thank you Carlos, this really set my mind at ease.
+Agent: My pleasure Harriet. Is there anything else I can help you with today?
+Caller: No, that's all I needed. You've been very helpful.
+Agent: Thank you for calling Summit Mortgage Servicing. Have a great day.
+Caller: You too, bye bye.
+Agent: Goodbye.

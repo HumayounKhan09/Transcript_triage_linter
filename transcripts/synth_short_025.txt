@@ -1,0 +1,47 @@
+Agent: Thank you for calling Bridgepoint Mortgage, this is Lisa. How may I help you today?
+Caller: Hi Lisa. I want to update the bank account that my autopay pulls from. I switched banks and I need to make sure my mortgage doesn't bounce.
+Agent: Absolutely, I can help you update that. Let me pull up your account first. Can I get your name?
+Caller: Gregory Papadopoulos.
+Agent: Thank you, Mr. Papadopoulos. And the last four of your Social Security Number?
+Caller: 9907.
+Agent: And the property address?
+Caller: 1118 Bay Laurel Drive, Annapolis, Maryland 21401.
+Agent: Got it. I have your account and I can see you're enrolled in autopay. Your next draft is scheduled for July 1st. Is the old bank account still active?
+Caller: No. I already closed it. The account is gone.
+Agent: Okay, that's important. If we tried to draft from a closed account, the payment would be returned unpaid and a returned payment fee would be assessed. I'm glad you called. Let's get the new bank information on right away.
+Caller: Yes, please. I have my new account information ready.
+Agent: Great. I'll need your new bank's routing number and your new checking account number.
+Caller: Routing is 055002707. Account number is 6614892033.
+Agent: Let me read those back. Routing 055002707, account number ending in 2033?
+Caller: Yes, 6614892033. So the last four are 2033.
+Agent: Perfect. And the bank name?
+Caller: Citizens Bank.
+Agent: Citizens Bank, routing 055002707, account ending in 2033. Is this a checking account?
+Caller: Yes, checking.
+Agent: Got it. I'll update the autopay bank account now. Since your next draft is July 1st, I want to make sure we get this updated in time.
+Caller: That's my concern too. Will it be done in time?
+Agent: Yes. Bank account updates to autopay take effect within one business day. Today is June 26th, so the update will be in place well before July 1st.
+Caller: That's a relief. I've been worried about this.
+Agent: Completely understandable. It's good that you called with a few days to spare. The update is processing now.
+Caller: Will there be any kind of test deposit or verification of the new account?
+Agent: We don't do a verification deposit for autopay updates, but we will validate the routing and account number format through our banking network. If there's a formatting error, we'd alert you before the draft date.
+Caller: And if something does go wrong on July 1st?
+Agent: If the draft were to fail for any reason, you'd have until July 15th, the grace period, to make the payment manually and avoid a late fee. We'd notify you immediately if a draft failed.
+Caller: Good. I'll watch my bank account that day just in case.
+Agent: That's smart. You should see the draft clear on July 1st assuming the account details are correct.
+Caller: Okay. Can you tell me what the draft amount will be?
+Agent: Yes. Your regular monthly autopay draft is $1,788.00.
+Caller: That's right. Okay, and when is this change confirmed? Can you send me something?
+Agent: I can send a confirmation email to the address we have on file. I show rgpapadopoulos at comcast dot net. Is that current?
+Caller: Yes, that's right.
+Agent: A confirmation of the bank account update will be sent to that email within a few hours.
+Caller: Great. And is there anything else I need to do on my end?
+Agent: Nothing else on your end. The old bank account is removed and replaced with Citizens Bank ending in 2033. Your July 1st draft will pull from the new account.
+Caller: Perfect. I was really stressed about this. I meant to call sooner but the move and the bank switch happened at the same time and it got hectic.
+Agent: Life gets busy. The important thing is you called in time and everything is taken care of.
+Caller: Thank you Lisa. You've been great.
+Agent: Happy to help. Is there anything else I can do for you today?
+Caller: No, that's everything. Thank you so much.
+Agent: Of course. Thank you for being a Bridgepoint Mortgage customer. Have a wonderful day.
+Caller: You too. Bye.
+Agent: Goodbye.

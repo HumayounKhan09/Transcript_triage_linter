@@ -1,0 +1,34 @@
+Agent: Good afternoon, thank you for calling Lakeside Mortgage Services, this is Anita. How can I help you?
+Caller: Hi Anita. This might be a simple question, but I honestly don't remember what type of loan I have. Is it FHA or conventional? I've been getting some mail about refinancing options and I want to know what I'm working with.
+Agent: That's actually a very common question, and it's important to know. Let me pull up your account. Can I get your full name first?
+Caller: Kevin Hartley.
+Agent: Thank you, Mr. Hartley. And your loan number or property address?
+Caller: Property address is 77 Millbrook Drive, Tucson, Arizona.
+Agent: And to verify your identity, the last four of your Social Security number?
+Caller: 3317.
+Agent: And your date of birth?
+Caller: February 8, 1985.
+Agent: Great, thank you. One moment while I access your account.
+Caller: Sure thing.
+Agent: Okay, I have your loan information here. Mr. Hartley, your loan is an FHA loan. It was originated as an FHA-insured mortgage.
+Caller: Okay. I kind of thought it might be. What does that actually mean in terms of how it works?
+Agent: An FHA loan is a mortgage that's insured by the Federal Housing Administration, which is a government agency. Because of that government backing, lenders are able to offer the loan to borrowers with lower down payments, sometimes as low as 3.5 percent, and with more flexible credit requirements. The trade-off is that FHA loans come with mortgage insurance premiums, which you pay as part of your monthly payment.
+Caller: Right, I do have that extra charge. The MIP thing.
+Agent: Exactly. That's the mortgage insurance premium, sometimes called MIP. There's an upfront MIP that's typically rolled into the loan, and then there's an annual MIP that's divided into monthly payments. You'll see it on your statement as a separate line item.
+Caller: Yeah I see it. Does that ever go away?
+Agent: For most FHA loans originated after June 2013 with a down payment of less than 10 percent, the MIP stays for the life of the loan. Since your loan was originated in 2017 based on what I'm seeing, and depending on your original loan-to-value ratio, MIP would likely remain for the life of the loan unless you refinance.
+Caller: That's part of why I was looking at refinancing options. Someone said if I switch to a conventional loan, I could drop the mortgage insurance eventually.
+Agent: That's correct. Conventional loans have private mortgage insurance, or PMI, but once you reach 20 percent equity in your home, PMI can be removed. So if your home has appreciated in value or you've paid down enough of the principal, refinancing from FHA to a conventional loan could eliminate the ongoing mortgage insurance costs.
+Caller: That makes sense. I've been in the house about six years so hopefully there's some equity built up.
+Agent: That's possible. Home values have increased in many markets over the past several years, so it may be worth getting an appraisal to see where your loan-to-value ratio stands. If you're below 80 percent loan-to-value, you'd likely qualify for conventional financing without PMI.
+Caller: I'll look into that. What's my current outstanding balance, just roughly?
+Agent: Your current outstanding principal balance is $189,440.22.
+Caller: And the house is probably worth around $265,000 based on what similar homes sold for nearby. So that's looking good, right?
+Agent: Based on those numbers, your loan-to-value would be approximately 71 percent, which is well below 80 percent. That would be a strong position for conventional refinancing. Of course, an appraisal would give you the official number.
+Caller: Alright, that's really helpful. So to confirm, I definitely have an FHA loan right now?
+Agent: Correct, your loan is FHA-insured. That's confirmed in your account.
+Caller: Perfect. That's all I needed to know. Thanks for walking me through all of that too, Anita.
+Agent: Of course, happy to help. Is there anything else I can assist you with today?
+Caller: Nope, I'm good. Have a great day.
+Agent: You as well, Mr. Hartley. Thanks for calling Lakeside Mortgage. Goodbye.
+Caller: Bye.

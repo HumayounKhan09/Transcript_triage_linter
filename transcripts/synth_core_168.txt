@@ -1,0 +1,47 @@
+Agent: Thank you for calling Community First Mortgage, this is Marcus. How can I help you today?
+Caller: Hi Marcus, this is Eleanor Diaz. I purchased my home through a community land trust program about two years ago and I'm trying to understand the resale restrictions that are on my property. I got a letter from the land trust about a potential sale and I'm confused about what I'm allowed to do.
+Agent: Hi Eleanor, community land trust loans do have some specific provisions that can feel complicated, and I'm happy to help you work through them. Can I pull up your account with us? Do you have a loan number?
+Caller: Yes, it's 7751-3302-P.
+Agent: Thank you. One moment. Okay, Eleanor Diaz, loan originated October 2024, property address in Denver, Colorado. I can see this is a community land trust — CLT — loan. The trust appears to be the Denver Community Land Trust. Let me review the file notes.
+Caller: Right. So I own the house but the land trust owns the land underneath. They told me that I can sell the house but there are restrictions on what price I can sell it for.
+Agent: That's correct, and that's the core of how CLTs work. Let me explain the framework and then we can talk about your specific situation. In a CLT, the trust separates the land from the structure. You own the improvements — the house — but the trust holds the land in perpetuity. They enter into what's called a ground lease with you, typically 99 years. In exchange for affordable land access, the resale price of your home is restricted.
+Caller: Right, that's exactly what they set up. The resale formula is something I don't quite understand.
+Agent: There are a few common resale formula types. The most common is the appraisal-based formula, where you can sell for the original purchase price plus a percentage of the increase in appraised value — often 25 percent. So if values in your area went up significantly, you'd capture 25 percent of that appreciation while the land trust captures the rest to preserve affordability for the next buyer.
+Caller: So if my home appreciated by $80,000 since I bought it, I'd only get $20,000 of that $80,000?
+Agent: Under a 25 percent formula, yes. That's the trade-off. You purchased the home at a below-market price because the land cost was removed from the equation. In exchange, you share future appreciation with the community. The CLT's goal is to keep homes permanently affordable.
+Caller: What's my actual resale cap based on my purchase price?
+Agent: Let me see what I have in your file. Your purchase price was $215,000. The file references the Denver CLT ground lease resale formula. I can see the annotation shows a 25 percent net appreciation share. Let me check if there's an index referenced.
+Caller: The letter I received says the maximum resale price is calculated based on the change in area median income, not the change in appraised value. Is that the same thing?
+Agent: Not exactly — those are two different formula types. The AMI-indexed formula ties your appreciation to changes in area median income rather than property values. If AMI in Denver grew by 10 percent since your purchase, your maximum resale price would be approximately 10 percent above your purchase price. Regardless of what the market has done.
+Caller: So if real estate values shot up 20 percent but AMI only went up 8 percent, I can only capture 8 percent?
+Agent: In an AMI-indexed formula, yes. The restriction is meant to keep the home affordable relative to what future buyers earning median income can afford, not to track market speculation.
+Caller: That feels limiting. Why did I agree to this?
+Agent: You agreed because the below-market purchase price at origination reflected that limitation. The CLT pricing was likely tens of thousands of dollars below what a non-restricted home would have cost. The resale cap is the mechanism that keeps the program funded and sustainable for future buyers.
+Caller: My neighbor paid full market rate for a similar home and it's now worth $65,000 more than when she bought it. I feel like I'm missing out.
+Agent: I understand that frustration, and it's real. The comparison to an unrestricted homeowner will always look unfavorable in a strong appreciation market. CLT homeownership is designed to deliver stability and affordability, not maximum investment return. The wealth-building opportunity is more modest by design.
+Caller: What if I want to sell and the offer I receive is above the resale cap?
+Agent: You'd be bound by the ground lease to sell at or below the calculated maximum. The CLT typically has a right of first refusal — meaning they have the opportunity to purchase the home at the restricted price before you can sell to an outside buyer. If they decline, you can proceed to sell to an eligible buyer at the capped price.
+Caller: Who qualifies as an eligible buyer?
+Agent: CLT programs typically require the buyer to meet income limits — often below 80 or 100 percent of area median income — and to occupy the home as a primary residence. The buyer also must be willing to sign the same ground lease and resale restrictions that you signed.
+Caller: Does that limit my pool of buyers?
+Agent: It does. You're essentially marketing to income-qualified buyers who are also prepared to accept restricted resale terms. In practice, CLTs often assist sellers in finding eligible buyers through their own waiting lists and outreach. The Denver CLT likely has prospective buyers in their pipeline already.
+Caller: The letter I received — it said they may have a buyer interested. What do I do from here?
+Agent: If the trust is presenting a potential buyer, your first step is to review the price they're offering and verify it complies with the formula in your ground lease. I'd recommend you request the trust's written calculation of the current maximum resale price so you understand the ceiling. Then compare the offered price to that ceiling.
+Caller: Can my lender — you — help me with that calculation?
+Agent: Your lender can help verify what's in your file regarding the formula, but the authoritative calculation comes from the Denver CLT itself based on the ground lease. The CLT administrator is the right person to confirm the exact maximum. I can provide you with what I see in your loan file, but the ground lease document they hold is the controlling document.
+Caller: Okay. Is there anything I should be aware of regarding my mortgage when I sell?
+Agent: Yes. When you sell, your existing mortgage with us must be paid off from the sale proceeds — just as with any home sale. Given the resale cap, it's important to confirm that the capped sale price exceeds your current loan payoff. Let me check your outstanding balance.
+Caller: Please.
+Agent: Your current loan balance is approximately $207,400. If your maximum resale price under the formula is, say, $230,000, you'd net approximately $22,600 before closing costs and commissions. Make sure to budget for those separately.
+Caller: That's not a lot. What if the formula price doesn't cover my payoff?
+Agent: That's a critical scenario to avoid. You'd be required to bring cash to closing to cover the shortfall — sometimes called a short sale in conventional lending, though in CLT context it's a structural outcome of appreciation not keeping pace with your loan balance. This is rare in well-designed CLT programs, but it's worth verifying the maximum resale price exceeds your payoff before proceeding.
+Caller: I'll make sure to get that number from the trust.
+Agent: That would be my strong recommendation. And if you want, I can send you a current payoff quote in writing so you have that figure to compare.
+Caller: Yes, please. That would be very helpful.
+Agent: I'll generate a payoff quote for you effective today, June 27th, 2026, and it will be mailed and emailed to you within two business days. Is there anything else I can help clarify?
+Caller: I think that covers it. I need to read my ground lease more carefully and call the CLT to get their formula calculation.
+Agent: That's exactly the right next step. And feel free to call us back if questions come up about the payoff or the mortgage side of the transaction.
+Caller: Thank you so much, Marcus. You've been very helpful.
+Agent: My pleasure, Eleanor. Good luck with the sale process.
+Caller: Thank you. Goodbye.
+Agent: Goodbye.

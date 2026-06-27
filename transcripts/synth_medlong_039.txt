@@ -1,0 +1,51 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Monique, how can I help you today?
+Caller: Hi Monique. My name is Aaron Leibowitz. Loan number 3308-552-177. I need help understanding why my escrow is all messed up and why my last three statements are showing different balances than what I expected.
+Agent: Hi Aaron, I'm happy to look into that with you. Let me pull up your account. Can you verify your property address and the last four of your Social Security number?
+Caller: 4401 Maple Ridge Road, Charlotte, North Carolina 28205. Social last four is 2267.
+Agent: Perfect, thank you. I've got your account. And can you give me a sense of what you were trying to do? Was this a regular payment situation or were you making some kind of extra payment?
+Caller: Yes, that's the issue. Back in April I made a large extra payment toward principal. I sent in a check for $15,000 and I wrote in the memo line "principal curtailment only." I did this specifically because I wanted to pay down principal and not have it go toward my regular payment or escrow. I've done this before with a different lender and it worked fine.
+Agent: Okay, and I'm seeing the $15,000 check received in April. Let me look at how it was applied. Give me a moment.
+Caller: Because here's what happened. After that payment, my May statement showed a weird balance, then my June statement showed an even weirder escrow balance, and now in July I'm getting a notice that I have an escrow shortage. None of this makes sense if the $15,000 went to principal like I specified.
+Agent: Aaron, I think I'm seeing what happened. The $15,000 check received on April 8th — let me look at the application. Okay. It was applied as a regular payment. Not as a principal curtailment.
+Caller: What? I wrote it on the check. Principal curtailment only.
+Agent: I see the notation, and I see that the check was processed through our standard payment center. The memo notation wasn't flagged and the amount — $15,000 — was applied as if it were a combination of regular payments. It looks like about $1,650 was applied as your regular April payment and the remaining $13,350 was applied to escrow as a lump deposit.
+Caller: Why would $13,350 go to escrow? My escrow payment is a set amount each month. Why would they put $13,350 in escrow?
+Agent: It shouldn't have. What appears to have happened is the payment processing system saw a large overpayment relative to the regular payment amount and split it across categories instead of applying it to principal as instructed. This is a payment misapplication error and I'm sorry this happened.
+Caller: So my escrow is now over-funded by $13,350?
+Agent: Not exactly, because an escrow overage triggers an automatic recalculation. When the large deposit hit escrow in April, the system recalculated your escrow balance and then lowered your required monthly escrow contribution going forward — which sounds good but actually left your regular payment underfunded for tax and insurance obligations. And then when the system recalculated again in May, it found the escrow balance was dropping faster than expected and flagged a shortage.
+Caller: So you messed up the application, then your system tried to correct itself and made it worse?
+Agent: That's essentially what happened. The misapplication set off a chain of automatic adjustments over three months that compounded the error. This is going to require a manual correction to unwind.
+Caller: How do you unwind three months of this?
+Agent: Here's what needs to happen. The $15,000 needs to be retroactively reversed out of how it was applied in April. We then re-apply it correctly as a principal curtailment. That restores your principal balance to what it should have been. Then we recalculate your escrow from April forward based on your correct payment history — your regular payments in April, May, and June at your standard amount, which I see is $2,104 per month. The escrow shortage notice you received should then be cancelled because it was based on the incorrect application.
+Caller: And my principal balance should drop by $15,000, minus whatever interest would have accrued differently?
+Agent: Correct. When we apply it as a principal curtailment on April 8th, your principal balance as of that date decreases by $15,000. The interest accruing after that point is calculated on the lower balance, so you would actually have paid slightly less interest in April, May, and June than the current statements show. Those interest amounts would be recalculated as well.
+Caller: This is a significant restatement of three months of history.
+Agent: It is. This needs to go to our payment research team who have the authority to reverse and reapply payments. I'm opening a case right now — case number PM-2025-077114 — and flagging it as a principal curtailment misapplication requiring a three-month reversal and restatement.
+Caller: How long does that take?
+Agent: Payment research cases typically resolve in ten to fifteen business days. I'm going to mark this as priority given the cascading escrow impact.
+Caller: And in the meantime, what do I pay? Because I got a statement saying I owe $2,104 regular plus $812 for escrow shortage, for a total due of $2,916. But that shortage is based on the error, right?
+Agent: Correct. The $812 shortage payment is based on the misapplication. I would recommend paying only your regular monthly payment of $2,104 for July while this investigation is open. I'll note in the case file that the escrow shortage demand is disputed and tied to the misapplication case so your account is not penalized for not paying it.
+Caller: Good. Because I'm not paying a shortage that shouldn't exist.
+Agent: That's reasonable and I've noted it. Now let me also think about whether this affected your tax or insurance payments from escrow. What does your escrow cover?
+Caller: Property taxes and homeowner's insurance. Taxes are due in September and December. Insurance renews in November.
+Agent: Okay. The misapplication happened in April, so we're still ahead of your tax due dates. If we get this resolved within the next two to three weeks, we should be able to restore your escrow balance correctly before any disbursements are needed.
+Caller: And if you can't get it resolved in time?
+Agent: If the correction isn't complete before a tax or insurance disbursement is due, the team would use the corrected escrow balance for the disbursement calculation and I'd make sure that's noted in the case. We wouldn't let a tax payment default because of our own error.
+Caller: What's my current loan balance shown in the system? The wrong one?
+Agent: Currently the system shows your balance at $247,880. The correct balance after the $15,000 curtailment should have been approximately $232,880, adjusting for interest. The restated balance after the correction should be close to that.
+Caller: About $15,000 higher than it should be. That's real money.
+Agent: Absolutely, and this correction is essential. When complete, you'll receive a restated account history showing the corrected balances for April, May, June, and July.
+Caller: I want a copy of that restated history when it's done.
+Agent: I'll note that specifically — borrower requests written restated payment history upon case resolution. You'll receive it by mail and email.
+Caller: My email is aleibowitz at businessmail dot net.
+Agent: Got it. And I'll send you the case acknowledgment to that address today. Case PM-2025-077114, payment research, priority flag.
+Caller: Is there anything else I should do? Should I send copies of my bank statement showing the $15,000 debit and the check copy?
+Agent: Yes, that would strengthen the case. You can upload documents through our online portal at meridianmortgage.com/documents or fax to 1-888-555-9030. Reference the case number on every page.
+Caller: I'll upload them today. The check had "principal curtailment only" very clearly written in the memo line.
+Agent: The more documentation the better. And the fact that you have the original check image will be important if there's any question about the instruction.
+Caller: Alright. Is there anything else I should know?
+Agent: Just watch your email for the acknowledgment, continue your regular payment of $2,104 for July, and don't pay the escrow shortage demand. If you don't hear anything by July 15th, call back and reference PM-2025-077114.
+Caller: Thank you Monique. This has been a headache.
+Agent: I'm sorry for the hassle, Aaron. It should be straightforward to correct. Thank you for calling.
+Caller: Thank you. Bye.
+Agent: Goodbye.

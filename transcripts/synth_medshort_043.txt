@@ -1,0 +1,37 @@
+Agent: Thank you for calling Meridian Mortgage, this is Derek. How can I help you today?
+Caller: Hi Derek. My name is Carolyn Hutchinson. I'm renewing my homeowner's insurance policy and my insurance agent is asking about your minimum coverage requirements. I don't know what I need to tell her. Can you help me figure out what the lender requirements are?
+Agent: Hi Ms. Hutchinson, happy to help with that. This is a very common question at renewal time and it's good that your agent is asking. Let me pull up your account so I can give you the specific requirements tied to your loan. Can I get your loan number or property address?
+Caller: It's 8843 Summerfield Road, Greenville, South Carolina 29607. Loan number is MM-552-33-0017.
+Agent: And your full name for verification?
+Caller: Carolyn Beth Hutchinson.
+Agent: Last four of your Social?
+Caller: 5509.
+Agent: Thank you. I have your account. Let me look at your insurance requirements. Before I give you the specific numbers, let me explain how lender insurance requirements are generally structured so the information makes sense. We require homeowner's insurance primarily to protect the collateral — the home itself. We're not regulating what you cover for personal property or liability, though those are important for your own protection.
+Caller: Okay, so what specifically do you need?
+Agent: The key requirement is dwelling coverage — sometimes called Coverage A on your policy. Your dwelling coverage must be at least sufficient to cover the replacement cost of the home or the outstanding loan balance, whichever is lower. Let me look at your current balance and the coverage on file.
+Caller: My loan balance is around $210,000. I think my current policy has the house insured for about $300,000.
+Agent: Let me confirm from our records. Your current balance is $208,442. Your policy on file shows dwelling coverage of $285,000. That policy actually expired two months ago, which is why your insurance agent is reaching out to renew. The good news is that $285,000 significantly exceeds your loan balance, so you're well above our minimum threshold.
+Caller: So the minimum is just to cover whatever I owe you?
+Agent: That's the baseline, yes — we require enough to pay off the loan balance if the home were destroyed. However, I want to be transparent with you: requiring only the loan balance amount may not be in your personal best interest. If your home is destroyed and the rebuild costs $350,000 but your coverage is only $210,000, you'd cover our payoff but you might not have enough to actually rebuild. That's why most insurance agents recommend insuring to the full replacement cost, which is the estimated cost to rebuild the home from scratch using similar materials.
+Caller: My agent was actually recommending I increase the coverage to $340,000 because construction costs have gone up.
+Agent: Your agent is giving you good advice. From our standpoint as a lender, $340,000 is above our minimum requirement and we'd accept that. From your personal standpoint, having coverage that reflects current rebuild costs is very wise — costs have increased significantly in recent years.
+Caller: What else do you require on the policy? My agent asked about deductibles.
+Agent: Good question. We do have a deductible requirement. The deductible must not exceed a certain percentage of the coverage amount or a dollar threshold. Generally, we allow deductibles up to one percent of the dwelling coverage amount or $5,000, whichever is higher, for standard perils. For wind or hail deductibles in certain states, there's sometimes a higher percentage allowed — I'd note that South Carolina can have separate wind deductibles.
+Caller: My current deductible is $2,500. Is that okay?
+Agent: Yes, $2,500 on a $285,000 or $340,000 policy is well within the allowed range. That's about 0.7 to 0.9 percent of coverage, which is fine.
+Caller: What about the mortgagee clause? My agent asked for that too.
+Agent: Yes, we need to be listed as the mortgagee on the policy. The mortgagee clause should read: Meridian Mortgage, ISAOA ATIMA, P.O. Box 77200, Dallas, Texas 75277. Your agent will know exactly how to add that. ISAOA means its successors and assigns and ATIMA means as their interests may appear — it's standard lender language. Do you want me to repeat that?
+Caller: I have it. Let me just read it back. Meridian Mortgage, ISAOA ATIMA, P.O. Box 77200, Dallas, Texas 75277?
+Agent: That's correct.
+Caller: Perfect. Now, once the new policy is in place, how does my agent send you the documentation?
+Agent: The insurance company or your agent can send the updated declarations page directly to us by fax at 800-555-0183, by email to insurance at meridian-mortgage dot com, or by mail to the mortgagee address I just gave you. Most agents do this electronically now, which is the fastest.
+Caller: And how soon does it need to be sent? My renewal date is two weeks from now.
+Agent: I'd recommend having your agent send it on or before the renewal date, ideally a few days before. If we don't receive confirmation of an active policy, an automated lapse notice may go out, and you don't want to deal with that. Two weeks is plenty of time.
+Caller: Great. Is there anything else on the policy that you require?
+Agent: The last item is that flood insurance — if your property is in a designated flood zone — is a separate requirement. Let me check your property. Your address is showing in a Zone X designation, which is a minimal flood risk area. Zone X does not require mandatory flood insurance. However, flood coverage is always worth considering personally, since Zone X can still experience flooding and your homeowner's policy will not cover flood damage.
+Caller: I've thought about it. I might add it this year.
+Agent: It's worth a conversation with your agent about the cost. It's often more affordable than people expect. Is there anything else I can help you with today?
+Caller: No, this is exactly what I needed. I'll pass this along to my agent and get the renewal squared away. Thanks, Derek.
+Agent: My pleasure, Ms. Hutchinson. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

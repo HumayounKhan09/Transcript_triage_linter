@@ -1,0 +1,43 @@
+Agent: Thank you for calling Coastal Mortgage Servicing, this is Tyler. How can I help you today?
+Caller: Hi Tyler. I'm Deanna Morrow. I went through a HAMP trial modification a while back and made all three trial payments on time, and then you guys denied my permanent modification. I want to know what my options are.
+Agent: Hi Ms. Morrow. I'm sorry to hear you went through that process and didn't get the permanent modification. Let me pull up your account so I can see the full picture. Can I get your loan number?
+Caller: It's 8839-1104.
+Agent: And the property address?
+Caller: 509 Willow Creek Road, Memphis, Tennessee, 38116.
+Agent: And last four of your Social?
+Caller: 7746.
+Agent: Got your account. Let me look at your modification history. I can see you were in a HAMP trial period and made your three trial payments. I can also see a denial letter was sent. Let me look at the reason for the denial.
+Caller: They said something about investor guidelines but they weren't specific. I don't understand what that means.
+Agent: So investor guidelines refers to the rules set by whoever owns your loan. Not all loan owners participated in HAMP equally, and even among those that did, there could be factors like net present value — or NPV — tests that determined whether modification was more beneficial than foreclosure from the investor's standpoint.
+Caller: That seems backward. How is my foreclosure better for them than my paying a lower amount?
+Agent: The NPV test is a mathematical model that compares the expected value of modifying the loan versus not modifying. It factors in things like your property value, likelihood of default without modification, expected recovery in foreclosure, and other variables. The model, not a human judgment, drives the result in many cases.
+Caller: And if I failed that test, is that just it?
+Agent: No. You have several options. First, you have the right to request the inputs to the NPV test. If you believe incorrect data was used — like an outdated property value or incorrect income figures — you can challenge those inputs.
+Caller: How do I do that?
+Agent: You send a written request asking for the NPV values used in your evaluation. We're required to provide that information if you request it. Once you have it, you or a housing counselor can review it and identify whether any data appears incorrect.
+Caller: What's a housing counselor?
+Agent: A HUD-approved housing counselor is a nonprofit professional who can help you navigate loss mitigation options, review modification denials, and advocate on your behalf. Their services are free to you. HUD has a website and hotline — 1-800-569-4287 — where you can find a counselor near you.
+Caller: Okay. So that's option one. What else?
+Agent: Option two is to appeal the denial. HAMP had a formal appeal process for denial of trial modifications. You have thirty days from the denial date to submit an appeal. Let me check when your denial letter was sent.
+Caller: It came about two weeks ago.
+Agent: Then you still have time to file an appeal within the thirty-day window. The appeal needs to be in writing and should address specifically why you believe the denial was incorrect.
+Caller: What do I say in the appeal?
+Agent: Focus on any factual errors — if your income was miscalculated, if the property value used was wrong, if you have documentation that wasn't considered. You should also state that you made all three trial payments on time and ask for reconsideration.
+Caller: I have proof I made all three payments. Bank records.
+Agent: Excellent. Include those with your appeal. A written appeal sent certified mail with return receipt is recommended so you have proof of delivery.
+Caller: Is there any other program I might qualify for now that HAMP has ended?
+Agent: HAMP officially ended as a program at the federal level, but servicers have their own in-house modification programs. We have what's called a Streamlined Modification or a Flex Modification — these are programs available to loans owned by Fannie Mae or Freddie Mac. Let me check who owns your loan.
+Caller: Okay.
+Agent: Your loan is owned by Freddie Mac. Freddie Mac has a Flex Modification program. Depending on your delinquency status and hardship, you may be eligible. It's separate from HAMP and has its own qualification criteria.
+Caller: How do I apply for that?
+Agent: You'd submit a new application through our loss mitigation department. You'd need a current hardship letter, documentation of income, a bank statement, and a completed Borrower Response Package.
+Caller: That's the same stuff I submitted for HAMP.
+Agent: Very similar documentation. Your financial situation may have changed since then too, which could affect eligibility in either direction.
+Caller: Are there any other options?
+Agent: If the modification route isn't successful, other options include a repayment plan if you have back payments due, a short sale if you want to sell the home, or deed in lieu of foreclosure if you want to surrender the property without going through formal foreclosure. These are more drastic but are better than foreclosure from a credit perspective.
+Caller: I don't want to give up the house. I want to stay.
+Agent: Then the priority is to file the appeal within the next two weeks and simultaneously have a HUD counselor review your situation for the Flex Modification. Working both tracks at once is the strongest approach.
+Caller: Can I talk to your loss mitigation team today?
+Agent: Absolutely. I'll transfer you over. Before I do, I want to make sure you have the key action items: request NPV inputs in writing, file your HAMP appeal within thirty days of the denial — you have about two weeks — contact a HUD housing counselor, and pursue Flex Modification application. Does that make sense?
+Caller: Yes, it does. Thank you for being so thorough, Tyler.
+Agent: Of course. You have rights and options — don't give up. Let me transfer you to loss mitigation.

@@ -1,0 +1,51 @@
+Agent: Meridian Mortgage Servicing, this is Sandra. How can I help you?
+Caller: Hi Sandra, my name is Elaine Troutman. I'm trying to assume my late father's mortgage. I've been living in the house for ten years anyway, I'm his daughter, and his estate attorney said there's a process for me to formally take over the loan. I'm at the point where I need to get some documents notarized and I'm not sure how all this works.
+Agent: Hi Ms. Troutman, I'm sorry for the loss of your father. You're asking about a loan assumption process, which is a specific process for eligible family members. Let me verify your identity and pull up the account. Can you give me the property address?
+Caller: Yes. It's 88 Birchwood Lane, Buffalo, New York, 14211.
+Agent: Thank you. And since you're not currently the borrower of record, can I get your father's name as it appears on the loan?
+Caller: His name was Thomas Allen Troutman.
+Agent: And can you confirm your full name?
+Caller: Elaine Marie Troutman.
+Agent: And your relationship to the deceased borrower?
+Caller: I'm his daughter.
+Agent: Thank you. I've located the account. You mentioned documents that need to be notarized. Can I ask — have you already started the assumption process with us, or is this your first time calling?
+Caller: I spoke with someone a few months ago and submitted a bunch of paperwork — the death certificate, the will showing I'm the heir of the property, and a letter from the estate attorney. Someone told me at that point I would eventually need to have some documents notarized.
+Agent: I see some notes on the account. It looks like the estate documentation was received and the assumption review is in progress. The notarized documents they may be referring to include the loan assumption agreement itself, which is the formal document where you agree to take over the loan obligations. That document typically requires notarization.
+Caller: So how do I actually get it notarized? Do I come to one of your offices?
+Agent: We don't have physical office locations for borrowers to visit, unfortunately. The notarization is something you arrange on your end. You can use any licensed notary — banks, shipping stores like UPS or FedEx, courthouses, and many libraries have notaries. Once the document is notarized, you send it back to us.
+Caller: Okay. But I haven't received the document yet. I thought you were supposed to send me the assumption agreement.
+Agent: You're right — we generate the assumption agreement and send it to you for signature and notarization. Let me check the status of where that document is in the process.
+Caller: Because I called a couple months ago and nothing has come yet. I've been making the monthly payments in the meantime because I don't want the house to go into any kind of problem.
+Agent: Good thinking — continuing to make payments is exactly the right thing to do during the assumption process. Looking at the account, I can see payments are coming in. Let me check the status of the assumption agreement document. I see the estate documentation was reviewed and the account was flagged for assumption agreement generation. However, I don't see a confirmation that the agreement was actually mailed. That may be why you haven't received anything.
+Caller: So it got stuck somewhere?
+Agent: It's possible there was a processing delay. I'm going to escalate this to our title and assumption department and flag it as a follow-up needed. They should be generating and mailing the assumption agreement promptly.
+Caller: How long will that take?
+Agent: Once I flag it, the typical processing time is seven to ten business days for the agreement to be prepared and mailed. Given the delay you've already experienced, I'll note this as urgent. Can I confirm your mailing address?
+Caller: Same as the property — 88 Birchwood Lane, Buffalo, New York, 14211.
+Agent: Good. And is there an email where we could also reach you?
+Caller: Yes, it's elaine.troutman at yahoo dot com.
+Agent: E-L-A-I-N-E dot T-R-O-U-T-M-A-N at yahoo dot com?
+Caller: That's right.
+Agent: I've noted your email. Once the agreement is issued, we may be able to send it electronically in addition to mailing it, which could speed things up.
+Caller: That would be great. Now, when I get the document, what exactly am I signing?
+Agent: The assumption agreement is a legal document in which you agree to take over all obligations of the original loan — the principal balance, the interest rate, the payment terms, and all covenants of the original note and mortgage. Essentially, you're stepping into your father's shoes as the borrower.
+Caller: Does the interest rate stay the same? My father had a really good rate.
+Agent: In an eligible assumption — which family member assumptions often qualify as — the interest rate, balance, and terms of the original loan transfer to you. You're not getting a new loan at current market rates; you're keeping the existing loan. That's one of the main benefits of an assumption for family members.
+Caller: That's huge. His rate is 3.25 percent. Current rates are much higher.
+Agent: Yes, that's an excellent rate and an assumption preserves it. You would not need to refinance at a higher rate. The loan terms stay exactly as they are.
+Caller: What about my credit? Do they check my credit?
+Agent: For family member assumptions, the process is different from a full underwriting review. However, many servicers do perform some level of review on the assuming party. I'd recommend asking specifically about what their credit requirements are when you receive the assumption package. Given that you've been making payments and maintaining the property, that works in your favor.
+Caller: I have decent credit. I'm not worried about that. I just want to make sure I understand what I'm signing.
+Agent: Absolutely. When you receive the agreement, review it carefully and feel free to have your estate attorney review it as well before you sign. Any responsible servicer would expect that.
+Caller: Okay. And once I sign and notarize and send it back, how long before the loan is in my name?
+Agent: After we receive the executed notarized agreement, processing typically takes four to six weeks. Once complete, you'll receive confirmation that the loan is in your name and future correspondence will be addressed to you.
+Caller: And then the deed — is that something you handle too?
+Agent: The deed to the property is separate from the mortgage. The deed is typically handled through the estate or probate process, not through us. Your estate attorney can guide you on updating the deed through the county recording office. The mortgage assumption and the deed transfer are two parallel processes.
+Caller: Okay, my attorney mentioned that. I just wanted to confirm.
+Agent: Is there anything else I can help you with today, Ms. Troutman?
+Caller: No, I think that's everything. I'll watch for the assumption agreement in the mail or email.
+Agent: Wonderful. And I've flagged the account as urgent, so someone from our assumption team may also reach out to you proactively. Thank you for your patience in this process.
+Caller: Thank you Sandra. This helped a lot.
+Agent: Of course. Thank you for calling Meridian Mortgage. Take care.
+Caller: Bye.
+Agent: Goodbye.

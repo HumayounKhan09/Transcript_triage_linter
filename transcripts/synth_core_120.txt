@@ -1,0 +1,42 @@
+Agent: Thank you for calling Beacon Mortgage Servicing. This is Jessica. Name and loan number please?
+Caller: Hi Jessica. My name is Paul Tremblay. Loan number is 8-8-1-5-5-2-0.
+Agent: Thank you, Mr. Tremblay. Property address and last four?
+Caller: 617 Hemlock Court, Providence, Rhode Island 02903. Last four of Social is 6-6-1-2.
+Agent: Got it, account is open. How can I help you today?
+Caller: I filed Chapter 7 bankruptcy about three months ago and I just received my discharge. The discharge papers list my mortgage as discharged. My question is — does that mean my mortgage is gone? Do I still owe the money? Can you still take my house?
+Agent: Mr. Tremblay, that's one of the most important and commonly misunderstood aspects of bankruptcy and mortgages. Let me explain this carefully. The discharge in Chapter 7 bankruptcy does eliminate your personal liability on the mortgage debt. That means if you were to walk away from the home, the lender cannot sue you personally for the balance or obtain a judgment against you for the debt.
+Caller: Okay, so the debt is wiped out.
+Agent: Your personal obligation to pay the debt is discharged, yes. But here is the critical distinction — the discharge affects your personal liability, not the lien on the property. The mortgage lien survives bankruptcy. That's the legal claim the lender has on your house, not on you personally.
+Caller: I don't understand the difference. Can you explain that more?
+Agent: Let me use an analogy. Think of it this way — before bankruptcy, if you stopped paying your mortgage, we could do two things. First, we could foreclose on the house because of our lien. Second, if there was a deficiency, we could potentially sue you personally. After your Chapter 7 discharge, we can still do the first thing — foreclose on the house — because the lien remains. But we can no longer do the second thing — sue you personally — because that personal debt was discharged.
+Caller: So my house can still be foreclosed?
+Agent: Yes. If you stop making mortgage payments after your bankruptcy discharge, we can still foreclose on the property to collect the debt secured by the lien. The lien did not go away in bankruptcy. The discharge only removed your personal obligation.
+Caller: So what was the point of the bankruptcy as it relates to the mortgage?
+Agent: The primary benefit for the mortgage, practically speaking, is the protection from personal liability on any deficiency. If you were to lose the home to foreclosure and the sale price was less than the loan balance, we could not sue you personally for the difference. The discharge shields you from that post-foreclosure deficiency claim. For some people, that's significant. For others, the anti-deficiency laws in their state already provide that protection.
+Caller: In Rhode Island, is there already an anti-deficiency law?
+Agent: Rhode Island has some limitations on deficiency judgments, but they're more limited than states like Arizona. I'd encourage you to consult with your bankruptcy attorney about how Rhode Island's deficiency rules interact with your discharge. But the key point is: the discharge protects you from personal liability. The lien and the right to foreclose still exist.
+Caller: So if I want to keep the house, I have to keep paying even though the debt was discharged?
+Agent: That's correct. To keep the house after a Chapter 7 discharge, you need to continue making mortgage payments. Even though the debt is technically discharged as a personal obligation, the lender's right to foreclose if you don't pay remains. To stay in the home, you pay. To leave without a deficiency judgment following you, you stop paying and let the lender foreclose — and the discharge protects you from the personal suit.
+Caller: What is my current status on the mortgage? Am I behind?
+Agent: Let me check. Your account shows the last payment received was in February — that's about four months ago. You're currently 120 days past due.
+Caller: I stopped paying when I filed bankruptcy. My bankruptcy attorney told me I could stay in the house during the automatic stay.
+Agent: Your attorney was correct. The automatic stay that goes into effect when you file bankruptcy halts foreclosure proceedings. Now that your discharge has been granted and the case is closing, the automatic stay is ending or has ended. We would be able to resume or initiate foreclosure proceedings on the property now.
+Caller: I need to decide what I want to do. I want to keep the house if I can. Is there any way to catch up?
+Agent: Yes. Keeping the house is absolutely possible. Your options at this point include reinstating the loan — paying all past-due amounts in a lump sum to bring it current — or reaffirming the mortgage, though I should note reaffirmation has specific implications I'll mention. Or you could apply for a loan modification to restructure the terms and address the delinquency.
+Caller: What's reaffirmation?
+Agent: Reaffirmation is a specific bankruptcy procedure where you voluntarily agree to remain personally liable on a debt that would otherwise be discharged. If you reaffirm your mortgage, you restore your personal obligation to pay — essentially giving up the discharge protection for that specific debt. After reaffirmation, if you defaulted and there was a deficiency, they could sue you personally again. Most bankruptcy attorneys advise against reaffirming mortgages precisely because you can keep the house and maintain the payment without reaffirmation — you'd just lose the house if you stop paying, but not face personal liability.
+Caller: So I don't need to reaffirm to keep the house?
+Agent: Correct. You can keep the house without reaffirming simply by continuing to make your payments. Many servicers continue to accept payments and apply them to the loan even without reaffirmation. However, some servicers may be more restrictive about formal modifications or refinancing without reaffirmation. That's worth exploring.
+Caller: Can I do a loan modification to get back on track without reaffirming?
+Agent: This is a genuinely nuanced area. Some servicers and investors are willing to modify loans post-bankruptcy without requiring reaffirmation. Others require reaffirmation as a condition of modification. Let me look at your account's investor. Your loan is Fannie Mae. Fannie Mae guidelines actually permit modification of discharged mortgages without requiring reaffirmation in certain circumstances, though the servicer's implementation can vary.
+Caller: That's encouraging. So there might be a path to modifying this without giving up the discharge protection.
+Agent: Potentially, yes. I'd recommend you discuss this specifically with your bankruptcy attorney before proceeding, because the interaction between a modification agreement and a discharged debt has legal implications your attorney can address.
+Caller: I'll definitely talk to my attorney. But can I at least start the modification inquiry today?
+Agent: Yes. I can open a hardship case and flag your account for loss mitigation review. I'll note the bankruptcy discharge and that you're requesting post-discharge modification evaluation. Our loss mitigation team will be aware of the context. But please loop in your attorney as we proceed.
+Caller: Okay. Let's do that. Can you also stop any foreclosure action while we figure this out?
+Agent: Once you have a complete loss mitigation application under review, dual-tracking rules prevent us from proceeding with foreclosure simultaneously. I'll note your intent to apply and open the file, which gives you some immediate protection.
+Caller: Thank you, Jessica. This is confusing but you made it much clearer.
+Agent: You're very welcome. The bankruptcy-mortgage interaction is genuinely complex. Please work closely with your attorney. We'll open the file today and send you the document checklist. Is there anything else?
+Caller: No, that's all. Thank you.
+Agent: Good luck, Mr. Tremblay. Call us at 1-800-555-0177 with questions. Goodbye.
+Caller: Goodbye.

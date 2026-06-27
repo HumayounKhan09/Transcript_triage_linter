@@ -1,0 +1,49 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, my name is Tom. Can I get your loan number to pull up your account?
+Caller: Sure, it's 7741-88230.
+Agent: And for verification, can I get your full name and the last four of your Social?
+Caller: Raymond Castellano, Social ends in 4419.
+Agent: Great, Mr. Castellano, I've got your account up. I see a property at 4820 Birchwood Drive — is that the one you're calling about today?
+Caller: Yes, that's the rental. I'm actually in the process of selling it and I need to get a payoff quote.
+Agent: Absolutely, I can generate that for you. Before I do, can I ask what your anticipated closing date is? Payoff quotes are typically good for 30 days and are date-specific, so the number will differ depending on when you close.
+Caller: We're targeting July 15th, but it could slip to July 22nd. Can I get both?
+Agent: Definitely. Let me run both of those. Your current principal balance is $318,450.22. At your current rate of 4.875 percent, daily interest accrues at approximately $42.61 per day. For a July 15th closing, your payoff would be $320,114.88. For July 22nd, that comes to $320,413.06. Those figures include a $25 wire fee and a $35 document preparation fee. There's no prepayment penalty on this loan.
+Caller: Okay, good. Now here's my real question — I'm trying to do a 1031 exchange with the proceeds. My accountant says I need a qualified intermediary in place before closing. Does that affect anything on your end?
+Agent: From our perspective as the servicer, the payoff process itself doesn't change. We get paid off at closing regardless of what happens to the net proceeds after. The 1031 exchange is between you, your qualified intermediary, and the IRS. We just need to receive the payoff wire in good funds by the date on the quote.
+Caller: Right, but my QI said the funds have to flow through them, not to me. Will your payoff instructions go directly to the QI's escrow account?
+Agent: The payoff wire goes from the closing agent — typically the title company or escrow company handling your sale — to us. What happens to the remaining equity after payoff is directed by you and your closing agent. So your QI would coordinate with the title company to receive the net equity proceeds. Our payoff wire goes to Meridian's account regardless. You'd instruct your closing agent to send the surplus to your QI after we've been paid.
+Caller: That makes sense. What about the escrow account on my loan? I have taxes and insurance impounded. Will I get that back?
+Agent: Yes. We'll issue an escrow refund for the positive balance after the loan is paid off. Let me check your escrow balance. You currently have $4,218.76 in escrow. Federal regulations require us to return that within 20 business days of the loan payoff.
+Caller: Twenty business days — so about a month?
+Agent: Roughly. It depends on the day the payoff is received and processed, but yes, typically three to four weeks. We'll mail a check to the address of record unless you've set up direct deposit preferences, which your account doesn't currently show.
+Caller: Can I request a wire instead of a check?
+Agent: We don't offer wire returns for escrow refunds — it will be a paper check. I'd recommend making sure your mailing address is current. Let me confirm what we have — is 722 Elmhurst Lane, Scottsdale, Arizona 85251 still your mailing address?
+Caller: Yes, that's my primary residence. That's fine.
+Agent: Good. Now, with respect to timing — since you mentioned the 1031 exchange, I want to make sure you're aware that you have 45 days from the sale closing to identify replacement property and 180 days to close on it. That's the IRS rule, not ours, but from our side, if you're purchasing a new investment property and you plan to finance it, we do offer investment property loans. I don't want to oversell that, just to mention it's an option.
+Caller: I'm actually looking at a small apartment building, probably around $650,000. I'll likely need a loan for the difference above what I get from this sale.
+Agent: That sounds like it would be a new origination. We can transfer you to our loan originations team if you'd like to explore financing options, but I'd suggest waiting until your replacement property is identified so you have the address and purchase price.
+Caller: That's fair. Let me ask — on the payoff quote, how do I request the actual formal document? My title company is going to need something in writing.
+Agent: I can generate a written payoff statement right now. It'll be available in your online portal within two hours and we can also fax it directly to the title company. Do you have their fax number?
+Caller: I don't have it in front of me. Can I call back and give it to you?
+Agent: Absolutely, or your title company can call us directly at our payoff department — that number is 1-800-774-5522. They'll reference your loan number 7741-88230 and request the payoff statement. We can also email it if they provide a secure email address.
+Caller: Let me give you my title company's name — it's Desert Sun Escrow, contact is Maria Vega.
+Agent: Got it. I'll make a note on the account that Desert Sun Escrow, attention Maria Vega, will be requesting the payoff statement. That way when they call, the note is right there.
+Caller: Perfect. Now, one more thing — I also have a HELOC on this property. It's through a different lender, but will that affect anything on your end?
+Agent: Our payoff doesn't depend on what happens with other liens. However, the title company will need to clear all liens at closing, so they'll also need a payoff from your HELOC lender. That's standard. From our side, we're only responsible for releasing our lien after we receive our payoff.
+Caller: Understood. The HELOC balance is pretty small, about $12,000. Should be easy.
+Agent: That's all handled through the title company coordinating with both lenders. They do this routinely. Just make sure both payoff requests are submitted at least five to seven business days before closing to give both servicers time to process.
+Caller: Got it. Can you tell me — once you receive the payoff wire, how long until the lien is released?
+Agent: After we receive and process the payoff funds, we're required to release the lien within a timeframe set by Arizona law, which is generally 30 days. We typically send a reconveyance deed to the county recorder and a copy to the address of record. Your title company may also track this.
+Caller: And if I close July 15th, you'll have the funds before your office closes for the day?
+Agent: Payoff wires need to arrive by 3 PM Mountain Time to be processed same day. If they arrive after 3 PM, they'll be processed the next business day and an additional day of interest will be charged. So make sure your title company initiates the wire early in the morning.
+Caller: That's really helpful, I'll tell them specifically about the 3 PM cutoff.
+Agent: Yes, it's important. Also, if your closing runs long and you think you might miss that window, call us and we can advise on next steps.
+Caller: One last thing — my current payment is due July 1st. If I close on July 15th, do I need to make that payment?
+Agent: Good question. You technically owe the July payment since it's due before your payoff date. However, when we calculate the payoff, we account for interest through the payoff date, so if you make the July payment and then pay off on July 15th, we'll credit the payment appropriately. Some borrowers choose to skip the last payment knowing the payoff will cover it, but that risks a late mark if the payoff is delayed. I'd recommend making the July 1st payment to be safe and allowing the accounting to settle at payoff.
+Caller: That makes sense. I don't want any late marks on my credit right before I'm trying to get a new loan.
+Agent: Exactly right. Making the payment keeps everything clean. Is there anything else I can help you with today?
+Caller: I think that's everything. You've been very thorough, Tom.
+Agent: Happy to help, Mr. Castellano. To recap — July 15th payoff is $320,114.88, July 22nd is $320,413.06. Escrow refund of $4,218.76 will be mailed within 20 business days. Payoff statement will be in your portal in two hours. Desert Sun Escrow, attention Maria Vega, can call our payoff department at 1-800-774-5522. And make sure the wire arrives by 3 PM Mountain Time on your closing date.
+Caller: Perfect. Thanks, Tom.
+Agent: Good luck with the sale and the 1031. Have a great day, Mr. Castellano.
+Caller: You too. Bye.
+Agent: Goodbye.

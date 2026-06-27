@@ -1,0 +1,42 @@
+Agent: Thank you for calling HomeFirst Mortgage Servicing, this is Brandon. How can I help you today?
+Caller: Hi Brandon. My name is Patrice Lemoine. I have a USDA rural development loan and I keep seeing something on my statement called a guarantee fee and I want to understand what it is exactly.
+Agent: Of course, Ms. Lemoine. Let me pull up your account. Can I get your loan number first?
+Caller: Sure, it's 3389-5501.
+Agent: And the property address?
+Caller: 812 Old Mill Road, Bolivar, Tennessee, 38008.
+Agent: Great. And can you confirm the last four of your Social?
+Caller: 2247.
+Agent: Thank you. I've got your account up. So you have a USDA Section 502 guaranteed loan, and you're seeing the guarantee fee charge. Let me break that down for you.
+Caller: Yes please. I see it every month and nobody ever explained it to me at closing.
+Agent: Totally understandable. So the USDA guarantee fee actually has two components. There's an upfront guarantee fee, which is a one-time charge paid at closing or rolled into your loan, and then there's an annual guarantee fee, which is what you're seeing on your monthly statement broken into twelve installments.
+Caller: Okay. So the one I see every month, that's the annual one?
+Agent: Correct. The annual guarantee fee is currently set at 0.35 percent of the outstanding loan balance per year. It's divided by twelve and added to your monthly payment, similar to how mortgage insurance works on FHA loans.
+Caller: So it's like mortgage insurance?
+Agent: It functions similarly, yes. The USDA guarantee fee is what allows the USDA to guarantee your loan to the lender. Because of that guarantee, lenders are willing to offer you financing with no down payment and typically competitive interest rates, even in rural areas where lending can be seen as higher risk.
+Caller: Okay. And the upfront one — how much was that?
+Agent: The upfront guarantee fee for USDA loans is currently one percent of the loan amount. For your loan, that was $2,090, and it looks like that was rolled into your loan balance rather than paid at closing.
+Caller: I don't remember paying it at closing so that makes sense. Is that common?
+Agent: Very common. Most borrowers choose to finance it so they don't have to bring extra cash to closing. It does mean you pay a little more in interest over time since it's part of the loan balance, but it makes the loan more accessible.
+Caller: Alright. And does the annual fee ever go away? Like PMI on a conventional loan goes away at some point.
+Agent: That's a great question, and this is where USDA loans differ from conventional. The annual guarantee fee does not automatically cancel based on reaching a certain equity threshold. Currently, USDA requires the annual fee for the life of the loan, similar to FHA loans with less than ten percent down.
+Caller: Seriously? So I'm stuck paying it forever?
+Agent: For the duration of the loan unless the program rules change or you refinance. There have been some industry discussions about changing this, but as of now the annual fee remains for the life of USDA guaranteed loans.
+Caller: That's frustrating. Could I refinance to a conventional loan eventually and drop it?
+Agent: Yes, that's actually a strategy some borrowers use. Once you've built enough equity — typically twenty percent — you could refinance into a conventional loan and eliminate the guarantee fee entirely. You'd also be able to avoid PMI on the conventional side at that equity level.
+Caller: How much equity do I have now?
+Agent: Let me look. Your current outstanding balance is $205,432. I don't have an automated valuation in front of me, but your original appraised value was $214,000. You'd want to check current market values in your area. If your home has appreciated, you may be closer to that threshold than you think.
+Caller: It's probably gone up. The area has grown a lot since we bought.
+Agent: That's good to hear. If you think you're near or at twenty percent equity based on current market value, you could order an appraisal and explore conventional refinancing options. I'd suggest talking to our loan origination team or another lender for a refinance quote.
+Caller: Can I do that with you all?
+Agent: Yes, we do have a refinance department. I can transfer you over or have someone give you a call back. They would be able to run the numbers and let you know what makes sense given current rates.
+Caller: What are rates like right now?
+Agent: I don't have live rate quotes here on the servicing side, but the origination team would have current market rates. I would just say that it's worth running the math to make sure a refinance makes sense after closing costs.
+Caller: That's fair. Can you put a note on my account that I'm interested in refinance options?
+Agent: Absolutely. I'll put a note right now and flag your account for an outreach call from our refinance team within the next three to five business days.
+Caller: Perfect. And just to confirm, the guarantee fee I see on my statement every month — that's normal and expected, right? There's nothing wrong with my account?
+Agent: Correct, nothing is wrong. That charge is exactly as expected for your loan type. Your account is current and in good standing.
+Caller: Okay, that's a relief. I just wanted to make sure it wasn't some error.
+Agent: Completely reasonable to check. Is there anything else I can help you with today, Ms. Lemoine?
+Caller: No, I think I'm good. Thank you for explaining all of that.
+Agent: Of course. Have a wonderful day, and we'll have someone from refinancing reach out to you shortly.
+Caller: Great, thanks Brandon.

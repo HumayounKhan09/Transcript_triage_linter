@@ -1,0 +1,43 @@
+Agent: Thank you for calling TrueVest Mortgage Servicing, this is Fatima. How can I help you today?
+Caller: Hi Fatima. This is Clarence Whitmore. I think a payment I made got applied to the wrong loan. I have two mortgages serviced by you and the money went to the other one. Loan number — well, the one I was trying to pay is 5541-8890.
+Agent: Hi Clarence, I can definitely help with that. Let me look up your profile. I see you have two loans with us — loan 5541-8890 on a property in Louisville, Kentucky, which is a primary residence, and loan 5541-8891 on a property in Bowling Green, Kentucky, which is an investment property. Is that right?
+Caller: Yes, exactly. I intended to pay the Louisville loan — ending in 8890 — and I think the payment went to the Bowling Green loan ending in 8891.
+Agent: Let me look at the payment history on both accounts. On loan 5541-8891, I can see a payment of two thousand one hundred forty-four dollars posted on June eighteenth. On loan 5541-8890, I see no payment received in June. Is the two thousand one hundred forty-four dollars the amount you intended to pay?
+Caller: Yes. My Louisville mortgage payment is two thousand one hundred forty-four dollars. The Bowling Green loan payment is different — it's one thousand eight hundred sixty-two dollars. So it's clear which loan the money was meant for.
+Agent: That does seem clear from the amounts. How was the payment made — online, phone, or mail?
+Caller: I did it online through my bank's bill pay. I have two payees set up — one for each loan. I must have clicked on the wrong one.
+Agent: That's a common scenario when someone has multiple loans. The payment was made from your bank externally, so it came in as an ACH from your bank with no way for our system to know it was intended for the other loan. It simply matched the routing information for the Bowling Green account.
+Caller: Right. So can it be moved?
+Agent: Yes. What needs to happen is a payment reallocation — we reverse the misapplied payment from the Bowling Green loan and apply it to the Louisville loan. Since both loans are in your name and both are serviced by us, this is something we can do internally without sending money back to your bank.
+Caller: That's exactly what I want. How quickly can it be done?
+Agent: Payment reallocations between loans in the same name typically process within three to five business days. Once it's complete, your Louisville loan will show the June payment as received and your Bowling Green account will be restored to its pre-payment state.
+Caller: Wait — if the Bowling Green loan gets reversed back, will it show June as unpaid? Will I get a late fee?
+Agent: That's the right question to ask. The Bowling Green loan's regular June payment — which was one thousand eight hundred sixty-two dollars — was this the only payment the account received in June?
+Caller: I'm not sure. Let me think. I have autopay on the Bowling Green loan. So actually the autopay should have gone through automatically on June first.
+Agent: Let me check. Yes, on loan 5541-8891 — the Bowling Green loan — I see an autopay of one thousand eight hundred sixty-two dollars posted June first. Then the misapplied payment of two thousand one hundred forty-four posted June eighteenth. So the Bowling Green loan's June payment was already made through autopay.
+Caller: Oh good. So reversing the June eighteenth payment from the Bowling Green account won't create a late payment situation because the autopay already covered June.
+Agent: Correct. The June eighteenth payment that gets reversed was a surplus on the Bowling Green account. It was applied as a principal curtailment on that loan. Reversing it simply undoes the principal reduction and frees up the funds to be applied to your Louisville loan for June.
+Caller: And my Louisville loan — will there be a late fee since June isn't paid yet?
+Agent: Your Louisville payment is due June first with a grace period through June fifteenth. Today is June twenty-seventh, so you're past the grace period. A late fee may have been assessed. Let me check. Yes, I see a late charge of seventy-one dollars assessed on June sixteenth.
+Caller: That's not fair. I did make a payment — it just went to the wrong account.
+Agent: I understand, and in a reallocation situation like this, we would waive the late fee as a courtesy since the payment was made in good faith and the error was a misdirection rather than a failure to pay. I'm reversing the late fee now.
+Caller: Thank you. And the reallocation — when it processes, will it show June as paid on time or just paid?
+Agent: The payment will be applied effective the date it's reallocated rather than retroactively to the original payment date. So it will show as a June payment received in late June. The late fee is being waived so there's no financial penalty, but the date stamp on the payment may reflect late June.
+Caller: And the credit bureaus — will this show as late?
+Agent: For credit reporting purposes, we report a payment as late when it's thirty or more days past the due date. Your June payment was due June first. Today is June twenty-seventh — twenty-six days past the due date. Once we apply the payment, you'd be at twenty-six days, which doesn't cross the thirty-day threshold that triggers a derogatory credit report.
+Caller: So as long as the reallocation processes before July first, I'm safe?
+Agent: Correct. Three to five business days from today puts the reallocation completing by July third at the latest — before July first in the most optimistic scenario. Either way, you should be within the reporting window.
+Caller: Okay. Can I ask you to expedite this?
+Agent: I'm flagging it as urgent in the system due to the proximity to the thirty-day reporting threshold. An urgent flag typically reduces the processing time to one to two business days.
+Caller: That would be great. Please do that.
+Agent: Done. It's flagged as urgent. Let me give you the reference number for this case: PAR-2024-77119. You'll receive written confirmation of the reallocation once it's complete.
+Caller: Good. Now I need to make sure I fix my bank's bill pay so this doesn't happen again. The two payee names look almost identical in my bank — it shows "TrueVest Mortgage - 8890" and "TrueVest Mortgage - 8891." Easy to mix up.
+Agent: That's a really easy mistake to make with similar loan numbers. One suggestion — some borrowers rename their bill pay payees with something more descriptive, like "Louisville Mortgage" versus "Bowling Green Investment." Most bank bill pay systems allow you to add a note or rename a payee.
+Caller: That's a good idea. I'll rename them so it's more obvious which is which.
+Agent: Also, our online portal at truevest.com allows you to view both loans in one dashboard and submit payments directly from there. When you submit through our portal, you select the specific loan before confirming, which reduces the chance of misdirection.
+Caller: I might switch to paying through your portal then. Does it allow scheduled payments?
+Agent: Yes. You can set up one-time or recurring scheduled payments from the portal, designated by loan number. Each submission asks you to confirm the loan before processing.
+Caller: That sounds more reliable. I'll set that up after this call.
+Agent: Good plan. Is there anything else I can help you with today?
+Caller: No, I think that's everything. Thank you Fatima — you handled this really well.
+Agent: Happy to help, Clarence. Keep an eye out for that confirmation email and you're all set. Have a great day.

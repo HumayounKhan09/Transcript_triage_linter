@@ -1,0 +1,34 @@
+Agent: Thank you for calling Coastal First Mortgage, this is Sandra. How can I help you?
+Caller: Hi Sandra. I got a little extra money this month and I'm wondering what happens if I pay more than my regular payment. Like, does it help?
+Agent: Great question. I'd be happy to explain how early or extra payments work. Can I get your name first?
+Caller: Raymond Chu.
+Agent: Thank you, Mr. Chu. And the last four of your Social Security Number?
+Caller: 5582.
+Agent: And your property address?
+Caller: 2840 Sunset Palms Boulevard, Tampa, Florida 33602.
+Agent: Great, I've got your account. So you're asking about paying extra or paying ahead of schedule. Which are you thinking — paying more than the required amount this month, or paying next month's payment now?
+Caller: Mostly paying extra. Like, putting an extra three or four hundred dollars toward the loan.
+Agent: That's one of the smartest things you can do. Any additional amount above your required payment goes directly to your principal balance, assuming you designate it as a principal reduction.
+Caller: I have to designate it? How do I do that?
+Agent: If you're paying online, there's usually a field for additional principal payment. Enter the extra amount there separately from your regular payment. If you're mailing a check, write principal only on the memo line for the additional check, or include a note with your payment coupon.
+Caller: What if I just pay a higher amount without doing that?
+Agent: If you pay a higher total without specifying, our system applies it according to standard allocation — which first satisfies any fees, then interest, then principal. In most cases it still reaches principal, but specifying ensures it goes directly there.
+Caller: Okay, so I should always specify. Got it. And what's the actual benefit of paying down principal?
+Agent: When you reduce the principal, you reduce the balance on which interest accrues daily. That means less interest accumulates going forward. Over time, extra principal payments can shorten your loan term significantly and save thousands in interest.
+Caller: Like, how much of a difference does four hundred extra a month make?
+Agent: Let me give you a rough estimate based on your current balance and rate. Your current balance is $198,440.00 at 4.25% on a 30-year loan with about 26 years remaining. Adding $400 per month to principal would save you approximately $41,000 in interest and shorten your loan by about 7 years.
+Caller: Seven years? That's incredible.
+Agent: It really is the power of compound savings working in your favor.
+Caller: What if I just do it occasionally, not every month?
+Agent: Every extra payment helps. Even an irregular additional payment reduces your balance and the daily interest accrual from that point forward. There's no minimum extra amount required.
+Caller: And there's no prepayment penalty on my loan?
+Agent: Let me verify. Looking at your loan terms — no, there is no prepayment penalty on your loan. You can pay as much as you want, as early as you want, without any fee.
+Caller: That's great. I wasn't sure about that.
+Agent: Many conventional loans don't carry prepayment penalties, but it's always good to verify, which you just did.
+Caller: Okay. So the plan is — I'll pay my normal amount plus four hundred in the additional principal field?
+Agent: Exactly right. And you'll see the impact on your next statement — the principal balance will drop by more than usual that month.
+Caller: Love that. Alright, thanks Sandra. This was really motivating.
+Agent: Happy to help. Is there anything else I can assist with today?
+Caller: No, that's all I needed. Have a good one.
+Agent: You too, Mr. Chu. Thanks for calling Coastal First Mortgage. Goodbye.
+Caller: Bye.

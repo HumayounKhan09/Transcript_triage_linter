@@ -1,0 +1,37 @@
+Agent: Thank you for calling Clearwater Mortgage Services, this is Beth. How can I help you today?
+Caller: Hi Beth, my name is Leonard Okafor. I just made my final mortgage payment last week — like, the very last one. Paid off the whole thing. I'm so excited. But I'm not sure what happens next. What documents am I going to receive and what do I need to do to make sure everything is handled correctly?
+Agent: Congratulations, Mr. Okafor! Paying off your mortgage is a huge milestone. I'm happy to walk you through exactly what to expect. Let me pull up your account first to confirm everything is finalized. Can I get your loan number or the property address?
+Caller: 5501 Magnolia Grove Boulevard, Memphis, Tennessee 38117. Loan number is CW-224-88-7741.
+Agent: And your full name for verification?
+Caller: Leonard James Okafor.
+Agent: Last four of your Social?
+Caller: 6621.
+Agent: Perfect. I have your account. I can see the final payment posted three days ago and your principal balance is now showing zero. Your loan is officially paid in full. Let me walk you through what happens from here.
+Caller: Yes, please. I've never done this before — this is the first home I've ever owned and first mortgage I've ever paid off.
+Agent: That makes it even more special. So here's the process. First, you'll receive what's called a payoff release or satisfaction of mortgage — those terms are used interchangeably. This is a legal document that formally states your mortgage has been paid in full and the lien our company held on your property is released. This document will be mailed to you.
+Caller: How long does that take?
+Agent: The document itself is typically prepared within thirty days of the final payment. However, the process doesn't end there. We also have to record the release with the county recorder's office or register of deeds in Shelby County. That recording is what officially removes the lien from public records. Some states require us to record within a specific timeframe — in Tennessee, servicers are required to record within a certain statutory window.
+Caller: So I'll get a document in the mail, and you'll also file something with the county?
+Agent: Exactly right. You'll receive a copy of the satisfaction document. Once it's recorded, you may also receive a recorded copy — meaning it will have the county's stamp or file number on it confirming it's been entered into public record. That recorded version is the most important one to keep.
+Caller: What should I do with it when it arrives?
+Agent: Keep it in a very safe place — a fireproof safe, a safe deposit box, or both. This document proves that no one has a claim against your property. If you ever sell the house, the title company will look for this recorded satisfaction in the public records, but having your own copy is a good backup. You may also want to scan it and keep a digital copy.
+Caller: Should I check with the county myself to make sure it was recorded?
+Agent: Absolutely, and that's very proactive thinking. About sixty to ninety days after you receive our notification that the release has been filed, you can contact the Shelby County Register of Deeds directly or check online if they have a public records portal. Search for your name and property address. You should see the mortgage satisfaction listed as a recorded document.
+Caller: What about my escrow account? I had taxes and insurance going through escrow.
+Agent: Great question. Since your loan is now paid off, the escrow account is closed. Any remaining balance in your escrow account — meaning funds that were collected but not yet disbursed for taxes or insurance — will be refunded to you. That check is typically issued within thirty days and mailed to your address on file.
+Caller: Oh, I wasn't expecting that. How much might be in there?
+Agent: Let me look. I can see your escrow balance at payoff was $1,847.32. That full amount will be refunded to you. So in addition to the satisfaction documents, you'll also receive an escrow refund check.
+Caller: That's wonderful. I didn't even think about that.
+Agent: It's a nice bonus to payoff. One more thing — going forward, since you no longer have an escrow account, you'll be responsible for paying your property taxes and homeowner's insurance directly. Your county will bill you for taxes, and your insurance company will bill you directly for renewal premiums. You'll want to make sure you're budgeting for those.
+Caller: When is my next property tax bill due?
+Agent: I can see that Shelby County's next tax due date based on your history is typically in the fall. I'd recommend contacting the county assessor's office to get on their mailing list if you aren't already, since the bill would have previously come to us.
+Caller: Right, because you were getting the bill. Okay. And my insurance — same thing? I just pay the insurance company directly now?
+Agent: Correct. Your insurance company may have been billing us directly as well, so you'll want to call them and update your billing contact information so invoices come to you. Make sure you don't let the policy lapse — you'll want continuous coverage even without a mortgage requirement.
+Caller: That's good advice. I'll call them today.
+Agent: Is there anything else I can help you with, Mr. Okafor?
+Caller: Actually, one last thing — do I need to do anything to update my deed? Does the deed change now that I own it free and clear?
+Agent: The deed itself doesn't change — your name has always been on the deed as the owner. What changes is that the mortgage lien is removed from the title. The deed stays the same; it's the lien release that's new. Your ownership was never in question — the mortgage just gave us a security interest in the property, which is now extinguished.
+Caller: Perfect. That clears up everything I was wondering about. Beth, this has been a fantastic call. Thank you so much.
+Agent: It's been my pleasure, and congratulations again. Owning your home free and clear is a tremendous accomplishment. Don't hesitate to call if you have any follow-up questions. Have a wonderful day.
+Caller: You too. Thanks, Beth. Bye.
+Agent: Goodbye, Mr. Okafor.

@@ -1,0 +1,40 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Carlos, how can I help you today?
+Caller: Hi Carlos. My name is Sandra Whitmore. I need to speak to a supervisor immediately. I believe your company is violating federal law and I want to document this call carefully.
+Agent: Ms. Whitmore, I hear you. I want to help you directly first and then I can escalate if needed. Can you tell me what's happening?
+Caller: I'll tell you what's happening. Loan number is 8843-229-016. Property is 2905 Lakeshore Drive, Milwaukee, Wisconsin 53207. Social last four 6614. Now let me talk.
+Agent: Verified. Your account is up. Please go ahead.
+Caller: In January of this year I applied for a loan modification because my income dropped. Your loss mitigation team took my application and I was assigned a point of contact named Marcus Webb. Marcus has been calling me every two weeks for updates and we've been going through the modification process — submitting bank statements, pay stubs, the whole thing. Three weeks ago Marcus told me I was being reviewed and to be patient.
+Agent: Okay. And what happened?
+Caller: Yesterday I received a foreclosure sale notice. It says my property is scheduled for foreclosure sale on August 14, 2025. That is seven weeks from now. While I am actively in the modification review process that your own employee has been managing.
+Agent: Ms. Whitmore, I want you to stay with me here. What you're describing — being evaluated for a loss mitigation option at the same time a foreclosure sale is scheduled — that is something called dual tracking, and it is prohibited under federal regulations. Specifically under CFPB's mortgage servicing rules, Regulation X.
+Caller: That's exactly what I told my sister who is an attorney. Dual tracking. And she said I should be on the phone with you, the CFPB, and potentially a class action attorney by end of day.
+Agent: I completely understand why. And I'm not going to dismiss what you're telling me. Let me look at both sides of your account — the loss mitigation side and the foreclosure timeline simultaneously.
+Caller: Please do.
+Agent: Okay. I'm in your account. I can see the modification application received January 22, 2025. I can see it was acknowledged, assigned to Marcus Webb as your single point of contact. I'm seeing document submissions in February and March. And I see a review status note from June 6th that says under review, awaiting decision. And then — there it is. A foreclosure referral was initiated on June 9th.
+Caller: Three days after the under-review note. While I was waiting on a decision.
+Agent: Ms. Whitmore, this is a very serious problem. Under Regulation X, Section 1024.41, a servicer cannot proceed with a foreclosure sale if a complete loss mitigation application has been received more than 37 days before the foreclosure sale date. Your application was received in January. The sale is scheduled for August. That is well within the protection window. The initiation of foreclosure while your application is under review is a potential RESPA violation.
+Caller: What are you going to do about it right now?
+Agent: Right now, on this call, I am placing an immediate halt on the foreclosure sale. I'm marking this account with a regulatory compliance flag. This is not a standard customer service action — this goes directly to our compliance and legal team. Your case number is COMP-2025-002814. This is a compliance escalation, which is different from a standard servicing escalation.
+Caller: How do I know the sale on August 14th will actually stop?
+Agent: Because a compliance flag overrides operational foreclosure timelines. The sale cannot proceed while a compliance review is pending. I'm also flagging your account so that no further foreclosure action can be taken without compliance department sign-off. But Ms. Whitmore, I also strongly encourage you to submit a written complaint — both to us and to the CFPB today.
+Caller: I am filing a CFPB complaint as soon as we hang up. My sister is typing it right now.
+Agent: Good. The CFPB complaint creates an official record. Once a CFPB complaint is received, we have fifteen business days to acknowledge and 60 days to resolve it. That complaint in combination with my compliance flag provides two independent protections.
+Caller: I also want to know — what happened? How did the foreclosure referral get initiated when my modification application was active?
+Agent: That's what the compliance investigation will determine. There are a few possible causes. One is a department silo issue where the foreclosure processing team was not informed of the active loss mitigation file — which is a process failure. Another is a system automation error that triggered a referral based on delinquency days without checking for an active modification review. Either way, it's our failure and it should not have happened.
+Caller: How many payments am I behind?
+Agent: I'm looking at the delinquency. You're currently 98 days past due, which is consistent with having applied for a modification in January — borrowers often stop paying or fall behind before applying. Being in modification review does not require you to be current, and your application status should have prevented this referral.
+Caller: I made two partial payments in March and April. Marcus told me not to make full payments until the modification decision because the terms might change and overpaying could complicate the calculation.
+Agent: That is correct guidance under modification review procedures. The fact that you were following the guidance of your assigned single point of contact and still had foreclosure initiated is particularly concerning from a compliance standpoint. I'm adding a note about Marcus Webb's instructions to the case file.
+Caller: What happens to my modification now? Does this reset everything?
+Agent: No. Your modification application remains active and under review. The compliance flag does not stop the modification process — it only stops the foreclosure action. Marcus Webb remains your point of contact and you should hear from him within 48 hours once I flag this escalation. If you don't hear from him by Monday morning, call the compliance line directly at 1-800-555-9900.
+Caller: I want written confirmation that the August 14th sale is stopped.
+Agent: I'm going to generate a written notification. It will be sent to your email on file, which I see as swhitmore at hotmail dot com. Is that current?
+Caller: That's correct.
+Agent: You'll receive an acknowledgment within two business hours. It will confirm the foreclosure halt, the compliance case number COMP-2025-002814, and the regulatory flag. Please keep that email.
+Caller: And I want to formally note on this call that I am reserving all rights, including the right to seek legal remedy.
+Agent: Noted. I'm documenting that statement verbatim in your account notes. Ms. Whitmore, I want to be honest with you — what happened here should not have happened. The regulations exist specifically to prevent this situation. I'm sorry you're dealing with it.
+Caller: I just want my house and I want a fair modification review.
+Agent: That is exactly what you should get. The compliance team will review this within two business days and you will hear from us by the end of next week at the latest.
+Caller: All right. Case number COMP-2025-002814. Thank you Carlos.
+Agent: Thank you, Ms. Whitmore. We'll get this right. Goodbye.
+Caller: Goodbye.

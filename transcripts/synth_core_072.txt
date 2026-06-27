@@ -1,0 +1,50 @@
+Agent: Thank you for calling Vantage Point Mortgage, this is Rachel. Can I get your loan number?
+Caller: It's 5590-441-33. I'm Robert Callahan.
+Agent: Thank you, Mr. Callahan. Can you verify your date of birth and the property address?
+Caller: August 3rd, 1975, and the property is 6704 Hillcrest Avenue, San Jose, California 95127.
+Agent: Got your account. How can I help you today?
+Caller: I got a bill directly from my county tax assessor for a supplemental property tax. I thought my mortgage company paid my taxes. Now I'm worried about whether my escrow is going to be short. Can you help me understand what's going on?
+Agent: Absolutely, Mr. Callahan. Supplemental property tax bills are a source of confusion for many California homeowners, and your question is a very important one. Let me explain what they are and how they interact with your escrow.
+Caller: Please. I've never seen one before and it's for $3,841.
+Agent: That's a significant amount. In California, supplemental property taxes are separate from your regular annual property tax bill. They're triggered by a change in ownership or a new construction event on the property. When was your home last purchased or did you make any major improvements recently?
+Caller: I bought the house in March of this year. I purchased it in March 2026.
+Agent: That's the trigger. In California, when you purchase a property, the county reassesses it at the new purchase price. Your regular tax bill is based on the prior assessed value — the seller's value — prorated for the year. But the county also issues a supplemental assessment to capture the difference between the old assessed value and your new purchase price, covering the portion of the tax year since your purchase.
+Caller: So this is because I just bought it?
+Agent: Exactly. The supplemental bill covers the gap in taxes between what you paid at closing — which was based on the seller's assessed value — and what's owed under your new, higher assessment. It's a one-time or sometimes two-part bill depending on when in the fiscal year you purchased.
+Caller: Will this happen again next year?
+Agent: No. The supplemental tax is a one-time catch-up. After it's settled, your regular annual tax bill will be based on your new assessed value going forward. That regular tax bill is what your escrow is designed to pay.
+Caller: Okay. So my escrow pays the regular taxes but not this supplemental bill?
+Agent: That's typically correct for supplemental taxes, particularly in the first year. Because the supplemental tax is an unexpected one-time assessment that your servicer couldn't have predicted when the escrow was set up, it usually falls outside the normal escrow disbursement. Let me verify your account. Looking at your escrow setup — you closed in March 2026 and we established your escrow based on the previous year's tax bill, which was $6,200 annually.
+Caller: So the $3,841 supplemental bill is my responsibility to pay directly?
+Agent: Typically, yes — the supplemental tax is a direct obligation to the county and is separate from your regular escrow. However, there's an important exception. If you pay it directly, it won't affect your escrow because it was never part of the escrow's scope. But if you don't pay it, the county can place a lien on your property, which would be a problem.
+Caller: So I need to pay it out of pocket?
+Agent: Yes. You'll need to pay the supplemental tax bill directly to Santa Clara County Tax Collector by the due date on the bill. What's the due date shown on your bill?
+Caller: It says it's due August 31st, 2026.
+Agent: You have about two months. I'd recommend paying it as soon as possible, either online at the county tax collector's website or by mail. Getting the confirmation receipt is important.
+Caller: Will my regular escrow payment go up because of the new assessment?
+Agent: Yes. This is the escrow impact I want to prepare you for. Because your purchase triggered a higher assessed value, your regular annual property taxes going forward will be higher than the $6,200 we used to set up your initial escrow. You purchased the home for — let me look — $875,000. California's property tax rate is approximately 1.1% to 1.25% depending on special assessments. At 1.2%, your new annual tax would be approximately $10,500, compared to the $6,200 we're currently collecting.
+Caller: That's a big difference.
+Agent: It is. Your escrow is currently collecting about $516.67 per month for taxes. The corrected amount should be approximately $875.00 per month. That means your monthly payment will increase when we do our next escrow analysis, which will likely be triggered by this situation.
+Caller: By how much will my payment go up?
+Agent: The escrow portion would increase by approximately $358.33 per month — from $516.67 to $875.00. On top of that, we'll need to recover the current shortage that's building up while we're collecting the lower amount. Over the months since your March closing, you may have a shortage of a few hundred dollars.
+Caller: Can you estimate my total new payment?
+Agent: Your current total monthly payment is $5,218.00, which includes principal and interest of $4,276.00 and escrow of $942.00. The escrow currently covers taxes at $516.67 and insurance at $425.33. With the corrected tax amount, the new escrow would be approximately $1,300.33, bringing your total payment to approximately $5,576.33. That's roughly $358 more per month.
+Caller: When does that change take effect?
+Agent: We'll conduct an interim escrow analysis — which is a triggered analysis outside the normal annual cycle — once we update the tax records on your account. That can take thirty to sixty days. You'll receive a notice explaining the change before your payment increases.
+Caller: Okay. What do I need to do right now?
+Agent: Two things. First, pay the $3,841 supplemental tax bill directly to the county before August 31st. Keep your receipt. Second, send us a copy of the supplemental tax bill and the payment confirmation once you've paid it, so we can update our tax records and schedule the interim escrow analysis. You can upload documents to our portal or fax to 1-800-332-4401.
+Caller: And if I don't pay the supplemental tax — what happens?
+Agent: The county will eventually sell a tax lien certificate on your property, which can lead to serious consequences including loss of the property. We'd also receive notice and would be required to pay it on your behalf and add it to your loan balance as a corporate advance. That would trigger an even larger escrow shortage. Paying it directly and promptly is far better.
+Caller: Understood. What about my homeowner's insurance escrow — is that correct?
+Agent: Your insurance premium was set at $5,104.00 annually based on your closing documents, which divided by twelve is $425.33. Is your current policy premium close to that?
+Caller: Yes, I think so. I got a bill from my insurer and it says $5,340.
+Agent: That's slightly higher — a difference of $236 annually. That would add about $19.67 per month to your escrow. That'll also be captured in the interim analysis.
+Caller: Everything is going up.
+Agent: I know it feels that way. But these are one-time adjustments that happen in the first year of ownership, and after the supplemental tax is paid and the escrow is corrected, your payment will stabilize.
+Caller: Alright. I'll pay the supplemental tax this week and send you the receipt.
+Agent: Perfect plan. And your reference number for today's call is EA-2026-007321 if you need to reference this conversation.
+Caller: EA-2026-007321. Thank you, Rachel. This was a lot of information.
+Agent: It's a lot to absorb, but you're handling it well. Is there anything else?
+Caller: No, I think that covers it.
+Agent: Have a great day. Goodbye.
+Caller: Bye.

@@ -1,0 +1,43 @@
+Agent: Thank you for calling Northgate Mortgage Services, this is Anita. How may I help you today?
+Caller: Hi Anita. I'd like to get a printout of my loan payment history. I'm going through a divorce and my attorney needs documentation of all the mortgage payments that have been made.
+Agent: I can certainly help you with that. Let me verify your account and then I'll explain the options for obtaining your payment history. Can I get your full name?
+Caller: Brenda Schaefer.
+Agent: Thank you, Ms. Schaefer. And your loan number or property address?
+Caller: Property address is 2917 Lakeshore Avenue, Milwaukee, Wisconsin.
+Agent: And for identity verification, the last four digits of your Social Security number?
+Caller: 6628.
+Agent: And your date of birth?
+Caller: March 14, 1973.
+Agent: Thank you. One moment.
+Caller: Of course.
+Agent: Okay, I have your account. I understand you need a payment history for legal purposes. We can provide this to you in a few different formats. Let me go over your options.
+Caller: Please, yes.
+Agent: First option is downloading the payment history directly from your borrower portal online. When you log in, you can view and export a complete history of all payments made since origination, including the date received, the total amount, and how it was applied across principal, interest, and escrow. You can download that as a PDF.
+Caller: Would that have our letterhead on it or is it just a report?
+Agent: The downloaded version from the portal is formatted as an official account statement with our company name and your loan information on it, but it's not a certified letter. For legal proceedings, attorneys sometimes need a more formal document.
+Caller: My attorney mentioned she might need something more official. What are the other options?
+Agent: The second option is a formal payment history letter or account statement issued by our servicing department. This would be on official letterhead, would include a statement of account history, and can include a signature or attestation from our records department. This is more commonly accepted in legal contexts.
+Caller: That sounds like what my attorney would want. How do I request that?
+Agent: You would submit a written request. You can mail or fax the request to our customer service department, or in some cases you can submit it through the secure message function in your online account portal. The request should include your full name, loan number, the property address, your attorney's name and contact information if you want it sent directly to them, and the date range you need the history to cover.
+Caller: What date range should I request? The loan started in 2016.
+Agent: If you want the full history, request from origination date through the current date. Your loan originated in September 2016, so from September 2016 to present would capture everything.
+Caller: And how long does it take to get?
+Agent: Formal written payment histories for legal purposes typically take seven to ten business days to process and mail. If there's a court deadline, let us know the date in your request and we can flag it for expedited processing.
+Caller: My attorney doesn't have a court date yet, we're still in early stages. So ten days should be fine.
+Agent: That's good. Should the document be sent to you or directly to your attorney's office?
+Caller: I'd like it sent to me first so I can review it.
+Agent: Understood. I'll note that the request should direct the document to your mailing address on file. What address do you want it sent to?
+Caller: I'm still at the property address for now. 2917 Lakeshore Avenue.
+Agent: Got it. I've noted that. In addition to mailing the formal request, I'd also recommend downloading the payment history from the portal yourself as a backup. That way you have something to reference right away while waiting for the official document.
+Caller: Are they going to show the same information?
+Agent: Yes, they should reflect the same payment data. The formal letter just carries more official weight for legal purposes.
+Caller: Okay, I'll do both. Can I also get a current account balance statement included?
+Agent: Yes, you can request both the payment history and a current account statement together. Just include both requests in your written request letter.
+Caller: And there's no charge for this?
+Agent: There is no fee for a standard payment history request. Is there anything else I can help you with today?
+Caller: I think that's it. I'll get the written request in the mail this week. Thank you for being so thorough, Anita.
+Agent: Of course. I'm sorry to hear you're going through a difficult time, and I hope the process goes smoothly. Is there anything else I can assist with?
+Caller: No, that covers it. Thanks again.
+Agent: Thank you for calling Northgate Mortgage Services, Ms. Schaefer. Take care.
+Caller: You too. Bye.
+Agent: Goodbye.

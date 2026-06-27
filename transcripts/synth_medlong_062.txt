@@ -1,0 +1,49 @@
+Agent: Thank you for calling Clearwater Home Loans. My name is Sandra. Can I get your loan number?
+Caller: Sure, it's 4489-2201. My name is Brian Ostrowski.
+Agent: Thank you, Mr. Ostrowski. Last four of your Social and the property state?
+Caller: 5571. Property is in Wisconsin.
+Agent: Got it. I have your account. How can I help you today?
+Caller: I got a modification approval last week. I'm happy I got approved. But the rate they're offering me is 5.25% and I've been doing some research and I want to know if I can negotiate for a better rate. My neighbor got a modification at 4.875% and I think I should get something closer to that.
+Agent: That's a fair question to ask, Mr. Ostrowski, and I want to give you a complete and honest answer. Let me look at your modification offer details first. I have the approval letter from June 20, 2026. The terms offered are: interest rate of 5.25%, new loan term of 40 years, modified principal balance of $241,800, and a monthly principal and interest payment of $1,241. Currently you're paying $1,630. So the modification saves you about $389 a month. Is that what you see on your letter?
+Caller: Yes. But I want a lower rate. 5.25% still feels high.
+Agent: I understand that instinct. Let me explain how the rate in a modification is determined, because it's not a negotiation in the traditional sense — it's a formula. Do you know who owns your loan? Is it a Fannie Mae loan or a Freddie Mac loan?
+Caller: The letter says it's subject to Freddie Mac Flex Modification guidelines.
+Agent: Thank you. That means your modification was processed under the Freddie Mac Flex Modification program. Under that program, the rate is determined using a specific waterfall calculation. The servicer looks at the current Freddie Mac weekly survey rate — which for purposes of your modification would have been the rate in effect during the week your file was reviewed. The rate in your modification, 5.25%, is likely the result of that survey rate being used as the cap, combined with a term extension to 40 years to achieve a target payment reduction of 20% or more. The servicer does not set the rate arbitrarily — it's calculated output of the program formula.
+Caller: But my neighbor got 4.875%. We have similar loans.
+Agent: Without knowing your neighbor's exact situation, I can offer some explanations for why rates might differ between two modifications. First, timing: if your neighbor's modification was processed during a different week when the Freddie Mac survey rate was lower, the program rate would also be lower. Freddie Mac's survey rate changes weekly. Second, your specific financial profile affects how the waterfall calculation works. Third, the current principal balance, property value, and original note terms all feed into the calculation differently for each borrower. A rate of 4.875% might have been achievable under different inputs.
+Caller: Is there anything I can do to get a lower rate?
+Agent: Let me be direct with you. The Flex Modification program does not allow rate negotiation at the servicer level. The rate is the output of a formula run by the servicer under investor guidelines. The servicer — Clearwater — does not have discretion to offer a lower rate than what the formula produces. I cannot simply agree to a 4.875% rate because you've asked for it.
+Caller: That seems unfair. The servicer has no flexibility at all?
+Agent: Very limited flexibility, and it exists only in specific circumstances. For example, if you can demonstrate that the property valuation used in the NPV calculation was incorrect — meaning your home is worth more than our model estimated — the NPV result might shift and could potentially allow a different rate calculation. Or if there was an error in the income figures used, correcting that might change the output. But these are corrections to factual inputs, not negotiations on the rate itself.
+Caller: What was the property value they used?
+Agent: Let me look at the NPV inputs in your file. I see a property value of $298,000 used in the calculation. That's based on an automated valuation model.
+Caller: I think my house is worth more than that. I refinanced two years ago and it appraised at $318,000.
+Agent: That's a $20,000 difference and that could be relevant. If the current fair market value is closer to $318,000 than $298,000, you have grounds to request an NPV recalculation. If you have a current appraisal — within the last 12 months — or if the 2024 refinance appraisal is still relatively recent, you can submit that as supporting documentation for a recalculation.
+Caller: The 2024 appraisal is two years old. Would they still accept it?
+Agent: A two-year-old appraisal is generally not accepted as current market value evidence. However, you could obtain a current broker price opinion or pay for a new appraisal. A BPO — broker price opinion — from a licensed real estate agent or broker typically costs $100 to $150 and could support your case. A full appraisal would cost $400 to $600. If the current value confirms your home is worth more than $298,000, I'd recommend submitting it formally as an NPV input challenge.
+Caller: If I submit that and they re-run the numbers, is there a guarantee the rate goes down?
+Agent: No guarantee. The NPV recalculation changes the investor's projected recovery values, but the rate waterfall formula is what it is. A higher property value might shift the NPV result, but the rate produced by the formula might still be 5.25% depending on where your other inputs fall. The only way to know is to submit the challenge and see the result.
+Caller: Okay. What other recourse do I have?
+Agent: Outside of the NPV input challenge, you could appeal the modification offer on the basis that you believe the rate calculation was in error. Appeals must be submitted within 30 days of the offer date — your offer was dated June 20th, so you have until July 20th. The appeal would be reviewed by our modification team at a senior level. But I want to set your expectations: if the rate was correctly calculated using the formula, the appeal is unlikely to change the outcome.
+Caller: What if I just don't accept this modification and try to refinance instead?
+Agent: That's a consideration worth thinking through carefully. To refinance, you typically need to be current on your mortgage, have sufficient equity, and qualify based on your current credit profile. Given that you've been pursuing a modification — which implies you've had some financial hardship or delinquency — you may have challenges qualifying for a traditional refinance. And the modification offer typically has a deadline — if you don't sign by a certain date, the offer expires.
+Caller: What's my deadline to sign?
+Agent: Your modification agreement shows an expiration date of July 10, 2026. After that date, the offer is no longer valid and you would need to reapply.
+Caller: And if I reapply, would I potentially get a different rate?
+Agent: Potentially, because the Freddie Mac survey rate that forms the basis of the calculation changes weekly. If you reapply in a week when the survey rate is lower, the resulting modification rate could be lower. However, this is speculative and there are risks to not accepting the current offer — if your account continues accruing delinquency during a new application, your situation could worsen.
+Caller: What's the current Freddie Mac survey rate?
+Agent: I don't have access to the live Freddie Mac Primary Mortgage Market Survey in real time, but it's publicly available at freddiemac.com/pmms every Thursday. As of last week, I believe rates were in the low-to-mid 6% range for conventional loans. If that's accurate, 5.25% under Flex Modification is actually a below-market rate for you right now.
+Caller: Huh. I hadn't thought of it that way. So 5.25% is below what I could get on the open market?
+Agent: Under normal market conditions right now, yes. The modification rate reflects the investor's effort to bring your payment to a sustainable level, and 5.25% is meaningfully below what a new conventional mortgage would cost you today. Your neighbor who got 4.875% may have been modified when market rates were lower.
+Caller: So should I just take the modification?
+Agent: I can't tell you what decision to make, but I can tell you that the savings of $389 per month are real and the rate of 5.25% is below current market. If your primary goal is payment reduction and keeping your home, this modification accomplishes that. If you believe the property value input was wrong and want to pursue the NPV challenge, you can do that within your 30-day window. But I'd encourage you to weigh the certainty of the current offer against the uncertainty of the appeal or reapplication.
+Caller: Okay. I think I'm going to sign it. I just wanted to understand why I couldn't get the lower rate.
+Agent: That's a completely reasonable thing to want to understand, and I hope today's explanation was helpful. Do you need the address to return the signed agreement?
+Caller: Yes please.
+Agent: You can email the signed agreement to modifications@clearwaterhl.com or mail it to our modification processing center at 2200 Lakefront Drive, Milwaukee, Wisconsin 53202. Return it before July 10th. You'll receive a confirmation within five business days.
+Caller: Got it. Thanks, Sandra. This was really helpful.
+Agent: You're welcome, Mr. Ostrowski. Good luck with the modification. Anything else?
+Caller: No, I'm good. Thanks.
+Agent: Thank you for calling Clearwater. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

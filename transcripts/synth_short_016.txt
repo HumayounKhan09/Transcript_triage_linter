@@ -1,0 +1,40 @@
+Agent: Thank you for calling Lakemont Mortgage, this is Jennifer. How can I help you?
+Caller: Hi Jennifer. We're closing on my house next week and the title company needs a payoff statement faxed to them as soon as possible.
+Agent: Absolutely, I can get that handled for you. Let me pull up your account. Can I have your name?
+Caller: Vivian Marchetti.
+Agent: Thank you, Ms. Marchetti. And the last four of your Social Security Number?
+Caller: 3364.
+Agent: And the property address?
+Caller: 99 Chestnut Hill Drive, Hartford, Connecticut 06103.
+Agent: Great, I have your account. And the closing date?
+Caller: It's July 10th.
+Agent: I'll generate the payoff statement good through July 10th with a few extra buffer days through July 14th, in case closing runs a day or two late. That's standard for title work.
+Caller: Yes, the title officer mentioned that. The fax number is 860-555-0319. The company is Greenway Title Services, and it's attention to David Caruso.
+Agent: Let me confirm. 860-555-0319, Greenway Title Services, attention David Caruso, closing July 10th.
+Caller: That's right.
+Agent: Your payoff amount good through July 14th is $412,887.22. That includes your outstanding principal of $410,501.38 and accrued interest through that date.
+Caller: Can you give me a breakdown?
+Agent: Of course. Principal balance: $410,501.38. Accrued interest through July 14th: $2,385.84. No outstanding fees on the account. Total payoff: $412,887.22.
+Caller: Perfect. And how long before the fax goes out?
+Agent: Payoff statements are typically faxed within two business hours of the request. Since it's currently mid-morning, David should have it before end of business today.
+Caller: Is there any way to confirm it was sent?
+Agent: Yes. I'll add a note to the request. You can call back later today and any agent can confirm the fax transmission timestamp. You could also ask David at Greenway to confirm receipt.
+Caller: Okay, I'll do both. Can I also get a copy emailed to me?
+Agent: Of course. What's your email?
+Caller: Vivian.marchetti at icloud dot com.
+Agent: Got it. Vivian dot marchetti at icloud dot com. I'll include your email on the request. You'll receive the PDF copy by email as well.
+Caller: Great. Now, after the closing, how does the actual payoff funds reach you? Will the title company wire it?
+Agent: Yes. Wire transfer is the standard method for payoff funds. The payoff statement includes our wire instructions — the bank name, routing number, and account number. David's team will use those on closing day.
+Caller: And after you receive the wire, how quickly is the lien released?
+Agent: Once we confirm receipt of the payoff funds, our team initiates the lien release process, which typically takes 20 to 30 days to be recorded with the county. The title company will coordinate that recording.
+Caller: I've heard it can take a while. Good to know what to expect.
+Agent: It's a routine process. The title company has experience with it and will follow up if anything is needed.
+Caller: One more thing — is there anything I need to do between now and closing?
+Agent: Just continue making your regular payments if your closing date is after your July due date. If you close before July 1st, you wouldn't need to make a July payment as the payoff will cover interest through the closing date.
+Caller: We're closing July 10th so I'll skip the July payment then?
+Agent: Correct. Do not make your July payment if you're closing July 10th. The payoff amount already accounts for interest through that date.
+Caller: Perfect. You've been very thorough, Jennifer. Thank you.
+Agent: My pleasure. Is there anything else before I let you go?
+Caller: I think that's everything. Thank you again.
+Agent: Of course. Good luck with your closing. Goodbye, Ms. Marchetti.
+Caller: Thank you. Bye.

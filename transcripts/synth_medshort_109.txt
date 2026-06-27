@@ -1,0 +1,39 @@
+Agent: Thank you for calling Crestline Mortgage Servicing, this is Tyler. How can I help you today?
+Caller: Hi Tyler, this is Ray Dominguez. I'm trying to refinance my condo unit and the new lender is asking for something called a condo association certificate or condo questionnaire and I don't even know what that is or who fills it out.
+Agent: Hi Mr. Dominguez, I can help clarify this. Let me pull up your account first. Can I get your loan number?
+Caller: 2267-9914.
+Agent: And the property address?
+Caller: Unit 4B, 1100 Harbor View Drive, Tampa, Florida, 33602.
+Agent: And last four of your Social?
+Caller: 0037.
+Agent: Got it, I've verified your account. So a condo project questionnaire or condo certification is a document your new lender needs to confirm that the condo association and the overall project meet their lending guidelines. It's not something you fill out — it's filled out by your homeowners association or their management company.
+Caller: So I need to contact my HOA?
+Agent: Yes. You'd reach out to your condo association or the property management company that manages the building, let them know you're refinancing, and request that they complete the condo project questionnaire for your new lender.
+Caller: Will they charge for that?
+Agent: Often yes. Many associations charge a fee to complete these questionnaires — it can range from $100 to $400 or more depending on the association. It's considered a borrower expense.
+Caller: Seriously? I have to pay for that?
+Agent: Unfortunately yes, it's fairly standard. The association has to compile financial information, insurance details, and project data, so they charge for the administrative work.
+Caller: What information does it actually ask for?
+Agent: It covers a range of things about the condo project's overall health. Things like the percentage of units that are owner-occupied versus rented, whether there are any pending or active litigation matters involving the association, the adequacy of the association's reserves, whether the master insurance policy meets coverage requirements, the number of units in the project, and whether any single entity owns more than a certain percentage of the units.
+Caller: Why does the lender care about all that?
+Agent: Because the lender is making a loan on a unit within a larger project, and the financial health of the whole project affects the value and marketability of your individual unit. If the association has depleted reserves and can't afford major repairs, or if there's active litigation, or if one investor owns a large portion of units, those are risk factors for the lender.
+Caller: What if the association doesn't pass the questionnaire?
+Agent: That's called a non-warrantable condo. If the project doesn't meet Fannie Mae or Freddie Mac guidelines — or FHA or VA guidelines if you're doing a government loan — the new lender may not be able to do the loan at all through standard channels. They might be able to do a portfolio loan, which is kept in-house rather than sold on the secondary market, but those often have higher rates.
+Caller: That sounds scary. Do you know if our building would pass?
+Agent: I don't have access to your association's financial data, but I can tell you what some common flags are. High investor concentration — meaning too many rental units — is a big one. Florida has also had issues post-Surfside with structural reserve requirements, and lenders have tightened up significantly on condo projects in Florida.
+Caller: You mentioned Surfside — is that the building that collapsed?
+Agent: Yes. After that tragedy, Fannie Mae and Freddie Mac implemented enhanced condo review requirements specifically addressing structural integrity and reserve funding. Florida also passed legislation requiring inspections for older buildings. This has made Florida condo financing more complicated in recent years.
+Caller: Our building is from 1987. Does that matter?
+Agent: Potentially yes. Buildings over twenty-five or thirty years old may trigger additional scrutiny. If the building hasn't had a recent structural inspection or engineering study, some lenders may require one as a condition. Your new lender's condo review department would determine what's required for your specific building.
+Caller: This is getting more complicated than I expected.
+Agent: It can be. I'd suggest being proactive — contact your HOA management company today to let them know you need the questionnaire completed. Some lenders provide their own form and some have standardized forms. You'll need to get the specific form from your new lender to give to the association.
+Caller: Does your company have a form on file from when we got our original loan?
+Agent: We may. Let me look at your origination documents. I do see a condo project approval on file from your original closing, but that's several years old and the current lender will likely need a fresh questionnaire completed with current data.
+Caller: Can they use the old one at all?
+Agent: Some lenders accept recent questionnaires if they're within a certain timeframe — often ninety days or six months. A questionnaire from several years ago would not be usable, but it might give you a template of the information you'll need to gather.
+Caller: Okay. So my next step is to call the HOA management company and give them the new lender's questionnaire form?
+Agent: Exactly. Get the form from your new lender, contact your HOA management company, ask about their fee and turnaround time, and get it submitted as early as possible because it can sometimes take two to four weeks for a response.
+Caller: Alright. That's very clear. Thank you, Tyler.
+Agent: Of course. Is there anything else you need today?
+Caller: No, I think I know what I need to do now. Thanks again.
+Agent: Good luck with the refinance. Have a great day, Mr. Dominguez.

@@ -1,0 +1,46 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, this is Priya, how can I help you today?
+Caller: Hi, my name is Darnell Washington. I own an investment property — it's a duplex I've been renting out for six years. I've had some financial difficulties personally this past year. A family medical crisis wiped out a lot of my savings. I've been keeping the duplex mortgage current but it's been a stretch. I read somewhere that investment properties might not qualify for forbearance or other assistance. Is that true?
+Agent: Hi Darnell, that's an important and nuanced question. The short answer is that investment property loans are treated differently from primary residence loans when it comes to hardship assistance, but it's not as simple as a flat no. Let me pull up your account and then give you a complete picture. Can I get your loan number or property address?
+Caller: The investment property address is 8812 Holloway Avenue, Baltimore, Maryland, 21215. Loan number is HMS-66-441-8823.
+Agent: And for verification — last four of your Social and date of birth?
+Caller: Social ends in 2280, birthday July 7th, 1969.
+Agent: Thank you. Darnell Washington, duplex at 8812 Holloway Avenue. I have your account. Loan balance $189,300, monthly payment $1,544, 30-year fixed at 5.5%, originated in 2018. Account is current — you've been making payments on time. The property investor on this loan is Freddie Mac.
+Caller: Okay. So what can you tell me about whether forbearance is available?
+Agent: I want to give you an accurate picture. There are two main assistance programs to know about and they differ significantly for investment properties versus primary residences.
+Caller: Okay.
+Agent: First — COVID-era forbearance, which was provided under the CARES Act. That program, which was widely available through 2021, applied to federally backed loans — Fannie Mae, Freddie Mac, FHA, VA, and USDA. Importantly, that program was not limited to primary residences. It explicitly included investment properties if the loan was federally backed. However, that specific CARES Act program has wound down.
+Caller: I didn't know it covered investment properties at all.
+Agent: Many people didn't. The caveat was that for investment properties under CARES, some restrictions applied — for example, there were limits on what landlords could do with tenants during the forbearance period. Eviction moratoriums ran alongside the forbearance. But the mortgage assistance was available.
+Caller: That ship has sailed though, right?
+Agent: The CARES Act-specific program, yes. But there are other hardship assistance options we can look at, and that's what I want to walk you through. Freddie Mac, as the investor on your loan, has ongoing hardship programs that are not specific to COVID. They're based on general financial hardship.
+Caller: Okay, so what can I actually get for an investment property now?
+Agent: Here's the honest picture. For investment properties, the options are more limited than primary residences, but they're not zero. Freddie Mac's guidelines for investment properties do allow for repayment plans and in some cases modifications, but the bar for approval is higher. The key factor they look at is: is the loan on the investment property necessary for your overall financial stability? And is there a documentable hardship?
+Caller: The medical crisis — can I document that?
+Agent: Absolutely. Medical hardship is a recognized hardship type regardless of property type. What you'd need to document: your own income and expenses showing the hardship — that medical bills have depleted your reserves and strained your cash flow — and documentation of the medical situation, which could be bills, explanation of benefits statements, or a letter from a provider.
+Caller: I have all of that. It's been an expensive year. My wife had a serious surgery and the out-of-pocket was about $47,000.
+Agent: That's a substantial hardship. Now, the other factor that matters for an investment property is the rental income side. Does the duplex have tenants?
+Caller: Both units are occupied. One tenant pays $1,100, the other pays $1,050. Total rent is $2,150.
+Agent: So your rental income is $2,150 and your mortgage payment is $1,544. That gives you a gross margin of $606 before taxes, insurance, maintenance, and vacancies. From the servicer's perspective, the property is positive cash flow, which actually complicates the hardship case for that specific property — because the property itself isn't in distress.
+Caller: Right, the duplex is actually doing okay. My personal finances are the problem.
+Agent: That distinction matters a lot. When you apply for hardship assistance, we look at the totality of your financial picture — not just the investment property in isolation. Your personal hardship — the $47,000 in medical expenses — has drained your liquid reserves, which means a single unexpected event on the property could cascade into a missed payment quickly. That forward-looking vulnerability is something we can document.
+Caller: What type of assistance is actually likely to be approved for an investment property like mine?
+Agent: In your case, given that the property is cash-flowing and you're current on payments, the most realistic paths are: first, a short-term repayment plan if you do fall behind — not applicable yet since you're current. Second, what's sometimes called a loan forbearance for current borrowers — where we pause or reduce payments temporarily to give you time to rebuild reserves. For investment properties, this is less standardized than for primary residences, and approval depends on investor discretion — meaning Freddie Mac's guidelines allow it but it's not as automatic as it would be for a primary home.
+Caller: If I asked for a forbearance right now while I'm still current, would that hurt my credit?
+Agent: Entering a forbearance agreement typically does not directly hurt your credit, as long as payments are reported as current during the forbearance per the agreement terms. However, going on forbearance while current — proactively — is sometimes harder to get approved than doing so after you've experienced a documented shortfall. Some servicers prefer to see the hardship manifest in missed payments before granting relief, though we can proactively document a hardship.
+Caller: I don't want to miss payments. That's exactly what I'm trying to avoid.
+Agent: And that's commendable — proactive planning is always better. My recommendation: let's document your hardship now, on the account. I'll add notes about the medical crisis and your proactive call. And then the key question is whether your cash flow, including the rental income and your personal income, is sufficient month to month.
+Caller: My personal income is about $6,400 a month take-home. Rental income is $2,150. My wife is back at work now — she makes about $3,800 a month. Total household income is around $12,350 a month. But we have the primary home mortgage of $1,900, car payments totaling $960, and we're paying about $800 a month on the medical bills.
+Agent: So monthly outflows for housing plus the investment property: $1,900 primary plus $1,544 investment = $3,444. Add $960 cars, $800 medical payments — that's $5,204 in major obligations against $12,350 household income. Your DTI on that is about 42%. That's workable, and it suggests you may not be in as precarious a position as it feels right now.
+Caller: It feels tight because of the medical bills wiping out savings. If anything breaks on either property I don't have a cushion.
+Agent: That's a reserve concern rather than a cash flow crisis. For that specific concern, the most relevant action might actually be looking at whether you could access a home equity line of credit on your primary residence to rebuild your liquidity buffer — if you have equity there. That's separate from this investment property discussion.
+Caller: I have a lot of equity in my primary home. About $180,000 in equity.
+Agent: That's worth exploring with our HELOC team — it could give you a liquidity safety net without touching your current mortgage terms. That might actually be the best solution for your situation: don't touch the investment property loan, and instead open a flexible HELOC on your primary as an emergency fund.
+Caller: I hadn't thought of it that way. That's creative.
+Agent: Sometimes the right tool isn't forbearance — it's building the buffer so forbearance isn't needed. I'll note your account with today's conversation and the medical hardship. Is there anything else I can help you with?
+Caller: This is really helpful, Priya. I came in thinking I might need forbearance but I think I actually need a HELOC.
+Agent: You may be right. Call our HELOC team at 1-800-774-5521 and mention the equity on your primary home at — what's the primary address?
+Caller: 2201 Greenwood Terrace, Baltimore, 21204.
+Agent: Perfect. They can give you a quick eligibility check. And the investment property line stays open if you need it. Is there anything else?
+Caller: No, that's great. Thanks for the clarity.
+Agent: Of course. Have a good day, Darnell.
+Caller: You too. Goodbye.

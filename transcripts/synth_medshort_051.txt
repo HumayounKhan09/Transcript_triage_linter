@@ -1,0 +1,47 @@
+Agent: Thank you for calling Meridian Home Lending, this is Carlos speaking. How can I help you today?
+Caller: Hi Carlos, my name is Patricia Holloway. I'm calling because I want to make a payment on my mother's mortgage. She's eighty-three and she's not really comfortable on the phone anymore, so I handle most of her financial stuff.
+Agent: Of course, I'm happy to help with that. Before I can access any account information or process a payment, I do need to verify that you're authorized to act on your mother's behalf. Can you give me your mother's full legal name as it appears on the loan?
+Caller: Sure, it's Dorothy Mae Holloway.
+Agent: And the property address associated with the loan?
+Caller: It's 4412 Sycamore Lane, Tucson, Arizona, 85704.
+Agent: Thank you. And do you have the loan number handy?
+Caller: I do, yes. It's 7-7-3-4-0-2-1.
+Agent: Perfect. Now, Ms. Holloway, I do show the account, but I'm not seeing your name on file as an authorized third party. In order for me to process a payment from you or discuss account details, we'd need to have your mother add you as an authorized caller. Has she done that previously?
+Caller: No, I don't think so. We've just kind of been handling things informally. Is there a way to get that set up today?
+Agent: Absolutely. There are a couple of ways we can do this. The easiest would be if your mother is available to come on the line right now. She would just need to verbally authorize you, and we can note that on the account and set up a PIN for future calls.
+Caller: She's right here with me, actually. She's just hard of hearing but she can speak.
+Agent: That works perfectly. Could you put her on for just a moment?
+Caller: Sure, hold on. Mom? The man on the phone needs to talk to you for just a second.
+Agent: Mrs. Holloway? This is Carlos with Meridian Home Lending. I just want to confirm that you're giving your daughter Patricia permission to make payments and speak to us about your account. Is that correct?
+Caller: Yes, that's my Patricia. She takes good care of me. You can talk to her.
+Agent: Thank you so much, Mrs. Holloway. I appreciate that. Patricia, you're back with me?
+Caller: Yes, I'm here.
+Agent: Great. So we've noted the verbal authorization, and I've set up a file flag so your calls are flagged for third-party authorization. Going forward, when you call in, we'll ask for a PIN. Would you like to set that up now? It's just a four-digit number of your choosing.
+Caller: That would be great. Let's do 6-1-4-9.
+Agent: Got it, 6-1-4-9 is set. Now let's take care of that payment. What amount would you like to pay today?
+Caller: I want to pay the regular monthly amount. What's the current amount due?
+Agent: The current monthly payment is one thousand two hundred and fourteen dollars, which includes principal, interest, and the escrow portion for taxes and insurance. The due date is the first of the month, and there's currently a balance due from this month. Would you like to pay that amount?
+Caller: Yes, exactly. I want to pay the twelve fourteen.
+Agent: And how would you like to make that payment? We can take a check by phone, or I can give you the information to pay online or by mail.
+Caller: Let's do check by phone. I have her checking account information right here.
+Agent: Perfect. I'll need the routing number and the account number.
+Caller: Routing number is 1-2-2-1-0-5-0-5-5. Account number is 4-0-0-7-8-8-2-3-1-6.
+Agent: Let me read that back. Routing 1-2-2-1-0-5-0-5-5, account 4-0-0-7-8-8-2-3-1-6. Is that correct?
+Caller: That's right.
+Agent: And I'll confirm, we're processing a payment of one thousand two hundred and fourteen dollars from that account. This will be applied to the September installment on Dorothy Holloway's loan number 7-7-3-4-0-2-1. Is everything correct?
+Caller: Yes, that all looks right.
+Agent: The payment will post within one to two business days. You'll receive a confirmation number, and I'd recommend writing it down. Your confirmation number is MHL-9-9-3-4-7-7-2.
+Caller: Let me grab a pen. MHL-9-9-3-4-7-7-2. Got it.
+Agent: Perfect. Now, going forward, one thing that might make this easier for you is our online portal. I can send your mother an invitation to set up an account, and you could log in on her behalf to schedule payments, view statements, and check the account balance. Would that be helpful?
+Caller: That would actually be amazing. I live about forty minutes from her, so being able to do this from home would be a lot easier.
+Agent: Absolutely. I'll send the invitation to the email address we have on file. We have d-holloway at azmail dot net. Is that still accurate?
+Caller: That's her old one. She doesn't check it. Can we update it to my email?
+Agent: Since the account is in your mother's name, we'd technically need her written authorization to change contact information permanently. However, what I can do is add your email as a secondary contact for notifications. What's your email?
+Caller: It's p-holloway-care at gmail dot com.
+Agent: I've added that as a secondary contact. The portal invite will go to both addresses. Is there anything else I can help you with today, Patricia?
+Caller: I think that covers it. I just want to make sure her account stays current. She's been in that house for thirty-five years and I want to make sure nothing slips through the cracks.
+Agent: That's wonderful that you're looking out for her. The account is current, today's payment will post shortly, and you're set up with the authorization and PIN going forward. Don't hesitate to call back if you need anything.
+Caller: Thank you so much, Carlos. You were very patient with us.
+Agent: My pleasure entirely. You have a great day, Patricia.
+Caller: You too. Bye-bye.
+Agent: Goodbye.

@@ -1,0 +1,37 @@
+Agent: Thank you for calling Crestline Home Mortgage, this is Lisa. How can I help you today?
+Caller: Hi Lisa. I need to get my 1098 form for last year. I'm filing my taxes and my accountant is asking for the mortgage interest statement.
+Agent: Of course, I can help with that. May I have your name?
+Caller: Harold Simmons.
+Agent: Thank you, Mr. Simmons. And the last four of your Social Security Number?
+Caller: 9921.
+Agent: And your property address?
+Caller: 448 Brentwood Drive, Atlanta, Georgia 30342.
+Agent: Got it, I have your account. You're asking for your 2025 Form 1098 — the mortgage interest statement?
+Caller: Yes, exactly. That's the one.
+Agent: Okay. Form 1098s for 2025 were mailed out in January 2026 to the address we have on file. Did you receive anything at that time?
+Caller: Honestly I'm not sure. January was hectic. I might have filed it somewhere and can't find it now.
+Agent: No problem at all. I can provide you a duplicate. Would you like it mailed to you, or would you prefer to access it electronically?
+Caller: Can I get it emailed or download it?
+Agent: Yes. If you're enrolled in our online portal, you can log in and download the 1098 directly from the Documents section. If you're not enrolled or prefer, I can mail a copy.
+Caller: I do have a portal login. Let me remember — how do I find it in there?
+Agent: Once you log in, go to the Documents tab at the top. Then look for Tax Documents or Year-End Statements. Your 2025 1098 should be listed there as a PDF.
+Caller: Okay, I'll try that after this call. But just in case, can you also mail one?
+Agent: Absolutely. I'll request a duplicate mailed copy to the address on file. That's 448 Brentwood Drive, Atlanta, Georgia. Is that still correct?
+Caller: Yes, that's right.
+Agent: The duplicate 1098 will be mailed within 5 to 7 business days. Please keep in mind that depending on postal timing, it may not arrive before your filing deadline.
+Caller: When is the deadline?
+Agent: The federal tax filing deadline is typically April 15th. If you need the form quickly, I'd strongly recommend downloading it from the portal today. The portal version is the official document and acceptable for filing purposes.
+Caller: Okay, good point. I'll go online right after this call. But can you at least tell me what the numbers are? My accountant might want me to read it off.
+Agent: Of course. For the 2025 tax year, your total mortgage interest paid was $14,382.16.
+Caller: Fourteen thousand three eighty-two sixteen. Got it.
+Agent: Your points paid were zero. Refunded interest was zero. And your property taxes paid through escrow were $4,210.00.
+Caller: And that's all on the 1098?
+Agent: Yes. Box 1 shows mortgage interest of $14,382.16. Box 10 shows property taxes of $4,210.00. Box 2 shows the outstanding principal as of January 1st which was $331,940.00.
+Caller: Great. My accountant will be happy. Let me write those down. Fourteen three eighty-two sixteen for interest, four two ten for taxes.
+Agent: That's correct. And if there's any discrepancy with what appears on the form when you download it, please don't hesitate to call us.
+Caller: Will do. Thanks Lisa, you saved me a headache.
+Agent: Happy to help, Mr. Simmons. Is there anything else before I let you go?
+Caller: No, that's all. Thank you.
+Agent: Of course. Thank you for calling Crestline Home Mortgage. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

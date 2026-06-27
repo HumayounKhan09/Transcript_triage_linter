@@ -1,0 +1,37 @@
+Agent: Thank you for calling Pinnacle Mortgage, this is Kevin. How can I help you today?
+Caller: Hi. I just want to know how much is in my escrow account. Simple question.
+Agent: Absolutely, I can get that for you quickly. Can I have your name?
+Caller: Sylvia Johansson.
+Agent: Thank you, Ms. Johansson. And the last four of your Social Security Number?
+Caller: 4417.
+Agent: And the property address on the account?
+Caller: 7 Pinehurst Circle, Minneapolis, Minnesota 55401.
+Agent: Got it, I have your account right here. Your current escrow balance is $3,842.19.
+Caller: Okay. Is that normal? I never really know what it's supposed to be.
+Agent: That's a great follow-up. Your escrow account is designed to accumulate funds for your property taxes and homeowner's insurance. The required balance varies based on when those payments are due.
+Caller: When are my taxes and insurance due?
+Agent: Your property taxes are paid from escrow in December and June. Your homeowner's insurance premium renews in October. Based on that schedule, your current balance of $3,842.19 is in healthy shape heading into the summer.
+Caller: Is there a minimum balance required?
+Agent: Yes, federal regulations require servicers to maintain a cushion of up to two months of escrow payments. Your minimum required cushion is $512.30, which is two months of your monthly escrow contribution of $256.15.
+Caller: So I have way more than the minimum?
+Agent: Yes. Your balance is well above the minimum. That surplus will be reviewed at your next annual escrow analysis.
+Caller: When is that?
+Agent: Your escrow analysis is typically conducted in August each year. At that time, we project the upcoming year's tax and insurance payments and adjust your monthly payment if necessary.
+Caller: What happens if there's too much in there?
+Agent: If the analysis shows a surplus above the cushion requirement, we're required to refund anything over $50 in surplus to you by check.
+Caller: Oh interesting. So I might get a check?
+Agent: Possibly. It depends on the analysis results. If your taxes or insurance costs increase, the surplus may be absorbed by those higher payments instead.
+Caller: Has my escrow been analyzed recently?
+Agent: Your most recent analysis was completed in August 2025. At that time, there was a small shortage of $184.00 which was spread across your payments.
+Caller: That must be why my payment went up a little last fall.
+Agent: Exactly. Escrow shortages and surpluses are the most common reason for payment changes on a fixed-rate loan.
+Caller: Okay. So right now my escrow is at $3,842.19 and I'm in good shape until the analysis in August?
+Agent: Correct. No action needed on your part. We handle all the tax and insurance disbursements automatically.
+Caller: Great. Do I get notified when a payment goes out of escrow?
+Agent: Yes. When we disburse a payment from your escrow, we send a notice. You can also view all escrow activity in the payment history section of your online portal.
+Caller: Good. That's all I needed. I just like to keep tabs on it.
+Agent: Very smart. Is there anything else you'd like to know?
+Caller: No, I'm good. Thanks Kevin.
+Agent: Of course, Ms. Johansson. Thank you for calling Pinnacle Mortgage. Have a great day.
+Caller: You too. Goodbye.
+Agent: Goodbye.

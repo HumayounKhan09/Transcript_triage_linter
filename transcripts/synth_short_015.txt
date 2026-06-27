@@ -1,0 +1,39 @@
+Agent: Thank you for calling Evergreen Mortgage Services, this is Lisa. How may I help you?
+Caller: Hi Lisa. I need to send in my homeowner's insurance documents and my insurance agent told me I can fax them. Can you give me the fax number?
+Agent: Of course. Let me pull up your account first so I can direct you to the right department. May I have your name?
+Caller: Carl Pettibone.
+Agent: Thank you, Mr. Pettibone. And the last four of your Social Security Number?
+Caller: 8891.
+Agent: And your property address?
+Caller: 1628 Foxhaven Road, Kansas City, Missouri 64111.
+Agent: Got it. And what insurance documents are you sending? Is this a new policy, a renewal, or something else?
+Caller: It's a renewal. My policy renewed last month and my lender — you guys — need to be listed as the mortgage holder. My insurance agent said she'd fax the evidence of insurance directly to you.
+Agent: Perfect. Our fax number for insurance documentation is 816-555-0224. That goes directly to our insurance tracking department.
+Caller: Okay, let me give that to her. 816-555-0224?
+Agent: That's correct. And please make sure the fax includes your loan number. That helps ensure it gets matched to your account quickly.
+Caller: Do you have my loan number handy?
+Agent: Yes. Your loan number is 5590482617.
+Caller: Okay let me write that down. 5590482617?
+Agent: Correct.
+Caller: And should my insurance agent put anything specific on the cover sheet?
+Agent: A cover sheet isn't required, but it helps if she includes your full name, property address, and loan number. And the fax should contain the declarations page of the policy at minimum — that's the page that shows the coverage amounts, the insured property address, and the policy period.
+Caller: She'll know what to include. She does this regularly.
+Agent: Great. Processing time is typically one to two business days after we receive the fax.
+Caller: And what happens after you process it?
+Agent: We'll update your insurance records on file. If there were any issues — like if our name as mortgagee isn't listed correctly — we'd reach out to you or your insurance agent directly.
+Caller: What should your name be on the policy? Like, how should the mortgagee be listed?
+Agent: It should read: Evergreen Mortgage Services, its successors and assigns, P.O. Box 92100, Kansas City, Missouri 64192. Your insurance agent can add that as the mortgagee or lienholder.
+Caller: I'll make sure she has that. Actually, can I give that to you — I'll email it to her.
+Agent: Of course. The exact language is: Evergreen Mortgage Services, ISAOA, which stands for its successors and assigns, P.O. Box 92100, Kansas City, Missouri 64192. ISAOA is a standard legal abbreviation used in the insurance industry.
+Caller: Good. She'll definitely recognize that.
+Agent: Is there anything else related to the insurance or the account?
+Caller: Actually — what's my current insurance expiration date on file? Just to see if there's a gap.
+Agent: I show your prior policy expired May 31st. If your renewal is effective June 1st, there should be no gap. Once we receive the fax, we'll update the records accordingly.
+Caller: Perfect. The renewal started June 1st so we're fine.
+Agent: Great. You're all set. Fax to 816-555-0224, include loan number 5590482617, and use the mortgagee language I provided.
+Caller: Got it. Thanks a lot Lisa.
+Agent: My pleasure. Is there anything else today?
+Caller: Nope, that's it.
+Agent: Wonderful. Thank you for calling Evergreen Mortgage Services. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

@@ -1,0 +1,45 @@
+Agent: Thank you for calling Lakeview Loan Solutions. This is Fatima. Can I get your loan number?
+Caller: It's 7731-8854. Carlos Reyes.
+Agent: Thank you, Mr. Reyes. Can you verify your date of birth and the property zip code?
+Caller: Born February 19, 1977. Zip code is 85016.
+Agent: Perfect, I have your account. How can I help you today?
+Caller: Okay so I've been going through a loan modification process since February. I was almost done — I was in my trial period plan, made two of the three payments. And now I got a letter saying my loan was sold to a new servicer. I'm confused about what happens to my modification.
+Agent: Mr. Reyes, I completely understand why that would be confusing and concerning. Let me look at your account history and I'll walk you through what the transfer means for your modification. Give me just a moment.
+Caller: Sure.
+Agent: Alright. I can confirm that your loan was transferred from Lakeview Loan Solutions to a new servicer — Northern Capital Mortgage — effective June 15, 2026. And I can see your modification status. You entered a trial period plan on March 1, 2026, with trial payments of $1,287 per month due on the 1st of March, April, and May 2026. I see the March payment was received on March 1st, and the April payment received on April 3rd. That's two payments made. The May 1st payment was the final trial payment.
+Caller: I made the May payment too. I mailed it on April 28th. But everything got chaos when I got the letter about the transfer. I don't know if my May payment went to the right place.
+Agent: Let me check. I see the loan was transferred June 15th. The May payment due date was May 1st. If you mailed the payment in late April, it should have arrived before the transfer date. Let me look at the payment ledger. I can see a payment received May 2nd, 2026, for $1,287. That is recorded in our system. All three trial payments are showing as received and on time.
+Caller: Oh thank God. So the trial is complete?
+Agent: The trial period is complete in our records. You successfully made all three trial payments. That means you were eligible for the permanent modification to be generated and sent to you for signature. Let me look at whether that document was generated before the transfer.
+Caller: I never got a permanent modification offer. I was waiting for the documents.
+Agent: I see that the permanent modification agreement was in process — a final modification document was initiated in our system on May 29th, 2026. The transfer date was June 15th. So the document was being generated but I don't see a record that it was mailed or executed before the transfer. This is an important timing issue.
+Caller: Does that mean I have to start over?
+Agent: No, you should not have to start over. Under CFPB servicing regulations — Regulation X, specifically — when a loan is transferred and a loss mitigation application or modification is in process, the new servicer is required to honor the status of that process. They take over the file in whatever state it was in. Because your trial period is complete and you've met all three payment obligations, the new servicer — Northern Capital Mortgage — is obligated to continue the modification process from where we left off.
+Caller: How do I make sure they know that? How do I make sure they don't lose my file?
+Agent: That's a really important practical question. First, I'm going to document in your transfer notes right now — this call, today's date June 27, 2026 — that all three trial payments were completed, that the permanent modification was in process, and that the transfer should be made with full loss mitigation handoff documentation. Second, I'm going to generate a detailed transfer summary document that will be transmitted to Northern Capital Mortgage today. Third, I would strongly recommend you call Northern Capital Mortgage proactively and ask them to confirm receipt of your complete loss mitigation file.
+Caller: Do you have their contact information?
+Agent: Yes. Northern Capital Mortgage's customer service number is 1-855-490-3300. Your new loan number with them is NCM-2026-88221 — that's what they'll use to find your account. Call them, explain you were in a completed trial period plan with Lakeview, that all three payments were made, and ask them to confirm they have the modification file.
+Caller: What if they don't have it?
+Agent: If they say they don't have the modification file, you should request to speak with their loss mitigation department specifically. Provide them this call reference number, which I'll give you at the end of the call, and tell them that Lakeview confirmed your trial period is complete. If they dispute that, you have the right under Regulation X to request written confirmation of your loan modification status, which is essentially a form of Qualified Written Request.
+Caller: What happens if they try to make me do the trial period again?
+Agent: They cannot require you to restart the trial period if you completed it in good faith with the prior servicer. That would be a violation of your rights under Regulation X. If a new servicer attempts to disregard a completed trial period and requires you to redo it, you should file a complaint with the CFPB at consumerfinance.gov/complaint or call 1-855-411-2372. That kind of violation is taken seriously.
+Caller: Okay. What about the terms of the modification itself? I was told the rate would be 4.75% and the payment would be $1,287. Is that locked in?
+Agent: The terms of the modification, if they were agreed upon when the trial was established, should carry over. The trial payment of $1,287 you've been making is typically the permanent modification payment, so $1,287 at 4.75% should be the terms Northern Capital honors. However, until you see the actual permanent modification agreement from them, you won't have written confirmation.
+Caller: Is the rate truly locked in or can they change it?
+Agent: The rate should be locked in because it was established by the investor — the entity that owns your loan — when the modification was approved. The investor is the same entity regardless of which servicer is administering the loan. Unless the investor changed — meaning the loan was actually sold to a new investor, not just transferred to a new servicer — the modification terms are set by the investor and the new servicer has to honor them.
+Caller: Did the investor change? Or just the servicer?
+Agent: Let me check. Looking at the investor code before and after transfer — before the transfer, your loan investor was Freddie Mac. After the transfer, the loan is still showing Freddie Mac as investor. So only the servicer changed. The investor did not change. That means the modification terms approved under Freddie Mac guidelines are preserved.
+Caller: That's really reassuring. So my terms — 4.75%, $1,287 — should be honored.
+Agent: That's correct. The rate and payment are Freddie Mac program terms that the new servicer must honor. What's left is just getting the permanent modification agreement executed. Northern Capital should be sending you that document.
+Caller: Should I keep making payments while I wait for the documents? My old trial payment was May. Do I pay in June and July?
+Agent: Great question. Now that the trial is complete and the transfer has occurred, your regular modified payment of $1,287 should continue to be due monthly. Make your June payment to Northern Capital Mortgage — use your new loan number NCM-2026-88221. If you're unsure of their payment address, call them at 1-855-490-3300 before sending a check.
+Caller: I don't want to pay the wrong address.
+Agent: Very reasonable. I'd recommend calling Northern Capital first thing Monday morning, confirming your account is set up, confirming they have your modification file, and getting their payment address before making June's payment. Keep paying — don't let a payment lapse — but make sure you have the right address.
+Caller: I understand. One more thing — is there any legal obligation on the amount of time Northern Capital has to send me the modification documents?
+Agent: There isn't a specific deadline written into the regulation for issuing a modification agreement after trial completion, but CFPB rules require servicers to complete loss mitigation evaluations in a timely manner and to communicate modification determinations promptly. If 30 days goes by and you still haven't received the modification agreement from Northern Capital, follow up in writing and keep a copy.
+Caller: Alright. Fatima, you have been incredibly helpful. I feel much less panicked about this.
+Agent: I'm glad. You did everything right — you made your payments on time, you called, you asked the right questions. Let me give you your call reference number for today: LK-2026-06-9921. Use that when you call Northern Capital. Is there anything else before I let you go?
+Caller: No, I think I have everything I need. Thank you so much.
+Agent: Thank you for calling Lakeview Loan Solutions, Mr. Reyes. Good luck, and I believe the transition will go smoothly.
+Caller: I hope so. Goodbye.
+Agent: Goodbye.

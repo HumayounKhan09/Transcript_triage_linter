@@ -1,0 +1,47 @@
+Agent: Thank you for calling Redwood Mortgage Servicing, this is Maria. Can I get your loan number?
+Caller: Sure. Loan number is 865103. I'm Marcus Bell.
+Agent: Thank you, Mr. Bell. Property address and last four of Social Security?
+Caller: 3340 Cypress Run, Jacksonville, Florida. Social ends in 5529.
+Agent: Thank you, I have your account. I can see there's a balance due here. What can I help you with today?
+Caller: Yeah. I need to figure out how to catch up. I've missed three months of payments. I had some health stuff — I was in the hospital in February, missed some work, it snowballed. I'm back at work now, I'm back on my feet. I want to fix this.
+Agent: Mr. Bell, I'm glad to hear you're doing better health-wise, and I'm really glad you're calling in to address this directly. Three months behind is a serious situation but it's absolutely workable, especially since you're now employed and have income. Let me look at the full picture on your account.
+Caller: Okay.
+Agent: Your monthly payment is $1,483 — that includes principal and interest of $1,161 and escrow of $322. You've missed the April, May, and June payments. Total past due is $4,449 in principal and interest and escrow. There are also late fees that have accrued — three months at $36.83 each, totaling $110.49. So the total past-due amount we're working with is $4,559.49. Is that in line with what you understood you owed?
+Caller: Yeah, roughly. I knew it was around $4,500.
+Agent: Good. Now, before we talk about repayment plans, can I ask about your current income situation? Knowing what you bring in will help us figure out which option is realistic.
+Caller: I make about $4,200 a month take-home. I drive a truck — I'm an owner-operator, so it goes up and down a little but that's a stable average.
+Agent: Okay, $4,200 average take-home. And your regular mortgage payment will resume at $1,483, so we're working with roughly $2,717 left over for everything else after the base payment. Now let me walk you through the repayment plan options. These are plans where you continue making your regular monthly payment plus an additional amount each month to pay down the past-due balance over time.
+Caller: How many options are there?
+Agent: Typically we structure these at 6, 12, or 24 months. Let me give you the exact numbers for each. Six-month repayment plan: you'd take the $4,559.49 and divide by 6, which gives you $759.92 extra per month. Add that to your regular $1,483 and your total payment for 6 months would be $2,242.92.
+Caller: That's a lot extra.
+Agent: It is. Let me do 12 months. $4,559.49 divided by 12 is $379.96 extra per month. Total payment would be $1,862.96 for one year, after which you return to $1,483.
+Caller: That's more doable. What's the 24?
+Agent: $4,559.49 divided by 24 is $189.98 extra per month. Total payment is $1,672.98 for two years.
+Caller: Okay so the difference between 12 and 24 is about $190 a month.
+Agent: Exactly. And the difference in overall cost to you is roughly the same total — you're just paying it faster or slower. There's no interest charged on the repayment plan amount itself, so there's no financial penalty for choosing the longer plan. The main consideration is how long you want the higher-than-normal payment to last versus how much extra you can absorb each month.
+Caller: I'm thinking 12 months. I think I can do $1,862 a month. On a good trucking month I can probably even make extra payments to get ahead.
+Agent: That's a great approach. And yes — if you're ever in a position to pay more in a given month, any amount above the $1,862 goes directly toward the past-due balance and shortens the repayment period. You could potentially clear it in 9 or 10 months rather than 12.
+Caller: Can I also ask — if I have a bad month and I can only do my regular payment and not the extra, what happens?
+Agent: That's a really important question. Under the repayment plan agreement, you're expected to make both the regular payment and the repayment amount. If you make just the base payment and not the repayment amount, it's treated as a partial payment under the plan, which can put you in technical default of the plan itself. However — and this is also important — you're not going to immediately go to foreclosure over one short month. What I'd recommend is that if you're ever in a month where you can't make the full amount, you call us before the due date. We have some flexibility to note the account and work with you on that individual month.
+Caller: Okay. That's good to know.
+Agent: Now I want to make sure you understand what happens if you don't set up a repayment plan or if a plan lapses. At 90 days past due — which you're approaching very soon — accounts are typically referred to our loss mitigation department and can begin the pre-foreclosure process. Florida is a judicial foreclosure state, meaning the bank has to go through the courts, which does slow things down. But once that process starts, it's much harder and more expensive to reverse.
+Caller: I don't want to go anywhere near that. Let's do the 12-month plan.
+Agent: Good. Before I finalize this, I do need to ask one more thing. Your loan is a conventional loan owned by Freddie Mac. Freddie Mac's guidelines allow repayment plans, but for borrowers who are 90 days or more delinquent, they require us to evaluate full loss mitigation options as well — including deferral and modification. Since you're at 3 months — technically at 90 days — I want to briefly mention those so you know they exist.
+Caller: Okay, quickly, what are they?
+Agent: A deferral would move the $4,559 to the back of your loan as a non-interest-bearing balance, and you'd just resume your $1,483 payment with no extra amount. The deferred amount becomes due when you sell or pay off the loan. For someone who doesn't have the extra cash flow each month, this is often the most attractive. A modification would change your loan terms — potentially your rate, term, or both — to create a lower permanent payment.
+Caller: The deferral sounds really appealing actually. I wouldn't have to pay extra each month?
+Agent: That's right. You'd just pick up your regular $1,483 payment from July forward. The $4,559 sits at the back of the loan. When you eventually sell the house or pay it off, that amount comes off the top of your equity.
+Caller: And I can still make extra principal payments anytime I want?
+Agent: Absolutely. Any extra you pay goes to principal in the normal way. The deferred amount would still be sitting there until the loan terminates, but you can reduce the main principal balance normally.
+Caller: Honestly, the deferral might be better for me. The trucking income isn't always predictable, and not having an extra $380 every month as an obligation is more comfortable.
+Agent: That's a sound financial reasoning, Mr. Bell. Let me check your eligibility for the deferral. You're with Freddie Mac, you experienced a hardship that is resolved, you were current before the hardship — yes, your account was current through March. You meet the criteria. I can initiate a COVID-adjacent hardship deferral. Since the hospitalization qualifies as a documented hardship, this fits the deferral parameters.
+Caller: Wait, this is COVID-related? I was just in the hospital for something else.
+Agent: The deferral program for Freddie Mac covers documented hardships broadly — it doesn't have to be COVID-specific even though it originated from COVID-era policies. A medical hospitalization that caused loss of income absolutely qualifies.
+Caller: Okay. Yeah, let's do the deferral then.
+Agent: I'll initiate the deferral right now. You'll receive a written agreement within 7 to 10 business days by mail and in your portal. You'll need to sign and return it — either electronically through the portal or by mail — and once we receive the signed agreement, we process the deferral and your first resumed payment will be due August 1st.
+Caller: And between now and August 1st? Do I owe anything?
+Agent: Under the deferral agreement, the past-due period is covered by the deferral, so no — you do not make a payment during this processing period. July is essentially absorbed into the deferral. Your account will show the deferral in processing.
+Caller: Man. That's a relief. I've been stressed about this for months.
+Agent: I'm really glad we could get it sorted out today. One more thing — please sign and return that agreement promptly. The deferral isn't finalized until you do. Your reference number for today is 2281-MBL-DEF. Is there anything else?
+Caller: No. Thank you, Maria. You've been great.
+Agent: Take care of yourself, Mr. Bell. Hope business picks up. Have a good one.

@@ -1,0 +1,59 @@
+Agent: Thank you for calling Paramount Mortgage Solutions, this is Anita, how can I help you today?
+Caller: Yeah. My name is Howard Blum, loan number 3317-558-CM. I received a modification offer in the mail and I am very unhappy with what you're offering and I want to know who I need to talk to.
+Agent: Mr. Blum, I understand your concern. Let me pull up your account. Can you verify the property address and last four of your social?
+Caller: 52 Wellington Court, Naperville, Illinois. Last four 9903.
+Agent: Thank you. I have your account. You're in an active modification review, and it looks like a trial modification offer was mailed on the 8th. Can you tell me specifically what about the offer you disagree with?
+Caller: Where do I start. My current rate is 3.5 percent. The offer is increasing my rate to 5.8 percent. And they want to extend my loan to 40 years. I've been paying on this loan for twelve years. Now they want to add 40 years? And they call this "assistance"? This is worse than what I have now in terms of total cost.
+Agent: Mr. Blum, I hear you and these are legitimate concerns that deserve a serious answer. Let me look at the details of the offer. The trial modification shows a new rate of 5.875 percent, term extension to 40 years from the modification date — so effectively 40 more years — and a new proposed monthly payment of $1,380. Your current contractual payment is $1,847. Can you tell me what your current payment was before you fell behind?
+Caller: $1,847, yes. I was making that fine until I had surgery and missed eight months of work. I'm back to work now. I'm a structural engineer, I'm employed full time. But I owe six payments of arrears and I just want to get current. Why are they raising my rate?
+Agent: I need to explain the mechanics of how modification programs work, and I think that explanation will help even if it doesn't make you happy with the outcome. Your loan is a privately held loan — not Fannie Mae or Freddie Mac. The investor sets the modification parameters. The rate the investor offers is driven by what's called the Net Present Value analysis, or NPV.
+Caller: NPV. What does that mean in plain English?
+Agent: NPV is a model that calculates whether it's financially better for the investor to modify your loan or to foreclose on it. If the modified loan generates higher returns for the investor than foreclosure would, modification is approved. If not, modification may be denied or offered on different terms. The rate and term offered are not arbitrary — they're the result of that calculation. Specifically, the modification rate is often tied to current market rates, not your original rate. Your 3.5 percent rate was from when rates were very low. Current market rates are significantly higher. The modification rate of 5.875 reflects that environment.
+Caller: So because interest rates went up, they're making me pay more. Even though I had a great rate because I locked it in years ago.
+Agent: In a modification, the investor typically will not commit to below-market rates because it reduces the return on the performing loan and changes the NPV favorably toward the investor's risk. I want to be clear — this is a legitimate grievance on your part. You're not wrong that the terms are less favorable in absolute terms. The offer is designed to bring your payment to an affordable level, not to restore your original favorable terms.
+Caller: But my current payment of $1,847 was affordable. I was making it just fine for twelve years. I just had surgery. The hardship is over. Why can't I just do a repayment plan?
+Agent: That's an important question. Can I ask — how many months are you past due?
+Caller: Six months. Six payments at $1,847. That's approximately $11,082.
+Agent: With a six-month arrearage, a repayment plan is theoretically possible if your income supports the additional payment. What is your current gross monthly income?
+Caller: I'm back to full salary. $9,800 gross per month. $7,100 take-home.
+Agent: At $9,800 gross, your housing ratio on the original $1,847 payment is 18.8 percent. That is well within guidelines. And a repayment plan — $11,082 over 12 months is $923 additional per month, making a total payment of $2,770. That's 28.3 percent of gross income. Still within conventional guidelines.
+Caller: So why wasn't I offered that? Why is the only offer this modification I hate?
+Agent: Let me look more closely at the file notes. I can see there's a note from the modification review department. The investor guidelines on this loan specify that borrowers who are 180 days or more delinquent must be evaluated for modification rather than repayment plan. At six months, you would be at 180 days — are you at exactly six payment due dates?
+Caller: May, June, July, August, September, October. Yes. Six months today.
+Agent: You're right at the threshold. Let me check whether a repayment plan request could be submitted as an alternative track. I want to escalate this within the call. Can I put you on hold for a moment while I contact our modification review department?
+Caller: Yes. But I'm timing this. I've been on hold with you people before.
+Agent: I'll be as quick as I can. One moment please.
+Caller: Fine.
+Agent: Mr. Blum, thank you for your patience. I've just spoken with our modification review supervisor. Here's what I learned. First — on the repayment plan question. Because the modification offer is technically already issued, the repayment plan track is no longer being evaluated in parallel. However, the supervisor confirmed that if you reject the modification offer in writing, a repayment plan evaluation can be initiated within 30 days. That is an option you have.
+Caller: And the repayment plan would let me keep my 3.5 percent rate?
+Agent: Yes. A repayment plan does not change the rate or terms of your loan. You'd simply be paying back the arrearage over time while resuming your regular payments. The loan is not modified.
+Caller: Then why didn't anyone tell me that from the start?
+Agent: I understand your frustration and I genuinely can't give you a satisfying answer to that. The modification offer was generated automatically when your account crossed the 180-day threshold. Now, I need to give you complete information about the repayment plan so you can make an informed decision. The downside of a repayment plan versus modification: the modification would lower your payment by $467 per month — from $1,847 to $1,380. On a repayment plan you'd pay $2,770 for 12 months. That's $923 extra each month for a year, then back to $1,847. Can you sustain $2,770 for 12 months?
+Caller: At $7,100 take-home, $2,770 is tight but I can do it. I have a working spouse. Household income is over $13,000 take-home combined.
+Agent: At $13,000 combined take-home, $2,770 is 21 percent. Easily sustainable. A repayment plan makes more financial sense for you than the modification if preserving the 3.5 percent rate is your priority.
+Caller: Of course it's my priority. Let me ask you something. The modification offer says total payments over the life of the loan — have you seen what the total cost comparison looks like?
+Agent: I have the offer in front of me. It does show the total cost over 40 years at the 5.875 rate. It's approximately $662,000 in total payments. Your remaining balance is $211,000, and at 3.5 percent over the 18 years you have left, total remaining payments would be approximately $395,000.
+Caller: So the modification costs me $267,000 more in total payments over the life of the loan. And they're presenting this as help.
+Agent: You are correct that the total interest cost is dramatically higher. The modification is designed to lower the monthly payment and make it survivable in the short term, at the cost of more total interest. For borrowers who genuinely cannot make their current payment, it preserves homeownership. For you, given your income recovery, it's the wrong product.
+Caller: I want to reject the modification and request a repayment plan. I want that in writing.
+Agent: I can document that rejection request right now. You will need to send a written rejection of the modification offer — there's a form included in the offer packet — and simultaneously submit a written request for repayment plan evaluation. I'll attach a note to your file today documenting this call and your request.
+Caller: I also want to know who I file a complaint with if this isn't handled correctly. Because I've been reading about the CFPB and it sounds like they want to hear about situations like this.
+Agent: You have every right to file a complaint with the Consumer Financial Protection Bureau at consumerfinance.gov. That's a legitimate regulatory avenue and servicers are required to respond to CFPB complaints within 15 days. I want to be transparent about that. I'd also note that HUD has a housing counseling program — free HUD-approved counselors who can advocate on your behalf and review your file independently. That can be another resource.
+Caller: Let me escalate this right now. Can I speak to a supervisor?
+Agent: Absolutely. I'm going to connect you with my supervisor, Renee Jackson, who is the modification review team lead. Before I do, let me recap what's been documented in this call: you are disputing the modification offer based on rate increase and total cost, you are requesting repayment plan evaluation as an alternative, and you are aware of your CFPB complaint rights. Is that accurate?
+Caller: Yes. That's accurate.
+Agent: Please hold for one moment and I'll connect you with Renee.
+Caller: Fine.
+Agent: Mr. Blum?
+Caller: Yes.
+Agent: Renee Jackson is on the line with us. Renee, I've been speaking with Mr. Blum at loan number 3317-558-CM. He's disputed the modification offer citing rate increase from 3.5 to 5.875 and significant total cost increase. He's requesting repayment plan evaluation as an alternative. He's considering a CFPB complaint.
+Supervisor: Mr. Blum, thank you for holding. I've reviewed the notes from Anita and I want to address this directly. First — your concerns are valid. The modification terms are unfavorable compared to your original loan, and for a borrower who has recovered their income, the repayment plan is likely the better path. Here's what I can do today. I'm going to formally note the modification offer as disputed, initiate the repayment plan evaluation track, and have an offer for a 12-month repayment plan generated for your review within five business days.
+Caller: And the rate stays at 3.5 percent? Confirmed?
+Supervisor: Confirmed. A repayment plan does not alter the original loan terms. Your rate, your remaining term, none of that changes. You are simply catching up the arrears.
+Caller: Okay. And if I'm not satisfied with the repayment plan terms?
+Supervisor: You can reject the repayment plan as well and escalate to our customer advocacy team. At any point, your CFPB complaint rights are unaffected.
+Caller: All right. Five business days for the repayment plan offer. I'll be watching for it.
+Supervisor: We'll have it to you by the 27th at the latest. Is there anything else I can address today?
+Caller: No. I just want a fair resolution that doesn't cost me an extra quarter million dollars.
+Supervisor: Understood. That's a reasonable ask given your situation. We'll have the offer to you shortly. Thank you for your patience and your willingness to work through this process.
+Caller: Thank you. Both of you.

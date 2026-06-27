@@ -1,0 +1,34 @@
+Agent: Thank you for calling Lakeview Mortgage Servicing, this is Jennifer speaking. How can I help you today?
+Caller: Yeah hi. My name is Harold Nguyen. I got a letter in the mail saying my interest rate is changing and I'm pretty alarmed. I don't fully understand what I signed up for back when I got this loan.
+Agent: I completely understand, Harold. Rate adjustment notices can be surprising. Let me pull up your account and we can go through everything together. Can I get your property address and the last four of your Social?
+Caller: It's 5521 Oakdale Street, Minneapolis, Minnesota 55416. Social last four is 4492.
+Agent: Thank you. And the last four of your loan number?
+Caller: 8803.
+Agent: Got it. I've got your account here. And I can see the rate adjustment notice that would have gone out to you. So I want to start by confirming — you have what's called an adjustable-rate mortgage, or ARM. Do you recall when you took out this loan?
+Caller: Yeah it was about five years ago. The guy at the bank said the rate was fixed for five years and then it would adjust. I guess I didn't think that far ahead.
+Agent: That's actually very common. What you have is called a 5/1 ARM. The five means the rate was fixed for the first five years. The one means it can adjust once per year after that. Your fixed period has now ended, which is why you received this notice.
+Caller: Okay so what is my rate changing to exactly? The letter said something about SOFR?
+Agent: Yes. Your loan is tied to a benchmark index called SOFR, which stands for Secured Overnight Financing Rate. That's the market rate that your loan adjusts with. On top of that index, your loan has what's called a margin, which is a fixed percentage that gets added. In your case the margin is 2.5%.
+Caller: So what does the rate actually change to?
+Agent: Your current rate is 5.25%. Based on the current SOFR rate plus your 2.75% margin, your new rate will be 6.75%. That change takes effect on your July first payment.
+Caller: That's a full one and a half percent jump. How much is that going to change my payment?
+Agent: Let me look at your current payment details. Your current principal and interest payment is $1,241 per month at 5.25%. At the new rate of 6.75%, your new principal and interest payment will be approximately $1,389 per month.
+Caller: So that's about $148 more a month. That's significant.
+Agent: It is a meaningful increase. I want to make sure you understand your loan also has caps, which limit how much the rate can change at any one adjustment and over the life of the loan. Your loan has a 2% periodic cap, which means the rate can go up or down a maximum of 2% at any single adjustment. It also has a 5% lifetime cap, meaning the rate can never exceed 5% above your original start rate of 5.25%, so your maximum possible rate is 10.25%.
+Caller: That's at least somewhat comforting. So it can't just skyrocket to fifteen percent?
+Agent: That's correct. The lifetime cap protects you from extreme increases.
+Caller: Can I lock in the rate somehow? Like refinance into a fixed rate?
+Agent: That's absolutely an option and it's one a lot of ARM borrowers consider when they're approaching an adjustment. We don't originate new loans here — we only service existing ones — but you're welcome to shop around with lenders for a fixed-rate refinance. Depending on your credit and equity, you may be able to lock in a fixed rate.
+Caller: Would refinancing now make sense with current rates?
+Agent: That's really a question for a loan officer who can evaluate your full financial picture. What I can tell you is that current 30-year fixed rates are generally in a similar range to your new adjusted rate, so you'd want to weigh the closing costs of a refinance against the long-term benefit of a fixed payment.
+Caller: Fair enough. I'll talk to someone about that. Now, does the rate adjust again next year?
+Agent: Yes, with a 5/1 ARM, after the initial five-year fixed period ends, it can adjust once per year on each anniversary of your first adjustment date. Each adjustment is again based on the current SOFR index plus your 2.75% margin, subject to the 2% periodic cap.
+Caller: So if SOFR goes down next year, my rate could go down?
+Agent: Absolutely. Adjustments go both ways. If the index falls, your rate could decrease as well.
+Caller: Okay. That helps me feel a little less panicked. Is there anything I can do right now through you guys?
+Agent: At this time, no action is required on your part. The adjustment will happen automatically. Your new payment of $1,389 will be reflected starting with your July statement. If you decide to pursue a refinance elsewhere, the payoff process would go through us.
+Caller: Understood. Thanks for taking the time to walk me through all of this, Jennifer. I feel like I actually get it now.
+Agent: I'm glad it's clearer. Is there anything else I can help you with today, Harold?
+Caller: No, that's all. I appreciate it.
+Agent: Of course. Have a good day, Harold. Goodbye.
+Caller: Goodbye.

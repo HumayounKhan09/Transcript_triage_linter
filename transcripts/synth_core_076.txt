@@ -1,0 +1,38 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, this is Sandra. How can I help you today?
+Caller: Hi Sandra, my name is Patricia Okonkwo. I just closed on a condo about three weeks ago and I'm getting confused about the insurance requirements. My loan number is 4471-8820.
+Agent: Welcome, Patricia. Let me pull up your account. Give me just a moment. Okay, I see your loan here — a conventional loan on a condo unit in Scottsdale, Arizona. What's the confusion around the insurance?
+Caller: So my HOA sent me something about a master policy, and then my lender — you guys — sent me something saying I need an HO6 policy. I don't really understand why I need both or what the difference is.
+Agent: That's a really common question with condo ownership, and it's great that you're asking because these are two very different types of coverage. Let me walk you through both. The master policy is what your HOA carries. It covers the building's common areas — the roof, exterior walls, hallways, elevators, and shared amenities like a gym or pool. Your HOA dues help fund that premium.
+Caller: Okay, so that's the building itself basically?
+Agent: Exactly. Now the question is what the master policy covers inside your unit, and that depends on the type of master policy your HOA has. There are generally two kinds. One is called a bare walls-in policy, which means coverage stops at the exterior walls — everything inside your unit, like your flooring, cabinets, appliances, and fixtures, is not covered by the HOA's policy.
+Caller: And the other kind?
+Agent: The other is called an all-in or all-inclusive policy. That one extends into the unit and covers fixtures and sometimes even improvements. Some policies fall somewhere in between — they cover original fixtures but not upgrades you made.
+Caller: So how do I know which one my HOA has?
+Agent: You'd want to request a copy of the HOA's master policy declarations page. Sometimes it's in the condo documents you received at closing. The key thing to look for is called the coverage type or scope of coverage. If it says "bare walls" or "single entity," that means less interior coverage. If it says "all-in," you have more coverage from the HOA side.
+Caller: Okay. So where does the HO6 come in?
+Agent: The HO6 is a condo owner's policy that you purchase individually. It fills the gaps. It covers your personal property — your furniture, electronics, clothing. It also provides liability coverage if someone is injured in your unit. And critically for mortgage purposes, it can include what's called dwelling coverage or building property coverage, which insures improvements and betterments inside the unit.
+Caller: And the lender requires that dwelling coverage part specifically?
+Agent: Yes. Our requirement — and this is pretty standard across the industry — is that the HO6 policy must include a minimum amount of dwelling coverage. Looking at your file, the requirement is for coverage of at least twenty percent of the appraised value of your unit. Your unit appraised at two hundred forty thousand dollars, so we need at least forty-eight thousand dollars in dwelling coverage on your HO6.
+Caller: Oh, I did get an HO6 policy but I'm not sure it has that much. Let me think — I think I chose like thirty thousand.
+Agent: That might be slightly under our requirement. You'd want to contact your insurance agent and request that the dwelling coverage limit be increased to at least forty-eight thousand dollars. They can usually adjust that without issuing a whole new policy — just an endorsement.
+Caller: Will that raise my premium a lot?
+Agent: Typically not dramatically. Increasing from thirty to forty-eight thousand in dwelling coverage on an HO6 is usually a modest adjustment. Your insurance agent can give you the exact figure, but I've seen it range from fifty to a hundred fifty dollars more per year depending on the insurer and your location.
+Caller: That's not terrible. Okay. And is the HO6 premium going to be added to my escrow account?
+Agent: Let me check your escrow setup. Your loan does include an escrow account for taxes and hazard insurance. However, for condo loans, we typically escrow for the master policy through your HOA if we can, but individual HO6 policies are sometimes handled separately. Looking at your account, your HO6 premium is not currently being escrowed — you'd pay that directly to your insurer.
+Caller: Okay, that's actually fine. I just want to make sure I'm not missing a payment somewhere.
+Agent: That's smart to verify. Your HOA dues cover the master policy premium — you pay those to the HOA directly. Your HO6 you'd pay directly to your insurance company. And your escrow with us covers property taxes and, in your case, the HOA master policy assessment if it's billed separately, which I don't see a separate billing for here.
+Caller: One more question — what does the lender actually need from me documentation-wise to confirm the insurance is acceptable?
+Agent: We need a few things. From the HOA side, we need what's called an evidence of insurance certificate or a certificate of insurance showing the master policy, the coverage amount, and the insurer. Ideally it also lists the mortgage company — Horizon Mortgage Servicing — as an interested party.
+Caller: And for the HO6?
+Agent: For the HO6, we need the declarations page showing the policy number, effective dates, coverage amounts including that dwelling coverage we discussed, and again, Horizon Mortgage Servicing listed as the mortgagee or loss payee. The address to list is Horizon Mortgage Servicing, PO Box 77200, Phoenix, AZ 85062.
+Caller: Can I upload those documents somewhere or do I mail them?
+Agent: You can upload them through your online account portal at horizonmortgage.com under the Documents tab. You can also email them to insurance@horizonmortgage.com — put your loan number 4471-8820 in the subject line. Or fax to 800-555-0193 if you prefer.
+Caller: I'll probably email them. My insurance agent can send the declarations page directly, right?
+Agent: Absolutely, your insurance agent can send it on your behalf. Just make sure they reference your loan number so we can match it to your account.
+Caller: This has been really helpful. One last thing — if my HO6 coverage is under the minimum, what happens? Like will something bad happen to my loan?
+Agent: It won't immediately affect your loan, but we would send you a notice requesting that you bring the coverage up to the required minimum. If it's not corrected within a certain timeframe — usually thirty to sixty days — we have the right to force-place supplemental coverage, which is generally much more expensive than what you'd pay on your own. So it's definitely better to adjust the policy proactively.
+Caller: Got it. I'll call my insurance agent today.
+Agent: That's the right move. Is there anything else I can help you with today, Patricia?
+Caller: I think that covers everything. Thank you so much, Sandra. You explained it really clearly.
+Agent: I'm glad it helped. Thank you for calling Horizon Mortgage Servicing, and congratulations on your new condo. Have a great day.
+Caller: You too, thanks.

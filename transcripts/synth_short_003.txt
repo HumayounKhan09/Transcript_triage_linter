@@ -1,0 +1,33 @@
+Agent: Thank you for calling Keystone Mortgage, my name is Sandra. How can I help you today?
+Caller: Hi Sandra. I mailed in a payment about two weeks ago and I just want to make sure it actually posted to my account correctly.
+Agent: Of course, I can look into that for you. Can I get your full name?
+Caller: Thomas Guerrero.
+Agent: Thank you, Mr. Guerrero. And the last four of your Social?
+Caller: 5519.
+Agent: And the property address please?
+Caller: 88 Orchard Hill Road, Tucson, Arizona.
+Agent: I've got your account. You said you mailed a payment about two weeks ago?
+Caller: Yes, I mailed it on June 10th, first class mail. I was a little nervous because I usually pay online but I had some issues with my computer.
+Agent: No problem at all. Let me look at recent payment activity. I do show a payment received and posted on June 16th in the amount of $1,329.00.
+Caller: Okay, that's it. Is that the right amount?
+Agent: Your regular monthly payment is $1,329.00, yes. That payment posted correctly and was applied to your June installment.
+Caller: Great. And is there any indication it was short or anything like that?
+Agent: No sir, it was applied in full. The payment covered your principal, interest, and escrow for June. Your account shows as current with no outstanding balance due until July 1st.
+Caller: Perfect. I was just nervous because I've never mailed a check before — I always do it online.
+Agent: Completely understandable. The good news is it arrived and posted without any issues. The processing window for mailed checks is typically 7 to 10 business days from mailing, so yours came through right on time.
+Caller: And it definitely went to the right place? I used the payment coupon from my statement.
+Agent: Yes, payments submitted with your coupon go directly to our payment processing center. The coupon ensures your account number is scanned correctly. Everything looks clean on our end.
+Caller: Okay. Can you tell me the exact date it was credited? Like was it counted as a June payment?
+Agent: Yes, it was posted June 16th and applied as your June payment. Since that's before the 15th grace period cutoff, no late fee was assessed either.
+Caller: Oh good. Wait — June 16th is after the 15th though, isn't it?
+Agent: You're right, I want to clarify. The 15th is the last day to pay without a late fee. Your payment was posted on the 16th. Let me check whether a late fee was charged.
+Caller: Please, yes.
+Agent: I see no late fee was applied to your account. It appears the payment may have been received and dated the 15th internally. Either way, your account shows no fees and is in good standing.
+Caller: That's a relief. I was worried about that.
+Agent: You're all set, Mr. Guerrero. Going forward, if you prefer online payments, our portal at keystonemortgage.com is available 24 hours a day and payments post within one business day.
+Caller: Yeah, I'll go back to that. My computer situation is fixed now. I just needed to confirm this one posted.
+Agent: Glad to hear it. Is there anything else I can help you with?
+Caller: No, that's all I needed. Thanks Sandra.
+Agent: Of course, thank you for calling Keystone Mortgage. Have a great day.
+Caller: You too, bye.
+Agent: Goodbye.

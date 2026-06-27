@@ -1,0 +1,47 @@
+Agent: Thank you for calling Pathway Home Lending, this is Jennifer. How can I help you today?
+Caller: Hi Jennifer, my name is Alicia Fontaine. I purchased my home two years ago and I used a first-time homebuyer grant for part of my down payment. Now I'm receiving job offers in another city and I'm thinking about selling. Someone told me I have to pay the grant back if I sell. Is that true?
+Agent: Hi Alicia, that's an important question and the answer depends on the specific terms of your grant program. Grant is actually a term that gets used loosely — some programs use it to mean truly forgivable assistance while others call things grants that actually have repayment requirements. Let me pull up your account to look at the details.
+Caller: My loan number is 6614-2278-S.
+Agent: One moment. Okay, Alicia Fontaine, property in Charlotte, North Carolina, purchase loan originated April 2024. I see a notation about a North Carolina Housing Finance Agency — NCHFA — down payment grant in the amount of $10,500. Let me look at the terms.
+Caller: Yes, that's it. The NC Home Advantage program. I remember signing something about it but I didn't fully read all the terms at the time.
+Agent: That's understandable — there's a lot of paperwork at closing. Let me review what I have. Okay, the notation in your file indicates this was the NC Home Advantage Mortgage program, which typically provides a grant of 3 to 5 percent of the loan amount. The grant is forgiven at 20 percent per year beginning in year four, not year one.
+Caller: Wait — it's forgiven at 20 percent per year starting in year four?
+Agent: Yes. For the NC Home Advantage program, the forgiveness structure typically works like this: if you remain in the home and keep the loan in good standing for the first three years, no forgiveness occurs. Then starting in year four, 20 percent of the original grant amount is forgiven each year. By year eight, the full amount is forgiven — 100 percent. But if you sell or refinance before the eight-year forgiveness period is complete, the unforgiven portion is due at closing.
+Caller: I'm only in year two. So none of it is forgiven yet and I'd owe the full $10,500.
+Agent: Based on those terms, yes — if you sell now, you would repay the full $10,500 at closing. The forgiveness hasn't started yet because you haven't reached year four.
+Caller: I had no idea. I genuinely thought it was a gift.
+Agent: That's unfortunately a common misunderstanding, and I don't think program administrators always make the repayment conditions clear enough at closing. The good news is that when you sell, the repayment comes from your sale proceeds — you don't typically need to write a check out of pocket beforehand.
+Caller: How does that work at closing?
+Agent: Your closing attorney or title company will prepare a closing disclosure that lists all the amounts you owe. The payoff of your first mortgage would be listed, and the $10,500 repayment to NCHFA would also be listed as a separate payoff. Both amounts get paid from the sale proceeds before you receive your equity check.
+Caller: What if the sale proceeds don't cover all of it? Like what if I owe more than the home sells for?
+Agent: That would be a short sale situation. With the NCHFA grant, you'd still be obligated for the repayment. However, NCHFA and similar programs do work with borrowers in hardship situations. If you're selling at a loss, you'd want to contact NCHFA directly to understand their options. They may have procedures for hardship cases.
+Caller: My home has appreciated, so I think I have equity. I'm not worried about that. I'm more concerned about the unexpected $10,500.
+Agent: Understood. Let me put it in perspective. You received $10,500 in assistance two years ago. If your home has appreciated — do you have a sense of current value?
+Caller: I think it's worth maybe $320,000 now. I paid $295,000.
+Agent: So you've gained roughly $25,000 in appreciation. After repaying the $10,500 grant, you'd still net the remaining $14,500 in appreciation, plus you've been building equity through your mortgage payments. You're not in a bad position overall.
+Caller: That's true. It just stings because I thought it was a grant with no strings.
+Agent: The terminology is genuinely misleading for a lot of borrowers. Some programs are structured as grants that truly never need repayment. Others — like this one — use the word grant but attach it to a forgivable loan structure with time conditions. It's worth reading the original documentation carefully for the exact terms.
+Caller: Do I have the original paperwork?
+Agent: You should have received it at closing. It would be part of your closing disclosure package — look for any document specifically from NCHFA or referencing the NC Home Advantage program. If you can't find it, you can contact NCHFA directly and they can provide a payoff statement and the original terms.
+Caller: What's the NCHFA contact?
+Agent: I don't have a specific phone number in your file, but the NC Housing Finance Agency is reachable at their Charlotte or Raleigh offices. Their main website is nchfa.com and they have a servicing line for borrowers. Alternatively, your title company from the original closing can pull the lien documentation.
+Caller: Okay. Now, what if I moved out and rented the property instead of selling? Would I owe the $10,500?
+Agent: The NC Home Advantage grant terms generally require owner occupancy. Moving out and renting the property would be considered a change of occupancy, which typically triggers repayment just as a sale does. Taking a job elsewhere and renting out the home would likely trigger the obligation.
+Caller: Even if I intended to come back someday?
+Agent: Intent doesn't generally satisfy the occupancy requirement in most programs. The actual use of the property — rented versus owner-occupied — is what determines compliance. I'd strongly recommend confirming this with NCHFA directly before making any decisions, because some programs do have temporary displacement provisions for job relocations.
+Caller: There's a temporary provision?
+Agent: Some programs allow a borrower to temporarily vacate due to employment relocation and maintain the loan in good standing for a defined period — sometimes 12 months — while the property is rented, without triggering repayment. It's not universal, but it exists in some programs. NCHFA would be the authoritative source on whether your specific grant has any such provision.
+Caller: That could be very relevant to my situation. I might only be relocating for 12 to 18 months and then plan to return.
+Agent: Then absolutely call NCHFA before you make any decisions. If there's a temporary relocation provision, you might be able to rent the property, keep the grant obligation deferred, and return to the home later without triggering repayment.
+Caller: That would change everything. Let me call them.
+Agent: I'd recommend calling as soon as possible, especially since you're considering selling. NCHFA can give you the definitive answer on both the current payoff amount and whether any temporary relocation provisions apply.
+Caller: Is there anything else I should know from your side as the mortgage servicer?
+Agent: From a servicing perspective, if you do sell, we'd provide a first mortgage payoff quote. The NCHFA payoff would need to come from them separately. Your closing attorney coordinates both payoffs at settlement. Make sure the attorney knows about the second lien so they order the NCHFA payoff quote in addition to ours.
+Caller: Good to know. A lot of people don't realize there are two separate payoffs.
+Agent: Exactly. Some title companies catch it in the lien search; others might miss it if they're not looking for it. It's worth explicitly flagging it when you hire your closing attorney.
+Caller: Thank you for all of this, Jennifer. I'm going to call NCHFA today and see what my options are.
+Agent: That's the right move. I'll note in your file that you called June 27th, 2026, regarding the NCHFA grant repayment terms and potential sale or relocation scenarios. Is there anything else before I let you go?
+Caller: No, that's everything. Thank you so much.
+Agent: Of course, Alicia. Good luck with your decision. Whatever you decide, it sounds like you're being thoughtful about it.
+Caller: I appreciate that. Goodbye.
+Agent: Goodbye.

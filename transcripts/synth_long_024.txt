@@ -1,0 +1,113 @@
+Agent: Thank you for calling Regency Mortgage Servicing, this is Yuki speaking. How can I help you today?
+
+Caller: Yes, hello. My name is David Ellison. I'm an attorney and I'm calling on behalf of my client, Sandra Reyes. I need to speak with your compliance or legal department today, not a general servicing agent.
+
+Agent: Mr. Ellison, I understand. I am a senior servicing specialist with access to compliance escalation. Can you give me the account number or property address for your client?
+
+Caller: The property is 9923 Birchwood Circle, Phoenix, Arizona 85032. Loan number is 6612044. I have a signed third-party authorization from my client on file with your company, submitted June 3rd of this year.
+
+Agent: One moment, let me verify the authorization. Yes, I have it — David Ellison, Ellison Consumer Law Group, authorized as of June 3rd. What can I help you with today, Mr. Ellison?
+
+Caller: I'll be direct. I'm calling to put your company on formal notice of multiple regulatory violations I've identified in my client's account, and I expect written responses within the timeframes mandated by applicable federal regulations. I want this call logged, I want a compliance reference number, and I want to know who I'm speaking with by full name and employee ID.
+
+Agent: Understood. My name is Yuki Tanaka, employee identification number RT-4471. I'm logging this call as a compliance-sensitive matter right now. Can you walk me through the violations you're alleging?
+
+Caller: Yes. First violation: RESPA Section 6. My client submitted a qualified written request — a QWR — on April 14th of this year. Your company was required to acknowledge that request within five business days and provide a substantive response within 30 business days under 12 CFR 1024.35 and 1024.36. As of today, June 19th, my client has received no acknowledgment and no substantive response. That is 47 business days. You are significantly outside compliance.
+
+Agent: I'm pulling up the account now. I see — can you tell me how the QWR was submitted? Method of delivery?
+
+Caller: Certified mail, return receipt requested. The letter was addressed to your designated QWR address as listed on your website. The return receipt was signed by a Regency employee on April 16th. I have the postal tracking number: 9400111899223842519240.
+
+Agent: Let me search the account for any documented QWR. One moment please. I'm seeing — I'm not seeing a documented QWR intake in the system for April.
+
+Caller: That's precisely the problem and it compounds the violation. The failure to log a received QWR does not excuse the obligation to respond. The letter was received. I have proof of receipt. Regardless of your internal logging failure, the clock started April 16th.
+
+Agent: I understand your position. What was the substance of the QWR, Mr. Ellison?
+
+Caller: My client requested a complete payment history from loan origination through the date of the letter, a breakdown of all fees assessed and their basis, an explanation of three specific payment application discrepancies she identified, and the name and contact information for the current loan investor. Those are all legitimate 1024.36 information requests.
+
+Agent: And you're alleging a second violation?
+
+Caller: Yes. Second violation, also under RESPA: dual tracking. My client submitted a loss mitigation application on March 7th. Your company acknowledged it on March 22nd — 15 days, which is itself late under 1024.41(b)(2)(i) which requires acknowledgment within five business days. More critically, on April 29th while that application was under review and my client had not yet received a decision, your company sent a Notice of Intent to Foreclose. Under 12 CFR 1024.41(f), a servicer may not make the first notice or filing required for foreclosure while a complete loss mitigation application is pending.
+
+Agent: Let me check the foreclosure activity on this account. I see — yes, a notice was sent April 29th.
+
+Caller: And the loss mitigation application — what is its current status?
+
+Agent: It shows as — this is showing as pending review as of the last update, which was April 3rd. That's — I'm seeing a gap in the records here.
+
+Caller: That application was never decided. Your company sent a foreclosure notice while a pending application sat with no decision for nearly two months. That is a textbook dual tracking violation.
+
+Agent: Mr. Ellison, this is serious. I'm going to need to escalate this call immediately. I want to be transparent with you — I'm flagging this account for an immediate compliance hold on any foreclosure activity while this is reviewed. I'm also going to transfer you to my supervisor who has authority to engage our legal and compliance teams directly.
+
+Caller: Before you transfer, I want a compliance intake reference number for this call.
+
+Agent: I'm generating that now. Your reference number is COM-2024-06-19-7741. I'm going to stay on the line briefly while I bring my supervisor into this call. Please hold.
+
+Agent: Mr. Ellison, I have Supervisor Monica Chambers joining the call now.
+
+Supervisor: Mr. Ellison, this is Monica Chambers, Senior Compliance Supervisor at Regency Mortgage Servicing. I've been briefed on the nature of your call. I want to acknowledge that what you've described — if the facts as you've presented them are accurate — represents serious process failures on our part. I take this very seriously.
+
+Caller: Ms. Chambers, I appreciate that. I need to know exactly what your response protocol is and what timeframes I'm looking at for written confirmation.
+
+Supervisor: Here's what I can commit to right now. First, I'm placing an immediate administrative hold on any and all foreclosure action on account 6612044 effective this moment. That hold will remain in place until the compliance review is complete. I'm documenting that right now.
+
+Caller: Good. I need that in writing.
+
+Supervisor: You'll receive a written confirmation of the foreclosure hold by email within one business day. Do you have an email you'd like to use for formal correspondence?
+
+Caller: david at ellisonconsumerlaw.com.
+
+Supervisor: Noted. Second, regarding the QWR: we are treating today as the date we received formal notice of the April 14th QWR submission. Under RESPA we are already in violation but the appropriate remedy is to provide a complete substantive response as quickly as possible. I am assigning this to our QWR compliance team today with an expedited flag. Our goal is a substantive response within 10 business days.
+
+Caller: The regulation sets 30 from receipt. You're already 47 days out. I'd expect your expedited response to account for damages under RESPA 2605(f).
+
+Supervisor: I understand you're reserving that right, Mr. Ellison. I'm not in a position to address damages on this call, but I'm ensuring this is flagged for our legal team's awareness.
+
+Caller: Fair enough. What about the dual tracking violation? A foreclosure notice was sent while a complete application was pending.
+
+Supervisor: That is our most urgent issue. I'm pulling the loss mitigation file right now. The application submitted March 7th — I need to confirm completeness. If the application was indeed complete as of a certain date, the foreclosure notice on April 29th would be a 1024.41 violation. I want to be clear with you — we do not deny that on its face this looks like a compliance failure. I'm going to have our loss mitigation director personally review this file today.
+
+Caller: And will my client receive a written response documenting the findings?
+
+Supervisor: Yes. You'll receive a written response addressing the dual tracking question, the current status of the loss mitigation application, and the next steps. Given the seriousness, I can commit to a written response within five business days.
+
+Caller: I need that in writing as well. Are you going to make a decision on the loss mitigation application?
+
+Supervisor: I'm going to escalate that to our loss mitigation director and request a decision or a documented status within five business days. The application will not be denied without proper process and it will not be denied while foreclosure action is pending — that's guaranteed.
+
+Caller: What is the current investor on this loan? That was also requested in the QWR.
+
+Supervisor: One moment. The investor on loan 6612044 is Freddie Mac.
+
+Caller: Freddie Mac. That's significant. Freddie Mac has its own servicer obligations under their guidelines that mirror and in some cases exceed RESPA requirements. Your servicing agreement with Freddie Mac requires compliance with federal consumer protection laws as a condition of servicing.
+
+Supervisor: We're aware of our obligations to Freddie Mac, yes.
+
+Caller: I'll be notifying Freddie Mac's servicer oversight division of the potential violations as well. Their contact for servicer complaints is separate from the CFPB process and I intend to pursue both channels.
+
+Supervisor: That is your right, Mr. Ellison. I want to make clear that we are not being adversarial here. We want to resolve this correctly. If mistakes were made, we want to fix them and protect your client.
+
+Caller: My client has been living under the stress of a foreclosure notice on her home for 51 days while a modification application sat unprocessed. She has two children. She's been unable to sleep. The emotional and financial stress of this situation has been significant.
+
+Supervisor: I understand. And I want your client to know — please relay to Ms. Reyes — that her home is not in immediate jeopardy while this review is ongoing. The hold is in place as of right now.
+
+Caller: I appreciate that. I want to summarize what I need in writing: one, confirmation of the foreclosure hold; two, written acknowledgment of the QWR receipt and expected response timeline; three, written response to the dual tracking question with the compliance finding; four, a decision on the loss mitigation application. I expect these within the timeframes you've committed to: the hold and QWR acknowledgment within one business day, the dual tracking response and loss mitigation decision within five business days.
+
+Supervisor: That's accurate and I'm documenting those commitments right now. I'll also be creating a formal compliance file for this account with today's date. Your reference number is COM-2024-06-19-7741.
+
+Caller: I have that. One more thing — I want a direct contact for follow up if I don't receive the written confirmations within your committed timeframe.
+
+Supervisor: My direct line is 1-800-555-0188, extension 4417. You can also reach our compliance department directly at compliance at regencymortgage.com.
+
+Caller: Thank you, Ms. Chambers. I'll be watching for those written responses. If they're not received within the committed timeframes, I'll be filing with the CFPB and potentially pursuing RESPA Section 2605(f) damages in federal court. I don't want to do that — I'd much rather see this resolved collaboratively — but I will do it.
+
+Supervisor: Understood, Mr. Ellison. We take that seriously and we intend to meet our commitments. Thank you for bringing this to our attention directly before escalating further.
+
+Caller: That's all I needed for today. Yuki, Ms. Chambers — thank you for your time.
+
+Supervisor: Thank you, Mr. Ellison. We'll be in touch very soon.
+
+Agent: Thank you, Mr. Ellison. Have a good day.
+
+Caller: You as well. Goodbye.

@@ -1,0 +1,35 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, this is Tom. How can I help you today?
+Caller: Hi Tom, my name is Diane Kowalski. I got a letter in the mail yesterday that said you're intending to foreclose on my property, and I'm really alarmed because I have been making my payments every month. I don't understand what's happening.
+Agent: I completely understand why that would be alarming, Ms. Kowalski. Let's get to the bottom of this right away. I'll need to pull up your account — can I get your loan number or the property address?
+Caller: Sure, it's 4418 Birchwood Lane, Tempe, Arizona 85281.
+Agent: And your full name again for verification?
+Caller: Diane Lynn Kowalski.
+Agent: Perfect. And can you verify the last four digits of your Social Security number?
+Caller: 7734.
+Agent: Thank you, Ms. Kowalski. I have your account pulled up. I do see the notice of intent to foreclose was generated. Before anything else, can you tell me roughly when you've been making your payments and how you've been submitting them?
+Caller: Yes, I pay online every month, usually around the 5th or 6th. I paid October's payment on October 6th, November's on November 4th, and December's on December 5th. I have bank confirmations for all of them.
+Agent: Okay, I appreciate that detail. Let me look at the payment history on our end. I'm scrolling through right now. I can see October posted on October 8th, November posted on November 7th — both are showing applied correctly. Let me check December.
+Caller: December is the one I'm most worried about because the letter arrived just a few days ago.
+Agent: I see December's payment in our system. It does appear it was received, but it's showing as pending in our processing queue. It hasn't fully posted to your account yet. That's what triggered the automated notice — the system flagged the account when it didn't see a completed posting by the statement cycle cutoff.
+Caller: So the letter went out even though you actually have my money?
+Agent: Unfortunately, yes. The notice is generated automatically based on account status at the time of the billing cycle, and the payment came in just after that window closed. Your payment is in the system and will post fully within one to two business days.
+Caller: That is incredibly frustrating. I did everything right.
+Agent: You did, and I want to be very clear — you are not in foreclosure, and this process will not proceed. Once the December payment posts, your account will be current and that notice becomes void. I'm also going to place a note on your account documenting this conversation and the pending payment so that no further automated actions are triggered in the interim.
+Caller: Will this affect my credit? Because I worked really hard on my credit score.
+Agent: I understand your concern. Since your payment was received within the grace period and the issue is a processing delay on our end, this should not result in a delinquency being reported to the credit bureaus. However, I want to be transparent — I'd recommend calling back in three to four business days to confirm the payment has fully posted and verify no adverse reporting was initiated.
+Caller: Okay, I can do that. Should I do anything else? Should I be worried about any fees?
+Agent: I don't see any late fees assessed at this time. If one does appear after posting — which I don't anticipate — you would absolutely have grounds to dispute it and we would waive it given the circumstances. I'm noting all of that here in the account comments.
+Caller: Can I get some kind of confirmation that this call happened and what you told me?
+Agent: Yes. I'm flagging this account for a follow-up written notice to be sent to you within five to seven business days confirming the payment status and that the foreclosure notice is not active. You'll receive that at the address on file, which is the Birchwood Lane address.
+Caller: Yes, that's correct.
+Agent: Good. Is there anything else I can clarify for you today?
+Caller: I just want to make sure — so there is absolutely nothing I need to do right now? No forms to fill out, no calls to make?
+Agent: That is correct. Your payment is in queue, your account notes are updated, and I've flagged it for manual review so a team member confirms posting. You don't need to take any action. But again, I'd suggest a quick confirmation call in a few days just for your own peace of mind.
+Caller: Alright. And Tom, can I ask for you specifically when I call back?
+Agent: I appreciate that, but our call center doesn't have a direct extension system, so you'd reach whoever is available. The good news is the notes I've entered are visible to any agent, so they'll be able to see everything we discussed today.
+Caller: Okay, that makes sense. Thank you for calming me down. I was pretty panicked when I called.
+Agent: That's completely understandable, and you were right to call immediately. These kinds of notices can be alarming, but you've been diligent with your payments and your account is in good standing. Is there anything else I can help you with before we wrap up?
+Caller: No, I think that covers it. Thank you, Tom.
+Agent: Thank you, Ms. Kowalski. You have a good day and don't hesitate to call back if anything else comes up.
+Caller: Will do. Bye.
+Agent: Goodbye.

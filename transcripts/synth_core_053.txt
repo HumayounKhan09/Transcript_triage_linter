@@ -1,0 +1,44 @@
+Agent: Thank you for calling Summit Mortgage Solutions, this is James. Can I get your account number?
+Caller: It's 9901-773-44. My name is Beverly Okafor.
+Agent: Thank you, Ms. Okafor. Can you verify your Social Security last four and the property address?
+Caller: 3382, and it's 1447 Colewood Avenue, Raleigh, North Carolina 27604.
+Agent: Got your account. What can I help you with today?
+Caller: I got a letter that says something about acceleration. It says my loan has been called due. I don't even understand what that means. I'm panicking.
+Agent: I completely understand why you're concerned, and I'm glad you called in. Let me explain what that letter means and then talk about what you can do. An acceleration notice means that because the loan has been in default — meaning payments have been missed — the servicer has exercised a contractual right to declare the full remaining loan balance due and payable. Instead of owing just the past-due payments, the entire outstanding balance is technically due.
+Caller: So I owe the whole mortgage right now? That's over $200,000.
+Agent: Technically, yes — that's what acceleration means legally. But it does not mean you have to come up with $200,000 tomorrow. Acceleration is often a step in the timeline toward foreclosure, but there are options that can stop that process and bring your loan back to regular monthly payments.
+Caller: How many payments am I behind?
+Agent: Looking at your account, you're currently five payments past due. The last payment we received was November 2025. That brings your past-due amount to $9,175.00, which includes five missed payments at $1,697.50 each, plus late fees and other charges.
+Caller: Okay. So what can I do to fix this?
+Agent: The most direct option is reinstatement. Reinstatement means paying everything that's overdue — all the missed payments, late fees, any legal costs or inspection fees that have accrued — in one lump sum, which brings the loan current and stops any foreclosure action.
+Caller: I don't have that much money. Can I pay it over time?
+Agent: There is another option called a repayment plan. Under that arrangement, you'd continue making your regular monthly payment and pay an additional amount each month toward the arrears until you're fully caught up. However, once acceleration has been issued, the servicer does have some discretion about whether a repayment plan is offered, because the full balance is technically due.
+Caller: That doesn't sound good.
+Agent: I don't want to sugarcoat it — reaching the acceleration stage does limit some options, but it does not eliminate them. Many servicers, including us, will still consider a repayment plan or a loan modification even after acceleration, because foreclosure is expensive and time-consuming for everyone. Have you experienced a financial hardship that caused these missed payments?
+Caller: Yes. I lost my job last spring and it took me seven months to find something new. I started a new job in January.
+Agent: That is exactly the kind of documented hardship that can support a loss mitigation application. With your new income, you may qualify for a loan modification, which would restructure your loan — potentially reducing your interest rate, extending the term, or rolling the arrears into a new balance — and establish a new, manageable monthly payment.
+Caller: Would the acceleration be stopped if I do that?
+Agent: Yes. If you're approved for a loan modification and you make the trial payments successfully — typically three months of on-time payments at the modified amount — the loan is reinstated and the acceleration is rescinded. It essentially starts fresh.
+Caller: What's the deadline I'm working with here?
+Agent: The acceleration letter you received should state a reinstatement deadline. Can you look at the letter and tell me the date mentioned?
+Caller: It says I have until July 25th, 2026 to reinstate.
+Agent: Okay, so you have approximately four weeks from today. That's important. If no action is taken by July 25th, the account may be referred to an attorney for foreclosure proceedings. But here's the key — as long as you submit a complete loss mitigation application before that referral date, federal law requires us to pause foreclosure activity and evaluate your application.
+Caller: What's a complete application? What do I need?
+Agent: A complete application includes a hardship letter explaining why payments were missed, your two most recent pay stubs from your new job, your last two months of bank statements, your most recent tax return, and a completed borrower assistance form — which is our standard document we'll mail or email to you.
+Caller: How do I get the form?
+Agent: I'll flag your account for expedited loss mitigation outreach right now. You'll receive the application packet via email within twenty-four hours, and a hard copy in the mail within three days. Please don't wait for the mail — use the email version to save time.
+Caller: And if I can get the reinstatement amount together, is that an option too?
+Agent: Absolutely. If you can gather the funds, reinstatement is the fastest resolution. Your reinstatement amount as of today is $9,175.00. That includes five missed payments, five late charges at $84.88 each, two property inspection fees at $15.00 each, and $231.00 in legal notification fees. The total comes to $9,175.60.
+Caller: Is that amount locked in, or does it change?
+Agent: It changes daily because interest continues to accrue and if additional fees are assessed, they're added. If you decide to reinstate, call back or request a written reinstatement quote with a specific good-through date — typically a ten-day window — and we'll send that in writing so you know the exact amount required by that date.
+Caller: Who do I make a reinstatement payment to?
+Agent: Reinstatement payments at this stage are typically required via certified funds — a cashier's check or money order payable to Summit Mortgage Solutions. Wire transfer is also accepted. I'd strongly advise against sending a personal check for reinstatement at this stage, as it may not be accepted.
+Caller: Okay. I'm scared but I feel better knowing what my options are.
+Agent: That's completely understandable. The important thing is that you called in and you're taking action. Four weeks is enough time to submit a loss mitigation application, and if you can put together the reinstatement amount, that resolves it even faster. I'm noting on your account that you called today, are aware of the acceleration status, and have been informed of your options.
+Caller: Do I have a case number or reference number?
+Agent: Yes. I'm generating an outreach reference number now. That's OM-2026-009341. Use that when you call back or when you reference this conversation.
+Caller: OM-2026-009341. Thank you, James.
+Agent: Of course. Please act quickly, Ms. Okafor — time is the factor here. Is there anything else I can help with?
+Caller: No, I'm going to go find that application packet.
+Agent: Good plan. Have a good day.
+Caller: Thank you. Goodbye.

@@ -1,0 +1,37 @@
+Agent: Thank you for calling Compass Mortgage Servicing, this is Tom. How can I help you today?
+Caller: Hi Tom. I recently got married and I changed my name legally. I want to update my name on my mortgage account. What documents do I need for that?
+Agent: Congratulations on your marriage! Absolutely, we can help you with a name change. Let me verify your account first, and then I'll go over exactly what's needed. Can I get your current name on the account?
+Caller: Yes, it's currently listed as Angela Porter. My new name is Angela Harmon.
+Agent: Thank you, Ms. Porter, soon to be Ms. Harmon. And your loan number or property address?
+Caller: Property address is 219 Willowbend Lane, Charlotte, North Carolina.
+Agent: And for verification, the last four digits of your Social Security number?
+Caller: 5518.
+Agent: And your date of birth?
+Caller: April 10, 1987.
+Agent: Perfect, I've verified your identity. I have your account here. So you'd like to update the name on your mortgage account from Angela Porter to Angela Harmon due to marriage?
+Caller: That's correct.
+Agent: Great. Here's what we'll need for a name change due to marriage. First, a completed name change request form. I can send that to you by email or you can download it from our website. Second, a copy of your marriage certificate. It needs to be a certified copy, meaning it has the official seal from the county clerk or vital records office. A photocopy of an unofficial version won't be accepted.
+Caller: I have the official one. Is a certified copy the one with the raised seal?
+Agent: Yes, exactly. It will have either a raised embossed seal or sometimes a colored stamp from the issuing government office, along with a signature from the registrar or county clerk. That's the one you'll need.
+Caller: I have that. What else?
+Agent: Third, a copy of a government-issued photo ID showing your new name. A driver's license or passport with your updated name works best. If you haven't yet updated your ID, you can provide a copy of the old ID along with a note explaining it's pending, though that may slow the process.
+Caller: I just got my new driver's license last week, so I have that.
+Agent: Perfect, that makes it straightforward. So to summarize: the name change request form, your certified marriage certificate, and a copy of your updated government-issued ID.
+Caller: Got it. How do I submit all of that?
+Agent: You have several options. You can upload the documents through your online account portal under the document submission section. You can fax them to our processing team at 1-888-555-0241. Or you can mail them to our customer service address, which is Compass Mortgage Servicing, Name Change Department, P.O. Box 44100, Dallas, Texas, 75201.
+Caller: I'll probably upload them. That's the fastest?
+Agent: Generally yes. Online uploads go directly to our processing queue and are typically reviewed within five to seven business days. Mailed documents can take a few extra days to arrive and then process.
+Caller: And once it's processed, what changes? Like, what does the name change actually update?
+Agent: It updates the name on your account record, your monthly statements, and any future correspondence from us. It does not change the legal borrowers on the loan itself. Your original name will remain on the promissory note and deed of trust since those are legal documents from origination. The account name is the servicing record.
+Caller: That's fine. I'm not trying to change the legal documents, just the day-to-day account stuff.
+Agent: Understood. That's exactly what this process covers. And just to be clear, this change is at no cost to you.
+Caller: Good to know. Is there anything I should do in the meantime? Like, will statements still come addressed to Angela Porter until it's done?
+Agent: Yes, statements will continue to go out under the current name on file until the change is processed. Once complete, future statements will reflect Angela Harmon. You may also want to update your name with the county for property tax records, though that's a separate process with your county assessor.
+Caller: Oh, that's a good point. I hadn't thought about the tax records.
+Agent: Property tax records are maintained by the county, not by us, so you'd contact your Mecklenburg County assessor's office directly for that update.
+Caller: Okay. I'll take care of both. Thanks for all the detail, Tom. That was really helpful.
+Agent: Of course, and congratulations again. Is there anything else I can help you with today?
+Caller: No, I think I have everything I need. Thanks.
+Agent: Thank you for calling Compass Mortgage Servicing, Ms. Porter. Best wishes to you and your spouse. Have a great day.
+Caller: Thank you. Bye.
+Agent: Goodbye.

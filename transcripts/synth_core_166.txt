@@ -1,0 +1,46 @@
+Agent: Thank you for calling Homeward Mortgage Services, this is Robert. How can I help you today?
+Caller: Hi Robert, my name is Cassandra Tillman. My husband and I are looking at buying a fixer-upper and someone at an open house mentioned something called a 203k loan. I've never heard of it. Can you explain what it is and whether it would work for us?
+Agent: Hi Cassandra, great timing — the 203k is a fantastic program that doesn't get as much attention as it deserves. It's an FHA loan product that combines a home purchase and renovation financing into a single mortgage. Let me walk you through how it works.
+Caller: Please. Because we love the house but it needs a lot of work and we were worried about how to pay for the repairs.
+Agent: That's exactly the problem the 203k solves. With a standard purchase loan, you'd borrow based on the current as-is value of the property. The 203k lets you borrow based on the expected after-renovation value — what the home will be worth once the work is done.
+Caller: So we'd be borrowing more than the home is currently worth?
+Agent: Potentially, yes. The loan amount is based on the lesser of the purchase price plus renovation costs, or 110 percent of the after-improved appraised value. The lender orders a special appraisal that estimates what the home will be worth after all the planned renovations are complete.
+Caller: That's really different from how I thought mortgages worked.
+Agent: It is a unique program. The way it works operationally is that the renovation funds are held in an escrow account at closing. As work is completed, contractors submit draw requests, the work is inspected, and funds are released to pay the contractors. You're not given a lump sum to manage yourself.
+Caller: Who does the inspections?
+Agent: A HUD-approved consultant, often called a 203k consultant, oversees the project. They inspect the work at each draw milestone to verify it meets FHA standards before funds are released. The consultant is required for Standard 203k loans, which I'll explain in a moment.
+Caller: Are there different types?
+Agent: Yes, there are two versions. The Limited 203k — sometimes called the Streamline 203k — is for smaller projects. It allows up to $35,000 in renovation costs and covers non-structural work: roofing, HVAC, plumbing, electrical, painting, flooring, appliances. No HUD consultant required.
+Caller: What's the Standard version?
+Agent: The Standard 203k handles larger and more complex projects, including structural work — foundation repair, room additions, moving load-bearing walls, complete gut renovations. There's no maximum cost limit other than FHA loan limits, and a HUD consultant is required. The Standard version also has a minimum renovation cost — typically $5,000 — and allows up to six months of mortgage payments to be included in the renovation budget if the home is uninhabitable during construction.
+Caller: Oh that's interesting — you can finance your mortgage payments during construction?
+Agent: Yes, up to six months. So if you can't live in the home while it's being renovated, the loan can include mortgage payment reserves so you're not paying rent and a mortgage simultaneously during that period.
+Caller: The house we're looking at needs a new roof, new kitchen, new bathrooms, possibly foundation work. It sounds like we'd need the Standard 203k.
+Agent: Almost certainly. The moment you're looking at structural issues like foundation work, you're in Standard 203k territory. Also, if your total renovation budget exceeds $35,000, the Limited version wouldn't apply anyway.
+Caller: How do we estimate the renovation costs for the loan?
+Agent: Before your application, you'd get contractor bids for all the planned work. On a Standard 203k, you'll need detailed written bids from licensed contractors before closing. Some borrowers also bring in the HUD consultant early in the process to help prepare a comprehensive cost estimate called a work write-up.
+Caller: Do we need to hire the contractors before we even close?
+Agent: You need to have them identified and have bids in hand, but the work doesn't start until after closing. The contractors must be licensed, insured, and approved — they can't be a family member of the buyer. Once the loan closes, the renovation escrow is funded and work begins.
+Caller: What's the down payment requirement?
+Agent: FHA 203k requires the same 3.5 percent down payment as standard FHA loans, assuming your credit scores are 580 or above. On a lower credit score, the requirement is 10 percent. The down payment is calculated on the total loan amount — purchase price plus renovation — not just the purchase price.
+Caller: Our scores are around 690 and 705, so we'd qualify for 3.5 percent.
+Agent: Correct. For example, if the purchase price is $180,000 and your renovation budget is $75,000, the total project cost is $255,000. Three and a half percent of that is $8,925 as a minimum down payment.
+Caller: What about mortgage insurance? FHA has that, right?
+Agent: Yes. FHA loans require both an upfront mortgage insurance premium of 1.75 percent of the loan amount, which can be rolled into the loan, and an annual MIP of 0.55 percent paid monthly. On a $255,000 loan, the upfront MIP is $4,463 and the annual MIP is $1,403, or about $117 per month.
+Caller: So our actual loan amount would be around $259,463 including the upfront MIP?
+Agent: Roughly, yes. And at current FHA rates around 6.5 percent, your principal and interest payment on that amount would be approximately $1,640 per month, plus the $117 monthly MIP, for a combined payment of about $1,757 before taxes and insurance.
+Caller: That's more manageable than I expected. What are the downsides of the 203k?
+Agent: There are a few. First, it's more complex and slower to close than a standard purchase loan — typically 45 to 60 days minimum, sometimes longer. Second, there are additional fees: the HUD consultant typically costs $400 to $700, inspection fees for each draw, and title updates. These can add up to $1,000 to $2,000 in additional costs. Third, contractors may be hesitant to work with the draw structure since they're waiting on inspections for payment. Fourth, there's a contingency reserve — typically 10 to 20 percent of the renovation budget — that must be included in the loan in case costs run over. If you don't use it, it goes toward your principal.
+Caller: So if we budget $75,000 in renovation, we'd need to include up to $15,000 in contingency?
+Agent: Up to 20 percent is required on Standard 203k, so yes, $15,000 in contingency on $75,000. Your total renovation escrow would be $90,000, though unused funds reduce your balance at completion.
+Caller: This is really comprehensive. Is there anything we should do to prepare before applying?
+Agent: Get a general inspection of the property now, before you're under contract if possible, to identify all the issues. Start getting contractor bids. Find a 203k-experienced lender — not all loan officers have done these, so you want someone who knows the program well. And look for a HUD-approved 203k consultant in your area who can review the scope of work.
+Caller: Should we ask our realtor for recommendations?
+Agent: Absolutely. An experienced realtor in the fixer-upper market often has established relationships with 203k consultants and contractors who understand the draw process. It's a team effort.
+Caller: This is so helpful, Robert. I was almost ready to give up on this house because I didn't think we could afford the repairs on top of the purchase.
+Agent: A lot of great homes have been saved by the 203k program. It's one of the most underutilized tools in residential lending. Would you like to speak with one of our 203k-experienced loan officers to start the conversation?
+Caller: Yes, definitely. We're meeting with the sellers this weekend, so timing is important.
+Agent: Let me transfer you now to our purchase team and specifically flag that you need someone with 203k experience. I'll note in the record that you called on June 27th, 2026, regarding a purchase with Standard 203k renovation financing.
+Caller: Perfect. Thank you so much, Robert.
+Agent: My pleasure, Cassandra. Good luck with the house. Please hold.
+Caller: Thank you.

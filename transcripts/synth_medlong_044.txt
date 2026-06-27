@@ -1,0 +1,53 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Monique, how can I help you today?
+Caller: Hi, my name is Terrence Hadley. Loan number 1144-897-303. I'm calling because my rental income stopped and I'm not sure I can make my next mortgage payment.
+Agent: Hi Terrence. Let me pull up your account and we can talk through this. Can I verify your property address and date of birth?
+Caller: The property under the mortgage is 4409 Birdsong Lane, Indianapolis, Indiana 46205. Date of birth is June 8, 1974.
+Agent: Thank you. Got your account up. So this is your primary residence, but there's a rental unit involved?
+Caller: Yes. My house has a basement apartment. It's been rented out for six years. The rental income has been $875 a month. My mortgage is $1,688. So I've been covering over half the mortgage with the rental.
+Agent: So without the rental income, your effective housing cost roughly doubles.
+Caller: Exactly. And I work as a mechanic. I make about $3,900 a month take-home. The mortgage plus the rental income was very manageable — I was comfortable. Now the tenant stopped paying two months ago and I'm trying to figure out what to do.
+Agent: Two months of no rental income. What happened? Did the tenant leave or are they still there?
+Caller: They're still there. That's part of the problem. They stopped paying in April and claimed they had a hardship. I felt bad, gave them time. May came and went, still nothing. Now it's almost July and I've served them a pay-or-quit notice through an attorney but they haven't moved and they haven't paid.
+Agent: So you're in an active eviction situation?
+Caller: Yes. My attorney says it could take another two months to complete the eviction depending on the court calendar. So I'm looking at potentially four total months with no rental income.
+Agent: Four months at $875 is $3,500 in lost income. And you've already absorbed two of those months. Is your mortgage current?
+Caller: Yes, current through June. I've been tapping savings to cover it. I've got about $2,100 left in savings now. So I can maybe cover one more mortgage payment and that's it.
+Agent: Okay. What are your other monthly obligations outside the mortgage?
+Caller: Car payment $312. I've got a credit card minimum of $85. Utilities for the whole house including the basement — I pay everything and the tenant is supposed to reimburse me $75 a month for their share, which obviously hasn't been happening. So utilities are running me about $280 a month total. Groceries for myself, about $350.
+Agent: So outside the mortgage, you're spending about $1,027 a month on other obligations. Against $3,900 income. Without the rental income, you have about $2,873 left after other bills, and your mortgage is $1,688. That actually leaves you $1,185 — but you said you're not making it work?
+Caller: The problem is the eviction attorney. I've already paid $1,800 in legal fees and I'm expecting another $1,200 to finish the process. And there are court costs. The eviction is costing me money on top of the lost income.
+Agent: That's a meaningful variable — the legal costs are real cash out the door right now. So you've effectively spent $1,800 already and anticipate another $1,200 minimum.
+Caller: And if I can't collect back rent — which my attorney says is unlikely since they clearly don't have money — that $3,500 in lost rent is just gone.
+Agent: I understand. So this is an involuntary income loss caused by a non-paying tenant combined with unexpected legal expenses. Let me walk through what options are available.
+Caller: Please. Because I really don't want to lose this house over someone else's bad behavior.
+Agent: I completely understand the frustration of that. First — are you keeping records of everything? The missed rent, the attorney invoices, the eviction notices?
+Caller: Yes. My attorney has everything documented.
+Agent: Good. Because if you pursue small claims for the back rent after the eviction, that documentation matters. Now, for the mortgage — given your situation, you may qualify for a short-term forbearance. We'd pause or reduce your required payment for two to three months while the eviction completes. Once you have a paying tenant in place or have recovered financially, you'd address the deferred amounts.
+Caller: How does the deferred amount work?
+Agent: The most common resolution for a short forbearance is a deferral — the missed payments move to the end of your loan term as a non-interest-bearing balloon. You don't pay extra each month; those amounts just become due at the very end when you pay off the loan or sell the house.
+Caller: That would give me the breathing room I need to get through the eviction.
+Agent: Exactly. Given that your hardship is expected to be temporary — you anticipate the eviction completing in two months and plan to re-rent — a two-to-three-month forbearance is a reasonable fit.
+Caller: What are the requirements? Do I need documentation?
+Agent: For the hardship application, I'd need documentation of the rental income loss. That includes your lease agreement, evidence of the missed rent payments — like your bank statements showing no rent received in April and May — the eviction filing, and a brief hardship letter from you explaining the situation.
+Caller: I can provide all of that. My attorney can even write a letter about the eviction status.
+Agent: That would be great supporting documentation. An attorney's letter confirming the active eviction proceeding strengthens the hardship narrative considerably.
+Caller: How long does the forbearance application take?
+Agent: Once I open the formal application today — which I'm doing now — and you submit complete documents, the review takes ten to fifteen business days. I'll mark this as a time-sensitive situation given your savings runway and push for the faster end of that range.
+Caller: What's my case number?
+Agent: Case HP-2025-031702. And I'll put a comment on your account noting that you contacted us today regarding a rental income hardship so that no adverse action is taken while the application is pending.
+Caller: Good. Because I really cannot afford a late fee or a credit ding on top of everything.
+Agent: Understood. The protective notation prevents those during the review period.
+Caller: What happens after the forbearance? What do I need to do?
+Agent: At the end of the forbearance — let's say two months — we'd have a follow-up call to assess your situation. If the eviction is complete and you've re-rented or your finances have otherwise stabilized, we'd set up the deferral and you'd resume regular payments. If things haven't stabilized yet, we could discuss an extension.
+Caller: And if I can't find a new tenant quickly after the eviction?
+Agent: That's a fair question. If re-renting takes longer than expected, we'd revisit options. At that point, if your income alone is insufficient long-term, we might look at a loan modification — a permanent adjustment to your payment — but let's not jump there yet given that your situation seems likely to resolve.
+Caller: I hope so. I've already got a listing ready to post the day the tenant is out.
+Agent: Good. That's proactive. One other thing — there are sometimes local landlord assistance programs or tenant eviction reimbursement funds. Indiana may have something. I'd suggest calling 211, which is the social services helpline, or looking at the Indiana Housing and Community Development Authority. They sometimes have programs for small landlords impacted by non-paying tenants.
+Caller: I didn't know that. I'll look into it.
+Agent: No guarantees but worth checking. The document upload portal is meridianmortgage.com/hardship-upload. Reference HP-2025-031702 on everything you submit. And you'll receive an email acknowledgment today with the full document checklist.
+Caller: My email is terr.hadley74 at gmail dot com.
+Agent: Got it. Acknowledgment will go to that address. Anything else I can help with today?
+Caller: No, I think that covers it. Thank you Monique. I appreciate that you didn't make me feel stupid for this.
+Agent: You're in a difficult situation through no fault of your own. You did everything right — including calling us before you missed a payment. Take care, Terrence.
+Caller: Thank you. Goodbye.
+Agent: Goodbye.

@@ -1,0 +1,31 @@
+Agent: Thank you for calling Crestview Loan Services, this is Priya speaking. How may I assist you today?
+Caller: Hi Priya. I'm calling because I'm in a bit of a tough spot financially this month and I wanted to know if I can make a partial payment on my mortgage.
+Agent: I understand, and I appreciate you reaching out before the due date. Let me pull up your account so I can give you the most accurate information. Can I start with your full name?
+Caller: Yes, it's Daniel Ferreira.
+Agent: Thank you, Mr. Ferreira. And the loan number or property address?
+Caller: Property address is 88 Sycamore Court, Raleigh, North Carolina.
+Agent: And can you verify the last four of your Social Security number and your date of birth?
+Caller: Last four is 4429, and date of birth is September 3rd, 1979.
+Agent: Thank you, I've confirmed your identity. Let me bring up your account. One moment.
+Caller: Sure.
+Agent: Okay, I have your account here. Mr. Ferreira, I do want to be upfront with you about how partial payments work on your loan. Our servicer policy does not apply partial payments directly to your loan balance or treat them as a completed payment.
+Caller: What does that mean exactly?
+Agent: It means that if you send in an amount that is less than your full monthly payment of $1,612.44, we would hold that amount in what we call a suspense account. It sits there but doesn't count as a payment made for that month. Your account would still show as having a missed payment for the month.
+Caller: Oh, I didn't know that. So it just sits there?
+Agent: Correct. Once enough funds accumulate in the suspense account to cover a full payment, at that point it would be applied. But in the meantime, your account would reflect a late or missed payment, which could affect your credit report if it goes past 30 days.
+Caller: That's not great. Is there any other option?
+Agent: There are a couple of things I'd suggest. First, if you're experiencing a short-term financial hardship, I can transfer you to our hardship assistance team. They can review whether you qualify for any forbearance or payment deferral options that could give you some breathing room without the credit impact.
+Caller: What's a deferral mean?
+Agent: A deferral would allow you to move one or more payments to the end of your loan term. So instead of being due now, those payments would be tacked on at the end. You'd need to qualify, but it's worth exploring if this is a temporary situation.
+Caller: That actually sounds like it could help. How long does that take to figure out?
+Agent: The hardship team can often do an initial review on the same call. There may be some follow-up documentation needed depending on the program, but they can tell you right away whether you're likely to qualify.
+Caller: Okay. What if I just want to pay what I can for now? Like what happens if I pay, say, $1,000?
+Agent: As I mentioned, that $1,000 would go into the suspense account. It wouldn't be applied yet. And if the remaining $612.44 isn't received before the end of your grace period, the payment would be considered late. Late fees could also apply after the grace period, which on your account ends on the 16th of the month.
+Caller: Today's the 10th so I have a few days.
+Agent: You do have a little time. That's actually a good reason to speak with the hardship team today while there's still time to put something in place before the grace period ends.
+Caller: Alright, I think I'd like to do that. Can you transfer me?
+Agent: Absolutely. I'll transfer you over right now. Before I do, is there anything else you'd like to note for the record or any questions I can answer?
+Caller: No, I think I understand the situation now. Thank you for explaining it.
+Agent: Of course, Mr. Ferreira. I'll stay on briefly to introduce you to the next representative. Please hold for just a moment.
+Caller: Thank you, Priya.
+Agent: You're welcome. Good luck, and I hope we can get this resolved for you today.

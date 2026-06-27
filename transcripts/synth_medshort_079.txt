@@ -1,0 +1,39 @@
+Agent: Meridian Mortgage Servicing, this is Ray. How can I help you today?
+Caller: Hi Ray, my name is Anita Bustamante. I've been doing some research online and came across something called a short refinance. My house is worth a lot less than what I owe on the mortgage and I wanted to ask if that's something I might be able to do.
+Agent: Hi Ms. Bustamante, thank you for calling. I'm glad you reached out. Short refinances are a specific option that not all servicers offer, but I can explain how they generally work and look at your account situation. First, can I verify your identity?
+Caller: Sure.
+Agent: Can you give me your property address?
+Caller: It's 3318 Mesquite Road, Tucson, Arizona, 85716.
+Agent: And the last four of your Social?
+Caller: 6652.
+Agent: Date of birth?
+Caller: July 7th, 1977.
+Agent: Thank you, Ms. Bustamante. I have your account. Before I go into the details, can you tell me roughly what you think your home is worth today and what your outstanding balance is? That gives me some context.
+Caller: So I owe about $287,000 and similar houses in my neighborhood are selling for around $210,000, maybe $215,000. We bought in 2006 near the peak. Values dropped and honestly never fully recovered in our area.
+Agent: So you're underwater by roughly seventy to eighty thousand dollars. That's significant. Let me explain what a short refinance involves, because it's an unusual product. In a short refinance, the lender agrees to accept a payoff of less than what's owed, and then a new loan is created for the reduced amount. Essentially the lender takes a loss on the difference in exchange for keeping you in the home rather than going through foreclosure.
+Caller: Right, that's what I read. Is that something Meridian does?
+Agent: I want to be transparent with you — short refinances are relatively rare and depend heavily on who the investor is on your loan, not just us as the servicer. We service your loan, but the investor — the entity that actually owns the loan — has to approve any reduction in principal. Can I look at who the investor is on your loan?
+Caller: Please.
+Agent: Okay, your loan is owned by a government-sponsored entity, which limits the options significantly. GSE-backed loans — meaning Fannie Mae or Freddie Mac — have historically had very restricted short refinance options. The government did offer programs in prior years, like HARP, but those programs have ended.
+Caller: So there's just nothing?
+Agent: I wouldn't say nothing, but I want to be honest. A traditional short refinance in the classic sense isn't likely with a GSE-backed loan. However, there are still avenues worth exploring. One is a loan modification, where we could potentially adjust your rate or term to make payments more manageable. Another option, if you're in financial hardship, could be a short sale if you're looking to exit the property. And there are also some state-level programs for underwater homeowners, depending on your state.
+Caller: I'm not necessarily in financial hardship — I've been making my payments. I just hate that I'm so far underwater and feel like I'm throwing money away.
+Agent: That's an understandable frustration and one that many homeowners who bought during that period share. Being current on your payments actually makes some of the hardship-based programs unavailable to you, but it also means you're in a more stable position overall.
+Caller: Have you heard of anything called the Enhanced Relief Refinance or anything like that?
+Agent: Yes, that was a Freddie Mac program and Fannie Mae had a similar one called HIRO — the High LTV Refinance Option. Those programs were designed for borrowers with high loan-to-value ratios who were current on their loans. However, both of those programs were officially suspended. I don't want to give you false hope about programs that are no longer active.
+Caller: So what would you recommend I do?
+Agent: A few things. First, I'd strongly recommend speaking with a HUD-approved housing counselor who specializes in loss mitigation and underwater properties. They have the most current information on any available programs and can review your complete financial picture. Second, if your goal is truly to stay in the home and the payments are manageable, sometimes the answer is simply to continue building equity through payments over time — especially if values recover at all. Third, if rates are favorable, a traditional refinance could still lower your rate even if it doesn't address the principal balance, which would reduce your monthly payment.
+Caller: Could I even refinance if I owe more than it's worth?
+Agent: Generally no, traditional refinancing requires you to have equity in the property or at minimum be at or near the current value. At your current loan-to-value ratio, a standard refinance through a conventional lender would be difficult.
+Caller: This is really discouraging. I've been paying for almost twenty years and I'm still this far underwater.
+Agent: I hear you, and I'm sorry you're in that position. The 2006 peak was one of the worst times to buy in many markets, and some areas still haven't fully recovered. I don't want to give you false hope, but I also don't want to dismiss the situation. Documenting your current market value with a formal appraisal might be a useful step — sometimes assessed values underestimate actual market recovery.
+Caller: That's a thought. Could you at least look to see if there's anything on my account that I might qualify for?
+Agent: Based on what I can see, your account is current with no delinquency history, and there are no active loss mitigation cases. Given that you're current and the loan is GSE-backed, the options are genuinely limited from our end right now. But I'd encourage that HUD counselor call — they sometimes know about state-specific or newer programs that we may not have visibility into at the servicer level.
+Caller: Okay. What's the number for that?
+Agent: You can reach HUD-approved counselors at 800-569-4287 or find one at HUD.gov. Request someone who specifically handles underwater mortgages or negative equity situations.
+Caller: Alright. Thank you Ray. I'm disappointed but at least I understand the landscape better.
+Agent: I understand the disappointment. I'd rather give you accurate information than promise something that isn't available. Is there anything else I can help you with today?
+Caller: No, I think that's it.
+Agent: Thank you for calling Meridian Mortgage, Ms. Bustamante. Take care.
+Caller: Thanks. Bye.
+Agent: Goodbye.

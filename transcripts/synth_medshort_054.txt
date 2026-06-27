@@ -1,0 +1,41 @@
+Agent: Meridian Home Lending, this is Yuki. How can I assist you today?
+Caller: Hi Yuki, my name is Marcus Bellamy. I keep forgetting to make my mortgage payment until like the eighth or ninth of the month, and then I'm scrambling. I've never been late but I'm worried I will be eventually. I want to set up some kind of email reminder so I don't forget.
+Agent: That's a really smart thing to get ahead of, Marcus. We definitely have options for payment reminders. Let me pull up your account first. Can I get your loan number or property address?
+Caller: Loan number is 5-5-2-0-6-4-8. And the address is 776 Elm Creek Road, Nashville, Tennessee, 37211.
+Agent: And the last four of your Social Security number?
+Caller: 9-1-0-4.
+Agent: Got it. I have your account up, Marcus. So yes, we have a notification system through our online portal that allows you to set up email reminders for upcoming payments. Have you ever logged into the borrower portal?
+Caller: I haven't, honestly. I always just call in or mail a check.
+Agent: Okay, so there are a couple of ways to handle this. I can walk you through getting set up on the portal right now, which will give you the most control over your reminders, or I can set up a basic email notification on our end without you needing to use the portal. Which sounds better?
+Caller: Let's do the portal. I probably should be using it anyway.
+Agent: Great choice. First, what email address should we use?
+Caller: M-bellamy-nashville at gmail dot com.
+Agent: Okay. I'll send you a portal invitation to that address right now. You should receive it within about five minutes. It'll have a link to create your account and set a password.
+Caller: Good. And once I'm in there, where do I find the reminders?
+Agent: Sure, let me walk you through it. Once you log in, you'll see a dashboard with your loan summary. On the left-hand navigation menu there's an option called Notifications or Account Preferences depending on which version of the portal you see. When you click that, you'll find a section for Payment Reminders.
+Caller: Okay.
+Agent: In that section you can choose how many days before your due date you want to receive the reminder. The options are typically three days, five days, seven days, ten days, and fourteen days before the due date.
+Caller: My due date is the first of the month, right?
+Agent: That's correct. Your payment is due the first of each month, with a fifteen-day grace period before any late fee is assessed.
+Caller: Then I'd probably want a reminder around the twenty-fourth or twenty-fifth of the prior month. Is ten or fourteen days an option?
+Agent: Yes, both ten and fourteen days are available. So if you set fourteen days, you'd get a reminder around the seventeenth or eighteenth of each month. If you set ten days, it'd be around the twenty-first. You can also set multiple reminders, so you could do one at fourteen days and another at five days as a second nudge.
+Caller: Oh, I like that. A reminder that it's coming and then a second one when it's almost due.
+Agent: Exactly. A lot of our customers do that two-reminder approach and find it really effective.
+Caller: Can I also get a confirmation after the payment goes through?
+Agent: Yes, also in the notification settings. There's a section for payment confirmations. You can toggle on an email confirmation whenever a payment is successfully processed. So if you set up autopay or make a manual payment online, you'd get an email confirming the amount, the date it processed, and the confirmation number.
+Caller: What about if I'm still mailing a check? Will those show up in the portal too?
+Agent: Once a mailed payment is received and posted to your account, it will show in your payment history on the portal, yes. The portal update typically happens within one to two business days of us receiving and processing the check. The email confirmation would also trigger at that point.
+Caller: Actually, can the portal take payments directly? I'd probably switch to that if I'm already logged in anyway.
+Agent: Absolutely. You can make one-time payments through the portal using your bank account information, and you can also schedule future payments or set up recurring autopay. If you set up autopay, you'd set the payment amount and the day of the month you want it to draft, and it runs automatically.
+Caller: If I set autopay for, say, the twenty-eighth of the month, does it post on the first?
+Agent: If you schedule it to draft on the twenty-eighth, it will typically post to your mortgage account within one to two business days. So drafting on the twenty-eighth would likely post by the thirtieth, which is before the first-of-the-month due date. That timing works well.
+Caller: And the grace period is fifteen days, so even if something went wrong I'd have until the sixteenth?
+Agent: That's correct. The late fee is not assessed until after the fifteenth of the month. But based on your payment history, I don't see any concerns — you've been very consistent. You're just looking to make the process smoother for yourself.
+Caller: Exactly. No drama, just want to stop having to remember it manually.
+Agent: Makes total sense. So the invitation to set up your portal is going out now. Once you're in, set up the dual reminders, maybe at fourteen days and five days before, and consider autopay or at minimum making payments through the portal so you get those confirmations.
+Caller: That all sounds great. Is there anything else I should set up in the portal while I'm in there?
+Agent: I'd suggest reviewing your contact information to make sure the phone number and email are current, and take a look at your escrow summary and annual statement if those are available for your account. It's just good to know where everything is.
+Caller: Good tip. Thank you, Yuki. This was really helpful.
+Agent: My pleasure, Marcus. You should see that portal invite shortly. Don't hesitate to call back if you have any trouble with the setup.
+Caller: Will do. Have a good one.
+Agent: You too. Take care.

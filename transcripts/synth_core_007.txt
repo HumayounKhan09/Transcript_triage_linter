@@ -1,0 +1,50 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, this is Sandra, how may I help you today?
+Caller: Hi, yes, I had a flooding incident in my basement last month and I filed an insurance claim. My insurance company sent me a check but it's made out to both me and your company. I don't know what to do with it.
+Agent: I can definitely help you with that. This is actually a standard process for insurance claim checks when there's a mortgage on the property. Let me pull up your account. Can I get your loan number?
+Caller: Yes, it's 502918. The address is 917 Clearwater Boulevard, Louisville, Kentucky.
+Agent: And your name and last four of your Social?
+Caller: My name is Gloria Petersen and the Social ends in 8841.
+Agent: Thank you Gloria. I've got your account. And before we get into the process, can I ask — are you okay? Is the flooding damage being repaired?
+Caller: We're okay, thank you for asking. We had about four inches of water in the basement. It damaged the water heater, the furnace, the finished drywall, and some personal belongings. The insurance company approved the claim for forty-two thousand dollars.
+Agent: Oh, that's significant. I'm glad they're covering it. Now, the reason the check is made out to both you and us is because your mortgage gives us an interest in the property. If the property is significantly damaged and not repaired, that affects the collateral for our loan. So we have to be part of the process to make sure the repairs actually happen. Does that make sense?
+Caller: It makes sense, it's just inconvenient. What do I do with this check?
+Agent: The first step is to send the check to us so we can endorse it. Once we endorse it, the funds are released back to you in stages to pay your contractors.
+Caller: In stages? What does that mean?
+Agent: It means we don't typically release all forty-two thousand at once. For larger claims like yours — generally anything over ten thousand dollars — we release funds in draws as the work progresses. This protects you and us by making sure the repairs are actually being made.
+Caller: I've already hired a contractor. He wants a deposit to start work.
+Agent: Absolutely, that's normal. When we receive the check, we'll process it and set up what we call a claim file for your account. The first draw is typically released fairly quickly — often within a week of us receiving and processing the check — and it's designed to cover initial contractor deposits and material costs.
+Caller: How much is that first draw?
+Agent: Typically for a claim of this size, the initial disbursement is around one-third of the total, so roughly fourteen thousand. The remaining funds are released in subsequent draws as work milestones are completed.
+Caller: My contractor needs the full scope funded within thirty days. Will that be a problem?
+Agent: Let me explain the typical timeline. First draw within one to two weeks of receiving your check. Second draw after an inspection confirms the work is approximately fifty percent complete. Third and final draw after a final inspection confirms the work is done.
+Caller: You do inspections?
+Agent: Yes. We either send an inspector or in some cases we use photos and contractor documentation. For properties like yours where the damage is below grade — in the basement — our inspectors are usually able to schedule within seven to ten business days of a draw request.
+Caller: Okay. So realistically I could have all the money released within what, six to eight weeks?
+Agent: If the contractor moves efficiently and the work progresses well, yes. Some borrowers complete the process faster. The inspections are the main timing factor.
+Caller: What do I need to send with the check?
+Agent: Along with the endorsed check, please include a copy of your insurance company's settlement letter — the one that details what the claim is for and how the amount was calculated. We'll also need a signed contractor estimate from your contractor showing the scope of work and total cost.
+Caller: I have all of that.
+Agent: Also, the check itself — you'll endorse the back just with your signature, but do not cash or deposit it anywhere. Send it directly to us.
+Caller: Where do I send it?
+Agent: Our insurance claims department. The mailing address is: Horizon Mortgage Servicing, Insurance Claims Department, P.O. Box 77041, Dallas, Texas 75377. I'd strongly recommend sending it via certified mail or overnight shipping so you have tracking.
+Caller: Good idea. And what's the turnaround time after you receive it?
+Agent: Once we receive it, we log it, open your claim file, and process the initial endorsement within five to seven business days. You'll receive a letter confirming receipt and outlining the draw schedule.
+Caller: Can I send documents electronically?
+Agent: For the supporting documents like the settlement letter and contractor estimate, yes — you can upload those through our online portal. But the physical check has to come to us by mail. We can't process a digital image of it.
+Caller: That's frustrating but okay.
+Agent: I know, it's a bit old fashioned. It's because of the banking requirements around negotiable instruments. Once we've processed the check and set up your claim file, all subsequent communication and document submission can happen through the portal.
+Caller: Can I ask about interest? I mean, if you're holding my money, is it earning anything?
+Agent: The insurance proceeds are typically held in a non-interest-bearing custodial account. I know that's not ideal, but that's the standard practice — those funds aren't held long enough in most cases to generate meaningful interest, and the account structure is designed for pass-through of insurance proceeds.
+Caller: Fine. Is there anything that could slow this down or cause problems?
+Agent: The main things that can cause delays are incomplete documentation, contractor disputes, or if an inspection reveals the work isn't progressing. One other thing to be aware of — if your loan is delinquent at all, there may be different procedures. Let me check. Your loan is current, good. So there are no complications from that angle.
+Caller: And I assume I have to use the money for the repairs? I can't just pocket it?
+Agent: Correct. The insurance proceeds must be applied to restoring the property. We verify this through the inspection process. If a final inspection shows repairs weren't completed, we'd require an explanation and proof of what happened to the funds.
+Caller: That makes sense. I just want my basement back. Okay, I think I understand the process. Send you the check certified mail with the settlement letter and contractor estimate. Wait for your letter confirming receipt. Then first draw comes within a week or two.
+Agent: That's exactly it. And once your claim file is open, you can track the status online or call our insurance claims line directly — it's a dedicated team, not the same queue as general servicing.
+Caller: What's that number?
+Agent: It's 1-800-555-0142, option 4 for insurance claims. Let me also give you a reference number for our conversation today: INS-2024-61720.
+Caller: Perfect. INS-2024-61720. Thank you Sandra, this was very thorough.
+Agent: Of course, Gloria. I hope the repairs go smoothly. Is there anything else?
+Caller: I think that covers it. Thank you.
+Agent: You're welcome. Take care and good luck with the restoration.
+Caller: Thank you. Bye.

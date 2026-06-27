@@ -1,0 +1,47 @@
+Agent: Thank you for calling Broadstone Mortgage, supervisor line. My name is Ray. I understand this is an escalated situation. Can I get your loan number?
+Caller: 9910-4432-88. Angela Merritt. And I am absolutely furious right now. I need someone with authority.
+Agent: Ms. Merritt, I am a supervisor and I have full authority to address your concern. I'm pulling up your account now. Can you give me the last four of your Social so I can get into the file?
+Caller: 6614. The address is 7720 Sunflower Circle, Sacramento, California 95841. I live there. I am currently living in that house and someone changed my locks.
+Agent: Ms. Merritt, I want to make sure I understand you correctly. Are you saying that when you went to access your property today, the locks had been changed?
+Caller: I came home from taking my kids to school this morning and I could not get into my house. My key didn't work. There was a notice on the door from a company called Shield Property Management that said they had secured the property on behalf of Broadstone Mortgage. I have children. I have belongings in that house. I am standing in my driveway right now.
+Agent: Ms. Merritt, I am going to treat this as an emergency. What happened to you today is wrong and I want to be direct with you about that right now. Let me look at your account status. I want to understand what instruction, if any, was given to a property management company regarding your home.
+Caller: My mortgage is behind. I know that. I'm two months behind. But two months behind does not mean my house is abandoned.
+Agent: You are absolutely right. Let me look at your account. I can see your loan number and I'm in the property preservation notes. I see a property inspection was ordered last week. And I see — give me a moment — there is a winterization and lock change order in the system.
+Caller: Why? Why would anyone order that?
+Agent: I'm looking at the inspection notes. The inspection report from June 23rd, 2026 indicates — and I want to be precise here — the inspector noted "no visible signs of occupancy." That note triggered an automatic property preservation order. Ms. Merritt, were you home on June 23rd?
+Caller: I was probably at work. I work during the day. That doesn't mean I don't live there. My furniture is in that house. My children's beds are in that house.
+Agent: I believe you completely. The inspector's conclusion was incorrect. A vacant-appearing property in daylight hours does not meet the standard for an occupied property being declared vacant. An inspection that occurs during normal working hours on a weekday when occupants would reasonably be expected to be away is not a reliable indicator of vacancy. This is a serious error.
+Caller: I want to get into my house. Today. Right now. My kids get out of school at 3 PM and I need to be in my house.
+Agent: I am treating this as an emergency and I'm escalating it to our property preservation emergency line immediately. I'm going to stay on this call with you and get you a resolution before we hang up. Let me call Shield Property Management using our internal line. Can you hold for two to three minutes?
+Caller: Yes. Please hurry.
+Agent: I'm placing you on a brief hold. Do not hang up.
+Caller: Okay.
+Agent: Ms. Merritt, I'm back. I've reached Shield Property Management. I have the work order number — it's PP-2026-08812. I've told them this was an occupied property and the order was executed in error. They are dispatching a technician to your address right now. The technician will call you on your cell phone when they're five minutes away. I need your cell number.
+Caller: It's 916-554-8823.
+Agent: Technician will call 916-554-8823 and will be at 7720 Sunflower Circle within 45 to 90 minutes. They will re-key the lock to a key that works, or if they can't reverse the lock change today, they will provide you with a working key immediately. Is there anything in the house that you need urgently before then?
+Caller: I left my purse inside this morning. My wallet, my medication. I have a health condition and I take medication at noon.
+Agent: I'm calling Shield back right now and telling them this is a medical urgency. I'm also documenting this in your file as an emergency entry situation with a medical necessity notation. Give me sixty seconds.
+Caller: Thank you.
+Agent: Ms. Merritt, I've spoken with the Shield dispatcher. They are reclassifying your ticket as Priority One — medical emergency. The technician will be there within 45 minutes at the latest. If the technician is not there within 60 minutes, please call me back at the supervisor line and I'll escalate further.
+Caller: Okay. Now I want to talk about the fact that this should never have happened. My house is not abandoned. I am not dead. I want to know who is responsible for this.
+Agent: I understand and you deserve a full explanation and accountability. Here's what I know happened. Your account was flagged for property inspection after becoming two payments past due. The inspector visited on June 23rd and filed a report indicating no visible occupancy. That inspector report automatically triggered a property preservation order under our system. However, the system is supposed to have a manual review step where a supervisor confirms the vacancy before a lock change is authorized for an occupied-state property like California. I do not see evidence that manual review occurred. That is a failure.
+Caller: So a computer changed my locks?
+Agent: Effectively, yes. The automated trigger was not intercepted by a human reviewer as it should have been. That is a systems and process failure on our part and I am not going to minimize it.
+Caller: I have rights. Changing the locks on an occupied home in California — that's potentially illegal.
+Agent: You are correct that California Civil Code provides significant protections for homeowners and occupants. Changing the locks on an occupied property without proper legal process is potentially a violation of California law, separate from anything Broadstone may have done wrong under federal servicing regulations. I'm not in a position to give you legal advice, but I would encourage you to document everything — photographs of the notice on the door, times, your communication with us today, your children's school records showing you live there — and consider consulting an attorney.
+Caller: I want a formal letter from Broadstone acknowledging this was done in error and acknowledging my home is occupied.
+Agent: I am going to generate that letter today. It will be sent to your address and emailed to you within 24 hours. Can you give me your email?
+Caller: angela.merritt1981@gmail.com.
+Agent: Thank you. The letter will acknowledge that the property preservation order was executed in error, that the property is occupied, that the order was rescinded, and that access was restored. I'm also going to waive any fees associated with the property preservation order and I'm flagging your account to ensure no future property preservation orders can be executed without a manual supervisor review and borrower contact attempt first.
+Caller: What about my loan delinquency? I'm worried this is going to accelerate things.
+Agent: Your underlying delinquency is separate from today's incident. The property preservation error does not change your loan status. You are two months past due. I'd strongly encourage you to contact our loss mitigation team to discuss your options — repayment plan, forbearance, modification — but that's a separate conversation from today's emergency. Would you like me to transfer you to loss mitigation after we confirm the technician has resolved your access?
+Caller: Yes. Let's handle this first.
+Agent: Agreed. I'm going to stay on this line with you until you confirm the technician has arrived and you're back inside your home. In the meantime, I'm drafting the formal incident report and escalation notes. I want to give you an incident reference number for your records. It's escalation reference ESC-2026-06-4471.
+Caller: Got it. I'm writing that down.
+Agent: Also, Ms. Merritt — if you have any ongoing costs from this incident, such as a locksmith you called before reaching us, hotel costs, or any other out-of-pocket expenses caused by being locked out, please document those. This type of error can result in a reimbursement claim.
+Caller: I haven't had to spend anything yet. I'm just sitting in my car.
+Agent: I'm sorry you're going through this. You've handled it very well. I want you to know I take personal responsibility for making sure this is fully resolved today.
+Caller: I appreciate that. I'm getting a call on my other line — I think it might be the technician.
+Agent: Please take it. Call me back on the supervisor line if there are any issues. I'll be here.
+Caller: Okay. Thank you, Ray. I'll call back if there's a problem.
+Agent: Please do. Take care of yourself.

@@ -1,0 +1,57 @@
+Agent: Good morning, Landmark Mortgage Servicing, my name is Tom. How can I help you today?
+Caller: Hi Tom. I'm 68 years old and I've been thinking about converting my regular mortgage to a reverse mortgage. I've heard a lot about them but I don't really understand how the conversion process works. My loan is with you and I wanted to start there.
+Agent: I'd be happy to explain this in detail. Can I pull up your account? What's your loan number?
+Caller: It's 5503-89241.
+Agent: And your name and last four of Social?
+Caller: Edward Baumgartner. Social ends in 5561.
+Agent: Mr. Baumgartner, I have your account. Property at 4401 Maple Glen Road, Tucson, Arizona. Your current balance is $94,220.18 at 4.5 percent fixed, with a monthly payment of $1,088.44. Is that accurate?
+Caller: Yes, that's the one. I've owned this house 22 years. It's worth about $420,000 now.
+Agent: Wonderful. So you have significant equity, which is important for what we're about to discuss. I want to walk you through the reverse mortgage process completely.
+Caller: Please do. My financial advisor mentioned something called a HECM?
+Agent: Yes — HECM stands for Home Equity Conversion Mortgage. It's the only reverse mortgage product insured by the federal government through FHA, and it's by far the most common type. The basic concept is the reverse of a traditional mortgage: instead of you paying the lender each month, the lender can pay you — or simply eliminate your required monthly mortgage payment — and the loan balance grows over time rather than shrinking.
+Caller: And I can stay in my house?
+Agent: Yes, as long as you continue to meet the loan requirements. You must live in the home as your primary residence, maintain the property in reasonable condition, and keep current on property taxes and homeowner's insurance. Those are the three main ongoing obligations. You never have to make a mortgage payment.
+Caller: What happens to the loan? Does it eventually come due?
+Agent: Yes, the loan becomes due and payable when certain events occur: you permanently move out or no longer use it as your primary residence, you sell the home, you pass away, or you fail to meet the ongoing obligations — like not paying taxes or insurance. At that point, the loan balance plus accumulated interest is paid off, typically from the sale of the home.
+Caller: So if I live here 20 more years, the balance just keeps growing?
+Agent: Correct. You're not making payments, so interest accrues on the outstanding balance monthly. Over 20 years, the balance can grow substantially. However, an important feature of HECMs is the non-recourse guarantee: you or your heirs can never owe more than the home is worth at the time of repayment. Even if the loan balance has grown to exceed the home's value, FHA insurance covers the difference. Your heirs would not be personally liable.
+Caller: That's reassuring. Now what about the conversion process? I have an existing mortgage with you. Does that complicate things?
+Agent: The conversion process requires the existing mortgage to be paid off. A reverse mortgage always needs to be in a first lien position. So the process would be: you apply for a new HECM with a HECM-approved lender, and at closing, proceeds from the reverse mortgage are used first to pay off your existing mortgage balance of $94,220. You mentioned your home is worth $420,000, so let's look at what you might receive.
+Caller: What determines how much I get?
+Agent: Several factors determine your principal limit — what the reverse mortgage will pay you. The key factors are: your age, current interest rates, and your home's appraised value. The older you are, the more you can borrow. At 68, you'd receive a higher principal limit than a 62-year-old, but less than a 75-year-old.
+Caller: Is there a formula?
+Agent: FHA publishes PLF tables — Principal Limit Factors — that vary by age and a rate called the expected interest rate. Without running exact numbers, I can give you a rough estimate. At 68, the principal limit factor is typically around 40 to 45 percent of the appraised value, depending on current rates. On a $420,000 home, that's roughly $168,000 to $189,000.
+Caller: So I'd get somewhere around $170,000 to $190,000 to work with?
+Agent: Approximately. From that amount, your existing mortgage of $94,220 must be paid off first. That leaves you roughly $74,000 to $95,000 in available equity. You choose how to receive that — a lump sum, monthly payments, a line of credit, or a combination.
+Caller: I think I'd want monthly payments to supplement my Social Security.
+Agent: The tenure payment option would calculate how much you receive per month based on the available equity, your age, and loan terms. A rough estimate on $85,000 in available equity at 68 might be in the range of $450 to $600 per month for life — meaning as long as you live in the home. Even if you outlive the original equity, payments continue.
+Caller: I hadn't realized payments could continue past what the equity covers.
+Agent: Yes, that's a key feature of the tenure payment option — FHA insurance backs the continued payments. It functions almost like a pension in that sense.
+Caller: What does the process look like start to finish?
+Agent: The process has several required steps. First, you must complete mandatory HECM counseling from a HUD-approved counselor before you can even apply. This is required by law. The counselor is independent and goes over all your options, costs, and alternatives. The session typically takes 60 to 90 minutes and costs around $125, though some counseling agencies offer reduced fees.
+Caller: Then what?
+Agent: After counseling, you apply with a HECM-approved lender. Not all lenders offer reverse mortgages, so you'd need to find one — you can search at HUD.gov. The application involves an appraisal of your home, a credit check focused mainly on your ability to meet tax and insurance obligations, income verification, and review of the property condition. The process typically takes 30 to 60 days.
+Caller: Could I do this through you, since you already have my mortgage?
+Agent: We don't currently originate HECM reverse mortgages ourselves. You would apply with a HECM lender, and at closing, they would send funds to pay off our loan. We receive our payoff and release the lien, just like any other refinance. You'd be working with the new HECM servicer going forward.
+Caller: Are there costs involved?
+Agent: Yes, and these are significant enough to factor into your decision. HECM closing costs include an FHA upfront mortgage insurance premium of 2 percent of the appraised value or lending limit, whichever is less — on a $420,000 home that's potentially $8,400. There are also origination fees capped by FHA, typically around $6,000, plus standard closing costs. Total costs could be $15,000 to $20,000 or more, rolled into the loan.
+Caller: So the loan starts out with a balance of my existing mortgage plus the closing costs?
+Agent: Correct. The starting balance would be your payoff of roughly $94,220 plus estimated closing costs of $15,000 to $20,000, so you'd start around $110,000 to $115,000 in balance, with the home worth $420,000. There's still substantial equity buffer.
+Caller: What are the ongoing costs?
+Agent: There's an annual mortgage insurance premium of 0.5 percent of the outstanding loan balance, and there's usually a monthly servicing fee. Both are rolled into the loan balance rather than paid out of pocket.
+Caller: Does my wife need to be involved? She's 64.
+Agent: Absolutely critical question. Is your wife on the current loan or the title?
+Caller: She's on the title but not on the current mortgage.
+Agent: She would need to be included in the HECM as a non-borrowing spouse if she's younger than 62 or as a co-borrower if she meets the age requirement. At 64, she would qualify as a co-borrower, which is actually better for you. Having a younger co-borrower reduces your principal limit somewhat — because the loan is based on the youngest borrower's age — but it protects her right to remain in the home after you pass away. I'd strongly recommend including her.
+Caller: What happens if she's not included and I pass away first?
+Agent: If she's not included, the loan could become due upon your death. She could potentially remain as a non-borrowing spouse under certain protections, but the terms are more complicated and less protective. Including her as a co-borrower is almost always the right answer when the spouse is eligible.
+Caller: This is much more complex than I expected. I think I need that counselor first.
+Agent: Absolutely right. The counseling session is there precisely to make sure you understand all of this before you commit. You can find HUD-approved HECM counselors at HUD.gov/HECM or by calling 1-800-569-4287. Ask specifically for a HECM counselor.
+Caller: And after I talk to them, I can call a HECM lender?
+Agent: Exactly. And feel free to call multiple lenders and compare their rate quotes and fee structures. The upfront MIP is fixed by FHA, but origination fees and rate margins can vary.
+Caller: Tom, you've been enormously helpful. I feel like I actually understand this now.
+Agent: I'm glad. Is there anything else I can help you with on your current loan in the meantime?
+Caller: No, I think I'm good. I'll call the counselor this week.
+Agent: Good luck, Mr. Baumgartner. You and your wife should both attend the counseling if possible. Have a good day.
+Caller: Thank you very much. Bye.
+Agent: Goodbye.

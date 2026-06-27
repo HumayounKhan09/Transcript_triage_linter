@@ -1,0 +1,42 @@
+Agent: Meridian Home Lending, this is Rachel. How can I assist you today?
+Caller: Hi Rachel, I'm Victor Sandoval. When I got my mortgage two years ago, the loan officer mentioned something about an escrow waiver but we ended up going with impound — that's what they called escrow in California, right? Anyway, now I want to revisit that. Can I waive the escrow account and pay my taxes and insurance myself? And if so, is there a fee?
+Agent: Good question, Victor, and yes, you're right — impound account and escrow account refer to the same thing. Let me pull up your loan and I can look at the specific details of your loan type and whether an escrow waiver is available for you. Can I start with your loan number?
+Caller: Sure, it's 9-1-4-3-7-7-8.
+Agent: And the property address?
+Caller: 8821 Crestwood Drive, San Diego, California, 92120.
+Agent: And the last four of your Social?
+Caller: 4-4-6-0.
+Agent: Thank you, Victor. I have your account. So your loan is a thirty-year conventional fixed-rate mortgage with a loan-to-value ratio — let me see — you're currently at around sixty-eight percent LTV based on your original purchase price. That's an important number for this question.
+Caller: Why does the LTV matter?
+Agent: Escrow waivers are generally available for conventional loans — meaning non-FHA, non-VA, non-USDA — where the LTV is eighty percent or below. Your LTV of sixty-eight percent is well under that threshold, so from an eligibility standpoint, you'd qualify to request a waiver.
+Caller: Okay, good. So there is a fee though?
+Agent: Yes. Most lenders, including us, charge what's called an escrow waiver fee or impound waiver fee. It's typically expressed as a fraction of a percentage of the loan amount, most commonly zero point two five percent, which is sometimes called twenty-five basis points.
+Caller: What does that work out to in dollars for my loan?
+Agent: Let me look at your current unpaid principal balance. You're at two hundred and nine thousand, four hundred and twelve dollars. Twenty-five basis points on that would be approximately five hundred and twenty-three dollars.
+Caller: So I'd pay five hundred and twenty-three dollars to get rid of the escrow account?
+Agent: That's approximately right, yes. It's a one-time fee charged to remove the escrow requirement. I want to be transparent that this fee is standard but worth thinking about carefully, because there are some trade-offs beyond just the fee itself.
+Caller: What do you mean?
+Agent: When you manage your own taxes and insurance, you take on the responsibility of making sure those bills are paid on time. Property taxes in California are due in two installments — December tenth and April tenth — and if you miss them, it can create a tax lien on your property, which is a serious problem. Some people prefer the peace of mind of having it built into the monthly payment.
+Caller: I understand that. I'm pretty financially organized and I actually want to put my tax and insurance reserves in a high-yield savings account and earn interest on them, rather than having them sit in an impound account.
+Agent: That's actually a completely reasonable financial rationale. The interest you'd earn on a high-yield savings account these days could easily offset the waiver fee within the first year, depending on your tax and insurance amounts.
+Caller: Exactly what I was thinking. What's in my escrow account right now?
+Agent: Your current escrow balance is three thousand, two hundred and eighteen dollars. If the waiver is approved, that balance would be refunded to you within thirty days, typically by check to your address of record.
+Caller: And my monthly payment would go down because the escrow portion would be removed?
+Agent: Correct. Your current monthly payment of two thousand, one hundred and six dollars includes principal and interest of one thousand, four hundred and eighty-two dollars, plus the escrow portion of six hundred and twenty-four dollars. If the waiver is approved, your new payment would be just the principal and interest — so about one thousand, four hundred and eighty-two.
+Caller: That's a significant reduction in the payment, even though I'd be responsible for paying the taxes and insurance separately.
+Agent: Right, the money isn't gone — you'd need to set it aside yourself. But you have full control over how and where it's held.
+Caller: How do I actually request the waiver?
+Agent: You'd submit a written request, which I can initiate here. We'd also need a declaration page from your current homeowners insurance policy showing the current year's coverage is in force. Once we receive that and process the waiver request, we review it and typically respond within ten to fifteen business days.
+Caller: And is approval guaranteed since I meet the LTV threshold?
+Agent: Meeting the LTV threshold is the primary eligibility requirement, but we also verify that your loan is in good standing, which yours is. Denials are rare for borrowers in your situation. I can't guarantee approval, but based on what I see, you'd be a strong candidate.
+Caller: All right. Let's get the process started. What do I need to provide?
+Agent: I'll note the request on your account now. You'll need to submit your insurance declaration page showing current coverage. You can upload it through the portal, fax it to our customer service line, or mail it to our servicing address. Once we have it, the review begins.
+Caller: Can I upload it today?
+Agent: Yes, you can upload documents through the portal. Under the Documents section, there's an Upload option where you can select the document type and attach the file.
+Caller: Perfect. I'll do that today. And the fee — when is that collected?
+Agent: The fee would be deducted from the escrow refund check. So instead of receiving the full three thousand two hundred and eighteen dollars, you'd receive that amount minus the waiver fee of approximately five hundred and twenty-three dollars, which would be about two thousand six hundred and ninety-five.
+Caller: That's a clean way to handle it. Thanks for explaining that.
+Agent: Of course. Is there anything else you need, Victor?
+Caller: No, I think I'm all set. I'll get that insurance declaration uploaded today.
+Agent: Sounds great. We'll be in touch once the review is complete. Have a good day.
+Caller: Thanks, Rachel. You too.

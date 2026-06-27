@@ -1,0 +1,51 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, this is Maria, how can I assist you today?
+Caller: Hi, I just got my escrow analysis and it's showing my payment going up a lot. I want to understand why.
+Agent: Sure, I can walk you through that. Let me pull up your account. Loan number or property address?
+Caller: The loan number is 497230. Address is 9 Pinewood Court, Asheville, North Carolina.
+Agent: And your name and last four of your Social?
+Caller: James Whitmore. Social ends in 8812.
+Agent: James, I've got your account here. Your annual escrow analysis was completed on October 15th. I can see the adjustment and I'll explain what's driving it. Looking at your account, your homeowner's insurance premium changed significantly this year. Can I ask — did you receive a renewal notice from your insurance company?
+Caller: Yeah, I got that. I was shocked. It went from fourteen hundred dollars a year to twenty-two hundred. I almost called the insurance company to complain.
+Agent: That's a substantial increase — eight hundred dollars more per year. Given where we are with insurance markets right now, unfortunately that's not unusual, especially in mountain and weather-risk areas. But yes, that's the primary driver of your escrow shortage.
+Caller: So it's just the insurance? My property taxes didn't change?
+Agent: Let me check. Your property taxes — no, they were stable this year. Four thousand two hundred dollars, same as last year. So the entire increase is coming from your insurance premium going from fourteen hundred to twenty-two hundred.
+Caller: Okay. So walk me through how that affects my payment.
+Agent: I'll break it down. Your escrow account collects money each month to pay both your property taxes and insurance when they come due. We collect one-twelfth of the annual amount each month for each bill.
+Caller: Right, okay.
+Agent: Previously, we were collecting one hundred and seventeen dollars per month for insurance — that's fourteen hundred divided by twelve. Now, to cover the twenty-two hundred dollar premium, we need to collect one hundred and eighty-three dollars per month. That's an increase of sixty-six dollars per month just for the insurance.
+Caller: So my escrow portion goes up sixty-six dollars?
+Agent: That's the ongoing portion, yes. But there's also a shortage to address from the current year. Let me check the exact shortage amount. Your shortage is four hundred and forty-eight dollars, because for part of this year we were collecting based on the old premium.
+Caller: Four hundred forty-eight. Okay. And I have two options for that, right?
+Agent: Exactly. You can pay the four hundred and forty-eight dollars as a lump sum, and then your monthly payment increases by the sixty-six dollars for the higher insurance going forward. Or you can spread the shortage over twelve months, adding about thirty-seven dollars per month on top of the sixty-six — so a total increase of roughly one hundred and three dollars per month for the next year, after which it normalizes to just the sixty-six.
+Caller: So lump sum plus sixty-six more a month, or no upfront cost but a hundred and three more a month for a year?
+Agent: That's exactly it. And after twelve months on option two, your payment drops back to the base increase of sixty-six — once the shortage is fully paid off.
+Caller: What's my current total payment?
+Agent: Your current total is one thousand six hundred and forty-four dollars. Under option one — lump sum — it becomes one thousand seven hundred and ten dollars. Under option two — spread — it becomes one thousand seven hundred and forty-seven dollars for twelve months, then back to one thousand seven hundred and ten.
+Caller: So either way I end up at one thousand seven hundred and ten long term.
+Agent: Correct. The only question is whether you pay the four hundred and forty-eight now or spread it over the year.
+Caller: Can I shop for cheaper insurance?
+Agent: Absolutely. You have the right to choose your own homeowner's insurance provider as long as the policy meets our minimum requirements — which include coverage at least equal to your loan balance or replacement cost, whichever is lower, and naming us as the loss payee.
+Caller: What are the minimum requirements specifically?
+Agent: You'd need a policy that covers the dwelling at replacement cost value, includes personal liability coverage of at least one hundred thousand dollars, and names Horizon Mortgage Servicing as a mortgagee on the declarations page. If you find a cheaper policy that meets those requirements, you can switch.
+Caller: And if I switch, how do I notify you?
+Agent: Have your new insurance company send us the declarations page directly. They should be able to do that electronically. We'd update the escrow account to reflect the new premium, and if the new premium is lower, your escrow payment would decrease accordingly.
+Caller: What if I switch to a policy that's only fifteen hundred a year? What happens to the shortage?
+Agent: If you provide us a declarations page showing a fifteen hundred dollar annual premium before we make our next escrow disbursement, we'd recalculate the escrow based on the new amount. The shortage might shrink significantly — instead of a shortage based on twenty-two hundred, it would be calculated on fifteen hundred, which is only slightly more than your prior premium of fourteen hundred.
+Caller: So the shortage might nearly disappear if I get a better insurance quote?
+Agent: Yes. If you can find a policy at or close to fourteen hundred, your shortage would be minimal. But keep in mind — insurance markets are tight right now, especially in North Carolina. You might not find a much better deal, but it's absolutely worth shopping.
+Caller: I'm going to call my agent today. Can I have a little time before I have to decide on option one or two?
+Agent: Your new payment takes effect January 1st. If you're going to shop for insurance, I'd suggest doing it quickly so we can update the analysis before that date. If you're not able to switch before January 1st, you can always update mid-year and we'll do an off-cycle escrow analysis at that point.
+Caller: And the shortage — when do I have to pay that by?
+Agent: If you choose option one, we'd need the lump sum before January 1st. If you do nothing, the system defaults to option two and spreads it over twelve months starting January 1st.
+Caller: Okay. So if I get new insurance that's cheaper, should I call you back?
+Agent: Yes. Once your new insurance company sends us the declarations page, call us back and we'll request an updated escrow analysis. I'll make a note on your account that you're actively shopping for insurance.
+Caller: Alright. Can you tell me what my insurance company is currently? I want to call them too about why the price went up so much.
+Agent: Your current insurer on file is Piedmont Property Insurance. The policy number we have on file is PPL-88-44920-2.
+Caller: Good, I'll call them today. And if I can get them to lower it, do I just send you the updated declarations page?
+Agent: Exactly. Or have them send it directly to us. Same process.
+Caller: Great. Thank you Maria, this made a lot more sense than just reading the letter. The letter made my head spin.
+Agent: Escrow letters can be confusing. You've got a clear plan — shop insurance, call your current provider, and report back to us with any updated declarations page before year end.
+Caller: Perfect. Thanks again.
+Agent: My pleasure. Is there anything else, James?
+Caller: No, I'm good. Have a good day.
+Agent: You too. Goodbye.

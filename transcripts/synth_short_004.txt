@@ -1,0 +1,39 @@
+Agent: Thank you for calling Landmark Mortgage Services, this is Kevin, how can I help you today?
+Caller: Hi, I need to update my mailing address. We just moved.
+Agent: I can absolutely help with that. Can I start with your full name?
+Caller: Diana Park.
+Agent: Thank you, Ms. Park. And the last four digits of your Social Security Number?
+Caller: 0047.
+Agent: And what's the property address on the account — the address of the mortgaged property?
+Caller: 554 Ridgecrest Avenue, Portland, Oregon 97201.
+Agent: Thank you, I've pulled up your account. So you'd like to update your mailing address — where we send your statements and correspondence?
+Caller: Yes, that's right. The property is staying the same, we're just renting a place while we do some renovations. So mail needs to go somewhere else for a while.
+Agent: Understood. What is the new mailing address?
+Caller: It's 310 Fernwood Court, Apartment 4B, Beaverton, Oregon 97005.
+Agent: Let me read that back. 310 Fernwood Court, Apartment 4B, Beaverton, Oregon, ZIP 97005?
+Caller: That's correct.
+Agent: And is this a temporary change or permanent?
+Caller: Temporary. Probably six months, maybe through the end of the year.
+Agent: I'll note it as temporary. We don't have an automatic expiration on mailing address changes, so when you're ready to switch back, just give us a call or update it in the online portal.
+Caller: Okay, that's fine. I'll remember to call.
+Agent: I've updated your mailing address in the system. You should start receiving mail at the new address within one to two billing cycles. Your next statement is scheduled to generate on July 5th, so that one may still go to the old address depending on timing.
+Caller: Hmm, can you maybe expedite that or hold the statement?
+Agent: I'm not able to hold a statement, but I can tell you that July's statement may go to the old address if it generates before the update fully propagates. Is there someone at the old address who could forward it?
+Caller: No, we're completely out. Could I just go paperless in the meantime?
+Agent: Great idea. I can enroll you in electronic statements right now. You'd receive an email notification when your statement is ready and view it online.
+Caller: Yes, please do that.
+Agent: What email address should we use?
+Caller: diana.park88 at outlook dot com.
+Agent: Got it. Diana dot park88 at outlook dot com. I'll enroll you in e-statements effective immediately. You'll still get a paper statement at the old address for July if it's already in the queue, but August onward will be electronic.
+Caller: That's perfect. Can I turn paper back on later?
+Agent: Absolutely, just call us or change it in the portal at any time.
+Caller: Great. And just to confirm the mailing address update — will that affect anything else like insurance correspondence?
+Agent: Your mailing address update will apply to all loan correspondence from us. However, if you have separate accounts with your insurance company or tax authority, you'd need to update those directly with them.
+Caller: Right, I figured. I just wanted to make sure your end was covered.
+Agent: You're all set. New mailing address is 310 Fernwood Court, Apt 4B, Beaverton, OR 97005, and you're enrolled in electronic statements at diana dot park88 at outlook dot com.
+Caller: Perfect. Thank you Kevin, that was quick.
+Agent: My pleasure. Is there anything else I can help you with today?
+Caller: Nope, that's it.
+Agent: Wonderful. Thank you for calling Landmark Mortgage Services. Have a great day, Ms. Park.
+Caller: Thanks, you too. Bye.
+Agent: Goodbye.

@@ -1,0 +1,47 @@
+Agent: Thank you for calling Harborcrest Mortgage, this is Ray. How can I assist you today?
+Caller: Hi Ray, my name is Dwight Nakamura. I accidentally made two payments this month and I need a refund. My loan number is 7781-4433.
+Agent: Hi Dwight, let me pull up your account. I see your loan — a thirty-year fixed on your property in Seattle, Washington. And let me check the payment history for this month. I can see two payments were received in June. Can you tell me what happened?
+Caller: Sure. I normally have my mortgage on autopay from my checking account on the first of every month. But I logged into your website on June fifth thinking I hadn't paid yet — honestly I forgot the autopay had already gone through — and I manually submitted another payment online. So I paid twice.
+Agent: I see both transactions here. The first payment of one thousand six hundred thirty-eight dollars posted on June first — that was your automatic payment. The second payment of one thousand six hundred thirty-eight dollars posted on June sixth — that was your manual online payment. Both were applied to your account.
+Caller: Right. So how was the second payment applied?
+Agent: Let me check the application. The June first payment was applied normally — principal, interest, and escrow for the June installment. The June sixth payment — the second one — was applied as a principal reduction curtailment.
+Caller: So it went to paying down my loan balance rather than refunding?
+Agent: Correct. When a payment is received after the current month's installment is already paid, excess funds are typically applied to principal unless otherwise directed.
+Caller: I want that money back. I didn't intend to make a principal payment. I need those funds for other expenses.
+Agent: Absolutely understandable. You're entitled to request a refund of the unintended overpayment. Since it was applied as a principal curtailment, reversing it means pulling back the principal reduction and refunding the funds to you.
+Caller: Is that straightforward to do?
+Agent: It's a standard process, yes. We call it a payment reversal or a surplus refund. Since the payment posted on June sixth, we're within thirty days, which makes the reversal relatively clean.
+Caller: How long will it take to get the money back?
+Agent: Once the request is processed, the refund is typically issued within five to seven business days. It can be issued as a check mailed to your address on file, or if you'd prefer, we can initiate an ACH transfer back to the bank account the payment was drawn from.
+Caller: ACH would be faster?
+Agent: Generally yes. A mailed check might take five to seven business days just for delivery on top of the processing time. An ACH return to your bank account would typically arrive within two to three business days after the refund is processed.
+Caller: Let's do the ACH. Does the refund go back to the same account the payment came from?
+Agent: Yes — for security purposes, we can only return funds to the originating account. Since the June sixth payment came from your checking account via your bank's routing and account numbers, the refund would return to that same account.
+Caller: That works. The account is still active.
+Agent: Perfect. Let me initiate the refund request now. The amount to be refunded is one thousand six hundred thirty-eight dollars. I'm submitting the request and selecting ACH as the disbursement method.
+Caller: What about my principal balance — it's going to go back up when you reverse the curtailment?
+Agent: Correct. Your principal balance will increase by one thousand six hundred thirty-eight dollars when the reversal is processed. Your current balance is three hundred twelve thousand four hundred forty-one dollars — after the reversal it will return to three hundred fourteen thousand seventy-nine dollars.
+Caller: Okay. And my payment schedule doesn't change at all?
+Agent: No, your monthly payment amount stays the same. Your amortization schedule is unchanged. The reversal simply undoes the unintended principal reduction.
+Caller: What about my autopay — will this cause any issues with next month?
+Agent: No, your autopay for July will proceed normally on July first for the standard amount of one thousand six hundred thirty-eight dollars. This reversal only affects the June sixth payment.
+Caller: Good. And is there any penalty or fee for reversing the payment?
+Agent: No fee. This is a standard overpayment refund and there's no charge associated with it.
+Caller: That's a relief. Let me ask — is there a way to prevent this from happening again? Like can I set up a notification if a payment has already been received that month?
+Agent: That's a great question. Our online portal has notification settings where you can enable a confirmation alert when a payment is posted. If you set that up, you'd receive an email or text every time a payment hits the account, which would have alerted you on June first that the autopay went through.
+Caller: I definitely want to set that up. How do I do it?
+Agent: Log into your account at harborcrestmortgage.com. Go to Account Settings, then Notifications. You can enable Payment Posted alerts via email, text, or both. You can also enable an alert if a payment is submitted manually so you'd get a double-confirmation if somehow two payments were submitted in the same cycle.
+Caller: That's exactly what I need. I'll set that up today.
+Agent: Good idea. It's a quick setup. Now, back to the refund — I'm confirming the request has been submitted. Your reference number is RF-2024-39901. You'll receive a confirmation email within two business days acknowledging the refund request, and the ACH should arrive in your account by around July fifth or sixth.
+Caller: July fifth or sixth. Works for me. Can I ask — is there any tax implication of having a principal payment reversed?
+Agent: Not typically. Since no actual mortgage interest was involved in the June sixth payment — it went purely to principal — there's nothing reportable for tax purposes. The reversal simply restores the balance. Your year-end mortgage interest statement won't be affected.
+Caller: Good. I was curious about that.
+Agent: Any other questions, Dwight?
+Caller: Actually, yeah — one more. If I ever want to intentionally make a principal payment in the future, how do I do that properly so it's clear it's intentional?
+Agent: Great question. When making a payment online, there's an option to designate additional principal. You'd enter your regular payment amount in the standard field, and then separately enter the extra principal amount. There's a field labeled "Additional Principal" or "Principal Only" payment. That way the system knows exactly how to apply the funds.
+Caller: And that would be applied separately from my regular payment?
+Agent: Exactly. Your regular payment covers principal, interest, and escrow per your amortization schedule. The additional principal goes entirely to reducing your balance. It's clearly tracked separately in your payment history.
+Caller: Perfect. That's how I'd like to do it in the future. Ray, thank you — this was really efficient.
+Agent: Happy to help, Dwight. Keep an eye out for that refund by July fifth. Is there anything else?
+Caller: No, that's it. Thanks again.
+Agent: Have a great day.

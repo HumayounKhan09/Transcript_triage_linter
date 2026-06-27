@@ -1,0 +1,46 @@
+Agent: Meridian Home Lending, this is Carlos. How can I help you today?
+Caller: Hi Carlos. I'm Delia Fontaine. I just received an inheritance from my aunt and I want to put a chunk of it toward my mortgage principal. But I'm not sure how it affects my next bill. Like, if I put in ten thousand dollars today, do I still owe my regular payment next month?
+Agent: Great question, Delia, and congratulations on the inheritance, even if it came under difficult circumstances. Let me pull up your account so I can give you a precise answer. Can I get your loan number?
+Caller: Yes, it's 6-6-3-4-0-1-8.
+Agent: And the property address?
+Caller: 57 Maple Ridge Road, Hartford, Connecticut, 06106.
+Agent: Last four of your Social?
+Caller: 7-0-2-3.
+Agent: I have your account. So you're thinking about making a ten thousand dollar principal-only payment. Let me explain exactly how that works and what it does to your upcoming bill.
+Caller: Please. I don't want to make a payment and then miss my regular bill by accident.
+Agent: Totally understandable. First, let's be clear about the structure. Your regular monthly payment of one thousand, four hundred and fifty-six dollars covers your monthly principal and interest installment plus your escrow for taxes and insurance. That obligation is set by your amortization schedule and the monthly due date.
+Caller: Right.
+Agent: A principal-only lump sum payment is completely separate from that monthly obligation. Making a ten thousand dollar principal payment today does not count toward your next monthly installment. You would still owe your regular October payment of one thousand, four hundred and fifty-six dollars on October first.
+Caller: So it doesn't replace or credit toward my next payment?
+Agent: No. The way mortgage accounting works, each monthly payment has a specific due date and it covers a specific period's interest and principal installment. A principal-only payment is applied only to reduce your outstanding balance. It doesn't satisfy any upcoming scheduled payment.
+Caller: Okay, so two separate transactions. I pay ten thousand now toward principal, and then I still pay my regular amount on the first.
+Agent: Exactly. Think of them as completely independent. The lump sum reduces the balance the interest is calculated on going forward, which is the benefit, but it doesn't remove the scheduled installment requirement.
+Caller: And how does it benefit me going forward?
+Agent: Great question. Let me pull up your current balance and rate. Your unpaid principal balance is one hundred and eighty-seven thousand, two hundred and thirty dollars. Your rate is three point nine nine percent. After a ten thousand dollar principal payment, your new balance would be one hundred and seventy-seven thousand, two hundred and thirty dollars.
+Caller: So my payment doesn't automatically go down?
+Agent: Correct. On a standard fixed-rate mortgage, your scheduled monthly payment amount stays the same. What changes is how that payment is split between principal and interest each month. With a lower balance, more of each payment goes toward principal and less toward interest, which means you pay the loan off sooner.
+Caller: How much sooner would I pay off the loan?
+Agent: Based on your current balance and remaining term, a ten thousand dollar additional principal payment would typically shorten your loan term by about fourteen to eighteen months, depending on your exact rate and amortization. The exact number would show in a prepayment calculator.
+Caller: And the interest savings over the life of the loan?
+Agent: Rough estimate on a balance like yours at three point nine nine percent — a ten thousand dollar principal reduction could save you somewhere in the range of four to six thousand dollars in total interest over the remaining life of the loan. The earlier in your loan you make the payment, the more you save.
+Caller: How far into the loan am I?
+Agent: You originated in June of 2020, so you're about four years in on a thirty-year loan. You have roughly twenty-six years remaining, which means there's a lot of interest-bearing time ahead and the lump sum will have a meaningful impact.
+Caller: Good. Is there a minimum for principal-only payments?
+Agent: No minimum. You can pay any amount you choose, from a few dollars to a hundred thousand. The full amount goes to principal reduction.
+Caller: How do I make the payment? Can I do it over the phone today?
+Agent: Yes, absolutely. I can process a principal-only payment right now with your bank account information. Or you can do it through the portal if you're set up online.
+Caller: Let's do it over the phone. I want to make sure it's designated correctly.
+Agent: Perfect. I'll need your bank routing number and account number.
+Caller: Routing is 2-1-1-0-7-4-0-1-4. Account is 5-5-8-8-9-1-2-4-0-3.
+Agent: Let me read that back. Routing 2-1-1-0-7-4-0-1-4, account 5-5-8-8-9-1-2-4-0-3. Is that correct?
+Caller: That's right.
+Agent: And I'm processing a payment of ten thousand dollars designated as principal only on loan number 6-6-3-4-0-1-8 for Delia Fontaine. Is everything correct?
+Caller: Yes, that's all correct.
+Agent: This will post within one to two business days. Your confirmation number is MHL-5-5-1-2-8-8-9.
+Caller: Let me write that down. MHL-5-5-1-2-8-8-9. Got it. And my regular payment is still due on the first?
+Agent: Correct. Your next regular monthly payment of one thousand, four hundred and fifty-six dollars is due October first. That has not changed.
+Caller: Perfect. I'll keep that on my calendar. Thank you for being so clear about all of this, Carlos.
+Agent: Of course. It's an important distinction and I'm glad you asked before assuming one payment covered both. Your loan is going to be in great shape with this additional principal payment. Is there anything else I can help with?
+Caller: No, I think that's it. Thank you.
+Agent: Thank you, Delia. Have a great day.
+Caller: You too. Bye.

@@ -1,0 +1,47 @@
+Agent: Thank you for calling Brightpath Mortgage Services, this is Sarah. How can I assist you today?
+Caller: Hi Sarah, my name is Walter Nguyen. I applied for a refinance a couple weeks ago and my loan officer just called me to say my debt-to-income ratio is too high and it's going to be a problem for approval. I want to understand what this means and whether there's anything I can do about it.
+Agent: Hi Walter, I'm sorry to hear you're hitting a roadblock. DTI issues are actually quite common and they're often solvable with the right approach. Let me pull up your file so I can see the specifics. What's your loan number?
+Caller: It's 6677-3321-K.
+Agent: One moment. Okay, Walter Nguyen, refinance application on a property in Phoenix, Arizona. Current balance $412,000, requested loan amount $419,500, rate and term refinance. I can see the file notes from your loan officer. Let me review the DTI numbers.
+Caller: Sure.
+Agent: Okay, so your loan officer has calculated your front-end DTI — that's your proposed housing payment divided by your gross monthly income — at 32 percent. The back-end DTI, which includes all monthly debts, is at 49 percent. The guideline maximum for the conventional loan program you're applying for is 45 percent.
+Caller: So I'm four points over on the back end.
+Agent: Correct. You're at 49 and the limit is 45. To get to 45, you'd need to either increase your income, decrease your monthly debt obligations, or reduce your loan amount.
+Caller: What debts are they counting?
+Agent: Let me see. The file shows your proposed new mortgage payment at $2,741, a car loan with a payment of $487 per month, student loans at $312 per month, a credit card with a minimum payment of $215 per month, and a personal loan at $155 per month. Your gross monthly income is documented at $8,640.
+Caller: Let me add that up. That's $3,910 in total monthly debt payments.
+Agent: Correct, and $3,910 divided by $8,640 gives you 45.3 percent — actually that puts you right at the threshold. But with the rolling costs into the new loan amount, the mortgage payment is slightly higher, pushing you to 49 percent. Let me recalculate — I think I may be looking at the previous version of the figures.
+Caller: My loan officer mentioned rolling $7,500 in costs into the loan.
+Agent: Yes, that's what's pushing the mortgage payment higher. If you pay $7,500 in closing costs out of pocket instead, your new loan amount would stay at $412,000 and your mortgage payment would drop to approximately $2,692. Let me recalculate the back-end DTI with that payment — $2,692 plus $1,169 in other debts equals $3,861. Divided by $8,640, that's 44.7 percent. You'd be under the 45 percent threshold.
+Caller: So just paying closing costs out of pocket instead of rolling them in would solve the problem?
+Agent: Based on these numbers, yes. That's the most straightforward solution. Do you have $7,500 available?
+Caller: I could potentially come up with $5,000 but not the full $7,500.
+Agent: Okay, so partial out-of-pocket. If you pay $5,000 upfront, the financed amount would be $414,500, and the payment would be roughly $2,705. New DTI would be about 45.0 percent. That's right at the limit, which some underwriters may accept depending on compensating factors.
+Caller: What are compensating factors?
+Agent: Compensating factors are positive elements of your profile that allow an underwriter to approve a loan that's at the edge of guidelines. Common ones include significant cash reserves — three to six months of mortgage payments in savings — a strong credit score above 720, no payment history issues, or a history of low housing payments relative to your income. Do you have substantial savings or a strong credit score?
+Caller: My credit score is 748. And I have about $22,000 in savings.
+Agent: Both of those are strong compensating factors. With a 748 score and $22,000 in reserves — which represents roughly eight months of your proposed payment — an underwriter might approve you at 45 percent DTI. But there's no guarantee.
+Caller: What about paying off one of my debts? Would that help more?
+Agent: Absolutely. If you paid off the personal loan — $155 per month — before closing, your back-end DTI would drop meaningfully. Let's see: $3,910 minus $155 in payment is $3,755. Divided by $8,640, that's 43.5 percent. That comfortably clears 45 percent even with the costs rolled in.
+Caller: What's the payoff amount on the personal loan?
+Agent: I don't have that information in your mortgage file — you'd need to check with that lender directly. But if the payoff is manageable, it could be the cleanest solution. You'd eliminate the debt, improve your DTI, and potentially have a better loan outcome.
+Caller: What if I pay it off with some of my savings?
+Agent: That would directly reduce your DTI by removing that payment. The trade-off is fewer reserves as a compensating factor, but if you have $22,000 and the payoff is, say, $6,000, you'd still have $16,000 in reserves — nearly six months — which is still solid.
+Caller: Is there anything on the income side I can do?
+Agent: If you have additional income that isn't currently being counted, your loan officer might be able to include it. Common overlooked income sources include rental income if you have a tenant, side business income shown on tax returns, or alimony and child support. Are there any income sources not currently in your file?
+Caller: I do some freelance consulting on the side. Maybe $800 to $1,000 a month. But it's inconsistent.
+Agent: Freelance income can sometimes be counted if it can be documented with at least two years of tax returns showing that income. If it appears on your Schedule C for both 2024 and 2025, your loan officer may be able to average the two years and include a portion. Even adding $700 per month to your income would bring your DTI from 49 to closer to 45.
+Caller: I haven't mentioned that to my loan officer. I should bring that up.
+Agent: Yes, definitely. Have your 2024 and 2025 federal tax returns with Schedules C ready and share them with your loan officer. That could be the solution without touching your savings.
+Caller: What if none of these options work? Is there a different loan program with higher DTI limits?
+Agent: Yes, FHA loans allow back-end DTIs up to 50 percent in some cases, sometimes even higher with strong compensating factors. However, FHA requires mortgage insurance, which would increase your monthly payment. Depending on how much mortgage insurance adds, it might offset the DTI benefit. Your loan officer can model that out for you.
+Caller: I'd rather stay conventional if possible, but it's good to know FHA is an option.
+Agent: Understood. With your credit score and reserves, you're a strong candidate for conventional — it's just the DTI that needs adjustment. I'd suggest talking to your loan officer about three things: one, the freelance income documentation; two, possibly paying off the personal loan; and three, how much closing costs you can pay upfront. One or a combination of those should get you to approval.
+Caller: This is really helpful. My loan officer kind of just told me there was a problem and didn't lay out solutions clearly.
+Agent: I'm glad we could work through the options together. I'll add a note to your file summarizing these strategies so your loan officer can see that we discussed them. Would you like me to flag the file for a callback from your loan officer?
+Caller: Yes please. I want to talk to her about the freelance income specifically.
+Agent: Done. I've noted June 27th, 2026, call regarding DTI issue, and flagged for loan officer to discuss freelance income documentation, personal loan payoff, and out-of-pocket cost options. Is there anything else I can help you with today?
+Caller: No, that's everything. Thank you so much, Sarah.
+Agent: Of course, Walter. Good luck with the application. We'll get you there.
+Caller: I really appreciate that. Goodbye.
+Agent: Goodbye.

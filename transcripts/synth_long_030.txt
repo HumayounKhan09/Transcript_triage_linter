@@ -1,0 +1,189 @@
+Agent: Thank you for calling Meridian Home Servicing, this is Carlos speaking. How can I help you today?
+
+Caller: Hi Carlos. My name is Victor Ng. I'm calling about a property I co-own with someone. A business partner. Former business partner. We're both on the mortgage and we need help because we don't agree on what to do.
+
+Agent: Okay, Victor. I can work through this with you. I'll need to be careful because there are two borrowers involved and both have equal rights to the account. Let me pull up the account. Can you give me the loan number or address?
+
+Caller: Address is 4819 Westlake Commerce Drive, Austin, Texas 78746. Loan number 5581023.
+
+Agent: One moment. Okay, I see the account. Two borrowers: Victor Ng and Raymond Kowalski. Commercial-use property — actually I see this is zoned mixed-use residential-commercial. Current loan balance of $387,200. This is a 30-year conventional loan, rate 5.75 percent, originated July 2019.
+
+Caller: That's right. Raymond and I started a business together in 2019. We bought this property — it's a live-work space. There's a commercial unit on the ground floor and residential upstairs. We were partners in a design firm.
+
+Agent: And what's happened that's brought you to a disagreement about the property?
+
+Caller: We dissolved the business in January. Professionally we're fine, no huge falling out, but Raymond wants to sell the property and walk away with his half. I live there. I live upstairs in the residential unit. I don't want to sell. I want to buy him out. But we can't agree on the value and we can't agree on the terms.
+
+Agent: I see. Are you both current on the mortgage?
+
+Caller: We are, yes. Raymond has been splitting the payment with me. He says he'll stop contributing after July — that's next month. If he stops, I can only cover about half the payment myself. My income from freelance work is around $6,500 a month. The full payment is $2,274.
+
+Agent: Okay. Victor, I want to be upfront about something. Since there are two borrowers on this account, I'll need authorization from Raymond before I can share any account details with him or discuss modification options on his behalf. But I can talk to you about the account today as an authorized borrower. Does Raymond know you're calling?
+
+Caller: He knows. He's actually available later today. He said he might call separately.
+
+Agent: Alright. Let me get your version of the situation fully first, and then if Raymond calls separately, I'll speak with him. Or, if he's available, we can try to do a three-way call with both of you, though I'll need to verify his identity.
+
+Caller: He said he'd be available at 2 PM. Could we do that?
+
+Agent: I can try to arrange that. Let me continue with you for now and we'll set up that call. Tell me more — you want to buy Raymond out. Have you explored that possibility?
+
+Caller: I've talked to a lender. My credit score is 714. My freelance income is irregular though — some months $8,000, some months $4,500. The lender said I might qualify for a refinance-to-buyout but my income documentation is the issue because I've only been fully independent — not through the firm — for about eight months.
+
+Agent: So the partnership income history complicates the income documentation.
+
+Caller: Exactly. Before, a lot of my income ran through the business. Now it's direct to me. But I only have eight months of that. Lenders want two years.
+
+Agent: That is a real obstacle for conventional financing. Is there any possibility of Raymond carrying the buyout — meaning you pay him over time rather than through a lender?
+
+Caller: I've suggested that. He wants his money out now. He's looking to buy something with his share. He says he can't wait.
+
+Agent: What's the estimated value of the property?
+
+Caller: We had two appraisals done — that's part of our disagreement. I got one for $520,000 and Raymond got one for $575,000. Raymond thinks the commercial floor is worth more than I'm valuing it.
+
+Agent: So the equity — at the low estimate — is $520,000 minus $387,200 equals approximately $132,800 in equity. At the high estimate, about $187,800. Split two ways, Raymond's half of equity is somewhere between $66,400 and $93,900.
+
+Caller: Right. And I'd need to refinance for enough to buy him out plus keep the existing loan balance. So I'd need around $450,000 to $480,000 total depending on which number you use.
+
+Agent: And at your income level, what's your debt-to-income looking like for a loan of that size?
+
+Caller: I did the rough math. A $470,000 loan at current rates is about $3,100 a month. On my income of $6,500, that's 47 percent debt-to-income. Most lenders want it under 43 or 45.
+
+Agent: It's close but above standard conventional guidelines. With strong assets or compensating factors it might be possible with certain lenders, but it's tight. Do you have significant assets — savings, investments?
+
+Caller: I have about $85,000 in savings and about $40,000 in a retirement account.
+
+Agent: That's a meaningful reserve. Some lenders use asset depletion methods — they essentially treat your assets as additional income. $125,000 in assets, using a standard depletion formula over 60 months, that's about $2,000 a month in additional imputed income. That could get your effective qualifying income closer to $8,500, which would bring your DTI under 40 percent. That's worth exploring with non-traditional or portfolio lenders.
+
+Caller: I haven't heard of asset depletion. That's interesting.
+
+Agent: It's common with lenders who handle high-net-worth or self-employed borrowers. Community banks and portfolio lenders are more likely to offer it than big banks.
+
+Agent: Victor, what happens with our mortgage if you and Raymond can't reach an agreement?
+
+Caller: I'm afraid he'll force a sale. He's mentioned partition.
+
+Agent: Partition is a legal action where a co-owner can petition a court to force the sale of jointly-owned property when co-owners can't agree. It's a real legal option for Raymond, and if he pursues it, a court can order the property sold. Is that what you're most worried about?
+
+Caller: Yes. I'd lose my home.
+
+Agent: I want to be direct — we can't resolve a co-ownership dispute. That's a legal matter. What we can potentially help with is the financing side if you're able to reach an agreement. If you two agree on a price and Raymond agrees to a certain timeline, we could potentially look at options like a temporary mortgage modification to buy you time while you secure financing.
+
+Caller: What would a modification do in this situation?
+
+Agent: For example, if Raymond agrees to give you six months to arrange buyout financing, a temporary interest-only payment or a rate reduction could reduce the monthly payment to a level you can carry alone for that period. That might be easier to manage at say $1,800 a month instead of $2,274.
+
+Caller: That might actually convince Raymond to give me time. If he sees I can cover the payment, he might not worry about it.
+
+Agent: Exactly. His main concern is probably that if he stops contributing and you can't cover the full payment, the credit of both of you suffers. A modification that brings the payment within your range removes that risk for him.
+
+Caller: Can we apply for that modification even though there are two borrowers who aren't on the same page?
+
+Agent: This is where it gets complex. A modification requires both borrowers to agree because it changes the terms of the contract. I cannot process a modification with only one borrower's consent. Both you and Raymond would need to sign.
+
+Caller: Raymond won't sign anything unless there's a clear path to him getting his money.
+
+Agent: Let me think about this from another angle. Is there any possibility of a third party? A family member or other investor who could buy Raymond's interest in the property rather than you buying him out?
+
+Caller: I hadn't thought of that. I have a brother who's interested in real estate. He has liquidity.
+
+Agent: If your brother purchased Raymond's 50 percent interest — essentially bought out Raymond's stake — he'd become your co-owner. The mortgage would remain in both your names and Raymond's, unless you then refinanced. But it could give Raymond his cash while keeping you in the property. There are legal and tax considerations to that structure that would need an attorney's review, but it's an option worth considering.
+
+Caller: That's actually interesting. Raymond might be more willing to sell to a third party than wait for me to refinance.
+
+Agent: Let's plan the three-way call for 2 PM. I want Raymond to hear these options from a neutral position. The more scenarios on the table, the more likely you both find something that works. Can I get a good callback number for you?
+
+Caller: 512-555-0147.
+
+Agent: And for Raymond — if he calls separately before 2 PM, I'll take his call and get his perspective. I'll also give him the same neutral overview of options. At 2 PM I'll try to bring you both on together. I should let you know — on the three-way call, I'll verify Raymond's identity and remind both of you that I'm a neutral party representing the account, not either borrower. I'll be looking for a path that addresses the mortgage servicing situation, not to take sides in your dispute.
+
+Caller: I understand that. I appreciate the neutrality actually.
+
+Agent: Before we wrap up this portion — is the loan current right now?
+
+Caller: Current through this month. Raymond has agreed to pay his half through July. August is the question.
+
+Agent: If the loan goes delinquent in August, both your credit scores are impacted and it accelerates the urgency of resolution. I'd encourage you to have a conversation with Raymond before August 1st, even if it's uncomfortable. You can tell him that a solution is in progress and that you're talking to the servicer. That may buy some goodwill.
+
+Caller: I'll do that. Can I mention the modification possibility?
+
+Agent: You can tell him that there may be a temporary payment reduction option available that requires both borrowers to consent, which is true. I'll go over the specifics with both of you at 2 PM.
+
+Agent: One moment — I have another call routing to this line. Hold briefly?
+
+Caller: Sure.
+
+Agent: Victor, I have someone on hold identifying as Raymond Kowalski about this account. He's calling early. Would you like me to do the three-way call now?
+
+Caller: Yes, let's do it. He's probably nervous.
+
+Agent: One moment while I conference him in and verify his identity.
+
+Agent: Raymond Kowalski, thank you for calling. I have Victor Ng on the line. I'm Carlos with Meridian Home Servicing. I've verified your identity through your security questions and you're fully authorized on this account. Before we proceed, I want to establish ground rules: I'm a neutral party representing the account, not either borrower. My role is to explain what options exist on the mortgage side. I can't resolve your ownership dispute — that's between you and your attorney. Does that work for both of you?
+
+Caller: Yes. Victor here.
+
+Raymond: This is Raymond. That's fine.
+
+Agent: Raymond, Victor has shared his perspective — that he wants to remain in the property, that he's exploring ways to buy out your interest, and that he's concerned about the August payment situation. Victor, Raymond, I've outlined a few scenarios: a conventional refinance buyout once Victor has more income history, a third-party buyout of Raymond's interest, and a potential temporary modification to carry the payment while a resolution is arranged. Raymond, what's most important to you?
+
+Raymond: I need my money out. I'm not being difficult — I have a reason. I'm trying to buy my own place. I can't do that with capital tied up here. I need clean hands.
+
+Agent: Understood. And Raymond, do you have a timeframe in mind?
+
+Raymond: I wanted to be out by July. But I'll listen if Victor has a real plan, not just talk.
+
+Agent: Victor mentioned a possibility — a family member who might purchase your 50 percent interest directly. That would give you a cash exit without waiting for Victor to refinance. That's worth exploring separately with an attorney to understand the mechanics.
+
+Raymond: Who's this family member?
+
+Caller: My brother Marcus. He has money and he likes real estate. It's not a crazy idea.
+
+Raymond: I'd want fair market value. Not below the $575,000 I had the property appraised at.
+
+Agent: That's a negotiation between you and Marcus and Victor. What I can offer on the servicing side is this: if you both agree to a timeline — even 90 days — I can look at whether a temporary modification is possible to reduce the payment so Victor can carry it alone during that period. That removes the risk of a late payment hurting both your credits while a deal gets worked out.
+
+Raymond: Would my credit be protected if he doesn't pay during a modification?
+
+Agent: During an approved modification, you are in compliance with the modified terms, so no derogatory reporting. If Victor makes the modified payments, your credit is protected. If he misses even the modified payment, both of you are impacted. That's the shared risk of being co-borrowers.
+
+Raymond: I don't love the idea but I'd rather do that than have my credit tanked. Victor, can you actually make a reduced payment alone?
+
+Caller: If it comes down to around $1,700 or $1,800, yes. My baseline income covers that.
+
+Agent: I should be clear that I'm not promising a modification will be approved at that level — that requires a formal application and investor review. But based on preliminary math, a temporary interest-only or rate-adjusted modification might achieve that range. I'd need both your signatures on the application.
+
+Raymond: If the modification keeps my credit clean for 90 days while we work out the buyout with Marcus, I'm open to it.
+
+Caller: That's all I'm asking for, Raymond. Ninety days.
+
+Agent: Gentlemen, this is progress. I'm going to send you both the modification application package to the email addresses on file. You'll both need to review and sign. If you want to use Marcus's potential purchase as the exit plan, I'd strongly suggest you both engage a real estate attorney this week to structure that correctly — there are tax and title issues with partial interest purchases.
+
+Raymond: My email is r.kowalski at kowalskidesign.com. I'll look at the paperwork.
+
+Caller: Mine is vng at victorngdesign.com.
+
+Agent: Perfect. Both addresses noted. I'll send the modification package today. I'll also include information on joint borrower options and our escalation process if needed. If you run into any disagreements during the application process, we do have a borrower mediation option — I can give you that number separately.
+
+Raymond: How long does the modification take to approve?
+
+Agent: Typically 30 to 45 days from receipt of a complete application. You'd get a decision before August.
+
+Raymond: Okay. Victor — let's get Marcus on the phone tonight.
+
+Caller: I'll call him right after this.
+
+Agent: Is there anything else either of you needs from me today?
+
+Caller: I think we're good. Carlos, you navigated that really well.
+
+Raymond: Agreed. Thanks.
+
+Agent: It's what I'm here for. Good luck to both of you. Working together on this is the right call — you'll both be better off than a court fight.
+
+Raymond: Agreed. Bye.
+
+Caller: Thank you, Carlos. Goodbye.
+
+Agent: Goodbye, gentlemen.

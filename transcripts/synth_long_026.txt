@@ -1,0 +1,119 @@
+Agent: Thank you for calling Pinnacle Loan Servicing. This is Carlos speaking. How can I help you today?
+
+Caller: Hi. My name is Robert Fenton. I've been fighting to keep my house for three years and I'm not sure how much fight I have left. I need to talk to someone who can really look at my situation, not just read me a script.
+
+Agent: Robert, I hear you. I want to help you. Can you give me your loan number and I'll pull up the full history so I understand exactly what's happened?
+
+Caller: Loan number 3304872. The address is 5512 Oleander Street, Baton Rouge, Louisiana 70806.
+
+Agent: Pulling that up now. Give me a moment — this is a detailed account, I can already see that. Okay. I'm looking at your history. Robert, I want to be transparent with you about what I'm seeing here and then I want to hear from you. Your loan originated in 2018, original balance $187,400. Current unpaid principal balance is $194,800 — it's actually slightly higher than when you started because of capitalized arrears. You are currently 18 months delinquent. I see a forbearance from July 2021 to January 2022. A repayment plan that started February 2022 and defaulted in May 2022. A second forbearance from June 2022 to October 2022. A loan modification trial period starting November 2022 that converted to a permanent modification in March 2023. Then the permanent modification defaulted in September 2023. And a third repayment plan that started October 2023 and defaulted in February 2024. Is that consistent with your understanding?
+
+Caller: Yeah. That's my life for three years. I feel like every time I get a lifeline it slips through my fingers.
+
+Agent: I'm not judging you at all. Can you tell me what originally caused the hardship back in 2021?
+
+Caller: COVID. I drive a limo, corporate transportation. My entire client base evaporated in March 2020. I had some savings, held on, got the forbearance when it became available. I thought things would bounce back faster than they did.
+
+Agent: And when the forbearance ended and the repayment plan started in February 2022 — what happened there?
+
+Caller: Business was coming back but slower than expected. The repayment plan had me paying my regular payment plus $890 extra a month to catch up. I made two payments and then I had a car repair — my vehicle is my business — $4,200. It wiped me out. I missed May.
+
+Agent: And once you miss one payment on a repayment plan the whole plan defaults.
+
+Caller: Exactly. They canceled it immediately. I called and explained and they put me in the second forbearance. Then the forbearance ended and I went into the trial mod. Those payments I actually made — all three of them. And they gave me the permanent modification.
+
+Agent: I see the permanent modification terms here — your rate was reduced to 3.875 percent, your term was extended to 40 years, and some past-due amounts were deferred to the end of the loan. Your modified payment was $1,214 a month. What happened when that defaulted in September 2023?
+
+Caller: My biggest client — a law firm that I'd had for five years — they laid off most of their staff and stopped using car services entirely. I lost $3,000 a month in income almost overnight. I'm working other jobs but it took time to replace that and I fell behind again.
+
+Agent: How is your income situation now?
+
+Caller: I'm making about $4,100 a month gross. I've got some new clients. It's not where it was but it's more stable than it's been. But by the time I got stable again I was six months behind on the mod.
+
+Agent: And the repayment plan in October 2023?
+
+Caller: Same story. The catch-up payment was $1,100 on top of the $1,214. I can't sustain $2,300 a month. Nobody told me the plans would be this aggressive.
+
+Agent: Robert, let me be straightforward with you about where you stand because you deserve honesty. You are 18 months delinquent, you have a permanent loan modification that has defaulted, and you have a history of plan defaults. The options available to you at this stage are fewer than they were three years ago, but there are still options. I want to go through them with you one by one.
+
+Caller: Please. Tell me the truth about each one.
+
+Agent: First option: another loan modification. I want to be honest — most investors will not approve a second permanent loan modification to someone who defaulted on the first one. The investor on your loan is — let me check — it's Freddie Mac. Freddie Mac guidelines do allow for subsequent modifications in limited circumstances, particularly if the default was caused by a new and separate hardship that is documented. The loss of your law firm client in 2023 — do you have documentation of that? Emails, contract termination, anything?
+
+Caller: I have emails from them. I have my bank statements showing the income drop.
+
+Agent: That documentation of a new hardship could support an application for a second modification. I want to be clear — approval is not guaranteed and Freddie Mac will scrutinize this heavily given the history. But it's not impossible. The application would go through our loss mitigation team and up to Freddie Mac for investor approval.
+
+Caller: What would a second mod look like? There's not much room left to modify.
+
+Agent: You're right that the rate was already reduced and the term was already extended. A second modification would likely involve capitalizing your current arrearage — adding it to the loan balance — and potentially further term extension. At 18 months of missed payments on a $1,214 payment, plus fees, you're looking at approximately $23,000 to $25,000 in arrears. If those are capitalized, your new balance would be around $218,000 to $220,000. Extending to 40 years again and keeping the rate stable, your payment could potentially come down to $1,100 to $1,150 range.
+
+Caller: That's only slightly below what I couldn't sustain before.
+
+Agent: I understand. And that's the hard reality — the loan math doesn't give us a lot more room. At $4,100 gross income, your take-home is probably around $3,400. A $1,100 mortgage payment is 32 percent of your gross, which is within guidelines, but tight in practice with other expenses.
+
+Caller: What's option two?
+
+Agent: Short sale. Your loan balance is approximately $194,800. Property values in your area — I'm seeing our records show an estimated current value around $176,000. You are underwater, meaning you owe more than the home is worth. A short sale remains possible but Freddie Mac would need to approve it, and Freddie Mac would need to waive the deficiency — the roughly $18,000 to $20,000 difference. That waiver is possible but not automatic.
+
+Caller: Would I owe that $18,000?
+
+Agent: If Freddie Mac waives it, no. If they don't, they could pursue a judgment against you for that amount. Freddie Mac's general policy leans toward waiving deficiencies on short sales where the borrower has a genuine hardship and limited assets, but it's negotiated case by case.
+
+Caller: What about a deed in lieu?
+
+Agent: Deed in lieu is the third option. You voluntarily sign the property over to us in exchange for release from the debt. The advantage over foreclosure is that it's less damaging to credit and is sometimes processed faster. Freddie Mac accepts deeds in lieu and also generally waives deficiencies. You might also receive relocation assistance — typically $3,000 to $7,500 — to help you transition out.
+
+Caller: So I'd lose the house either way with a short sale or deed in lieu.
+
+Agent: Yes. I want to be honest — these are exit strategies, not retention strategies. They're better than foreclosure in terms of your credit recovery timeline and potential deficiency risk, but they mean leaving the home.
+
+Caller: And foreclosure — what's the timeline on that?
+
+Agent: Louisiana is a judicial foreclosure state, which means the lender has to go through the courts. That process typically takes 6 to 12 months from the time foreclosure action is officially initiated. I can see that a notice of default was issued in March of this year. Formal foreclosure has not yet been filed. You have time — but not unlimited time.
+
+Caller: Is there any way to get emergency help — like state programs or anything?
+
+Agent: Yes, and this is important. Louisiana received Homeowner Assistance Fund money through the federal HAF program. The Louisiana program is called HAF Louisiana and it provides mortgage assistance for COVID-related hardships. I want to check their current status — they have gone through funding cycles. As of my last update, I would strongly encourage you to check housinglouisiana.org or call 1-888-454-2001. If funds are available and you qualify, they can pay servicers directly. Given your COVID-related origin hardship, you could potentially qualify.
+
+Caller: I didn't know about that program.
+
+Agent: A lot of people don't. It's worth calling them today or this week. If they have funding, this could change everything.
+
+Caller: Okay. Let's say I apply for another modification. What are the odds honestly?
+
+Agent: I'd say realistic odds are 30 to 40 percent given your history. The new documented hardship helps. Your income level is workable. But Freddie Mac will weigh the pattern of defaults. I'm not going to promise you something I can't deliver.
+
+Caller: I appreciate that. What do I need to do to apply?
+
+Agent: I'll initiate the application today. I need your hardship letter — new one, specifically describing the 2023 income loss event — your last two months of bank statements showing current income, any documentation of your client loss, and your most recent tax return.
+
+Caller: I can get all that. What happens to the foreclosure while the application is being reviewed?
+
+Agent: Under CFPB dual tracking rules, once you submit a complete loss mitigation application, we cannot advance the foreclosure while your application is under active review. I'll document the application initiation today and that provides you some protection while we process.
+
+Caller: Robert, I know this has been a brutal three years.
+
+Caller: It has. I'm just tired. But I'm not ready to give up. Not yet.
+
+Agent: Then let's fight for it. Start with the HAF Louisiana program — call them today if you can. And let's get your modification application started. I'll send you the document checklist to the phone number on file. Can you confirm your callback number?
+
+Caller: It's 225-555-0192.
+
+Agent: And email for the checklist?
+
+Caller: r.fenton77 at gmail.com.
+
+Agent: Perfect. I'm documenting this call, initiating the application, and sending you that checklist. And Robert — I really do hope the HAF program has funding. That would be the cleanest solution.
+
+Caller: Thank you for being straight with me. You're the first person in three years who's told me the full truth.
+
+Agent: You deserved it from the start. Anything else I can help you with today?
+
+Caller: No. I'm going to call that HAF number right now.
+
+Agent: Good. Take care, Robert.
+
+Caller: You too. Bye.
+
+Agent: Goodbye.

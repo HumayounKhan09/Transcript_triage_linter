@@ -1,0 +1,46 @@
+Agent: Thank you for calling Allied Home Mortgage, this is James. Can I get your loan number?
+Caller: Yes, it's 3348-556-90. I'm Doris Yamamoto.
+Agent: Thank you, Ms. Yamamoto. Can you verify your Social Security last four and the property address?
+Caller: 8802, and the property is 445 Clearwater Drive, Denver, Colorado 80220.
+Agent: I've got your account. How can I assist you today?
+Caller: I got a letter in the mail offering me what it calls a streamlined modification. It has a payment amount on it and says I should call or respond by a certain date. I want to understand what I'm agreeing to before I accept.
+Agent: That's exactly the right approach, Ms. Yamamoto. Let me pull up the offer we have on file. I can see the streamlined modification offer generated on June 10th, 2026, with a response deadline of July 10th, 2026. Can you confirm that's the letter you have?
+Caller: Yes, that's the one. Deadline July 10th.
+Agent: Good. Let me explain how a streamlined modification works and what this specific offer contains. A streamlined modification — sometimes called an "out of the box" mod — is a modification offer that is pre-evaluated using account data we already have. You don't need to submit a full financial package because we've already run the numbers. The terms are fixed, meaning we're offering specific modified terms and you either accept or decline.
+Caller: Okay. What are the terms being offered?
+Agent: The offer on your account includes the following changes. First, your interest rate would be modified from your current rate of 6.875% down to 5.500%, effective thirty days after acceptance. Second, your loan term would be extended. You currently have twenty-two years remaining on your loan; the modification extends it to a new forty-year term from the modification effective date. Third, your current monthly payment of $1,843.00 would be reduced to $1,312.00 under the modified terms.
+Caller: That's a pretty big reduction. Why is the rate lower?
+Agent: The rate reduction is calculated using investor guidelines — your loan's investor has a standard formula for streamlined modifications that sets the rate at a specific tier below market to achieve a target payment reduction. The goal is to bring the monthly payment to a level deemed sustainable based on typical income ranges for loans like yours.
+Caller: What happens to the money I'm behind on? I'm three months past due.
+Agent: Good question. In this streamlined offer, your arrears of $5,529.00 — three payments plus late fees — would be capitalized into the new loan balance. That means instead of owing them separately, they're folded into your new outstanding principal.
+Caller: So my loan balance goes up?
+Agent: Yes. Your current principal balance is $198,400.00. Adding the capitalized arrears of $5,529.00 brings the new starting balance to $203,929.00. Your modified payment of $1,312.00 per month is based on that new, higher balance at the lower rate over forty years.
+Caller: Forty years is a really long time. I'm 54 years old. I'll be 94 when this loan is paid off.
+Agent: That's an important personal consideration, and I want to be transparent about it. The longer term is what enables the lower payment, but yes — it does mean you'd be making payments well into retirement if you stay in the home and carry the loan to term. Many borrowers in this situation either refinance later when rates and equity allow, or sell before the loan matures.
+Caller: Does it make sense to accept this?
+Agent: That depends on your situation. The advantages are: lower monthly payment — you'd save $531.00 per month, your arrears are resolved without a lump sum payment, and there's no full application or income documentation required since it's streamlined. The considerations are: you're extending your loan significantly, your balance increases due to capitalization, and you'll pay more total interest over the life of the loan.
+Caller: How much more total interest?
+Agent: That's a detailed calculation, but at a high level — at your original rate on your original term, you had roughly twenty-two years of payments left. At the new rate over forty years, even though the rate is lower, the longer term means more total interest paid. The benefit is reduced cash flow strain now, at the cost of long-term interest.
+Caller: Can I negotiate the terms?
+Agent: Streamlined modifications are generally take-it-or-leave-it offers. The terms are set by the investor. However, if you want to negotiate — for example, if you'd prefer a shorter term in exchange for a slightly higher payment — you can decline this offer and apply for a standard modification with a full financial package. That gives more options but requires income documentation and takes longer.
+Caller: What if I accept and then decide I want to pay it off early? Can I?
+Agent: Yes. There is no prepayment penalty on this modification. You can make extra principal payments at any time, and many borrowers do exactly that — they accept the modification for the payment relief, then when they're financially stable, they make extra payments to shrink the term effectively.
+Caller: Is there a trial period or do I just accept and the new terms kick in?
+Agent: This streamlined modification does include a three-month trial period. You'd make three trial payments of $1,312.00 beginning August 1st, 2026. If all three are made on time, the permanent modification agreement is executed and the terms become permanent. If you miss a trial payment, the modification could be rescinded.
+Caller: So my first trial payment would be August 1st?
+Agent: Correct, assuming you accept and return the signed agreement before July 10th, 2026.
+Caller: How do I accept?
+Agent: The letter includes a signature page. Sign and date it and return it by the deadline. You can mail it to the address on the letter — Loss Mitigation Department, P.O. Box 2201, Denver, Colorado 80201 — or you can fax it to 1-888-441-3390, or upload a signed copy through our web portal.
+Caller: What if it gets lost in the mail?
+Agent: I'd strongly recommend fax or web portal for speed and confirmation. If you fax, keep the fax confirmation report as proof of transmission.
+Caller: Can you make note that I called and intend to accept?
+Agent: I can note that you called and were informed of the terms. However, the formal acceptance requires the signed document. Please don't rely solely on this call — the signed agreement is the binding acceptance.
+Caller: Understood. I want to talk to my son tonight before I decide, but I'm leaning toward accepting.
+Agent: That sounds wise. Your deadline is July 10th — thirteen days away — so you have time for that conversation. Is there anything specific your son might want to understand about the offer that I can clarify now?
+Caller: He might ask about the effect on our equity. Does the modification affect our equity position?
+Agent: Yes, slightly. Because your balance increases by $5,529.00 due to the capitalized arrears, your equity decreases by that amount on day one. However, the lower rate and your continued payments will build equity over time. The net effect on equity is modest compared to the cash flow benefit of $531.00 per month.
+Caller: That's helpful. Thank you, James.
+Agent: Of course. Your loan number is 3348-556-90, deadline July 10th. Please don't miss that window.
+Caller: I won't. Thank you for going through all of this with me.
+Agent: My pleasure. Have a good day, Ms. Yamamoto.
+Caller: Goodbye.

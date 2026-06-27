@@ -1,0 +1,33 @@
+Agent: Thank you for calling Meridian Home Lending, this is Christopher speaking. How can I help you today?
+Caller: Hi Christopher, my name is Gerald Okafor. I have a question about a quitclaim deed. I signed one transferring my property to my brother, but I'm still on the original mortgage. Does that mean I'm no longer responsible for the loan?
+Agent: Hi Gerald. That's a really important question and one that comes up more often than you might think. The short answer is no — signing a quitclaim deed does not release you from the mortgage obligation. Let me explain why. Do you have your loan number available?
+Caller: Yes, it's 3309155.
+Agent: Thank you. Let me pull that up. Okay, I have your account. The property is at 408 Elmhurst Drive. The loan balance is $223,590.44 and the monthly payment is $1,721.08. Both you and — it looks like originally just you — are on the mortgage note. Is that right?
+Caller: Yes, it's just my name on the mortgage. I was the one who got the loan originally.
+Agent: Understood. So here's the important distinction you need to understand. There are two separate legal documents at play here. One is the deed, which determines who owns the property. The other is the promissory note and mortgage, which is the contract between you and the lender. When you signed the quitclaim deed to your brother, you transferred your ownership interest in the property. Your brother now has title to the home.
+Caller: Right.
+Agent: But your name is still on the mortgage note. The lender — in this case us — was not a party to that quitclaim deed and did not release you from the debt. So from our perspective, you are still fully responsible for repaying this loan, regardless of who owns the property.
+Caller: But that doesn't make sense. I don't even own the house anymore. Why am I still on the hook?
+Agent: I understand how that feels counterintuitive. Think of it this way: when you signed the mortgage, you made a promise to repay the lender. The lender loaned you $223,000 based on your creditworthiness. The lender hasn't agreed to release you from that promise just because you gave the property to someone else. The only way to be released from the mortgage obligation is through a formal release by the lender, which would typically happen through a payoff or a refinance.
+Caller: So what happens if my brother stops paying the mortgage?
+Agent: If payments stop being made, the lender can foreclose on the property — even though your brother now owns it — because the mortgage creates a lien on the property regardless of who holds title. And since you're the one on the note, the default would affect your credit score, you could face collection actions, and the lender could potentially pursue you for any deficiency balance if the foreclosure sale doesn't cover the full loan amount.
+Caller: This is a lot worse than I realized. My brother assured me he'd take over payments. We just thought the quitclaim deed handled everything.
+Agent: That's a very common misunderstanding. Real estate attorneys see this frequently. The quitclaim deed handled the title — the ownership — but it didn't touch the mortgage. I want to make sure you understand the full picture.
+Caller: Is there any way to get my name off the mortgage now?
+Agent: Yes, but it requires your brother to take action. He would need to qualify for and obtain a new mortgage in his own name, using the proceeds to pay off your current loan. That's called a refinance. Once your loan is paid off through a refinance in his name only, you'd be fully released from the obligation.
+Caller: What if he can't qualify for a mortgage?
+Agent: That's where it becomes complicated. If he can't qualify on his own, you have a few options. You could explore whether there's a co-borrower who could help him qualify. You could sell the property outright, which would pay off the mortgage. Or you could attempt to negotiate something directly, but from the lender's standpoint, you remain obligated until the loan is satisfied.
+Caller: What about a loan assumption? Could my brother just assume my mortgage?
+Agent: Your loan is a conventional mortgage, and conventional loans typically include a due-on-sale clause. That clause says that if the property is transferred without the lender's consent, the lender has the right to call the entire loan balance due immediately. Technically, the quitclaim deed you signed may have triggered that clause already.
+Caller: Wait — they could demand the full $223,000 right now because of the deed?
+Agent: Technically, yes, that's a possibility. Lenders don't always enforce that clause immediately, but they have the right to. I'd strongly encourage you to consult with a real estate attorney as soon as possible. This is a situation where legal counsel is really important.
+Caller: I had no idea any of this could happen. I just thought it was a simple paperwork thing.
+Agent: Unfortunately quitclaim deeds are often misunderstood. They're simple documents but they have significant legal implications — and they don't do what most people assume in the context of a mortgage. Has the property continued to receive payments since the deed was signed?
+Caller: Yes, my brother has been making the payments for about four months now. It's been fine so far.
+Agent: That's good. The loan is current, which means the lender hasn't taken any action. But to protect yourself going forward, you really need to consult an attorney and ideally get your brother started on a refinance application so you can be formally released.
+Caller: I appreciate you being straight with me about this. I feel like I've been walking a tightrope without knowing it.
+Agent: I understand. These are exactly the kinds of details that get people into trouble when they try to handle real estate transfers without legal guidance. Is there anything else I can help clarify today?
+Caller: No, I think I need to go call a lawyer first. Thank you for explaining all of this, Christopher.
+Agent: Of course. Please don't hesitate to call us back if you have more questions. Have a good day, Gerald.
+Caller: Thank you. Bye.
+Agent: Goodbye.

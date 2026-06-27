@@ -1,0 +1,64 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Rachel, how can I help you today?
+Caller: Hi. My name is Jasmine Cordero. Loan number 3374-881-227. I'm a single mom and I'm calling because my childcare costs just went up dramatically and I genuinely can't afford my mortgage payment anymore. I don't know what to do.
+Agent: Jasmine, thank you for calling. I know that took courage. Let me pull up your account and we'll go through everything together. Property address and date of birth?
+Caller: 801 Fernbrook Lane, Kansas City, Missouri 64112. Date of birth is December 3, 1990.
+Agent: And last four Social?
+Caller: 6628.
+Agent: Got your account. First — are you current on the mortgage right now?
+Caller: I'm one month behind. I missed June. I made April and May but June I couldn't do. I'm scared.
+Agent: You called at the right time. Being one month behind is manageable — you have a lot of options at this stage. Tell me what happened. What changed with childcare?
+Caller: I have two kids. Maya is five and she just aged out of the subsidized childcare program I've had since she was two. My son Darius is eight — he's in school, I just need afterschool for him. Maya was at a subsidized center — I was paying $185 a month because of the subsidy. In June, she aged out of the subsidy program and I had to move her to a regular private daycare. It's $1,340 a month.
+Agent: That's a $1,155 jump in one month.
+Caller: And I didn't see it coming until April when they told me. I thought the subsidy went until she started kindergarten, but I had a misunderstanding of the rules. It ends at age 5, not when she starts school. Kindergarten doesn't start until September. So I have three months with no subsidy before she's in school and childcare costs are dramatically lower.
+Agent: So this is a three-month acute crisis — June, July, August — until Maya starts kindergarten and your childcare costs normalize?
+Caller: More or less. In September, Maya will be in school. I'll still need afterschool for both of them but that's through the school's program — it's $210 a month for both. So in September my childcare goes from $1,525 today — $1,340 for Maya plus $185 for Darius's afterschool — back to $210. That's a $1,315 reduction starting September.
+Agent: That is a dramatic change, and it's only three months away. Tell me your income situation.
+Caller: I'm a medical billing specialist. I make $3,420 a month take-home. That's my only income. I don't receive child support — their father is not involved.
+Agent: Okay. And your mortgage payment?
+Caller: $1,419 a month. Thirty-year fixed. I bought this house three years ago. It was a big deal for me — first home, single mom, I saved for four years for the down payment.
+Agent: I can hear how much that home means to you. Let's work through your budget. Income $3,420. Mortgage $1,419. Childcare currently $1,525. That's $2,944 in two bills alone against $3,420. What else do you have?
+Caller: Utilities — electric and gas — maybe $130 a month. My car payment is $247. Car insurance $109. Groceries for three, I'm very careful, about $480. My phone is $45. I don't have cable or streaming. Nothing extra.
+Agent: Total expenses: mortgage $1,419, childcare $1,525, car $247, insurance $109, utilities $130, groceries $480, phone $45. That's $3,955 against $3,420 income. You're $535 in the red every month right now.
+Caller: And I've been making it work by not paying the mortgage. Which is terrible and I know it's terrible but I had to choose between feeding my kids and paying the mortgage.
+Agent: You were choosing survival for your children. That's not terrible — that's a parent doing what parents do. And I want to help you find a path that doesn't make you choose anymore.
+Caller: I just need to get through three months. September changes everything.
+Agent: I know. Three months. That's the entire story here. Let me tell you what we can do.
+Caller: Please.
+Agent: You're an ideal candidate for a short-term forbearance. Your hardship is real, documented, and has a defined end date. Starting kindergarten in September is a verifiable, date-certain event. The $1,315 monthly reduction in childcare is dramatic and predictable. This is exactly the kind of situation a three-month forbearance is designed for.
+Caller: And the payments I miss — what happens to them?
+Agent: The most likely resolution for a three-month forbearance is a deferral. The three missed payments — roughly $4,257 including the June payment already missed — would be added to the back of your loan as a non-interest-bearing amount. In September, your regular payment resumes at $1,419. The $4,257 lives at the end of your loan.
+Caller: That sounds manageable. And the June payment I already missed — is that included?
+Agent: Yes. The forbearance can be backdated to June 1st, bringing the missed June payment under the same terms.
+Caller: So I would owe nothing from June through August, and in September I just start paying again normally?
+Agent: That's the goal. It's not zero risk — the application needs to be reviewed and approved — but given the clarity of your hardship and your prior payment history, I'd expect this to go smoothly.
+Caller: My payment history — I was clean before June, right?
+Agent: Three years, clean. June is the first miss. That history supports your application significantly.
+Caller: Okay. What do I need to submit?
+Agent: I'm opening your hardship case right now — HP-2025-031998. For documentation I need your two most recent pay stubs, proof of the childcare costs — your current childcare invoices or contract — and documentation of the upcoming change, meaning Maya's kindergarten enrollment or the school's afterschool program confirmation for September. That last piece is really important because it demonstrates the hardship is definitively ending.
+Caller: I have her kindergarten enrollment confirmation. I just registered her last week. And I have the current daycare invoices.
+Agent: Perfect. Those two documents together — current cost and future reduction confirmation — make a very clear story. Upload at meridianmortgage.com/hardship-upload, reference HP-2025-031998 on everything. Or I can give you a fax number.
+Caller: I'll upload. My internet works fine. What's the timeline?
+Agent: With complete documents, I'm targeting a five-to-seven-business-day decision, which puts you well before the end of July. I'm going to flag this as time-sensitive given the active delinquency and the defined resolution.
+Caller: And while the application is being processed, is July's payment due? Because it's already the 27th.
+Agent: I'm placing a hardship pending notation on your account as of right now. That prevents late fees and holds adverse action during the review. Your July payment will be part of the forbearance — don't pay it while the review is active or we'll need to sort out how to apply it.
+Caller: Okay. Don't pay July while the review is active. Got it.
+Agent: Now — let me also mention a few other resources, because three months of shortfall is manageable but I want to make sure you know everything available to you.
+Caller: Please. I've been doing this alone and I haven't known who to call.
+Agent: First — have you applied for childcare subsidy programs beyond what you had? Missouri has the Child Care Assistance Program through the Department of Social Services. The age-out rules can vary and there may be transitional assistance available specifically for kids in the gap period between subsidy expiration and kindergarten.
+Caller: I didn't know that. I thought once the old program ended, I was done.
+Agent: It's worth calling 1-855-373-4636, which is Missouri DSS Family Support. Explain Maya's situation — aged out of subsidy, starts kindergarten in September — and ask specifically about bridge or transitional assistance. Even a partial subsidy for three months would help significantly.
+Caller: I'll call them today.
+Agent: Second — SNAP, if you're not already on it. As a single mother of two with your income level, you likely qualify for food assistance. That would free up the $480 monthly grocery budget for other needs.
+Caller: I have applied before but I was just over the limit when I applied. But that was two years ago. My situation has changed.
+Agent: Reapply. With your current childcare costs as a documented expense, your net available income looks very different to SNAP calculators. The threshold might work in your favor now. Missouri SNAP is through the same DSS number.
+Caller: I'll look into that too.
+Agent: Third — HUD-approved housing counselors at 1-800-569-4287 can provide free comprehensive financial counseling for your full situation. They're especially good at identifying local emergency assistance funds and Kansas City has some.
+Caller: I feel like I've been so isolated trying to figure this out alone. Why didn't I know about any of these things?
+Agent: Because you're working, raising two kids, and managing a home by yourself. You don't have time to research assistance programs. That's what these calls are for. Let us be one of your resources.
+Caller: I'm going to write all of this down. Missouri DSS 1-855-373-4636, reapply for SNAP, HUD counselors 1-800-569-4287.
+Agent: Exactly right. And upload those documents as soon as you can. Case HP-2025-031998. Email?
+Caller: jasmine.cordero90 at gmail dot com.
+Agent: Acknowledgment will go there today with the complete document checklist. Jasmine — you bought this house for your kids. We're going to help you keep it.
+Caller: Thank you, Rachel. I've been so scared and I feel so much better right now.
+Agent: You called. That was the hard part. Everything else is process. Take care of yourself and those kids. Goodbye.
+Caller: Thank you so much. Goodbye.

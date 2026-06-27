@@ -1,0 +1,43 @@
+Agent: Thank you for calling National First Mortgage, this is Kevin speaking. How can I help you today?
+Caller: Hi Kevin. I want to set up automatic payments. I keep forgetting to mail my check and I almost missed my grace period last month. I think autopay would just be easier.
+Agent: Absolutely, autopay is a great option and I'd be happy to get that set up for you today. Let me pull up your account first. Can I get your full name and the last four of your Social Security number?
+Caller: Sure. My name is Angela Troutman. Last four is 8847.
+Agent: Thank you, Angela. And your property address?
+Caller: 3309 Sycamore Hill Road, Louisville, Kentucky 40217.
+Agent: Perfect. And the last four of your loan number?
+Caller: 2281.
+Agent: Great, I've got your account up. So I can enroll you in our ACH autopay program today. Before I do, let me cover a few things so you know exactly what to expect.
+Caller: Yes, please. I have a lot of questions actually.
+Agent: Go right ahead.
+Caller: Okay first, what day does it draft? Because I get paid on the fifteenth and I want to make sure there's money in the account.
+Agent: That's a great question. Our autopay program drafts on the first of each month, which is your due date. However, I can also enroll you in a draft date of up to the tenth of the month, still within your grace period, if that works better with your pay schedule.
+Caller: Fifteenth would be ideal honestly, but you said up to the tenth?
+Agent: Correct. Because your grace period ends on the fifteenth, we can draft on any date from the first through the tenth. The latest available draft date would be the tenth. If you're paid on the fifteenth, would the tenth work, or would you prefer we look at a different option?
+Caller: The tenth might be a little tight. Is there any way to do the twelfth or thirteenth?
+Agent: Unfortunately the latest available in our system is the tenth of the month. Some customers in your situation choose to use a small savings buffer or make a manual payment in months where timing is tight. But I completely understand if that's not ideal.
+Caller: Let me think about that. Okay, the tenth is probably fine. I can just make sure I keep a little cushion in my checking. Let's do the tenth.
+Agent: Perfect. I'll note the draft date as the tenth. Now, do you want to draft the minimum payment amount, which is your regular monthly installment of $1,564, or would you like to set a fixed amount?
+Caller: Just the regular payment. I don't want anything extra drafted automatically.
+Agent: Understood. So autopay will draft your regular scheduled payment of $1,564 on the tenth of each month. Now, will you be using a checking or savings account?
+Caller: Checking.
+Agent: And can I get your bank's routing number and your account number?
+Caller: Routing is 083000137. Account number is 4490027163.
+Agent: Thank you. Let me confirm: routing 083000137, account 4490027163, checking account?
+Caller: That's right.
+Agent: Great. Now a couple more things you should know. Autopay will typically go into effect within one to two billing cycles. If today is the fifteenth of the month and your next payment is due in two weeks, you may need to make that one manually just to be safe. I'll let you know when it takes effect.
+Caller: Okay, so when will it actually start?
+Agent: Looking at your account, your next payment is due June first. Given that we're setting this up today on May 15th, there's a good chance your first autopay draft will be June 10th. However, I do recommend verifying with a letter you'll receive in the mail confirming the effective date. If that confirmation doesn't arrive in five to seven business days, please call us back.
+Caller: Will I get a reminder before it drafts?
+Agent: We do not send a reminder before each draft, but you'll receive your regular monthly statement which will show the upcoming scheduled autopay amount. You can also log into your account online to verify the scheduled draft date and amount anytime.
+Caller: Okay. And if I need to cancel autopay, how do I do that?
+Agent: You can cancel at any time by calling us or by logging into your online account and removing the payment method. We just ask that cancellations be made at least three business days before the next scheduled draft date to ensure it doesn't process.
+Caller: That makes sense. And it won't charge me any extra fee for autopay, right?
+Agent: No fee at all. In fact, some customers find autopay gives them peace of mind knowing the payment is handled. There's no cost to enroll or maintain it.
+Caller: Wonderful. And one last thing — if my payment amount changes, like if my escrow goes up, does autopay update automatically?
+Agent: Yes, it does. Our system will automatically adjust the draft amount to reflect your new payment amount. You'll be notified of any changes via your annual escrow analysis letter.
+Caller: Perfect. I think that covers everything. I feel much better about this now.
+Agent: Great. I've submitted the autopay enrollment. You'll receive a confirmation letter in the mail within five to seven business days with all the details. Is there anything else I can help you with today, Angela?
+Caller: No, I think that's it. Thank you so much, Kevin.
+Agent: My pleasure. Thank you for calling National First Mortgage. Have a great day.
+Caller: You too. Bye-bye.
+Agent: Goodbye.

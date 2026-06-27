@@ -1,0 +1,47 @@
+Agent: Thank you for calling Broadview Mortgage, this is Kevin. Can I get your loan number?
+Caller: Hi. Loan number is 472938. Name is Stuart Nakamura.
+Agent: Thank you, Mr. Nakamura. Property address and last four of Social?
+Caller: 8814 Westgate Court, Denver, Colorado. Social ends in 4459.
+Agent: I have your account. What can I help you with today?
+Caller: I have a rental property — that's the address I gave you, on Westgate. I've owned it for seven years. The rate on that loan is 6.875% and I'm wondering if I can refinance it. I know investment property refinances are harder than primary residence. I want to understand what I'm up against.
+Agent: Great question, and you're right that investment property refinances have different requirements than primary residence refinances. Let me pull up the details on that loan. Your rental property loan — balance is $187,400, 30-year term, originated in 2017. Your current rate is 6.875%, monthly payment is $1,230. Does that look right?
+Caller: Yes, that's right.
+Agent: For context, let me also look at any other loans on your file. I see this is your only loan with us. Do you have a primary residence mortgage elsewhere?
+Caller: Yes, I own my primary home in Denver outright — no mortgage. And the Westgate property is the only investment property I have.
+Agent: Excellent. Owning your primary free and clear actually simplifies things. Let me walk you through what investment property refinance underwriting looks at, because it's different from a primary in several important ways. First, the loan-to-value requirements are stricter. For a primary residence refinance, you can generally go up to 95% LTV. For an investment property, conventional guidelines — specifically Fannie Mae and Freddie Mac — require a maximum LTV of 75% for a single-unit rental property. So whatever the current appraised value is, you can only borrow 75% of it.
+Caller: What's my current LTV?
+Agent: Your loan balance is $187,400. What do you think the property is worth today?
+Caller: The property manager pulled some comps last month. She thinks it's worth $295,000, maybe up to $310,000. Denver has slowed down but the area is holding up.
+Agent: Let's use $295,000 as the conservative estimate. 75% of $295,000 is $221,250. Your balance is $187,400. So your LTV is 187,400 divided by 295,000, which is 63.5%. You're well within the 75% limit. That's a strong position.
+Caller: Good. What else does underwriting look at?
+Agent: Second, reserves. For investment property refinances, lenders typically require 6 months of mortgage payments in liquid reserves after closing. On a $187,400 loan at current rates — let's say around 7.25% for investment property — your new payment would be about $1,280 per month. So reserves required would be 6 times $1,280, which is $7,680 that you need sitting in a liquid account after paying closing costs. Do you have that available?
+Caller: I have considerably more than that in a money market account.
+Agent: Good. Third is income documentation and the rental income piece. For an investment property, underwriters look at rental income as part of your qualifying income. Here's how it works: they typically use 75% of your gross rental income to account for vacancy and maintenance expenses. What does the property currently rent for?
+Caller: $1,850 a month. The tenants have been there for three years, great payment history.
+Agent: 75% of $1,850 is $1,387.50 per month that counts toward your qualifying income. Now, since you don't have a primary mortgage — no housing expense — the investment property payment-to-income ratio works differently. Underwriters will look at your total monthly debt obligations versus your total income. Can you tell me about your income? W-2 employment, self-employed, retirement?
+Caller: I'm self-employed. I own an accounting firm. My 2023 net income as shown on my Schedule C was $142,000 after deductions. I also have about $18,000 in rental income from this property annually — though I depreciate it heavily so on paper the rental income is minimal or even a loss.
+Agent: This is where self-employed borrowers with investment properties get tricky. Lenders use your tax return income, not cash flow. If your Schedule E — that's the rental income and loss schedule — shows a net rental loss because of depreciation and expenses, that loss may actually be deducted from your qualifying income, which can lower the income the lender counts.
+Caller: That's counterintuitive. The property cash flows positive — I collect $1,850 a month, my mortgage is $1,230, I net over $600 a month. But my tax return shows a loss.
+Agent: Exactly — and that's a common frustration for real estate investors. The depreciation on the property is a paper expense that reduces your taxable income, which is great for taxes, but it reduces your qualifying income for mortgage purposes. Let me explain how lenders handle this. For Fannie Mae qualifying, they add back the depreciation deduction from Schedule E to the net rental income. So if your Schedule E shows negative $8,000 in net rental income but you took $14,000 in depreciation, the lender would add back the $14,000 and count $6,000 net positive rental income.
+Caller: Okay, that's better. Can you estimate what my qualifying income would look like?
+Agent: Your Schedule C business income — what methodology does your accountant use? Year-over-year average?
+Caller: Yes. 2022 was $128,000 and 2023 was $142,000. Average is $135,000.
+Agent: $135,000 annual or $11,250 per month in business income. Then rental income after add-backs — if your actual depreciation is around $12,000 to $14,000 and your net rental loss on the return is, say, negative $5,000, the add-back puts you at approximately $7,000 to $9,000 positive annually, or roughly $600 to $750 per month. Total qualifying income: approximately $11,850 to $12,000 per month.
+Caller: And what would my debt obligations be?
+Agent: The new investment property payment at today's rate. Let me calculate a refinance of $187,400 at 7.25% for 30 years — that's approximately $1,278 per month. Any other monthly debts? Car loans, credit cards?
+Caller: I have two car loans totaling $890 per month. No other debts.
+Agent: Total monthly obligations: $1,278 plus $890 equals $2,168. Against qualifying income of $11,850. Your debt-to-income ratio is 18.3%. That's extremely low — guideline maximum is 45%. You'd sail through the DTI requirement.
+Caller: So I look like a strong borrower for this refinance.
+Agent: On paper, yes. Low LTV, strong income, low DTI, good reserves. The question is whether the math of refinancing makes sense. Your current rate is 6.875% and investment property rates today are approximately 7.25% to 7.5%, depending on the lender and your specific pricing adjustments.
+Caller: Wait — the new rate would be higher than my current rate?
+Agent: For investment properties, current market rates are in that range. Lenders apply what are called Loan Level Price Adjustments — LLPAs — to investment property loans. These are pricing hits that increase your effective rate above what a primary residence borrower would get. At 63.5% LTV, your LTV is favorable, but the investment property designation adds roughly 1.5% to 1.75% to your rate compared to a comparable primary residence.
+Caller: So I'm at 6.875% now and the market is 7.25% to 7.5% for investment. There's no savings here.
+Agent: At current rates, no — a rate-and-term refinance doesn't make sense because you'd be going to a higher rate. The situation would change if market rates dropped significantly. If investment property rates got to 5.5% or 6%, then you'd see meaningful savings.
+Caller: What if I wanted to take cash out? Is a cash-out refinance different?
+Agent: Cash-out refinances on investment properties have even stricter limits — maximum LTV of 70% for cash-out on a single-unit investment property. 70% of $295,000 is $206,500. Your current balance is $187,400, so you could potentially pull out $206,500 minus $187,400 minus closing costs — roughly $15,000 to $18,000 in cash. But again, you'd be increasing your rate and your balance, and rates are unfavorable right now.
+Caller: I was thinking about this for the wrong reason then. The rates aren't there.
+Agent: For now, no. Your existing rate is actually better than what the market is offering for investment property today. This call has essentially confirmed that you should hold your current loan. Watch the market, and when investment property 30-year rates get into the 5.5% to 6% range, give us a call again and we'd run through the numbers with you.
+Caller: That's really helpful. I feel like I dodged a mistake — I was close to calling a broker to start the process.
+Agent: It's always worth asking first. What you described would have resulted in a higher rate than you have now, plus closing costs. Your current loan is actually a good one at 6.875% given today's investment property environment. Your reference number for today is 2240-SNK-INV. Is there anything else?
+Caller: No, that's everything. Thanks for being straight with me.
+Agent: Happy to help. Take care, Mr. Nakamura.

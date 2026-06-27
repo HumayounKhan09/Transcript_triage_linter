@@ -1,0 +1,55 @@
+Agent: Meridian Home Lending. This is Yuki. How can I help you today?
+Caller: Hi. My name is Carla Mendez. I'm in the process of refinancing with another lender and they're asking me for a payment history report covering the last twenty-four months. Do you provide that and can you get it to me quickly?
+Agent: Hi Carla, yes, we can absolutely provide a payment history report. Let me pull up your account first. Can I get your loan number?
+Caller: It's 4-4-7-0-9-3-1.
+Agent: Property address?
+Caller: 842 Westfield Boulevard, Phoenix, Arizona, 85032.
+Agent: Last four of your Social?
+Caller: 3-3-4-1.
+Agent: Thank you. I have your account. So a twenty-four month payment history is a standard document request. Let me tell you what it contains and the options for getting it to you.
+Caller: I mostly need to know how fast I can get it. My rate lock expires in two weeks.
+Agent: Understood, time is definitely a factor here. Let me start with the fastest option. We can generate an electronic payment history report in PDF format, which can be emailed to you within one to two business days.
+Caller: That's fine. Can I get it any faster?
+Agent: In some cases, for refinance situations with a tight timeline, we can do same-day for urgent requests. I'd need to flag this as a rate-lock urgency. Let me check if that's available for your account.
+Caller: Please.
+Agent: Yes, I'm seeing the option to escalate to urgent processing. If I flag this as a refinance rate-lock urgency, the report typically goes out within four hours during business hours.
+Caller: That would be amazing. Yes, please escalate it.
+Agent: Will do. Now let me make sure I understand exactly what the new lender needs. Some lenders want just a payment history showing dates received and amounts. Others want a formal Verification of Mortgage, or VOM, which includes additional loan details. Do you know which they need?
+Caller: They called it a VOM. Verification of Mortgage.
+Agent: Okay, that's a slightly more detailed document. The VOM includes your loan origination date, current unpaid principal balance, original loan amount, current monthly payment amount, interest rate, and then the twenty-four month payment history showing each month's due date, payment received date, and amount. Some also show whether each payment was made within the grace period.
+Caller: That sounds like what they described. Is the VOM something you issue?
+Agent: Yes, we issue it on our company letterhead and it's signed by an authorized loan servicing officer. It's a certified document that the new lender will accept.
+Caller: Great. Can it be sent directly to the new lender?
+Agent: Yes. We can send it to you and to the new lender simultaneously, or to the new lender only with you copied. What would you prefer?
+Caller: Send it to both. They'll need it officially from you but I want to see it too.
+Agent: Makes sense. What email address should I use for you?
+Caller: C-mendez-phx at gmail dot com.
+Agent: And the new lender — do you have their contact email?
+Caller: The loan officer's name is Jason Park at Sunrise Federal Bank. His email is j-park at sunrisefedbank dot com.
+Agent: Got it. I'll address the VOM to Jason Park, Sunrise Federal Bank. And your email for a copy is c-mendez-phx at gmail dot com. Let me also confirm there's no issue with your payment history that would affect this document before we send it.
+Caller: I hope not. I've been pretty good.
+Agent: Let me look through the last twenty-four months. January through now — I can see all twelve months this year showing payments received, and I'm going back through the prior twelve months. You have a very clean history. Twenty-four consecutive on-time payments, no late fees assessed, no grace period violations.
+Caller: That's a relief to hear.
+Agent: You should feel confident about the VOM. Lenders like to see clean payment history and yours is exactly what they want to see.
+Caller: Is there a fee for the VOM?
+Agent: For a refinance VOM, we do charge a document fee. It's twenty-five dollars.
+Caller: Can I pay that now?
+Agent: Yes. I can process it from your bank account by phone. Or it can be charged to your loan account. Which would you prefer?
+Caller: I'll pay it directly. I don't want it added to the loan balance since I'm refinancing anyway.
+Agent: Smart thinking. Go ahead with your routing and account number.
+Caller: Routing 1-2-2-1-0-5-0-5-5. Account 8-8-9-0-1-4-5-5-3.
+Agent: Routing 1-2-2-1-0-5-0-5-5, account 8-8-9-0-1-4-5-5-3. Twenty-five dollar VOM fee. Is that correct?
+Caller: That's right.
+Agent: Payment processed. Your VOM request is flagged as urgent with rate-lock urgency noted. Your document request number is VOM-3-3-5-0-0-8-2. The report should be sent within four hours to both emails.
+Caller: VOM-3-3-5-0-0-8-2. And if I don't see it by end of business today?
+Agent: Call us back with that reference number and we'll check the status and resend if needed. You can also call the document services line directly if you reach us outside of business hours.
+Caller: Is there anything else the new lender might ask for that I should be aware of?
+Agent: Sometimes they also request a mortgage statement showing the current balance and payment information, or a payoff statement if they want to see the exact amount needed to close out your loan. Since you're refinancing, they'll probably ask for a payoff statement closer to your closing date.
+Caller: How do I get a payoff statement?
+Agent: Same process — you'd call or request through the portal. For refinances, we recommend requesting it about a week before your closing date, since payoffs are good for a specific number of days. The title company typically orders it for you, but you can request it yourself as well.
+Caller: Good to know. I think between the VOM today and the payoff later, I should have everything.
+Agent: That sounds right. Is there anything else I can help with?
+Caller: No, that's everything. Thank you for rushing this, Yuki. I really appreciate it.
+Agent: Of course. Good luck with the refinance. I hope you get a great rate.
+Caller: Me too. Thanks again. Bye.
+Agent: Goodbye, Carla. Take care.

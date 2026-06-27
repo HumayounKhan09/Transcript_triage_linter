@@ -1,0 +1,43 @@
+Agent: Thank you for calling Pinnacle Loan Services. This is Tyler. Can I get your name and loan number?
+Caller: Tyler, my name is Samuel Greer. Loan number is 6-5-0-4-8-8-3.
+Agent: Thank you, Mr. Greer. Property address and last four of Social?
+Caller: 3318 Rosewood Terrace, Phoenix, Arizona 85016. Last four is 3-3-0-7.
+Agent: Got it, account is open. What can I help you with?
+Caller: My house was foreclosed on about four months ago. I walked away. I didn't try to fight it. But now I'm getting letters from a law firm saying they're going to pursue me for the deficiency — the difference between what I owed and what the house sold for. I want to understand what a deficiency judgment is and whether you can actually come after me for that money.
+Agent: I understand this is a stressful situation, Mr. Greer, and I want to give you useful information while also being clear that you should consult with an Arizona attorney about the specifics of your case. I can speak to general principles and Arizona's framework.
+Caller: That's fine. I just want to understand the basics.
+Agent: A deficiency judgment arises when a property is foreclosed and sold for less than the total amount owed on the mortgage — principal, interest, fees, and foreclosure costs. The difference is called the deficiency. In states that allow it, the lender or a party who purchases the judgment can seek a court order — a deficiency judgment — that makes you personally liable for that amount.
+Caller: Arizona does allow deficiency judgments?
+Agent: Arizona has specific and important limitations on deficiency judgments that protect homeowners in many cases. Under Arizona Revised Statutes Section 33-814, there is an anti-deficiency statute that prohibits deficiency judgments in certain circumstances. Specifically, a deficiency judgment is not permitted if the property is a single-family or two-family dwelling and was 2.5 acres or less in size, and the loan was used to purchase the property — meaning it was a purchase money mortgage.
+Caller: My house is a single-family home on a standard lot. Way less than 2.5 acres. And the original loan was to buy the house.
+Agent: Then under Arizona's anti-deficiency statute, you may have a strong argument that no deficiency judgment is available against you. The anti-deficiency protection in Arizona is specifically for purchase money mortgages on one-to-two family residential properties on 2.5 acres or less.
+Caller: So why is a law firm sending me letters threatening a lawsuit?
+Agent: There are a few possibilities. One is that the law firm may not have all the facts about your loan's nature and is making a general attempt that may not be legally supportable in your case. Another is that your situation may have nuances that affect the anti-deficiency protection — for example, if the loan was refinanced at some point. If you refinanced the original purchase money mortgage, the new loan might not be considered a purchase money mortgage and could potentially be subject to deficiency claims in some states.
+Caller: I did refinance in 2022. The original purchase was in 2017.
+Agent: That's a very significant fact. In Arizona, whether a refinanced loan retains purchase money status has been litigated, and the courts have generally held that a refinance replaces the original purchase money mortgage with a new obligation that is not itself a purchase money loan — meaning the anti-deficiency protection may not apply to a refinanced loan.
+Caller: So because I refinanced, they might actually be able to come after me?
+Agent: That's a possibility you need to evaluate with an Arizona attorney who handles foreclosure and deficiency law. The refinance issue is a genuine legal gray area that has produced different outcomes in different situations. I don't want to tell you definitively either way because I'm not your legal counsel.
+Caller: Understood. How much is the deficiency they're claiming?
+Agent: Let me look at your account. Your loan balance at the time of foreclosure was $228,700. The property sold at the trustee's sale for $194,000. That's a deficiency of $34,700 plus any foreclosure costs and fees. Is that consistent with what the law firm is claiming?
+Caller: The letter says $38,400. So close — they're adding fees.
+Agent: That's typical. Foreclosure costs — trustee fees, recording fees, legal fees — get added to the deficiency calculation. Under Arizona law, there's also a fair value limitation on deficiency judgments even when they are allowed. The court must use the greater of the fair market value of the property at the time of the sale or the actual sale price when calculating the deficiency, rather than simply the difference between the loan balance and the sale price.
+Caller: What does the fair value limitation mean practically?
+Agent: If the court determines the fair market value of your property at the time of foreclosure was actually $210,000 — higher than the trustee's sale price of $194,000 — then the deficiency would be calculated as $228,700 minus $210,000 equals $18,700, not $34,700. The law prevents lenders from buying the property cheap at a distressed sale and then suing you for the full gap.
+Caller: So they can't necessarily get the full $38,000 even if they pursue it.
+Agent: That's correct. The fair value hearing is part of the Arizona process when a lender seeks a deficiency judgment after a trustee's sale. You'd have the right to present evidence of the property's fair market value.
+Caller: How long do they have to file for a deficiency judgment in Arizona?
+Agent: Under Arizona law, a lender must bring a deficiency action within 90 days of the trustee's sale. The foreclosure sale was approximately four months ago, you said?
+Caller: The sale was February 14th.
+Agent: Today is June 18th — that's approximately four months and four days ago. The 90-day window from February 14th would have expired around May 15th.
+Caller: So their time may have already run out.
+Agent: If the trustee's sale occurred on February 14th and the 90-day statute of limitations under Arizona Revised Statute 33-814 ran until May 15th, then a deficiency action filed after May 15th would potentially be time-barred. This is absolutely something to raise with an Arizona attorney.
+Caller: I'm going to call an attorney today. This is the information I needed.
+Agent: That's the right move. Make sure you bring the law firm's letter, any documentation of the original purchase loan in 2017, the refinance documents from 2022, and anything showing the February 14th sale date. An Arizona foreclosure attorney can quickly assess whether the anti-deficiency statute applies to your refinanced loan and whether the 90-day window has expired.
+Caller: Are there free legal resources? Attorneys are expensive.
+Agent: Yes. Arizona has several nonprofit legal aid organizations — Arizona Legal Aid, Community Legal Services, and others — that provide free or low-cost services to qualifying individuals in foreclosure and housing matters. There are also HUD-approved housing counselors who can help you understand your rights and connect you with legal resources.
+Caller: I'll look those up. Thank you, Tyler. This is the most useful information I've gotten from anyone about this.
+Agent: I'm glad I could help provide some context, Mr. Greer. Please do follow up with an attorney — these facts really matter in your situation. Is there anything else I can help you with on your account?
+Caller: No, the account is done, I suppose. I just needed to understand the legal side.
+Agent: Understandable. Good luck, and please call us at 1-800-555-0434 if any account-related questions come up. Take care.
+Caller: Thank you. Goodbye.
+Agent: Goodbye.

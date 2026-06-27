@@ -1,0 +1,35 @@
+Agent: Thank you for calling Vanguard Home Loans, this is Jennifer speaking. How can I help you today?
+Caller: Hi Jennifer. My name is Frederick Larson. I'm trying to sell my house and the buyer says they want to assume my mortgage instead of getting a new loan. I honestly have no idea what that means or if it's even possible.
+Agent: Hi Frederick. Loan assumptions are something we do get questions about, especially when market rates are high. Let me pull up your account so I can give you accurate information. Can I get your property address and the last four of your Social?
+Caller: Sure. 2204 Willow Springs Road, Boulder, Colorado 80302. Social last four is 6651.
+Agent: And last four of the loan number?
+Caller: 4473.
+Agent: Got it. I've got your account. Let me look at your loan type first because that's the most important factor.
+Caller: My loan is from about eight years ago. I think it's a conventional thirty-year fixed.
+Agent: Let me verify. Yes, you have a conventional fixed-rate loan. Your rate is 3.25%. Now, here's the key information. Conventional loans — those backed by Fannie Mae or Freddie Mac — are generally not assumable. They include what's called a due-on-sale clause. This means the full loan balance is due when the property transfers ownership.
+Caller: So the buyer can't just take over my mortgage?
+Agent: With a conventional loan, no. If your loan were an FHA, VA, or USDA government-backed loan, it would be assumable under specific conditions. Those loan types do allow assumptions because the government backing remains with the loan.
+Caller: That's disappointing. The buyer was excited about taking over a 3.25% rate instead of getting a new loan at today's rates.
+Agent: I completely understand why they'd want that. Your 3.25% rate is significantly below current market rates, so it's valuable. Unfortunately, with a conventional loan, the due-on-sale clause means that when the property is sold, the loan must be paid off in full.
+Caller: Is there any workaround? Like what if I just stayed on the title somehow?
+Agent: I want to be straightforward with you — attempting to transfer a property while hiding the transaction to avoid triggering the due-on-sale clause is considered mortgage fraud and is something I'd strongly advise against. It could have serious legal consequences.
+Caller: No, no, I didn't mean it like that. I just wasn't sure if there was a legitimate path.
+Agent: I understand. There isn't a legitimate way to make a non-assumable conventional loan assumable. The buyer's best option is to obtain their own financing, and some lenders may offer rate buy-down programs or seller concessions to help with the affordability gap.
+Caller: What's a rate buy-down?
+Agent: A rate buy-down is where either the buyer or seller pays an upfront fee, called discount points, to reduce the interest rate on the new loan. Some sellers offer seller concessions, which is essentially a credit toward the buyer's closing costs, which the buyer can use to buy down the rate.
+Caller: So as the seller I could help make the deal attractive even without the assumption.
+Agent: Exactly. If you're motivated to sell, offering a seller concession could offset some of the buyer's higher borrowing costs in this rate environment.
+Caller: My real estate agent should know about this option?
+Agent: Absolutely. This is a fairly common negotiating tool right now. Your agent can structure the offer to include seller concessions toward the buyer's points or closing costs.
+Caller: Okay. Now just to make sure I understand — when I sell, you get paid off from the sale proceeds?
+Agent: Correct. At closing, from the proceeds of the sale, your outstanding loan balance plus any accrued interest and fees would be wired to us as a payoff. Whatever remains after the payoff and any other costs goes to you.
+Caller: Would I need a payoff quote for my closing?
+Agent: Yes. Your closing attorney or title company will typically request a payoff quote from us. They can call our payoff department or we can provide one at your request. The quote shows the exact amount needed to pay off the loan, good through a specified date.
+Caller: I'll let my attorney handle that part then.
+Agent: That's the standard process. They'll be familiar with it.
+Caller: Well, I'm disappointed about the assumption but I appreciate you explaining everything clearly.
+Agent: Of course. Is there anything else I can help you with today, Frederick?
+Caller: No, I think I've got what I needed. Thanks, Jennifer.
+Agent: Happy to help. Good luck with your sale. Have a great day.
+Caller: Thanks. Bye.
+Agent: Goodbye.

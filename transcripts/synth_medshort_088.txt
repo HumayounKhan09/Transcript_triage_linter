@@ -1,0 +1,41 @@
+Agent: Meridian Mortgage Servicing, this is Deepa. How can I help you today?
+Caller: Hi, my name is Franklin Okafor. I have a question about my mortgage — I want to know if there's a prepayment penalty or a lockout period. I'm thinking about selling my house within the next year or two, and I want to make sure I know if there are any penalties.
+Agent: Hi Mr. Okafor, that's a very smart question to ask before making any decisions. Let me pull up your loan details. First, can I verify your identity?
+Caller: Yes, of course.
+Agent: Property address?
+Caller: It's 1024 Hamilton Park Drive, Newark, New Jersey, 07104.
+Agent: Last four of your Social?
+Caller: 3348.
+Agent: And date of birth?
+Caller: December 17th, 1982.
+Agent: Thank you. I have your account. Let me look at the loan terms. Your loan originated in — let me see — 2019. It's a thirty-year conventional fixed-rate loan. Let me check the prepayment terms specifically.
+Caller: I know some loans have clauses where you can't pay it off for a certain number of years. I'm not sure if mine does.
+Agent: You're thinking of a prepayment penalty clause, which some loans have, and a lockout period, which is more common in commercial loans. For residential mortgages, particularly conventional loans made after the qualified mortgage rules took effect in 2014, prepayment penalties are heavily restricted. Let me check your specific note terms.
+Caller: Okay. Take your time.
+Agent: Looking at your loan notes and the terms we have on file, your loan does not have a prepayment penalty. You can pay off this loan at any time, including through a sale, without incurring any penalty charges. There is also no lockout period.
+Caller: That's great news. So if I sell the house next spring, I'm not going to owe anything extra beyond the balance?
+Agent: Correct. At sale, the proceeds will cover your outstanding principal balance, accrued interest through the payoff date, and any fees or costs associated with closing — but those come from the transaction, not from a penalty. There's no prepayment penalty on this loan.
+Caller: What about accrued interest? How does that work at payoff?
+Agent: Mortgage interest is calculated on a per diem basis — meaning for each day the loan is outstanding. When you sell, the title company will request a payoff statement from us. That statement will show your principal balance plus the interest accrued from your last payment date to your expected closing date. If closing is delayed a day or two, the interest amount adjusts accordingly. It's not a large amount in most cases but it's factored into your closing.
+Caller: So the payoff amount isn't exactly the same as my current balance?
+Agent: Exactly right. Your current balance is your principal only. The payoff statement includes interest through the expected payoff date, which will be a few days to a few weeks in the future from when the statement is requested. The title company accounts for this in the closing settlement statement.
+Caller: Got it. And is there anything I should know about timing the sale relative to my payment due date?
+Agent: Good question. If you've already made a payment and you close shortly after, some of that interest was already paid, so the payoff balance will be lower. Some sellers time their closing to coincide with the period just after their monthly payment posts, to minimize the per diem interest included in the payoff. But the difference is usually small — maybe a few days of interest. It's something to be aware of but not something to stress over.
+Caller: I've been making extra principal payments. Does that affect anything?
+Agent: It works in your favor. Your outstanding principal balance is lower as a result, so your payoff amount will be lower. Any extra principal payments you've made are already reflected in your current balance on file.
+Caller: Can I check that balance right now?
+Agent: Of course. Your current outstanding principal balance as of today is $229,418.
+Caller: Okay. I originally borrowed $285,000, so I've paid down a decent amount.
+Agent: Yes, that's good progress, especially with extra principal payments. Over a few more years that number will continue to drop.
+Caller: Alright. And what about if I decide to do a payoff before selling — like if I inherit some money and just want to pay it off completely — is that possible?
+Agent: Absolutely. You can request a payoff statement at any time, pay off the full amount, and we'll issue a satisfaction of mortgage. There's no penalty, no extra charge. Some people pay off their loan, then sell the property with a clear title. Entirely your choice.
+Caller: Is there a fee to request a payoff statement?
+Agent: There's no fee for a standard payoff statement. We're required to provide one upon request at no charge. If you need a certified payoff statement with expedited processing, some servicers charge a small fee for that, but a standard payoff statement is free.
+Caller: Okay. Very helpful. One last question — you mentioned qualified mortgage rules. Does that mean all residential mortgages these days don't have prepayment penalties?
+Agent: For loans that meet the qualified mortgage — or QM — definition under the 2014 rules, prepayment penalties are prohibited beyond a narrow set of conditions, and even then they're capped and only allowed in the first few years. Loans made before 2014 could have prepayment penalties, and some non-QM loans today can too, but they're rare for conventional residential loans. Your 2019 loan is well within the QM era and has no penalty provisions.
+Caller: Good. I just wanted to be informed before talking to a real estate agent. I hate walking into conversations not knowing what I'm dealing with.
+Agent: That's a smart approach. Is there anything else I can help you with today, Mr. Okafor?
+Caller: No, that's everything. Thank you Deepa.
+Agent: You're welcome. Thank you for calling Meridian Mortgage. Have a great day.
+Caller: You too. Goodbye.
+Agent: Goodbye.

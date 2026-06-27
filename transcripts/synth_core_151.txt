@@ -1,0 +1,41 @@
+Agent: Thank you for calling Meridian Home Lending, this is Michael. How can I help you today?
+Caller: Hi Michael, my name is Trevor Okafor. I'm in the process of buying a home and my realtor mentioned something called a 2-1 buydown. I honestly have no idea what that means and I want to understand it before I sign anything.
+Agent: Absolutely, Trevor, that's a great question and it's smart to ask before you commit. A 2-1 buydown is a financing arrangement that temporarily reduces your interest rate for the first two years of the loan. In year one, your rate is two percentage points below the note rate. In year two, it's one percentage point below. Then starting in year three, you pay the full rate for the remainder of the loan term.
+Caller: Okay, so it's not a permanent discount?
+Agent: That's correct. It's a temporary reduction. The full note rate is still what you qualify for and what the loan is based on. The buydown just means someone is paying the difference between the reduced rate and your actual rate during that period.
+Caller: And who pays for that difference? Does it come out of my pocket?
+Agent: It can work a few different ways. In today's market, it's actually very common for sellers or builders to pay for the buydown as part of the purchase negotiations. The cost is typically deposited into an escrow account at closing, and that account subsidizes the difference each month during the buydown period.
+Caller: What kind of numbers are we looking at? Like how much does it cost?
+Agent: Good question. Let me walk you through an example based on your situation. You mentioned you're purchasing — do you have a loan amount and a quoted rate in mind?
+Caller: We're looking at around a $420,000 loan. The rate I was quoted is 7.25 percent on a 30-year fixed.
+Agent: Perfect. So with a 2-1 buydown, your year one rate would be 5.25 percent and your year two rate would be 6.25 percent. In year three through year 30, you'd be at 7.25 percent. Your full payment at 7.25 on $420,000 would be roughly $2,866 per month, not including taxes and insurance. In year one at 5.25 percent, your payment would drop to about $2,317. So the monthly savings in year one is approximately $549.
+Caller: That's a pretty meaningful difference.
+Agent: It is. Over all of year one that's roughly $6,588 in savings. In year two at 6.25 percent, your payment would be about $2,588, so the savings versus the full rate is around $278 per month, or $3,336 for the year. Total buydown cost to fund that escrow would be approximately $9,924.
+Caller: So the seller would need to put up roughly ten thousand dollars to make this work?
+Agent: Approximately, yes. That's a negotiating point you'd work out with your realtor. Some builders actually advertise this as an incentive specifically to attract buyers in a higher-rate environment. It's become quite popular.
+Caller: Does this affect my qualification? Like do I have to qualify at the lower rate?
+Agent: No, and that's an important point. You qualify at the full note rate of 7.25 percent. The buydown doesn't change your debt-to-income ratio calculation. You still have to demonstrate you can handle the full payment.
+Caller: That makes sense. What happens to that escrow money if I sell the house or refinance during the first two years?
+Agent: Great question. If you refinance or sell the property before the buydown period ends, any remaining funds in that escrow account are typically returned. Usually they go to the lender to pay down your principal balance or they may be returned to the party who funded the escrow, depending on how the agreement was structured. We'd want to look at the specific terms in your purchase contract.
+Caller: So it's not just gone — there's a refund possibility.
+Agent: Correct. You don't forfeit the unused portion. It either reduces your payoff or gets credited appropriately. That's actually one of the underappreciated benefits — if rates drop and you refinance in year one, the remaining escrow funds come back into play.
+Caller: I've heard people say that buydowns are basically a gimmick. Is there truth to that?
+Agent: I hear that concern a lot, and I think it depends on your situation. If the seller is funding the buydown at no additional cost to you, it's genuinely beneficial cash flow relief, especially in the early years of homeownership when expenses tend to be highest. The caution is when a buyer overpays for a home in exchange for the buydown. In that case you'd be financing a higher principal, which costs you more over time. You always want to make sure the purchase price itself is fair.
+Caller: My realtor said the list price is at or below comps, so I think we're okay on that front.
+Agent: That sounds like you're in a good position then. Your loan officer can also run a cost-benefit comparison for you — showing the total interest cost with and without the buydown over various holding periods.
+Caller: One more thing — is a 2-1 buydown available on any type of loan? Like FHA or VA?
+Agent: Yes, buydowns are available on conventional, FHA, and VA loans. The mechanics are essentially the same. The key requirement on government-backed loans is that the funds must come from an acceptable source — so the seller, builder, or another approved third party. The buyer generally cannot fund their own buydown on FHA and VA transactions, though the rules can vary slightly, so we'd verify that during the loan process.
+Caller: That's really helpful. My loan officer's name is Diana Ruiz — should I be directing these questions to her directly?
+Agent: Absolutely. Diana would be your best contact for the specifics of your file. She can model out the exact numbers and confirm whether the seller has agreed to fund the buydown in your purchase agreement. I can note in your account that you called with these questions today.
+Caller: Please do. My loan number is, let me check — it's 4471-8820-C.
+Agent: Got it, Trevor. I'm pulling that up now. Loan number 4471-8820-C, purchase transaction, $420,000 loan amount. I'll add a note that you called on June 27th, 2026, with questions about the 2-1 buydown structure, and I'll flag it for Diana to follow up with you.
+Caller: Perfect. Can you also put in there that I want a side-by-side comparison of the monthly payments across all three phases? Diana mentioned she could do that.
+Agent: Absolutely, I'll add that to the note. Is the best number to reach you the one we have on file ending in 7734?
+Caller: Yes, that's my cell. I'm usually available after 4 PM.
+Agent: Noted. I'll mark preferred contact time as after 4 PM. Trevor, is there anything else I can help you with today?
+Caller: I think that covers it. You explained it really clearly. I feel much better about the whole thing now.
+Agent: I'm glad to hear that. Buying a home is a big decision and it's important you understand every piece of the transaction. Don't hesitate to call back if more questions come up. We're here Monday through Saturday, 8 AM to 8 PM Eastern.
+Caller: Great, I appreciate it Michael. Thanks so much.
+Agent: My pleasure, Trevor. Congratulations on your upcoming purchase. Have a great evening.
+Caller: You too, bye.
+Agent: Goodbye.

@@ -1,0 +1,62 @@
+Agent: Thank you for calling Premier Mortgage Services, this is Jennifer, how can I assist you today?
+Caller: Jennifer, my name is Marcus Webb, loan number 614823. I'm calling about an insurance claim on my property and I have been dealing with this for three months and I'm about to lose my mind.
+Agent: I'm sorry to hear that, Mr. Webb. Let me pull up your account. Can you verify the last four of your social and your property address?
+Caller: 3-3-9-7, and the address is 4401 Ridgecrest Terrace, Baton Rouge, Louisiana 70809.
+Agent: Got it, thank you. I can see your account. I do see an open insurance claim on the file. Can you walk me through what's been happening?
+Caller: Okay, so we had a major storm come through in June — June 8th. My roof was almost completely destroyed. Tree came down on top of it. We got an insurance adjuster out there and the claim came in at $68,400. My insurance company, Gulf States Property Insurance, issued the check, but they made it out to me AND your company — Premiere Mortgage Services — because apparently that's standard for claims over a certain amount.
+Agent: That's correct. When a claim exceeds a threshold — in our case anything above $10,000 — the check must be dual-payable because we have an insurable interest in the property as the lienholder.
+Caller: I understand that. What I don't understand is what happened after I endorsed the check and sent it to your insurance claim department. That was July 3rd. I sent it certified mail. You received it July 7th. I have the delivery confirmation. Since then I've called three times, I've been told different things each time, and my roof is currently covered with tarps going into hurricane season.
+Agent: I can see the claim file here. Let me look at what's happened. I see the check was received and logged on July 7th. Then I see... a note from July 19th saying the claim was held pending escrow review. Then a note from August 4th saying the file was referred to a different department. And I see a note from August 22nd that says — hold on — it says the file was flagged because there's force-placed insurance on the account.
+Caller: Wait, what? Force-placed insurance? What does that mean?
+Agent: Let me explain and I'm going to also look into why this happened. Force-placed insurance — sometimes called lender-placed insurance — is a policy that we take out on the property when we don't have evidence that you have your own insurance. It's significantly more expensive than a standard homeowner's policy and the cost is charged to your escrow account.
+Caller: But I have insurance. I've always had insurance. That's how I filed the $68,000 claim.
+Agent: I agree, and that's clearly an error. Let me look at the history of the force-placed insurance on this account. I see... the force-placed policy was added on March 15th. That's about three months before your storm.
+Caller: Why would it be added in March if I had insurance the whole time?
+Agent: It looks like our escrow department sent a notice requesting updated insurance documentation — this happens automatically when the previous year's policy declaration page expires in our system. If we don't receive updated documentation within a certain window, the system automatically orders force-placed coverage to protect the collateral.
+Caller: I never got that notice.
+Agent: Let me check the mailing address on file. It shows... hmm. The notice was sent to 4401 Ridgecrest Terrace but the unit designation shows B, not the main address. Do you have a unit B?
+Caller: No! It's a single-family home. There's no unit B. Someone added B to my address in your system and I never received any of those notices.
+Agent: Mr. Webb, I am so sorry. That is clearly a data entry error on our part. The notice went to an incorrect address which you never received, the force-placed policy was added in error, and now that policy is complicating the processing of your legitimate insurance claim.
+Caller: Okay so this is a mess. How do we fix it?
+Agent: Let me walk through each piece. First, the address error — I'm correcting that right now in the system. The unit designation B is being removed. The address now shows 4401 Ridgecrest Terrace, Baton Rouge, Louisiana 70809. Done.
+Caller: Good.
+Agent: Second, the force-placed insurance. Because it was added due to a notice you never received — which was our error — you are entitled to cancellation of the force-placed policy and a full refund of all premiums charged to your escrow account. Let me look at what was charged... the force-placed policy premium was $3,840 for the period March 15th to March 15th of next year. It was charged to your escrow on March 15th, which caused an escrow shortage, which triggered an escrow shortage notice and an escrow payment increase in April.
+Caller: My payment went up by $320 a month in April and I didn't know why.
+Agent: That's exactly why. The escrow shortage from the force-placed premium caused a recalculation, and your monthly escrow collection went up. Once I cancel the force-placed policy and refund the $3,840, we'll need to do a new escrow analysis, which should bring your payment back down.
+Caller: How long does all of this take?
+Agent: The force-placed policy cancellation request goes to our insurance department — I'm submitting it now — and they typically process within five to seven business days. The escrow refund and re-analysis takes seven to ten additional business days after the cancellation is confirmed. So realistically, you're looking at two to three weeks before your escrow payment returns to normal.
+Caller: Okay. But what about the $68,400 claim check? That's the bigger issue. My roof is still open.
+Agent: Yes, and let me address that directly. The claim check is currently in our insurance claims department, which is different from the department that handles escrow. The flag that was placed on your file — the force-placed insurance flag — was triggering a review to determine whether both policies covered the same loss, which would be a fraud concern. But since the force-placed policy is being cancelled as an error, that flag should release.
+Caller: Should release? Or will release?
+Agent: Let me be direct. I need to manually contact the insurance claims department and have them release the hold. I can't do that autonomously from my system — it requires an interdepartmental referral. But I want to stay on the phone with you, explain what I'm doing, and give you a direct outcome before we hang up. Can you hold for about five minutes while I contact that department?
+Caller: Absolutely. I'll hold.
+Agent: Thank you. Please hold.
+Agent: Mr. Webb, thank you for holding. I spoke with Rosa in the insurance claims department. She confirmed she can see the force-placed cancellation request I submitted, and she's agreeing to release the hold on your claim file. However, she flagged a separate issue I need to discuss with you.
+Caller: Of course there's another issue.
+Agent: The claim amount is $68,400. Based on the guidelines for this loan — it's a conventional loan serviced under Fannie Mae guidelines — for claims between $50,000 and $100,000, the disbursement process requires an inspection before we release funds. We don't release the full amount at once — we release it in draws, typically two or three draws tied to inspection milestones.
+Caller: Okay, I've heard of that. How does it work exactly?
+Agent: The first draw is typically 50% of the claim — that would be $34,200 in your case. We release that first draw once we've verified the contractor you've hired is licensed and insured, and once we receive a signed contract showing the scope of work matches the claim. The second draw, usually 40% — $27,360 — is released after an inspection confirms the work is at least 50% complete. The final 10% — $6,840 — is released after final inspection and completion.
+Caller: Okay, that's reasonable. But here's my problem — my contractor is ready to start. He's been waiting since July. He said if I don't give him a deposit by the end of September, he's taking another job and I'll be at the back of the line again.
+Agent: I understand. Let me see what I can do to expedite the first draw. Do you have a signed contract and the contractor's license and insurance certificates?
+Caller: I have the signed contract. I have the contractor's license number — I can give it to you. His insurance certificates I can probably get within 24 hours.
+Agent: If you can get the insurance certificates, I can put a rush flag on the first draw release. Standard processing is five to seven business days, but with a rush flag and all documentation in hand, we can sometimes get it done in two to three business days.
+Caller: If I get you the contractor's insurance certificates tomorrow, can you guarantee I see the $34,200 first draw within three business days?
+Agent: I can't make an absolute guarantee because it also requires the claims department processing team, who operates independently. But I can put a manager escalation flag on the file and note the urgency related to the contractor's timeline. What I can commit to is that I'm personally flagging this for expedited review and adding a callback note for a supervisor in claims to confirm by end of day tomorrow.
+Caller: That's better than what I've gotten in three months. What do I need to send and where?
+Agent: You can email the contractor's documents to our insurance claims team directly. The email is claims@premiermortgageservices.com. In the subject line, put your loan number — 614823 — and the words "Rush Inspection Draw Request." Then call me back at extension 4412 with a confirmation that you've sent it and I'll personally make sure the file gets flagged.
+Caller: You'll still be there tomorrow?
+Agent: I work Tuesday through Saturday, so yes, I'll be here. And if you reach someone else, this is all documented in the account notes as of today's date.
+Caller: Alright. Jennifer, let me make sure I understand everything you're doing today. You're fixing my address, canceling the force-placed insurance, getting me the $3,840 refund, fixing my escrow payment, and flagging my claim for expedited release.
+Agent: That's correct. To summarize: address corrected, force-placed insurance cancellation submitted with full premium refund of $3,840, escrow re-analysis to follow, claim hold released, and a rush escalation flag placed for the first draw release pending receipt of contractor insurance certificates.
+Caller: And the escrow re-analysis — when my payment comes back down, does it go back to what it was before, which was $2,140?
+Agent: Let me look at your original escrow analysis. Before the force-placed insurance was added, your escrow for taxes and insurance was $438 per month. Your PI payment is $1,312. So your total was $1,750. With the force-placed premium removed and your regular homeowner's insurance in place — what's your annual premium on the Gulf States policy?
+Caller: $2,280 a year. So $190 a month.
+Agent: Right. So your escrow should be approximately $438 for taxes plus $190 for insurance equals $628 per month. PI stays at $1,312. Total should be $1,940 per month — that's $200 more than the $1,750 you had before, because escrow does tend to adjust slightly with annual changes, but it's significantly less than the inflated $2,460 you're currently paying.
+Caller: I can live with $1,940. That's reasonable. Can you just make sure someone actually follows through on all of this? I'm serious — I've been told things before.
+Agent: I understand completely and I would be skeptical too if I were you. I'm adding a case management flag to your account which means any agent who touches this file gets a pop-up showing today's commitments and status. And I'll personally be monitoring this file for the next week.
+Caller: Alright. Thank you, Jennifer. This is the first call where I actually feel like something's going to happen.
+Agent: I'm sorry it took this long. Is there anything else today?
+Caller: No, I'll go get those insurance certificates and email them over tonight or tomorrow morning.
+Agent: Sounds good. Call us back at extension 4412 when you've sent them. Take care, Mr. Webb.
+Caller: Thank you. Goodbye.
+Agent: Goodbye.

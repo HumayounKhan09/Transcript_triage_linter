@@ -1,0 +1,52 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, this is Sandra, how can I help you today?
+Caller: Hi, um, yeah, I'm calling because I've kind of been in a bad situation for the past few weeks and I'm not sure what my options are with my mortgage. I lost my job about six weeks ago.
+Agent: I'm really sorry to hear that. You've called the right place and we do have options for people going through hardship. Let me pull up your account so I can look at everything. Can I get your loan number?
+Caller: It's 615047. The property is on Magnolia Court — 203 Magnolia Court, Portland, Oregon.
+Agent: And your name and last four of your Social Security number?
+Caller: Derek Tan, and my Social ends in 3389.
+Agent: Thank you Derek. I've got your account. I can see your loan is current — you haven't missed any payments yet, is that right?
+Caller: Yeah, I've been draining savings to keep up, but I don't think I can make next month's payment. I have maybe enough for one more and then I'm going to be in trouble.
+Agent: I understand. Honestly, calling now while you're still current is the smartest thing you can do. It gives us the most options. Let me walk you through what's available.
+Caller: Okay. I've heard the terms forbearance and loan modification but I don't really know the difference.
+Agent: Great question, and they're very different things. Let me explain both. Forbearance is essentially a temporary pause or reduction in your payments. It's designed for short-term hardships — like a job loss where you expect to get back on your feet within a few months. During forbearance, you're not paying, or paying a reduced amount, but the missed amounts don't disappear — they have to be repaid later.
+Caller: So I'd owe all of it eventually?
+Agent: Yes. When forbearance ends, there are a few ways to repay what was paused — a lump sum, a repayment plan added to your regular payment, or sometimes the amounts get moved to the end of your loan. It depends on your loan type and situation.
+Caller: What's my loan type?
+Agent: You have a conventional loan, not government-backed. That matters because FHA and VA loans have some specific programs. With a conventional loan, we have our own hardship programs. For forbearance, we could potentially pause or reduce your payments for up to three months initially, with the possibility of extending depending on your circumstances.
+Caller: And a modification?
+Agent: A loan modification is a permanent change to your loan terms to make your payment more affordable. It's typically for people dealing with a longer-term change in income — maybe your income isn't going to fully recover, or you're looking at a fundamentally different financial situation. A modification might change your interest rate, extend your loan term, or both. It's more involved and takes longer to process.
+Caller: How much longer?
+Agent: Forbearance, if you qualify, we can sometimes set up within a couple of weeks. A modification typically takes sixty to ninety days, sometimes longer, because it involves underwriting and investor approval.
+Caller: What do I need to qualify for either one?
+Agent: For both, we're going to need documentation of your hardship and your current financial situation. Let me go through the list. First, a hardship letter — a brief written explanation of what happened, when you lost your job, and what your plan is.
+Caller: Okay.
+Agent: Two months of bank statements. Most recent pay stubs — or in your case, since you're unemployed, your unemployment benefit determination letter if you're receiving unemployment.
+Caller: I did file for unemployment. I should be getting that approved soon.
+Agent: That's good, that will be important documentation. We'll also need two years of federal tax returns, a completed financial worksheet — I can send you that form — and a list of your monthly expenses. Things like utilities, car payments, credit cards, everything.
+Caller: That's a lot of paperwork.
+Agent: It is, but I want to be upfront with you — the more complete your package, the faster we can process it. Incomplete applications are the number one reason for delays.
+Caller: Okay. And I send all of this to you?
+Agent: Yes. You can upload documents through our website — there's a secure document upload portal — or you can fax them to our loss mitigation department. I'd strongly recommend the online portal because you'll get a confirmation and you can track the status.
+Caller: What happens if I just can't make a payment while all this is being processed?
+Agent: That's actually one of the reasons people call us early. If you submit your hardship application, your account goes into review status. While the application is under review, we typically won't initiate any foreclosure action. But I want to be very clear — a missed payment will still be reported to the credit bureaus unless you have an active forbearance agreement in place.
+Caller: So I should try to get the forbearance agreement before I miss a payment?
+Agent: Ideally, yes. Given your timeline — you said you can make maybe one more payment — I'd suggest we start the forbearance paperwork right now. If you can send us the documents within the next week or two, we might be able to get something in place before your payment comes due next month.
+Caller: Okay, what's my payment date?
+Agent: Your payment is due on the first. What's today, we're about two and a half weeks out. That's workable if we move quickly.
+Caller: Alright, what do I need to do right now?
+Agent: I'm going to transfer your account into our loss mitigation review queue, which flags it for our hardship team. I'm also going to send you an email with the document checklist and a link to the upload portal. What's the best email for you?
+Caller: derek.tan.pdx@gmail.com
+Agent: Got it. You should receive that within the hour. Once you upload your documents, a dedicated loss mitigation specialist will be assigned to your case. They'll be your main contact from that point forward.
+Caller: Will I be able to call them directly?
+Agent: Once you're assigned a specialist, yes — they'll give you a direct number. In the meantime, you can call this main line and reference your case number, which I'll give you now. Your case number is HRD-2024-47291.
+Caller: HRD-2024-47291. Got it. And what's my loan number again?
+Agent: 615047. Derek, you're doing the right thing by calling early. I want you to know that. A lot of people wait until they're two or three payments behind and it limits the options significantly.
+Caller: Yeah, my neighbor went through something like this a few years ago and he said call right away.
+Agent: Smart neighbor. Okay, is there anything else you want to ask before we wrap up?
+Caller: Is there any risk of this affecting my credit if I go into forbearance?
+Agent: Honest answer — it can vary. If a forbearance agreement is in place before you miss a payment, some servicers report it as current. Others may report it as in forbearance, which can impact your credit differently than a late payment. I'd recommend also reaching out to a HUD-approved housing counselor — they're free, and they can give you independent advice. I can give you that number if you'd like.
+Caller: Yeah, please.
+Agent: The HUD hotline is 1-800-569-4287. They can help you think through all your options at no cost to you.
+Caller: Okay. Thank you, Sandra. I feel a little better about this.
+Agent: I'm glad. You've got a plan now. Get those documents uploaded as quickly as you can. Take care, Derek.
+Caller: Thank you. Bye.

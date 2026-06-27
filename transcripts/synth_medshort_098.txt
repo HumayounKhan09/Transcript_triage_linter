@@ -1,0 +1,41 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Deepa. How can I help you today?
+Caller: Hi. My name is Ronald Finch. I got a letter saying a property inspection is going to be conducted on my home and I'm not happy about it. I've been paying my mortgage every month, I haven't missed a payment, and I want to know why someone is coming to look at my house.
+Agent: Hi Mr. Finch, I completely understand your concern. Property inspections can feel intrusive, especially when you're current on your mortgage. Let me pull up your account and find out what triggered the inspection notice. Can I verify your identity first?
+Caller: Fine. My address is 6631 Ridgecrest Avenue, Spokane, Washington, 99205.
+Agent: Thank you. Last four of your Social?
+Caller: 3375.
+Agent: And date of birth?
+Caller: October 8th, 1957.
+Agent: Thank you. I have your account. Let me look at the notes to find the inspection order. Can you tell me what the notice said specifically — like what reason was given?
+Caller: It says the inspection is to assess the condition and occupancy of the property. It's from someone called National Field Services. I've never heard of them.
+Agent: National Field Services is a company we contract with for field inspections. They're a third-party vendor, not us directly. Now let me look at why this was ordered. Give me one moment.
+Caller: I'm just confused because I've been here for eleven years. I pay every month. I have not missed a payment.
+Agent: I hear you, Mr. Finch, and your frustration is valid. Let me look at what triggered this. Okay, I see a note here. It appears an inspection was ordered because of a returned mail flag on your account. Specifically, some of our correspondence to you appears to have been returned to us as undeliverable.
+Caller: Returned mail? I've been at this address for eleven years. What mail?
+Agent: Looking at the account, it appears a statement from a couple of months ago was returned. That can trigger an automatic system flag in our servicing platform, which then generates an inspection order to verify occupancy — meaning to confirm someone is still living in the property. It's a standard industry practice, but I understand it can feel alarming when you didn't expect it.
+Caller: Why would my mail be returned? I haven't moved.
+Agent: There could be several explanations. Occasionally mail is misrouted by the postal service and returned through no fault of the borrower. Sometimes there's a momentary address issue at the post office level. It doesn't necessarily mean anything is wrong on your end. But from our system's perspective, a returned piece of mail is flagged as a potential occupancy concern.
+Caller: Can you cancel the inspection? I don't want a stranger walking around my property.
+Agent: I understand. Let me check whether the inspection can be cancelled now that we've established contact with you and confirmed your occupancy. The purpose of the inspection is to verify the property is occupied and maintained — and you're here, the property is occupied, and the account is current. In many cases we can cancel or de-escalate an inspection once we've confirmed occupancy by phone.
+Caller: Please do that. I don't need someone poking around outside my house.
+Agent: I'm noting on your account right now that I've spoken with you, you've confirmed you are in residence at the property, and you've confirmed the property is maintained. I'll flag this for our field services coordinator to cancel the pending inspection and update the returned mail flag.
+Caller: And what are they actually supposed to do at the inspection? Like are they coming inside?
+Agent: No. A property condition and occupancy inspection is exterior only. The inspector drives by or walks around the outside of the property and confirms the home appears occupied and in reasonable condition. They are not authorized to enter the home or request access from you.
+Caller: I didn't know that. I thought it was like a code inspection or something.
+Agent: No, this is much more limited. It's essentially a drive-by or walk-by to confirm the property is lived in and maintained. Still, I understand the concern, and I'd rather cancel it now that we've spoken.
+Caller: And can you fix whatever address issue is in your system so this doesn't happen again?
+Agent: Yes. Let me confirm your mailing address on file. We have 6631 Ridgecrest Avenue, Spokane, Washington, 99205. Is that correct?
+Caller: That's exactly right.
+Agent: The address looks correct in our system. The return may have been a postal service anomaly. I'll flag the account to note the address is verified and the mail return appears to have been in error. If you continue receiving mail from us at that address going forward without issues, this should be resolved.
+Caller: And if another piece of mail does get returned through no fault of mine, will you call me before sending an inspector?
+Agent: That's a fair request and I'll note the preference on your account. Best practice would be to attempt phone contact before ordering a field inspection when there's no delinquency. I'll add that note. However, I want to be transparent — some of our automated processes run without a manual review step, so I can't guarantee the system will check that preference before triggering another inspection. Calling us if you get another notice is always the best response.
+Caller: Alright. Is there anything I need to sign or confirm in writing?
+Agent: No. The verbal confirmation of occupancy and the account note I've created are sufficient to cancel this inspection. You don't need to do anything further.
+Caller: Good. And just to be clear — there's nothing negative on my account? No flags other than this returned mail thing?
+Agent: Your account is current, in good standing, with no delinquency and no negative flags other than the returned mail item, which I've now noted as resolved. You're in excellent standing.
+Caller: That's what I thought. I was worried there was something I didn't know about.
+Agent: No, everything looks good. I'm sorry for the confusion this caused. Is there anything else I can help you with today, Mr. Finch?
+Caller: No, I'm satisfied. Thank you Deepa.
+Agent: Thank you for calling Meridian Mortgage. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

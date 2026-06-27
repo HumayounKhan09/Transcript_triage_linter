@@ -1,0 +1,51 @@
+Agent: Thank you for calling Keystone Mortgage Group. This is Fatima. Can I get your loan number?
+Caller: Yeah. 3387-5521. James Okafor.
+Agent: Thank you Mr. Okafor. Let me verify your account. Last four of your Social and the property address?
+Caller: 4419. 5508 Maple Ridge Road, Columbus, Ohio 43219.
+Agent: Thank you. I have your account. How can I help you today?
+Caller: I set up a repayment plan about three months ago to catch up on my missed payments. I couldn't make the payment this month and now I got a letter saying I'm in default of the repayment plan. I need to know what that means and what I'm supposed to do now.
+Agent: I understand, Mr. Okafor, and I'm sorry you're dealing with this. Missing a repayment plan payment is stressful. Let me look at the details of your plan and the current status of your account so I can give you accurate information. Give me just a moment.
+Caller: Okay.
+Agent: Alright. I can see that you entered a 12-month repayment plan on March 15, 2026. Your regular monthly payment is $1,450, and your repayment plan payment was set at $1,950 — that's your regular $1,450 plus $500 per month toward the arrears of $6,000. The plan requires 12 payments to fully cure the arrears. I see you made the March 15th payment and the April 15th payment on time. The May 15th payment of $1,950 was not received, and today is June 27th. You're now past the June 15th payment as well. Is that consistent with what happened?
+Caller: Yes. I got laid off in May. My hours were cut drastically, then I lost the job May 23rd. I'm working again now but May and June were tight.
+Agent: I'm sorry to hear that. A sudden job loss in the middle of a repayment plan is a serious financial disruption. I want to make sure I give you a clear picture of where things stand and what options exist. When a repayment plan defaults, the account is treated as if the plan never existed from a delinquency standpoint. That means your underlying delinquency from before the plan is still on the books, plus the two missed plan payments. Let me calculate what's currently past due.
+Caller: Okay.
+Agent: You originally entered the plan with $6,000 in arrears. You made two plan payments of $1,950, of which $1,000 went toward the arrears — two times $500. So $5,000 in arrears remains from the original delinquency. You also missed your regular payment equivalent for May and June, which adds another $2,900 — two months at $1,450. So your total past-due amount right now is approximately $7,900. Does that track?
+Caller: I knew it was bad. I didn't know exactly how bad.
+Agent: I want to be transparent with you. At $7,900 past due, your account is currently showing as five months delinquent — three months before the plan plus the two missed plan months. That delinquency level does place the account in a pre-foreclosure risk category.
+Caller: Are they going to start foreclosure?
+Agent: I want to be careful to give you accurate information here. Under federal servicing regulations, foreclosure proceedings typically cannot be initiated until a loan is 120 days past due. Your account is within that range now. However, no foreclosure action has been initiated on your account as of today — I'm checking and I don't see any referral to an attorney or a notice of default filed in your state. You are in a window where action could begin if nothing changes, but nothing has been initiated yet.
+Caller: Okay. So what can I do?
+Agent: You have several options and I want to go through each one. First, you could make a payment today. If you could bring in even one full payment — your regular $1,450 — it would not cure the delinquency but it would demonstrate payment activity and it buys some time while we look at your situation. Can you make any payment today?
+Caller: I could do $1,000 today. I just got my first paycheck from the new job.
+Agent: A $1,000 payment is meaningful and I'd encourage you to make it, but I want to set expectations — it won't cure the default by itself. Here's what I'd recommend as a path forward. Second option: submit a new loss mitigation application. Because your financial situation has materially changed — new employer, different income — you may now qualify for a loan modification that you may not have qualified for before. A modification could potentially roll your arrears into the loan balance and give you a fresh payment start.
+Caller: I tried for a modification before. They said my income was too high.
+Agent: That's worth reconsidering because income is now different. If your income dropped due to the layoff and your new job pays less, your debt-to-income ratio may now be in range for a modification. The maximum DTI for most modification programs is around 55 to 65%. If your new income is lower than before, you might qualify now where you didn't before.
+Caller: My new job pays about $4,200 a month take-home. Before I was making $5,800.
+Agent: That's a meaningful reduction. Let me do a rough DTI calculation. Your mortgage payment of $1,450 against $4,200 gross — I'd want your gross income, not take-home. What does that come to gross?
+Caller: About $5,100 gross.
+Agent: $1,450 divided by $5,100 is about 28% housing DTI. Most programs set the target housing DTI at 31%. So your housing expense alone is actually below the target — that's actually better for modification purposes than if you were at 35 or 40%. The underwriters would also look at your total debt payments. Do you have car payments, credit cards, student loans?
+Caller: Car payment of $380, and credit cards maybe $200 minimum payments. No student loans.
+Agent: So total monthly obligations would be around $2,030. $2,030 divided by $5,100 gross is about 40% total DTI. That's comfortably within modification program limits. You look like a reasonable candidate for a modification application.
+Caller: So I should apply?
+Agent: I think it's your best option at this stage. Here's my recommendation. Make your $1,000 payment today — I can take it by phone right now — and then let me initiate a loss mitigation intake on your account today. Once a complete application is submitted, the dual-tracking protections kick in and no foreclosure action can proceed while it's under review.
+Caller: What documents do I need for the application?
+Agent: You'll need your two most recent pay stubs from your new job, your last two years of federal tax returns — 2024 and 2025 — a hardship letter explaining the job loss, two months of bank statements, and if you have any other income like unemployment benefits, documentation of that. You can upload them at our online portal at keystonemortgage.com/lossmitigate, or fax them to 1-877-443-9922.
+Caller: How long does the review take?
+Agent: Once we have a complete package — all documents received — the review is typically 30 days. During that time your account is protected. The risk of foreclosure is paused.
+Caller: And what if I get denied again?
+Agent: If you're denied, you have the right to appeal within 30 days. You'd also be considered for other options — repayment plan again, deferral if applicable, or in a worst-case scenario, a short sale or deed in lieu. But I genuinely think based on your income profile, you have a reasonable shot at a modification now.
+Caller: Okay. Let's do the $1,000 payment now and start the application.
+Agent: Perfect. I'm going to take your payment information for the $1,000. Would you like to pay by checking account, debit card, or would you prefer to use a third-party service?
+Caller: Checking account.
+Agent: I'll need your routing number and account number. Please be aware there's a $10 phone payment fee which will be added to your account — or I can waive it given the circumstances and have you pay online at no fee.
+Caller: I'll pay online right after this call. Can you walk me through the portal?
+Agent: Absolutely. Go to keystonemortgage.com, log in with your loan number and the password you created, and click Make a Payment. You'll enter your bank details there and the payment will post within one business day.
+Caller: Got it. And for the application — can I start that online too?
+Agent: Yes, same portal. There's a Loss Mitigation tab. Click Apply for Assistance, and it will walk you through the application. Once you submit, you'll get a confirmation number. Write that down.
+Caller: Thank you, Fatima. This was really helpful. I feel less panicked now.
+Agent: You took the right step by calling today, Mr. Okafor. Act quickly — submit that application this week if possible. Every day matters at this delinquency level. Is there anything else before I let you go?
+Caller: No, I'm good. Thanks again.
+Agent: Thank you for calling Keystone Mortgage Group. Good luck.
+Caller: Thank you. Bye.
+Agent: Goodbye.

@@ -1,0 +1,35 @@
+Agent: Thank you for calling Alliance Mortgage Group, this is Priya. How can I assist you today?
+Caller: Hi Priya. I have a question about my loan. My son is planning to buy our house from us and we were wondering if the mortgage is assumable. Can he just take over the loan?
+Agent: That's a great question. Whether a loan is assumable depends on the loan type and the specific terms in your note. Let me pull up your account so I can look at the details. Can I get your name?
+Caller: Howard and Beverly Strickland. The account is in both our names.
+Agent: Thank you. And the property address?
+Caller: 4 Fieldstone Court, Kansas City, Missouri.
+Agent: And for verification, the last four of your Social Security number?
+Caller: 3328. That's Howard's.
+Agent: And your date of birth, Mr. Strickland?
+Caller: July 4, 1955.
+Agent: Thank you. One moment while I access your account.
+Caller: Sure thing.
+Agent: Okay, I have your account here. Your loan is a conventional fixed-rate mortgage. Conventional loans generally contain a due-on-sale clause, which means the full loan balance becomes due when the property is transferred to another party. This typically prevents assumption of the loan.
+Caller: So that means no, he can't assume it?
+Agent: In most cases with a conventional loan, that is correct. The due-on-sale clause gives the lender the right to demand full repayment when ownership transfers. So if you sell or transfer the property to your son, the lender could require the existing loan to be paid off rather than transferred.
+Caller: That's disappointing. I was hoping he could just take over our payments. Our interest rate is much better than what he'd get today.
+Agent: I completely understand. With rates higher than they were a few years ago, keeping an existing low-rate loan through an assumption would be very attractive. Unfortunately, conventional loans typically don't allow it.
+Caller: What types of loans are assumable?
+Agent: FHA and VA loans are generally assumable, with lender approval. If you had an FHA loan, your son would need to apply through us to assume the loan, demonstrate that he qualifies financially, and go through a formal assumption process. VA loans are also assumable, though there are specific rules if the assumer is not a veteran.
+Caller: We have neither of those, I take it?
+Agent: Correct, your loan is conventional. There are some exceptions and nuances, though. Some conventional loans may allow assumption in specific circumstances, such as transfers between family members, particularly in divorce or inheritance situations. Some lenders have policies that permit family transfers under the Garn-St Germain Act.
+Caller: What is that?
+Agent: The Garn-St Germain Depository Institutions Act of 1982 is a federal law that prohibits lenders from enforcing the due-on-sale clause in certain specific transfer situations. One of those situations is a transfer to a relative upon the death of the borrower. Another is a transfer resulting from divorce. A direct sale, even between family members, would generally still trigger the due-on-sale clause.
+Caller: So if we sold it to our son, they could call the loan due?
+Agent: Potentially, yes. The lender has the right to enforce that clause in a sale scenario. That said, in practice, whether a lender exercises that right when a borrower is in good standing and the property is staying in the family varies. It would ultimately be a decision made at that time.
+Caller: Is there anyone we could speak with to explore whether there are any options?
+Agent: I'd recommend speaking with our loan assumption or policy department. They can review your specific situation in detail and confirm definitively whether any exception might apply. I can transfer you now or note your account for a call back.
+Caller: Let's do a call back. We're not in a rush, we're just in the early planning stages.
+Agent: I'll note that on your account with today's date and request a callback from our assumption team. They should reach out within two to three business days.
+Caller: That's perfect. Thank you, Priya. This is helpful even if the news wasn't what we hoped.
+Agent: I understand. It's better to know the parameters before planning too far ahead. Is there anything else I can help you with today?
+Caller: No, that's it. Thanks again.
+Agent: Thank you for calling Alliance Mortgage Group, Mr. Strickland. Have a good day.
+Caller: You too. Bye.
+Agent: Goodbye.

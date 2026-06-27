@@ -1,0 +1,37 @@
+Agent: Thank you for calling AmeriFirst Mortgage Servicing, this is Maria speaking. How can I help you today?
+Caller: Hi. My name is Winston Graham. I'm calling about my 1098 form. I think there might be an error on it, and I've already filed my taxes once and had to amend them over this.
+Agent: I'm sorry to hear that, Winston. That sounds frustrating. Let me pull up your account and we'll take a look. Can I get your property address and the last four of your Social?
+Caller: Address is 4401 Lakewood Drive, Tampa, Florida 33609. Social last four is 6623.
+Agent: And last four of your loan number?
+Caller: 8812.
+Agent: Got it, I have your account. So the 1098 is your mortgage interest statement for tax purposes. What specifically looks incorrect to you?
+Caller: On box 1, which is mortgage interest received from borrower, it shows $14,218. But when I add up all my payments from last year and calculate the interest portion, I get closer to $13,950. There's a difference of about $268.
+Agent: Okay, let's dig into this. The 1098 reports interest that was received and credited to interest during the calendar year. This can sometimes differ from what you expect due to how interest is applied, especially if you had any irregular payments, extra principal payments, or if your first or last payment of the year crossed into a different period.
+Caller: I did make one extra principal-only payment of $500 in March of last year. Could that affect it?
+Agent: It could affect how your regular payment split between principal and interest in subsequent months, but it wouldn't add interest. Let me look at your payment history for last year.
+Caller: Please do.
+Agent: All right. I'm reviewing all twelve months of 2023 payments. I can see your regular monthly payments, and I see the extra $500 principal payment in March. Let me tally up the interest portions.
+Caller: My concern is that box 1 is higher than it should be, not lower. So I'm worried I was double-counted somehow.
+Agent: That's a reasonable concern. Let me check one more thing. I see that you made your December 2022 payment on December 31st, and that payment included interest for December. And then I see you also made your January 2023 payment on January 2nd. Because of how our system processes payments, it's possible the December 31st payment's interest was credited in January 2023 rather than December 2022.
+Caller: So I might be seeing two months of interest posted in one month?
+Agent: Potentially. Let me look at the exact posting dates. Yes. Your December 2022 payment posted on January 3, 2023, even though you submitted it December 31st. Because January 3rd is when it hit our system, the interest from that payment was credited in 2023, not 2022.
+Caller: So it's including December's interest in my 2023 1098 even though I was thinking of it as a 2022 payment.
+Agent: Exactly. And conversely, your December 2023 payment was submitted on January 2, 2024 and posted January 4, 2024, so it would appear on your 2024 1098.
+Caller: So every year I'm essentially getting twelve months of interest on my 1098 but the timing doesn't perfectly align with calendar months I was expecting?
+Agent: That's exactly right. The IRS requires us to report interest based on when it's received and credited, not when the payment was submitted. So if your December payment consistently arrives in early January, that interest shows in the following year's 1098.
+Caller: Okay. So the 1098 is actually accurate. I just wasn't accounting for the December 2022 payment that posted in January 2023.
+Agent: That appears to be the case. Would you like me to send you a detailed payment history for 2023 showing each payment date, posting date, and interest credited? That would let you or your accountant verify the exact amount line by line.
+Caller: Yes, please. That would be very helpful. My accountant is the one who caught this.
+Agent: I'll send that to your email on file. Is the email we have on record still current? I'll read it back to you — w.graham at comcast dot net.
+Caller: Yes, that's correct.
+Agent: Perfect. I'll send the detailed 2023 payment and interest history to that address. It typically goes out within a few hours.
+Caller: And if my accountant still thinks there's an error after reviewing this, what's the process to get a corrected 1098?
+Agent: If after reviewing the detailed history there's still a discrepancy, you would call back and request an escrow and interest research review. Our team would audit the account and if a corrected 1098 is warranted, we'd issue one within thirty days and also submit a corrected form to the IRS.
+Caller: Let's hope it doesn't come to that. I'm already annoyed about having to amend my return once.
+Agent: Totally understandable. I hope the detailed history clears it up. Based on what I'm seeing, the timing of that December 2022 payment explains the difference.
+Caller: It's starting to make sense. Thank you for walking through that with me.
+Agent: Of course. Is there anything else I can help with today, Winston?
+Caller: No, that'll do it. Thank you, Maria.
+Agent: Happy to help. Have a good day.
+Caller: You too. Bye.
+Agent: Goodbye.

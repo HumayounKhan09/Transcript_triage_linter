@@ -1,0 +1,40 @@
+Agent: Thank you for calling Apex Home Lending, this is Ashley speaking. How can I help you today?
+Caller: Hi Ashley. My name is Robert Dalton. My daughter is starting college in the fall and I need to come up with a significant amount of money for tuition. My neighbor mentioned I should look into a second mortgage on my house. I own about $190,000 worth of equity in my home and I'm wondering if that's a realistic option.
+Agent: Hi Robert, that's a very common situation and yes, your home equity can absolutely be a funding source for education expenses. There are actually a couple of ways to access that equity. Let me get some information from you first. Do you have your current mortgage account number so I can look at your loan details?
+Caller: Yes, it's 5514663.
+Agent: One moment. I have your account here. Your property is at 88 Pinehurst Road, your current mortgage balance is $156,220.44, and your interest rate is 4.75 percent on a 30-year fixed loan. Is that correct?
+Caller: Yes that's right.
+Agent: And what do you believe the current market value of your home is?
+Caller: I had an informal estimate from a real estate agent at around $350,000.
+Agent: So your equity would be approximately $193,779 — that's a very strong equity position. Now, the two main products for accessing home equity are a Home Equity Loan and a Home Equity Line of Credit, often called a HELOC. Let me explain both.
+Caller: Please go ahead.
+Agent: A Home Equity Loan — sometimes called a second mortgage — gives you a lump sum at a fixed interest rate, which you repay over a set term, typically 10 to 20 years. The rate on home equity loans right now is in the range of 7.25 to 8.5 percent depending on your credit profile and the loan-to-value. You'd have predictable monthly payments.
+Caller: And the HELOC?
+Agent: A Home Equity Line of Credit works more like a credit card secured by your home. You get approved for a maximum line amount, and you draw from it as needed over a draw period — typically 10 years. During the draw period, you usually only pay interest on what you've drawn. Then it enters a repayment period of 10 to 20 years where you repay principal and interest. The rate is typically variable, tied to the prime rate. Right now, HELOC rates are around 7.5 to 8.75 percent.
+Caller: Which would you recommend for college tuition?
+Agent: Each has advantages for this use case. A HELOC is popular for education because tuition is typically paid in installments — semester by semester — so you draw what you need when you need it rather than taking a large lump sum upfront and paying interest on the full amount immediately. A home equity loan makes more sense if you know the exact amount you need upfront and want a locked-in rate.
+Caller: My daughter's first year tuition and living expenses will be about $32,000. We expect four years total.
+Agent: Then a HELOC sounds well suited. You could be approved for a line of up to — let's calculate the available equity. Most lenders allow you to borrow up to 80 to 85 percent of your home's appraised value combined across all loans. At 80 percent of $350,000 that's $280,000, minus your existing mortgage of $156,220, leaves about $123,780 in available equity. At 85 percent you'd have about $141,280. Either way, more than enough for four years of college.
+Caller: What would the interest payments look like during the draw period?
+Agent: On a $32,000 draw at 8 percent interest only, your monthly payment would be approximately $213. As you draw more over the four years, the payment increases proportionally. By year four, if you've drawn $128,000 total, an interest-only payment at 8 percent would be about $853 per month.
+Caller: That seems manageable. Is the interest tax deductible?
+Agent: That's an important question. Under current tax law as of 2026, interest on home equity loans and HELOCs is only deductible if the funds are used to buy, build, or substantially improve the home securing the loan. Using the money for college tuition would not qualify for the mortgage interest deduction. You'd want to verify this with your tax advisor.
+Caller: Oh, I was counting on that. Good to know.
+Agent: A lot of people assume it's always deductible and it used to be more broadly deductible before the 2017 tax changes. Your tax advisor can give you the current guidance for your specific situation.
+Caller: Are there alternatives to home equity products for college funding?
+Agent: Absolutely. Federal student loans should typically be exhausted first because they offer the lowest rates and the best borrower protections. PLUS loans — Parent Loan for Undergraduate Students — are federal loans available to parents specifically, with rates currently around 8.05 percent for the 2025-2026 year. That rate is similar to a HELOC, but the key difference is that your home is not collateral on a student loan. With a HELOC, if you can't make payments, your home is at risk.
+Caller: I hadn't thought about that distinction.
+Agent: It's one of the most important differences. A student loan default damages your credit. A HELOC default can lead to foreclosure. That's not meant to scare you away from HELOCs — they are legitimate tools — but it's a risk factor worth weighing carefully.
+Caller: What about 529 plans? Is it too late to use one?
+Agent: 529 plans are great for future savings but they take time to grow. If you haven't contributed significantly yet, the balance may be modest for this fall. However, if you have any 529 savings, those should be used first before taking on debt.
+Caller: We have about $14,000 in a 529. So that covers less than half of first year.
+Agent: That's a meaningful contribution. Between the 529, any federal aid your daughter qualifies for through the FAFSA, and supplemental borrowing through PLUS loans or a HELOC, you should be able to piece together a plan. I'd recommend speaking with a financial aid advisor at the university and a financial planner to compare all the options holistically.
+Caller: This has been really useful. Can I apply for a HELOC through you?
+Agent: Yes, we offer HELOCs. I can start an inquiry for you and connect you with one of our home equity specialists. They can provide a formal rate quote based on a credit pull and walk you through the full application.
+Caller: Let's do that. What do I need?
+Agent: You'll need two recent pay stubs, your most recent tax return, two months of bank statements, and your current mortgage statement. The specialist will also order an appraisal. Can I take your contact information to have someone reach out?
+Caller: Yes. My number is 614-555-0922.
+Agent: Perfect. Someone will reach out within one business day. Is there anything else I can help you with today?
+Caller: No, that covers it. Thank you so much, Ashley.
+Agent: Of course. Good luck to your daughter in school, Robert. Take care!
+Caller: Thank you. Goodbye.

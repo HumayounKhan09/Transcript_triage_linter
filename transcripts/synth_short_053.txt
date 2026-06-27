@@ -1,0 +1,29 @@
+Agent: Thank you for calling Summit Home Loans servicing department, this is James. How can I help you today?
+Caller: Hi James, I have a question about my ARM loan. I've been reading some stuff online about how adjustable mortgages work and I keep seeing references to an index. I want to know what index my loan is tied to.
+Agent: That's a great question and something every ARM borrower should know. I can look that up for you right now. Can I get your name and account information?
+Caller: My name is Svetlana Kozlov and my loan number is 7714-22039.
+Agent: Thank you, Svetlana. Can you also verify your date of birth for security purposes?
+Caller: Sure, it's March 14th, 1978.
+Agent: And the property address?
+Caller: 811 Westlake Boulevard, Reno, Nevada 89509.
+Agent: Perfect, I have your account. So Svetlana, your ARM loan is indexed to the Secured Overnight Financing Rate, which is commonly referred to as SOFR. That's S-O-F-R.
+Caller: SOFR, okay. I've seen that mentioned. What exactly is SOFR?
+Agent: SOFR is a benchmark interest rate published by the Federal Reserve Bank of New York. It's based on the cost of borrowing cash overnight using U.S. Treasury securities as collateral. It replaced an older index called LIBOR, which was phased out a few years ago.
+Caller: Oh interesting. So my rate is essentially tracking what's happening in the broader financial markets?
+Agent: That's a good way to think about it. SOFR reflects short-term borrowing costs in the market, and it tends to move in the same general direction as the federal funds rate, though not always by the same amount.
+Caller: And when my loan adjusts, it's the SOFR rate plus something, right?
+Agent: Correct. Your loan documents specify a margin, which is a fixed percentage added to the index. Your SOFR value plus your margin equals your fully indexed rate, and that becomes your new interest rate at each adjustment, subject to your rate caps.
+Caller: What's my margin?
+Agent: Your margin is 2.625 percent. So for example, if SOFR at your next adjustment date is 4.5 percent, your fully indexed rate would be 7.125 percent, before applying any caps.
+Caller: Got it. And is SOFR something I can look up myself?
+Agent: Absolutely. The Federal Reserve Bank of New York publishes SOFR daily on their website at newyorkfed.org. You can track it anytime to get a sense of where your rate might go at your next adjustment.
+Caller: That's really helpful. I didn't know I could do that. So I can essentially calculate it myself before I get the notice?
+Agent: You can get a good estimate, yes. Keep in mind the rate used for your loan is typically taken from a specific date or averaged over a specific period before your adjustment date, which is defined in your loan documents. So there can be slight differences from what you see on any given day.
+Caller: That makes sense. My loan documents probably spell that out?
+Agent: Yes, your promissory note and your ARM disclosure statement will specify exactly which SOFR figure is used and when it's measured. If you need copies of those documents we can mail them to you or you may be able to access them through your online account.
+Caller: I do have an online account so I'll check there first. This is really good information, James. I feel like I actually understand my loan a lot better now.
+Agent: I'm glad I could help. Understanding your index is really important for planning ahead. Is there anything else I can assist you with today?
+Caller: No, that was everything. Thank you so much.
+Agent: My pleasure, Svetlana. Have a great rest of your day.
+Caller: You too, thanks.
+Agent: Goodbye.

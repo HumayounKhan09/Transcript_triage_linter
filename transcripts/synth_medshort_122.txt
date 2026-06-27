@@ -1,0 +1,37 @@
+Agent: Thank you for calling Westbrook Mortgage Servicing, this is Brandon. How can I help you today?
+Caller: Hi Brandon. My name is Claudette Rousseau. I have a first mortgage with you and I want to get a home equity loan, but I want to get it from my credit union, not from you. Is there anything I need from you for that to work?
+Agent: Hi Ms. Rousseau, that's a great question. You absolutely have the right to get a home equity loan from any lender you choose. There are a few things involved when a second lien is placed on a property that already has a first mortgage, and I can walk you through them. Let me pull up your account first.
+Caller: Sure. My loan number is 5510-4439.
+Agent: And the property address?
+Caller: 22 Dogwood Lane, Charlotte, North Carolina, 28277.
+Agent: And last four of your Social?
+Caller: 2293.
+Agent: Got your account. So your first mortgage with us is the senior lien on the property. When your credit union places a home equity loan, that would be a junior or second lien. The lien position matters because in the event of a foreclosure or sale, liens are paid in order of priority.
+Caller: Okay, so you'd still be first in line?
+Agent: Exactly. Your first mortgage with us stays in first position. The credit union's equity loan goes behind us in second position. They're fully aware of this going in and it's a normal arrangement.
+Caller: My credit union said they need something called a subordination agreement. What's that?
+Agent: A subordination agreement is typically needed in a refinance situation, not when you're simply adding a new second lien. If you were refinancing your first mortgage at the same time as getting the home equity loan, we would need to subordinate our interest to allow the new first mortgage to take priority. But if your first mortgage with us is staying in place and you're just adding a new second lien behind us, the credit union would simply record their mortgage in second position. No subordination agreement from us would be required.
+Caller: Oh, my credit union may have been confused then. They mentioned it when I mentioned refinancing down the road.
+Agent: Yes, subordination becomes relevant if you later refinance the first mortgage. At that point, the new first mortgage would be recorded after the existing second lien, which would put the equity loan in first position temporarily. The equity loan lender — your credit union — would need to agree to subordinate back to second position to let your new first mortgage take first position.
+Caller: That sounds complicated. Is that hard to do?
+Agent: Most credit unions and banks will agree to subordinate, but they often charge a fee — sometimes $200 to $400 — and it adds time to the refinance process. It's worth knowing going in, but it's not an obstacle that usually kills a deal.
+Caller: Okay. So for now, just getting the equity loan from the credit union doesn't require anything from you?
+Agent: Correct. You don't need our permission or signature to take out a second mortgage from another lender. The credit union will do their own underwriting, look at your equity, your income, and your credit, and they'll record their lien at closing. We're not a party to that transaction.
+Caller: Will you even know about it?
+Agent: We may find out when they do a title search and property records update, but there's no notification requirement to us. We do periodically check for junior liens on properties in our portfolio, but that doesn't affect your loan with us.
+Caller: Does having a second mortgage affect my loan with you in any way?
+Agent: Generally not. Your loan terms, rate, and payment with us don't change. However, I'd encourage you to review your first mortgage note. Some notes contain a due-on-sale or due-on-encumbrance clause, which could technically allow the lender to call the loan due if you place additional liens. This is relatively rare in practice and lenders rarely exercise it, but it's worth knowing whether your note contains such a clause.
+Caller: Can you check if mine does?
+Agent: Let me look at your note terms. Your mortgage note contains a standard due-on-sale clause triggered by transfer of ownership, but I don't see a due-on-encumbrance clause that would trigger on placing a subordinate lien. So you're clear on that.
+Caller: Okay, good. And how much equity do I have, do you know?
+Agent: I know your current loan balance is $214,800. I don't have an automated current valuation, but if you tell me roughly what you think the home is worth, I can tell you your current loan-to-value.
+Caller: Zillow says about $385,000. Similar homes are selling near that.
+Agent: If we use $385,000, your current LTV with us is about 55.8 percent. That means you have significant equity. Lenders for home equity loans typically allow total combined debt up to 80 or 85 percent of value in some cases.
+Caller: So at 80 percent of $385,000 that would be $308,000 total, minus my balance of $214,800 — that leaves $93,200 I could potentially borrow?
+Agent: That's exactly the right calculation. At 80 percent CLTV, your available equity is roughly $93,200. At 85 percent it would be higher. Your credit union will have their own maximum CLTV and will do their own appraisal.
+Caller: That's plenty for what I need. We're doing a kitchen remodel.
+Agent: Sounds like a great project. Is there anything else you need from us to move forward?
+Caller: I don't think so. You've made this much clearer.
+Agent: Happy to help. Is there anything else I can assist with today?
+Caller: No, that's everything. Thank you, Brandon.
+Agent: Of course. Good luck with the remodel. Have a great day.

@@ -1,0 +1,48 @@
+Agent: Thank you for calling Clearwater Mortgage, this is Yuki. Can I get your loan number to start?
+Caller: Yes, it's 3302-558-81. This is Marcus Delgado.
+Agent: Thank you, Mr. Delgado. Can you verify your date of birth and the property address for me?
+Caller: March 3rd, 1985, and the address is 77 Birchwood Circle, Phoenix, Arizona 85032.
+Agent: Perfect. I've got your account up. How can I help you today?
+Caller: I need to know my reinstatement amount. I'm four months behind and I want to get current.
+Agent: I'm really glad to hear you want to bring the account current, Mr. Delgado. Let me pull together the reinstatement figures. Just so we're on the same page — a reinstatement amount is the total you'd need to pay in one lump sum to bring the loan back to current status. That includes all past-due principal and interest payments, any late fees that have been assessed, and any other allowable charges that have accumulated.
+Caller: Right. That's what I need. How much is it?
+Agent: Let me walk through the calculation with you so it's transparent. Your regular monthly payment is $1,562.00 — that covers principal and interest plus your escrow for taxes and insurance. Is that the amount you're used to paying?
+Caller: Yes, $1,562.00. I've missed February, March, April, and May.
+Agent: Correct. So four payments at $1,562.00 each comes to $6,248.00 in missed principal, interest, and escrow. Now, late fees are assessed after the grace period, which is the fifteenth of each month. Your late fee is $78.10 per month. Four late fees comes to $312.40.
+Caller: Okay, so that's $6,560.40 so far.
+Agent: That's right. Now, because the account has been delinquent for over sixty days, property inspections were also ordered. Our records show two property inspections at $15.00 each, so that's $30.00 in corporate advances.
+Caller: What's a corporate advance?
+Agent: Corporate advances are fees we pay on your behalf or costs we incur while servicing a delinquent account — like ordering inspections or notifying you of the delinquency. They're recoverable costs that get added to the reinstatement total.
+Caller: Okay. Is there anything else?
+Agent: Yes, there are also delinquency notification costs. We're required to send certain notices during the default process, and those document and mailing costs totaled $67.00. There's also an attorney communication fee of $45.00 because your account was flagged for default review. All of those together come to $112.00.
+Caller: So what's the grand total?
+Agent: Adding everything together: $6,248.00 in missed payments, $312.40 in late fees, $30.00 in inspection fees, and $112.00 in other allowable costs — your reinstatement total as of today, June 27th, 2026, is $6,702.40.
+Caller: Okay. And if I don't pay it today — like if I can get the money by next Friday — does it go up?
+Agent: Yes, it will increase. Interest accrues daily on your principal balance. Your daily interest accrual is approximately $18.72. So for each day past today, add roughly $18.72. From today to next Friday is seven days, so you'd be looking at an additional $131.04, bringing it to approximately $6,833.44 by next Friday.
+Caller: Got it. And what form of payment do you accept for reinstatement?
+Agent: For a reinstatement of this amount, we require certified funds. That means a cashier's check, money order, or wire transfer. Personal checks are not accepted for reinstatement payments. If you want to wire, I can give you the wire instructions.
+Caller: Yes, please give me the wire details.
+Agent: Our wire transfer details are: Bank of the West, ABA routing number 1214-02377, account number 8801-55-3312, beneficiary name Clearwater Mortgage Servicing LLC. You must include your loan number 3302-558-81 in the memo or reference field, otherwise it may not be applied correctly.
+Caller: Let me write that down. Bank of the West, ABA 1214-02377, account 8801-55-3312, beneficiary Clearwater Mortgage Servicing, memo is my loan number.
+Agent: That's correct. And I'd recommend sending the wire first thing in the morning so it has time to process same-day. Wires received before 3:00 p.m. Eastern Time are typically posted the same business day.
+Caller: If I wire it Monday morning, will it show as paid the same day?
+Agent: If it arrives before 3:00 p.m. Eastern, yes, it should post Monday. That would stop any further daily interest and any additional fees from accumulating.
+Caller: What happens after it posts? Does my account go back to normal?
+Agent: Yes. Once the reinstatement payment is received and applied, your account will be brought current. Your next regular monthly payment of $1,562.00 would be due on July 1st. You'd receive a confirmation letter within five business days confirming the account is current and any pending default-related actions are rescinded.
+Caller: What about my credit report? Will those late payments be removed?
+Agent: Unfortunately, I'm not able to promise that. The late payment history that was reported to the credit bureaus during the delinquency is accurate reporting. Bringing the account current stops future negative reporting, but the prior late marks may remain on your credit file according to standard reporting timelines. If you believe there are reporting errors, you can dispute those directly through the bureaus.
+Caller: I figured that. I just wanted to ask.
+Agent: That's a completely fair question. To summarize — your reinstatement amount as of today is $6,702.40, it increases by approximately $18.72 per day, you need certified funds or a wire, and we need your loan number in the wire memo. Once it's posted, you're current and your next payment is July 1st.
+Caller: Can you send me something in writing that confirms that $6,702.40 figure?
+Agent: Absolutely. I can generate a written reinstatement quote with a good-through date. What date would you like it good through?
+Caller: Make it good through July 5th.
+Agent: A reinstatement quote good through July 5th, 2026. That means the quoted amount is valid if payment is received by close of business on July 5th. The figure will reflect today's balance plus interest through July 5th. That amount will be $6,965.84. That quote will be emailed to the address we have on file. Can you verify your email?
+Caller: It's mdelgado1985 at yahoo dot com.
+Agent: Got it. M-D-E-L-G-A-D-O-1-9-8-5 at yahoo dot com. The written quote will arrive within two business hours. It will also show the wire instructions and the payment address for certified check.
+Caller: Great. And where do I mail a cashier's check if I go that route?
+Agent: Clearwater Mortgage Servicing, Attention Payment Processing, P.O. Box 4491, Dallas, Texas 75201. Include your loan number on the check and send overnight if possible so we have it before your good-through date.
+Caller: Perfect. Yuki, thank you. You made this really clear.
+Agent: I'm glad I could help, Mr. Delgado. Getting current is a great step and I'm happy to see you making it happen. Is there anything else you need?
+Caller: No, I'm good. I'll wire it Monday.
+Agent: Wonderful. Have a great weekend.
+Caller: You too. Bye.

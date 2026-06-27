@@ -1,0 +1,36 @@
+Agent: Thank you for calling Bridgeway Home Finance, this is Christopher speaking. How can I help you today?
+Caller: Hi Christopher. My name is Felicia Grant. When I got my mortgage four years ago, my mother co-signed because my credit wasn't great at the time. My credit is much better now and my mother wants to be removed from the loan. Is that something that can be done?
+Agent: Hi Felicia, that's a great question and a very understandable situation. The short answer is yes, it can be done, but it does require a specific process. Let me pull up your account. Do you have your loan number?
+Caller: Yes, it's 8847221.
+Agent: One moment. I have your account here. The loan is at 1190 Clover Ridge Boulevard, original loan amount $224,500, current balance $207,311.88, with both Felicia Grant and Evelyn Grant listed as co-borrowers. Your current rate is 4.125 percent fixed and the monthly payment is $1,488.64. Is all of that correct?
+Caller: Yes, that's right. Evelyn is my mother.
+Agent: Perfect. So there are two primary ways to remove a co-signer from a mortgage. The first is through a refinance, and the second — less commonly — is through a co-borrower release if your loan program offers one. Let me explain both.
+Caller: Please do.
+Agent: A refinance is the most straightforward method. You'd apply for a new mortgage in your name only. If you qualify based on your current income, credit score, and debt-to-income ratio, the new loan pays off the existing loan and your mother is completely released from any obligation. The downside is that you'd lose your current 4.125 percent interest rate, which is quite low by today's standards. Current rates are significantly higher.
+Caller: That's what I was afraid of. We really don't want to give up that rate.
+Agent: I understand. So let's talk about the co-borrower release option. Some loan programs — particularly FHA loans — have a formal co-borrower release process. Let me check your loan type. Your loan is a conventional loan, not FHA, so a formal release program may not apply. However, some conventional servicers do consider modifications that involve removing a co-borrower, particularly when there's a demonstrated ability to repay independently.
+Caller: What would that require?
+Agent: Typically the servicer would need to evaluate whether you can qualify for the existing loan on your own — your income, credit, and assets without your mother's contribution. If you can demonstrate you could have gotten the loan on your own today, some servicers will grant the release. This is not a standard offering across all servicers and it's ultimately at the lender's discretion.
+Caller: My income is much better than it was four years ago. I'm making $72,000 now versus $52,000 when I applied. And my credit score was 611 then — it's 724 now.
+Agent: That's a significant improvement on both counts. A 724 credit score is solid, and the income increase strengthens your debt-to-income ratio considerably. Let me look at your loan details more carefully. Your payment is $1,488.64 per month. At $72,000 annual income, that's $6,000 per month gross. Your payment alone represents about 24.8 percent of your gross income, which is well within the standard 28 percent front-end ratio. Do you have other significant debts?
+Caller: I have a car payment of $348 and a student loan of $210 per month. That's about it.
+Agent: So your total monthly obligations including the mortgage would be $2,046.64. Divided by $6,000, your back-end DTI is about 34 percent. Conventional guidelines typically allow up to 43 to 45 percent. You look strong enough to potentially qualify on your own.
+Caller: So how do I request the co-borrower release?
+Agent: I'll flag your account and submit an internal request for a co-borrower release review. You'd need to submit a written request signed by both you and your mother — she'd need to confirm in writing that she consents to being removed. You'd also need to provide recent pay stubs, two months of bank statements, your most recent tax return, and a letter explaining why the release is being requested.
+Caller: My mother is fully on board. She's actually the one pushing for this because she's trying to buy a condo for herself and the mortgage shows up on her credit report, which affects her debt-to-income ratio for her own purchase.
+Agent: That's a very common and completely valid reason. When a co-signer has an obligation on someone else's mortgage, it counts against their own borrowing capacity. Removing her from your loan would free up her DTI for her own purchase.
+Caller: Exactly. Is there a fee for this review?
+Agent: There can be a modification fee if the release is approved — typically in the range of $250 to $500. I don't have the exact figure for our program, but the review team can provide that information. There's no fee just to submit the request.
+Caller: How long does the review typically take?
+Agent: Processing times vary, but typically 30 to 60 days once all required documents are received. Given that your mother has a time-sensitive need — if she's actively trying to buy a condo — it may be worth noting that in your request letter so the team is aware of the urgency.
+Caller: Will they definitely approve it?
+Agent: I can't guarantee approval — that determination is made by the underwriting and credit team based on your full financial profile. But based on what I'm seeing, your numbers look favorable. A 724 credit score, improved income, and a low DTI are all positive indicators. If for some reason the release is denied, refinancing would still be available as an option.
+Caller: Even if the rate would be higher?
+Agent: Yes. It would be a financial trade-off. You'd give up the 4.125 percent rate but eliminate the co-signer obligation. In some cases, people decide it's worth it; in others, they decide to keep the co-signer on and work around it.
+Caller: I really hope the release works out. Can I start the paperwork today?
+Agent: Absolutely. I'll note on your account that you'd like to initiate a co-borrower release review and flag it for the modification team. They'll send you a packet with all the required forms within five business days.
+Caller: Perfect. Thank you so much, Christopher. This has been really helpful.
+Agent: My pleasure, Felicia. It sounds like you've worked hard to improve your financial position and it's paying off. Is there anything else I can help you with today?
+Caller: No, that's everything. I'll watch for that packet.
+Agent: Great. Have a wonderful day!
+Caller: You too, thanks!

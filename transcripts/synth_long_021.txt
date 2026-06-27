@@ -1,0 +1,133 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Carlos speaking. How can I help you today?
+
+Caller: Hi Carlos, my name is Denise Hartwell. I've been talking to a few people at your company over the last couple weeks and I finally got someone to suggest a short sale might be my best option. I want to really understand the whole process from beginning to end before I commit to anything.
+
+Agent: Absolutely, Denise. I'm glad you're taking the time to understand this fully before making a decision. Short sales are significant and I want to make sure you have the complete picture. Can I pull up your account first? Can you give me your loan number or the property address?
+
+Caller: Sure, it's loan number 7741892. The property is at 4418 Westbrook Lane, Columbus, Ohio 43214.
+
+Agent: Perfect, let me pull that up. One moment. Okay, I have your account here. Denise Hartwell, loan originated in 2018, current balance of $247,400. I see the property value in our records from a drive-by in March was estimated around $198,000. So we are looking at an underwater situation here. Before we walk through the short sale process, can you tell me a little about your hardship? What's brought you to this point?
+
+Caller: My husband and I divorced in 2022. He was the primary earner. I kept the house in the settlement but I've been struggling to make the payments on my teacher's salary alone. I'm about $11,000 behind right now and I just can't see a way forward. I've tried the modification route and my income doesn't support even a reduced payment.
+
+Agent: I'm sorry you're dealing with that, Denise. Divorce is one of the most common qualifying hardships for a short sale, and being $11,000 delinquent with a documented income insufficiency puts you in a position where you likely would qualify. Let me walk you through the entire process so you know what to expect.
+
+Caller: Please, yes. Start from the very beginning.
+
+Agent: The first step is submitting what we call a Short Sale Package or a Borrower Response Package. That includes a hardship letter written by you, your two most recent tax returns, two months of bank statements, two months of pay stubs, a financial worksheet showing your monthly income and expenses, and a signed authorization form allowing us to discuss the account with any real estate agent you hire.
+
+Caller: Okay. The hardship letter — is there a specific format I need to follow? Or length?
+
+Agent: There's no rigid format, but it should be sincere and specific. You want to explain what happened — in your case the divorce and resulting income reduction — when it happened, why you can't sustain the mortgage, and what you've tried to do to remedy the situation. It should be dated and signed. One to two pages is typical. The more specific and honest you are, the better. Investors — and I'll explain who that is in a moment — they want to see a genuine story backed by documents.
+
+Caller: You mentioned investors. That's the bank that owns my loan, right? Is that you?
+
+Agent: Good question. We're the servicer, meaning we collect payments and manage the account day to day. But your loan is actually owned by an investor — in your case it's been securitized and the investor is Fannie Mae. That matters because the rules around short sales, what they'll approve, and the timeline are largely set by Fannie Mae guidelines, not just us.
+
+Caller: What does Fannie Mae require that might be different from what you'd require?
+
+Agent: Fannie Mae has specific guidelines around contribution requirements and deficiency waivers. For example, on some loans they require borrowers who have assets above a certain threshold to make a cash contribution at closing. They'll look at your financial worksheet — if you have significant savings or retirement accounts, they may ask you to bring some money to the table even in a short sale.
+
+Caller: I have about $8,000 in a 403(b). Would that count?
+
+Agent: Retirement accounts are generally treated more favorably than liquid savings. Fannie Mae typically does not require you to liquidate retirement accounts, but our team that handles short sale negotiations would review that during the process. I wouldn't expect it to be a problem at your balance level, but I want to be transparent that it gets reviewed.
+
+Caller: Okay. So I submit the package. What happens next?
+
+Agent: Once we receive your package, there's typically a 10 to 30 day review period where we confirm eligibility and assign a short sale negotiator to your file. At or around the same time, we order what's called a BPO — a Broker Price Opinion. That's when we send a licensed real estate broker to physically inspect your property and give us an independent market value estimate.
+
+Caller: That's different from an appraisal?
+
+Agent: Correct. A BPO is less formal than a full appraisal but it's what investors typically use to determine what they'll accept as a minimum net from a sale. The BPO result is critical because it sets the floor. If your buyer's offer comes in too far below the BPO, we may counter or reject it.
+
+Caller: So I should have a real estate agent already lined up before I submit the package?
+
+Agent: Ideally, yes. In fact most short sale sellers list the property while the package is being reviewed. The listing and the BPO often happen concurrently. You want an agent who has experience with short sales specifically — it's a specialized process and an inexperienced agent can slow things down significantly or make mistakes that derail the approval.
+
+Caller: I actually have someone in mind, a friend who has done a few of these. What should she know about your process?
+
+Agent: Your agent will need to submit an MLS listing, a fully executed purchase contract once you have an offer, a net sheet showing what proceeds we'd receive after commissions and closing costs, and a copy of the buyer's pre-approval letter or proof of funds. The agent communicates with our short sale department, not with you directly on the approval side. That said, you should be kept in the loop by your agent at every step.
+
+Caller: How long does the whole process take? I've heard it can be really slow.
+
+Agent: Honest answer — it varies. Once you have a complete package submitted and an accepted offer from a buyer, Fannie Mae's approval process typically takes 30 to 60 days. But factoring in listing the property, finding a buyer, negotiating the offer, and then the approval period, the realistic total timeline is four to six months from when you start. Some go faster, some take longer, especially if there are negotiation rounds with the investor.
+
+Caller: Four to six months. During that time, am I still accruing interest and late fees?
+
+Agent: The account continues to accrue per the loan terms, yes. However, those amounts are written off at closing — they don't come out of your pocket. The point of the short sale is that the proceeds from the sale go to us and that satisfies the debt in full, regardless of what the total amount owed has become.
+
+Caller: Okay. Now the thing I'm most scared about — the deficiency judgment. Can you explain that to me?
+
+Agent: This is really important, Denise. A deficiency is the difference between what you owe and what we net from the sale. In your case, if your balance is $247,400 and we net $185,000 from the sale after commissions, the deficiency is about $62,400. The question is whether we waive that or pursue you for it.
+
+Caller: Can you pursue me for it?
+
+Agent: It depends on what the approval letter says and Ohio state law. In Ohio, lenders do have the right to pursue deficiency judgments after a short sale unless they've explicitly waived that right in writing. With Fannie Mae-backed loans, Fannie Mae's policy in most cases is to fully waive the deficiency as a condition of short sale approval. But you must get that waiver language in your approval letter — in writing — before you close. Never close a short sale without a written deficiency waiver if that's what was promised.
+
+Caller: What if the approval letter doesn't include that language?
+
+Agent: Then you or your attorney should push back and request it explicitly before closing. This is one reason having a real estate attorney review your short sale approval letter is worth the cost. Some servicers and investors do reserve the right to pursue deficiencies, and you need to know exactly where you stand.
+
+Caller: Okay. The other thing — taxes. I've heard I might owe taxes on the forgiven amount?
+
+Agent: Yes, this is the other major consideration. Normally, when a debt is forgiven, the IRS considers that forgiven amount as taxable income. So that $62,000 deficiency waiver could potentially be reported on a 1099-C form and treated as income.
+
+Caller: That could be tens of thousands in taxes I can't afford.
+
+Agent: There are exemptions that may apply to you. The most relevant is insolvency — if your total liabilities exceeded your total assets at the time of the sale, you may be able to exclude some or all of that forgiven amount from your taxable income. There's also the Qualified Principal Residence Indebtedness exclusion, though it's had a complicated legislative history and I'd strongly encourage you to consult a tax professional or CPA before the sale closes to understand your specific situation.
+
+Caller: Will you send me something about that in writing?
+
+Agent: I can note your account to send our short sale overview document, which covers tax implications at a high level, but for tax advice specific to your situation you really do need a tax professional. We're a servicer — I can explain general concepts but I can't give you tax counsel.
+
+Caller: Fair enough. What about my credit? How bad will this hurt me?
+
+Agent: A short sale will be reported on your credit report, typically noted as "settled for less than full amount" or similar language. The impact depends on where your credit is now — since you're already delinquent, your score has likely already taken a significant hit. A short sale will remain on your credit report for up to seven years, but many people are able to qualify for a new mortgage within two to four years, particularly with Fannie Mae or Freddie Mac loans if you meet their waiting period requirements.
+
+Caller: What's the waiting period for a new Fannie Mae loan after a short sale?
+
+Agent: With extenuating circumstances — which the divorce and income reduction likely qualify as — the waiting period can be as short as two years. Without extenuating circumstances, it's four years. You'd need to document the circumstances at the time of your new application.
+
+Caller: Can I stay in the home during the short sale process?
+
+Agent: Yes. You remain in the home as the owner until the closing. In some cases, there are relocation assistance programs — Fannie Mae has a program called Mortgage Release or Deed in Lieu, but for short sales there's sometimes a small relocation assistance payment at closing, typically $3,000, though that varies and would be spelled out in your approval letter.
+
+Caller: That's the first good news I've heard. Okay — what do I need to do right now, today, to start this?
+
+Agent: The first thing is to call or email our short sale intake team — I'll give you that direct number in a moment. Tell them you want to initiate a short sale on loan 7741892. They'll send you the Borrower Response Package, which is the collection of all the documents I described. Start working on your hardship letter now because that takes time to write well. And call your real estate agent friend and tell her you're ready to list.
+
+Caller: Is there anything that could stop the short sale from being approved even if I do everything right?
+
+Agent: Yes, a few things. If the BPO comes back higher than expected and your buyer's offer is too low, the investor may reject the offer. If you have a second lien — a HELOC or second mortgage — that lienholder also has to agree to the short sale. Do you have a second lien on this property?
+
+Caller: No, it's just the one loan.
+
+Agent: That simplifies things. Another issue is if the buyer's financing falls through, which can happen. And if the property has title issues, that can delay or derail things. Your real estate agent should run a title search early in the process.
+
+Caller: This is so much information. Is there anything else I should know?
+
+Agent: One more thing — once you're officially in the short sale process and we've acknowledged your package, we will typically pause foreclosure proceedings. However, we don't stop the foreclosure clock permanently unless you're making active progress. If months go by without an offer or without communication, foreclosure can continue. So you want to keep things moving.
+
+Caller: How do I stay in contact with you during the process?
+
+Agent: Your short sale negotiator will be your primary point of contact and they'll have a direct phone number and email. You can also call our general line and reference your loan number. I'd recommend a check-in call every two to three weeks if you haven't heard anything.
+
+Caller: Carlos, this has been incredibly helpful. I feel like I actually understand what I'm getting into now.
+
+Agent: I'm really glad, Denise. It's a lot of process but it's manageable when you take it step by step. Let me get you that short sale intake number and I'll also put a note on your account documenting that we spoke today and that you intend to initiate a short sale application.
+
+Caller: Yes, please do that. And can you give me something in writing that summarizes what we talked about?
+
+Agent: I'll send a written summary of the call and our short sale overview brochure to the email address we have on file. Can you confirm that email ends in gmail.com?
+
+Caller: Yes, it's d.hartwell82 at gmail.
+
+Agent: Perfect. I'll get that sent within 24 to 48 business hours. The short sale intake number is 1-800-555-0143, ask for the short sale department and reference your loan number. Is there anything else I can help you with today, Denise?
+
+Caller: No, I think that covers it. Thank you so much for being so thorough. I really appreciate it.
+
+Agent: Of course. Good luck, Denise. I genuinely hope this works out well for you. Have a good day.
+
+Caller: You too, Carlos. Bye.
+
+Agent: Goodbye.

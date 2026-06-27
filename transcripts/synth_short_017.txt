@@ -1,0 +1,37 @@
+Agent: Thank you for calling Riverside Mortgage Corp, this is Maria. How can I help you today?
+Caller: Hi Maria. I'm trying to figure out when my mortgage will be fully paid off. Like, the final maturity date.
+Agent: Sure, I can tell you that. Let me bring up your account. Can I get your name?
+Caller: Franklin Osei.
+Agent: Thank you, Mr. Osei. And the last four digits of your Social?
+Caller: 2248.
+Agent: And your property address?
+Caller: 342 Westgate Lane, Cincinnati, Ohio 45202.
+Agent: I've got your account. Your loan's maturity date is September 1st, 2052.
+Caller: September 2052. So I'll be done in about 26 years.
+Agent: That's correct, assuming you continue making your scheduled payments without additional principal payments or modifications.
+Caller: And when did the loan start? I want to double-check the term.
+Agent: Your loan originated on September 15th, 2022. It's a 30-year mortgage, so September 2052 lines up exactly with a 30-year term.
+Caller: Got it. I knew it was 30 years, I just couldn't remember when it started.
+Agent: That happens. The origination date and term are always on your original closing disclosure as well.
+Caller: Right. So is the maturity date the last payment date?
+Agent: Yes. The maturity date is the date of your final scheduled payment. On that date, your balance should reach zero — assuming all payments were made as scheduled.
+Caller: What if I've paid extra? Does that move the maturity date up?
+Agent: That's a common question. On a standard amortizing mortgage, extra principal payments reduce your balance and shorten the effective payoff period, but the contractual maturity date on paper stays the same. The loan just pays off before that date.
+Caller: So if I've been making extra payments, it could actually be done before 2052?
+Agent: Exactly. If you've been making additional principal payments, your effective payoff date would be earlier than September 2052. I can look at your payment history to give you a rough idea.
+Caller: Please, yes.
+Agent: Let me look. I see you've been making periodic extra payments. Over the life of the loan so far, you've paid approximately $4,800 in additional principal. Based on that pattern, if you continue at a similar pace, your estimated payoff could shift to approximately 2049 or 2050.
+Caller: Wow. So three or four years sooner. That's motivating.
+Agent: It really is. Even modest extra payments make a meaningful difference over a long-term loan.
+Caller: Can you model what would happen if I added a specific amount extra each month?
+Agent: I can give you general guidance, though for a detailed amortization projection I'd recommend our online portal's loan calculator or speaking with one of our loan advisors. Generally speaking, an extra $200 per month on your current balance would save you roughly five to six additional years.
+Caller: That's good to know. I'll look at the calculator.
+Agent: It's available under the Tools section on your portal dashboard.
+Caller: Great. Okay so to recap — maturity date September 1st, 2052, loan started September 2022, 30-year term.
+Agent: All correct.
+Caller: Thanks Maria. Simple question but I'm glad I called because the extra payment info was interesting.
+Agent: Happy to help. Sometimes the quick questions lead to the most useful conversations. Is there anything else I can help with?
+Caller: No, I'm all good. Thanks again.
+Agent: Of course. Thank you for calling Riverside Mortgage Corp. Have a great rest of your day.
+Caller: You too. Bye.
+Agent: Goodbye.

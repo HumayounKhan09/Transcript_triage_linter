@@ -1,0 +1,37 @@
+Agent: Thank you for calling Northstar Lending, this is Maria. How can I help you today?
+Caller: Hi Maria. I need to change the email address on my account. I have a new work email and I want my mortgage statements to go there instead.
+Agent: Happy to help with that. Can I get your name first?
+Caller: James Okafor.
+Agent: Thank you, Mr. Okafor. And the last four of your Social Security Number?
+Caller: 7730.
+Agent: And can you verify the property address?
+Caller: 511 Harbor View Court, Baltimore, Maryland 21201.
+Agent: Got it, your account is up. Let me confirm what we currently have on file. I show an email address of j.okafor82 at gmail dot com. Is that the one you're replacing?
+Caller: Yes. I want to use my work email going forward.
+Agent: And what's the new email address?
+Caller: It's james.okafor at hartwell industries dot com.
+Agent: Let me read that back. James dot okafor at hartwell industries dot com?
+Caller: Yes, that's it.
+Agent: Got it. And you mentioned you want your statements to go there. Do you also want all other communications — payment reminders, alerts, account notices — to go to this email?
+Caller: Yes, all of it. The old gmail I barely check anymore.
+Agent: Understood. I'll update the primary email to the new address. You'll receive a confirmation message at the new email once the change is complete.
+Caller: How quickly will that come through?
+Agent: You should receive it within 15 to 30 minutes of me saving the change.
+Caller: Okay. And if I don't get it?
+Agent: Check your junk or spam folder. Our confirmation emails come from noreply at northstar lending dot com. If it's not there after an hour, please give us a call and we can verify the update.
+Caller: Will do. And my next statement — will that go to the new email or the old one?
+Agent: Your next statement generates on July 8th. Since we're updating today, the new email should be in effect in time. You'd receive the July statement at james dot okafor at hartwell industries.
+Caller: Good. Now I'm wondering — is there a way to make sure the old email gets completely removed? I don't want my mortgage information going to an old account someone else might access.
+Agent: Absolutely. Once I replace the email, the old address is removed entirely from your account. No future correspondence will be sent to the gmail address.
+Caller: What about past statements? Are those still accessible somewhere?
+Agent: Past statements are stored in your online portal and are not sent out again, so there's no concern about past documents going to the old email.
+Caller: Good. That's smart actually. Okay, anything else I should know about this change?
+Agent: Just one thing — if you've saved the old email as your portal login, you may need to update that separately. Your portal login and your communication email can be different. Which email do you use to log in to the portal?
+Caller: I think it's also the gmail. Should I update that too?
+Agent: If you'd like to use your work email to log in going forward, you can update your portal login credentials through the portal settings after you log in. We can't change the portal username from this side.
+Caller: Okay, I'll do that separately. The main thing is the communication email.
+Agent: Understood. That's been updated. Is there anything else I can help you with today?
+Caller: No, I think that's it. Thank you Maria.
+Agent: My pleasure, Mr. Okafor. Keep an eye out for the confirmation email and have a great day.
+Caller: Will do. Thanks. Bye.
+Agent: Goodbye.

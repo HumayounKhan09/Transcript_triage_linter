@@ -1,0 +1,52 @@
+Agent: Horizon Mortgage Servicing, this is Maria, how can I help you today?
+Caller: Hi, I'm calling because I sent in my mortgage payment and it got returned. Now I have a late fee and I'm pretty upset because this was not my fault.
+Agent: I'm sorry to hear that, and I definitely want to look into this for you. Let me pull up your account. Can I get your loan number?
+Caller: It's 584772. The property is at 2901 Clover Street, Indianapolis, Indiana.
+Agent: And your name and last four of your Social?
+Caller: My name is Edwin Castellano. Social ends in 9912.
+Agent: Thank you Edwin. Let me look at your account. I can see a returned payment — looks like it was returned on the sixth of this month. The notation says "invalid account number." Can you tell me what happened on your end?
+Caller: So I switched bank accounts back in August. I have a new checking account and I set up a new bill pay through my bank. I thought I updated it everywhere, but apparently I put in the wrong account number when I updated your information. I put in a nine instead of a seven somewhere, I think.
+Agent: I see. So the account number you submitted was incorrect, which is why the payment bounced back. These things do happen, especially during account transitions.
+Caller: Right, but the thing is — I sent the money. It's not like I didn't pay. The money was there, it just got rejected because of a typo.
+Agent: I completely understand the frustration. You intended to pay, you had the funds, and a data entry error caused the return. Let me tell you where things stand.
+Caller: Yeah, please.
+Agent: Your October 1st payment of one thousand one hundred and sixty-four dollars was returned. Because it came back, it's now showing as past due on the account. There's also a late fee of forty-nine dollars and seventy-five cents that was assessed. And because the payment posted as returned, there may be a returned payment fee as well — let me look. Yes, there's a returned payment fee of twenty-five dollars. So your current amount due is approximately one thousand two hundred and thirty-eight dollars and seventy-five cents.
+Caller: The twenty-five dollar returned payment fee on top of the late fee. That feels like being penalized twice for the same mistake.
+Agent: I hear you. Let me see what I can do. Given that this is clearly an inadvertent error — you switched banks, had a typo — and I can see that your account has a solid payment history otherwise, I'm going to waive the late fee as a one-time courtesy. That's the forty-nine seventy-five.
+Caller: What about the returned payment fee?
+Agent: The returned payment fee is a banking processing fee related to the actual returned transaction. Those are slightly harder to waive because they do reflect real processing costs, but let me note it on your account and request a review. No promises, but given your history, it's worth asking.
+Caller: I appreciate that. What do I need to do to get my account current?
+Agent: A few things. First, I need to get your correct banking information on file so this doesn't happen again. Would you like to update your payment information right now?
+Caller: Yes. Should I do that with you or online?
+Agent: Either way. I can take it over the phone right now — I'll need your routing number and account number. Or you can log into the account portal and update your payment method there.
+Caller: Let me do it online so I can double-check the numbers myself before I submit. I don't want to risk another typo.
+Agent: That's smart. Take your time and verify each digit before saving. When you update online, there's also a verification micro-deposit process — we'll send two small deposits to confirm the account is valid. You verify those amounts online, and then the account is confirmed.
+Caller: How long does the micro-deposit take?
+Agent: Typically one to two business days. So if you update your info today, you'd be fully verified by Wednesday or Thursday.
+Caller: And in the meantime, can I make a payment a different way to get current right now?
+Agent: Absolutely. You can make a payment over the phone with a debit card, which posts immediately. Or you can use a different checking account if you have one. Or you can go to a branch and pay in person.
+Caller: I have a savings account at the same bank. Can I use that routing and account number?
+Agent: Yes, savings accounts work fine for one-time payments. I can take that information right now if you have it handy.
+Caller: Hold on, let me get my account number. I have it in my phone. Okay, routing number is 074000010.
+Agent: Got it.
+Caller: Account number is 8851049307.
+Agent: And this is a savings account at — what bank?
+Caller: Fifth Third Bank.
+Agent: Great. I'm going to process the payment of one thousand one hundred and sixty-four dollars — your regular monthly payment — from that savings account. And I'm also flagging for a supervisor review on the returned payment fee. Does that sound right?
+Caller: Yes. Wait — should I also pay the late fee now even though you're waiving it?
+Agent: I'm applying the waiver right now in the system, so when the payment of one thousand one hundred and sixty-four posts, your account will show current. The waived late fee will show as a credit. You don't need to pay it.
+Caller: Okay. And the returned payment fee?
+Agent: I've submitted the review request for that twenty-five dollars. If it's approved for waiver, it will appear as a credit on your account within five to seven business days. If it's denied, we'll notify you and you'd be responsible for that amount.
+Caller: Fair enough. Can I get a confirmation number for the payment?
+Agent: Your payment confirmation number is PMT-2024-774412. I'd save that. The payment should post within one business day.
+Caller: Great. And I'm going to go online tonight to update my bill pay info.
+Agent: Perfect. And when you're there, double-check the account number character by character. Sometimes routing numbers are different for bill pay versus checks — make sure you're using the right one.
+Caller: My bank told me the routing number for electronic payments is different from checks. Should I call them to confirm?
+Agent: Yes, that's a really good idea. Some banks have a specific ACH routing number that differs from their paper check routing number. Confirm with Fifth Third which one to use for electronic bill pay.
+Caller: Okay, I'll call them today. This has been a whole ordeal over one typo.
+Agent: I know. These things happen. You've handled it well — catching it quickly and calling us is the right response. Is there anything else I can help you with today?
+Caller: I think that covers it. Can you note on my account that this was an error on my part and that I called to fix it right away?
+Agent: Already done. Notes are on the account indicating the returned payment was due to an incorrect account number during a bank account transition, that you called promptly, and that the late fee was waived. The returned payment fee review is also noted.
+Caller: Thank you Maria. I was pretty worked up when I called but you were very straightforward about everything.
+Agent: You're welcome, Edwin. Take care and enjoy the rest of your day.
+Caller: You too. Bye.

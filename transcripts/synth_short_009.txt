@@ -1,0 +1,35 @@
+Agent: Thank you for calling Greenfield Mortgage, this is Kevin. How can I assist you today?
+Caller: Hi. I'm trying to log into your online portal but I keep getting an error. It's saying my password is wrong but I know it's right.
+Agent: I can help you with that. Let me pull up your account first. Can I get your name?
+Caller: Brenda Kowalski.
+Agent: Thank you, Ms. Kowalski. And the last four digits of your Social?
+Caller: 4456.
+Agent: And your property address?
+Caller: 19 Elmwood Circle, Springfield, Illinois 62704.
+Agent: Got it, I have your account. And what's the username or email address you're using to log in?
+Caller: brendak at comcast dot net.
+Agent: Okay, I see your account is linked to that email. The issue is that our portal recently underwent a security upgrade and all users were required to reset their passwords. A reset email was sent on June 15th.
+Caller: Oh, I think I might have deleted that thinking it was spam. I didn't recognize the sender.
+Agent: That's a common situation. The reset email comes from noreply at greenfield mortgage portal dot com. Is that something you may have filtered?
+Caller: Possibly. My spam filter is pretty aggressive. Can you resend it?
+Agent: Absolutely. I can trigger a new password reset email right now to brendak at comcast dot net. You should receive it within 10 to 15 minutes.
+Caller: Okay, and what do I do from there?
+Agent: You'll get an email with a button that says Reset Password. Click that link — it's valid for 24 hours. It will prompt you to create a new password. The password must be at least 8 characters and include one uppercase letter, one number, and one special character.
+Caller: Special character like what?
+Agent: Things like an exclamation point, dollar sign, ampersand, hashtag — any symbol on your keyboard works.
+Caller: Okay, that's easy enough. And then I can just log in normally after that?
+Agent: Yes. After you set the new password, return to our portal at greenfield mortgage dot com slash login and sign in with your email and the new password.
+Caller: Okay. And what can I do in the portal? I've never actually used it before.
+Agent: You can view your account balance, payment history, and upcoming due date. You can make one-time payments or manage autopay. You can also view and download your statements, update contact information, and request documents.
+Caller: Oh that's really useful. I didn't know I could do all that.
+Agent: Yes, it's fully self-service for most common requests. A lot of customers find it saves them time versus calling in.
+Caller: I'll try to use it more. Okay, so you're resending the reset email now?
+Agent: I've initiated it, yes. Give it 10 to 15 minutes, and check your spam folder if you don't see it in your inbox.
+Caller: Got it. And if I still can't log in, should I call back?
+Agent: Yes, just call back and we can walk you through it. You can also reach our portal support line directly at extension 4 from the main menu.
+Caller: Okay. I think I'll be fine once I get the email. Thanks Kevin.
+Agent: My pleasure, Ms. Kowalski. The reset email is on its way. Is there anything else I can help you with today?
+Caller: No, that should do it. Thanks a lot.
+Agent: Of course. Thank you for calling Greenfield Mortgage. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

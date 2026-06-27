@@ -1,0 +1,45 @@
+Agent: Thank you for calling Allied Home Servicing. This is Nicole. Can I get your loan number and name please?
+Caller: Hi Nicole. I'm Carla Jenkins. My loan number is 4-4-0-9-2-6-7.
+Agent: Thank you, Ms. Jenkins. Property address and last four of Social?
+Caller: 2847 Pinecrest Avenue, Birmingham, Alabama 35215. Last four is 6-6-1-3.
+Agent: Got it, I see your account. This is an FHA loan. How can I help you today?
+Caller: Yes, I know it's an FHA loan. My housing counselor at the nonprofit told me that FHA loans have what she called a loss mitigation waterfall — like a specific order of options they look at before they can just foreclose. I want to understand what that waterfall looks like and where I fit in. I've missed two payments so far.
+Agent: Your counselor is absolutely right, and it's great that she prepared you to ask about this. FHA — the Federal Housing Administration — requires servicers to evaluate FHA borrowers in a specific sequence of loss mitigation options before a foreclosure can be initiated. The servicer must work through this sequence and cannot skip steps without documented reasons. Let me walk you through the waterfall in order.
+Caller: Please do.
+Agent: The first option in the FHA waterfall is an Informal Forbearance. This is a short-term, often undocumented grace period for borrowers who have a minor, temporary hardship. It's typically up to three months and doesn't require a formal agreement. Given that you've missed two payments, we may have moved past informal forbearance territory, but I want you to know it exists at the top of the waterfall.
+Caller: Okay, what's next?
+Agent: The second option is a Formal Forbearance. This is a written agreement between you and the servicer to temporarily reduce or suspend your payments for a defined period, generally up to 12 months for FHA loans in the right circumstances. The key difference from informal forbearance is that it's documented and both parties agree in writing to the terms.
+Caller: And during that time, nothing bad happens to my account?
+Agent: Correct. During a formal forbearance, foreclosure proceedings are suspended. The delinquency remains on the account, but no new foreclosure referrals can be made while you're in compliance with the forbearance terms.
+Caller: What comes after forbearance?
+Agent: Third in the waterfall is a Special Forbearance for unemployment. If your hardship is specifically unemployment, HUD guidelines require the servicer to offer a special unemployment forbearance, which has its own rules separate from the general formal forbearance. Since you mentioned missed payments — can I ask what your hardship is?
+Caller: My husband lost his job in January. He was bringing in about $2,000 a month. He's still looking. We're living on my income alone right now — I make $2,900 a month.
+Agent: Unemployment is one of the most supported hardship categories under FHA guidelines. If your hardship is his unemployment, you might actually benefit from the Special Unemployment Forbearance. Under HUD guidelines, that can provide forbearance while he's actively seeking work.
+Caller: Okay, so formal forbearance or unemployment forbearance. What's next in the waterfall?
+Agent: Fourth is the Loan Modification. HUD requires servicers to evaluate FHA borrowers for a loan modification before moving to other disposition options. The FHA modification can capitalize past-due amounts into the balance and extend the term to up to 30 years from the modification date. It does not reduce the interest rate in the same way GSE programs do — the rate is typically set at the current market rate, which could go either direction.
+Caller: Wait, could my interest rate go up in an FHA modification?
+Agent: Technically, the rate is set at or below the current market rate, so in practice, if market rates are higher than your current rate, there's a mechanism to prevent the rate from increasing beyond a certain threshold. The rate cannot exceed the market rate at the time of modification. In recent years with higher rates, this has been a concern, but there are protections. HUD also has the FHA-HAMP program — though HAMP itself ended, FHA-HAMP provisions were incorporated into standard FHA servicing guidelines — which includes a partial claim.
+Caller: What's a partial claim?
+Agent: This is probably the most unique FHA tool in the waterfall. A partial claim is essentially a zero-interest loan from HUD to bring your account current. HUD pays your servicer the amount needed to bring the loan current — your delinquent amounts — and takes a second lien on your property. That second lien is zero percent interest, no monthly payment, and due when you sell or refinance the home.
+Caller: So HUD would pay my missed payments as a loan I repay later?
+Agent: Exactly. It's a subordinate lien, not a gift. When you sell or refinance, you'd repay HUD what they advanced. But in the meantime, your first mortgage is brought completely current, no monthly payment on the HUD lien, and your regular payment resumes on the first mortgage without modification of the rate.
+Caller: That's actually kind of amazing. Is there a limit to how much the partial claim can be?
+Agent: Yes. The partial claim amount is limited to 30% of your unpaid principal balance at the time the original loan was insured. Let me check your loan. Your original loan amount was $174,000, so 30% of that would be $52,200 as the maximum partial claim amount.
+Caller: How much do I owe right now on the balance?
+Agent: Your current unpaid principal balance is $168,200 and you're $2,694 behind — two payments of $1,347. Your unpaid late charges and fees bring the total delinquency to approximately $2,840. That's well within the partial claim cap.
+Caller: So a partial claim could completely solve this?
+Agent: For your current situation — two months behind — yes, a partial claim could bring the loan fully current and resolve the delinquency without modifying your rate or term. The requirement is that you demonstrate a sustainable ability to make your regular payment going forward.
+Caller: My regular payment is $1,347. My income is $2,900. That's workable, especially if we're hoping my husband finds work.
+Agent: Your payment-to-income ratio on the first mortgage would be about 46%, which is higher than ideal — lenders typically like to see it below 40% for the first mortgage. However, FHA's standard allows for evaluation up to 55% combined debt-to-income in some cases with compensating factors. The fact that you have a dual-income household with one temporarily unemployed may be viewed favorably.
+Caller: What's the next option after the partial claim in the waterfall?
+Agent: After the partial claim and modification, the next steps in the waterfall are the disposition options — meaning options that result in you leaving the home. These include pre-foreclosure sale, which is similar to a short sale, and then deed-in-lieu of foreclosure. Foreclosure itself is the last resort and FHA guidelines require documentation that all other options have been considered and exhausted.
+Caller: I definitely want to stay in the home. So my goal is the partial claim or the modification.
+Agent: Given your profile, I'd recommend we open a formal loss mitigation application today and specifically evaluate you for the FHA Partial Claim first, since it solves the delinquency without restructuring your rate. I'll also flag you for the unemployment-related forbearance protections while the review is pending.
+Caller: What do I need to send in?
+Agent: For the FHA loss mitigation package, you'll need a signed hardship letter, your two most recent pay stubs, bank statements for the past two months, your most recent tax return, and documentation of your husband's unemployment status — ideally his unemployment award letter or separation notice from his employer.
+Caller: I have all of that. Where do I send it?
+Agent: You can upload through our borrower portal at alliedhomeportal.com, or fax it to 1-800-555-0712. I'll note the case today and you'll receive an acknowledgment within three business days.
+Caller: Excellent. Thank you for explaining the whole waterfall. That's exactly what I needed to know.
+Agent: Of course, Ms. Jenkins. Knowledge of your options is your best tool. Call us anytime at 1-800-555-0200. Good luck.
+Caller: Thank you, Nicole. Goodbye.
+Agent: Goodbye.

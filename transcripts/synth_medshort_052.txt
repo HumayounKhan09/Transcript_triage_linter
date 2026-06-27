@@ -1,0 +1,38 @@
+Agent: Meridian Home Lending, this is Rachel. How can I assist you today?
+Caller: Hi Rachel, my name is Gordon Chu. I've been thinking about paying off my mortgage early or at least making some big extra payments, and before I do I want to know if there's a prepayment penalty on my loan.
+Agent: That's a great question to ask before making any moves, Gordon. I'd be happy to look into that for you. Can I pull up your account first?
+Caller: Of course. Loan number is 8-8-1-5-5-0-3.
+Agent: And can I get the property address?
+Caller: 29 Birchwood Circle, Portland, Oregon, 97214.
+Agent: And the last four of your Social Security number for verification?
+Caller: 7-7-4-2.
+Agent: Thank you, Gordon. I've got your account pulled up here. So your loan originated in March of 2019, it's a thirty-year conventional fixed-rate loan. Let me look at the loan terms section specifically for prepayment language.
+Caller: I appreciate it. I read something online that said prepayment penalties are mostly gone from conventional loans now, but my neighbor said his loan from a while back had one and he got hit with a fee when he refinanced.
+Agent: Your neighbor's experience is actually pretty common for loans originated before 2014. The Dodd-Frank Act introduced what are called the qualified mortgage rules, and those rules placed strict limits on prepayment penalties for most residential mortgages. After January 2014, prepayment penalties were essentially prohibited on most fixed-rate qualified mortgages.
+Caller: So mine shouldn't have one since it's from 2019?
+Agent: Let me confirm that directly from your loan documents rather than just going on the general rule, because there can be exceptions. Okay, I'm looking at your loan terms now. I can see the note terms, the interest rate, the amortization schedule. The prepayment penalty field here reads: none. There is no prepayment penalty on your loan.
+Caller: Oh, that's a relief. So I can just throw extra money at the principal whenever I want?
+Agent: Exactly. Any additional amount you pay above your regular monthly payment will be applied directly to your principal balance, which reduces the amount you owe and can significantly shorten your loan term.
+Caller: How do I make sure the extra money goes to principal and not just gets held as a future payment?
+Agent: Good question. When you make a payment online through our portal or by phone, you'll see an option to specify a principal-only payment amount. If you're mailing a check, you'd write "apply to principal" in the memo line and include a separate payment coupon for that purpose, or write a note. If you pay through automatic ACH, I'd recommend calling us or using the portal for the extra portion to make sure it's designated correctly.
+Caller: What if I just send in more than the regular payment amount?
+Agent: If you simply send a larger check without notation, our system will apply the overage to principal automatically in most cases, but it's always safer to designate it clearly. I'd recommend the online portal for this since it gives you explicit control over how each dollar is allocated.
+Caller: Makes sense. So let's say my regular payment is two thousand dollars a month. If I wanted to pay three thousand, I'd do two thousand as my regular payment and then a separate one-thousand principal-only transaction?
+Agent: That's one approach and it's very clean. Alternatively, many people just make a single payment of three thousand and put a note that the overage should go to principal, but the two-transaction method definitely removes any ambiguity.
+Caller: I like clean. I'll probably do it that way. Can I set up recurring principal-only payments?
+Agent: Yes, through our online portal you can schedule recurring additional principal payments. You'd set the amount and the frequency, and it'll run automatically each month alongside your regular payment. That's actually a very popular option for people who want to build a habit of paying extra without having to think about it every month.
+Caller: I didn't know that was an option. That's really useful. Do you know roughly how much I'd save in interest if I paid an extra five hundred a month?
+Agent: I don't have an amortization calculator right in front of me, but I can tell you that on your current balance and rate, an extra five hundred a month typically shaves several years off a thirty-year mortgage and can save tens of thousands in interest over the life of the loan. Our website has a free prepayment calculator under the Tools section that will show you the exact numbers based on your balance and rate.
+Caller: I'll check that out. What's my current principal balance, actually?
+Agent: Your current unpaid principal balance is two hundred and forty-one thousand, eight hundred and sixty-two dollars.
+Caller: Good to know. And my rate is three point eight seven five, right?
+Agent: That's correct, three point eight seven five percent fixed for the life of the loan.
+Caller: Okay. I think I have what I need. No prepayment penalty, I can pay extra whenever I want, and I can set up recurring principal payments online. That's all great news.
+Agent: All of that is accurate. And just to be completely clear for your records, I've noted on your account that you inquired about prepayment terms today, and the confirmed answer is that your loan has no prepayment penalty clause.
+Caller: Can I get something in writing about that?
+Agent: Absolutely. I can send you a letter confirming the absence of a prepayment penalty. I'll email it to the address we have on file, which is g-chu at comcastnet. Is that current?
+Caller: It is, yes.
+Agent: You'll receive that within two to three business days. Is there anything else I can help you with today, Gordon?
+Caller: No, I think that's everything. Thank you, Rachel. You were really thorough.
+Agent: Happy to help. Good luck with those extra payments. You're making a smart financial move. Have a great day.
+Caller: Thanks, you too.

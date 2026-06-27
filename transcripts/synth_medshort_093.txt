@@ -1,0 +1,47 @@
+Agent: Meridian Mortgage Servicing, this is Deepa. How can I help you today?
+Caller: Hi Deepa. My name is Nathaniel Cross. I went through a loan modification a couple of years ago and there was something in the paperwork about a partial claim. I didn't fully understand it then and I'm trying to understand it now because I want to refinance and someone told me the partial claim might cause a problem.
+Agent: Hi Mr. Cross, that's a great question and it's one that a lot of borrowers who went through modifications don't fully understand. Let me pull up your account and walk you through it. Can I verify your identity first?
+Caller: Of course.
+Agent: Property address?
+Caller: 6614 Sunset View Road, Baltimore, Maryland, 21215.
+Agent: Last four of your Social?
+Caller: 7764.
+Agent: Date of birth?
+Caller: January 10th, 1968.
+Agent: Thank you. I have your account. I can see the loan modification and I do see a partial claim associated with it. Let me explain what a partial claim is and then look at your specific numbers.
+Caller: Please.
+Agent: A partial claim is a tool used primarily with FHA-insured loans. When a borrower falls behind on payments, HUD — the Department of Housing and Urban Development — can advance funds to bring the loan current on the borrower's behalf. This advance becomes a second lien on the property, a subordinate mortgage that you owe back to HUD when you eventually sell the property, refinance it, or pay off your primary loan.
+Caller: So I have a second mortgage that I owe to the government?
+Agent: Essentially, yes. It's a zero-interest, subordinate lien. You don't make monthly payments on it — it just sits there until your primary loan is paid off, you sell, or you refinance. At that point, the partial claim balance becomes due.
+Caller: How much is the partial claim on my account?
+Agent: Looking at your account, the partial claim amount that was advanced was $18,340. That's the amount HUD advanced to bring your loan current at the time of the modification.
+Caller: And I never owe interest on that?
+Agent: Correct. FHA partial claims are interest-free and there are no monthly payments. The full $18,340 is due only when the property is sold, the primary loan is refinanced, or the primary loan matures.
+Caller: So if I refinance my primary mortgage now, I'd have to pay that $18,340 at closing?
+Agent: Yes, that's the core issue you're hitting. When you refinance, the payoff of your existing mortgage also triggers repayment of the partial claim. At closing, the title company would send a payoff to us for your primary mortgage balance, and a separate payoff to HUD for the $18,340 partial claim.
+Caller: What if I don't have $18,340 in cash?
+Agent: Most borrowers don't pay it from cash — they roll it into the new loan. If your home has equity, the partial claim payoff is typically included in the new loan amount. So if your primary balance is, say, $195,000 and the partial claim is $18,340, your new loan might be approximately $213,340 plus any closing costs.
+Caller: What's my primary balance right now?
+Agent: Your current primary balance is $187,440.
+Caller: And my house is worth roughly $260,000 based on what my neighbor got for his house.
+Agent: That's helpful context. If the value is $260,000, your combined balances would be $187,440 plus $18,340, which is $205,780. Your combined loan-to-value would be approximately 79 percent. That's within a range where most conventional lenders would consider a refinance.
+Caller: Is there anything special about refinancing an FHA loan with a partial claim? Like can I go to a conventional lender?
+Agent: Yes, you can refinance out of the FHA loan into a conventional loan. When you do, the partial claim is paid off at closing from the refinance proceeds. After that, the HUD lien is released and you have only the one new conventional loan. Some borrowers specifically refinance to conventional to get out of the FHA mortgage insurance premiums while also resolving the partial claim.
+Caller: That sounds appealing. So once I refinance, the partial claim is totally gone?
+Agent: Yes, completely. Once HUD receives the payoff of the partial claim, they release the subordinate lien and you have a clean title with just the new first mortgage.
+Caller: What if I want to refinance with another FHA loan? Like stay in FHA?
+Agent: You can do an FHA-to-FHA refinance as well. The partial claim would still need to be paid off at closing. The new FHA loan would need to meet HUD guidelines, and you'd go through normal FHA underwriting.
+Caller: Okay. And the person I talked to said the partial claim might be a problem — is it an obstacle or just a factor?
+Agent: It's a factor, not necessarily an obstacle. The key question for your refinance lender will be whether your home's value is sufficient to support a new loan that covers both the primary balance and the partial claim payoff. Based on the numbers you gave me — $260,000 value, about $205,000 in combined balances — it seems workable. A lender would verify the value with an appraisal.
+Caller: What if the appraisal comes in lower than $260,000?
+Agent: The lower the value, the higher the combined LTV. Lenders typically want to see a conventional loan at 80 percent LTV or below to avoid private mortgage insurance, or up to 97 percent with certain products. Even at 85 or 90 percent LTV you'd likely be able to refinance, just potentially with PMI.
+Caller: Okay. I feel like I understand this now. The partial claim is money I owe to HUD, it's interest-free, I don't make payments on it, but when I refinance it has to be paid off at closing and it just gets rolled into my new loan amount.
+Agent: That's exactly right. You summarized it perfectly.
+Caller: And I just need to make sure the appraised value is high enough to support the total new loan.
+Agent: Correct. That's the central question for your refinance.
+Caller: Great. Thank you Deepa, this is the clearest explanation I've ever gotten on this.
+Agent: I'm glad. It's genuinely confusing documentation and not everyone takes the time to explain it fully. Is there anything else I can help you with?
+Caller: No, I think I have what I need to go talk to a lender.
+Agent: Wonderful. Good luck with the refinance. Thank you for calling Meridian Mortgage, Mr. Cross.
+Caller: Thanks. Bye.
+Agent: Goodbye.

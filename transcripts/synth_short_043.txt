@@ -1,0 +1,37 @@
+Agent: Thank you for calling Cornerstone Mortgage Services, this is Derek. How can I help you today?
+Caller: Hi Derek. I got my annual escrow analysis statement and I'm confused about something called a cushion or a reserve. Can you explain what that is and how much mine is?
+Agent: Absolutely, that's a great question and it's one of the more commonly misunderstood parts of the escrow analysis. Let me pull up your account so I can give you the specifics. Can I get your name?
+Caller: Helen Vasquez.
+Agent: Thank you, Ms. Vasquez. And your loan number or property address?
+Caller: Property address is 8812 Cloverdale Road, Phoenix, Arizona.
+Agent: And for verification, the last four digits of your Social Security number?
+Caller: 9917.
+Agent: And your date of birth?
+Caller: August 23, 1971.
+Agent: Thank you. One moment while I access your account.
+Caller: Take your time.
+Agent: Okay, I have your account and escrow details here. So the escrow cushion, also called the escrow reserve, is the minimum balance that federal law requires us to maintain in your escrow account at all times.
+Caller: Okay. And why does that exist?
+Agent: The cushion is there to protect against shortfalls. Escrow disbursements for taxes and insurance happen on specific dates, but your contributions come in monthly throughout the year. If a tax bill is higher than expected, or a disbursement happens earlier in the year than anticipated, the cushion ensures there are enough funds to cover it without the account going negative.
+Caller: That makes sense. So it's like a buffer?
+Agent: Exactly. It's a buffer or safety net built into the account. Federal law under RESPA, which stands for the Real Estate Settlement Procedures Act, limits the maximum cushion to two months of your total monthly escrow contribution.
+Caller: Two months. So what does that come out to for my account?
+Agent: Your current monthly escrow contribution is $389.17. Two months of that equals $778.34, which is your maximum allowable cushion. Your escrow analysis shows your current required cushion balance is $778.34.
+Caller: So that $778 is sitting in there at all times and never gets used to pay the bills?
+Agent: It can be used temporarily if there's a shortfall in the account, but the goal is to always replenish it back to that level. Think of it as the floor below which your balance shouldn't drop under normal circumstances.
+Caller: And that amount is included in my monthly payment? Like I'm already paying for it to be there?
+Agent: Correct. The cushion is factored into your escrow calculation. When your escrow analysis is done each year, the calculation ensures that your monthly contributions will cover your projected disbursements plus keep the required cushion in place.
+Caller: So on my statement it shows the cushion as a line item?
+Agent: On your escrow analysis statement, you'll see a projected low balance for the year. The required cushion is essentially the minimum that low balance should be. If your projected low balance dips below the two-month cushion, that's what triggers an increase in your monthly escrow payment.
+Caller: Oh, that's why my payment went up?
+Agent: Let me check. According to your analysis, your projected annual low balance was $241.50, which is well below your required cushion of $778.34. The difference, about $536.84, was the shortfall that caused your escrow payment to be adjusted upward.
+Caller: So I have to make up that gap?
+Agent: Yes. The analysis spreads the shortfall over 12 months, adding a pro-rated amount to each monthly payment to replenish the cushion. Your payment increased by approximately $44.74 per month to address both the shortfall and ensure the account stays properly funded going forward.
+Caller: Okay, that actually makes total sense now. I couldn't figure out why it went up that specific amount.
+Agent: Now you have the full picture. The escrow analysis is really just a balancing exercise to make sure there's always enough in the account to pay your bills on time and maintain the required cushion.
+Caller: That's really clear. Thank you for explaining it so well, Derek.
+Agent: Happy to help. Is there anything else on your escrow analysis I can clarify or anything else I can assist you with?
+Caller: No, I think that was the main thing confusing me. I appreciate it.
+Agent: Of course. Thank you for calling Cornerstone Mortgage Services, Ms. Vasquez. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

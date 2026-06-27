@@ -1,0 +1,37 @@
+Agent: Thank you for calling Heritage Senior Finance Services, this is Amanda speaking. How can I help you today?
+Caller: Hi Amanda. My name is Patricia Nguyen. My father passed away three weeks ago and I'm the executor of his estate. He had a reverse mortgage on his home and I have no idea what to do. The bank already sent me a letter saying the loan is due, but the amount they're quoting seems very large.
+Agent: Hi Patricia, I'm very sorry for your loss. Dealing with a reverse mortgage after a borrower passes away is something many families find overwhelming, and I want to help you navigate it step by step. Which company holds the reverse mortgage? Do you know the loan servicer?
+Caller: It's with your company — the letter I received was from Heritage Senior Finance. The loan number is 1187442.
+Agent: Thank you. Let me pull up that account. Give me just a moment. Okay, I have the account for Harold W. Nguyen at 4471 Cypress Hill Drive. The loan originated in 2014, the current outstanding balance including accrued interest is $284,117.22, and the appraised value at last appraisal was $390,000 in 2023. Is all of that consistent with what you know?
+Caller: The address is right. I don't know the exact balance but the number in the letter they sent was around $284,000 so yes, that matches.
+Agent: Good. So let me walk you through the process. First, a few important things. The reverse mortgage does not require immediate payment this moment. When a HECM borrower passes away, the estate or heirs generally have a period of time to decide what to do with the property and the loan. HUD guidelines provide for an initial six-month period, which can often be extended up to 12 months under certain circumstances. That gives you time to make a thoughtful decision.
+Caller: I was afraid I had to come up with $284,000 right away. That's such a relief.
+Agent: You do not. Have you already notified us of your father's passing with official documentation?
+Caller: I sent in a copy of the death certificate last week.
+Agent: Good. That started the formal clock on the estate resolution process. You should receive or may have already received a formal notice outlining your options and the timeline. Let me explain the three main paths estates typically take.
+Caller: Please, yes.
+Agent: Option one is to sell the property. The home would be listed and sold on the open market. If the sale proceeds exceed the loan balance of $284,117, the estate keeps the difference. Based on the last appraisal of $390,000, there could be over $100,000 in equity remaining after payoff. In practice, the actual sale price determines what's left.
+Caller: That would be significant. My siblings and I were hoping there might be some inheritance left.
+Agent: At those numbers there likely would be. Keep in mind real estate commissions, closing costs, and any updates needed before listing would reduce the net amount, but there should still be meaningful proceeds. That leads to option two: an heir purchases the property. If you or a sibling want to keep the home in the family, you can purchase it at the lesser of the loan balance or 95 percent of the appraised value. If the loan balance is $284,117 and the home is worth $390,000, you'd pay either $284,117 — the loan balance — or 95 percent of $390,000, which is $370,500. You'd pay the lesser, which is $284,117.
+Caller: So we could keep the house by getting a mortgage for $284,000?
+Agent: Exactly. An heir could obtain a traditional mortgage for $284,117 to pay off the reverse mortgage and take title to the property. Given the $390,000 estimated value, that's a loan-to-value of about 73 percent, which is very manageable for a conventional mortgage.
+Caller: I actually love the house and have thought about that. What would that process look like?
+Agent: You'd apply for a conventional purchase or refinance mortgage in your own name, specifying that you're purchasing from an estate with a HECM to satisfy. Some lenders are familiar with this process. You'd want to act within the estate resolution timeline — typically no later than 12 months from the date of death. We can grant extensions if you're actively working to resolve it and can demonstrate progress.
+Caller: What's option three?
+Agent: Option three is a deed in lieu. If the loan balance exceeds the home's value — which doesn't appear to be the case here — the estate can deed the property to the servicer in full satisfaction of the debt. Because HECMs are non-recourse loans, neither the estate nor the heirs would owe the difference. However, since you appear to have equity, a deed in lieu would essentially give up that equity, so it's not advisable in your case.
+Caller: Right, that sounds like leaving money on the table.
+Agent: Correct. Given the numbers, selling or an heir purchase are your much better options. Now, one thing that is urgent — the property needs to remain properly insured and maintained throughout this period. The homeowner's insurance policy needs to stay active with the estate as the named insured. If insurance lapses, that can cause complications with the servicer.
+Caller: I've already kept the insurance active. I called the agent the same week.
+Agent: Excellent. You're handling this very responsibly. Property taxes are also important — if there are any outstanding property taxes or if the next payment is coming due, those need to be paid. The servicer can become involved if taxes are delinquent.
+Caller: Are there any fees or costs during this resolution period?
+Agent: Interest continues to accrue on the loan balance during the estate resolution period, so the $284,117 figure will grow slightly each month — at the current rate, probably around $1,200 to $1,400 per month in accruing interest. That's important to keep in mind if you're planning to sell, as the longer it takes, the more of the equity gets consumed by accruing interest.
+Caller: So there's a financial incentive to resolve it faster.
+Agent: There is. Not a rush that should cause you to make a poor decision, but yes, time has a cost here. A six-month sale timeline would add roughly $7,200 to $8,400 to the balance. That still leaves significant equity at projected sale prices.
+Caller: Okay. What do I need to send you to keep the process moving?
+Agent: We already have the death certificate. We'll also need letters testamentary — the court document confirming your role as executor — and completed estate documentation that our estate resolution team will send you. Have you already received the estate packet from us?
+Caller: I got a letter but I'm not sure if that's the packet you mean. It just said the loan was due.
+Agent: That was the initial notification. A more detailed packet with the required forms will follow or you can request it by calling our estate resolution team directly at extension 4400. They specialize in exactly this situation and will be very helpful.
+Caller: I'll call them today. Amanda, thank you so much for explaining everything. I feel like I can breathe again.
+Agent: I completely understand. These situations are stressful on top of an already difficult time. You're asking all the right questions and you're clearly organized. Everything is resolvable here. Please don't hesitate to call back if you have more questions.
+Caller: I will. Thank you so much. Goodbye.
+Agent: Take care, Patricia. Goodbye.

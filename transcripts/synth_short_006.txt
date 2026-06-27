@@ -1,0 +1,36 @@
+Agent: Thank you for calling Summit Mortgage, my name is Jennifer. How can I help you today?
+Caller: Hi Jennifer. I'm selling my house and my realtor told me I need something called a payoff quote. Can you help me with that?
+Agent: Absolutely, you're in the right place. I can generate a payoff quote for you today. May I have your name?
+Caller: Cheryl Fontaine.
+Agent: Thank you, Ms. Fontaine. And the last four of your Social Security Number?
+Caller: 2284.
+Agent: And the property address?
+Caller: 3302 Willowmere Lane, Charlotte, North Carolina 28277.
+Agent: Thank you, I have your account. Congratulations on your sale. So a payoff quote will show the exact amount needed to satisfy your mortgage in full as of a specific date. Do you have a target closing date?
+Caller: Our closing is scheduled for July 18th.
+Agent: Great. I'll generate the quote good through July 18th, and I'll also include July 19th and July 20th as buffer days, which is standard practice in case the closing is delayed slightly.
+Caller: That makes sense. What will the quote include?
+Agent: The payoff amount includes your remaining principal balance, accrued interest through the payoff date, and any applicable fees. If you have an escrow account, any surplus funds would actually be returned to you after payoff.
+Caller: Oh interesting, I didn't know I might get money back.
+Agent: Yes, if your escrow has a surplus for taxes and insurance paid ahead, that balance is refunded by check after the loan is paid in full. Typically within 20 business days of payoff.
+Caller: Good to know. So what's the actual payoff amount?
+Agent: As of July 18th, your payoff amount is $287,441.53. That includes your current principal balance of $285,902.10 and accrued interest of $1,539.43.
+Caller: Okay. And does that change every day?
+Agent: Yes, interest accrues daily, so the payoff amount increases each day the loan is outstanding. That's why closing agents request payoff quotes with a specific good-through date.
+Caller: My title company needs this document. Can you fax or email it to them?
+Agent: Yes, I can send the payoff statement directly to your title company. Do you have their fax number or email address?
+Caller: I have their fax. It's 704-555-0182. The company is Lakeside Title Group, attention to Sarah Mills.
+Agent: Got it. 704-555-0182, Lakeside Title Group, attention Sarah Mills. I'll note the payoff is good through July 20th to give a small cushion. The fax will typically go out within two business hours.
+Caller: Can I also get a copy emailed to me?
+Agent: Of course. What's your email address?
+Caller: Cheryl dot fontaine at gmail dot com.
+Agent: I'll send a copy there as well. Is there anything else you need from us before closing?
+Caller: My realtor mentioned something about a release of lien. Is that something you handle?
+Agent: Yes, once your payoff is received and processed, we initiate the lien release and record it with the county. The title company typically coordinates that on closing day.
+Caller: Great. I think that's all I need for now.
+Agent: You're all set, Ms. Fontaine. Payoff quote good through July 20th at $287,441.53 will be faxed to Lakeside Title Group and emailed to you shortly.
+Caller: Thank you so much Jennifer. This whole process is a lot but you made this part easy.
+Agent: Happy to help. Good luck with your closing. Is there anything else before I let you go?
+Caller: No, that's everything. Thanks again.
+Agent: Of course. Have a wonderful day. Goodbye.
+Caller: Goodbye.

@@ -1,0 +1,52 @@
+Agent: Horizon Mortgage Servicing, this is Jennifer, how can I help you today?
+Caller: Hi, I'm going through a divorce and my attorney needs a payoff quote for the mortgage. We're trying to figure out the settlement and the house is part of it. Can you give me that information?
+Agent: Absolutely, we can generate a payoff quote. Let me pull up your account first. Loan number or address?
+Caller: The address is 2714 Old Orchard Road, Denver, Colorado. Loan number is 574922.
+Agent: And your name and last four of your Social?
+Caller: Both of us are on the loan. My name is Robert Fineman, Social ends in 8830.
+Agent: Thank you Robert. I've got your account up. Now, payoff quotes are available to either borrower on the account, and your ex-spouse would also be able to request one. Is that okay?
+Caller: That's fine. We're not hostile about this — we're just trying to divide things equitably. The house is the main asset.
+Agent: Understood. So a payoff quote reflects the total amount needed to pay the loan off in full on a specific date. It includes your current principal balance, interest that has accrued through the payoff date, and any fees or other amounts owed. Do you have a target date — like when you expect to close or settle?
+Caller: My attorney said to ask for a quote good through the end of next month. So through December 31st.
+Agent: Got it. I'll generate a payoff quote valid through December 31st. Hold one moment while I pull that.
+Caller: Sure.
+Agent: Okay, I have your payoff figures. Your principal balance as of today is two hundred and eighty-nine thousand six hundred and forty-one dollars and twenty-two cents. Accrued interest through December 31st is one thousand nine hundred and twelve dollars and forty-four cents. There are no outstanding late fees. There's a recording fee of approximately forty-five to eighty-five dollars depending on county — that's for releasing the mortgage lien when paid off. And the payoff quote requires a ten-day per diem interest calculation in case the actual payoff comes in a few days after the date. Your per diem interest is forty-three dollars and ninety cents per day.
+Caller: Can you give me the total?
+Agent: Your total payoff good through December 31st is two hundred and ninety-one thousand six hundred and eighty-eight dollars and sixty-six cents, plus the recording fee. Let's call it approximately two hundred and ninety-one thousand seven hundred and thirty to two hundred and ninety-one thousand seven hundred and seventy.
+Caller: And then for each day past December 31st, I add forty-three ninety?
+Agent: Correct. If closing happens January 5th, for example, you'd add five times forty-three dollars and ninety cents — two hundred and nineteen dollars and fifty cents — to the December 31st payoff figure.
+Caller: Got it. Can I get this in writing?
+Agent: Yes. I'll generate an official payoff statement and mail it to the property address on file. I can also email it if you'd like to provide an email address or if there's one already in the system.
+Caller: The email in the system is probably outdated. Can you email it to rfineman.attorney@gmail.com? That's where my attorney wants it sent.
+Agent: I can send it to the address in the system, which would be the property address, or to your personal email on file. I'm not able to send to a new email address without first verifying your identity through our full authentication process, which we've done. So let me update your contact email to the one you just provided and then send it there.
+Caller: That works. The address is rfineman.attorney@gmail.com.
+Agent: Got it. I'll update your email and queue the payoff statement. You should receive it within one to two business days by email and three to five days if you want a paper copy as well.
+Caller: Please do both. My attorney wants a paper copy too.
+Agent: Both will be sent. Now, I have another question you may not have thought about — the escrow account. You have an escrow balance of two thousand four hundred and eighteen dollars and sixty-six cents.
+Caller: Oh, I hadn't thought about that. What happens to it?
+Agent: When a loan is paid off, any remaining escrow balance is refunded to the borrowers of record within thirty days of payoff. Since both you and your spouse are on the account, a check would typically be made out to both of you.
+Caller: Both of us. That could be complicated if the divorce isn't finalized.
+Agent: It can be. Some couples resolve this by either agreeing ahead of time about how to split it, or by providing a court order directing how the funds should be disbursed. We would follow a valid court order regarding disbursement.
+Caller: We'll figure it out. So the escrow refund would be about twenty-four hundred dollars?
+Agent: Two thousand four hundred and eighteen dollars and sixty-six cents, minus any disbursements that might occur before payoff — like if a tax or insurance payment goes out before the loan closes. Your next scheduled tax payment is January 15th.
+Caller: So if we close before January 15th, we get the full twenty-four eighteen?
+Agent: Yes, assuming no other disbursements occur in the interim. If you close after January 15th and the tax payment goes out, the escrow balance would decrease by that tax payment amount.
+Caller: How much is the January tax payment?
+Agent: Looking at your escrow disbursement history, your January Jefferson County tax payment is one thousand six hundred and eighty-two dollars.
+Caller: So if we close after January 15th, the escrow refund drops to about seven hundred and thirty-seven dollars.
+Agent: Approximately. Yes.
+Caller: Good to know. We'll try to time the closing before that if possible.
+Agent: That's a smart consideration to share with your attorney. One other thing to be aware of — homeowner's insurance. When the mortgage is paid off, the insurance policy on the property needs to stay active for whoever is taking title. Make sure the insurance is updated to reflect the new ownership situation.
+Caller: Got it. My wife is likely keeping the house. She's buying me out. So the insurance would be in her name going forward.
+Agent: Right. She'd want to contact the insurance company and update the policy. And if she's taking out a new mortgage to buy out your equity, her new lender would require proof of insurance.
+Caller: This is all coming together. Okay. Is there anything else in my payoff that might be a surprise? Any prepayment penalties?
+Agent: Let me check your loan terms. No, there is no prepayment penalty on your loan. You can pay it off at any time with no penalty.
+Caller: Great. And the payoff quote is good through December 31st. After that, I'd need a new one?
+Agent: Correct. Payoff quotes are typically valid for thirty days. After December 31st, you'd call back and we can issue a new quote for the updated target date. It's a quick process.
+Caller: Alright. I think I have everything I need. Thank you for explaining the escrow piece too — I wouldn't have thought to ask about that.
+Agent: That's a common one people miss. Is there anything else, Robert?
+Caller: No, I think that's it. The statement goes to my email and the property address?
+Agent: Correct. Within one to two business days by email, three to five by mail.
+Caller: Perfect. Thank you Jennifer.
+Agent: You're welcome. I hope the settlement process goes smoothly. Take care.
+Caller: Thanks. Goodbye.

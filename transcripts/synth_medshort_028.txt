@@ -1,0 +1,31 @@
+Agent: Thank you for calling Landmark Home Lending, this is Derek. How can I help you today?
+Caller: Hi Derek, my name is Rosa Figueroa. I got a property tax bill in the mail from the county — like an actual paper bill — and I'm confused because when I got my mortgage I was told my taxes were included in my monthly payment. So why am I getting a bill? Did something go wrong?
+Agent: Hi Ms. Figueroa, I can definitely help you sort that out. That is a common source of confusion and I want to reassure you right away — receiving a tax bill from the county doesn't necessarily mean something went wrong. Let me pull up your account so I can look at the specifics. Can I get your loan number or property address?
+Caller: It's 2240 Oleander Street, Jacksonville, Florida 32207.
+Agent: And your full name for verification?
+Caller: Rosa Elena Figueroa.
+Agent: Last four digits of your Social Security number?
+Caller: 8852.
+Agent: Thank you. I have your account here. Okay, so I can see you do have an escrow account set up for both taxes and insurance. Now let me explain why you still received a tax bill from the county. Counties and municipalities send tax bills to the property owner of record — that's you — regardless of whether a lender or servicer is handling payment. The county doesn't necessarily know or care about your escrow arrangement. They send the bill to the homeowner automatically.
+Caller: Oh. So they always send it to me even if you're paying it?
+Agent: In most jurisdictions, yes. The county's obligation is to notify the property owner. Some counties do have processes where they send the bill directly to the servicer, but many still send a copy to the homeowner as well, or they send it exclusively to the homeowner and it's the servicer's responsibility to track the bill through tax service vendors.
+Caller: So are you tracking mine? Like, will you actually pay it?
+Agent: That is exactly the right question to ask. Let me check your tax disbursement records. I can see your escrow account has been collecting for property taxes and we use a third-party tax monitoring service. Your Duval County tax bill for this cycle is in our system and is flagged for payment. The due date is showing as March 31st and we have the disbursement scheduled for mid-March, which is comfortably before the deadline.
+Caller: Okay, that's a relief. So I don't have to do anything with the bill I received?
+Agent: You do not need to pay that bill. We will pay it from your escrow account. What I'd recommend is keeping the bill as a reference — it shows the total amount due and the parcel number — but you should not send a payment to the county, because if both we and you pay, you'd have an overpayment that would need to be refunded, which can take time to sort out.
+Caller: Good to know, because my first instinct was to just pay it and be done with it.
+Agent: That's a very common instinct, and I'm glad you called first. Double payment does happen sometimes and it creates a bit of a headache to unwind. You're in good shape.
+Caller: Can I ask — what if I didn't call and I just paid it? What would happen?
+Agent: In that case, you'd have paid the county twice — once directly, once through your escrow. The county would eventually issue you a refund for the overpayment, but refunds from tax authorities can take months. Meanwhile, our escrow payment would still go out and we wouldn't immediately know there was a duplication. The escrow account would then show a surplus at the next annual analysis and you'd get a refund from us, but it takes a full escrow cycle to catch that. So yes, it resolves eventually, but it's messy and slow.
+Caller: Wow, okay. That's good information. Now I want to make sure about something else — it says on the bill there's a discount if you pay early. Like if it's paid by February 28th there's a four percent discount. Will you pay it early to get that discount?
+Agent: That's an excellent point. Let me look at the scheduled disbursement date again. It's currently showing as a March disbursement. I can actually submit a request to our tax team to move that disbursement forward to capture the early payment discount. That would benefit your escrow account — the savings would reduce the total taxes paid, which could slightly lower your escrow balance or monthly payment at the next analysis.
+Caller: Yes, please do that. Four percent on a two-thousand-dollar bill is eighty dollars. That's real money.
+Agent: Absolutely, eighty dollars is meaningful. I'm submitting that request right now. I'll note your account with the early payment discount date of February 28th and the savings amount. The tax team will review and adjust the disbursement schedule. I can't guarantee it will be changed, but with the documentation of the discount it's a strong case and these requests are typically honored.
+Caller: Great. Now what about my homeowner's insurance — should I also expect to get a bill from them directly?
+Agent: You may receive a renewal notice or a declaration page from your insurance company, which looks like a bill but is more of a policy document. If your insurance premium is collected through your escrow account — which it is, based on your account — we will pay the insurance renewal directly to your insurer. If you receive something that looks like an invoice requesting payment, call us before paying, just like you did today with the tax bill.
+Caller: I will. I'm glad I know this now.
+Agent: You're very welcome. Is there anything else I can help you with today?
+Caller: I don't think so. You explained everything really clearly. Thank you, Derek.
+Agent: My pleasure, Ms. Figueroa. Enjoy the rest of your day, and don't hesitate to call if anything else comes up.
+Caller: Thank you. Goodbye.
+Agent: Goodbye.

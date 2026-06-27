@@ -1,0 +1,47 @@
+Agent: Thank you for calling Summit Mortgage Services. This is Brandon. Can I have your loan number and name?
+Caller: Hi Brandon. My name is Linda Novak. Loan number is 5-0-3-3-9-1-8.
+Agent: Thank you, Ms. Novak. Property address and last four?
+Caller: 2209 Birch Street, Milwaukee, Wisconsin 53205. Last four is 4-4-8-8.
+Agent: Account is up. How can I help?
+Caller: I'm in a Chapter 13 bankruptcy. My plan was confirmed about eight months ago. I have a second mortgage — a second lien — on my house. My bankruptcy attorney told me that because my house is worth less than what I owe on the first mortgage alone, the second lien can be stripped in Chapter 13. She called it lien stripping. I want to understand what that means and whether it's actually happening on my account.
+Agent: Ms. Novak, your attorney is correct that lien stripping is a real legal procedure in Chapter 13 bankruptcy. Let me look at your accounts. I see your first mortgage with us has a balance of $187,400. Is there a second mortgage with us as well?
+Caller: Yes, loan ending in 5-0-3-3-9-1-9. It's a HELOC with a balance of $42,000.
+Agent: I do see that second loan. Let me pull it up as well. Okay, I have both accounts. Now, let me explain the lien stripping concept. Under the bankruptcy code — specifically Section 506 — a claim is considered secured only to the extent there is equity in the property to support it. If your home's value is less than the first mortgage balance, then the second mortgage has no equity supporting it and is fully unsecured.
+Caller: And if it's unsecured in bankruptcy, what happens to it?
+Agent: In Chapter 13 bankruptcy, if the second lien is wholly unsecured — meaning the first mortgage balance exceeds the home's value, leaving nothing for the second to attach to — the debtor can file what's called an adversary proceeding or a motion to value the collateral. The court can then order the second lien treated as an unsecured creditor rather than a secured one. In a Chapter 13 plan, unsecured creditors typically receive pennies on the dollar or nothing at all.
+Caller: And at the end of the Chapter 13 plan, what happens to the second lien?
+Agent: If the lien stripping is ordered and you complete your Chapter 13 plan successfully and receive a discharge, the second mortgage lien is stripped from the property. That means when your plan ends and you get the discharge, the HELOC lien is extinguished — gone from your property. You would own the home subject only to the first mortgage.
+Caller: The $42,000 HELOC would just disappear?
+Agent: From your property, yes — the lien would be stripped. The debt may or may not be discharged as a personal obligation depending on how it's treated in your plan. But the secured claim against your home — the lien — would be removed if the court orders the strip and you complete the plan.
+Caller: This is amazing. My attorney mentioned it but didn't explain it this clearly.
+Agent: It is a powerful tool but it requires your attorney to have properly filed the motion and had it granted by the court. Can I ask — do you know if your attorney actually filed the adversary proceeding or motion to value for the second lien?
+Caller: She said she did. The plan mentions the HELOC being treated as an unsecured claim. And I believe there was a court order.
+Agent: That's the right framing. If the court has entered an order valuing the second lien as wholly unsecured and your Chapter 13 plan reflects that treatment, then you're on the right track. What happens on our end — as the servicer of the second lien — is that we receive notice from the bankruptcy court. Once we receive that notice, we should suspend any collection activity on the HELOC and treat it as an unsecured claim for the duration of your plan.
+Caller: Are you still trying to collect on the HELOC from me?
+Agent: Let me check the status of the second loan account. The HELOC account shows — yes, it looks like there's a notation that this account is in active Chapter 13 bankruptcy proceedings and being treated as an unsecured claim. No active collection is ongoing. That's appropriate.
+Caller: Good. Now, what do I need to do for the rest of my plan to make sure the strip actually happens?
+Agent: The most important thing is completing your Chapter 13 plan — making all your plan payments for the remaining period and obtaining your discharge at the end. The lien strip is contingent on plan completion and discharge. If you were to dismiss your bankruptcy or convert to Chapter 7 before completing the plan, the lien strip would not survive and the HELOC lien would reattach.
+Caller: How long is my plan?
+Agent: I don't have access to your bankruptcy plan details — that's with the court and your attorney. Typical Chapter 13 plans run three to five years. You mentioned you're eight months in, so you likely have a significant period remaining.
+Caller: I have four years and four months left in a five-year plan.
+Agent: Then you have just over four years to complete the plan. During that time, are you making your plan payments to the trustee on time?
+Caller: Yes, the trustee payment comes out automatically. It's $1,240 a month.
+Agent: And your first mortgage — are you paying that directly to us or through the trustee?
+Caller: My attorney said I pay the first mortgage directly to you — outside the plan. So I pay you $1,290 a month for the first mortgage and $1,240 to the trustee.
+Agent: That's a common arrangement in Chapter 13 — paying the first mortgage directly while other debts go through the trustee. As long as you're current on both, you're doing exactly what you should be.
+Caller: What if I have trouble making my plan payments in the future?
+Agent: If you can no longer make your trustee payments, you'd need to contact your bankruptcy attorney immediately. Missing plan payments can lead to the trustee filing a motion to dismiss your case, which would be very problematic. However, Chapter 13 plans can sometimes be modified — the amount or duration changed — if your circumstances change. Your attorney would file a motion to modify the plan.
+Caller: Can the plan modification affect the lien strip?
+Agent: Generally, the lien strip order stands independently of the plan payment amount, as long as the plan remains confirmed and you eventually complete it and receive a discharge. But a dismissal would undo everything — the strip, the discharge, all of it. This is why completing the plan is so critical.
+Caller: Let me ask about something practical. If the HELOC lien is stripped at the end of the plan, what happens to my account with you?
+Agent: At the time of discharge and lien strip, we would be required to release the second lien from the property. Your title would be updated to reflect only the first mortgage. The HELOC account would be closed. If there was any remaining balance treated as discharged unsecured debt, that would be addressed through the discharge order.
+Caller: Will I get a document showing the lien was released?
+Agent: Yes. A lien release or satisfaction document would need to be recorded in the public records of Milwaukee County. Your attorney should ensure that happens as part of the discharge process. Sometimes you need to follow up to confirm it's actually been recorded.
+Caller: And once the lien is stripped and I'm out of bankruptcy, will the first mortgage function normally?
+Agent: Yes. After your Chapter 13 discharge, your first mortgage with us continues as a normal loan. You'd continue making your regular payments to us. If you've been current on the first mortgage throughout the bankruptcy, the account is in good standing.
+Caller: That's reassuring. I feel like I'm doing the right things but I wanted to understand the mechanics better.
+Agent: You're asking exactly the right questions. Your attorney is doing the heavy lifting legally, but understanding the process helps you stay on track. Is there anything else I can help you with?
+Caller: No, I think that covers it. Thank you, Brandon.
+Agent: Of course, Ms. Novak. Keep making those payments and stay in contact with your attorney. Call us at 1-800-555-0339 if you have account questions. Good luck.
+Caller: Thank you. Goodbye.
+Agent: Goodbye.

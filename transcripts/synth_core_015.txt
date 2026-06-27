@@ -1,0 +1,49 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, this is Lisa, how can I help you today?
+Caller: Hi, I — I need help. I'm really scared. I've missed three mortgage payments and I got a letter that uses the word foreclosure and I don't know what to do.
+Agent: I hear you, and I want you to know you've done the most important thing — you called. Please take a breath. We have options and I want to help you understand all of them. Let me pull up your account. Can I get your loan number?
+Caller: It's 718294. The address is 404 Sunflower Lane, Sacramento, California.
+Agent: And your name and last four of your Social?
+Caller: Vanessa Torres. Social ends in 4401.
+Agent: Thank you Vanessa. I've got your account. I can see the three missed payments — August, September, and October. That's your principal and interest, plus escrow, of one thousand five hundred and twelve dollars per payment. Your total past due amount right now is four thousand five hundred and thirty-six dollars, plus there are late fees of sixty-one dollars and seventy-five cents per month, so total arrearage is approximately four thousand six hundred and ninety-seven dollars.
+Caller: I don't have that much. That's why I'm scared. I can't catch up all at once.
+Agent: You don't necessarily need to catch up all at once. There are several options available to you and I want to go through each one. But first, can I ask what happened? Why were you unable to make the last three payments?
+Caller: I got laid off in July. I was a project manager at a construction company. I've been looking for work and I start a new job next week actually, but these past few months have been really hard.
+Agent: Okay, that's actually very important context. You have a new job starting, so your income situation is about to stabilize. That makes certain options more viable for you. Let me walk through what's available.
+Caller: Please. And that letter said something about a hundred and twenty days and then they could start foreclosure?
+Agent: Yes, I want to be transparent with you about the timeline. Under California law, a lender typically can't initiate foreclosure proceedings until a borrower is at least four payments behind. You're at three. That gives us a window right now to get something in place before that threshold is crossed. But we need to move quickly.
+Caller: Okay. So what can we do?
+Agent: The most immediately relevant option given your situation is a repayment plan. Since you're starting a new job next week, you'll have income coming in. A repayment plan would keep you current going forward and add a portion of the past-due amount to your monthly payment over a set period of time.
+Caller: What would that look like?
+Agent: Your regular monthly payment is one thousand five hundred and twelve dollars. If we set up a twelve-month repayment plan for the approximately four thousand seven hundred dollars in arrearage, that's about three hundred and ninety-two dollars extra per month. Your total payment during the repayment period would be about one thousand nine hundred and four dollars.
+Caller: And what does my new job pay?
+Agent: What does it pay? I'll need to understand your ability to afford that.
+Caller: I'll be making sixty-eight thousand a year. That's about fifty-six hundred a month gross. After taxes, probably thirty-nine hundred take-home.
+Agent: Thirty-nine hundred take-home. A payment of one thousand nine hundred and four is roughly forty-nine percent of your take-home. That's high. Lenders typically like to see housing costs under thirty-five to forty percent. It might be tight, but it may be doable if your other expenses aren't too heavy.
+Caller: I live pretty simply. My car payment is two-ninety and I don't have a lot of debt. It would be tight but I could make it work.
+Agent: Okay. The other option I want to mention is a loan modification. Given that you've had a documented hardship — job loss — and your situation is now stabilizing, you may qualify for a modification that restructures your loan to bring your payment down. This is a more permanent change and takes longer to process — sixty to ninety days — but it could result in a lower monthly payment than you have now.
+Caller: Sixty to ninety days? Would I be protected during that time?
+Agent: While a loss mitigation application is under review, we follow investor guidelines that generally prohibit initiating foreclosure action. So yes, submitting an application provides a measure of protection while it's being evaluated.
+Caller: I want to do both — submit the application and also set up the repayment plan. Is that possible?
+Agent: You can start the loss mitigation application which covers modification review, and often they'll look at multiple options simultaneously — modification, repayment plan, or other solutions. Let me start that process right now.
+Caller: What do I need?
+Agent: To get this moving fast: a hardship letter explaining your job loss and your new employment starting next week. Documentation of the new job — an offer letter if you have one, or a start date confirmation from your employer. Your last two bank statements. And if you have any other income — unemployment you received, severance — documentation of that.
+Caller: I have an offer letter from the new employer. I have bank statements. I was getting unemployment but it ran out in September.
+Agent: That's fine. Bring what you have. The offer letter is actually really helpful because it shows your income is about to resume. Let me give you two upload methods. You can use our online portal — fastest option. Or there's a branch near you in Sacramento at 4800 Truxel Road. Can you upload documents today?
+Caller: I can do it today online. I have everything scanned.
+Agent: Good. I'm opening your loss mitigation case right now. Your case number is LMT-2024-91047. Please write that down.
+Caller: LMT-2024-91047. Got it. What happens after I upload?
+Agent: A loss mitigation specialist will be assigned to your case, typically within one to two business days. They'll call you using the phone number on file — is that your best number?
+Caller: Yes, the number they have is good.
+Agent: They'll review your documents and discuss your specific options. Given your circumstances — three payments behind, new income starting — they may be able to arrange a temporary payment arrangement while the full review continues.
+Caller: Is there anything I can do right now to help my case?
+Agent: Keep making payments if at all possible. Even a partial payment shows good faith. Also, get those documents uploaded today — the sooner the better. And if your employer can provide a written start date confirmation on company letterhead, that would strengthen your application significantly.
+Caller: I'll email my HR person right now. One more thing — the letter I got, it says I should contact them at this other address. Is that the same company?
+Agent: Can you read me the name on that letter?
+Caller: It says from the loss mitigation department of Horizon Mortgage Servicing.
+Agent: Yes, that's us. The same company. You're already in the right place. That letter is a standard notice that gets triggered when an account reaches a certain delinquency level. The key thing is you called us and we're opening your case right now.
+Caller: Okay. I feel a little less panicked. A little.
+Agent: Good. You called at the right time, you have income starting next week, and you have documentation. Those are all things working in your favor. Is there anything else before I let you go get those documents uploaded?
+Caller: No. Thank you so much Lisa. You really helped me calm down.
+Agent: That's what I'm here for, Vanessa. Please upload those documents today and reference case LMT-2024-91047. You've got this.
+Caller: Thank you. Goodbye.
+Agent: Take care. Goodbye.

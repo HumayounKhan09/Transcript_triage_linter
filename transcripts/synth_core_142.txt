@@ -1,0 +1,39 @@
+Agent: Thank you for calling Evergreen Reverse Mortgage Services, this is Daniel speaking. How can I help you today?
+Caller: Hi Daniel. My name is Eugene Marsh. I'm 71 years old and I got a reverse mortgage two years ago, and honestly I'm having second thoughts about it. Is there any way to get out of it?
+Agent: Hi Eugene. I'm glad you called. There are options for exiting a reverse mortgage, and the right path depends on your specific situation. Let me understand more about where you're coming from. Do you have your loan number?
+Caller: Yes, it's 7734009.
+Agent: Let me pull up your account. One moment. I have your loan here. The HECM was originated in April 2024, your current loan balance including accrued interest is $112,440.88, and your original principal limit was $189,000. Your home is at 88 Creston Way. Is that all accurate?
+Caller: Yes, that's right.
+Agent: And can you tell me more about why you're having second thoughts? Understanding your situation will help me give you the most relevant information.
+Caller: Well, a couple of things. My son is very upset that I did this. He wants to inherit the house someday and he feels like I've taken that away from him. And honestly, the interest keeps growing and I feel like I made a mistake. I'm not struggling financially — I just made an impulsive decision.
+Agent: I appreciate your honesty. Let me first address whether there's a right-of-rescission option. For traditional mortgage refinances on a primary residence, borrowers have a 3-business-day right of rescission. Did you know that reverse mortgages also have a 3-business-day cancellation right at closing?
+Caller: Yes, I knew that but that window is long gone. It's been two years.
+Agent: Right, just confirming. So beyond that window, the main exit options are: paying off the loan in full, selling the home, or refinancing into a different product. Let me walk through each. The cleanest option is to simply pay off the reverse mortgage. Your current balance is $112,440.88. If you have savings, investments, or another resource that can cover that, you could pay it off in full and the mortgage would be released with no further obligation.
+Caller: I don't have that kind of liquid cash. I could maybe pull together $30,000 or $40,000 but not the full amount.
+Agent: That's understandable. The second option is selling the home. If you sell, the reverse mortgage gets paid off from the proceeds and any remaining equity belongs to you. Do you have a sense of what your home is worth?
+Caller: The neighbors sold their house — very similar to mine — for about $340,000 last year. I'd say mine is worth around $330,000 to $345,000.
+Agent: So if you sold for $335,000, after paying the reverse mortgage balance of $112,440, you'd net approximately $222,560 before closing costs and real estate commissions. That's a very substantial sum. Would you consider selling and moving elsewhere?
+Caller: I don't want to move. I've been in this house for 28 years. My son actually grew up here.
+Agent: I understand — and that's a very human response. The third option is to refinance the reverse mortgage balance into a traditional forward mortgage. This would convert your HECM back into a regular mortgage with monthly payments.
+Caller: At 71 can I even get a 30-year mortgage?
+Agent: Yes, under the Equal Credit Opportunity Act, lenders cannot deny a loan based on age. A 30-year mortgage is theoretically available to a 71-year-old. Whether you qualify depends on income, credit, and the loan-to-value. Your balance of $112,440 against a home worth around $340,000 represents only a 33 percent LTV — that's extremely strong. The question is income. What's your monthly income?
+Caller: I have Social Security of about $2,200 a month and a pension of $1,400. So about $3,600 total.
+Agent: That's $43,200 per year. A mortgage on $112,440 at today's rates — around 7 percent for 30 years — would be approximately $748 per month. Your front-end ratio would be about 20.8 percent, which is well within guidelines. You'd likely qualify. The trade-off is that you'd have that monthly payment again.
+Caller: The whole point of the reverse mortgage was to not have a payment. But if it means my son gets the house someday...
+Agent: I understand the family dimension of this. One option to discuss with your son: he could take out a mortgage in his own name to pay off your reverse mortgage, effectively purchasing an interest in the property from you now, or you could arrange some sort of family agreement. However, those arrangements have legal and tax complexity that would require an attorney.
+Caller: What about just making voluntary payments? Can I pay down the balance to stop it from growing so fast?
+Agent: Yes, absolutely. You can make voluntary payments on a reverse mortgage at any time without penalty. You're not required to, but there's no restriction on doing so. If you paid, say, $500 per month, that would offset some or all of the interest accrual and keep the balance from growing as quickly.
+Caller: How fast is the interest growing right now?
+Agent: Your rate is a variable rate tied to an index. Looking at your current rate of 6.125 percent on a balance of $112,440, interest is accruing at roughly $574 per month. So a $500 monthly payment would nearly offset the accrual.
+Caller: That actually might be the right answer for me. I can afford $500 a month.
+Agent: And if your son eventually wants to pay off the loan — when the time comes — a lower balance makes that much more achievable for him. Making voluntary payments now is a practical middle ground.
+Caller: Is there anything I'd need to do to set up voluntary payments?
+Agent: No special setup is required. You can mail a check to our payment address or pay online. Just note on your payment that it's a voluntary principal payment. All payments made to a HECM are applied to the outstanding balance and reduce what you'd eventually owe.
+Caller: I like this option. It keeps me in the house, stops the balance from ballooning, and gives my son a better outcome eventually.
+Agent: It's a thoughtful solution. I'd also gently suggest having a conversation with your son about the full picture — the equity that remains, and how voluntary payments can change the long-term outcome. Sometimes heirs feel better when they understand the full math.
+Caller: You're right. I've been avoiding that conversation. He's emotional about the house.
+Agent: Those conversations are worth having. Is there anything else I can help you with today, Eugene?
+Caller: No, Daniel. You've given me a real path forward. Thank you for not making me feel stupid about this.
+Agent: Not at all. These products are complex and people's circumstances change. You're being proactive and thoughtful. Take care, Eugene.
+Caller: Thank you. Goodbye.
+Agent: Goodbye!

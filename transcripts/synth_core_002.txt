@@ -1,0 +1,47 @@
+Agent: Horizon Mortgage Servicing, this is Maria, how can I assist you today?
+Caller: Hi Maria, I'm calling because I've been charged a late fee three months in a row and I am telling you right now, I have mailed my check on the fifth of every single month. This is not right.
+Agent: I completely understand your frustration and I want to look into this for you right away. Can I get your loan number or property address?
+Caller: Loan number is 739204. Property is 88 Sycamore Drive, Greenville, South Carolina.
+Agent: And your name and last four of your Social?
+Caller: Patricia Morrow, Social ends in 4421.
+Agent: Thank you Patricia, I've got your account up. I can see the late fees and I want to go through each one carefully with you. Our grace period runs through the fifteenth of the month, so any payment posted on or before the fifteenth is considered on time.
+Caller: Right, I know that. And I said I'm mailing on the fifth. That gives ten days. That should be more than enough.
+Agent: I agree that mailing on the fifth should typically give plenty of time. Let me look at the posting dates on each of these. For April, I'm showing the payment posted on the seventeenth.
+Caller: That's two days late. Two days. I mailed it April fifth.
+Agent: I believe you. Mail processing can vary, and we've had some delays in our remittance processing center as well. For May, I'm showing it posted on the sixteenth. Just one day past the grace period.
+Caller: Are you kidding me. One day.
+Agent: And for June, I'm showing it posted on the eighteenth. So across the three months, you were charged a late fee each time. Each fee is forty-two dollars, so that's a total of a hundred and twenty-six dollars in late fees.
+Caller: A hundred and twenty-six dollars. For mailing on the fifth. What are you going to do about this?
+Agent: So I want to be straightforward with you, Patricia. I can see from your payment history that before these three months, you have a six-year history of on-time payments. Not a single late fee. That's actually really important context here.
+Caller: Right, because I always pay on the fifth.
+Agent: I believe you. Given that payment history, I am able to offer a courtesy waiver on some of these fees. Typically our policy allows me to waive up to one late fee per twelve-month period as a one-time courtesy. However, given the circumstances — your long payment history, and the fact that mail delays are a known issue — I'm going to escalate this and ask for approval to waive two of the three fees.
+Caller: Why not all three?
+Agent: I understand why you're asking that, and I'm not saying you did anything wrong. But our policy does require us to document a payment posting after the grace period to charge the fee, and technically the postings were late. What I can do is waive two fees right now, which would be eighty-four dollars, and then submit a request to our fee review team for the third.
+Caller: How long does that take?
+Agent: Typically five to seven business days. They'll send you a letter with their decision.
+Caller: And if they deny it?
+Agent: If they deny it, the forty-two dollar fee would remain. But I want to be honest with you — given your history, I think there's a reasonable chance they'll approve it.
+Caller: Okay. But here's what I want to know — how do I make sure this doesn't keep happening? Because I cannot keep doing this every month.
+Agent: That's a really fair question. The most reliable way to avoid this going forward is to set up automatic payment or pay online through our website. If you pay electronically, the payment posts the same business day or the next business day, depending on when you submit it. You'd never have to worry about mail delays again.
+Caller: I've always paid by check because I like having the paper trail.
+Agent: I completely understand. You can still have a record — when you pay online, you get a confirmation number and a receipt. And your bank statement will show the transaction. Would you be open to trying that?
+Caller: Maybe. Let me think about it. Right now I just want to make sure those fees get taken care of.
+Agent: Absolutely. So here's what I'm doing right now. I'm applying a credit of eighty-four dollars to your account for the April and May late fees. That credit will post within one to two business days.
+Caller: And you're sure I'll see it on my account?
+Agent: Yes, absolutely. You can check online or call back and we can confirm it. For the June fee, I'm submitting an internal request to our fee review team with notes about your payment history and the circumstances. You should receive a letter within seven business days.
+Caller: Okay. Can I get your name again and some kind of reference number for this call?
+Agent: Of course. My name is Maria, and let me generate a case reference for you. Your case number for the fee waiver request is FWR-2024-88312. Please write that down if you can.
+Caller: Got it. FWR-2024-88312. Okay. And if they don't waive that third one, who do I call?
+Agent: You can call this same number and ask to speak with a supervisor or to the escalations department. Reference that case number and they'll be able to pull the history.
+Caller: Alright. What about going forward, like can I note on my account that I mail on the fifth?
+Agent: We can make a note in your account, but it won't change the official policy. The payment has to post by the fifteenth regardless of when it's mailed. That's why I'd really encourage you to consider online payment — it completely removes that uncertainty.
+Caller: My sister keeps telling me the same thing. Fine, fine. Maybe I'll set it up.
+Agent: If you do, I can walk you through the enrollment process right now, or you can go to our website and there's a step-by-step guide. It takes about five minutes.
+Caller: Let me look at it later today. I have to go pick up my grandkids in a bit.
+Agent: No problem at all. Is there anything else I can help you with today, Patricia?
+Caller: Just make sure those credits go through and that review gets submitted.
+Agent: Both are done. The eighty-four dollar credit is applied, and the review for the forty-two dollar June fee is submitted under case number FWR-2024-88312. You're all set.
+Caller: Alright. Thank you Maria. I was really worked up when I called but you were very helpful.
+Agent: I'm glad I could help. I'm sorry for the frustration with the fees. You take care, Patricia.
+Caller: Thank you. Bye.
+Agent: Have a great afternoon. Goodbye.

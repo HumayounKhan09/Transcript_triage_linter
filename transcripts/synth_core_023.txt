@@ -1,0 +1,52 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, this is Maria, how can I help you today?
+Caller: Hi Maria. I'm selling my home and the buyer wants to assume my mortgage. He says it's an assumable VA loan and he wants to keep my three point two five percent rate. I want to understand if that's actually possible and how it works.
+Agent: Great question, and yes, VA loans are generally assumable, which is a significant benefit. Let me pull up your account to confirm the loan type and details. Loan number or address?
+Caller: Loan number is 390817. Address is 4403 Sunfield Drive, Fayetteville, North Carolina.
+Agent: And your name and last four of your Social?
+Caller: Anthony Chambers. Social ends in 6601.
+Agent: Got you, Anthony. I've got your account. This is indeed a VA loan originated in 2020 at three point two five percent. Current balance is two hundred and thirty-one thousand three hundred and twelve dollars. Congratulations on the home sale — that's a significant interest rate advantage you've built up.
+Caller: Yeah, the buyer is really motivated specifically because of the rate. It's much lower than current market.
+Agent: It's a compelling incentive right now. So here's how VA loan assumption works. VA loans are assumable, but the assumption has to be approved by us as the servicer and, because it's a VA loan, by the VA as well.
+Caller: Does the buyer have to be a veteran?
+Agent: This is important: no. Non-veterans can assume VA loans. The buyer does not need to be a veteran or have VA eligibility. However, there is a big issue for you if a non-veteran assumes the loan.
+Caller: What's that?
+Agent: Your VA entitlement. When you took out this VA loan, you used what's called VA entitlement — your benefit from the VA that allowed you to purchase with no down payment and no PMI. If a non-veteran assumes your loan and you haven't gotten a release of liability, your entitlement remains tied to this property. You wouldn't be able to use your full VA entitlement for a future VA loan purchase.
+Caller: I was planning to buy another home using a VA loan.
+Agent: Then this is critical. You have two options. One: the buyer is a veteran with sufficient VA entitlement of their own, who agrees to substitute their entitlement for yours in the assumption. If they do this and are approved, your entitlement is released and you can use it again. Two: if the buyer is a non-veteran or a veteran who doesn't substitute entitlement, you'd need to request a release of liability separately — which is harder to get and not always available — or accept that your entitlement remains tied up.
+Caller: The buyer is not a veteran. He's a civilian.
+Agent: Okay, so that changes things. You'll want to discuss with a VA lender or the VA directly about your entitlement situation. Do you know how much entitlement you have?
+Caller: I honestly don't know. What's entitlement?
+Agent: VA entitlement is the dollar amount the VA guarantees to the lender on your behalf. For most veterans, the basic entitlement is about thirty-six thousand dollars, and there's additional bonus entitlement that brings total entitlement to about one hundred and forty-seven thousand five hundred dollars or more for high-cost areas. Your entitlement is what's currently tied to this loan.
+Caller: And if the buyer assumes it without substituting entitlement, that entitlement is stuck here?
+Agent: Correct. You wouldn't be able to use that entitlement for a future VA purchase until this loan is fully paid off. However — and this is important — if you have enough remaining entitlement, you might still be able to get a VA loan for your next home, just with a reduced benefit or a down payment requirement. This is complex and really something you should review with the VA directly.
+Caller: Okay. I'll call the VA. What do I do with you guys?
+Agent: From our end, here's the assumption process. The buyer submits an assumption application to us. We then underwrite the buyer — reviewing their credit, income, and ability to repay the loan. The VA loan assumption requires the buyer to qualify under standard credit and income criteria, even though they don't need to be a veteran.
+Caller: So the buyer needs to qualify for the mortgage?
+Agent: Yes. The rate is great, but they still have to show they can afford the payments. Your monthly payment of one thousand two hundred and nine dollars would transfer to them.
+Caller: What's the buyer's credit score matter here?
+Agent: It matters. We'd review it as part of the assumption underwriting. Typically we want to see at least a six-twenty FICO for a VA assumption, though guidelines can vary.
+Caller: The buyer told me his credit is around seven hundred. That should be fine, right?
+Agent: Generally yes. Seven hundred should be well within range for assumption approval.
+Caller: What documents does the buyer need to provide?
+Agent: The buyer would need to submit an assumption application, provide income documentation — pay stubs, W-2s, tax returns — authorization for a credit check, and any other supporting financial documents we request during underwriting.
+Caller: How long does the process take?
+Agent: Typically thirty to forty-five days for a VA loan assumption. Sometimes longer if the VA review takes additional time. It's worth noting — the VA has to approve the assumption in addition to us. Two layers of review.
+Caller: Does the seller — me — have to do anything during this process?
+Agent: You'd need to sign some paperwork related to the assumption and potentially the release of liability request. Your real estate attorney can help you navigate those documents.
+Caller: What are the fees? Is there a cost to assume the loan?
+Agent: There are some fees. We typically charge a loan assumption processing fee — often five hundred to nine hundred dollars. The VA also charges a funding fee for assumptions — for a non-veteran, it's typically half a percent of the loan balance. On two hundred and thirty-one thousand, that's about one thousand one hundred and fifty-six dollars.
+Caller: So the buyer would pay around fifteen hundred to two thousand in fees?
+Agent: Roughly, yes. Compared to originating a new mortgage at current rates, it's still a significant savings for the buyer.
+Caller: Okay. And what happens with title? Does the buyer need a new title search?
+Agent: Yes. They'll need title insurance and a title search. The existing lien needs to be transferred and the title company needs to verify everything is clear.
+Caller: And my escrow balance — what happens to that?
+Agent: Your current escrow balance of one thousand eight hundred and forty-two dollars typically gets credited to you at closing. The buyer would either pay to reimburse you for the escrow balance, or it gets factored into the sale negotiations.
+Caller: I hadn't thought about that. So I'd get that back?
+Agent: Typically yes, but it depends on how the purchase contract is structured. Your real estate agent can clarify how escrow balances are handled in the sale agreement.
+Caller: Okay. Is there anything else I need to know?
+Agent: One more thing. Because this is a VA loan and there are entitlement implications, I'd strongly suggest you contact the VA regional loan center before you finalize anything. They can advise specifically on your entitlement situation. The VA has a toll-free line at 1-877-827-3702.
+Caller: 1-877-827-3702. Got it. And I call you to start the assumption process?
+Agent: The buyer would call us to submit the assumption application, or they can do it online. Your loan number for reference is 390817. I'll make a note on the account that an assumption inquiry has been made.
+Caller: Perfect. Thank you Maria. This has been very educational.
+Agent: Happy to help. Good luck with the sale, Anthony.
+Caller: Thanks. Bye.

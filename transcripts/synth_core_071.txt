@@ -1,0 +1,40 @@
+Agent: Thank you for calling Harbor Mortgage Services, this is Carlos. Can I get your loan number?
+Caller: It's 3381-774-55. My name is Pamela Nguyen.
+Agent: Thank you, Ms. Nguyen. Can you verify your Social Security last four and the property address?
+Caller: 5543, and it's 2011 Jasmine Drive, Portland, Oregon 97202.
+Agent: Got your account up. How can I help you today?
+Caller: I got a letter saying I have a surplus in my escrow account and that I'm getting a refund check. It also says my monthly payment is going down. I want to understand what happened and make sure this is legitimate.
+Agent: Good instinct to verify, and I can absolutely confirm this is a legitimate notice from us. Let me pull up the escrow analysis on your account. Your annual escrow analysis was completed in June 2026, and it did find a surplus in your escrow account. Let me walk you through the details.
+Caller: Please.
+Agent: Your escrow account is the portion of your monthly payment that covers your property taxes and homeowners insurance. Each month, we collect a set amount, hold it in escrow, and then disburse the funds when your taxes and insurance are due. The annual analysis looks at what we collected versus what we actually paid out over the past twelve months.
+Caller: Okay. So what happened with mine?
+Agent: Over the past twelve months, your escrow payments were based on projected tax and insurance amounts. Here's what we collected and what we paid. For homeowners insurance, we collected $1,740.00 and paid your premium of $1,610.00. For property taxes, we collected $3,120.00 and paid $2,908.00. Total collected was $4,860.00 and total disbursed was $4,518.00.
+Caller: So you collected $342.00 more than you spent?
+Agent: Correct. That $342.00 is sitting in your escrow account as a surplus. On top of that, we're required to maintain what's called an escrow cushion — typically two months' worth of your monthly escrow payment — to cover timing differences. Your required cushion is $405.00. Your actual balance before the surplus adjustment was $747.00. After subtracting the required cushion, the excess or surplus is $342.00.
+Caller: And that's the refund amount?
+Agent: That's correct. You'll receive a check for $342.00 mailed to the address on file. You should receive it within fifteen business days from the letter date.
+Caller: Why did I pay too much in the first place?
+Agent: When we set your escrow payment at the beginning of the year, we estimated your taxes and insurance based on the prior year's amounts plus an anticipated adjustment. In your case, your property taxes came in lower than projected — the county's assessment was slightly lower than we estimated. Insurance was also slightly cheaper than the prior year's premium. Both went in your favor.
+Caller: That makes sense. And why is my monthly payment going down?
+Agent: Starting with your August 2026 payment, your escrow portion will be recalculated based on what we actually paid this year, not the estimates we used before. Your new monthly escrow payment will be $376.50 — that's $4,518.00 in annual disbursements divided by twelve, plus one-twelfth of the required cushion. Your previous escrow portion was $405.00.
+Caller: So my escrow goes down by $28.50 per month?
+Agent: Yes, $405.00 minus $376.50 is $28.50 in monthly savings. Your principal and interest portion of your payment stays the same — that's $1,204.00 per month. Your new total payment starting August 1st is $1,580.50, down from $1,609.00.
+Caller: Is there anything I need to do to get the refund check?
+Agent: Nothing at all. The check is automatically generated and mailed. Just make sure your mailing address is current. Can I confirm the address we have on file?
+Caller: It's 2011 Jasmine Drive, Portland, Oregon 97202. That's correct.
+Agent: Perfect. The check will go there. One thing I'd mention — some borrowers choose to apply the refund back to their mortgage principal. If you'd rather do that than receive a check, you can call us back when you receive the check and ask to apply it as a principal payment. But you don't have to — the check is yours to use however you like.
+Caller: If I apply it to the principal, does that save me anything meaningful?
+Agent: On a $342.00 principal reduction, the interest savings over the life of the loan are modest — probably $200 to $300 in total interest, depending on your remaining term and rate. It's a nice-to-have but not transformative. Most people just take the check.
+Caller: I'll probably take the check. My kids' school supplies are coming up.
+Agent: That's completely reasonable. Is there anything else I can help you with today?
+Caller: Just one question — will this happen every year? Will my escrow change every year?
+Agent: Yes, we do a mandatory annual escrow analysis every year, typically around the same time each year. Depending on whether your taxes or insurance go up or down, your monthly payment can adjust in either direction. If taxes increase significantly — like if your county reassesses your property value upward — your monthly escrow payment will increase and your overall mortgage payment will go up accordingly. We'll send a notice each year explaining the analysis results.
+Caller: So I should expect a letter every year?
+Agent: Yes, every year around June or July. It'll either show a surplus, a shortage, or tell you the account is right on target. Surpluses result in refunds or payment decreases, shortages result in payment increases or a lump-sum catch-up payment.
+Caller: What happens if there's a shortage?
+Agent: If there's a shortage, RESPA — the Real Estate Settlement Procedures Act — allows us to spread the shortage over twelve months rather than collect it all at once. Your payment would increase by one-twelfth of the shortage each month until the deficiency is recovered. If the shortage exceeds two months of escrow, you can also choose to pay the shortage amount in full upfront to keep your monthly payment lower.
+Caller: Good to know. I'll watch for that in future years. But this year is good news.
+Agent: It is. Lower payment, refund check coming — a good outcome from the analysis. Is there anything else I can help you with?
+Caller: No, that's everything. Thank you, Carlos.
+Agent: You're welcome. Have a great day, Ms. Nguyen.
+Caller: You too. Bye.

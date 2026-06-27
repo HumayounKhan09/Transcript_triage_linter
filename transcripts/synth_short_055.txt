@@ -1,0 +1,31 @@
+Agent: Thank you for calling Blue Ridge Mortgage, this is Fatima. How can I assist you today?
+Caller: Hi Fatima, I've got an adjustable-rate mortgage and I'm trying to understand the maximum my interest rate can ever go. I think there's something called a lifetime cap?
+Agent: Yes, absolutely. Every ARM has a lifetime cap which sets the ceiling on how high your rate can go over the entire life of the loan. I can look up your specific cap. Can I get your name and loan information?
+Caller: Sure, my name is Theresa Vandercamp and my loan number is 1109-GL-55230.
+Agent: Thank you, Theresa. Can you confirm the property address for me?
+Caller: It's 5500 Magnolia Court, Baton Rouge, Louisiana 70808.
+Agent: And the last four of your Social Security number?
+Caller: 6612.
+Agent: Perfect, I've got your account up. Theresa, your loan has a lifetime cap of five percent over your initial interest rate. Your loan's initial rate was 4.5 percent, so the absolute maximum your rate can ever reach is 9.5 percent, regardless of where the index goes.
+Caller: Nine and a half percent is the most I could ever pay?
+Agent: That's correct. No matter what happens in the market, your rate cannot exceed 9.5 percent over the life of this loan.
+Caller: Okay, that's helpful. I've been reading articles about people with ARMs getting really scared when interest rates go up and I wanted to know my worst case scenario.
+Agent: That's a smart thing to understand. The lifetime cap gives you that worst-case ceiling. It's one of the key protections built into ARM loans.
+Caller: And can you remind me how the cap structure works overall? Like there's more than one cap, right?
+Agent: There is. Your loan has what's often called a cap structure written as numbers, and yours is 2-2-5. The first number, 2, is your first adjustment cap — that's the maximum change allowed at your very first rate adjustment. The second number, 2, is your periodic cap — the maximum change at each subsequent adjustment. And the third number, 5, is your lifetime cap — the maximum change over the entire life of the loan relative to the initial rate.
+Caller: So the lifetime cap is measured from the starting rate, not the current rate?
+Agent: Exactly right. It's always calculated from your original note rate. So since your loan started at 4.5 percent, the lifetime cap of five percent means 4.5 plus 5 equals 9.5 percent maximum.
+Caller: Got it. And my current rate right now is?
+Agent: Your current rate is 6.75 percent after your last adjustment.
+Caller: So I'm already 2.25 percent above the starting rate. And I can only go another 2.75 percent higher before hitting the ceiling?
+Agent: That's the correct way to look at it, yes. You have about 2.75 percentage points of remaining room before the lifetime cap kicks in.
+Caller: And the lifetime cap works the other way too? Like is there a floor?
+Agent: Your loan documents do reference a floor rate, which is the minimum your rate can go. Let me check that. Yes, your floor rate is 4.5 percent, which is equal to your initial rate. So the rate can drop with the index but it cannot go below 4.5 percent regardless of how low the market goes.
+Caller: Interesting. So I could also be capped on the downside.
+Agent: Correct. These structures protect both the borrower on the upside and the lender on the downside.
+Caller: That's a lot to take in but it all makes sense. I feel a lot better knowing my absolute worst case is 9.5 percent.
+Agent: I'm glad that gives you some peace of mind. Is there anything else I can help you with today?
+Caller: No, that's exactly what I needed. Thank you so much Fatima.
+Agent: You're very welcome, Theresa. Have a wonderful day.
+Caller: You too, thanks.
+Agent: Goodbye.

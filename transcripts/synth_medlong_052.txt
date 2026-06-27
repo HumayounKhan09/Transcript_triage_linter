@@ -1,0 +1,45 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, my name is Sandra. Can I get your loan number to pull up your account?
+Caller: Yeah it's 4471-8830-22. My name is Robert Callahan.
+Agent: Thank you Mr. Callahan. Let me get you verified. Can you confirm the last four of your Social and the property address?
+Caller: Social is 7741. Address is 884 Pinecrest Drive, Lakewood, Colorado 80226.
+Agent: Perfect, I have your account pulled up. How can I help you today?
+Caller: I got a letter in the mail saying my loan modification was denied. I've been trying to get this modification for four months and now they just send me a letter with a bunch of codes on it and I have no idea what any of it means.
+Agent: I completely understand your frustration, Mr. Callahan. Four months is a long time to be going through this process and getting a denial is really disappointing. I want to make sure I walk you through exactly what happened and what options you have going forward. Can you tell me, do you have the letter in front of you?
+Caller: I do, yes. It says reason code B-14 and D-02. That's it. Two codes and a phone number.
+Agent: Okay. Let me look at your file and the notes from the review team. Give me just a moment here.
+Caller: Sure.
+Agent: Alright Mr. Callahan, I can see the full underwriting notes here. So reason code B-14 relates to what we call insufficient income documentation. When you submitted your modification application, there was a request sent out for your two most recent pay stubs and your last two years of federal tax returns. Our records show we received one pay stub and only one year of tax returns — the 2022 return — but we never received the 2023 return or the second pay stub.
+Caller: What? I sent all of that. I faxed it on March 8th.
+Agent: I do see a fax received on March 8th. Let me look at what was logged. It looks like the fax came through but only seven pages were received. Our checklist shows the 2023 return alone would have been at least nine to eleven pages for a joint return. It's possible there was a transmission issue on that fax.
+Caller: Nobody called me. Nobody sent me a letter saying documents were missing until now.
+Agent: You're right, and I can see that there was a deficiency notice generated on March 19th, but I'm looking at the address it was sent to and it shows — it looks like it may have gone to a prior mailing address we had on file. I want to make a note of that because that is something we need to address.
+Caller: So what's the second code, D-02?
+Agent: D-02 is the net present value test result. This is a calculation we're required to do — it compares what the investor would recover in a modification scenario versus a foreclosure scenario. In your case, the NPV test came back negative, meaning the model projected that foreclosure would yield a higher recovery for the investor than the modified loan. Now, this calculation is highly sensitive to the income documentation we have on file. If we had complete income documentation, the result could be different.
+Caller: So if I send the right documents, can I reapply?
+Agent: Yes, absolutely. And here's something important — because the deficiency notice may not have reached you due to an address issue on our end, I'm going to flag this denial for a supervisory review. That doesn't automatically reverse the denial, but it does create a record that there were procedural issues in the review. You also have the right to formally appeal this denial within 30 days of the letter date. What's the date on your letter?
+Caller: June 2nd, 2026.
+Agent: Okay so your appeal deadline is July 2nd, 2026. That gives you about five days. I want to be honest with you — a formal appeal on this timeline is tight, but it's possible. The appeal process involves submitting a written request explaining why you believe the denial was in error and providing any supporting documentation. Given what I've found today, I think you have a reasonable basis to appeal because of the address issue and the incomplete document receipt.
+Caller: What should I put in the appeal letter?
+Agent: I would focus on two things. First, state that the deficiency notice was sent to an incorrect address and that you were not given an adequate opportunity to cure the document deficiency. Second, include your complete 2023 federal tax return and both of your most recent pay stubs. If you have the fax confirmation sheet from March 8th, include that too as evidence that you made a good-faith attempt to submit the documents.
+Caller: Okay. And if the appeal is denied?
+Agent: If the appeal is denied, you can submit a new application. There's typically a 30-day waiting period after a denial before a new application can be accepted, but given the procedural concerns I'm noting today, I'm going to ask that we waive that waiting period. I'll document that request in the file right now.
+Caller: What about the foreclosure? I'm three months behind. Are they going to start foreclosure while I'm appealing?
+Agent: Once you submit a written appeal, there's a dual-tracking protection under federal mortgage servicing rules. No foreclosure sale can be scheduled or conducted while a complete loss mitigation application — or in this case, an appeal of a prior determination — is under active review. I want to be clear though: you need to get that appeal in writing and submitted by July 2nd for that protection to apply.
+Caller: Can I email it?
+Agent: You can submit it by email to our loss mitigation team at lossmitigate@meridianmortgage.com, by fax to 1-800-554-7723, or by overnight mail to our loss mitigation address. I'm going to send you a confirmation of today's call with all of those contact details to the email address we have on file. Can you confirm your email?
+Caller: It's rcallahan1974@gmail.com.
+Agent: Perfect. And I'm going to update your mailing address today as well. What's your current correct address?
+Caller: 884 Pinecrest Drive, Lakewood, Colorado 80226. It's the same property address. I don't know why they had something different.
+Agent: I see, it looks like an old address from before you moved in was still in the contact field — that's a data entry issue on our side. I've corrected it now and I'm flagging it in your file. Mr. Callahan, to summarize what we've covered today: the denial was based on B-14, incomplete income documentation likely due to a fax transmission issue and a deficiency notice that went to the wrong address, and D-02, an NPV test result that may change with complete documentation. You have until July 2nd to submit a written appeal with your complete 2023 tax return, both recent pay stubs, and your fax confirmation from March 8th. I've noted the address error and am requesting that a supervisory review be flagged on the denial. I've also documented a request to waive the standard 30-day waiting period if you choose to reapply instead of or in addition to the appeal.
+Caller: Okay. I feel like I actually understand what happened now. That's the first time in four months someone has explained anything to me.
+Agent: I'm glad I could help clarify it. I know this has been a stressful process. Is there anything else I can answer for you today?
+Caller: What about if I send in the appeal and they still say no — do I have any other options besides reapplying?
+Agent: Yes. You would still be considered for other loss mitigation options. If a traditional modification isn't feasible, there may be options like a short sale, a deed in lieu of foreclosure, or a repayment plan depending on your hardship situation and financial picture. We would go through a full review of all available options. The goal is always to find something that works before we ever get to a foreclosure sale.
+Caller: I don't want to sell. I've been in that house for eleven years.
+Agent: I understand, and that's exactly why it's worth fighting for the modification. I would encourage you to get that appeal submitted as quickly as possible. If you run into any issues getting the documents together, call us back and ask for the loss mitigation queue specifically. They can answer document-specific questions.
+Caller: Alright. Thank you, Sandra. Seriously, this actually helped.
+Agent: You're very welcome, Mr. Callahan. I hope this gets resolved in your favor. Is there anything else before I let you go?
+Caller: No, that's everything. Thank you.
+Agent: Thank you for calling Meridian Mortgage Servicing. You have a good afternoon.
+Caller: You too. Bye.
+Agent: Goodbye.

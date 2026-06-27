@@ -1,0 +1,53 @@
+Agent: Good morning, Lakeside Mortgage Servicing, this is Derek. Can I get your loan number?
+Caller: Yes, it's 6650-39942.
+Agent: And your name and last four of Social?
+Caller: Connie Abramowitz. Social ends in 8823.
+Agent: Thank you, Ms. Abramowitz. I can see your account — and I can see this is a manufactured home loan. Property listed at Space 47, Sunset Pines Mobile Home Community, 800 Route 9, Lakewood, New Jersey. Is that the property?
+Caller: Yes. I've lived here for 12 years. I want to refinance because my rate is 8.5 percent and I think I can do better. But I've already been turned down twice and I'm not sure why.
+Agent: This is a very specific lending category with some genuinely challenging issues. Let me explain why refinancing manufactured homes — especially on leased land — is more complicated than site-built home refinancing, and then we can talk about what paths might be available to you.
+Caller: Please. The loan officer at one bank just said "we don't do that" and the other said my home didn't qualify.
+Agent: Both of those responses reflect real constraints. Let me start by asking some questions. Is your manufactured home titled as real property, or as personal property — also known as chattel?
+Caller: I don't know the difference. How do I find out?
+Agent: If the manufactured home has been permanently affixed to land that you own and a deed has been recorded, it's typically treated as real property. But you mentioned you're on leased land — meaning you rent the space in the community rather than owning the ground under the home. In that case, your home is almost certainly titled as personal property, which is chattel.
+Caller: What does that mean for refinancing?
+Agent: It means most conventional mortgage programs — Fannie Mae, Freddie Mac — and most FHA programs are not available for manufactured homes on leased land. The reason is that these programs require a permanent foundation and real property status, which requires owning the land. On a land lease, you own the home but not the land, so lenders can't take a traditional mortgage lien in most states.
+Caller: So what do I have right now?
+Agent: Looking at your existing loan with us, I can see this is a chattel loan — a personal property loan secured by the manufactured home itself, similar in structure to a vehicle loan but with a much longer term. Your rate of 8.5 percent is actually not uncommon for manufactured home chattel loans because these are considered higher risk by lenders.
+Caller: Is there really no way to get a lower rate?
+Agent: There are some paths, though they're limited. First — specialized manufactured home lenders. Companies like 21st Mortgage Corporation, Triad Financial Services, and Cascade Financial Services specifically originate manufactured home chattel loans. They may offer rates that are competitive for this loan type — often 7 to 9 percent for chattel on leased land, depending on credit and loan-to-value. Your current 8.5 percent might not be improvable by much, but it's worth checking.
+Caller: My credit is pretty good — around 720.
+Agent: That's favorable. At 720, you'd be in the best tier most of those lenders offer. That could get you into the lower end of the chattel rate range.
+Caller: What's my current loan balance?
+Agent: Your balance is $58,440.20 with a remaining term of 18 years.
+Caller: What's the home worth?
+Agent: That's another complexity. Manufactured home valuations are done differently than site-built homes. For chattel loans, appraisers use manufactured home-specific databases — often the NADA Manufactured Housing Appraisal Guide — rather than comparable home sales. Age, model, condition, and upgrades are the key factors. Do you know the year and model?
+Caller: It's a 2002 Fleetwood. Three bedrooms, two baths, 1,440 square feet. I've kept it up well.
+Agent: A 2002 Fleetwood in good condition in a desirable park — 22 years old at this point. NADA would put the book value in the range of $35,000 to $60,000 depending on condition and local market adjustments. I don't have an appraisal on file so I can't give you an exact number.
+Caller: That might be a problem. If it's only worth $40,000 and I owe $58,000, I'm underwater.
+Agent: That's a real concern. Age is the primary factor in manufactured home depreciation. Unlike site-built homes, manufactured homes on leased land generally depreciate over time rather than appreciate. It's possible your home has depreciated to below your loan balance, which would make refinancing — which requires sufficient collateral — even more challenging.
+Caller: Is there any way to get out of this situation long-term?
+Agent: Let me give you a fuller picture of what the landscape looks like. Option one: refinance with a chattel lender as we discussed — worth checking for rate improvement. Option two: if your park allows it, purchase the space you're on. Some mobile home communities do sell lots. If you owned the land, you could potentially get the home titled as real property, which opens up Fannie Mae MH Advantage or FHA Title II programs at significantly better rates — current 30-year rates in the 6 to 7 percent range instead of 8 to 9.
+Caller: Does Sunset Pines sell lots?
+Agent: I don't have information about the park's policies. You'd need to ask the park management directly. Some communities have no plans to sell, others have converted to co-op or condominium ownership models over time.
+Caller: I should ask them. I've actually been there 12 years and never thought about that.
+Agent: It's worth exploring. Even if they don't currently sell lots, some parks do allow lot purchases for long-term residents. Third option: Freddie Mac has a program specifically for manufactured homes in land-lease communities called CHOICEHome. It has specific requirements — the home must be newer, certain foundation standards, and the park must meet Freddie's community standards. A 2002 home may not qualify for the newer-home requirements, but it's worth confirming with a lender who does CHOICEHome loans.
+Caller: What does my current loan allow in terms of prepayment? If I did find a way to refinance, are there penalties?
+Agent: Let me check your original note. Your note dated September 2012 — that's 12 years ago — does not have a prepayment penalty. You can pay off the loan at any time without penalty.
+Caller: Good. What about my monthly payment right now? I just want to understand all the numbers.
+Agent: Your current payment is $583.84 per month at 8.5 percent on the original balance with 18 years remaining. If you could refinance the balance of $58,440 at, say, 7.5 percent for 15 years, your payment would be approximately $541. That's savings of about $42 a month — modest, but real. At 7 percent for 20 years, the payment would be about $453, saving $130 a month.
+Caller: Is my payment tax deductible?
+Agent: Chattel loans are generally not eligible for the home mortgage interest deduction because they're personal property loans, not real estate mortgages. That's another benefit that comes with titling as real property — mortgage interest deductibility. I'd recommend confirming with a tax professional, but that's the general rule.
+Caller: I didn't realize I was missing out on that either.
+Agent: These are all reasons why the title question — chattel versus real property — is so financially significant. Converting to real property would bring mortgage interest deductibility, better loan rates, and more refinancing options, but it requires owning the land.
+Caller: Okay. My action items sound like: call the manufactured home lenders you mentioned to get chattel refi quotes, ask the park management about lot purchases, and look into the CHOICEHome program.
+Agent: That's exactly right. I'd add: get a current appraisal of your home using the NADA guide before applying anywhere, so you understand your collateral value and aren't surprised. Some of those specialized lenders will order the appraisal as part of the application.
+Caller: Is there anything you can do on the servicing side? Can you reduce my rate?
+Agent: As a servicer, we don't have authority to modify the rate on a current, performing loan without a hardship situation. I wish I had a better answer on that. Our role is to service the existing loan terms. The refinancing would be a new transaction with a new lender.
+Caller: I understand. Is there a rate on my loan that adjusts, or is it fixed forever?
+Agent: Your note shows a fixed rate of 8.5 percent for the life of the loan. No adjustments. So what you have now is what you'll have unless you refinance.
+Caller: Okay. Derek, this has been really educational. I had no idea about any of this chattel versus real property distinction.
+Agent: It's one of the more complex corners of the lending world. I'm glad I could explain it. Is there anything else I can help you with today?
+Caller: No, I think I have a good picture now. Thank you so much.
+Agent: Of course, Ms. Abramowitz. Good luck. Don't hesitate to call us. Have a wonderful day.
+Caller: You too. Goodbye.
+Agent: Goodbye.

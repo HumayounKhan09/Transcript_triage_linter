@@ -1,0 +1,47 @@
+Agent: Thank you for calling Beacon Mortgage Servicing, this is Tom, how can I help you today?
+Caller: Hi Tom. My name is Alicia Bertrand. My mother passed away six weeks ago. She had a mortgage on her home with your company and I'm the executor of her estate. I've been told by my attorney that there might be a way for me to assume the mortgage rather than selling the house or refinancing. Can you explain how mortgage assumption works in an estate situation?
+Agent: Ms. Bertrand, I'm so sorry for your loss. Managing an estate is complicated enough without navigating mortgage questions on top of it. You're calling about exactly the right thing — assumption is an important option to understand in estate situations. Let me pull up your mother's account. Can I get her loan number or the property address?
+Caller: The property is 4402 Willowdale Court, Cincinnati, Ohio, 45208. Loan number I found in her paperwork — it's BMS-1995-44-7731.
+Agent: And for this type of call — an estate matter — I'll need to verify your identity and authority. Can you give me your mother's full legal name, her Social Security number, and your relationship?
+Caller: Her name is Margaret Anne Bertrand. Social Security number is 561-44-8801. I'm her daughter and I'm named as executor in her will.
+Agent: Thank you. I have the account. I do see the note in our system that this account has an estate flag from when we were notified of the death — thank you for letting us know. Margaret Bertrand, loan originated in 1995, current balance $44,100, interest rate 7.25%, monthly payment $621. The property appears to be paid down significantly over the years.
+Caller: Yes, my mother lived there for twenty-eight years. I'd like to keep the house and keep paying the mortgage — I don't want to have to sell it.
+Agent: That's completely understandable, and there is very good news for your situation. Federal law — specifically, the Garn-St. Germain Depository Institutions Act of 1982 — provides important protections for heirs in your situation. One of the key provisions of that law is that a lender cannot enforce a due-on-sale clause — the clause that would normally require the loan to be paid off when ownership transfers — when a property is inherited by a family member.
+Caller: So you can't demand I pay off the loan just because my mother died?
+Agent: Correct. If you're a relative inheriting the primary residence, you have the right under federal law to take over the loan payments and have the assumption processed without triggering the due-on-sale clause. This is called an heir assumption and it's different from a standard assumption.
+Caller: What do I need to do to process this?
+Agent: There are a few steps. First, you'll need to establish your legal standing as the executor and heir. We'll need a copy of the death certificate, a copy of the will or the letters testamentary — which is the court document that authorizes you to act as executor — and documentation showing your relationship to your mother and your inheritance of the property.
+Caller: I have all of those. The estate was admitted to probate about three weeks ago and I have the letters testamentary.
+Agent: Excellent. Second, you'll need to complete our assumption application, which is specific to estate transfers. It's different from a standard third-party assumption application. I'll have our estate services team send you that packet.
+Caller: Does my credit get checked?
+Agent: In an heir assumption under the Garn-St. Germain protections, a full credit qualification is generally not required — you have a legal right to assume the loan regardless of your individual creditworthiness, precisely because you're an heir inheriting a primary residence. This is distinct from a standard assumption where a third party is taking over a loan and would need to qualify.
+Caller: That's really important to know. I was worried about that because my credit isn't perfect.
+Agent: The heir assumption right bypasses the standard credit qualification. However, I want to note that going forward, you would be responsible for the loan, and we would report the account to credit bureaus in your name — so maintaining payments would be important for your credit profile.
+Caller: I understand and intend to make every payment. The house means a great deal to our family.
+Agent: Good. Third step — title. The property title will need to be transferred into your name through the probate process. Has your estate attorney begun the title transfer?
+Caller: We've filed the inventory and the property is listed in the estate. The attorney said title would transfer to me once probate concludes, which could be another two to three months.
+Agent: In Ohio, probate can take several months for a straightforward estate. Here's what we can do in the meantime: we can flag the account as an estate pending assumption, which protects it from any automatic processes that might be triggered by the title not being in your name yet. We can also accept payments from you during this period — you can make payments on behalf of the estate and we'll credit them to the loan.
+Caller: Can I pay with my own check?
+Agent: Yes. Payments submitted by estate representatives are accepted. Just note the loan number on the check or payment — number BMS-1995-44-7731 — and include a note that it's submitted on behalf of the estate of Margaret Bertrand.
+Caller: Good. The loan is very close to payoff — $44,100 remaining. I was actually wondering whether I should just pay it off rather than continue the assumption process.
+Agent: That's worth considering carefully. Your mother's loan is at 7.25% interest rate. That's actually a high rate by historical standards — if you assumed the loan and paid it off over its remaining term, you'd pay significantly more in interest than if you paid it off now. Do you have the ability to pay the $44,100?
+Caller: I might. Between my savings and what I'll receive from the estate once it's liquidated — my mother had some bank accounts — I could probably do it.
+Agent: If you can pay it off without compromising your financial security, that might be the simplest path. No more assumption process, clear title, no more monthly payment, and you save all the remaining interest on a 7.25% loan. The payoff amount would include principal, accrued interest to the payoff date, and possibly a small escrow reconciliation.
+Caller: How do I get an official payoff quote?
+Agent: I can request a payoff statement be sent to you as the estate representative. It's typically valid for 30 days from the date issued. Would you like me to initiate that now?
+Caller: Yes please. And send it to my address — 887 Maple Ridge Drive, Cincinnati, Ohio, 45209.
+Agent: I'll note that address and request the payoff statement. It should arrive within five to seven business days by mail, or faster if you want it emailed.
+Caller: Email would be faster. The address is aliciabertrand at gmail dot com.
+Agent: Got it. I'll request the payoff statement to be emailed to you within 48 hours. And if you decide to proceed with the assumption instead, I'll also have our estate services team contact you with the assumption packet. The contact number for our estate services department is 1-800-552-7700.
+Caller: Can I pursue both simultaneously? Look at the payoff while also receiving the assumption paperwork?
+Agent: Absolutely. Getting both documents doesn't obligate you to either path. You can evaluate both and make the best decision based on your financial situation. If you choose to pay off, we simply close the loan at payoff. If you choose assumption, we process the transfer.
+Caller: That's sensible. One more question — while the estate is still open and the loan is technically in my mother's name, is there any risk to me? Like if I miss a payment, does it go on my credit?
+Agent: Currently the loan is reported under your mother's Social Security number, not yours. Until the assumption is formalized in your name, activity on this account does not affect your personal credit. However, I'd strongly advise against missing payments — the estate is responsible for maintaining the loan during probate, and failure to do so could jeopardize the asset and complicate the estate process.
+Caller: I have no intention of missing any payments. I've already made last month's payment from my personal account.
+Agent: I see that — a payment posted eleven days ago. That's exactly the right approach. You're handling this very well under difficult circumstances.
+Caller: Thank you. My mother was meticulous about her finances and I want to honor that.
+Agent: She clearly raised you well. Is there anything else I can help you with today?
+Caller: I think that covers it. Thank you for the clear explanation of all my options. This has been very helpful.
+Agent: My pleasure, Ms. Bertrand. I'm sorry again for your loss. Please don't hesitate to call our estate services team with any follow-up questions. Take care.
+Caller: Thank you, Tom. Goodbye.
+Agent: Goodbye.

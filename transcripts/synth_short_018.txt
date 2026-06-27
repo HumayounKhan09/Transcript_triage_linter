@@ -1,0 +1,35 @@
+Agent: Thank you for calling Fairway Home Loans, this is Sandra. How can I help you?
+Caller: Hi Sandra. I'm just trying to confirm my interest rate. My wife and I were having a discussion about it and I want to make sure we have the right number.
+Agent: Of course. Let me bring up your account. Can I get your name?
+Caller: Derek Holloway.
+Agent: Thank you, Mr. Holloway. And the last four of your Social Security Number?
+Caller: 9934.
+Agent: And your property address?
+Caller: 555 Amber Ridge Drive, Sacramento, California 95814.
+Agent: Got it. I have your account. Your interest rate is 6.50%.
+Caller: 6.50. Okay. My wife thought it was 6.25 and I said 6.5. So I was right.
+Agent: You were right. 6.50% is your fixed interest rate.
+Caller: And it's definitely fixed? It won't change?
+Agent: Correct. Your loan is a 30-year fixed-rate mortgage. The rate of 6.50% will never change over the life of the loan.
+Caller: Good. I know some people got adjustable ones and their rates have been moving around. Ours isn't like that?
+Agent: No. Your loan is not an ARM — an adjustable rate mortgage. Your rate is fixed at 6.50% from origination to payoff.
+Caller: When did we originate? I want to check that too.
+Agent: Your loan originated on November 3rd, 2023.
+Caller: November 2023. Yeah, rates were around there then. We locked in a few weeks before closing.
+Agent: That's right. Rate locks helped a lot of borrowers secure rates before they moved further.
+Caller: I remember it was stressful. We locked at 6.5 and I kept watching rates hoping they'd drop before we closed.
+Agent: A lot of borrowers were in that situation. You still got a fair rate for the time.
+Caller: I know, I know. Now I'm wondering about refinancing. I've been seeing some ads. Is 6.5 still competitive?
+Agent: That's a great question. I can tell you what's on your loan, but I'm not able to provide current market rate quotes from this department. For refinancing information, I can transfer you to our loan origination team or you can contact a mortgage advisor.
+Caller: No, it's fine. I'm not ready to do anything, I was just curious. My brother-in-law refinanced last month and was bragging about his rate.
+Agent: Understandable. It's always worth monitoring, especially if you plan to stay in the home long term.
+Caller: We're definitely staying. We've got kids in school and everything. Okay, I have one more question. My wife also wants to know the exact monthly payment amount.
+Agent: Your current monthly payment is $1,896.44. That includes principal and interest of $1,580.17, plus escrow for taxes and insurance of $316.27.
+Caller: Okay. And that number, the $1,896.44, that won't change either? Unless escrow changes?
+Agent: Correct. The principal and interest portion of $1,580.17 is fixed. The escrow portion can adjust annually based on changes to your property taxes and insurance premiums.
+Caller: Right, that makes sense. Alright, I've got everything I need to win this argument.
+Agent: Sounds like you came prepared. Is there anything else I can help with?
+Caller: No, I'm good. Thanks Sandra.
+Agent: Of course. Thank you for calling Fairway Home Loans. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

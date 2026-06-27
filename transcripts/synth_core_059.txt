@@ -1,0 +1,44 @@
+Agent: Thank you for calling Pacific Coast Lending, this is Yuki. Can I get your loan number?
+Caller: It's 1108-774-52. My name is Andrea Volkov.
+Agent: Thank you, Ms. Volkov. Can you verify your Social Security last four and the property address?
+Caller: 2291, and the property is 3315 Sunset Canyon Road, San Diego, California 92116.
+Agent: Got your account. How can I help you today?
+Caller: I have an interest-only loan and I know that at some point the amortization period kicks in and my payments are going to go up significantly. I want to explore whether I can modify it before that happens.
+Agent: That's a very smart and proactive question, Ms. Volkov. A lot of borrowers wait until the payment shock hits and then call — you're getting ahead of it, which gives you many more options. Let me look at your loan details first.
+Caller: Please.
+Agent: I'm looking at your account. You have an interest-only period that runs through October 2026 — so you have approximately four months remaining in your IO period. Your current monthly payment covering only interest at your fixed rate of 5.875% on a balance of $412,500 is $2,021.48. When amortization begins November 2026, you'll be on a twenty-year amortizing schedule for the remaining term.
+Caller: Right. And what's my payment going to be in November?
+Agent: At your current balance and rate, your fully amortizing payment starting November 2026 would be approximately $3,018.00 per month. That's an increase of roughly $997 per month.
+Caller: Almost a thousand dollars more. Yes, that's what I was afraid of.
+Agent: It's a significant jump. The good news is that because you're current on the loan and you're coming to us proactively before the change hits, we can have a real conversation about options. Can you tell me a bit about your financial situation — do you have steady income and is your hardship more of a concern about the future payment versus a current inability to pay?
+Caller: I'm currently comfortable. My household income is around $145,000 a year. But $3,000 a month for a mortgage payment would stretch things pretty tight given other expenses.
+Agent: Understood. Let me walk you through your options. The first option is a loan modification. A modification changes the terms of your existing loan. In your case, the most relevant modification would be either extending the loan term to reduce the monthly amortizing payment, lowering the interest rate if possible, or converting from the interest-only structure to a longer amortizing term.
+Caller: Can you just extend the term?
+Agent: Potentially, yes. If your loan is extended from the current remaining term to a new thirty-year amortizing term at the same rate, your payment would drop considerably compared to the twenty-year schedule. Let me give you a rough estimate. On a balance of $412,500 at 5.875% over thirty years, your payment would be approximately $2,441.00 — that's about $580 more than you pay now, but $577 less than the twenty-year payment.
+Caller: That's more manageable. Is that something you can just do for me?
+Agent: It's not automatic — it requires a formal modification application and evaluation. For a standard modification, you'd need to demonstrate a financial need or hardship. Proactive modifications for payment shock are evaluated under certain investor guidelines. May I ask — is your loan conventional, and do you know if it's held by Fannie Mae or Freddie Mac?
+Caller: My original paperwork said it was sold to Fannie Mae.
+Agent: Perfect. Fannie Mae has a flex modification program that may work well here. One thing I should be transparent about — flex modifications are typically triggered by a delinquency or imminent default, meaning you'd need to demonstrate that the upcoming payment increase creates a genuine financial hardship that you cannot reasonably absorb. The payment shock from IO conversion can meet that threshold in some cases.
+Caller: So do I have to miss a payment to qualify?
+Agent: No, you don't have to miss a payment. Missing payments intentionally to qualify for a modification is not something I'd ever recommend — it would hurt your credit and create real risks. What you would need is documentation that the new payment would create what's called an "imminent default" situation — meaning you can demonstrate that within the next several months, the payment change would make the loan unaffordable relative to your income and expenses.
+Caller: Okay. Can I also look at refinancing instead?
+Agent: Absolutely. Refinancing is often the cleanest solution in a situation like yours. You're current, you appear to have substantial equity based on what you owe versus typical San Diego values, and your credit history appears clean on this account. A thirty-year fixed refi at current market rates — which are running around 6.75% to 7.1% right now for conventional loans — would give you a fully amortizing payment at a new rate.
+Caller: That's a higher rate than my current 5.875%.
+Agent: It is, and that's the tradeoff. If you refi, you give up your 5.875% rate but you get a thirty-year amortizing schedule. Your payment at 7% on $412,500 over thirty years would be approximately $2,745.00. That's still higher than your current IO payment but lower than your twenty-year amortizing payment, and you'd have a fixed rate with no future resets.
+Caller: So roughly the options are: refi at a higher rate but get thirty years fixed, or try to modify and hope we can extend the term, or just deal with the higher payment in November?
+Agent: That's a concise summary, yes. There's also a fourth option — making extra principal payments now over the next four months to reduce the balance before amortization starts. Every dollar you pay down now reduces the amortizing payment in November. Even an extra $10,000 applied to principal over the next four months would reduce the amortizing payment by about $65.00 per month.
+Caller: That's not enough to make a huge difference.
+Agent: No, not dramatically. But it's a supplement to any other strategy. Given your situation, I'd honestly say the modification application is worth pursuing because if approved it solves the problem with no transaction costs. The refi is also a solid path, especially if rates dip before November. If you want to keep your options open, apply for the modification now and simultaneously have a conversation with a mortgage broker about a refi.
+Caller: Can I start the modification application today?
+Agent: Yes. I'll open the application on your account. You'll need your two most recent pay stubs, last two months of bank statements, most recent tax return, and a hardship letter explaining that the IO-to-amortization transition will create financial hardship based on your household budget. The letter doesn't need to be long — a page or two outlining income, expenses, and the projected shortfall is sufficient.
+Caller: How long does the process take?
+Agent: Once we receive a complete application, thirty days for an initial evaluation under federal guidelines. However, modifications involving Fannie Mae loans can sometimes take longer — up to sixty days — if the loan needs to go to investor for approval.
+Caller: Okay. And if I'm denied, I still have the refi option?
+Agent: Absolutely. A modification denial doesn't affect your ability to refinance. The two processes are completely independent. If the modification is denied, you'd have the written denial letter and you could go straight to a lender for a refi.
+Caller: Alright. Let's get the application started.
+Agent: I'm flagging your account now. The application packet will be emailed to the address on file within twenty-four hours. Your reference number for today is MT-2026-004418.
+Caller: MT-2026-004418. Thank you, Yuki.
+Agent: Of course. Smart move getting ahead of this. Is there anything else?
+Caller: No, that covers it for today.
+Agent: Have a wonderful day. Goodbye.
+Caller: You too. Bye.

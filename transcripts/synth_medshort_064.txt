@@ -1,0 +1,50 @@
+Agent: Meridian Home Lending. This is Yuki. How can I help you today?
+Caller: Hi. My name is Rogelio Montoya. I need to get a certified copy of my mortgage note. I'm working with an attorney on an estate matter and she needs to see the original loan document. Can I get that from you?
+Agent: Absolutely, Rogelio. This is something we can assist with. Let me pull up your account first. Can I get your loan number?
+Caller: It's 5-5-9-4-3-3-7.
+Agent: And the property address?
+Caller: 3318 Hacienda Way, Albuquerque, New Mexico, 87108.
+Agent: And last four of your Social?
+Caller: 1-1-5-9.
+Agent: Thank you. I have your account. So you're requesting a certified copy of the promissory note. Let me explain how this works and what we can provide.
+Caller: My attorney said she needs to see the original note. Is that different from a certified copy?
+Agent: It is different, and this is an important distinction to understand before we proceed. The original promissory note — the physical paper document that was signed at closing — is a negotiable instrument. It was transferred along with your loan when it was sold, and it's typically held either by the loan investor or in a document custodian vault. We as the servicer don't physically hold the original in most cases.
+Caller: So you don't have it?
+Agent: We service your loan, meaning we handle payments and account management, but the original note is typically held by the investor or a custodian. However, what we can provide is a certified true and correct copy of the note, which is an exact reproduction of the original that we certify with a stamp or declaration that it's a true copy of the original document.
+Caller: Would that satisfy my attorney?
+Agent: For most legal purposes, a certified copy is accepted in lieu of the original. Courts, probate proceedings, and estate matters routinely accept certified copies. I'd suggest confirming with your attorney that a certified copy is acceptable, because depending on the specific legal proceeding, requirements can vary.
+Caller: Let me make a note to check with her. Assuming she accepts a certified copy, how do I get one from you?
+Agent: You'd submit a written request, which I can note on your account now. The certified copy request typically takes seven to ten business days to process. We'd mail the certified copy to your address of record, or if your attorney needs it sent directly to her office, we can do that with written authorization from you.
+Caller: Can it be sent to her email as a PDF?
+Agent: We can provide a digital certified copy in PDF format. There's a certification notation embedded in the document. Some legal proceedings require a hard copy with a physical seal, so again, confirm with your attorney.
+Caller: Is there a fee?
+Agent: Yes. There's a document retrieval fee for certified copies of loan documents. For the promissory note specifically, the fee is thirty-five dollars. If you want multiple documents — for example, the mortgage or deed of trust in addition to the note — each document has a separate fee.
+Caller: Does my attorney need the deed of trust as well? I'm not sure.
+Agent: For an estate matter, the attorney may want both. The promissory note is the borrower's promise to repay. The mortgage or deed of trust is the security instrument — the document that gives the lender rights in the property. Together they comprise the core loan documents. The deed of trust would also be thirty-five dollars, so both together would be seventy dollars.
+Caller: I'll check with her and come back if she needs both. For now let's do just the note.
+Agent: Understood. I'll initiate the request for the promissory note. The fee of thirty-five dollars will be charged to your loan account unless you prefer to pay another way.
+Caller: Can I pay it by credit card?
+Agent: We don't accept credit cards, but you can pay by check by phone from your bank account, which I can process right now.
+Caller: Let's do that. Routing is 1-0-7-0-0-5-1-6-7. Account number is 3-3-2-8-9-0-5-5-4.
+Agent: Routing 1-0-7-0-0-5-1-6-7, account 3-3-2-8-9-0-5-5-4. Thirty-five dollar fee for certified note copy. Is that correct?
+Caller: That's right.
+Agent: Payment processed. Your request reference number is DOC-4-4-6-7-2-3-0. Please reference that number if you call back to check on status.
+Caller: DOC-4-4-6-7-2-3-0. Got it. Should I give my attorney that number?
+Agent: Yes, it's a good reference number to have. If her office needs to contact us directly for any reason, that number will help our team pull up the request.
+Caller: How should the document be addressed? Should my name be on it or my attorney's name?
+Agent: The certified copy will be in your name as the borrower. If you'd like it addressed to her office, I can include a cover letter stating that it's being provided to your legal representative. What's her name and the firm name?
+Caller: Her name is Sandra Tran. The firm is Tran and Associates, but the document itself should be in my name.
+Agent: I'll note the cover letter should reference delivery to Sandra Tran at Tran and Associates, with you as the borrower and requester. That gives it proper context without altering the document itself.
+Caller: Perfect. And the email to send it to?
+Agent: Please provide that email and I'll include it in the request instructions.
+Caller: It's s-tran at tranassociateslaw dot com.
+Agent: Got it. S-tran at tranassociateslaw dot com. I'll specify electronic delivery as the preferred method with that email, and note that a hard copy should be available as a backup if needed.
+Caller: Thank you. Is there anything else I should know about this process?
+Agent: Just one thing — the document will show the original loan terms as they were at origination. If there have been any modifications or loan changes over the years, those would be separate documents. Your loan doesn't show any modifications, so the original note should reflect your current terms.
+Caller: Good to know. My loan has been straightforward — never modified anything.
+Agent: That's confirmed in your account. No modifications on file.
+Caller: Alright. Thank you, Yuki. This was very helpful.
+Agent: My pleasure, Rogelio. You'll receive the document within seven to ten business days. Don't hesitate to call back if you need the deed of trust or any other documents.
+Caller: Will do. Thanks again.
+Agent: Take care. Goodbye.
+Caller: Goodbye.

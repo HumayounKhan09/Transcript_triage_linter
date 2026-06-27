@@ -1,0 +1,76 @@
+Agent: Thank you for calling First National Mortgage Solutions, this is Maria, how can I help you today?
+Caller: Hi Maria, my name is Theresa Kowalczyk, loan number 739204. I've been on forbearance for about a year and a half and I got a letter saying it's ending next month and I have absolutely no idea what I'm supposed to do with $34,000 in missed payments.
+Agent: Theresa, I'm glad you called. Let me pull up your account. Can you verify your date of birth and the property address for me?
+Caller: April 12th, 1971, and the address is 3309 Fernwood Boulevard, Pittsburgh, Pennsylvania 15212.
+Agent: Perfect, I've got your account here. I can see you were placed on COVID forbearance in March of 2020 and it was extended several times through September of 2021. Your forbearance end date is October 15th, which gives us some time to work through this properly. The total forborne amount showing on my screen is $33,840.
+Caller: Yeah, that's basically eighteen months of my payment. My payment is $1,880 a month.
+Agent: That's correct — $1,880 principal and interest, plus your escrow of $410, so your full payment is $2,290 a month. I want to walk you through every option available to you at forbearance exit so you can make an informed decision. There are four main pathways and I want to explain each one thoroughly because they have very different implications for your financial situation. Is that okay?
+Caller: Yes, please. Because that letter they sent me made no sense.
+Agent: I completely understand. The letters are required by regulation but they're written in a way that's very difficult to parse. Let me use plain language. The four options are: reinstatement, repayment plan, deferral, and loan modification. I'm going to go through each one in detail.
+Caller: Okay, I'm ready. I have a notepad.
+Agent: Good. Option one is reinstatement. This means you pay the entire $33,840 in a single payment on or before October 15th. If you did that, your loan would be brought completely current, and from November onward you'd simply resume your regular $2,290 monthly payment as if the forbearance never happened.
+Caller: I definitely don't have $34,000 sitting around.
+Agent: Most people in your situation don't, and it's completely understandable. That's why there are three other options. But I'm required to present all four, and some borrowers do have access to savings or family loans, so it's worth mentioning.
+Caller: Right, okay. What's next?
+Agent: Option two is a repayment plan. Instead of paying it all at once, you'd pay it back in installments added on top of your regular payment. The way this works: your $33,840 would be divided over a period of months — typically twelve, eighteen, or twenty-four months — and that divided amount gets added to your normal monthly payment.
+Caller: How does that look in actual dollars?
+Agent: Great question. If we spread it over twelve months, you'd be paying an extra $2,820 per month on top of your regular $2,290. That's a total of $5,110 a month for twelve months.
+Caller: That's not even possible. I don't make that much take-home.
+Agent: Over eighteen months, it would be $1,880 added to $2,290, so $4,170 a month. Over twenty-four months, it would be $1,410 added, bringing your total to $3,700 a month.
+Caller: Even twenty-four months is a lot. Can you do longer?
+Agent: Some investors allow repayment plans up to thirty-six months, which would bring the added amount to about $940, making your total payment around $3,230. Your loan is backed by Freddie Mac, and Freddie Mac does allow extended repayment plans in hardship cases. However, I want to be transparent — repayment plans do not reduce what you owe. You still pay every penny of that $33,840. The only advantage is that you spread it out.
+Caller: Okay. So what's the third one?
+Agent: Option three is what's called a COVID deferral or payment deferral. I want to explain this carefully because it's often misunderstood. A deferral takes your $33,840 in missed payments and physically moves them to the back end of your loan. They become a non-interest-bearing balloon payment that isn't due until your loan matures, or until you sell or refinance the property.
+Caller: So it doesn't go away.
+Agent: Correct, it doesn't disappear. But here's what changes: your monthly payment from November onward would remain exactly $2,290 — the same as it was before the forbearance. You would not pay more per month. The $33,840 just sits at the back of your loan earning no interest, doing nothing, until the loan ends.
+Caller: When does my loan end?
+Agent: Your current maturity date is August 1, 2048. So if you pursued a deferral, that $33,840 would be added to a separate non-interest-bearing balance that becomes due in 2048, or whenever you sell or refinance.
+Caller: So if I sell the house, the buyer's proceeds have to cover that extra $33,000?
+Agent: The sale proceeds would need to cover your full payoff amount, which would include the regular outstanding principal — currently $196,700 — plus the deferred balance of $33,840. So total payoff would be approximately $230,540, plus any accrued fees.
+Caller: What's the house worth? Do you know?
+Agent: I don't have a current valuation in our system, but based on your purchase information on file, you bought in 2017 for $218,000. Pittsburgh real estate has generally appreciated. If you wanted, you could get a free estimate from a local realtor or use a public valuation site. That would help you understand your equity position.
+Caller: I've heard it's probably worth $260,000 to $270,000 now. My neighbor sold for $258,000 and her house is smaller than mine.
+Agent: That's promising. If accurate, you have meaningful equity and a deferral would be viable without putting you in an underwater position.
+Caller: Okay. So what's the fourth option?
+Agent: Option four is a loan modification. A modification permanently restructures the terms of your loan to create a new affordable payment. For Freddie Mac loans, the modification process typically involves capitalizing — meaning adding — the missed amounts into your new loan balance, and then the loan is re-amortized at a potentially lower rate or extended term to bring your payment down.
+Caller: What would my new balance be if they added the $33,840 onto it?
+Agent: Your new principal balance would be approximately $230,540. Then they would re-amortize that over a new term. If they extended your loan to a fresh thirty-year term, and if the rate stayed at your current 3.875%, your new payment would be approximately $1,084 per month for principal and interest.
+Caller: Oh my gosh, that's way less than $1,880.
+Agent: It is, but I want to make sure you understand why. By extending your term, you've reset the clock. You'd now be paying until 2051 instead of 2048, and over the life of that loan you'd pay substantially more in total interest. The monthly payment is lower, but the long-term cost is higher.
+Caller: How much more in interest are we talking?
+Agent: That's a great question and I want to give you an honest answer. Let me think through this approximately. Your original loan — at $196,700 remaining over 27 years at 3.875% — you'd pay roughly $101,000 in remaining interest. If we capitalize to $230,540 and extend to 30 years at 3.875%, you'd pay approximately $160,000 in interest over the new term. So the modification could cost you an additional $59,000 or so in interest over the full term.
+Caller: Wow. That's a lot.
+Agent: It is, and it's important to weigh that against the alternatives. If a repayment plan is unaffordable and creates hardship, a modification might still be the right answer even at that long-term cost. It depends on what you can actually sustain each month.
+Caller: Can I ask — can I choose between the deferral and the modification?
+Agent: You can express a preference, but eligibility is determined based on your financial situation, and the investor — in your case Freddie Mac — has specific qualification criteria. Deferral is generally simpler to qualify for if your income has returned to what it was before COVID. A modification requires a more complete financial review. Let me ask — are you currently employed?
+Caller: Yes, I'm back at work. I was a hospital administrator and I'm back full time. I make $71,400 a year, which works out to about $5,950 a month gross.
+Agent: And your current monthly obligations beyond the mortgage?
+Caller: Car payment is $423, student loans are $287, and I have a credit card I'm paying down, minimum is about $180. That's basically it.
+Agent: So your non-mortgage obligations are roughly $890 a month. Your income is $5,950 gross. If we assume net take-home of around $4,400 after taxes and retirement contributions, your total obligations with a $2,290 mortgage would be about $3,180. That's within manageable range.
+Caller: It's tight but I'm managing. I'm current again — I started making my regular payment in August.
+Agent: I see that on your account. You've made two payments since August, and they've been applied correctly. That's actually helpful for your deferral eligibility because it demonstrates your ability to resume regular payments.
+Caller: So which one do you think I should do?
+Agent: I can't make that decision for you, but I can tell you that based on what you've described — you're back to work, you're making your payment, you have equity in the home, and you don't want a higher monthly payment — the COVID deferral sounds like it aligns best with your situation. You'd retain your current rate, your payment stays the same, and the deferred amount doesn't accrue interest.
+Caller: What do I have to do to apply for it?
+Agent: For the deferral, because you're a COVID forbearance exit, the process is streamlined. You don't need to provide income documentation. You need to verbally confirm that your hardship was COVID-related — which it was — and confirm that you can resume your regular monthly payment.
+Caller: Yes, absolutely. My hardship was absolutely COVID-related. My hospital cut my hours by 40% for about fourteen months.
+Agent: I'm documenting that. Theresa Kowalczyk, COVID hardship — reduced income from April 2020 through June 2021 due to employer hour reductions resulting from the pandemic. Back to full employment as of July 2021. Two consecutive regular payments made. Requesting COVID deferral consideration.
+Caller: How long does it take to process?
+Agent: For COVID deferrals under the Freddie Mac program, processing typically takes ten to fifteen business days. You'll receive a deferral agreement in the mail that you need to sign and return. There's no fee. Once we receive the signed agreement, your account will be updated, the deferred balance will be separated into a subordinate non-interest-bearing balance, and your loan will show current.
+Caller: Will this affect my credit?
+Agent: Your credit has likely already been impacted by the forbearance period. In terms of new impact from the deferral itself, a deferral is typically not reported negatively once the account is brought current through the deferral agreement. I'd encourage you to check your credit report after the deferral is processed and contact us if anything looks incorrect.
+Caller: Okay. And I want to make sure I understand — after the deferral, I just keep paying $2,290 a month and that's it?
+Agent: That's correct. Your next payment of $2,290 would be due November 1st, and every month thereafter until your loan pays off or you sell or refinance. The $33,840 sits dormant at the back. The only time it becomes due is at payoff.
+Caller: Can I pay it off early voluntarily?
+Agent: Yes. There are no prepayment penalties on this loan, and you can send extra principal payments any time. You could designate a payment specifically to the deferred balance if you wanted to reduce it over time. The servicer's online portal allows you to designate extra payment applications.
+Caller: That's good to know. I might do that once things settle down a bit financially.
+Agent: That's a smart approach. Is there anything else you'd like me to clarify about any of the four options before I submit the deferral request?
+Caller: Just one more thing — I want to make sure I don't have to do anything with the modification. Like they won't just automatically do that instead of the deferral, right?
+Agent: No. We will process exactly what you request, and I'll notate the account that you are specifically requesting a COVID deferral and declining the modification. Nothing will happen without your signed agreement, and the agreement will clearly state the terms.
+Caller: Great. That makes me feel a lot better. This has been so stressful. I couldn't sleep last night after I got that letter.
+Agent: I completely understand. Forbearance exit is one of the most stressful transitions in homeownership because the letters don't explain it well and the stakes feel enormous. You've made the right choice by calling and asking questions. Is there anything else I can help you with today?
+Caller: No, I think I've got everything I need. Thank you so much, Maria. You've been incredibly helpful.
+Agent: It's been my pleasure, Theresa. You should see the deferral agreement in the mail within five to seven business days. Our reference number for this call is 77-2840. Is there anything else at all?
+Caller: No, that's everything. Thank you again.
+Agent: Thank you for calling, and take care. Goodbye.
+Caller: Goodbye.

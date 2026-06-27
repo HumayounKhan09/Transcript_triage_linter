@@ -1,0 +1,44 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Fatima. How can I help you today?
+Caller: Hi, I'm calling because I think I've been overcharged on my escrow account, and I want to know what my rights are. My name is Dennis Whitfield.
+Agent: Hi Mr. Whitfield, I'm sorry to hear you're having a concern with your escrow account. I'm happy to look into this with you. Let me first verify your identity. Can you give me the property address on your loan?
+Caller: Yes, it's 509 Elm Street, Columbus, Ohio, 43205.
+Agent: Thank you. Last four of your Social Security number?
+Caller: 3317.
+Agent: Date of birth?
+Caller: April 29th, 1964.
+Agent: Thank you, Mr. Whitfield. I have your account up. Can you tell me more about what you noticed? What makes you believe you were overcharged?
+Caller: I got my annual escrow analysis statement in January, and it showed my monthly payment was going up by $184. But I looked at my actual tax bill and my insurance premium and added them up myself, and the amount they're projecting doesn't match what I calculated. It seems like they're holding way more than they need to.
+Agent: I understand, and escrow analysis disputes are actually something we take seriously. Let me pull up the escrow analysis that was sent to you. Can you tell me roughly when you received the statement?
+Caller: It came in the mail around January 12th.
+Agent: Okay, I have the January analysis on screen. Can you walk me through your calculation? What did you come up with for the annual tax amount?
+Caller: My county tax bill is $3,240 per year. My homeowner's insurance renews in March and it's $1,188 per year. So combined that's $4,428 annually. Divided by twelve, that's $369 a month. But my new payment shows an escrow portion of $521 a month. That's $152 more than I calculated.
+Agent: That's a meaningful discrepancy and worth investigating. Let me look at what our analysis used for both figures. On your account, I'm seeing the property tax projection is $3,240 — that matches your figure. But the insurance projection is showing $2,244 for the year. That's significantly higher than your number.
+Caller: That's wrong. Where are they getting $2,244?
+Agent: That's a great question. Let me look at the insurance records on file. I'm seeing that we received an insurance declaration page — but it looks like it might be from a different policy period. Can I ask — did you switch insurance companies or change your policy in the last year?
+Caller: I switched companies about fourteen months ago to get a better rate. But I sent you the new declaration page when I switched.
+Agent: It's possible there was a processing issue and we may have an old premium on file that was higher than your current one. The new carrier's premium is $1,188?
+Caller: Yes. I have the declaration page right here if you need me to send it again.
+Agent: That would be very helpful. If we're using an incorrect premium, that would explain the overage in your escrow projection. I want to be transparent with you, Mr. Whitfield — if an error was made, you're entitled to a corrected escrow analysis and your monthly payment should be recalculated.
+Caller: What are my rights here exactly? I've been reading about RESPA and it says there are rules about how much extra they can hold.
+Agent: You're absolutely right. Under RESPA — the Real Estate Settlement Procedures Act — a servicer can only maintain an escrow cushion of up to two months' worth of escrow payments above what's actually needed to pay the bills when they come due. If our analysis overstated your insurance premium, we may have a cushion that exceeds that two-month limit.
+Caller: So what happens if you are holding too much?
+Agent: If we determine there's an escrow overage beyond the allowable cushion, we're required to refund it to you. You would receive a refund check for the excess amount, and your monthly payment would be recalculated downward.
+Caller: And is there a formal process for disputing this?
+Agent: Yes. You can submit a written notice of error to us — that's a protected process under RESPA. Once we receive a written notice of error related to escrow, we have five business days to acknowledge it and sixty business days to investigate and respond. During that time, we cannot report the disputed amount as delinquent.
+Caller: Okay. Should I send that now or should we see if we can resolve this on this call?
+Agent: Let me try to take the first step right now. If you can send or upload the current insurance declaration page showing the $1,188 premium, I can flag your account for an escrow reanalysis. In many cases, we can correct an escrow error without a formal dispute if the documentation supports it.
+Caller: Okay, I can fax or upload it. Which is faster?
+Agent: Uploading through our secure document portal is typically faster. It should appear in our system within one to two business days. Once your account is updated with the correct premium, the reanalysis typically takes seven to ten business days. If the corrected payment amount drops, we'll send you a new statement.
+Caller: And in the meantime, should I pay the higher amount or the amount I calculated?
+Agent: I'd recommend continuing to pay the amount shown on your statement for now, to avoid any potential delinquency. If a refund is owed after the reanalysis, it will be applied to your account or sent to you directly. I know that's frustrating when you believe the amount is wrong, but it protects your account standing.
+Caller: Alright, I understand. And if I'm not satisfied with how you handle the reanalysis, can I escalate?
+Agent: Absolutely. You can submit a formal written notice of error and we're obligated to respond within the RESPA timeframes I mentioned. You can also file a complaint with the Consumer Financial Protection Bureau if you feel your concern wasn't adequately addressed.
+Caller: Good to know. Let's start with the document upload and see what happens.
+Agent: That sounds like the right approach. When you upload, note in the comments that it's for an escrow reanalysis and reference your loan number. Would you like your loan number?
+Caller: Yes please.
+Agent: Your loan number is 4-0-0-5-9-3-1-1-7.
+Caller: Got it. Thank you Fatima. You've been really helpful.
+Agent: You're welcome. I'm sorry for the inconvenience, and I hope we can get this resolved quickly. Is there anything else I can help you with today?
+Caller: No, that's all I needed.
+Agent: Thank you for calling Meridian Mortgage, Mr. Whitfield. Have a good day.
+Caller: You too. Bye.

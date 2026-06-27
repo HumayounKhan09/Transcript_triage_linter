@@ -1,0 +1,43 @@
+Agent: Thank you for calling Federal Mortgage Solutions, this is Sarah. How can I help you today?
+Caller: Hi Sarah, this is Calvin Abernathy. I have an FHA loan with you and I've been hearing about something called a streamline refinance. I want to find out if I qualify and what the process looks like.
+Agent: Hi Calvin, great topic. FHA streamline refinances are one of the more borrower-friendly options in the mortgage world. Let me pull up your account so I can give you specific information. What's your loan number?
+Caller: It's 2254-8876-G.
+Agent: Thank you. One moment. Okay, Calvin Abernathy, FHA loan, 30-year fixed at 6.875 percent, originated February 2024, current balance $261,400. You're about 28 months in. Let me go through the eligibility requirements for FHA streamline.
+Caller: Please.
+Agent: The first requirement is that at least 210 days must have passed since your first payment due date. Your first payment was April 1st, 2024, and today is June 27th, 2026 — that's approximately 27 months, or about 820 days. You easily satisfy the seasoning requirement.
+Caller: Good. What else?
+Agent: The second requirement is payment history. You must have made at least six payments on the loan, and you can't have any 30-day or greater late payments in the past 12 months. Looking at your payment history — I can see 28 consecutive on-time payments. You satisfy this requirement.
+Caller: Great. I've been very careful about that.
+Agent: It shows. Third, the refinance must result in a net tangible benefit to you. For FHA streamline, this typically means your new interest rate plus MIP — that's mortgage insurance premium — must be at least 0.5 percent lower than your current rate plus MIP. This is the most important test.
+Caller: My current rate is 6.875. What are current FHA streamline rates?
+Agent: Current FHA rates for a streamline refinance are approximately 6.25 percent for a 30-year term, depending on your credit and the specific lender. Now, let me calculate the net tangible benefit. Your current rate is 6.875 and your current annual MIP rate is 0.55 percent based on your loan term and LTV. So your combined rate is 7.425 percent.
+Caller: And at the new rate?
+Agent: At 6.25 with the same 0.55 MIP, your combined rate would be 6.80. The difference is 0.625 percent, which exceeds the 0.5 percent threshold. You pass the net tangible benefit test.
+Caller: So I could potentially get 6.25 instead of 6.875. What does that mean for my payment?
+Agent: Your current principal and interest at 6.875 on $261,400 is roughly $1,718 per month. At 6.25, your new payment would be approximately $1,610. That's about $108 per month in savings, or $1,296 per year.
+Caller: That's real money. Now what makes it a streamline? Why is it easier than a regular refinance?
+Agent: FHA streamline refinances have significantly reduced documentation and underwriting requirements. There's no new appraisal required — the FHA doesn't require you to establish a new value for the home. There's no income verification in most cases. No employment verification, no new debt-to-income calculation. The lender essentially just verifies your identity, your payment history, and that the loan meets FHA guidelines.
+Caller: No income verification? So it doesn't matter if my income has changed since I got the loan?
+Agent: For a non-credit-qualifying streamline, that's correct. However, I should clarify — there are two types. A non-credit-qualifying streamline requires no credit check, no income, minimal documentation. A credit-qualifying streamline does require credit review and income verification but still skips the appraisal. Lenders may require the credit-qualifying version depending on their overlays.
+Caller: What would trigger the credit-qualifying version?
+Agent: If you want to remove a co-borrower from the loan, or if the lender's guidelines require it based on their own risk criteria. If you're staying with the same borrowers and your servicer offers non-credit-qualifying, you'd avoid that extra documentation.
+Caller: I'm the only borrower so that's not an issue. Are there closing costs involved?
+Agent: Yes, there are closing costs. FHA streamlines are not free to execute. Typical costs include lender fees, title costs, and government recording fees — usually in the range of $2,000 to $4,500. However, you can generally roll those costs into the new loan balance, so you don't need cash at closing.
+Caller: If I roll in $3,500 in costs, my new balance would be $264,900?
+Agent: Approximately, yes. And at 6.25 percent your new payment on $264,900 would be roughly $1,631, which is still about $87 per month less than your current payment despite the higher balance.
+Caller: That still saves me money every month.
+Agent: It does, and with no cash out of pocket. Your break-even is essentially immediate if you're not paying closing costs upfront.
+Caller: What about the upfront mortgage insurance premium? I thought FHA loans require that.
+Agent: Good catch. For an FHA streamline refinance, there is a reduced upfront MIP of 0.01 percent of the loan amount rather than the standard 1.75 percent. On a $261,400 balance, that's only about $26. And because you're refinancing within five years and have already paid upfront MIP on your current loan, you may receive a credit for the unused portion of your original upfront MIP, which could offset the new upfront MIP entirely.
+Caller: That's a meaningful benefit. So realistically my costs could be lower than a standard refinance.
+Agent: Significantly lower, yes. That's the primary appeal of the FHA streamline program.
+Caller: How do I get started?
+Agent: You can start right here with us since we're your current servicer, which often simplifies things further. I'd transfer you to our refinance department to speak with a loan officer who can pull current rates, give you a formal loan estimate, and start your application. Alternatively, you can shop other FHA-approved lenders for comparison.
+Caller: Is there an advantage to staying with you versus going elsewhere?
+Agent: Some servicers offer current customers a reduced fee structure. We do offer what's called a portfolio streamline option that waives certain lender fees for existing customers. Your loan officer can confirm the specific terms. It's worth at least getting a quote here before shopping externally.
+Caller: Let's do that. Can you transfer me to the refinance team?
+Agent: Absolutely. Before I do, let me note in your account that you called June 27th, 2026, regarding FHA streamline eligibility, that you meet all primary requirements, and that you want to speak with a loan officer about proceeding. Is there anything else before I transfer?
+Caller: I think that covers it. Thank you for walking me through everything, Sarah.
+Agent: My pleasure, Calvin. Please hold while I transfer you to our refinance team. They'll take excellent care of you.
+Caller: Thank you very much.
+Agent: Of course. One moment.

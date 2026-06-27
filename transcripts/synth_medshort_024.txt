@@ -1,0 +1,42 @@
+Agent: Thank you for calling Heartland Mortgage Services, this is Jennifer speaking. How can I help you today?
+Caller: Hi Jennifer. My name is Monique Laurent. I want to see if it's possible to change my payment due date. My mortgage is due on the first but I get paid on the fifteenth. Every month I'm scrambling to transfer money in time.
+Agent: Hi Monique. That's actually a fairly common situation and I'd be happy to look into that for you. Let me pull up your account. Can I get your property address and the last four of your Social Security number?
+Caller: Sure. It's 3312 Foxborough Drive, Memphis, Tennessee 38117. Social last four is 5571.
+Agent: Thank you. And the last four of the loan number?
+Caller: 8826.
+Agent: Got it. I have your account. Now I want to set proper expectations before we go through the process. Payment due date changes are available on certain loan types, but there are some conditions and a process involved.
+Caller: What kind of conditions?
+Agent: First, your account needs to be current with no outstanding late fees or delinquency. Looking at your account, you're in good standing, so that's fine. Second, due date changes are typically limited to a range of the first through the fifteenth of the month. You can't move a due date to say the twentieth or the twenty-fifth, because lenders are required to report payments past 30 days late to credit bureaus, and a due date later in the month creates less buffer.
+Caller: Okay, so I could move it to the fifteenth?
+Agent: The fifteenth is the latest we can move it to, yes. Would that work for you?
+Caller: That would be perfect. My direct deposit hits on the fifteenth and I could set up autopay the same day.
+Agent: That's a good plan. Now let me explain how the due date change process works and what to expect financially.
+Caller: Okay.
+Agent: When we change your due date from the first to the fifteenth, there is a transition month to account for. For example, if we process this today and your next due date becomes July 15th, you'd have an extended period between your last payment on June 1st and the new July 15th due date. That's about 45 days instead of the usual 30.
+Caller: Does that mean I get a longer gap without paying?
+Agent: You get a longer gap, but interest accrues daily. So the extra 15 days of interest for that transition period would typically be added to your loan balance or collected as part of your first payment at the new due date. The exact method depends on how we process it.
+Caller: How much would that extra interest be approximately?
+Agent: Let me calculate. Your current balance is approximately $187,000 and your rate is 4.875%. Your daily interest is approximately $24.93. Fifteen extra days would be about $374. That might be collected as part of your first payment at the new due date, which would make that payment slightly higher.
+Caller: That's not bad. I can handle that.
+Agent: Good. Now, do you want to go ahead and formally request the due date change? It requires a written request from you.
+Caller: Can I do that over the phone?
+Agent: You can initiate it verbally and I'll submit the request on your behalf. However, we'll also need you to sign and return a due date change agreement, which we'll mail or email to you. The change won't take effect until we receive the signed agreement back.
+Caller: How long does that take?
+Agent: Once you sign and return the agreement, we can typically process the change within 5 to 10 business days. I'd recommend returning it promptly so it's in place before your next billing cycle.
+Caller: Can you email the form to me?
+Agent: Absolutely. What's your email address?
+Caller: It's mlaurent1983 at yahoo dot com.
+Agent: Got it. Mlaurent1983 at yahoo.com. I'll submit the request and the agreement will be emailed to you within two business days.
+Caller: Now if I do this, what happens to my autopay? I have autopay on the first.
+Agent: Your autopay will need to be updated to reflect the new draft date. Once the due date change is confirmed, I'd recommend calling back to update the autopay draft date from the first to the fifteenth. Or you can do it online in the payment settings.
+Caller: Can you just do that automatically when you change the due date?
+Agent: Our system requires the autopay update to be done separately as a distinct request. But once you call back to confirm the due date change took effect, we can update the autopay at the same time.
+Caller: Understood. So my action items are to sign the form, send it back, then call you to confirm and update autopay?
+Agent: Exactly. Or you can update the autopay through the online portal once you confirm the due date is active.
+Caller: Very clear. I'll watch for that email and turn it around quickly. This is going to make my life so much easier every month.
+Agent: I'm glad we can help. A due date that aligns with your pay schedule makes budgeting so much simpler.
+Caller: Thank you so much, Jennifer. Very helpful as always.
+Agent: My pleasure. Is there anything else I can assist with today, Monique?
+Caller: No, that does it. Thanks again.
+Agent: You're welcome. Have a wonderful day. Goodbye.
+Caller: Goodbye.

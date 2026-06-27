@@ -1,0 +1,46 @@
+Agent: Thank you for calling Cornerstone Mortgage Servicing, this is Kevin. Can I get your loan number?
+Caller: Yeah. 774562. Name is Antoine Brewer.
+Agent: Thank you, Mr. Brewer. And property address and last four of Social?
+Caller: 1804 Magnolia Street, Detroit, Michigan. Last four is 8847.
+Agent: I have your account. Mr. Brewer, I can see there's a significant past-due balance on this loan. I want to help you understand your options. What brought you to call today?
+Caller: I got a letter last week. It said — it said something about being referred for foreclosure proceedings. I've been behind on payments. I lost my restaurant business during COVID, and I've been trying to catch up but I haven't been able to. I need to know what's actually going to happen and if there's anything I can do.
+Agent: Mr. Brewer, I appreciate you calling in, and I know receiving a letter like that is terrifying. I want to be completely honest with you about where things stand and what options remain. Let me look at the account details. Your loan balance is $156,800, your monthly payment is $1,203, and according to our records, you're 120 days past due — four missed payments totaling $4,812, plus accrued late fees of $180.75. Your account was referred to our foreclosure department on June 10th. Is that the letter you received?
+Caller: Yeah. June 10th referral, it said.
+Agent: Okay. I want to explain exactly what that means, because referral to the foreclosure department is not the same as a foreclosure filing. It means the file is in review with that department, but at this point — today — a lawsuit has not been filed in court. There is still time to intervene. But time is short and I have to be honest with you about that.
+Caller: How much time?
+Agent: In Michigan, foreclosure is done by advertisement — what they call foreclosure by advertisement — not always through the court system. That process can begin with a notice published in a local newspaper once a week for four consecutive weeks. The earliest a sheriff's sale — that's the actual auction date — can be scheduled is six weeks after the first publication of notice. And right now, we have not yet published the notice. So from today, if we do nothing, publication could begin as soon as next week, which would put a potential sheriff's sale out about 10 weeks from now.
+Caller: Ten weeks. That's — that's not much time.
+Agent: It's not. But I want to be clear — as long as you are in active review for loss mitigation and have submitted a complete hardship application, we are required to pause the foreclosure process. That's a federal requirement under CFPB guidelines — we cannot dual-track a complete loss mitigation application with an active foreclosure. So submitting an application today buys you time and stops the clock.
+Caller: But what if I can't qualify for anything? What if they deny me?
+Agent: That's the harder conversation, and I want to give it to you straight. Before I go there — let me ask about your current situation. You mentioned losing the restaurant. What does your income look like now?
+Caller: I've been doing delivery driving — DoorDash, Instacart. I'm making about $2,100 a month gross after expenses. It's not regular, it varies week to week.
+Agent: Okay. $2,100 a month in gig income. Your mortgage payment is $1,203. That's a housing-to-income ratio of 57%, which is very high — normal guidelines are around 31% to 38%. That means a traditional loan modification trying to get you to a standard payment would struggle given your current income.
+Caller: So they'd deny a modification?
+Agent: Not necessarily. There are modification programs that target specific debt-to-income thresholds, and gig income is documented differently — they'd look at an average of your monthly deposits over 12 months. But I want to be realistic — with $2,100 gross, even a modified payment might be challenging to sustain. That said, some modifications extend terms to 40 years, which significantly reduces payments. Let me show you numbers. If we extended your loan to 40 years and modified the rate to, say, 6%, your payment on the $156,800 balance would drop to approximately $873 per month. That would bring your housing ratio to 42% — still high but within some modification program tolerances.
+Caller: That would actually be manageable. I'd be able to do $873.
+Agent: Then it's worth applying. I want to also tell you about another option — a partial claim, if this is an FHA loan. Let me check. Yes — your loan is an FHA loan. That changes some of what's available to you.
+Caller: What's a partial claim?
+Agent: An FHA partial claim is a no-interest, no-payment second lien from HUD — the Department of Housing and Urban Development — that covers your missed payments. You essentially borrow from HUD to bring your loan current, and that partial claim amount doesn't have to be repaid until you sell, refinance, or pay off the first mortgage. So your $4,812 in missed payments plus applicable fees could be covered by a partial claim, bringing you current, and then your regular payment resumes.
+Caller: So I wouldn't have to pay back the $4,812 right now?
+Agent: Not right now. It goes to the back as a lien. For borrowers with stable gig income who are just behind on arrears, this is often the most workable option. The eligibility requirements are that the hardship has been resolved or is resolving — and going from restaurant owner to steady gig income could meet that — and that you're able to sustain the regular payment going forward.
+Caller: And if I got the partial claim, my payment goes back to $1,203?
+Agent: Yes. Back to regular $1,203. But if the regular payment is still too high for your income, you could pursue a combination — partial claim to cover the arrears, and a modification to reduce the ongoing payment. That's called an FHA combo modification. It's the most comprehensive option but also has the most eligibility requirements.
+Caller: I feel like I should have called months ago.
+Agent: I wish you had too, but I understand — people avoid bad news. What matters is you called now while we still have options. Let me tell you what we need to do immediately. I'm going to initiate a loss mitigation application right now on your account. This will pause the foreclosure referral process. You'll receive a hardship packet in your portal or by mail within 3 to 5 days.
+Caller: What do I need to send in?
+Agent: For an FHA loss mitigation application, you need: a completed Form 710 — the borrower assistance form — your last three months of bank statements showing DoorDash and Instacart deposits, documentation of your gig income such as tax forms or earnings statements from the platforms, your most recent tax return — 2023 — and a hardship letter explaining the restaurant closure and your transition to gig work. The clearer and more specific the hardship letter, the better.
+Caller: I can write a letter. I have records of everything.
+Agent: Good. Turnaround for an FHA application is typically 30 days for us to make a decision after receiving the complete package. During those 30 days, foreclosure proceedings cannot advance. So submitting quickly is critical.
+Caller: And if they deny me — then what?
+Agent: If all modification options are denied, we'd discuss non-retention options — meaning options that don't keep you in the home but may protect your credit and finances better than foreclosure. A short sale, where we agree to accept less than the loan balance from a buyer. Or a deed in lieu of foreclosure, where you voluntarily transfer the title to us. Both are less damaging to your credit than a completed foreclosure and may also come with relocation assistance — up to $3,000 in some FHA programs.
+Caller: I really want to keep the house. My kids grew up in that house.
+Agent: I understand, and the application is the right first step. Let me initiate it right now. Your reference number is 9903-ABR-FCL. Is the email on file the best way to send you portal access instructions?
+Caller: I don't know what email is on file.
+Agent: We have antoinebrewer1972 at yahoo dot com.
+Caller: Yeah, that's right.
+Agent: I'm sending you portal access and the application instructions right now. Please log in and submit as quickly as possible — every day matters at this stage.
+Caller: I'll do it tonight. I promise.
+Agent: Good. And if you have any questions while filling it out, call back and reference that number. We'll know exactly where you are in the process.
+Caller: Thank you, Kevin. I really appreciate that you didn't just read me a script.
+Agent: This is somebody's home we're talking about. Take care, Mr. Brewer. Don't wait on that application.
+Caller: I won't. Thank you.

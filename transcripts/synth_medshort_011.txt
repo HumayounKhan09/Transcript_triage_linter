@@ -1,0 +1,42 @@
+Agent: Thank you for calling Meridian Home Loans, this is Jennifer speaking. How can I assist you today?
+Caller: Hi Jennifer. I've heard that if you make bi-weekly payments instead of monthly payments you can pay off your mortgage faster. I'd like to look into doing that.
+Agent: That's a great financial strategy, and I'd be happy to explain how our bi-weekly program works. Let me pull up your account first. Can I get your name and property address?
+Caller: Sure. My name is Gloria Sampson. The address is 2281 Birch Creek Drive, Charlotte, North Carolina 28277.
+Agent: Thank you, Gloria. And the last four of your Social?
+Caller: 9921.
+Agent: And last four of the loan number?
+Caller: 3344.
+Agent: Perfect. I've got your account here. Now let me explain how the bi-weekly program works because there are some important details. With a bi-weekly payment program, instead of making one full payment per month, you make half your regular payment every two weeks. Because there are 52 weeks in a year, you end up making 26 half-payments, which equals 13 full monthly payments instead of 12.
+Caller: Right, that extra payment goes toward principal and that's what shortens the loan?
+Agent: Exactly. That extra annual payment goes entirely to principal reduction, which reduces the amount interest accrues on, which accelerates your payoff timeline considerably.
+Caller: How much faster would I pay off my loan?
+Agent: Let me look at your loan details. Your original loan amount was $310,000 at 6.25% on a 30-year term, originated in January 2022. Your current balance is approximately $298,400. With standard monthly payments you'd pay off the loan around January 2052. With a bi-weekly program, you'd reduce that by approximately five years and two months, so you'd pay off around November 2046.
+Caller: Five years less and I save all that interest?
+Agent: The interest savings over the life of the loan would be approximately $52,000 based on your current rate and balance.
+Caller: That's incredible. Why doesn't everyone do this?
+Agent: It really is a powerful strategy. Some people prefer the flexibility of monthly payments, and some lenders charge fees to participate, which offsets the benefit.
+Caller: Do you charge a fee?
+Agent: Yes, there is a one-time enrollment fee of $295 for our bi-weekly program. Once enrolled, there are no ongoing monthly fees.
+Caller: Is that worth it given the savings?
+Agent: Based on your numbers, you'd save approximately $52,000 in interest and cut five-plus years off your loan. A one-time $295 enrollment fee pays for itself very quickly.
+Caller: Agreed. Now, how does the drafting work? Does it come out of my bank account every two weeks?
+Agent: Yes, exactly. We draft half your payment of $1,904, so $952 every two weeks, from your checking or savings account via ACH. The payments process on a consistent bi-weekly schedule starting from your enrollment date.
+Caller: What if I get paid monthly and my account has a low balance in the middle of the month before payday?
+Agent: That's a common concern. You'd want to make sure you have a buffer in your account to handle the mid-month draft. Alternatively, some customers with monthly pay schedules choose to keep a running buffer of about one half-payment in their account at all times.
+Caller: What if I can't make one of the drafts? Like if something unexpected happens?
+Agent: If a draft is returned for insufficient funds, a returned payment fee applies. You could also call us at least three business days before a scheduled draft to pause it for that cycle. We allow a limited number of suspensions per year.
+Caller: Okay, that's good to know. How do I enroll?
+Agent: I can get the process started right now. I'll need your bank routing number and account number, and you can pay the enrollment fee by phone today. Or you can enroll online through our borrower portal.
+Caller: Let's do it by phone. I have my checkbook here. Routing is 053100300. Account is 7748201634. Checking.
+Agent: Thank you. And the enrollment fee of $295 — would you like that drafted from the same account?
+Caller: Yes, that works.
+Agent: Great. I'm submitting the enrollment now. Your first bi-weekly draft will begin on the next scheduled date after processing is complete, which is typically ten to fifteen business days from today. You'll receive a welcome letter with your specific draft schedule.
+Caller: And I'll get confirmation in writing?
+Agent: Yes, you'll receive a bi-weekly program confirmation letter by mail within seven to ten business days detailing your draft amounts, schedule, and enrollment terms.
+Caller: This feels like a really smart move. I'm glad I called.
+Agent: It's a great choice. At your current balance and rate, you're well positioned to benefit significantly from this program.
+Caller: Thank you so much, Jennifer. Very helpful.
+Agent: My pleasure, Gloria. Is there anything else I can help you with today?
+Caller: No, I'm all set. Thanks again.
+Agent: Have a wonderful day. Goodbye.
+Caller: Goodbye.

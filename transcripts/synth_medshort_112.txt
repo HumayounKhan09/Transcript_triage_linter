@@ -1,0 +1,39 @@
+Agent: Thank you for calling Allied Mortgage Servicing, this is Brandon. How can I help you today?
+Caller: Hi Brandon, my name is Felicia Hartman. I'm going through a divorce and my attorney is asking whether my mortgage is a Qualified Mortgage and I don't know what that means. Can you help?
+Agent: Hi Ms. Hartman, I can help explain what a Qualified Mortgage is and look into your loan. Let me pull up your account first. Can I get your loan number?
+Caller: It's 3301-4422.
+Agent: And the property address?
+Caller: 56 Crescent Hill Road, Knoxville, Tennessee, 37919.
+Agent: And last four of your Social?
+Caller: 8891.
+Agent: Thank you. I've got your account. And while I look at your loan details, let me explain what a Qualified Mortgage is.
+Caller: Please, because I've never heard that term before.
+Agent: QM, or Qualified Mortgage, is a category of mortgage loans defined by the Consumer Financial Protection Bureau under rules that came out of the Dodd-Frank Act following the 2008 financial crisis. The rules were designed to ensure lenders verify that borrowers have the ability to repay their loans.
+Caller: So it's about whether they checked my income?
+Agent: Partly. A Qualified Mortgage has several criteria. The lender must verify your income, assets, and debts. The loan can't have certain risky features like negative amortization, interest-only periods beyond a certain point, or balloon payments in most cases. And the term can't exceed thirty years. There's also a points and fees cap.
+Caller: What's the points and fees cap?
+Agent: For most loans, the total points and fees at origination can't exceed three percent of the loan amount to be a QM. There are some exceptions for smaller loan amounts.
+Caller: And why does my attorney care about this?
+Agent: In a divorce, one party may be assuming the loan or you may be refinancing. The QM status can matter because it gives you certain consumer protections. If a lender makes a QM loan that meets all the requirements, there's a presumption — sometimes conclusive, sometimes rebuttable — that the lender complied with the ability-to-repay requirements. This protects borrowers in certain legal proceedings.
+Caller: So if I wanted to sue the lender for not checking my ability to repay, QM status matters?
+Agent: Exactly. If your loan is a QM, the lender has a legal safe harbor or at least a presumption of compliance. If it's not a QM, the lender's compliance is more easily challenged. Your attorney may be exploring all angles related to your mortgage situation in the divorce.
+Caller: Okay. So is my loan a QM?
+Agent: Let me look at the origination documentation in your file. Your loan was originated in 2021 under the revised QM rules that took effect in March of that year. Your loan is documented as a Qualified Mortgage — specifically a General QM based on the product type.
+Caller: What does General QM mean?
+Agent: There are different QM categories. General QM is the standard category where the lender verified your income and assets using documentation, the loan has no prohibited features, the term is thirty years or less, and points and fees are within the cap. Starting in 2021, the CFPB also replaced the old debt-to-income limit with a price-based approach, meaning the rate can't exceed a certain spread above the Average Prime Offer Rate.
+Caller: My loan has a fixed rate, no funny features. It's pretty standard.
+Agent: Which is consistent with a General QM classification. Your loan shows a note rate of 3.875 percent, thirty-year fixed, no balloon, no interest-only period, standard amortization. It fits all the QM criteria as documented.
+Caller: Is there a document I can give my attorney proving it's a QM?
+Agent: The QM designation isn't typically on a single document the way your note or deed of trust is. However, your attorney may be interested in the closing disclosure, which shows the fees and terms, and may want to consult the origination file to confirm the ability-to-repay documentation. We can provide certified copies of your loan documents to you or to an authorized party.
+Caller: Would I need to provide a written authorization for my attorney to get those?
+Agent: Yes, we'd need a signed borrower authorization or a court order to release documents to a third party. If you want to provide them directly to your attorney, you can request copies yourself and share them.
+Caller: Can I request copies online?
+Agent: You can request them through the portal under Document Requests. For legal proceedings, some attorneys prefer certified copies with a cover letter from the servicer, which you'd need to request formally in writing or by calling back and completing a document request form.
+Caller: I'll have my attorney advise on what format they need.
+Agent: That's the right approach. They may have a preferred process. Is there anything else I can help you with today?
+Caller: Actually, yes. Is there anything about QM status that affects whether my ex-spouse can assume the loan?
+Agent: Loan assumption is a separate process from QM. Whether your loan is assumable depends on your loan type. Conventional loans are generally not assumable. FHA and VA loans are generally assumable with lender approval. Your loan is a conventional loan, so assumption would not typically be permitted.
+Caller: So if I want to take the house in the divorce settlement and keep the loan, I'd have to refinance?
+Agent: In most cases with a conventional loan, yes. Your attorney and a loan officer can advise on the specific steps. Is there anything else you need today?
+Caller: No, that covers what I needed. Thank you for walking me through all of this.
+Agent: Of course. I hope everything goes smoothly, Ms. Hartman. Take care.

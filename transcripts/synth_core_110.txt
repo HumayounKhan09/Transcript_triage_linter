@@ -1,0 +1,46 @@
+Agent: Thank you for calling Veterans United Servicing. This is Jessica. May I have your name and loan number?
+Caller: Hi. My name is Marcus Webb. Loan number is 9-2-0-4-1-7-8.
+Agent: Thank you, Mr. Webb. I'll need to verify your property address and last four of your Social.
+Caller: Sure. Address is 1812 Ridgeline Drive, Fayetteville, North Carolina 28311. Last four is 7-1-3-4.
+Agent: Thank you, I have your account. I can see this is a VA loan. How can I help you today?
+Caller: Yeah, so I'm a veteran and I'm having trouble with my mortgage. I talked to a buddy of mine who also has a VA loan and he went through something called a VA special forbearance and then got into a refund modification. He said it really helped him. I want to know if I can do the same thing and what exactly it is.
+Agent: Absolutely, and I'm glad you reached out. What your buddy described is a legitimate VA loss mitigation option and it's one that's specifically designed for VA loans. Let me explain how it works and then we can look at your current situation. Are you currently past due on your loan?
+Caller: Yes, I'm two months behind. I missed April and May. My payments are $1,347 a month. I was between jobs after leaving the Army last year and I got back to work in March, but I'm still catching up from the gap.
+Agent: I'm glad you're employed again. Being re-employed actually strengthens your position for several of the VA programs. Let me walk you through the two options your buddy mentioned. The VA Special Forbearance is a formal agreement between you and us as the servicer that pauses or reduces your payment for a period of time due to documented financial hardship. The VA does not have a maximum forbearance period per se, but servicers typically grant forbearance in increments of up to four months, with the ability to extend.
+Caller: During that time, do they charge me late fees?
+Agent: Under VA guidelines, when a special forbearance is in place, late charges should not be assessed or collected on payments deferred during the forbearance period. That's a specific VA protection.
+Caller: Good. And what's the refund modification?
+Agent: The VA Refund Modification is a particularly helpful option that your friend mentioned. Here's how it works — when you have past-due payments and late charges, the VA can actually purchase the loan from the lender or investor, pay off the delinquency itself, and then enter into a new modified loan with you directly. The VA essentially buys in and becomes the lender, and then they create a new repayment structure that brings your loan current.
+Caller: Wait, the VA pays my back payments for me?
+Agent: In essence, yes. They purchase the loan and pay off the delinquent amounts as part of that purchase. Then you and the VA have a new modified loan agreement at potentially a lower interest rate, extended term, or with the delinquency rolled in — the goal is to create a sustainable payment going forward.
+Caller: That sounds almost too good. Is there a catch?
+Agent: It's not without conditions. You have to qualify — there are income requirements, you need to demonstrate you can sustain the modified payment, and you need to have a legitimate hardship that caused the delinquency rather than simply unwillingness to pay. The VA wants to help veterans keep their homes, so they're generally flexible on hardship, but they do verify income and sustainability.
+Caller: I'm now working full-time. I make $4,100 a month net working at a distribution center. My payment is $1,347. I should be fine for sustainability.
+Agent: That sounds reasonable. Your debt-to-income ratio at $1,347 out of $4,100 net is about 33%, which is manageable, especially with a potentially lower modified payment. Let me look at your loan details. Your current balance is $218,400, your rate is 5.5%, and you're two payments behind totaling $2,694 plus any late fees.
+Caller: And what would the refund modification do to those back payments?
+Agent: Under the refund modification, those delinquent amounts would be rolled into the new loan balance. The VA would advance the funds to bring the loan current and then you'd owe the VA on the new modified terms. The delinquency effectively disappears from your payment history going forward under the new loan structure.
+Caller: Does that affect my VA entitlement?
+Agent: That's a nuanced question. Your VA loan guarantee entitlement is already in use for this loan, so the modification doesn't separately consume entitlement. However, if the loan were to end in foreclosure — which is exactly what we're trying to avoid — that could affect future VA loan eligibility. Keeping the loan current through a modification protects your entitlement status.
+Caller: Okay. What other VA options exist beyond the special forbearance and the refund modification?
+Agent: VA guidelines outline a full range of loss mitigation options, and servicers are actually required to evaluate veterans for all of them before moving toward foreclosure. Beyond forbearance and the refund modification, there's the VA Repayment Plan, where you pay back the delinquent amounts over time — usually up to 12 months added to your regular payment. There's also the VA Compromise Sale — similar to a short sale — where the VA may guarantee coverage of any shortfall so you can sell the home for less than what's owed. And there's a Deed-in-Lieu option for situations where keeping the home is not viable.
+Caller: I definitely want to keep the home. I've got my family there. Let's focus on the modification path.
+Agent: Understood. Given your situation — two months behind, now re-employed with stable income, strong motivation to stay — you look like a good candidate for either a repayment plan short-term or a move directly into a VA loan modification. The refund modification specifically might require us to work with the VA's loan management office, and the process can take several weeks.
+Caller: What do I need to submit?
+Agent: For the VA modification process, you'd need your most recent two pay stubs reflecting your current employment, your last two months of bank statements, a signed hardship letter explaining the job transition after leaving the Army, and our internal financial worksheet showing your income and expenses. You'd also complete the VA's Request for Financial Assistance form.
+Caller: Is there a VA form number for that?
+Agent: It's typically coordinated through us rather than a form you fill out independently. When we submit your case to the VA, we use VA Form 26-0503 as part of the package. I'll handle that process on our end.
+Caller: How long will the whole thing take?
+Agent: From submission of a complete package, the VA typically provides a response within 30 to 45 days, though it can vary. In the meantime, we can put a forbearance in place today to stop any foreclosure timeline from advancing.
+Caller: Yes, please do that. I don't want anything bad happening while we wait.
+Agent: I'm opening the special forbearance on your account right now. This will pause any foreclosure referral for 60 days, and we'll note the account as pending loss mitigation review. You'll receive written confirmation within five business days.
+Caller: Do I need to make any payments during the forbearance?
+Agent: During a VA Special Forbearance, you're not required to make regular payments — that's the point. However, if you're able to make any payments, even partial ones, it helps demonstrate good faith and reduces the eventual delinquency balance.
+Caller: I can probably do $700 a month right now. Not the full $1,347.
+Agent: That's helpful. I'll note that you've committed to partial payments of approximately $700 per month during the forbearance. Every dollar reduces what ultimately needs to be resolved.
+Caller: Thank you for taking this seriously. This has been really stressful and I wasn't sure if there was help available for VA loans specifically.
+Agent: There absolutely is. The VA has a strong commitment to helping veterans avoid foreclosure, and the programs available to you are robust. We take that seriously. Is there anything else you'd like to know today?
+Caller: No, I think we're good. How do I submit my documents?
+Agent: You can upload them through our secure portal at vusportal.com using your loan number to log in, or you can call us back at 1-800-555-0799 and speak with a VA loan specialist in our loss mitigation department. Either way, have your pay stubs and bank statements ready.
+Caller: Will do. Thank you, Jessica.
+Agent: Thank you for your service, Mr. Webb. We'll take good care of this. Goodbye.
+Caller: Goodbye.

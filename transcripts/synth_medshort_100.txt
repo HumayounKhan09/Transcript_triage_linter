@@ -1,0 +1,45 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Fatima. How can I help you today?
+Caller: Hi Fatima. My name is Deborah Yamamoto. I have an escrow account with you where you collect money every month for my property taxes. I got a letter from my county tax collector saying my taxes are delinquent. But I've been paying you every month including the escrow amount. So I'm very upset and I want to know what happened and what my rights are.
+Agent: Ms. Yamamoto, I can absolutely understand your frustration and concern. A tax delinquency notice when you've been making your escrow payments on time is a serious matter and not your fault if we failed to make the tax payment. Let me pull up your account right away. Can I verify your identity?
+Caller: Yes. My address is 2847 Hawthorn Circle, Portland, Oregon, 97219.
+Agent: Last four of your Social?
+Caller: 4481.
+Agent: And date of birth?
+Caller: February 12th, 1965.
+Agent: Thank you. I have your account. Let me look at your escrow account history and specifically at the property tax disbursements. Can you tell me what the letter from the county says — specifically what the delinquent amount is and what the due date was?
+Caller: It says the first installment of my property taxes was due November 15th. As of the date of this letter, which is January 4th, the taxes are delinquent and penalties and interest are accruing. The delinquent amount is $2,180 plus late penalties of $218.
+Agent: Thank you. Let me check our payment records. Your escrow account shows your monthly payments are current and the escrow balance has been sufficient. Now let me look at tax disbursements. I'm looking at the November period — I need to find where that disbursement went.
+Caller: I've been paying you every month for nine years. I have never missed a payment. If my house is at risk because you didn't pay my taxes, I'm going to be very upset.
+Agent: Your concern is completely valid and I take this seriously. Let me look carefully. I see an escrow disbursement was scheduled on November 10th for $2,180 to Multnomah County Tax Collector. That's the right amount and the right timing. But I also see a note — the disbursement shows as sent but there's a flag indicating the payment may have been returned or rejected.
+Caller: Returned? Why would it be returned?
+Agent: Looking at the notes, there's a notation about an address verification issue with the payment. It appears the check may have been sent to an outdated county address. If the county's remittance address changed and our records weren't updated, the check could have been returned or lost.
+Caller: That is absolutely your error, not mine. I pay you. You're supposed to pay the county. If you sent it to the wrong address, that's on you.
+Agent: You are correct. If we failed to make your property tax payment due to an error on our end, we are responsible for correcting this, including any penalties and interest that have accrued as a result of the error.
+Caller: What are my rights here exactly?
+Agent: Under RESPA, we have a duty to make timely payments from your escrow account for items like property taxes. If we fail to make a required payment, we can be liable for any resulting penalties, interest, or damages you incur. You should not be responsible for the $218 penalty that accrued because of our failure.
+Caller: So you'll pay the penalty too?
+Agent: If this was our error — and based on what I'm seeing it appears it may have been — we are responsible for making the tax payment in full, including the penalties that resulted from the late payment. Let me flag this as an urgent escrow error and escalate it to our escrow disbursements team immediately.
+Caller: How fast can this be fixed? Because the letter says additional penalties accrue daily.
+Agent: I understand the urgency. I'm flagging this right now as an urgent escrow disbursement failure. The disbursement team will contact you within two business days to confirm the corrective payment is being sent, and they will also confirm the amount including penalties. Given that additional penalties are accruing, they typically expedite payment in situations like this.
+Caller: Can you guarantee that?
+Agent: I can't guarantee an exact timeline from this call, but I'm flagging it with an urgent notation and documenting that penalties are accruing daily. That notation escalates it in our system. You should receive a call or written confirmation within two business days.
+Caller: What if I don't hear back?
+Agent: If you don't hear from us within two business days, please call back and reference your loan number and this issue. You can also submit a written notice of error, which formally triggers RESPA obligations — five business days for acknowledgment and sixty days for resolution. Given this is a clear servicing error, I'd expect resolution faster than that.
+Caller: Can you tell me what the written notice of error should say?
+Agent: You would write a letter addressed to us at our correspondence address — Meridian Mortgage Servicing, PO Box 7200, Dallas, Texas, 75202 — identifying your loan, the property, and the specific error: that we failed to make a timely property tax payment from your escrow account for the November installment, resulting in a delinquency notice and accruing penalties. Request that we remedy this immediately and confirm the payment was made.
+Caller: Should I send that now, or wait to see if you fix it first?
+Agent: That's your call. Sending it now creates a paper trail and formally starts the RESPA clock. I'd recommend sending it even while waiting for our team to call, just as documentation.
+Caller: Okay. And what about my credit? Could this affect my credit score?
+Agent: A property tax delinquency can potentially lead to a tax lien if left unresolved for a long period, and a tax lien can affect your credit. However, this is a very early stage — a delinquency of two months — and we expect to resolve it before it reaches lien status. Resolving this quickly is the priority.
+Caller: I want to be very clear — I've done everything right. I've made every payment. This is not my fault.
+Agent: You are absolutely right. You've met all of your obligations. This is a servicing failure and we take responsibility for correcting it. I'm sorry this happened and I'm sorry for the stress it's caused you.
+Caller: Thank you for acknowledging that. What's my loan number so I can reference it?
+Agent: Your loan number is 4-0-0-5-5-8-8-3-3.
+Caller: And your name again?
+Agent: My name is Fatima. I'm noting this interaction on your account with my name, today's date, and a full summary of what we discussed.
+Caller: Good. I want a record that I called. And if I don't hear from someone by the day after tomorrow, I'm filing a CFPB complaint.
+Agent: That is completely within your rights and I understand. I hope you hear from us well before then. Is there anything else I can help you with today?
+Caller: No. Just fix this.
+Agent: We will. Thank you for calling Meridian Mortgage, Ms. Yamamoto. I'm truly sorry for this situation.
+Caller: Thank you. Bye.
+Agent: Goodbye.

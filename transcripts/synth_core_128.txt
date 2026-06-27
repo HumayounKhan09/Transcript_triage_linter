@@ -1,0 +1,36 @@
+Agent: Thank you for calling Summit Mortgage Group, this is Ashley speaking. How can I help you today?
+Caller: Hi, my name is Renee Fontaine. I'm calling because my divorce was finalized two months ago and the court awarded me the house. My ex-husband's name is still on the mortgage and I need to figure out what to do.
+Agent: Hi Renee, I'm sorry to hear about the divorce, but I'm glad you're reaching out to understand your options. This is actually a situation we assist people with fairly regularly. Do you have the loan number for the property?
+Caller: Yes, it's 4428801.
+Agent: Thank you, let me pull that up. Okay, I see the account. The property is at 2217 Birchwood Lane and the loan balance is currently $198,342.11. The loan is in the names of Renee Fontaine and Marcus Fontaine, with a monthly payment of $1,634.22. Is all of that accurate?
+Caller: Yes, that's correct.
+Agent: Good. So let me explain where things stand from a mortgage perspective. The divorce decree is a legal document that governs who owns the property and who is responsible for the debt between the two of you. However, the mortgage itself is a contract between both borrowers and the lender, and the lender is not a party to your divorce proceedings. That means both you and your ex-husband remain legally obligated on the mortgage until it is either paid off or refinanced.
+Caller: So even though the judge gave me the house, he's still technically on the hook for the mortgage?
+Agent: That's correct. The divorce decree may say he has no claim to the property, but from the lender's and servicer's perspective, both names are still on the note. His credit is still affected by the payment history, and the lender could still pursue him in the event of a default.
+Caller: That doesn't seem fair to him. Or to me, honestly.
+Agent: I understand. It can feel that way. The typical way to address this is through a refinance. If you refinance the mortgage solely in your name, the new loan pays off the existing joint loan, and your ex-husband's obligation is fully released. That's the cleanest resolution.
+Caller: Can I afford to do that? I don't know if I'll qualify on my own.
+Agent: That would depend on your individual income, credit score, debt-to-income ratio, and the current value of the property. Those are questions a loan officer would walk you through during a refinance application. Is your income stable right now?
+Caller: I work full-time as a nurse. I make about $78,000 a year.
+Agent: That's a solid income base. You'd also want to make sure your credit is in good shape and that the home has sufficient equity — meaning the home's current market value is higher than what you owe. Based on the $198,342 balance, if your home is worth, say, $280,000 or more, you'd likely have enough equity to qualify for a conventional refinance.
+Caller: I think the house appraised at around $295,000 when we bought it four years ago. It might be worth more now.
+Agent: That would put you in a reasonable position. I'd recommend speaking with our refinance team to get pre-qualified. Would you like me to transfer you or take a message for a loan officer to call you back?
+Caller: Not yet — I have a few more questions first. What if I don't refinance? Is there any other option?
+Agent: There's another option called a loan assumption, but it's relatively rare and depends heavily on whether your loan type allows it. Government-backed loans like FHA and VA loans are often assumable, but conventional loans typically include a due-on-sale clause that prevents assumption without lender approval. Let me check your loan type. Your loan is a conventional conforming loan, so assumption is generally not available without lender consent, which is rarely granted.
+Caller: So refinancing is really my main option.
+Agent: For your loan type, yes. The other thing I'd suggest is reviewing the exact language in your divorce decree. Some decrees specify a timeframe — say, 90 or 180 days — within which the spouse keeping the home must refinance or sell the property. If there's a deadline in your decree, you'll want to know about it.
+Caller: There is actually a 180-day window. I have until November.
+Agent: Then you still have some time, but I wouldn't wait too long given current interest rates and the underwriting process. A refinance typically takes 30 to 60 days from application to closing.
+Caller: Okay. What about making payments in the meantime? I'm making them on my own right now but it's still showing both our names when I log in.
+Agent: That's expected — the account will remain in both names until a refinance is completed. You're making the payments, which is protecting both your credit and your ex-husband's. One thing I'd recommend is keeping very clear records of every payment you make, in case there's ever a dispute down the road.
+Caller: I've been doing that. I have all my bank statements saved.
+Agent: Smart. Can I also ask — has your ex-husband been cooperative? Does he have access to the online account?
+Caller: He does, which worries me a little. Could he do anything to the account?
+Agent: As a co-borrower, he does have certain rights to account information. He can view statements and payment history. However, he cannot unilaterally change the loan terms or make decisions about the property without your involvement since you're both on the loan and you have the property awarded to you by the court. If you're concerned about unauthorized actions, you may want to consult with your divorce attorney about protective orders or other legal steps.
+Caller: That's a good point. I'll mention that to my attorney.
+Agent: I think that's a wise move. Is there anything else I can help you with today, Renee?
+Caller: I think that's it for now. I'll probably call back to start the refinance process soon.
+Agent: Please do. Our refinance team is available Monday through Friday, 8 a.m. to 6 p.m. Eastern. Just call our main number and ask for the refinance department. Thank you for calling, Renee, and good luck with everything.
+Caller: Thank you so much, Ashley. You were very helpful.
+Agent: Of course. Take care and have a good day.
+Caller: You too, bye.

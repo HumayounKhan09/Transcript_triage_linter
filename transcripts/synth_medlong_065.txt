@@ -1,0 +1,49 @@
+Agent: Thank you for calling Silverstone Mortgage. My name is Ray. Can I get your loan number?
+Caller: 5544-1122. Yvonne Chambers.
+Agent: Thank you, Ms. Chambers. Last four of your Social and property address?
+Caller: Last four is 7739. Property is 4401 Elmhurst Avenue, Charlotte, North Carolina 28205.
+Agent: Got your account. How can I help you today?
+Caller: I want to discuss reinstating my mortgage. I've been through a hard couple of years and I've been several months past due. I've been saving money and I finally have the funds to pay everything off and bring my loan current. But I need about 30 days to wire the funds to you because they're tied up in a financial instrument that matures on July 25th.
+Agent: Ms. Chambers, that's wonderful news — having the funds to reinstate is the outcome everyone hopes for. Let me look at your account status and let's talk about how to make this work with your timeline.
+Caller: Okay. I want to know what the total reinstatement amount is and whether I can get a 30-day window to send it.
+Agent: Let me pull the reinstatement figures. Your regular monthly payment is $1,720. I can see you are currently eight months past due. Let me calculate the full reinstatement amount. Eight months of principal and interest plus escrow at $1,720 per month is $13,760. Then I need to add: late fees of $86 per month for eight months, which is $688. I also see a property inspection fee assessed three times at $15 each, totaling $45. And I see an attorney fee of $1,950 that was charged when the loan was referred to foreclosure counsel on May 12, 2026. So the total reinstatement amount as of today is approximately $16,443.
+Caller: Okay. And that number changes every day because of interest, right?
+Agent: Yes. The daily interest accrual on your principal balance — let me look at your current unpaid principal balance of $198,400 at an interest rate of 5.50% — that's $198,400 times 5.50% divided by 365, which is approximately $29.95 per day. So the reinstatement amount increases by about $30 per day.
+Caller: If I'm wiring on July 25th, what will the reinstatement amount be?
+Agent: From today, June 27th, to July 25th is 28 days. At $29.95 per day that's an additional $839 in per diem interest. So the July 25th reinstatement amount would be approximately $17,282. I'll need to generate a formal reinstatement quote that gives you the exact amount good through a specific date.
+Caller: Yes, I need that formal quote. Can you generate one for me?
+Agent: I can submit a request for a formal reinstatement quote. The quote will be mailed to you and available in your online portal within three to five business days. The quote will state the total amount required to reinstate the loan as of a specific date — I'd request it be good through July 30th to give you a small buffer past your July 25th wire date.
+Caller: Good. Now the 30-day window. Is there anything you need from me to formally agree to hold off on any foreclosure action while I get the funds together?
+Agent: That's an important question. Let me look at your foreclosure status. I can see the loan was referred to our foreclosure attorney on May 12, 2026. Under North Carolina foreclosure law, a foreclosure sale cannot happen until after a judicial hearing and required notice periods. Let me look at where the file is in that process. I see the attorney has filed a Notice of Hearing on June 10th. In North Carolina, after a Notice of Hearing, there's a minimum 10-day period before the hearing can be held. I don't see a hearing date scheduled yet.
+Caller: So where does that leave me?
+Agent: In North Carolina, foreclosure is a judicial process. After the hearing, if the court grants an order allowing foreclosure, there are additional notice and waiting periods before a sale can occur. In practice, this means you likely have several weeks before a sale would actually occur. However, I want to be very clear: I cannot stop the legal foreclosure process from here. What I can do is document in your file that you have communicated your intent to reinstate and that you have the funds available, with an anticipated wire date of July 25th.
+Caller: What does that documentation do?
+Agent: It creates a formal record that you communicated your reinstatement intent. More importantly, I'm going to flag this for our foreclosure attorney and request that they note the borrower's reinstatement commitment in the case file. The attorney's team may be willing to request a postponement of any scheduled hearing or notify the court of a pending reinstatement. But that's their decision, not mine.
+Caller: Can I speak to the foreclosure attorney's office directly?
+Agent: You can. The firm we use in North Carolina is Harrington & Stiles — their number is 704-228-9900. Reference your loan number when you call. I'd recommend calling them today and letting them know you spoke with the servicer, that you have funds for reinstatement, and that you're targeting a July 25th wire. They may be able to advise you on the case timeline.
+Caller: Should I put my reinstatement commitment in writing to you?
+Agent: Yes, that would strengthen your position. A written commitment — even a simple email or letter — stating your intent to reinstate by July 25th or July 30th, the source of funds, and the reasons for the 30-day timing creates a clearer paper trail. Send it to our loss mitigation email: lossmitig@silverstonemortgage.com, with your loan number in the subject line.
+Caller: Okay. Now, let me ask — what happens if I wire the money and it arrives but something goes wrong with the amount? Like if my calculation is off by a hundred dollars?
+Agent: Reinstatement requires the exact amount specified in the formal reinstatement quote. If you send less than the quoted amount, the servicer is not required to apply it as a reinstatement. The payment may be returned or applied to the account but not as a reinstatement. This is why the formal quote is important — it gives you a precise number good through a specific date so you know exactly what to wire.
+Caller: What if I send a little more than the quote — can I overpay to make sure I hit the number?
+Agent: Yes. If you send more than the reinstatement amount, the overage will be credited to your account. There's no penalty for overpaying a reinstatement. I'd rather you send $17,500 and have a $200 credit than send $17,282 exactly and risk a per-diem calculation difference.
+Caller: Smart. What wire instructions do I give to my financial institution?
+Agent: I'll give you our wire instructions. Please note that wire instructions should always be verified by calling us directly before any transfer because wire fraud is common in real estate transactions. So please call our number back and ask for wire instructions verbally before sending any funds, even if you receive something in writing.
+Caller: Understood. That's good advice.
+Agent: Our incoming wire receiving bank is First National Trust, ABA routing number 0210-41-8843, Account number 779-2200-114, Account name: Silverstone Mortgage Servicing Client Account. Reference field should include your loan number 5544-1122 and your name Yvonne Chambers.
+Caller: I'm writing that down. And should I call to confirm when the wire is initiated?
+Agent: Absolutely. Call us the morning you send the wire and tell us it's coming. We can flag your account so the payment operations team is watching for it. When the wire is received, they'll apply it immediately and generate a reinstatement confirmation letter.
+Caller: How will I know the reinstatement was processed?
+Agent: You'll receive a written reinstatement confirmation letter within three to five business days of the wire being applied. You can also log into your account online — the reinstatement will be reflected in the transaction history within two business days.
+Caller: And once reinstated, my loan goes back to normal? No more foreclosure action?
+Agent: Correct. Upon full reinstatement — receipt of the complete reinstatement amount — the foreclosure proceedings stop. North Carolina law requires the servicer and attorney to abandon the foreclosure once the loan is reinstated. You'll receive a formal withdrawal notice from the foreclosure attorney. Your loan returns to current status and your regular monthly payment of $1,720 resumes with the next due date.
+Caller: When would the next payment be due?
+Agent: If you reinstate on July 25th, your next regular monthly payment would be due August 1, 2026.
+Caller: That's tight. Only a week.
+Agent: It is. If that's too tight, we could discuss whether your reinstatement amount could also include one additional month's payment to give you more breathing room. It's something to consider when you see the formal quote.
+Caller: That's a good idea. I'll look at that. Ray, this has been enormously helpful. I feel good about the path forward.
+Agent: I'm glad, Ms. Chambers. You've clearly done the planning and have the means to resolve this. Let's make sure the documentation is solid. I'll enter the note about your reinstatement intent today, I'll flag the file for our foreclosure attorney, and the formal reinstatement quote request will be submitted today as well. Call the attorney's office at 704-228-9900 today if you can.
+Caller: I will. Thank you so much, Ray.
+Agent: Thank you for calling Silverstone Mortgage. Is there anything else before I let you go?
+Caller: No, that's everything. Goodbye.
+Agent: Goodbye, Ms. Chambers. Take care.

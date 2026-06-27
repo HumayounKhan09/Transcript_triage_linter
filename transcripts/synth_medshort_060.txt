@@ -1,0 +1,43 @@
+Agent: Thank you for calling Meridian Home Lending. This is Monique. How can I help you today?
+Caller: Hi Monique. My name is Harold Ostrowski. I'm sixty-eight years old and I've been thinking about what happens to my house when I'm gone. My son is thirty-nine and he might want to take over the mortgage rather than selling the house. Is my loan assumable? Can he just take over the payments?
+Agent: That's a very thoughtful question to be asking, Harold. Loan assumption is something more people should ask about. Let me pull up your account and look at the loan terms. Can I get your loan number?
+Caller: It's 1-1-5-8-2-3-0.
+Agent: And the property address?
+Caller: 302 Oak Hill Drive, Columbus, Ohio, 43214.
+Agent: And the last four of your Social Security number?
+Caller: 3-3-7-9.
+Agent: Thank you. I have your account here. So your loan is a conventional thirty-year fixed-rate mortgage that originated in 2011. Let me look at the assumability provisions in your loan documents.
+Caller: I've had this mortgage for a long time. I'm almost done with it, actually.
+Agent: I can see that — you're in great shape. Your remaining balance is about eighty-four thousand dollars. You've paid down the majority of this loan.
+Caller: That's right. Twenty-two more years and I'd have had it paid off but I've been paying extra.
+Agent: That's excellent. Now, regarding assumability — this is where I need to give you a careful answer. Most conventional loans originated in the 1980s and afterward contain what's called a due-on-sale clause. This clause states that if the property is sold or transferred, the lender has the right to demand full repayment of the loan. Your loan does contain a due-on-sale clause.
+Caller: So my son can't assume it?
+Agent: There's more nuance here. The due-on-sale clause exists, but there are important federal exceptions. Under the Garn-St. Germain Depository Institutions Act of 1982, there are specific transfers that lenders cannot invoke the due-on-sale clause for, even if it's in the loan documents.
+Caller: What kind of transfers?
+Agent: Transfer upon death is one of the key exceptions. If you were to pass away and the property is transferred to a relative who will live in the property — meaning it becomes their primary residence — the lender cannot automatically call the loan due. That's a federal protection.
+Caller: So if I leave the house to my son and he moves in, they can't demand he pay it off immediately?
+Agent: Correct. If the property passes to your son as an inheritance and he intends to occupy it as his primary residence, the Garn-St. Germain exception would apply and we could not invoke the due-on-sale clause solely because of that transfer.
+Caller: But does that mean he'd take on the loan terms as they are? My rate is four point five.
+Agent: In a true assumption scenario under the inheritance exception, he would essentially continue making payments under the existing loan terms. However, I want to be clear that he would need to go through a qualification process with us. We'd need to verify his income, creditworthiness, and ability to make the payments. It's not purely automatic — we can't invoke the due-on-sale clause, but we can require the new borrower to qualify.
+Caller: So he'd have to apply like he's getting a new mortgage?
+Agent: The process is similar in that we'd review his financial profile. It's typically called an assumption application. It's less involved than a full refinance in some respects because the loan terms are set, but he still needs to demonstrate he can service the debt.
+Caller: What if he can't qualify? What happens then?
+Agent: If he can't qualify for the assumption, the options would be to refinance into a new loan in his name, which would mean a new interest rate and terms, or to sell the property. The loan wouldn't just continue without anyone qualifying for it.
+Caller: I understand. What's his rate situation likely to be if he had to refinance today versus assuming my four point five?
+Agent: Rates today are considerably higher than four point five. So if your son could qualify for the assumption, he'd be keeping a rate that's quite favorable compared to current market rates. That's a significant financial benefit.
+Caller: That's exactly why I want to understand this. The rate on my loan is a gift at this point.
+Agent: It's a fair way to think about it. The assumption process preserves the existing loan terms, which in your case are very favorable by today's standards.
+Caller: Is there a fee for an assumption?
+Agent: Yes, there's typically an assumption processing fee. Based on our current fee schedule, that would be approximately nine hundred dollars. That's significantly less than the closing costs of a new refinance.
+Caller: That's manageable. What should I do now? I'm not going anywhere tomorrow but I want to have a plan.
+Agent: I'd suggest two things. First, make sure your estate planning documents — your will or trust — clearly specify your intentions for the property and that your son knows about the loan and your wishes. Second, when the time comes or if you want to explore this proactively, your son can contact us to request an assumption packet, which lays out the application process, required documents, and fees.
+Caller: Can he call now and get that information?
+Agent: Absolutely. He can call our customer service line and request the assumption application package. They'll explain the full process. I can also make a note on your account that this inquiry was made, so when he calls there's a reference point.
+Caller: Please do that. Make a note that Harold Ostrowski called to ask about assumability for his son as a beneficiary.
+Agent: Done. I've noted that on your account. Is there anything else you'd like to know today, Harold?
+Caller: I think that covers it. This has been really informative. I feel better knowing there's a legal protection there.
+Agent: The Garn-St. Germain protections are there specifically for situations like yours. It's good that you're thinking about this ahead of time.
+Caller: At my age you have to. Thank you, Monique. You've been very helpful.
+Agent: My pleasure, Harold. Have a wonderful day.
+Caller: Thank you. Goodbye.
+Agent: Goodbye.

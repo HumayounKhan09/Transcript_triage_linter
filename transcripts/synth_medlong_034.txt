@@ -1,0 +1,51 @@
+Agent: Thank you for calling Vanguard Mortgage Servicing, this is Priya. Can I get your loan number?
+Caller: That's what I need to figure out. I'm not even sure if my loan is with you. Let me explain — I've been making my payments to Homestead Mortgage for five years. Last month I sent my regular payment and now I'm getting calls from a company called Vanguard saying I'm delinquent. I looked you up and called this number. Is my loan with you?
+Agent: Let me see if I can find your account. Can I search by your name and property address?
+Caller: Joanna Trevino. The property is 6614 Stonegate Road, Denver, Colorado 80209.
+Agent: Let me search by address. Yes, I found an account — loan number 4412-99301, property at 6614 Stonegate Road, Denver, Colorado. Borrower name is Joanna Trevino. Is that you?
+Caller: Yes. Okay, so my loan IS with you. Why didn't I know that?
+Agent: Ms. Trevino, it sounds like your loan was transferred from Homestead Mortgage to us, and there may have been issues with the notification or with routing the payment. This is a situation we can absolutely get to the bottom of and resolve. Can I verify your last four of Social to confirm your identity?
+Caller: Yes, it's 5517.
+Agent: Thank you. I have your account confirmed. Let me look at the details. I can see this loan was transferred to our servicing on April 22nd of this year. And I can see there's a payment showing as past due for May. Let me look at the payment history carefully.
+Caller: I sent my May payment on April 28th — as I always do, a few days early — to Homestead Mortgage's address. I have the bank confirmation. The check cleared. How can I be delinquent if my check cleared?
+Agent: Your check cleared because Homestead received the funds. But when a loan is transferred, the old servicer is responsible for forwarding any misdirected payments to the new servicer during a transition period. It's possible Homestead received your payment and did not forward it to us correctly, or there was a delay. This happens in loan transfers and there are federal rules that govern this exact situation.
+Caller: I never got any letter saying my loan was transferred. Not from Homestead, not from you. Nothing.
+Agent: Under federal law — specifically RESPA, the Real Estate Settlement Procedures Act — both the old servicer and the new servicer are required to send you transfer notices. Homestead should have sent you a goodbye letter at least 15 days before the transfer, and we should have sent you a hello letter within 15 days of assuming servicing. The goodbye letter must include: our name, address, and contact information, the date the transfer takes effect, and a statement about your rights.
+Caller: I never received either of those letters. I've gotten mail at that address for five years — I don't miss mail.
+Agent: I believe you. Let me check what we have on record for when the notices were sent. I can see in our system that a welcome letter was generated and mailed to 6614 Stonegate Road, Denver, Colorado 80209 on April 18th. Whether it was received is a different question. Does your address look correct?
+Caller: The address is right. April 18th — I was traveling for work April 10th through April 29th. I was gone for almost three weeks.
+Agent: That explains it. The notice was sent while you were traveling. When you returned, the May payment due date was May 1st and the transfer had already taken effect April 22nd. You likely followed your normal routine of paying Homestead without seeing the notice.
+Caller: That makes sense now. But the practical problem is: my credit score. I checked it this morning and there's a 30-day late mark on there from you.
+Agent: I understand your concern and I want to explain your rights here. Under RESPA, there is a 60-day grace period following a loan transfer. During those 60 days, if you make a payment to the old servicer — Homestead — the new servicer cannot report the payment as late to the credit bureaus, as long as you were not otherwise in default before the transfer.
+Caller: Sixty days from when? From April 22nd?
+Agent: Sixty days from the effective transfer date, which was April 22nd. That grace period runs through June 22nd. Your May payment was sent to Homestead on April 28th — well within that 60-day window. We are legally prohibited from reporting that as a late payment.
+Caller: Then why does my credit report show a late payment from your company?
+Agent: That should not have happened given the timeline you've described. This is a reporting error on our part. I'm going to initiate a credit dispute correction right now. Can you confirm — was this the only payment sent to Homestead after the transfer date?
+Caller: Just the May payment. I found out about the transfer when you called me on May 28th. At that point I made a payment directly to you online.
+Agent: Let me check. Yes, I see an online payment received May 29th of $1,448.22 — that's the May payment. And I also see a note on the account about a payment forwarded from Homestead — let me look at the amount and date. Yes, it shows a forwarded payment of $1,448.22 received from Homestead on June 4th. So we actually received two payments for May — one from you directly and one forwarded by Homestead.
+Caller: Wait — you have both payments? You have my money twice?
+Agent: It appears so. One payment came directly from you on May 29th, and then Homestead finally forwarded the original April 28th payment on June 4th. The June 4th payment is showing as applied to your June payment. So your account is actually currently fully paid — June is covered by the forwarded Homestead payment. But the credit reporting shows the account as 30 days late for May, which is incorrect given the RESPA grace period protections.
+Caller: So the account is current but my credit was incorrectly dinged?
+Agent: That's what it looks like. I'm going to do two things right now. First, I'm initiating a credit bureau correction. I'll file a dispute on your behalf indicating that the May late payment report was erroneous under the RESPA 60-day grace period provisions. We are required to correct this with all three bureaus. Second, I'll document the dual payment issue and make sure your account is properly credited — you should be credited for June, and your next due payment would be July.
+Caller: How long does it take to fix my credit report?
+Agent: Once we submit the correction to the credit bureaus — Equifax, Experian, and TransUnion — they are required to update within 30 days under the Fair Credit Reporting Act. In practice, if the dispute is straightforward — which this is — it often updates within two to three weeks. I'll provide you with a dispute confirmation number that you can use if you need to follow up.
+Caller: Can you give me something in writing explaining all of this? I may need it if I'm applying for anything in the meantime.
+Agent: Absolutely. I'll generate a letter on company letterhead explaining the loan transfer timeline, the RESPA grace period, the fact that your payment was made timely to the prior servicer, and that we are correcting the credit report. I can mail it and email it to you. What email address should I use?
+Caller: JTrevino88@gmail.com.
+Agent: I'll send it to that address within 24 to 48 hours. The reference number for this correction is VM-2025-CR-77341. Keep that number — if you need to follow up on the credit correction or the letter, that's your reference.
+Caller: What about the future? How do I make sure I know if my loan gets transferred again?
+Agent: The RESPA notification requirement is designed to prevent exactly this situation. Going forward, I'd recommend: update any automatic payment arrangements to use our payment address or your online account with us; if you travel, have someone check your mail or have mail forwarded; and periodically check your account online at VanguardMortgage.com. You can create an online account with your loan number and Social Security number.
+Caller: I'll set that up tonight. I'm also going to ask for the previous statements — did you bill me separately for May? I never received a bill from you.
+Agent: Let me check. I see that a welcome package including a May billing statement was mailed April 18th — same as the welcome letter. Again, you were traveling. I'll regenerate the April and May statements and include them with the letter I'm sending you. Going forward, you can go paperless through our online portal.
+Caller: Please. I'd feel much better getting email confirmations. I travel frequently for work.
+Agent: Paperless enrollment will be in the email I send you — there's a link to set that up. You'll get an email notification when each statement is ready, so you'll never miss one even while traveling.
+Caller: I need to say — when I called this morning I was absolutely furious. I've never missed a payment in my life. Now I understand what happened and I feel much better knowing it can be fixed.
+Agent: You did nothing wrong, Ms. Trevino. This was a service transition issue and you exercised your rights correctly by paying on time. We're correcting the error. I'm sorry you had to spend your morning sorting this out.
+Caller: What happens with the May payment I made online on May 29th? Is that confirmed as applied to May?
+Agent: Yes. The May 29th payment of $1,448.22 is applied to May. The June 4th forwarded payment from Homestead is applied to June. Your next due payment is July, which will be due July 1st. Your account is fully current.
+Caller: Perfect. And I'll get the correction letter within 48 hours?
+Agent: Within 48 business hours, yes. And the dispute reference number is VM-2025-CR-77341. Is there anything else I can help you with today?
+Caller: No. Thank you, Priya. You've handled this really professionally.
+Agent: Thank you, Ms. Trevino. I'm glad we could get to the bottom of it. Have a great day.
+Caller: You too. Goodbye.
+Agent: Goodbye.

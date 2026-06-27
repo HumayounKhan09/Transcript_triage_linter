@@ -1,0 +1,38 @@
+Agent: Thank you for calling Cornerstone Mortgage Servicing, my name is Beth, how can I help you today?
+Caller: Hi Beth, my name is Gerald Okonkwo. I'm trying to get a HELOC from a local credit union — they've already approved me — but they're saying they need something called a subordination agreement from you guys. My current mortgage is with you. Can you explain what that is and how to get it?
+Agent: Hi Gerald, congratulations on the HELOC approval. Yes, subordination agreements come up whenever someone is adding a second lien to a property that already has a first mortgage. I'm happy to walk you through what it is and how the process works. Let me pull up your account first. Can I get your loan number or the property address?
+Caller: The address is 12 Thornberry Lane, Raleigh, North Carolina, 27614. Loan number is CM-4457-8819.
+Agent: Thank you, and for verification — last four of your Social and date of birth?
+Caller: Social ends in 2204, birthday is April 29th, 1968.
+Agent: Got it. Gerald Okonkwo, loan balance of $187,300, current monthly payment of $1,265, 30-year fixed at 3.875%, originated in 2020. Your account is current and in good standing. Perfect.
+Caller: Yes, we've been very diligent with payments. The house has appreciated a lot — the credit union appraised it at $375,000. I'm looking at a $75,000 HELOC for a kitchen renovation.
+Agent: That's a healthy equity position. So let me explain what's happening from a lien priority standpoint, because that's what the subordination agreement is about. Right now we hold the first mortgage on your property — that means if you ever defaulted and the home went to foreclosure, we'd be first in line to be repaid from the proceeds. The HELOC the credit union is extending would be a second lien, meaning they'd be second in line.
+Caller: Right, that makes sense so far.
+Agent: Now, when a new lien is added, there's an important concept called lien priority, which is generally determined by recording date. The concern from the credit union's perspective is that if any kind of refinance or title event occurs, they need assurance that their second position won't accidentally get displaced. The subordination agreement is a formal document — signed by us — that says we acknowledge the HELOC and agree that in the event of certain scenarios, our first mortgage remains first and their HELOC remains second in priority. We're essentially formalizing the hierarchy.
+Caller: Why wouldn't that be automatic? They're second because they're recorded after you. Why do you need to sign something?
+Agent: Great question. The issue arises if, say, you refinanced your first mortgage with us or another lender after the HELOC is in place. The new first mortgage would be newly recorded, which could theoretically bump ahead of the existing HELOC in priority. Without a subordination agreement from us confirming we'll remain subordinate to nothing — wait, let me back up. The HELOC lender wants us to confirm we understand they're adding a second lien, and in some cases the subordination is about ensuring that any future modifications to our first lien don't inadvertently disrupt their position. It's really a formality that protects everyone.
+Caller: Okay, I think I follow. So how do I actually get this done?
+Agent: The process goes through our subordination request department. Here's how it typically works: the credit union's title company or closing attorney usually initiates the request, not the borrower directly. They'll send us a formal subordination agreement request along with certain documentation — the HELOC terms, the proposed lien amount, a copy of the appraisal, and information about the title insurance. We then review it and decide whether to approve.
+Caller: Is there a fee?
+Agent: Yes, there is a processing fee. Our subordination fee is $350, and it's paid at the time of the request. That's non-refundable regardless of outcome, although approvals are granted in the vast majority of cases when the equity position is solid, like yours is.
+Caller: What could cause it to be denied?
+Agent: Primarily if the combined loan-to-value — meaning the total of all liens divided by the property value — is too high. Our guidelines generally cap combined LTV at 89.9% for us to agree to subordination. Let's check yours: your balance is $187,300, the HELOC would be $75,000, total liens of $262,300 against an appraised value of $375,000. That's a combined LTV of about 70%. Very comfortably within our guidelines.
+Caller: Good. And how long does it take?
+Agent: Our subordination review typically takes fifteen to twenty-one business days once we receive a complete request. Some borrowers are surprised by that timeline, so it's worth letting the credit union know to initiate it early in their closing process. If they wait until two weeks before their anticipated closing, there could be a delay.
+Caller: I'll tell them today. We were hoping to close in about six weeks, so that should be okay.
+Agent: That should work. Six weeks gives plenty of buffer as long as they submit the request this week or next.
+Caller: Who should the credit union contact? Is there a specific department or email?
+Agent: Yes — our subordination request team can be reached at subordinations at cornerstonemortgage dot com, or by mail to Cornerstone Mortgage, Attention Subordination Department, PO Box 4400, Dallas, Texas, 75240. The credit union's title team will know the exact forms they need to include — it's a standard package in the industry.
+Caller: Perfect. Let me make sure I've got this right — I tell the credit union to send the subordination request to your department, they include the HELOC terms and appraisal, you review it, it takes about three weeks, and then you send back a signed agreement they can use at closing.
+Agent: That's exactly right. And one more thing — make sure the credit union also sends a draft of the HELOC note and deed of trust for our review, not just the terms summary. We want to see the full instrument.
+Caller: I'll pass that along. Does anything happen on my end in terms of payments or my current loan during this process?
+Agent: Not at all. Your current first mortgage is completely unaffected. Your payments stay the same, nothing changes on your end. The subordination is purely a title and lien documentation matter.
+Caller: What about after the HELOC is in place — does that change my escrow or anything?
+Agent: No. The HELOC is a separate account with the credit union. Your mortgage payment with us stays the same. The only impact to your overall financial picture is that you'll have two loan payments — the mortgage to us and the HELOC payment to the credit union. The HELOC won't appear on your mortgage statements with us.
+Caller: That makes complete sense. This has been very helpful, Beth. I think I was a little intimidated by the term subordination agreement — it sounds very official and complicated.
+Agent: It sounds scarier than it is. In practice it's one of the more routine things we process in this department. As long as your equity is there, it's usually just paperwork and a waiting period.
+Caller: Well I really appreciate you explaining everything so clearly. I'll call the credit union this afternoon.
+Agent: Wonderful. Is there anything else I can help with today?
+Caller: No, I think we're all set. Thanks so much.
+Agent: Of course, Gerald. Have a great day. Goodbye.
+Caller: Goodbye.

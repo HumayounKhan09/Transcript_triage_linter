@@ -1,0 +1,57 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Carlos, how can I help you today?
+Caller: Hi Carlos, my name is Frank DiMaggio. Loan number 7723-551-886. I need to talk about my mortgage because my business shut down and I have no income right now.
+Agent: Frank, thank you for calling. Let me get your account up. Property address and date of birth?
+Caller: 889 Copperfield Way, Phoenix, Arizona 85016. Date of birth March 3, 1969.
+Agent: Got it. Let me verify — last four of your Social?
+Caller: 8824.
+Agent: Perfect. Account is up. Frank, tell me what happened. When did the business close and what kind of business was it?
+Caller: I've been self-employed for fourteen years. I ran a commercial cleaning company — we serviced office buildings, medical facilities, that kind of thing. Twelve employees at our peak. The business got into financial trouble starting last year. I lost two of my biggest contracts in Q3 — they brought cleaning in-house. I kept trying to make it work, cut staff, took on smaller clients. But by April of this year, I had to make the decision to shut it down. Filed dissolution papers May 1st.
+Agent: I'm sorry, Frank. Fourteen years is a long time. Are you on any kind of income right now?
+Caller: Nothing. Self-employed people don't qualify for unemployment in Arizona in most cases. I've been living off savings and the last of the business accounts. I have about $18,000 total between my personal savings and what's left in the business account that I wound down.
+Agent: And your mortgage payment?
+Caller: $2,044 a month. Thirty-year fixed. I've had this loan since 2015.
+Agent: Okay. So at $18,000 you have roughly eight or nine months of mortgage coverage, if nothing else comes in and you use all of it on the mortgage.
+Caller: Which I can't do, because I have other bills. Living expenses. I've got to eat, keep the lights on. Realistically I've got maybe four to five months before things get really desperate.
+Agent: What does your job search look like? Are you planning to go back to self-employment or looking for employed work?
+Caller: Looking for employed work in facilities management or operations. I have interviews scheduled. But getting back to $80,000 to $100,000 a year — which is what I was making — is not going to happen overnight. I'm realistic about that. It might take six months to land something at a decent salary.
+Agent: That's honest and it's important information for structuring options. Frank, I want to take your application for hardship assistance today while I have you on the phone. Given your situation — complete income loss, self-employed business closure — I want to document everything carefully because this will need to go to a senior review.
+Caller: Whatever you need. I've got time and I've got documents.
+Agent: Good. Let me start with income. Current monthly income — zero from business, any other sources?
+Caller: My wife does substitute teaching. She brings in about $600 to $800 a month, very variable.
+Agent: I'll use $700 as an average. So household income roughly $700 a month. Assets — $18,000 total between personal and wound-down business accounts. Any retirement accounts?
+Caller: A SEP-IRA with about $61,000. I really don't want to touch that — the taxes and penalties would eat a lot of it.
+Agent: Noted, retirement account $61,000, preference to preserve. Other real estate?
+Caller: No. Just this house.
+Agent: Outstanding debts besides the mortgage?
+Caller: I had two small business credit cards that I'm winding down. Total balance maybe $14,000 on those. Personal credit card $3,200. No car payment — we own both cars outright.
+Agent: That's helpful. Monthly expenses?
+Caller: The mortgage $2,044. Utilities — electric, gas, water — about $220 a month. Groceries for two, we're being really careful, maybe $450. Health insurance — I'm paying COBRA right now — $880 a month. That's the killer.
+Agent: COBRA is a significant expense. Any way to transition to marketplace insurance?
+Caller: I looked. The cheapest marketplace plan for both of us is about $640 a month. So I can save $240 by switching. I should probably do that.
+Agent: That's worth doing. And you can do it now — loss of job-based coverage is a qualifying life event. Even $240 a month makes a difference.
+Caller: You're right. I'll do that this week.
+Agent: So with marketplace insurance, monthly non-mortgage expenses would be roughly $1,310. Against mortgage $2,044, total obligations about $3,354, against income of $700. That's a significant shortfall.
+Caller: I know. There's no version of this where the math works right now.
+Agent: I understand. So let's talk about what we can do. Given zero income and a temporary hardship with active job search, there are a few paths. The first is a forbearance — pausing payments for a period, typically three to six months, with the deferred amount resolved later. Given your asset situation, we'd need to be transparent: with $18,000 in savings, you'd typically be expected to apply some of that, but the program guidelines allow for some discretion when the income loss is total and the savings are modest relative to the time to recovery.
+Caller: I don't mind being honest. I have $18,000. But if I burn through that in eight months and I'm still not employed, I'm in a much worse position.
+Agent: That's the right way to think about it. Preserving some savings as a buffer is rational. We'd document your available assets and the application would be reviewed by a senior underwriter who has discretion on how much weight to give the asset position versus the income situation.
+Caller: What's the most realistic option you see for me?
+Agent: Honestly, Frank, given the income uncertainty — zero income, six-month potential recovery timeline — I think a twelve-month forbearance application is worth pursuing. That's the outer edge of most programs, but given the nature of a business closure after fourteen years, the complete income loss, and the documented job search, there's a case to be made. We'd likely start with a six-month approval and review at the halfway point.
+Caller: What happens at the end of the forbearance?
+Agent: At the end, if you're employed, you'd either go on a repayment plan for the deferred amounts, or more likely you'd apply the deferred balance as a deferral — adding it to the back of the loan. If you're still not employed at six months, we'd review for an extension or evaluate whether a loan modification makes more sense.
+Caller: And what about a loan modification? Could that lower my payment permanently?
+Agent: A modification could extend your loan term and lower the payment. With your current balance of $277,400 and fourteen years remaining in the original thirty-year term — actually let me check, you originated in 2015 so you're ten years in — we could potentially re-amortize over a longer period. Extending back to a thirty-year amortization from your current balance could drop the payment significantly. But a modification requires demonstrated income to qualify for the new terms.
+Caller: So I'd need to be employed first.
+Agent: Typically yes. That's why the forbearance bridge makes sense — it gets you to employment, then we reassess.
+Caller: Okay. I'm on board with the forbearance application. What documents do you need?
+Agent: For self-employed business closure, I need your most recent two years of personal tax returns — those are critical for establishing your income history. I also need your business dissolution paperwork from May. Bank statements for the last three months personal and business. A hardship letter explaining the business closure and job search. And if you have any correspondence from the clients you lost, that can help substantiate the business hardship narrative.
+Caller: I have all of that. My accountant has been helping me organize everything for the wind-down anyway.
+Agent: Perfect. Upload everything to meridianmortgage.com/hardship-upload with your case number. I'm opening that now — case HP-2025-031739. You'll receive an email acknowledgment with the full document list.
+Caller: My email is fdimaggio69 at gmail dot com.
+Agent: Got it. Frank, I also want to mention — the Small Business Administration has some transition resources for closed businesses, and Arizona's Department of Economic Security may have emergency assistance programs worth exploring. And HUD housing counselors at 1-800-569-4287 can sometimes identify resources specific to self-employed borrowers.
+Caller: I'll look into those. I've been so focused on the job search I haven't researched assistance programs.
+Agent: Totally understandable. You're managing a lot. Case HP-2025-031739. Please get those documents in as soon as you can — your savings timeline makes speed important.
+Caller: I'll upload tonight. Thank you, Carlos. You've been straightforward with me and I appreciate that.
+Agent: You've been very straightforward with me too, Frank. That makes this much easier to work with. Good luck with the job search. Call us if anything changes.
+Caller: Will do. Thanks. Goodbye.
+Agent: Goodbye, Frank. Take care.

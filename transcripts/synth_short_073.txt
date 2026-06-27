@@ -1,0 +1,32 @@
+Agent: Thank you for calling Clearwater Mortgage Servicing. This is James. How can I help you today?
+Caller: Hi James. I need to send you a power of attorney document. My mother has a loan with you and she's given me authority to manage her account. I was told I need to fax it. Can you give me the fax number?
+Agent: Yes, we do accept power of attorney documents by fax for account authorization requests. Let me get some information first. Can I get the borrower's name and loan number so I can note the account?
+Caller: Sure, the borrower is my mother, Dorothy Huang. Her loan number is 8823-JJ-94405.
+Agent: Thank you. And can I get your name?
+Caller: My name is Kevin Huang.
+Agent: Thank you Kevin. I do need to verify the account for security purposes. Can you confirm the property address on Dorothy's loan?
+Caller: Yes, it's 1440 Peach Tree Court, Atlanta, Georgia 30309.
+Agent: And the last four of Dorothy's Social Security number if you have it?
+Caller: Yes, it's 5531.
+Agent: Thank you. I do have the account pulled up. I see there's no power of attorney currently on file, so sending that document will start the authorization process. Our fax number for legal documents including power of attorney is 1-855-203-7741.
+Caller: Let me write that down. 1-855-203-7741.
+Agent: That's correct. I want to make sure the document gets processed efficiently, so let me give you some guidance on what to include with the fax.
+Caller: Please, that would be helpful.
+Agent: On your cover sheet please include the borrower's full name, Dorothy Huang, the loan number 8823-JJ-94405, and a note that this is a power of attorney submission for account authorization. Also include your name and a callback number in case our document review team has questions.
+Caller: Okay. And what format should the power of attorney be in? Does it need to be notarized?
+Agent: Yes, we require that the power of attorney be notarized to be accepted. It should be a durable power of attorney and it should clearly state that you as the agent have authority over financial and real property matters. A general or limited POA may not be sufficient depending on what actions you need to take on the account.
+Caller: It is a durable power of attorney that was notarized. She had it done by her attorney.
+Agent: That sounds like it should meet our requirements. Our document review team will examine it once received and will contact you if there are any issues or if additional documentation is needed.
+Caller: How long does it take to process?
+Agent: Typically three to five business days after we receive the fax. Once it's accepted, your name will be added to the account as an authorized third party and you'll be able to call in and speak with us about the account.
+Caller: And once I'm authorized, will I be able to make payments, request information, all of that?
+Agent: The scope of what you can do depends on what the POA document grants. Most durable POAs cover financial transactions including payments, payoff requests, account inquiries, and change requests. Our team will review the specific authorities when they process the document.
+Caller: Perfect. Is there anything else I should include with the fax?
+Agent: If you have a copy of a government-issued ID for yourself or for Dorothy, that can sometimes speed up the review, though it's not always required. A clear, legible fax is the most important thing — sometimes documents come through too dark or blurry and that slows things down.
+Caller: Got it. I'll make sure it's clear. Is there an email option instead of fax?
+Agent: For legal documents like power of attorney we currently require fax or original mail. Email is not accepted for these sensitive documents. The fax number I gave you is secure.
+Caller: Understood. I'll send it today. Thank you James.
+Agent: You're welcome Kevin. Is there anything else I can help you with?
+Caller: No, that's all. Have a good day.
+Agent: You too. Goodbye.
+Caller: Bye.

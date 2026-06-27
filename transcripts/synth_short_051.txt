@@ -1,0 +1,28 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, my name is Carlos, how can I help you today?
+Caller: Hi Carlos, I was just looking at my loan documents and I honestly can't remember if my mortgage is a fixed rate or an adjustable rate. I feel a little embarrassed I don't know that.
+Agent: No need to feel embarrassed at all, that's a very common question. I'd be happy to look that up for you. Can I get your name and loan number to pull up your account?
+Caller: Sure, my name is Patricia Holloway and my loan number is 8841-77203.
+Agent: Thank you, Patricia. And for verification purposes can you confirm the property address on the loan?
+Caller: Yes, it's 4412 Birchwood Drive, Springfield, Illinois 62704.
+Agent: Perfect, thank you. Let me pull that up here. One moment please.
+Caller: Of course, take your time.
+Agent: Alright, I have your account up here, Patricia. So your loan is a thirty-year fixed-rate mortgage. That means your interest rate will not change for the entire life of the loan.
+Caller: Oh great, okay. So it stays the same no matter what happens with interest rates in the market?
+Agent: That's exactly right. With a fixed-rate mortgage your rate is locked in from the time the loan closed and it will remain at that rate until the loan is paid off or refinanced. You don't have to worry about your rate going up or down based on economic conditions or any index.
+Caller: That's a relief honestly. I remember when I was buying the house my lender explained the difference between fixed and adjustable but it was so much information all at once. I couldn't retain it all.
+Agent: Completely understandable, there's a lot to absorb when you're going through a home purchase. To recap for you, a fixed-rate loan like yours keeps the same interest rate throughout. An adjustable-rate mortgage, or ARM, starts with a rate that's fixed for an initial period and then adjusts periodically based on a market index.
+Caller: Right, I think I remember hearing about ARMs. Some of my coworkers have those. Is mine definitely not one of those?
+Agent: Correct, yours is definitively a fixed-rate mortgage. There is no adjustment period, no index it's tied to, and no caps to worry about because the rate simply does not move.
+Caller: And what's my interest rate, while I have you on the line?
+Agent: Your current interest rate is 6.375 percent.
+Caller: Okay, 6.375. And that's going to stay the same for the rest of my loan?
+Agent: Yes, that's correct. Unless you refinance into a new loan product, that rate stays in place.
+Caller: Got it. And I have about twenty-two years left on the loan, correct?
+Agent: Let me verify that for you. Yes, based on your origination date and payment history your remaining term is approximately twenty-two years and four months, give or take.
+Caller: That's about what I thought. Okay, that really clears things up for me. I was worried for a second that maybe I had one of those adjustable ones and just didn't realize it.
+Agent: That's a very reasonable concern and I'm glad you called in to confirm. It's always a good idea to know the type of loan you have. Is there anything else I can help you with today?
+Caller: No, I think that covers it. You were very helpful, Carlos, thank you.
+Agent: My pleasure, Patricia. Have a wonderful day and don't hesitate to call us if you have any other questions about your loan.
+Caller: Will do, thanks again.
+Agent: Thank you for calling Horizon Mortgage Servicing. Goodbye.
+Caller: Bye bye.

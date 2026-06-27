@@ -1,0 +1,33 @@
+Agent: Thank you for calling Allegiance Mortgage Servicing, this is Tom. How can I help you today?
+Caller: Hi Tom, my name is Judith Carmichael. I paid off my mortgage a few months ago and I received a document in the mail called a discharge of mortgage. I just want to make sure I understand what it is and what I'm supposed to do with it. I've never seen one before.
+Agent: Congratulations on paying off your mortgage, Ms. Carmichael! The discharge of mortgage is actually one of the most important documents you'll ever receive related to your home. Let me pull up your account to confirm everything is in order, and then I'll explain exactly what the document is and what you should do with it. Can I get your loan number or property address?
+Caller: Yes, the address is 215 Harrington Glen Road, Hartford, Connecticut 06117. Loan number was AL-88-55-0091, though I assume the account is closed now.
+Agent: That's fine, I can pull up closed accounts. And your full name for verification?
+Caller: Judith Anne Carmichael.
+Agent: Last four of your Social?
+Caller: 8820.
+Agent: Thank you. I have the account history. I can confirm your loan was paid in full and closed. The discharge of mortgage was prepared and recorded. Let me explain exactly what that document is. In simple terms, a discharge of mortgage — also called a satisfaction of mortgage in some states — is the legal document that officially releases the mortgage lien from your property. When you took out your mortgage, we filed a lien against your property in the public land records. That lien gave us a legal interest in your home as security for the loan. Now that you've paid in full, the lien has to be formally removed.
+Caller: And the discharge does that?
+Agent: Yes. The discharge document states that the mortgage debt has been paid and satisfied in full and that we release all claims against the property. Once it's recorded with the town clerk or registry of deeds — in your case, that would be the Hartford land records — the lien is publicly removed. That's what makes the document so important.
+Caller: Was it already recorded? Or do I need to do that?
+Agent: In Connecticut, the mortgage servicer is responsible for recording the discharge. We record it with the town clerk's office in the town where the property is located. I can see in your account notes that the discharge was recorded approximately three weeks after your payoff date. You should be good.
+Caller: How can I verify it was actually recorded?
+Agent: You can verify through the Hartford town clerk's land records. Many towns have online portals where you can search by property address or by your name. If you search for your property at 215 Harrington Glen Road, you should see a recorded entry for a discharge of mortgage in our name dated around the time your loan was paid off. If you prefer to verify in person or by phone, you can contact the Hartford town clerk's office directly.
+Caller: I'll do that. Now, the document I received in the mail — it has a lot of legal language and stamps on it. Is this the recorded copy?
+Agent: It should be. A recorded copy will typically have a stamp or notation from the town clerk indicating the instrument number, the recording date, and the recording fees. If you see those notations — often in a box or stamp in the corner or margin of the document — then yes, what you have is the recorded copy.
+Caller: It does have a stamp that says recorded and has a number on it.
+Agent: Perfect. That is your recorded discharge. That document is proof that the lien has been removed from public record. It is one of the most important documents you can have for your home.
+Caller: Where should I keep it?
+Agent: Treat it like a vital document — same level as your deed, your will, and your other critical papers. Options include a fireproof safe at home, a bank safe deposit box, or both. I'd also strongly recommend scanning it and saving a digital copy in a secure location — a cloud storage service, an encrypted drive, or emailed to yourself. The physical document can be replaced if lost, but it's a time-consuming process that involves contacting the town clerk and in some cases going to court, so preserving it is well worth the effort.
+Caller: What if I decide to sell the house someday? Does the buyer's title company need this?
+Agent: The title company will search the public records and will find the recorded discharge as part of their title search. They don't necessarily need your physical copy because it's in the public record, but having it available can help resolve any questions quickly. If for any reason the recording isn't showing up in a future title search — which would be unusual but can happen with older records — your physical copy serves as the backup proof.
+Caller: That's good to know. One more thing — I also got a separate small check from you around the same time. Was that related?
+Agent: Very likely, yes. That would be a refund of any remaining escrow balance — funds that were collected for taxes and insurance but not yet disbursed at the time of payoff. Was it a small amount?
+Caller: It was about $580.
+Agent: That sounds right for an escrow refund. When a loan pays off, we close the escrow account and issue a refund of any balance within 30 days. The $580 was simply your own money being returned to you — it was sitting in escrow and is yours to keep.
+Caller: I deposited it. I just wanted to make sure that was okay.
+Agent: Absolutely okay — that was completely legitimate. Is there anything else I can help clarify about the discharge or your account?
+Caller: No, I think I understand everything now. Thank you, Tom. This was very thorough.
+Agent: My pleasure. Enjoy owning your home free and clear, Ms. Carmichael. Have a wonderful day.
+Caller: Thank you. You too. Bye.
+Agent: Goodbye.

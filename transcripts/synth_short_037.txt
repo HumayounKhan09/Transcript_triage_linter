@@ -1,0 +1,39 @@
+Agent: Thank you for calling Westgate Mortgage Servicing, this is Priya. How may I assist you today?
+Caller: Hi there. I want to make a payment that goes only to my principal, not to interest or escrow. Can I do that online?
+Agent: Great question. Let me look into your account so I can give you accurate information about your online payment options. Can I get your name please?
+Caller: Sure, it's Anthony Yamamoto.
+Agent: Thank you, Mr. Yamamoto. And your loan number or property address?
+Caller: Loan number is 00728-55310.
+Agent: And for verification, the last four of your Social Security number?
+Caller: 8847.
+Agent: And your date of birth?
+Caller: January 14, 1990.
+Agent: Thank you, one moment.
+Caller: Sure.
+Agent: Okay, I have your account here. Yes, you can make a principal-only payment online. Your account has access to our borrower portal and the principal-only payment option is available there.
+Caller: Oh great. I wasn't sure because I'd only ever made the regular monthly payment online.
+Agent: The regular payment option is the one most people use, and the principal-only option is a separate function. I can walk you through how to find it if that would help.
+Caller: Please, yes.
+Agent: When you log in to your account on the website, you'll see the main payment section. Instead of selecting the standard monthly payment, look for a link or tab that says Additional Payment or Extra Payment. Some borrowers miss it because it's a secondary option below the main payment button.
+Caller: Okay, and that's where I choose principal only?
+Agent: Exactly. When you click into that Additional Payment section, you'll be prompted to choose how you want the funds applied. The options are usually principal reduction, escrow contribution, or fees. You would select principal reduction.
+Caller: And there's no restriction on how much I can pay toward principal online?
+Agent: There's no minimum for a principal-only payment beyond your standard payment, and as a reminder there's no prepayment penalty on your loan. However, the online portal does have a maximum per-transaction limit of $25,000 for principal-only payments for security purposes. If you ever wanted to pay more than that in a single payment, you'd need to call in or use a wire transfer.
+Caller: That's fine, I'm not doing anything close to that amount. I just want to throw an extra couple hundred dollars at it when I have spare cash.
+Agent: That's a great strategy. Even small additional principal payments add up significantly over the life of a loan. A few hundred dollars here and there can shave months or even years off your payoff date depending on where you are in the amortization schedule.
+Caller: That's what I've heard. Is there a best time of the month to make it?
+Agent: There's no required timing for principal-only payments, but generally making them earlier in the month means they're applied before the next interest accrual period, which gives them a slightly greater impact. Practically speaking though, any time works well.
+Caller: Good to know. And once I submit it, how do I know it was applied correctly?
+Agent: After you submit the payment, you'll receive an email confirmation. You can also check your account balance in the portal, which is updated within one to two business days after the payment processes. The transaction history will show the payment clearly labeled as principal reduction.
+Caller: And it won't affect my regular monthly payment, right? Like it doesn't count as my next payment?
+Agent: Correct. A principal-only payment is completely separate from your regular monthly payment obligation. Your next regular payment will still be due on the 1st of next month. The principal-only payment simply reduces your outstanding balance and doesn't satisfy the regular payment.
+Caller: Good. I just wanted to be sure it wasn't going to mess up my payment schedule.
+Agent: Not at all. It's a clean, separate transaction. Your regular payment schedule remains exactly the same.
+Caller: Perfect. I think I have everything I need. I'll log in tonight and try it out.
+Agent: Sounds great. If you run into any trouble finding the option on the portal, you're welcome to call us back and we can walk through it in real time.
+Caller: I appreciate that. Thanks, Priya.
+Agent: Of course. Is there anything else I can help you with today?
+Caller: No, that's all. Thanks again.
+Agent: Thank you for calling Westgate Mortgage Servicing, Mr. Yamamoto. Have a great evening.
+Caller: You too. Bye.
+Agent: Goodbye.

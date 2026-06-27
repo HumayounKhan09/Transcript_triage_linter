@@ -1,0 +1,37 @@
+Agent: Meridian Mortgage Servicing, this is Fatima. How can I help you today?
+Caller: Hi Fatima, my name is Greg Johansson. I have a somewhat complicated situation. We had some renovation work done on our house last year and we had a dispute with the contractor. He filed something called a mechanics lien against my property. We resolved the dispute in court — we won — and now we're trying to get that lien released. Someone told me I might need to notify you and that you might need to be involved somehow.
+Agent: Hi Mr. Johansson, thank you for calling. That is a complex situation involving a mechanics lien, which is separate from your mortgage lien. Let me pull up your account and we can discuss what role, if any, we have in this process. First, can I verify your identity?
+Caller: Sure. The property is at 744 Birchdale Way, Denver, Colorado, 80206.
+Agent: Thank you. Last four of your Social?
+Caller: 4412.
+Agent: Date of birth?
+Caller: March 22nd, 1971.
+Agent: Thank you. I have your account. Now, to clarify — a mechanics lien filed by a contractor is a separate lien from your mortgage. It's filed with the county recorder against the property when a contractor claims they weren't paid for work performed. Your mortgage lien is our lien — the lender's security interest. These are two distinct liens.
+Caller: Right. So what's the connection with you?
+Agent: We have an interest as your mortgage servicer because our lien is supposed to be in first position. If a mechanics lien were to supersede our lien — which is possible under some states' lien priority laws — it could affect our security interest. In Colorado, mechanics liens can sometimes have priority based on when work commenced, which can potentially jump ahead of even a recorded mortgage.
+Caller: Okay, I didn't know that. So you might have a priority concern?
+Agent: It's something we monitor. If a mechanics lien is filed against a property we hold a mortgage on, it can affect our collateral position. In practice, most mechanics liens are resolved or released before they escalate to that level. Since you said you won in court, it sounds like the lien should be discharged.
+Caller: The judge ordered the lien released. I have the court order. But the contractor hasn't actually filed the release with the county yet, and I've been told I can do it myself using the court order.
+Agent: In Colorado, if a court orders the release of a mechanics lien, you can typically record the court order with the county clerk and recorder to serve as the lien release. You don't need the contractor to cooperate. The court order itself is the document that clears the record.
+Caller: That's what my attorney told me. My question is — do I need to send anything to you, or notify you, as part of this process?
+Agent: Notifying us is a good practice, and I'd recommend it. Once you record the court order with the county and obtain the stamped, recorded copy, you can send us a copy so we can update our account records to note that the mechanics lien has been released. It keeps our file complete and ensures no confusion if the lien shows up in a future title search.
+Caller: Good. So I don't need your permission or your signature to do this?
+Agent: No. The release of a mechanics lien is between you, the contractor, and the county. We don't have a procedural role in that process. Your court order should be sufficient to record the release at the county recorder's office.
+Caller: Okay. And once it's recorded, will it automatically disappear from my title?
+Agent: Once the release is recorded, it creates a public record that the lien has been discharged. Anyone doing a title search — which happens if you sell or refinance — will see both the original lien filing and the subsequent release. Typically the release shows the lien is no longer active. It doesn't erase the history, but it resolves the encumbrance.
+Caller: Is there any chance this mechanics lien affected my mortgage in any way? Like did it trigger any kind of response from you?
+Agent: Let me look at your account. I do see a notation that a mechanics lien was identified on the property, but I don't see any adverse action taken on your account as a result. Your payments are current and the account is in good standing. The notation may have been a flag for monitoring, but it didn't result in any change to your loan terms.
+Caller: Good. I was worried there might be some kind of reaction from you, like a call or a letter I missed.
+Agent: If the lien had gone to a point where it posed a serious threat to our security interest, we might have reached out. But since you resolved it through the courts, and your loan is current, it doesn't appear to have escalated on our end.
+Caller: One more thing — the contractor is refusing to provide a lien release waiver voluntarily even though the court ruled against him. My attorney says that's fine because the court order is enough, but is there any document format I should use when I record it?
+Agent: You'd want to work directly with the Denver County Clerk and Recorder for the exact format requirements. Most counties in Colorado have a specific process for recording court-ordered lien releases. Your attorney would likely know the local requirements, and the clerk's office can confirm. The key thing is that the court order is certified — meaning it has the court's stamp or seal — when you bring it to record.
+Caller: My attorney has a certified copy. So that should be fine.
+Agent: That should be exactly what you need. And once you have the recorded copy back, feel free to send us a copy by mail or through our document portal. I'll put a note on your account that you'll be sending us a copy of the lien release.
+Caller: That would be great. My loan number — do you have that handy?
+Agent: Yes. Your loan number is 4-0-0-3-9-7-2-2-1. Please reference that in your correspondence.
+Caller: Perfect. Well, thank you Fatima. You've given me a lot of clarity.
+Agent: Happy to help. It sounds like you're handling this very methodically. Is there anything else I can help you with today?
+Caller: No, I think I have what I need.
+Agent: Wonderful. Thank you for calling Meridian Mortgage, Mr. Johansson. Have a good day.
+Caller: You too. Bye.
+Agent: Goodbye.

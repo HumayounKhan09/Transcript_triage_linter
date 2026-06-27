@@ -1,0 +1,117 @@
+Agent: Thank you for calling Cornerstone Mortgage Servicing, my name is James. How can I assist you today?
+
+Caller: Hi James, my name is Patricia Okonkwo. I'm calling because my mother passed away two months ago and I've inherited her home. I want to keep the house but I'm not on the mortgage and I'm not sure what my rights are or how to even handle this.
+
+Agent: Patricia, first I'm very sorry for the loss of your mother. Inheriting a home with an existing mortgage is something we deal with regularly and there are protections in place for you. Let me pull up the account. Can you give me your mother's name and the property address?
+
+Caller: Her name was Grace Okonkwo. The address is 7714 Maple Glen Road, Charlotte, North Carolina 28262.
+
+Agent: One moment. Okay, I have the account. Grace Okonkwo, loan number 4489231, current unpaid principal balance of $141,800. The property is a single-family home. I see the loan is current — so your mother's payments were up to date?
+
+Caller: Yes. She was very diligent. I actually want to continue making payments while this gets sorted out.
+
+Agent: That's the right instinct and it's very helpful for your situation. Now, before we go further I want to explain something important — and this is federal law. There's a law called the Garn-St. Germain Depository Institutions Act of 1982. Under this law, a lender cannot call a loan due and payable — meaning they cannot demand immediate repayment of the full balance or foreclose — solely because property has been transferred due to the death of a borrower, when the transfer is to a relative of the borrower who intends to occupy the property.
+
+Caller: So they can't force me to pay off the whole loan just because she died?
+
+Agent: Correct. As a relative who has inherited the property and intends to live there, you are protected. The due-on-sale clause that's typically in mortgage contracts — which would normally allow us to call the loan if the property changed hands — cannot be triggered by an inheritance transfer to a relative who will occupy the home.
+
+Caller: That's a huge relief. I was so worried about that. But what do I need to do to formally take over? Do I have to apply for the mortgage like it's new?
+
+Agent: You don't have to go through a full new loan origination, but there are steps. First, we need to document the transfer. That means you'll need to provide us with a certified copy of your mother's death certificate, a copy of the will or court order confirming you as the heir to the property — or the deed if it's been transferred to you already — and a letter of intent confirming that you plan to occupy the property as your primary residence.
+
+Caller: The house has been through probate. We just got the deed transferred into my name last month. I have the new deed.
+
+Agent: Perfect. That new deed is the most important document. If the deed is already in your name, the transfer has legally occurred. You'll provide that to us along with the death certificate and we can update our records to add you as the successor in interest. At that point, you have full rights as the legal borrower — including the right to request account information, receive notices, and apply for loss mitigation.
+
+Caller: What about assuming the mortgage formally? My neighbor mentioned mortgage assumption and I wasn't sure if that was the same thing or different.
+
+Agent: Great question. What we've been describing so far — documenting you as the successor in interest — gives you protections and account access but you're not technically on the loan document. A formal assumption means you sign a new assumption agreement and become legally responsible for the debt going forward. The terms — interest rate, remaining loan balance, loan type — typically remain the same under an assumption.
+
+Caller: Would I have to qualify for the mortgage to do a formal assumption?
+
+Agent: On conventional loans, the servicer can require creditworthiness review for an assumption. However, given the Garn-St. Germain protections and CFPB successor in interest rules, if you're already the documented successor in interest and are living in the property, servicers are required to evaluate you for any loss mitigation options available. On FHA loans, assumptions are more straightforward and sometimes don't require full qualifying. Let me check the loan type on your mother's loan. One moment. This is a conventional loan, not FHA.
+
+Caller: Okay. So I might have to qualify. What would they look at?
+
+Agent: For a formal assumption on a conventional loan, we'd typically look at credit score, income, debt-to-income ratio. Now, Patricia, let me ask — and this relates to what you mentioned about making payments — can you comfortably afford the current payment?
+
+Caller: That's the thing. The current payment is $1,024 a month. My mother had a really low rate — 3.25%. I work as a school librarian. My take-home is about $3,200 a month. I have rent on my apartment right now but I plan to move into the house, so that rent goes away. Between the mortgage, utilities, and everything else, I think it's doable but it's tight.
+
+Agent: Let's look at that math. If you move into the house and eliminate your rent — what are you currently paying in rent?
+
+Caller: $1,100 a month.
+
+Agent: So you're swapping $1,100 in rent for $1,024 in mortgage payment, which actually saves you $76 a month. And you'd be building equity and honoring your mother's home. That math works. Your debt-to-income ratio — do you have significant other monthly debts? Car payments, student loans?
+
+Caller: I have a car payment of $340 and student loans of $180 a month. That's really about it. No credit card debt.
+
+Agent: Okay. So total monthly obligations with the mortgage would be $340 plus $180 plus $1,024 — that's $1,544. Your gross income is probably around $4,100 to $4,200 before taxes based on your take-home. Your debt-to-income ratio would be roughly 36 to 37 percent. That's within conventional guidelines, which typically max out at 43 to 45 percent. You would likely qualify for the assumption.
+
+Caller: That's really encouraging. Now, you mentioned a modification. Is there any reason to pursue a modification on top of the assumption, or is the rate already good?
+
+Agent: Your mother's rate is 3.25%, which is remarkably low — far lower than current market rates which are above 7%. A modification would not give you a better rate today. Modifications are typically used when someone is delinquent or facing hardship and needs to restructure the loan. Since the loan is current and the rate is exceptional, you want to preserve those terms exactly as they are. The assumption keeps everything intact.
+
+Caller: What if down the line I find the payment is too hard — could I apply for a modification then?
+
+Agent: Yes. As the documented successor in interest or formal assumor, you'd have access to all loss mitigation options including modification. But honestly, Patricia, at 3.25% you'd be hard pressed to get a better deal from any modification. A standard rate-and-term modification today would likely give you a rate in the 7 to 8 percent range, which would be much worse.
+
+Caller: That makes complete sense. Okay. So what are the actual next steps right now?
+
+Agent: Here's your action plan. Step one: send us the following documents — the certified death certificate, the newly recorded deed in your name, and a letter on plain paper stating your name, the property address, your relationship to the deceased, and your intent to occupy the property. You can mail those to our successor in interest processing team at PO Box 7740, Charlotte, NC 28241, or scan and upload them through our borrower portal.
+
+Caller: Can you hold while I find something to write on?
+
+Agent: Of course. Take your time.
+
+Caller: Okay, I have a pen. Go ahead.
+
+Agent: PO Box 7740, Charlotte, NC 28241, attention: Successor in Interest Processing. Or the web portal at cornerstonemortgage.com/documents.
+
+Caller: Got it. What happens once you receive those?
+
+Agent: Our team will review them, typically within 10 to 15 business days. They'll confirm you as the successor in interest and send you written acknowledgment. At that point, your name will be added to the account for communication purposes. You can call in to discuss the account, request payoff statements, access statements — everything.
+
+Caller: And payments — I want to start making payments. How do I do that without being on the account yet?
+
+Agent: You can make payments right now as the property owner. Use your mother's loan number — 4489231 — and make the payment in her name for now, or you can send a check or do an online transfer. The payment will be applied correctly. Once you're confirmed as successor in interest, you can set up your own payment method in your name.
+
+Caller: I've already been making payments actually. I paid last month's payment from her account. I want to set up my own payment going forward.
+
+Agent: That's fine. Once we have you confirmed as successor in interest, you can enroll in autopay with your own bank account through the portal. In the meantime, manual payments work just fine.
+
+Caller: One thing I'm also wondering about — is there any issue with the homeowner's insurance? My mother's policy has her name on it.
+
+Agent: Very important question. You'll want to contact her insurance company and have the policy transferred to your name or have you added as the named insured. Most homeowner's policies have provisions for this in a death or inheritance scenario. Our records show the insurance is escrowed — meaning we collect and pay the premium — and the current policy is good through November. You should make that call to the insurer soon to get the policy updated before renewal.
+
+Caller: Okay, I'll do that this week. What about the property taxes? Are those escrowed too?
+
+Agent: Yes, property taxes are also escrowed on this account. We collect monthly and pay the county directly. Once your name is on the deed and we have you confirmed, you'll want to ensure the county tax records are updated to your name as well. That's a separate process with the county assessor.
+
+Caller: This is all so much but you're explaining it so clearly. Is there anything I'm missing?
+
+Agent: One thing I'd mention — if there was any probate process, make sure there are no other claims or liens on the property that arose from your mother's estate. An estate attorney would have handled this, but if you haven't done a title search recently, it's worth doing, especially before you do the formal assumption. Title insurance would protect you going forward.
+
+Caller: The probate attorney did a title search and said the property is clear. Just the one mortgage.
+
+Agent: Then you're in great shape. You have a clear title, a below-market interest rate, a property you intend to live in, and the legal protections under Garn-St. Germain fully on your side. This is actually one of the more favorable inheritance scenarios I see.
+
+Caller: That's comforting to hear. I've been so overwhelmed with the grief and now all of this on top of it.
+
+Agent: It's a lot to carry. The practical matters don't stop when we're grieving. I hope this helps make it feel a little more manageable. I'll note this conversation on the account and flag it for our successor in interest team so they know to expect your documents.
+
+Caller: Thank you, James. You've been so helpful and patient.
+
+Agent: It's my pleasure, Patricia. Anything else before we wrap up?
+
+Caller: No, I think I have everything I need. I'm going to gather those documents and send them in this week.
+
+Agent: Perfect. And if you have any questions along the way, call us back and reference loan number 4489231. We're here Monday through Friday eight to eight and Saturday nine to noon.
+
+Caller: I'll remember that. Thank you again.
+
+Agent: Of course. Take care and take good care of your mother's home.
+
+Caller: I will. Bye bye.
+
+Agent: Goodbye, Patricia.

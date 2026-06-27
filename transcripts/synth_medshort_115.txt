@@ -1,0 +1,47 @@
+Agent: Thank you for calling Redwood Mortgage Servicing, this is Jessica. How can I help you today?
+Caller: Hi, my name is Kurt Abramowitz. I was looking at my mortgage statement and there's a warning box on it that says something about negative amortization. It kind of scared me. Can you explain what's going on?
+Agent: Hi Mr. Abramowitz. I'm glad you called about that rather than ignoring it. Let me pull up your account and we can look at it together. Can I get your loan number?
+Caller: 4456-8871.
+Agent: And the property address?
+Caller: 2203 Fernwood Lane, Las Vegas, Nevada, 89101.
+Agent: And last four of your Social?
+Caller: 0091.
+Agent: Thank you. Got your account up. I can see the warning on your statement. Let me explain what's happening here.
+Caller: Please. Because negative amortization sounds really bad.
+Agent: It is something to take seriously. Let me start with some context about your loan type. You have a payment option ARM, sometimes called a pick-a-payment loan. Does that sound familiar from when you closed?
+Caller: Vaguely. I remember being told I had payment flexibility.
+Agent: That's correct. A payment option ARM gives you multiple payment choices each month. Typically there's a minimum payment option, an interest-only payment option, and a fully amortizing payment option. You've been making the minimum payment.
+Caller: Yes, I've been making the minimum because money has been tight.
+Agent: I understand. Here's what negative amortization means: when you make the minimum payment, it covers only a portion of the interest that accrues on your balance. The interest that you don't pay gets added to your principal balance instead of reducing it. So your loan balance actually grows even though you're making payments.
+Caller: So my balance is going up?
+Agent: Yes. Let me look at your balance history. You originated this loan six years ago at $312,000. Your current balance is $329,418. So despite making payments for six years, you owe about $17,000 more than you started with.
+Caller: That's terrible. How did that happen?
+Agent: The minimum payment was set lower than the interest accruing. The difference between what you paid and what the interest required has been added to your balance each month. This is called deferred interest or negative amortization.
+Caller: Why didn't anyone warn me?
+Agent: Regulations actually do require the statement warning you're seeing now. Federal rules under the Truth in Lending Act and Regulation Z require servicers to warn borrowers when negative amortization is occurring or is likely to occur. The fact that you're seeing the warning means the disclosure requirement is working.
+Caller: But this has been happening for six years. Was the warning always there?
+Agent: Let me look at the account notes. It appears the minimum payment warnings have been on statements since origination, but I understand that these can be easy to overlook, especially in a dense statement.
+Caller: I feel like I really didn't understand what I signed up for.
+Agent: That's unfortunately a common experience with option ARM products, especially those originated in the mid-2000s era. These loans have largely been discontinued for consumer mortgages because of the confusion and harm they caused.
+Caller: So what do I do now?
+Agent: There are a few important things to understand. First, your loan has something called a negative amortization cap, typically 110 to 125 percent of the original balance. If you reach that cap, the loan forcibly recasts — meaning it jumps to a fully amortizing payment.
+Caller: What's my cap?
+Agent: Your cap is 115 percent of your original $312,000 balance, which is $358,800. Your current balance is $329,418. If you continue with minimum payments and the balance keeps growing, you could hit that recast trigger.
+Caller: How long until I hit that?
+Agent: At the current pace of minimum payments, roughly three to four years depending on how the index moves. But once you hit the cap, your payment resets to a fully amortizing amount and it can be a very large jump.
+Caller: What would that payment be?
+Agent: It's hard to project exactly since it depends on future rate movements, but based on current index levels, a fully amortizing payment on a balance near your cap limit over the remaining loan term could be in the range of $3,000 to $3,500 per month. Your current minimum payment is around $987.
+Caller: That would be devastating.
+Agent: I want to make sure you understand your options before you get there. Right now, you can start making the interest-only payment or the fully amortizing payment to stop the balance growth. That's the most immediate step.
+Caller: What is the interest-only payment?
+Agent: For your current balance and rate, the interest-only payment would be approximately $1,654 per month. That stops negative amortization and keeps your balance level, though it doesn't pay it down.
+Caller: And the full payment?
+Agent: The fully amortizing payment for remaining term is approximately $2,241. That would actually start reducing your balance.
+Caller: That's a big jump from what I'm paying now.
+Agent: It is. If you're experiencing financial hardship, we also have a hardship team that can look at workout options or loan modification programs. Given the nature of this loan and your situation, it may be worth having that conversation.
+Caller: Can I talk to someone today?
+Agent: Absolutely. I can transfer you to our loan workout team right now if you'd like.
+Caller: Yes, please do that.
+Agent: Before I transfer you, I want to make sure you have the key numbers: current balance $329,418, negative amortization cap at $358,800, interest-only payment $1,654, fully amortizing payment $2,241. The hardship team will have your account in front of them.
+Caller: Thank you Jessica. I should have called a long time ago.
+Agent: It's not too late to take action. Let me connect you now. Good luck, Mr. Abramowitz.

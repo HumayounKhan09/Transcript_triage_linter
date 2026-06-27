@@ -1,0 +1,49 @@
+Agent: Thank you for calling Pinnacle Loan Services. This is Marcus. Can I get your loan number?
+Caller: 5529-8812. Helen Kowalski.
+Agent: Thank you, Ms. Kowalski. Can I verify your date of birth and property zip code?
+Caller: Date of birth May 3, 1961. Zip code is 60614.
+Agent: Thank you. I have your account. How can I help you today?
+Caller: I'm calling because I sent a Qualified Written Request to your company on April 28th and I have not received a proper response. I'm an attorney and I know my rights under RESPA. Under Section 2605(e), you are required to acknowledge a QWR within five business days and provide a substantive response within 30 business days. It has now been 60 days and I have received nothing. Nothing. I want to speak to someone who can tell me what you're going to do about this.
+Agent: Ms. Kowalski, I hear you and I take this very seriously. I want to make sure we address this correctly. Let me pull up your account and look at the correspondence log. Can you give me a moment?
+Caller: Sure.
+Agent: I'm looking at your account and your correspondence history. I do see a notation on April 28th that says written correspondence received. Let me look more closely at what happened after that date.
+Caller: What I sent was a QWR requesting the complete payment history on my account going back to origination, the name and contact information of the current loan owner, copies of all servicing notes and communication logs related to my account, and a detailed accounting of all fees assessed in the past 36 months. That's a comprehensive but entirely lawful request.
+Agent: Understood. I can see the April 28th receipt notation, and I can see that it was routed to our correspondence team on May 1st. Let me look for any outgoing response. I'm looking through the file. I see a note on May 4th that says QWR acknowledged — let me check for whether an acknowledgment was actually mailed or emailed.
+Caller: I received no acknowledgment.
+Agent: I see an internal note that says acknowledgment generated. I don't see a confirmation that it was transmitted. That's a problem. And for the 30-day substantive response, let me look — I see the 30-day deadline would have been June 5th. I'm looking for a response dated on or before June 5th.
+Caller: There was none.
+Agent: I don't see one in the file. Ms. Kowalski, I want to be transparent with you. It appears that your QWR was received, an acknowledgment may have been generated internally but not transmitted to you, and the substantive response was not completed by the June 5th deadline. This is a RESPA compliance failure and I am not going to try to minimize that.
+Caller: I appreciate your candor. What I need to know is what your company is going to do about this and when I am going to receive the information I requested.
+Agent: I'm going to escalate this call immediately to our compliance team. This isn't something that should be handled at the standard servicing level. A RESPA QWR failure requires compliance team intervention. Before I do that, I want to make sure I document your call thoroughly. Can you confirm the date and method you used to send the QWR?
+Caller: I sent it by certified mail, return receipt requested, on April 28th, 2026. It was addressed to Pinnacle Loan Services, Qualified Written Request, at your correspondence address published on your website — 1400 Financial Drive, Suite 200, Chicago, Illinois 60601.
+Agent: And did you receive the return receipt card back confirming delivery?
+Caller: I did. It was signed and returned to me. Delivered April 29th, 2026. I have the green card in my hand right now.
+Agent: That definitively establishes receipt on April 29th. The five-day acknowledgment window would have expired May 6th and the 30-day substantive response deadline was May 29th, using April 29th as the receipt date. We are now on June 27th, which is 59 days after receipt.
+Caller: Correct.
+Agent: The failure is clear. I'm creating a compliance escalation ticket right now. Our compliance team will review this as a potential RESPA violation. They are required to contact you within two business days of the escalation. I'm also going to flag this as a priority given the legal expertise you've indicated you have.
+Caller: Two business days is June 30th or July 1st. I need to know: will the actual information I requested be provided within that timeframe?
+Agent: I can't commit to a delivery date on the substantive response in this conversation because that requires compliance team sign-off. What I can tell you is that the standard response timeline once this is escalated is five to seven business days for the substantive response package to be compiled. Our compliance team will be in contact before then to confirm a committed timeline.
+Caller: I also want you to know that I have already filed a complaint with the Consumer Financial Protection Bureau. Complaint number is 2026-CF-0441837. I filed it on June 20th.
+Agent: I want to note that CFPB complaint number in your file. That complaint will be routed to our regulatory response team, which works independently from standard servicing. I'll make sure both teams — compliance and regulatory response — are cross-referenced on your account.
+Caller: I also want to ask — the fees I specifically requested an accounting for. My account shows a collection of what appear to be property inspection fees dating back 18 months. I never consented to those inspections. Can you tell me what those are?
+Agent: I can see there are property inspection charges on your account. Let me look at the dates and amounts. I'm seeing fees of $15 each, dated approximately every 30 days starting November 2024. There are 18 charges totaling $270.
+Caller: I have never been more than 30 days past due on this mortgage. Why are property inspections being ordered on a current mortgage?
+Agent: That is an important concern and I want to be careful here. Property inspections are typically ordered when a loan is past due or when there's a concern about occupancy. If your account was never past due and inspections were still ordered, that would be inappropriate and the fees should not have been assessed. However, I need to flag this for the compliance team rather than making a determination on this call, because this may be part of what should have been addressed in your QWR response.
+Caller: I agree. I'd prefer the compliance team address it in a written response rather than having you make a determination verbally right now. I just want it on the record that I raised it.
+Agent: It is on the record. I'm quoting your concern verbatim in the escalation notes: borrower states account was never past due, questions basis for property inspection fees totaling $270 over 18 months beginning November 2024. Is there any other aspect of your QWR or your account you want on the record today?
+Caller: Yes. My QWR also requested the identity of the current loan owner. I want to know who actually owns my loan.
+Agent: I can answer that one. Your loan is owned by the Federal National Mortgage Association, commonly known as Fannie Mae. The investor loan number on file is FN-2201-44821. Pinnacle is acting as the servicer on behalf of Fannie Mae.
+Caller: And Fannie Mae's contact information for borrower inquiries?
+Agent: Fannie Mae's customer help line is 1-800-232-6643. However, as servicer, Pinnacle is the primary point of contact for servicing issues. Fannie Mae will typically refer you back to the servicer unless there's a specific investor-level grievance.
+Caller: Understood. I want a name and direct contact for whoever handles RESPA compliance at your company.
+Agent: Our compliance team is accessible by email at compliance@pinnacleLoanservices.com. I'm going to include that in the escalation documentation. A direct individual name is something the compliance team would need to provide. I'll ask them to include a named contact person when they reach out to you.
+Caller: Fair enough. My email for compliance team contact is hkowalski.law@lawfirm.net. And my direct phone is 312-554-8821.
+Agent: I've documented both. I want to confirm what I'm doing on my end as we wrap up. I'm creating a priority compliance escalation ticket noting the April 28th QWR mailing, April 29th confirmed delivery, May 6th acknowledgment deadline missed, May 29th substantive response deadline missed, your CFPB complaint number 2026-CF-0441837, your concern about property inspection fees on a current account, and your request for written substantive response including full payment history, servicing notes, fee accounting, and loan owner identification. The compliance team will contact you at the phone and email you provided within two business days.
+Caller: That's satisfactory. I expect a written substantive response within seven business days or I'll be taking additional action. I wanted to make sure that was clear.
+Agent: That's clearly noted in the file, Ms. Kowalski. I appreciate your directness and I'm sorry this wasn't handled correctly from the beginning.
+Caller: Thank you, Marcus. I hope the compliance team is more responsive than the correspondence team was.
+Agent: I believe they will be. Is there anything else you need from me today?
+Caller: No. That covers it.
+Agent: Thank you for calling Pinnacle Loan Services. Have a good afternoon.
+Caller: You too. Goodbye.
+Agent: Goodbye.

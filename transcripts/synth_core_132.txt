@@ -1,0 +1,40 @@
+Agent: Thank you for calling Pinnacle Mortgage Advisors, this is Daniel speaking. How can I assist you today?
+Caller: Hi Daniel. My name is Cassandra Whitfield. I have a private money loan on my rental property and the interest rate is brutal — 11.5 percent. I want to refinance into a conventional mortgage. Is that possible?
+Agent: Hi Cassandra. Yes, that is definitely possible in many cases, and an 11.5 percent rate is certainly worth refinancing if you can qualify. Private money loans — sometimes called hard money loans — are typically short-term and high-rate, so refinancing into a conventional loan is actually a very common exit strategy. Tell me a bit more about the property and the loan.
+Caller: Sure. It's a single-family rental property in Phoenix, Arizona. I bought it two years ago for $385,000. The private lender loaned me $295,000 and I owe about $287,500 now. The loan is interest-only so I haven't paid down much principal.
+Agent: Understood. And what is the property currently worth, do you think?
+Caller: My neighbor's similar house sold last month for about $440,000, so I think mine is worth at least that.
+Agent: If that holds up in an appraisal, that puts your loan-to-value ratio at around 65 percent, which is excellent for conventional financing. That level of equity will give you very strong options. What's the purpose of the property — you mentioned it's a rental?
+Caller: Yes, it's a long-term rental. I have tenants paying $2,200 a month and they've been there for 14 months.
+Agent: Good. That helps with underwriting. For investment property conventional loans, lenders typically look at rental income as part of your qualifying income. They'll usually count 75 percent of gross rental income to account for vacancy and expenses. So 75 percent of $2,200 is $1,650 per month that could be applied toward qualifying.
+Caller: My personal income is also steady. I'm a software engineer making $145,000 a year.
+Agent: That's a strong income profile. Let me give you a sense of what you might expect. Conventional investment property loans currently carry rates in the 7.25 to 7.75 percent range, depending on your credit score and other factors. That would be a substantial improvement over 11.5 percent.
+Caller: The monthly difference would be significant. What's my credit score going to matter here?
+Agent: For investment property conventional loans, credit score matters quite a bit. The minimum is generally 620 to qualify, but to get the best pricing you'd want 740 or above. Every 20-point tier below 740 can add what's called loan-level price adjustments — essentially higher rates or fees. Do you have a sense of your credit score?
+Caller: I checked last week. I'm at 748.
+Agent: Perfect. At 748 you're in the top pricing tier, which is great. Combined with a 65 percent loan-to-value, you'd be looking at very competitive pricing. I'd estimate your monthly payment could drop from — let me think — at 11.5 percent interest-only on $287,500 that's about $2,754 per month. At 7.5 percent on a 30-year amortizing loan on, say, $287,500, you'd be looking at around $2,011 per month. That's over $700 per month in savings.
+Caller: That's a huge savings. Why didn't I do this sooner?
+Agent: Investment property conventional loans do require that the property be held and seasoned for a period of time in some cases, and some lenders want to see a track record of rental income. How long have you owned the property?
+Caller: About 26 months.
+Agent: Over two years is generally sufficient seasoning. There's one thing I should mention: Fannie Mae and Freddie Mac, which back conventional loans, have specific guidelines for investment properties. For example, you can only finance up to 10 conventional loans at once. Do you currently have other mortgages?
+Caller: I have a mortgage on my primary residence and one other rental. So this would be my third.
+Agent: That's well within the limits. Three is very manageable. I also want to ask — what are the terms of your private money loan? Is there a prepayment penalty?
+Caller: I'm not sure. The contract might say something about that. How would I find out?
+Agent: You'd need to review the promissory note you signed with the private lender. Look for any language about prepayment penalties, exit fees, or yield maintenance. Some private loans charge a percentage of the loan balance if you pay off early, which could affect the math on whether refinancing makes sense right now.
+Caller: I'll dig that out tonight. What if there is a prepayment penalty?
+Agent: It depends on the amount. If it's, say, 1 to 2 percent of the balance, that's around $2,875 to $5,750. At $700 per month in savings, you'd break even in 4 to 8 months, so it would still likely make sense to refinance. If it's higher, we'd want to run the numbers more carefully.
+Caller: That makes sense. What documents will I need to apply?
+Agent: For an investment property conventional refinance, you'll need two years of personal tax returns and W-2s or 1099s, two months of bank statements, a copy of your current lease agreement showing the tenant and rent amount, your most recent mortgage statement on all properties, and the promissory note for the private money loan. We'll also order an appraisal as part of the process.
+Caller: How long does a refinance like this usually take?
+Agent: Typically 30 to 45 days from application to closing. The appraisal can sometimes be the longest piece, especially in busy markets. Phoenix has an active appraisal market but we have reliable partners there.
+Caller: Okay. I want to move forward. What's the next step?
+Agent: I'll start a loan inquiry for you today. I'll need your full legal name, Social Security number for a soft credit pull, and the property address. The soft pull won't affect your credit score.
+Caller: Cassandra Lynn Whitfield. I'll give you my Social and the address — do you need that on this call?
+Agent: Yes, we can take that now and I'll get the inquiry set up for you. Go ahead whenever you're ready.
+Caller: Okay, the property is 7714 Desert Mesa Drive, Phoenix, Arizona 85022. And my SSN is 542-66-8801.
+Agent: Got it. I'll get that entered and have a loan officer reach out to you within 24 hours to start the full application. Is the best number the one that called in today?
+Caller: Yes, 602-555-0347.
+Agent: Perfect. Is there anything else I can help you with today, Cassandra?
+Caller: No, that covers it. Thanks for walking me through all of this, Daniel.
+Agent: Of course. We'll get you out of that 11.5 percent loan. Have a great day!
+Caller: Thanks, you too. Bye!

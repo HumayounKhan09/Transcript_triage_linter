@@ -1,0 +1,43 @@
+Agent: Thank you for calling Pinnacle Home Loans, my name is Tom. How may I help you today?
+Caller: Hi Tom. I wanted to add my partner's contact information to my account. Not to the loan itself, just so that if there's ever an issue someone can reach her. Is that something you can do?
+Agent: Yes, we can add an authorized contact to your account. This wouldn't change anything about the legal structure of the loan, just adds someone as a point of contact for communication purposes. Let me pull up your account. Can I start with your name?
+Caller: Sure. It's Gregory Ashford.
+Agent: Thank you, Mr. Ashford. And your loan number or property address?
+Caller: Loan number is 00193-44872.
+Agent: And to verify, can I get the last four of your Social Security number?
+Caller: 9904.
+Agent: And date of birth?
+Caller: April 22, 1980.
+Agent: Great, I've confirmed your identity. One moment to bring up your account.
+Caller: Sure.
+Agent: Okay, I have your account here. So you'd like to add a contact person, someone we can reach out to in certain situations, but not a co-borrower?
+Caller: Exactly. She's not on the loan and we're not trying to add her legally. I just want her name and phone number on file in case I'm unavailable.
+Agent: That makes complete sense. We can add what we call an authorized third-party contact. This person can receive general account communications, and if you authorize it, they may also be able to discuss account status with our representatives. Would you want her to be able to discuss account details with us, or just be listed as an emergency contact?
+Caller: What's the difference?
+Agent: If she's listed as a non-authorized contact, we can reach out to her to pass messages to you, but we wouldn't share account details with her. If she's listed as an authorized third party, she can actually speak with our agents about things like payment due dates, account status, and general information. She still couldn't make changes to the loan itself.
+Caller: Let's do the authorized version. She handles a lot of our household finances anyway.
+Agent: Understood. I'll note her as an authorized third-party contact. Can I get her full name?
+Caller: Patricia Linwood.
+Agent: Patricia Linwood. And a phone number for her?
+Caller: Cell phone is 614-555-0178.
+Agent: 614-555-0178. And an email address, if you have one?
+Caller: It's plinwood at gmailmail dot com. Sorry, that's p-l-i-n-w-o-o-d at gmail dot com.
+Agent: Got it. p-l-i-n-w-o-o-d at gmail dot com. And her relationship to you?
+Caller: She's my domestic partner.
+Agent: Perfect. I'll add her as an authorized third-party contact, domestic partner, with the phone and email you provided. Just to confirm, this authorization means she can call in and speak with our representatives about general account information. She will not be able to authorize loan modifications, request payoff quotes for sale purposes, or make legal changes to the account.
+Caller: Right, understood. That's fine. She mainly just needs to be able to check if a payment went through or something like that.
+Agent: That's exactly the kind of thing she'd be able to do with this authorization. Are there any restrictions you want to place? For example, some account holders prefer to limit third-party contacts to outbound contact only, meaning we can call her if we can't reach you, but she couldn't call in herself.
+Caller: No, she can call in if she needs to. Full access to information is fine.
+Agent: Understood. I'll set it up as a full authorized third-party contact. Is there anything else you'd like to note on the account?
+Caller: Actually, while I have you, can you also confirm my own phone number on file? I recently changed it.
+Agent: Of course. We have your number listed as 614-555-0291. Is that current?
+Caller: No, my new number is 614-555-0344.
+Agent: I've updated that as well. Your new number is 614-555-0344. And your email on file is gregashford80 at outlook dot com. Is that still correct?
+Caller: Yes, that's still good.
+Agent: Perfect. To summarize, I've added Patricia Linwood as an authorized third-party contact with her phone and email, and I've updated your mobile number. Both changes are saved.
+Caller: That's great. Thank you, Tom, I appreciate you getting all that done.
+Agent: Of course. Is there anything else I can help you with?
+Caller: Nope, that's everything. Thanks.
+Agent: Thank you for calling Pinnacle Home Loans, Mr. Ashford. Have a great rest of your day.
+Caller: You too. Bye.
+Agent: Goodbye.

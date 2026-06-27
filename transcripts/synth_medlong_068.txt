@@ -1,0 +1,60 @@
+Agent: Thank you for calling Crestwood Loan Servicing. This is Marcus. Can I get your loan number?
+Caller: 6621-8833-44. Staff Sergeant Alicia Torres.
+Agent: Thank you, Staff Sergeant Torres. Let me verify your account. Can you provide the last four of your Social and the property address?
+Caller: Last four is 9940. Property is 8812 Ridgemont Drive, Killeen, Texas 76549.
+Agent: Perfect, I have your account. How can I help you today?
+Caller: I'm deploying in 14 days. I'm being sent overseas on active duty orders. I need to know what protections I have under SCRA and what I can do about my mortgage while I'm gone.
+Agent: Staff Sergeant Torres, thank you for your service, and thank you for calling us before your deployment so we have time to set everything up correctly. The Servicemembers Civil Relief Act provides you with significant protections and I want to make sure we go through all of them carefully. Let me pull up your loan details first. Your current interest rate is 5.875% and your monthly payment is $1,480. Is that correct?
+Caller: Yes. $1,480 a month. Rate is 5.875.
+Agent: And when did you originate this loan? SCRA interest rate protections apply only if the obligation was incurred before you entered active military service.
+Caller: I bought the house while I was already on active duty. Does that affect my eligibility?
+Agent: That's an important distinction. The SCRA interest rate cap of 6% applies to obligations incurred before active duty service began. If your mortgage was originated while you were already on active duty, the 6% interest rate cap under SCRA may not apply because the loan was not incurred prior to military service. However — and this is important — there are other SCRA protections that apply regardless of when the loan was originated. Let me go through all of them.
+Caller: Wait. So the interest rate reduction might not apply to me?
+Agent: That's correct for the SCRA statutory rate cap. Your current rate of 5.875% is already below the 6% SCRA cap, so even if the cap applied, it wouldn't change your rate. The rate would need to be above 6% for the cap to have practical effect. So in your case, the interest rate provision is academic — you're already below the threshold even if you were eligible.
+Caller: Okay. What other protections do I have?
+Agent: The most significant protection for your situation is the foreclosure protection. Under SCRA Section 533, a lender cannot foreclose on property owned by a servicemember who is on active duty without a court order. This protection applies to all servicemembers on active duty, regardless of when the loan was originated. If you were ever to fall behind on your mortgage while deployed, the servicer cannot conduct a non-judicial foreclosure without first going to court and the court is required to consider your military service.
+Caller: My mortgage is current right now. I'm not behind.
+Agent: That's excellent. You're in the best possible position going into a deployment. The foreclosure protection is a safety net in case something goes wrong while you're deployed. Let's talk about your practical concerns. Do you have someone designated to manage your finances while you're overseas?
+Caller: My spouse, Corporal Renee Torres. She's not deploying with me. She'll be home.
+Agent: Good. Is your spouse also on the mortgage loan?
+Caller: No. She's not on the loan. Just me.
+Agent: Okay. That's important. Since she's not on the loan, she doesn't automatically have authority to make decisions about the loan on your behalf. I would strongly recommend — before you deploy — that you execute a Power of Attorney authorizing your spouse to communicate with the servicer about your account, make payments, and make loss mitigation decisions if needed. Without a POA, we have privacy constraints on what we can discuss with her.
+Caller: We already have a general military POA. Does that cover mortgage servicers?
+Agent: A general military POA typically grants broad authority, and most servicers accept it. However, I'd recommend calling us back with your spouse before you deploy so we can review the POA document and add her as an authorized party on your account while you're here to confirm. That way there's no question about her authority if something comes up during your deployment.
+Caller: Good idea. Now, I'm worried about making payments while I'm deployed. I'll be in a location where internet access is limited and I can't always handle banking matters easily.
+Agent: The most practical solution is to set up automatic payment from your bank account before you leave. I can walk you through how to do that on our portal right now, or your spouse can set it up from your joint account if she has access. Do you have a joint bank account?
+Caller: Yes. We have a joint checking at USAA.
+Agent: USAA is a great institution for military members and is familiar with deployment situations. You can set up an automatic ACH pull from your USAA checking account through our portal at crestwoodloans.com. I'd recommend setting it up today so there are at least one or two payment cycles before you leave to confirm it's working.
+Caller: Can I also pay ahead? Like pay several months in advance?
+Agent: Yes, you can make advance payments. They'll be applied to future payment obligations. However, be aware that prepayments don't eliminate the requirement to make monthly payments — they create a credit balance or are applied to future months. The simplest approach is the ACH autopay, which ensures payments are made automatically without any action on your part.
+Caller: Let me ask about the escrow. I have homeowner's insurance and property taxes in escrow. While I'm deployed, will those still be handled?
+Agent: Yes. Your escrow account is managed by the servicer and payments for property taxes and homeowner's insurance will continue to be disbursed from your escrow balance as they come due, regardless of your deployment. You don't need to do anything special for escrow.
+Caller: What if there's a property tax increase or an insurance premium increase while I'm gone? Would my payment change?
+Agent: Escrow is analyzed annually. If there's a shortage due to increased taxes or insurance, the servicer would send an escrow analysis notice. Your spouse would receive that notice at the property address. The escrow shortage could result in either a payment adjustment or a request for a lump-sum shortfall payment. If your spouse has a POA and is authorized on the account, she can call us to handle any escrow issues that arise.
+Caller: Good. Now let me ask about a specific scenario. What if my spouse has a financial emergency while I'm deployed and she needs to stop making the mortgage payment for a month or two? Is there anything available to her?
+Caller: Before you answer — yes, she would have my POA, so she could act on my behalf.
+Agent: With a valid POA, your spouse could contact us on your behalf and request a military forbearance. Under SCRA and under most investor guidelines — your loan is a VA loan, I see — the VA has specific guidelines for servicemembers on active duty. A military forbearance can typically be granted for the duration of the deployment plus a short period thereafter. This would allow payments to be suspended or reduced during the deployment period.
+Caller: My loan is a VA loan?
+Agent: Yes. I see your loan is guaranteed by the Department of Veterans Affairs. VA loan number ending in 4421 is on file. That's actually very relevant. VA loans have strong servicemember protections above and beyond SCRA. The VA itself has a loan technician program where if a VA-guaranteed loan is in trouble, you or your spouse can contact the VA directly and a VA loan technician may intervene to help prevent foreclosure or find solutions.
+Caller: What's the VA contact for that?
+Agent: The VA's homeowner assistance resource is available at 1-877-827-3702. That's the VA Home Loan Guaranty program line. If your spouse ever runs into difficulty managing the loan while you're deployed, she can call that number in addition to calling us.
+Caller: Good. Now let me ask about something specific to SCRA. I've heard that SCRA requires servicers to not charge certain fees to deployed servicemembers. Is that true?
+Agent: SCRA doesn't specifically prohibit fees across the board, but it does provide certain protections. The SCRA Section 519 protection covers civil court proceedings and ensures that servicemembers cannot have default judgments entered against them without court review of their military status. For fees specifically, some servicers have voluntary military relief programs that waive certain fees — like late fees — for servicemembers on active duty deployment. Let me check whether Crestwood has such a program.
+Caller: Please do.
+Agent: I'm looking at our internal military assistance policy. Yes, Crestwood has a military relief policy. For servicemembers on active orders, we waive late fees for the duration of the deployment period and for 60 days after return, assuming the account is in good standing at the time of deployment. Since you're current, you would qualify for this waiver.
+Caller: That's excellent. What do I need to do to activate that?
+Agent: I need a copy of your deployment orders. You can fax or email them to our military assistance team at military@crestwoodloans.com or fax to 1-800-221-7734. Include your loan number. Once received, we'll note the military relief waiver in your account and it will be active for the deployment period.
+Caller: My orders show a deployment start date of July 11, 2026, and a projected return date of January 15, 2027, though that could extend.
+Agent: Understood. Six months approximately. I'll note that in the file. If the deployment extends, your spouse can call us with updated orders and the protection period will be extended accordingly.
+Caller: What should my spouse do as soon as I leave, from a mortgage management standpoint?
+Agent: I'd recommend she take the following steps. First, confirm that autopay has been successfully established and the first automated payment has processed. Second, make sure she has the POA documentation ready and call us to confirm she's added as an authorized party. Third, save our military assistance line number — it's 1-800-221-7734 — and call if anything changes with your financial situation or deployment timeline. Fourth, sign up for paperless statements so she can access account information quickly online without waiting for mail.
+Caller: One more question. If something happens to me while I'm deployed — I want to ask about this — what protections does my spouse have in terms of the mortgage?
+Agent: That's a difficult question to ask but an important one. For a VA loan, there are survivor benefit programs through the VA. If a veteran with a VA loan passes away during active duty service, the VA has programs that may assist surviving spouses including loan modification or in some cases assumption of the loan under favorable terms. For detailed information on VA survivor benefits for the loan, I'd direct your spouse to contact the VA at 1-877-827-3702. The VA also works with surviving spouses on the VA Home Loan Guaranty. I'd also encourage you to make sure your life insurance beneficiary designations are current before you deploy.
+Caller: I have SGLI coverage. That's up to date.
+Agent: Good. SGLI — Servicemembers Group Life Insurance — is solid coverage. If the maximum payout is in place, your spouse would have resources to address the mortgage.
+Caller: Marcus, this has been incredibly helpful. Thank you for taking the time to go through all of this.
+Agent: Staff Sergeant Torres, it's an honor to help you prepare. You're thinking of everything and you have a solid plan. Is there anything else before you go?
+Caller: No. I feel prepared. Thank you.
+Agent: Thank you for your service. Safe deployment. Take care of yourself.
+Caller: Thank you. Goodbye.
+Agent: Goodbye, Staff Sergeant Torres.

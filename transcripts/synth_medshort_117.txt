@@ -1,0 +1,43 @@
+Agent: Thank you for calling Oakwood Mortgage Servicing, this is Brandon. How can I help you today?
+Caller: Hi Brandon, I'm Harold Finch. I received a 1099-C form in the mail from your company and I have absolutely no idea what to do with it. It says cancelled debt and has a large dollar amount on it.
+Agent: Hi Mr. Finch. A 1099-C can definitely be confusing. Let me pull up your account so I can see what it relates to. Can I get your loan number?
+Caller: I've got the number from the form — it's 2233-6619.
+Agent: And the property address?
+Caller: 1022 Sunflower Drive, Wichita, Kansas, 67212.
+Agent: And last four of your Social?
+Caller: 9902.
+Agent: Got your account. I can see this loan went through a modification process and there was a principal reduction involved. The 1099-C would relate to the forgiven or cancelled portion of your original debt. Let me look at the specific details.
+Caller: Wait — I got a loan modification? I know I did that, yes. But I didn't know they would send me a tax form.
+Agent: When a lender forgives or cancels debt — meaning they reduce what you owe and tell you that you don't have to pay back that amount — the IRS requires the lender to report that as cancelled debt income. The 1099-C is the form they use to do that.
+Caller: So the IRS thinks I received income because they forgave part of my loan?
+Agent: Under tax law, yes. When a debt obligation is cancelled, it's as if you received money you no longer have to repay, so it's treated as income. The amount in Box 2 of your 1099-C is the cancelled debt amount.
+Caller: It says $28,400. I had no idea this was coming.
+Agent: I understand this is a surprise. The 1099-C was for the principal reduction applied to your account as part of your modification agreement. Your balance was reduced by $28,400 and we're required to report that.
+Caller: Do I have to pay taxes on $28,400?
+Agent: Potentially, but there are important exclusions that may apply to you. I want to be clear that I'm not a tax advisor and this is complex enough that you should work with a CPA or tax professional. But I can walk you through the main potential exclusions.
+Caller: Please.
+Agent: The most common exclusions are insolvency and bankruptcy. If at the time the debt was cancelled you were insolvent — meaning your total debts exceeded the fair market value of all your assets — you can exclude the cancelled debt from income to the extent of your insolvency. If you were in bankruptcy when the debt was cancelled, it's generally fully excluded.
+Caller: I was not in bankruptcy. But I was definitely struggling financially.
+Agent: Insolvency is worth calculating. If your total debts at the time were greater than everything you owned, you may have been insolvent. A tax professional can help you run that calculation.
+Caller: What else could exclude it?
+Agent: For primary residences, there's the Mortgage Forgiveness Debt Relief Act exclusion. This allows cancellation of mortgage debt on your primary residence to be excluded from income. This exclusion has been extended over the years, though its availability in any given tax year depends on Congressional action. A tax professional can confirm whether it applies for the tax year on your 1099-C.
+Caller: This was issued for last tax year. When did the modification happen?
+Agent: The principal reduction was completed fourteen months ago, which would put it in the prior tax year. The 1099-C was issued for that year.
+Caller: When is the deadline to do something about this?
+Agent: The 1099-C needs to be addressed on your tax return for the year it was issued. If you haven't filed yet, you file normally and address the cancelled debt using IRS Form 982 if you're claiming an exclusion. If you've already filed without addressing it, you may need an amended return.
+Caller: I haven't filed yet for last year. I was actually waiting because I had some questions.
+Agent: Then you're in a good position. Take the 1099-C to a CPA or tax preparer familiar with cancelled debt and mortgage modifications. They can determine which exclusion, if any, applies and prepare your return accordingly.
+Caller: Is there anything wrong with the 1099-C? Like could it be an error?
+Agent: Let me verify the amounts. The principal reduction on your account was indeed $28,400. The 1099-C should reflect that amount in Box 2. The creditor information should show our company name. And the date of discharge — Box 1 — should reflect when the modification completed.
+Caller: Can you tell me what Box 1 says it should be?
+Agent: The modification was finalized on March 12th of last year. Box 1 should show that date.
+Caller: It does. Okay so the form isn't an error, it's legitimate.
+Agent: It's accurate based on our records. The question is just how it's treated on your tax return, and that's where the tax professional comes in.
+Caller: Okay. I'm going to call my CPA this week. Is there anything I should bring to that meeting besides the 1099-C?
+Agent: Bring the loan modification agreement, which should document what the modification terms were. Also bring any documentation of your financial situation at the time — assets, debts, bank statements — in case insolvency needs to be calculated. Your tax professional may also want your original loan documents.
+Caller: Can I get copies of the modification agreement from you?
+Agent: Yes, I can mail you a copy or you can download it from your online account under Loan Documents.
+Caller: The online account is easier. Thank you, Brandon. This has been helpful.
+Agent: I'm glad I could give you some context. Please do work with a tax professional on this — it's important to handle it correctly.
+Caller: I will. Thanks again.
+Agent: Of course. Have a good day, Mr. Finch.

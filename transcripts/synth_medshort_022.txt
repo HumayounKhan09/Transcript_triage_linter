@@ -1,0 +1,41 @@
+Agent: Thank you for calling TrustPoint Mortgage Servicing, this is Kevin speaking. How can I help you today?
+Caller: Hi Kevin. My name is Sasha Williams. I noticed something strange. My monthly mortgage statement shows an account number that ends in 4431, but the memo line I've been using on my checks for the last two years says 4413. Those are different numbers. I'm worried my payments have been going somewhere wrong.
+Agent: Hi Sasha. I understand why that would be alarming. Let me pull up your account and we'll figure out what's going on. Can I get your property address and the last four of your Social Security number?
+Caller: Address is 2891 Linden Boulevard, Chicago, Illinois 60625. Social last four is 7748.
+Agent: Thank you. And can you give me the account number you have written on your checks?
+Caller: The one I've been using is TPMS-4413-0077294.
+Agent: And the one on your current statement?
+Caller: The statement shows TPMS-4431-0077294. So it's just those middle four digits that are transposed.
+Agent: Got it. Let me look both of those up. Give me a moment.
+Caller: Of course. I'm hoping this is just some kind of typo or something.
+Agent: All right, so here's what I'm seeing. The account number TPMS-4431-0077294 is your current active loan account number. That's the correct number for your mortgage.
+Caller: And the 4413 one?
+Agent: The 4413 number does not correspond to an active loan account in our system. However, let me look at your payment history to see what's been happening.
+Caller: You're making me nervous.
+Agent: I can assure you your account is current and all payments are reflected correctly. Let me explain what likely happened. When payments come in with a slightly incorrect account number, our payment processing system is designed to match them to the correct account using additional identifying information such as your name, property address, and the suffix of the account number.
+Caller: So even though I had the wrong account number on my checks, they still found the right account?
+Agent: That appears to be the case. Looking at your payment history, all payments are accounted for and applied correctly. Your account has no missing payments and no credit to the wrong borrower. The system matched your payments by name and property address despite the digit transposition.
+Caller: That's a relief. But how did I get the wrong number in the first place?
+Agent: That's a good question. Do you remember where you first wrote down the account number?
+Caller: I think I copied it from an old welcome letter when we first got the loan. I may have just written it down wrong.
+Agent: That's the most likely explanation. A simple transcription error on your end that happened to not affect payment processing because of our matching logic. It's not uncommon.
+Caller: And the statement has always shown 4431?
+Agent: Let me check. The statement format we use has always shown the correct number, 4431. It's possible that for two years you've been looking at the memo on your checks rather than your statements when you wrote down the number.
+Caller: You know, that's probably exactly what happened. I think I copied the number from a check stub rather than from the statement. I'm embarrassed.
+Agent: Please don't be. This kind of thing happens and the good news is there's no harm done. Your payments all posted correctly and your account is in perfect standing.
+Caller: But going forward I should update my checks?
+Agent: Yes. For any future payments you write by check, please use TPMS-4431-0077294. I'd also recommend ordering new checks or simply using a sticky note over the old number on your checkbook for now.
+Caller: I think I'll just switch to online payments and skip the checks altogether.
+Agent: That's a great option. If you pay online at TrustPointMS.com, the account number is pre-filled correctly and you won't have to worry about it.
+Caller: Perfect. Now I want to double-check one more thing. My payment history on my online account — can I see each check that was applied?
+Agent: Yes. When you log in, under payment history you can see each payment date, amount, and how it was applied. The account reference on each transaction will show the correct account number 4431.
+Caller: I'll check that tonight just to make myself feel better.
+Agent: Absolutely, it's always a good idea to review your history periodically.
+Caller: And my loan is totally current? No late payments?
+Agent: Completely current. Your last payment posted June 1st. Your next payment is due July 1st.
+Caller: What a relief. I was in a mild panic when I first noticed the discrepancy.
+Agent: Completely understandable. It looked concerning on the surface but turned out to be a non-issue. Is there anything else I can help you with today, Sasha?
+Caller: No, I think that settles it. Thank you so much for being patient with me, Kevin.
+Agent: Not at all. Thank you for calling to check rather than just leaving it. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

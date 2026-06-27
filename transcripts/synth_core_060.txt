@@ -1,0 +1,42 @@
+Agent: Thank you for calling Lakeshore Mortgage Servicing, this is Monique. Can I get your loan number?
+Caller: It's 4490-338-77. My name is Frank Espinoza.
+Agent: Thank you, Mr. Espinoza. Can you verify your date of birth and the property address?
+Caller: September 22nd, 1961, and it's 1726 Riverview Boulevard, Kansas City, Missouri 64111.
+Agent: I've got your account. What can I help you with today?
+Caller: My balloon loan is maturing in three months and I cannot pay off the $187,000 balance. I need to know what my options are.
+Agent: Thank you for calling ahead, Mr. Espinoza — three months is still enough time to explore alternatives, though we'll need to move with some urgency. Let me confirm the details on your account first. I show a balloon mortgage originated in August 2011 with a fifteen-year term, maturing August 1st, 2026. The remaining balance as of today is $187,412.00. Is that consistent with your statements?
+Caller: Yes, that matches.
+Agent: Okay. Let me walk you through the options. The most common resolution for borrowers in your position is refinancing the balloon balance into a new mortgage. This would give you a new term — typically fifteen or thirty years — with regular monthly payments. Given your situation, I'd recommend speaking with a mortgage lender as soon as possible because you'd need to close the new loan before August 1st.
+Caller: I've talked to two banks already. One said my debt-to-income ratio is too high, and the other said they couldn't do it because of the balloon situation.
+Agent: I understand. A balloon payoff situation can complicate new lender qualification because the urgency and the outstanding balance can create concerns. There are still other lenders to try — community banks and credit unions often have more flexibility than major banks, and mortgage brokers can access a wider range of programs. But let me also tell you about options on our end.
+Caller: Are there options on your end? I didn't think the servicer could help with a balloon.
+Agent: In some cases, yes. First, I want to clarify the structure. Is this loan held in portfolio by us — meaning we own the loan — or is it held by an investor? Let me check. I see this is a portfolio loan held by Lakeshore directly, not sold to a secondary market investor. That actually gives us more flexibility.
+Caller: What does that mean for me?
+Agent: It means we may have the ability to modify or restructure this loan directly without going to an outside investor for approval. Options that portfolio lenders sometimes consider include a balloon extension — essentially extending the balloon maturity date to give you more time — or converting the balloon loan to a standard amortizing mortgage.
+Caller: Can you really do that?
+Agent: It's not guaranteed, and it requires a formal application and underwriting review. But yes, portfolio lenders can restructure their own loans in ways that secondary market servicers cannot. The key factors are your current credit profile, your debt-to-income ratio, and your payment history on this loan.
+Caller: My payment history has been perfect. Never missed a payment in fifteen years.
+Agent: That's a significant factor in your favor. A fifteen-year perfect payment record on a balloon note is a strong indicator of creditworthiness, even if your DTI is elevated. What's driving the high debt-to-income ratio?
+Caller: I have a car loan and I also co-signed on my daughter's student loans, which apparently count against me.
+Agent: Co-signed loans do count against you in DTI calculations, yes. But with a portfolio restructure, the underwriting may look at your demonstrated payment behavior over fifteen years as a compensating factor. We can't waive DTI entirely, but there may be flexibility.
+Caller: What would a conversion to a regular amortizing loan look like?
+Agent: If approved, we would convert the current balloon balance of $187,412.00 to a new fixed-rate amortizing loan. The rate would be set based on current market conditions — likely in the 7% to 7.5% range for a portfolio loan given today's rates. On a fifteen-year amortizing note, your payment would be approximately $1,688.00 to $1,718.00 per month. On a thirty-year term, it would be approximately $1,257.00 to $1,313.00 per month.
+Caller: What are the closing costs if we restructure?
+Agent: For an internal restructure, the costs are typically lower than a full refinance. We'd likely have an origination fee, a title update fee, and possibly an appraisal depending on the program. Total costs might run $2,000 to $4,500 compared to $5,000 to $8,000 for a full refi with a new lender. Some of that can be financed into the new balance.
+Caller: What happens if I can't get this resolved by August 1st?
+Agent: If the balloon matures and isn't paid off, the loan is in default. That's a serious situation — it doesn't mean immediate foreclosure, but the servicer is within their rights to begin default proceedings. Most servicers would provide a brief cure period — typically thirty to sixty days — before initiating foreclosure action. But I don't want you to rely on that as a plan because it's uncertain.
+Caller: Is there any way to get a temporary extension of the maturity date while we work this out?
+Agent: Yes, and that's actually what I'd recommend doing today. I can flag your account for a maturity extension request. A short-term extension — typically ninety days — can be granted to give you time to either refinance with another lender or complete our internal restructure process. It's not automatic, but given your fifteen-year payment history, it's a strong case.
+Caller: Would I still make monthly payments during the extension?
+Agent: Yes. During a maturity extension, you'd continue making your regular monthly payment. The extended maturity date simply pushes out the balloon due date. Interest continues to accrue, so the balance doesn't decrease dramatically, but it gives you breathing room.
+Caller: Let's do that. How do I apply?
+Agent: I'll initiate the maturity extension request right now and simultaneously open a loan restructure review. You'll need to complete a short application that includes your income documentation — two recent pay stubs or your most recent tax return if self-employed — and a brief explanation of your situation. I'll send that application packet within twenty-four hours.
+Caller: And how fast can we get an answer?
+Agent: For the maturity extension, typically ten to fifteen business days. For the full restructure, it goes through underwriting so thirty to forty-five days. Given your August 1st deadline, we should treat the extension as the immediate priority.
+Caller: Okay. What's my reference number?
+Agent: That's BR-2026-005590. And please — don't stop pursuing options with outside lenders in parallel. Credit unions, community banks, and a good mortgage broker should all be in your pipeline simultaneously.
+Caller: I'll do that. Monique, thank you. You actually gave me some hope here.
+Agent: I'm glad. You've got time and a great payment history working in your favor. Let's use both. Is there anything else?
+Caller: No. I'll keep pushing on my end.
+Agent: Excellent. Have a good day, Mr. Espinoza.
+Caller: You too. Bye.

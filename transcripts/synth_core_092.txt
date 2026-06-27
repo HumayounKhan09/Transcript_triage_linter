@@ -1,0 +1,45 @@
+Agent: Thank you for calling Premier Mortgage Servicing, this is Marcus. How can I help you today?
+Caller: Hi Marcus. I want to file a RESPA complaint. My name is Darion Webb, loan number 4403-6671.
+Agent: Hi Darion. Let me pull up your account. I can see your loan — a thirty-year fixed on a property in Baltimore, Maryland. Before we discuss the complaint process, can you tell me what issue you're experiencing? I want to make sure we have the chance to address it directly.
+Caller: I've been trying to resolve an error on my account for four months. I sent a written request in February, and again in April, and I haven't gotten a proper written response to either one. The error involves a payment that was applied incorrectly.
+Agent: I understand. What you're describing — a written request about a loan servicing error that hasn't received a proper response — is exactly the type of issue RESPA is designed to address. Let me explain both the formal process and what we're going to do on our end today.
+Caller: I appreciate that but I've been told things would be fixed before and nothing happened. I want to file a formal complaint.
+Agent: You have every right to do that and I'll help you understand the process. Under RESPA — the Real Estate Settlement Procedures Act — a written request to correct a servicing error is called a Notice of Error. When a borrower submits a Notice of Error in writing, the servicer has specific legal obligations.
+Caller: What are those obligations?
+Agent: Within five business days of receiving a Notice of Error, we're required to acknowledge receipt in writing. Within thirty business days — and that can be extended to forty-five days in certain circumstances — we must either correct the error and notify you, or conduct an investigation and notify you in writing that we've determined no error occurred and explain why.
+Caller: My February letter was received — I sent it certified mail and have the delivery confirmation. That was February nineteenth. It's now late June. That's four months. No written response.
+Agent: That is well outside the required timeframe under RESPA and I sincerely apologize for that failure. Let me look at the account notes for your February submission. I'm seeing a note from February twenty-second acknowledging receipt internally, but I do not see a written response sent to you, and I don't see any resolution notation. This is a serious servicing deficiency.
+Caller: My April letter — I sent that certified too. April third.
+Agent: I'm looking for that as well. I see it was received and logged April fifth. Again, I see no written response sent. I'm very sorry, Darion. This should have been handled within the required timeframes.
+Caller: So what happens when I file a complaint?
+Agent: Let me explain the channels. First, within our organization, you can request an escalation to our Executive Resolution team, which is a higher-level review that has a separate turnaround time commitment — usually fifteen business days — and is tracked separately from standard servicing requests.
+Caller: I don't want an internal process at this point. I want external oversight.
+Agent: Understood. Externally, you have a few options. The Consumer Financial Protection Bureau — the CFPB — accepts RESPA complaints at consumerfinance.gov. When you file a complaint there, we're required to respond to the CFPB within fifteen calendar days and to provide a substantive response to you through the CFPB portal within sixty days.
+Caller: Do I need anything specific to file with the CFPB?
+Agent: You'll want to have your loan number, the dates of your certified mail submissions, the tracking numbers, and a description of the error you're seeking to correct. The more documentation you can attach — copies of your letters, delivery confirmations — the stronger the complaint.
+Caller: I have all of that. My loan number is 4403-6671. February nineteenth certified mail tracking number 9400111899223344557788. April third tracking number 9400111899223344557799.
+Agent: Would you like me to note those on your account as well?
+Caller: Yes, please. I want everything documented on your end too.
+Agent: Noted. Okay. Now, before you file with the CFPB — which you're fully entitled to do — I want to also tell you what I'm doing on this call. I'm escalating your account to our Executive Resolution team with a priority flag and noting the regulatory compliance failure regarding RESPA response timelines. This will trigger an internal investigation.
+Caller: What's the original error I'm trying to fix?
+Agent: Tell me what the error is and I'll document it right now as a new Notice of Error from today's call, which restarts the response clock.
+Caller: In January I made a double payment — I paid my January mortgage online and then my bank's automatic bill pay also sent a check. So I overpaid by one month — about one thousand four hundred twelve dollars. Your company applied both payments to principal and didn't give me a credit for February. I ended up with a February late charge even though I had excess funds sitting in my account.
+Agent: So two payments were received in January — approximately two thousand eight hundred twenty-four dollars — both were applied to the principal balance rather than crediting February's scheduled payment, and a late fee of — let me check — sixty-eight dollars was assessed in February when that month's scheduled payment wasn't received?
+Caller: Exactly. And the late charge hurt my credit too because it was reported as thirty days late.
+Agent: That's an additional element — a credit reporting dispute. RESPA also covers errors in credit reporting related to mortgage accounts. Let me note this as a Notice of Error covering three issues: first, improper payment application of the duplicate January payment; second, an incorrectly assessed late fee of sixty-eight dollars; third, potentially erroneous credit reporting of a late payment.
+Caller: Yes, all three.
+Agent: I've documented all three as of today's call. You should receive written acknowledgment within five business days and a substantive response within thirty. I also want to address the late fee and credit reporting piece immediately — can you hold briefly while I check the account detail?
+Caller: Sure.
+Agent: Thank you for holding. I've reviewed the transaction history. I can see the two payments posted in January and I can see they were both processed as principal curtailment rather than payment credit. That was an application error. I can reverse the late fee of sixty-eight dollars today and initiate a request for a principal adjustment to credit the correct payment to February. The credit reporting dispute will require a separate investigation but I'm initiating that as well.
+Caller: The late fee reversal — how long?
+Agent: It will post to your account within three to five business days and you'll see the credit on your next statement.
+Caller: And the credit reporting?
+Agent: Credit reporting corrections require a dispute investigation with the credit bureaus. We're required to submit a correction to the reporting agencies within thirty days of determining an error occurred. Once we submit the correction, the bureaus typically update the tradeline within thirty to forty-five days.
+Caller: I want all of this in writing.
+Agent: You'll receive written confirmation of the Notice of Error, the late fee reversal, and the credit reporting dispute initiation. I'm also generating a case number for your records: RESPA-2024-005541.
+Caller: Good. I'm still filing with the CFPB because I want external oversight of this.
+Agent: That's completely your right. Your case number and the details of our conversation today will help with that filing. Is there anything else you'd like me to document?
+Caller: No. I just want this fixed and I want to make sure it doesn't happen again.
+Agent: Understood. I'm sorry it took this long. RESPA-2024-005541 will be the reference for everything going forward.
+Caller: Thank you, Marcus. I'll file with the CFPB today.
+Agent: That's your right. Have a good day, Darion.

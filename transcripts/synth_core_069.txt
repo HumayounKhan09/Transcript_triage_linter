@@ -1,0 +1,52 @@
+Agent: Thank you for calling Crestview Mortgage Services, this is Yuki. Can I get your loan number?
+Caller: Yeah, it's 2291-558-76. My name is Alicia Torres.
+Agent: Thank you, Ms. Torres. Can you verify your Social Security last four and the property address?
+Caller: 3317. The property is 4420 Valencia Street, Sacramento, California 95820.
+Agent: I've got your account up. How can I help you today?
+Caller: I just got my new payment statement and I nearly fell over. My payment went up by over $600 a month. I knew my ARM was adjusting but I didn't expect this. I need to understand what happened and what I can do.
+Agent: I completely understand why that would be shocking, Ms. Torres. Let me pull up your adjustment details so I can walk you through exactly what happened and then we can talk about your options.
+Caller: Please. I'm really stressed about this.
+Agent: Take a breath — I'm going to go through this with you. Your loan is a 3/1 ARM that originated in July 2023 at a start rate of 3.00%. Your three-year fixed period ended July 1st, 2026, and your first rate adjustment became effective on that date.
+Caller: Okay.
+Agent: Your index is one-year Term SOFR, which was 4.85% at your adjustment lookback date in June 2026. Your margin is 2.875%. So your fully indexed rate is 4.85% plus 2.875%, which equals 7.725%.
+Caller: My rate went to 7.725%? From 3%?
+Agent: That's the fully indexed rate, but your initial adjustment cap limits how much the rate can change at the first adjustment. Let me check your note. Your initial adjustment cap is 2.00%. So the maximum increase at the first adjustment is 2 percentage points above 3.00%, which is 5.00%.
+Caller: So my rate should be 5.00%, not 7.725%?
+Agent: Let me look more carefully. I see the effective rate on your account as of July 1st is 5.00%. The initial cap did constrain the adjustment. So your rate is 5.00%, not 7.725%.
+Caller: Then why is my payment up by $600?
+Agent: Let me calculate that. Your current balance is $389,200.00. At 3.00% with your original thirty-year term, three years have passed so you have twenty-seven years remaining. Your old payment at 3.00% on $389,200 over twenty-seven years was approximately $1,752.00. At 5.00% on the same balance and remaining term, your new payment is approximately $2,343.00.
+Caller: So it's $591 more per month?
+Agent: Yes, approximately $591 more. So the jump you're seeing is real and accurate — it's the result of the rate increasing from 3.00% to 5.00%. The initial cap protected you from the full 7.725% rate, but the capped rate of 5.00% still causes a significant payment increase on a large balance.
+Caller: I understand it's correct, I'm just saying I can't absorb $600 more a month right now.
+Agent: I hear you. Let's talk about what options you have. First option — ride it out. If you have the income to cover it, this may resolve itself. Your rate can change again in July 2027, and if SOFR declines, your rate could decrease. Many economists expect rate decreases over the next one to two years.
+Caller: My income can technically handle it but it's going to be very tight. I have two kids and childcare costs have gone up.
+Agent: Understood. Second option is refinancing into a fixed-rate mortgage. At today's market, a thirty-year fixed is running approximately 6.875% to 7.1%. That would actually be higher than your current 5.00% ARM rate, so refinancing right now would cost you more monthly, not less.
+Caller: That doesn't make sense to do.
+Agent: Not at current rates, no. However — third option — wait and watch. Your rate is currently 5.00% and capped there. If rates drop in 2027 and a fixed rate becomes available below 5.00%, you'd refinance then to lock in something lower and eliminate future adjustment risk.
+Caller: What if I can't wait? What are my options with the servicer?
+Agent: If the payment increase creates a genuine financial hardship — meaning you're struggling to make the payment — you could apply for loss mitigation, which includes a loan modification. A modification could potentially restructure the loan on different terms — like a longer amortization or a different rate structure — to reduce the monthly payment.
+Caller: Even though I'm current on my payments?
+Agent: Yes. "Imminent default" is a recognized hardship category. If you can document that the sudden payment increase will make the loan unaffordable within the next few months, you can apply before missing any payments. Applying while current is much better than waiting until you miss one.
+Caller: What would a modification look like?
+Agent: It depends on your loan's investor. Your loan is a conventional loan. Let me check — it's held by Freddie Mac. Freddie Mac has a flex modification program. Under flex modification, the rate could be modified to a fixed rate based on a formula, and the term could be extended up to forty years, which would reduce the payment further.
+Caller: What might my payment be under a modification?
+Agent: I can give you a rough estimate. A Freddie Mac flex modification typically targets a payment reduction of approximately 20%. If your current payment is $2,343, a 20% reduction would bring it to around $1,874 per month. The exact terms depend on the evaluation.
+Caller: That would be much more manageable.
+Agent: Yes, and it eliminates the ARM risk entirely since modifications are typically fixed-rate. The tradeoff is potentially extending the term, so you'd be paying longer.
+Caller: How do I apply?
+Agent: I'll open a loss mitigation application today. You'll need your two most recent pay stubs, two months of bank statements, your most recent tax return, and a hardship letter explaining the payment shock impact on your household budget. Include a breakdown of your monthly expenses.
+Caller: How long does it take?
+Agent: Thirty days once we receive a complete application under federal servicing guidelines. Given you're current on the loan and this is a payment shock situation, I'd characterize this as a strong application.
+Caller: And in the meantime, I keep paying the $2,343?
+Agent: Yes. While the application is under review, continue making your regular payment as best you can. Missing payments during the review period can complicate the modification. If you absolutely cannot make the full payment, contact us immediately rather than just not paying.
+Caller: Okay. Let's get the application started.
+Agent: I'm flagging your account now. Application packet will arrive by email within twenty-four hours. Reference number is MT-2026-022581.
+Caller: MT-2026-022581. Got it.
+Agent: And I'd suggest speaking with a HUD-approved housing counselor in Sacramento in parallel. They can help you evaluate all options and advocate on your behalf at no cost.
+Caller: How do I find one?
+Agent: Go to hud.gov and search for approved housing counselors in your area, or call 1-800-569-4287. It's a free service and they're very knowledgeable.
+Caller: Thank you, Yuki. This is a lot to process but I feel better knowing what to do.
+Agent: You're on top of it and you're not in default. That's the best position to be in. Is there anything else?
+Caller: No, I'll get the paperwork together.
+Agent: Good. Have a good day, Ms. Torres.
+Caller: Thank you. Bye.

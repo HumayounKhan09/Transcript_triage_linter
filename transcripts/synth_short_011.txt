@@ -1,0 +1,37 @@
+Agent: Thank you for calling Ironwood Mortgage Services, this is Jennifer. How can I help you today?
+Caller: Hi Jennifer. I mailed a check in last week and I want to make sure you guys got it.
+Agent: Of course, I can check on that for you. Can I start with your name?
+Caller: Lucinda Ferrera.
+Agent: Thank you, Ms. Ferrera. And the last four of your Social?
+Caller: 6073.
+Agent: And the property address?
+Caller: 3015 Copperfield Way, Denver, Colorado 80202.
+Agent: Got it. Let me pull up your payment history. You said you mailed a check last week — about when did you send it?
+Caller: I put it in the mail on June 18th. It was for my July payment. I like to pay ahead.
+Agent: I appreciate that. Let me look at recent activity on your account.
+Caller: Okay.
+Agent: I'm looking through the transactions now. I do show a payment received on June 23rd in the amount of $1,218.50. Does that amount sound right?
+Caller: Yes, that's exactly my payment amount.
+Agent: That payment has been posted and applied to your account. It was credited as your July installment. Your account is current and shows no balance due until August 1st.
+Caller: Oh perfect. And you said June 23rd?
+Agent: Yes, June 23rd is when it was received and processed.
+Caller: So it only took five days. That's faster than I expected.
+Agent: Mailed payments can vary, but five business days is pretty typical. You do also have a payment coupon from your statement?
+Caller: Yes, I always use that. Does that help it get to the right place faster?
+Agent: It does help with accuracy. The coupon has a barcode with your account number, so it routes to the right processing queue quickly and reduces the chance of a posting error.
+Caller: Good. I'll keep doing that. I just get nervous sending checks in the mail.
+Agent: That's understandable. If you ever want the certainty of immediate confirmation, our online portal or phone payment system posts payments the same day or next business day.
+Caller: I've thought about it, but I'm old-fashioned I guess. I like my paper trail.
+Agent: That's perfectly fine. We process mailed payments every business day, so you're in good hands.
+Caller: Can I ask — when you say posted on June 23rd, does that mean that's the date that counts for things like late fees?
+Agent: Yes, the posting date is the effective payment date. Since your payment was applied on June 23rd and your June due date with grace period would have been through June 15th, I want to make sure — your June payment had already been made separately?
+Caller: Oh yes, I paid June back in May. I always pay a month ahead.
+Agent: Wonderful, that's great financial practice. So June is satisfied, and July is now satisfied as well. Your next payment due is August 1st.
+Caller: Great. And that August payment — I'll probably mail that around the end of July. Same routine.
+Agent: That should work perfectly. As long as it arrives by August 15th you're within the grace period.
+Caller: Thank you, Jennifer. That's all I needed to know.
+Agent: Of course, Ms. Ferrera. Is there anything else on the account I can assist with?
+Caller: No, I'm good. I just wanted confirmation.
+Agent: You've got it. Thank you for calling Ironwood Mortgage Services. Have a wonderful day.
+Caller: You too. Thank you. Bye.
+Agent: Goodbye.

@@ -1,0 +1,36 @@
+Agent: Thank you for calling Horizon Mortgage Services, my name is Jennifer, how can I help you today?
+Caller: Hi Jennifer, I just wanted to check on my balance and find out when my next payment is due.
+Agent: I'd be happy to help with that. Can I get your full name please?
+Caller: Sure, it's Robert Callahan.
+Agent: And can you verify the last four digits of your Social Security Number?
+Caller: 7742.
+Agent: Thank you, Mr. Callahan. And the property address on the account?
+Caller: 418 Birchwood Lane, Columbus, Ohio.
+Agent: Perfect, I've pulled up your account. Your current principal balance is $214,308.47.
+Caller: Okay, that's a little higher than I thought but okay.
+Agent: That's your outstanding principal. Your next payment due date is July 1st.
+Caller: Okay, so July 1st. And how much is the payment?
+Agent: Your regular monthly payment is $1,487.22. That includes principal, interest, and your escrow for taxes and insurance.
+Caller: Right. And is there any amount past due or anything I owe from before?
+Agent: No sir, your account is current. The last payment we received was on June 3rd in the amount of $1,487.22, and that brought you completely current through June.
+Caller: Great. So as long as I pay by July 1st I'm good?
+Agent: That's correct. You do have a grace period, so if for any reason you can't pay on the 1st, you have until the 15th before a late fee would be assessed.
+Caller: Oh good, that's helpful to know. I didn't realize there was a grace period.
+Agent: Yes, the grace period runs through the 15th of each month. If you pay on or before the 15th, no late fee is charged.
+Caller: What's the late fee if I do go past the 15th?
+Agent: The late charge on your loan is 5% of the principal and interest portion of your payment. That would be approximately $62.14.
+Caller: Okay, I'll make sure not to let it get there. I usually pay on the 1st anyway.
+Agent: That's a great habit. Is there anything else I can help you with today?
+Caller: Yeah, actually, can you tell me how much of my payment goes to principal versus interest each month?
+Agent: Of course. For your current payment, approximately $389.50 is applied to principal and $697.72 goes toward interest. The remainder covers your escrow.
+Caller: So about $400 to principal. That feels slow.
+Agent: I understand. Early in the loan term, interest makes up a larger share of each payment. Over time that balance shifts in your favor as the principal decreases.
+Caller: How many years do I have left on the loan?
+Agent: Your loan matures in August of 2047, so you have approximately 21 years remaining.
+Caller: Got it. Yeah, I bought the place in 2024 so that tracks. Okay I think I have everything I need.
+Agent: Absolutely. So to recap, your current balance is $214,308.47, and your next payment of $1,487.22 is due July 1st with a grace period through the 15th.
+Caller: Perfect. Thank you Jennifer, you were very helpful.
+Agent: My pleasure, Mr. Callahan. Is there anything else before I let you go?
+Caller: No, that's everything. Have a good day.
+Agent: You too, sir. Thank you for calling Horizon Mortgage Services. Goodbye.
+Caller: Bye.

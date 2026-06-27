@@ -1,0 +1,48 @@
+Agent: Horizon Mortgage Servicing, this is Kevin, how can I help you today?
+Caller: Hi Kevin, um, I'm calling because I had a really bad medical emergency last month and I just — I don't know how I'm going to make my mortgage payments for the next couple of months. I'm kind of in a panic.
+Agent: I'm so sorry to hear that. First, are you okay?
+Caller: I'm doing better, thank you. I had a cardiac event. I was in the hospital for eight days. I'm home now but I can't work yet and my wife had to take unpaid leave to take care of me.
+Agent: I'm really glad you're recovering. And please know, you're not alone in this situation, and you've done the right thing by calling us. We absolutely have programs designed for exactly what you're going through. Let me pull up your account. Can I get your loan number?
+Caller: It's 528763. The address is 1122 Ferndale Road, Memphis, Tennessee.
+Agent: And your name and last four digits of your Social?
+Caller: Thomas Beaumont, and it's 6612.
+Agent: Thank you Thomas. I have your account here. Your loan is current — your April payment posted, good. Now, you mentioned you're worried about May and possibly June?
+Caller: Yeah. I get short-term disability but it only covers sixty percent of my salary, and my wife isn't getting paid right now. We're looking at maybe two thousand dollars a month less than normal coming in.
+Agent: That's a significant impact and I understand the stress. Let me tell you about your options. The main program we have for medical hardships is a forbearance plan. Forbearance means we temporarily suspend or reduce your required monthly payment for a set period while you get back on your feet.
+Caller: Okay. What does that actually look like?
+Agent: For your situation, we'd typically start with a two-month forbearance. Your payment is currently fourteen hundred and eighty dollars a month, is that right?
+Caller: Yeah, about that. Fourteen eighty-two I think.
+Agent: Fourteen hundred and eighty-two dollars, correct. During the forbearance period, you would either pay nothing, or you could pay a reduced amount if you're able to — whatever works for your budget. The amounts not paid during forbearance are not forgiven, but they're set aside temporarily.
+Caller: How do I pay them back?
+Agent: That's the most important thing to understand. When the forbearance period ends, we'd work out a repayment plan. There are typically three options. One is a lump sum — you pay everything you missed at once. If you miss two payments, that's about twenty-nine hundred and sixty-four dollars, plus any fees, all at once. Most people can't do that.
+Caller: We definitely can't do that.
+Agent: That's very common. Option two is a repayment plan — we spread the missed amounts over a period of months, added to your regular payment. So if you missed two payments and we spread it over six months, that's roughly four hundred and ninety-four additional dollars per month on top of your regular payment for six months.
+Caller: That's still a lot.
+Agent: It is. Option three, which may be available depending on how things go, is a deferral — where the missed payments get moved to the end of your loan as a non-interest-bearing balloon. You'd pay them off when you sell the home, refinance, or pay off the loan. That's often the easiest on monthly cash flow.
+Caller: That sounds like the best option honestly.
+Agent: It's popular for that reason. I want to be transparent with you — deferral availability depends on your loan type and investor guidelines. Your loan is a conventional loan serviced under Fannie Mae guidelines. Fannie Mae does have a payment deferral option that I believe would apply here, but it does require review and approval. It's not automatic.
+Caller: How long does that take?
+Agent: The forbearance itself I can initiate today. The repayment option gets determined when we come out of forbearance. We'd contact you about thirty days before the forbearance ends to discuss options.
+Caller: So I don't have to figure out the payback part right now?
+Agent: Correct. Right now we focus on getting you two months of breathing room, and we deal with the repayment structure when you're in a better position to think about it.
+Caller: That's a huge relief. What do I need to do to apply?
+Agent: For a medical hardship forbearance, I'll need a few things. A written hardship statement from you — even just a brief paragraph is fine — explaining the medical emergency and your expected timeline for returning to work. If you have any documentation from your doctor about your recovery timeline, that's helpful but not always required.
+Caller: I have a letter from my cardiologist saying I can't return to work for six to eight weeks.
+Agent: Perfect. That's excellent documentation. I also need your most recent bank statements — one to two months — and your short-term disability payment documentation.
+Caller: I can get all of that. Can I upload it online?
+Agent: Yes, we have a secure document upload portal. When we hang up, I'll send you an email with the link and your case number. Once I have your documents, it typically takes three to five business days to review and confirm the forbearance.
+Caller: And in the meantime, if my payment is due in two weeks?
+Agent: Okay, let me check your due date. Your payment is due May 1st. Here's what I'd recommend — I'm going to flag your account right now with a hardship notation. That doesn't guarantee you won't receive a late notice, but it does alert our payment follow-up team that you have a pending hardship application. My strong advice is to get your documents to us before May 1st so we can get the forbearance confirmed.
+Caller: I'll try. My wife can help me put it together this weekend.
+Agent: Good. If you need any help understanding what to write in the hardship letter, keep it simple — just explain what happened medically, when it happened, that you're on short-term disability, your wife is on unpaid leave, and when your doctor expects you to be able to return to work. It doesn't need to be long.
+Caller: Okay. Can I ask — does this affect my credit score?
+Agent: Potentially, yes. If a forbearance is in place before you miss a payment, we may report your account as in a forbearance plan. That's different from reporting it as delinquent. Reporting practices do vary, and I won't promise you it won't have any effect — I want to be honest with you. But it's generally much better than having missed payments reported.
+Caller: Understood. What about my credit card bills? Can you help with those too?
+Agent: I wish I could, but we only service your mortgage. For other creditors, I'd recommend contacting them directly and letting them know about your medical situation. Most major creditors have hardship programs too.
+Caller: Okay. Thank you Kevin. You've been really helpful.
+Agent: I'm glad. You're going to get through this, Thomas. You took a really important step today. Let me give you your case number — it's MED-2024-30817. And you'll get the email with the document upload link within the hour.
+Caller: MED-2024-30817. I'll write that down right now.
+Agent: Perfect. Any other questions before we hang up?
+Caller: No, I think I have what I need. Thank you again.
+Agent: You're very welcome. Please take care of yourself and get well soon. Goodbye.
+Caller: Thank you. Bye.

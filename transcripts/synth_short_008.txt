@@ -1,0 +1,43 @@
+Agent: Thank you for calling Meridian Mortgage Group, this is Sandra. How can I help you?
+Caller: Hey Sandra. This is kind of embarrassing but I can't find my loan number anywhere. I need it to fill out some paperwork.
+Agent: Not embarrassing at all, that's a very common call. I can get that for you. May I have your full name?
+Caller: Anthony Deluca.
+Agent: Thank you, Mr. Deluca. And can you verify the last four of your Social Security Number?
+Caller: 1193.
+Agent: And the property address on the account?
+Caller: 620 Painted Rock Road, Phoenix, Arizona 85044.
+Agent: Thank you, I've located your account. Your loan number is 7740293816.
+Caller: Okay let me write that down. 7-7-4-0-2-9-3-8-1-6?
+Agent: That's correct. 7740293816.
+Caller: Great. And what's the account number — is that the same thing?
+Agent: For most purposes, yes. Your loan number and account number are the same. That 10-digit number is what you'll use to reference your mortgage on any paperwork, applications, or correspondence.
+Caller: Good. The form I'm filling out also asks for the investor or servicer. What do I put there?
+Agent: For servicer, you would list Meridian Mortgage Group. As for investor, I can check who owns your loan. One moment.
+Caller: Sure.
+Agent: Your loan is owned by Freddie Mac, also known as Federal Home Loan Mortgage Corporation. Some forms ask for the servicer, which is us, and some ask for the investor, which is Freddie Mac. It depends on what the form needs.
+Caller: It just says lender slash servicer, so I'll put Meridian Mortgage Group.
+Agent: That would be appropriate.
+Caller: And do you have an address I should put?
+Agent: Our servicing center address for correspondence is Meridian Mortgage Group, P.O. Box 48200, Dallas, Texas 75248.
+Caller: Perfect. P.O. Box 48200, Dallas, Texas 75248. Got it. And is there like a phone number I should include?
+Agent: Yes, our main customer service number is the number you called today. That's 1-800-555-0147.
+Caller: Okay. And one more thing — what's my original loan amount? The form asks for that too.
+Agent: Your original loan amount was $310,000.
+Caller: Great. And origination date?
+Agent: Your loan originated on March 14th, 2022.
+Caller: Perfect. I think that's everything the form needs. Can you tell me what type of loan it is?
+Agent: Yes, it's a 30-year fixed-rate conventional mortgage.
+Caller: And the interest rate?
+Agent: Your interest rate is 3.875%.
+Caller: Wow, that's a good rate. I remember being happy about that.
+Agent: It is a solid rate. You locked in at a good time.
+Caller: Okay, I think I have everything. Loan number 7740293816, servicer Meridian Mortgage Group, P.O. Box 48200, Dallas TX, 30-year fixed at 3.875%, originated March 2022.
+Agent: That all sounds correct.
+Caller: Perfect. I'll also just make a note of it somewhere smart this time so I don't lose it again.
+Agent: That's always a good idea. You can also find your loan number on any of your monthly statements or in your online portal.
+Caller: Good point. I should be better about keeping those. Alright, thanks a lot Sandra.
+Agent: My pleasure, Mr. Deluca. Is there anything else I can help you with?
+Caller: No, that's it. Thanks again.
+Agent: Of course. Thank you for calling Meridian Mortgage Group. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

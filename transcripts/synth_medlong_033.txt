@@ -1,0 +1,54 @@
+Agent: Thank you for calling Meridian Trust Mortgage, this is Tom. Can I get a loan number to pull up the account?
+Caller: I actually have two loan numbers — 7755-30014 and 7755-30089. Both are on the same property. I'm calling as the executor of my mother's estate.
+Agent: I'm sorry for your loss. I can access both loans. Can I get the borrower's name on the account and your name as executor?
+Caller: The borrower is Dorothy Carmichael. She passed away March 14th. I'm her son, Franklin Carmichael. I'm the executor of the estate, which was probated in Hennepin County, Minnesota.
+Agent: Thank you, Mr. Carmichael. I can see both loans on the property at 4410 Birchwood Lane, Minneapolis, Minnesota. Let me pull them both up. Loan 7755-30014 — that's a first mortgage with a balance of $187,220.40. Loan 7755-30089 — that's a HELOC with a balance of $44,881.16. Is that correct?
+Caller: Yes, that's what I have from the estate documents.
+Agent: Before I share full account details, I need to note that as a third party — even as executor — we need to verify your authority over the estate to discuss account specifics. Do you have Letters Testamentary?
+Caller: I have Letters Testamentary issued by the Hennepin County Probate Court, dated April 2nd of this year.
+Agent: Perfect. If you can mail, fax, or upload a copy of those Letters Testamentary to us, we can add you as an authorized party on the account. I'm going to note the account now and give you our documents email, and we can proceed with the general information in the meantime since the property situation is straightforward.
+Caller: Okay, I can email those today. What's the address?
+Agent: Please send to estatereview@meridiantrust.com, subject line Dorothy Carmichael, loan numbers 7755-30014 and 7755-30089. Once received, we'll add you formally and you'll have full account access.
+Caller: Got it. I want to sell the property. There are three heirs — myself and my two sisters, Elizabeth and Margot. We all agree to sell. The house is listed at $395,000.
+Agent: I understand. This is a fairly common situation — estate sale with two liens on the property. Let me explain how the payoff and sale process works.
+Caller: We have a buyer and we're targeting a closing date of August 10th.
+Agent: Excellent. For an estate sale, the process is largely the same as any other sale, with a few additional steps. The title company handling the closing will need payoff quotes for both loans and will clear both liens at closing from the sale proceeds. You, as executor, will be executing documents on behalf of the estate.
+Caller: Can you give me payoff figures for August 10th?
+Agent: I can give you approximate figures for planning purposes, though the formal payoff statement should be requested by your title company with an August 10th payoff date specified. On the first mortgage, balance is $187,220.40 at 4.875 percent. Daily interest is approximately $24.96. From today through August 10th is approximately 44 days. So the August 10th payoff estimate for the first mortgage is approximately $188,318 plus any fees — typically $25 wire fee and $35 doc prep — so roughly $188,378.
+Caller: And the HELOC?
+Agent: The HELOC balance is $44,881.16. HELOCs typically use prime rate — currently 8.5 percent. Daily interest on the HELOC is approximately $10.46. For 44 days, that's approximately $460 additional. August 10th payoff on the HELOC is approximately $45,341 plus fees, so about $45,401.
+Caller: So combined payoffs of roughly $233,779. The sale price is $395,000. After commissions of around 5 percent — that's $19,750 — and closing costs of maybe $4,000 — the estate would net approximately $137,471.
+Agent: That's solid back-of-the-napkin math. The title company will prepare the exact HUD-1 or settlement statement with all the precise numbers. The estate net proceeds would then be distributed to the three heirs per the will or intestacy laws.
+Caller: The will specifies equal division among the three of us. Do we each get a check at closing?
+Agent: The distribution depends on how your title company and probate attorney structure it. Typically, the title company sends the net proceeds to the estate account, and you as executor distribute from there according to the will and after any estate expenses are settled. Some title companies will issue separate checks to each heir if the executor directs them to — that varies by company.
+Caller: One of my sisters, Margot, doesn't want to sign anything. She agrees to the sale in principle but she's being difficult about paperwork. Can we sell without her signature?
+Agent: As executor, your authority to sell the real property generally comes from the Letters Testamentary and the probate court's grant of authority, not from each heir's consent. However, this is exactly the kind of legal question you should discuss with your probate attorney — the answer depends on how authority is granted in your specific Letters and under Minnesota law. Some states require all heirs to sign; others give the executor full unilateral authority. I can't give you legal advice on that.
+Caller: Fair enough. My attorney is handling it. I mainly wanted to understand the mortgage side.
+Agent: Understood. One thing I want to flag — both mortgages are technically in default upon the borrower's death under the due-on-sale clause, which includes transfer of ownership by death. In practice, servicers do not call loans due immediately in estate situations — we work with estates toward a resolution, typically sale. However, payments should continue to be made during the estate administration to avoid late charges and additional interest accrual.
+Caller: Has anyone been making the payments since March?
+Agent: Let me check the payment history. I see the April payment was made, the May payment was made — I see a payment credited May 3rd — and the June payment is currently 18 days past due.
+Caller: I missed June. Can I make that now?
+Agent: Yes. Are you calling from a number where I can transfer you to our automated payment line, or do you want me to process a payment now?
+Caller: I can process it now. Can I pay from the estate account?
+Agent: Yes, we accept one-time ACH payments from bank accounts. I'll need the routing number and account number.
+Caller: One moment. The routing number is 091000022. Account number is 4488201963.
+Agent: I'm processing a payment for the June amount — the first mortgage payment is $1,287.44 — would you like to pay both the first and HELOC together?
+Caller: Yes, what's the HELOC minimum?
+Agent: The HELOC minimum payment for June is $318.00, which covers interest only. So the total would be $1,605.44.
+Caller: Go ahead and process both.
+Agent: Processing now. Confirmation numbers: first mortgage payment LM-88241-C, HELOC payment LM-88242-C. Both will post within one business day.
+Caller: Good. Now, on the HELOC specifically — is there a freeze on it? My mother can't draw on it obviously, and I want to make sure no one can.
+Agent: That's an important concern. Yes, when we receive the death certificate and Letters Testamentary, we will freeze the HELOC to prevent any further draws. Given that we haven't yet received those documents, I'll flag the account for an immediate freeze on the draw capability pending document receipt. I'm noting that now. No further draws will be permitted.
+Caller: Thank you. Are there any prepayment penalties on either loan?
+Agent: Let me check both notes. The first mortgage — no prepayment penalty. The HELOC — HELOCs typically don't have prepayment penalties, but some have early termination fees if closed within a certain period of origination. This HELOC was opened in 2018 — that's seven years ago — and I don't see an early termination fee applicable at this point. You can close it at the August 10th payoff without penalty.
+Caller: And once both loans are paid, you'll release both liens?
+Agent: Correct. Within the timeframe required by Minnesota law — typically 30 days — we'll issue a satisfaction of mortgage for the first lien and a satisfaction or release for the HELOC. Both will be sent to the county recorder. Your title company will track the releases as part of the closing process and can follow up with us if there's any delay.
+Caller: The title company will be Hennepin County Title Group. They may be calling for the formal payoff statements.
+Agent: I'll note that on the account. They should reference the estate of Dorothy Carmichael, loan numbers 7755-30014 and 7755-30089, and request August 10th payoff statements. Our payoff department number is 1-800-774-6210.
+Caller: Wonderful. This has been very helpful. I want to apologize for missing the June payment — this has been an overwhelming few months.
+Agent: No apology necessary, Mr. Carmichael. This is a difficult situation and you're handling it responsibly. The June payment is now resolved. Please send those Letters Testamentary as soon as possible, and things should go smoothly from here.
+Caller: I'll email them within the hour. Thank you, Tom.
+Agent: Take care. I'm sorry for your loss. Is there anything else before we hang up?
+Caller: No, that's everything. Thank you very much.
+Agent: Of course. Goodbye, Mr. Carmichael.
+Caller: Goodbye.

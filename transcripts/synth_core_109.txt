@@ -1,0 +1,47 @@
+Agent: Thanks for calling Clearwater Loan Servicing. This is Tyler. Can I pull up your account — name and loan number?
+Caller: Sure, Tyler. This is Kevin Osei. My loan number is 7-1-0-4-4-5-2.
+Agent: Thanks, Mr. Osei. Property address and the last four of your Social?
+Caller: 309 Birchwood Avenue, Grand Rapids, Michigan 49503. Last four is 5-5-8-1.
+Agent: Got it, pulled up. What can I help you with today?
+Caller: I got a letter last month with a Freddie Mac Flex Modification offer. I've been reading through it but I have a lot of questions. I know it's Freddie Mac because the letter says so. I just want to understand exactly what I'm agreeing to before I sign anything.
+Agent: That's the right approach — understanding before signing. Let me look at your account. Yes, your loan is Freddie Mac-owned and I can see the Streamlined Flex Modification offer that was sent on May 28th. Let me walk you through the specifics. What questions do you have?
+Caller: First one — my current payment is $1,512 and the offer says my new payment would be $1,195. But then there's a note that says the payment includes a principal deferral. What is that?
+Agent: Great question. The Freddie Mac Flex Modification uses a waterfall of adjustments to bring your payment down. The first steps are capitalizing arrears into the balance, then reducing the interest rate, then extending the term. In some cases, those three steps alone can't quite get the payment to the 20% of gross income target. When that happens, Freddie Mac allows a principal deferral — also called a principal forbearance.
+Caller: And what exactly is that?
+Agent: A portion of your principal balance is set aside as a deferred amount. That portion doesn't accrue interest and isn't included in the monthly payment calculation — it just sits there and comes due when you sell the home, refinance, or pay off the loan. So your regular monthly payment is calculated on a reduced principal, but the full amount is still owed eventually.
+Caller: How much is being deferred in my case?
+Agent: Let me look at the offer details in your file. Your current unpaid principal balance is $187,000. The offer capitalizes arrears of $3,024, bringing the balance to $190,024. The deferral amount in your offer is $28,503, so your active principal — the portion your monthly payment is based on — would be $161,521. The $28,503 is the balloon due at payoff.
+Caller: So I'd owe $190,024 total but only pay on $161,521?
+Agent: Exactly. The monthly payment of $1,195 is calculated on the $161,521 at the modified rate and extended term. When you eventually sell or pay off the loan, the full $190,024 would need to be satisfied.
+Caller: What's the modified interest rate?
+Agent: Your current interest rate is 6.875%. The modified rate in the offer is 4.625%. That's based on the Freddie Mac Primary Mortgage Market Survey rate capped at a defined ceiling, minus adjustments prescribed by their Flex guidelines.
+Caller: Is 4.625% fixed for the life of the loan?
+Agent: Yes. The Freddie Mac Flex Modification offers a fixed rate for the life of the modified loan. That's a significant benefit if you came in with an adjustable-rate mortgage or a rate that was at risk of going higher.
+Caller: Mine is currently fixed but at almost seven percent, so yes, a lower fixed rate is attractive. What about the term? The letter mentions 40 years.
+Agent: Correct. The term is extended to 480 months — 40 years from the modification date. Combined with the rate reduction and the principal deferral, that's how they get the payment down to $1,195.
+Caller: My remaining term now is 26 years. So I'm going from 26 years to 40 years?
+Agent: Yes. The trade-off is a much lower monthly payment now versus paying for a longer period. For borrowers who are struggling to sustain the current payment, the long-term cost is often worth the near-term affordability.
+Caller: Is there any way to get a shorter term?
+Agent: Under the Freddie Mac Flex program, the waterfall is standardized and the servicer must follow it. Customizing the term isn't an option within this program. If you wanted a shorter term, you'd either need to refinance at some future point when you're eligible, or make extra payments toward principal, which is always allowed.
+Caller: I got this offer automatically — does that mean I didn't have to prove anything to get it?
+Agent: That's correct. Because you're more than 60 days past due, Freddie Mac's guidelines allow for a streamlined offer without income verification. The delinquency itself is treated as evidence of hardship.
+Caller: I'm 78 days past due right now. So yes. Can I ask — how far behind was I when the offer was generated?
+Agent: The offer was generated based on a 60-day delinquency assessment from May. Your May 1st payment was not received, and the offer was generated after that.
+Caller: Okay. And is there a trial period I need to complete?
+Agent: Yes. The Freddie Mac Flex Modification includes a trial period. For streamlined offers, it's typically three months. Your trial payments would be $1,195 per month, due the first of each month. All three must be received within their respective calendar months. If all three are successfully made, the permanent modification documents are prepared and sent for your signature.
+Caller: What if I miss a trial payment?
+Agent: If a trial period payment is not received within the calendar month it's due, the trial plan would be terminated. The permanent modification would not be completed, and your loan would revert to original terms. That's a situation we want to avoid. I'd encourage you to call immediately if you think a payment might be late so we can document any extenuating circumstances.
+Caller: Understood. Now, the offer letter has a deadline on it — July 10th. Can I negotiate any of these terms before accepting?
+Agent: The terms of a Freddie Mac Flex Modification offer are standardized and aren't subject to negotiation — they're set by Freddie Mac's guidelines, not by us. You either accept the offer as presented or you decline it. If you decline, you still have the right to apply for a standard Flex Modification with full documentation, but the terms would likely be similar.
+Caller: What if my income has improved and I think I could handle better terms?
+Agent: If your financial situation has materially improved, you actually have options. One is to catch up the arrears and reinstate the loan, which would bring you current and you'd continue on the original terms. Another is to proceed with the modification. A third, if you have sufficiently improved income and equity, would be to refinance at some future point after the modification is in place and the loan has seasoned.
+Caller: How long after modification would I need to wait to refinance?
+Agent: Generally lenders require 12 to 24 months of on-time payment history after a modification before they'll approve a refinance. The exact requirement varies by lender. But that's something to think about down the road.
+Caller: I'll accept the modification for now. I was just nervous because I didn't fully understand it. Do I sign the letter and mail it back?
+Agent: You can sign and mail the acceptance using the prepaid envelope included, or you can upload a scanned copy through our borrower portal at clearwaterloans.com. The portal is faster and gives you a confirmation receipt.
+Caller: Portal it is. What's the deadline again?
+Agent: July 10th. Your first trial payment would be due August 1st based on what I see in the offer.
+Caller: Great. I'll upload the signed acceptance today. Thank you, Tyler. You made this very clear.
+Agent: Happy to help, Mr. Osei. If anything comes up before your first trial payment, call us at 1-800-555-0363. Good luck.
+Caller: Thanks. Goodbye.
+Agent: Goodbye.

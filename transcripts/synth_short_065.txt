@@ -1,0 +1,30 @@
+Agent: Thank you for calling Clearwater Mortgage, this is Fatima. How can I help you today?
+Caller: Hi Fatima. I made a big extra payment on my principal last week, like a significant amount. And now I'm looking at my account online and my next payment due date still shows the same date it always has. I thought maybe making an extra payment would push my next due date out. Did something go wrong?
+Agent: That's a really common question and I can explain exactly what happened. Let me pull up your account to confirm. Can I get your name and loan number?
+Caller: My name is Robert Kwan. Loan number is 9920-FF-31108.
+Agent: Thank you Robert. Can you confirm the last four of your Social Security number?
+Caller: 5521.
+Agent: And the property address?
+Caller: 445 Harbor View Terrace, San Diego, California 92106.
+Agent: Perfect. I have your account. I can see a principal payment of seven thousand dollars was posted on the 18th. Is that the payment you're referring to?
+Caller: Yes, that's it.
+Agent: Okay, so here's what happened and I want to reassure you that nothing went wrong. When a payment is designated as a principal curtailment — meaning it goes directly to principal — it reduces your loan balance immediately, but it does not satisfy your next scheduled monthly payment or advance your due date.
+Caller: Oh. So I still have to make my regular payment next month?
+Agent: Yes, that's correct. Your regular monthly payment is still due on the first of next month as scheduled. The principal payment you made last week operates separately. Think of it as reducing how much you owe overall, not as a substitute for a regular payment.
+Caller: I see. I think I misunderstood how it worked. I thought if I paid enough extra it would buy me a month off.
+Agent: That's a very understandable assumption. What you're thinking of does exist — it's called a payment recast or re-amortization in some cases, or some lenders offer what's called a payment advance. But those are specific features that not all loans have, and they work differently.
+Caller: Does my loan have anything like that?
+Agent: Let me check your loan type and terms. Your loan is a conventional mortgage and it doesn't include a provision for advancing the due date based on extra principal payments. Your due date will remain the first of each month regardless of extra principal payments made.
+Caller: Okay, that makes sense. So what did the seven thousand dollars actually do then?
+Agent: It directly reduced your principal balance by seven thousand dollars. That means going forward you'll pay slightly less interest each month since interest is calculated on your outstanding balance. It also means your loan will pay off faster — you've effectively made an early dent in the later principal payments you would have owed.
+Caller: So it's not wasted — it just didn't push out my next due date.
+Agent: Exactly. It absolutely benefited you — just not in the way you were expecting. Your total interest paid over the life of the loan is now lower.
+Caller: Can you tell me roughly how much interest that saves me?
+Agent: Based on your remaining balance, rate of 5.5 percent, and remaining term, a seven thousand dollar curtailment at this point would save you approximately nine thousand three hundred dollars in interest over the remaining life of the loan, and shorten your payoff by about seven months.
+Caller: Oh, that's actually really good. I feel better about it now.
+Agent: It was definitely a smart move. I just want to make sure you're prepared for your regular payment coming up on the first.
+Caller: Yes, I'll make that as normal. Thanks for explaining all of this Fatima.
+Agent: You're very welcome Robert. Is there anything else I can help you with?
+Caller: No, that's everything. Have a good day.
+Agent: You too. Goodbye.
+Caller: Bye.

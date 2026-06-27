@@ -1,0 +1,45 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Fatima. How can I assist you today?
+Caller: Hi, I just got a piece of mail that really alarmed me. It says Notice of Default on the outside of the envelope and I'm shaking. My name is Marcus Webb and I think there's been a mistake. I pay my mortgage.
+Agent: Mr. Webb, I understand this is upsetting, and I want to help you get clarity right away. Let me pull up your account. Can you give me your property address?
+Caller: Yes — it's 5521 Northgate Boulevard, Sacramento, California, 95835.
+Agent: Thank you. And the last four of your Social Security number?
+Caller: 4490.
+Agent: And your date of birth?
+Caller: May 23rd, 1973.
+Agent: Thank you. I have your account. Before I look at the status, can you read me any key information from the notice? Like the date on the letter and who signed it?
+Caller: The date on the letter is June 5th. It's signed by something called Pacific Trustee Services. And it lists my address and says the loan is in default due to non-payment.
+Agent: Thank you. Pacific Trustee Services is a foreclosure trustee — in California, when a loan goes into default, the lender instructs a trustee to initiate the Notice of Default process. That's the first formal step in the foreclosure process. Now let me look at your payment history.
+Caller: How can I be in foreclosure? I pay every month.
+Agent: Mr. Webb, let me look carefully. I want to give you accurate information rather than guess. Looking at your payment history — I can see payments coming in regularly. However, I do see a gap. Your last payment posted was for March. I don't see an April payment or a May payment on record.
+Caller: That's impossible. I have a payment going out from my bank every month. I've had autopay set up for four years.
+Agent: I believe you, and I want to figure out what happened. Can I ask — did you change bank accounts or change your autopay settings at any point in March or April?
+Caller: No. I — wait. Actually, I did change banks in February. I switched from Chase to a new credit union. I updated my mortgage autopay at the same time. Or I thought I did.
+Agent: That could be the issue. When you switched banks and updated your autopay, if the new bank account information wasn't correctly entered, or if the link wasn't successfully validated, the payments may not have gone through even though you believed they were being sent.
+Caller: Oh no. Would I have gotten any notice from you before this?
+Agent: Yes — we would have sent notices. Looking at your account, I see a missed payment notice went out in May and a second notice in June, both to your address on file. Did you not receive those?
+Caller: I honestly don't remember seeing them. I might have thought they were junk mail or something. I've been so busy. I feel sick.
+Agent: Please don't panic. A Notice of Default is serious, but it is the beginning of the process, not the end. In California, there is a 90-day reinstatement period after the Notice of Default is recorded before a Notice of Trustee Sale can be issued. You have time to act.
+Caller: So I'm not losing my house tomorrow?
+Agent: No. The foreclosure process takes time, especially in California. The key right now is to bring the account current — that's called reinstatement — by paying all past-due amounts. If you can do that, the foreclosure process stops.
+Caller: How much do I owe to get current?
+Agent: Let me calculate the reinstatement amount. Your regular monthly payment is $1,924. There are two missed months — April and May — so that's $3,848 in unpaid principal and interest plus escrow. There are also late fees that have accrued. And because the Notice of Default has already been recorded with the county, there are associated trustee fees and recording costs that must also be included in the reinstatement amount.
+Caller: How much is it all together?
+Agent: I'm calculating a reinstatement amount of approximately $4,390, which includes the two missed payments, late charges, and the initial trustee fees. However, that amount changes daily because interest is accruing. For a precise figure, I can generate a formal reinstatement quote, which is valid for a specific date.
+Caller: Yes please. I want to fix this immediately. I have the money. I just didn't know anything was wrong.
+Agent: I'm glad you have the funds available. To process a reinstatement, you'll need to pay the full reinstatement amount by certified funds — cashier's check or wire transfer — before the reinstatement quote expiration date. I'll submit a request for a formal reinstatement quote, which will be sent to you within three business days. It will include wire instructions and a deadline.
+Caller: Three days? Is there a faster way?
+Agent: Given the urgency, I'm flagging this as a reinstatement in progress and I'll note that you're requesting expedited processing. I'll also notate that you've asserted the missed payments were due to an autopay setup error when switching banks.
+Caller: Can I also fix the autopay now so this doesn't happen again?
+Agent: We can update your autopay information today. I'll need your new credit union's routing number and account number to set that up. Would you like to do that now?
+Caller: Yes. I want to make sure this never happens again. The routing number is 3-2-1-1-7-9-2-0-2 and the checking account number is 7-7-4-0-1-8-8-3-6-2.
+Agent: I have that. I'll set up your autopay with the new account. The next scheduled payment would go out according to your regular due date. And separately, the reinstatement quote will come to you within three business days.
+Caller: Is there anything else I should do?
+Agent: I'd encourage you to also contact Pacific Trustee Services and let them know you're initiating reinstatement. Their phone number may be on the notice you received. That doesn't stop the clock officially, but it's good practice to have documentation that you're in contact and acting in good faith.
+Caller: Okay. I'll call them today. And can I get your name and a reference number for this call?
+Agent: My name is Fatima, and I'll note this interaction on your account with today's date and a summary of what we discussed. You can reference this call using your loan number, which is 4-0-0-2-7-7-0-1-5.
+Caller: Thank you Fatima. I was really panicking when I called.
+Agent: I understand. You did the right thing by calling right away. Is there anything else I can help you with today?
+Caller: No. I just need to fix this. Thank you.
+Agent: You're welcome. Please don't hesitate to call back. Thank you for calling Meridian Mortgage, Mr. Webb.
+Caller: Thank you. Bye.
+Agent: Goodbye.

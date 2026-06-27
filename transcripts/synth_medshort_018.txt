@@ -1,0 +1,36 @@
+Agent: Thank you for calling Clearwater Mortgage Solutions, this is Kevin speaking. How can I help you today?
+Caller: Hi Kevin. My name is Stuart Kim. I got married last year and I want to add my wife to my mortgage. She wasn't on it when I bought the house, and we want to make sure she has legal interest in the property.
+Agent: Congratulations on your marriage, Stuart. This is something many newly married homeowners ask about. Let me pull up your account first. Can I get your property address and the last four of your Social?
+Caller: The address is 1835 Magnolia Avenue, San Diego, California 92103. Social last four is 5512.
+Agent: Thank you. And last four of the loan number?
+Caller: 9948.
+Agent: Got it. I have your account up. So I want to make sure I explain the distinction between two different things that are sometimes confused. There's adding someone to the title, which is the deed, and there's adding someone to the mortgage loan itself. These are different things.
+Caller: Oh. What's the difference?
+Agent: Adding your wife to the title means she becomes a legal co-owner of the property. You can do this relatively easily through your county recorder's office by executing a new deed, typically with the help of a real estate attorney.
+Caller: Okay. And what about adding her to the mortgage?
+Agent: Adding someone to the mortgage note itself — the actual loan — is a different matter. The mortgage is a legal contract between you and the lender. To add a new borrower to the loan, the loan would need to be refinanced with both of you as co-borrowers.
+Caller: So I can't just call you and say, add my wife?
+Agent: Unfortunately not. The lender cannot simply add a borrower to an existing loan without underwriting that person, because adding a borrower changes the creditworthiness profile of the loan.
+Caller: What does refinancing involve?
+Agent: Refinancing means originating a new loan together. Both you and your wife would apply as co-borrowers. The lender would review both of your credit scores, income, debts, and assets. The new loan would pay off your existing one. You'd also pay closing costs, which typically run between two and five percent of the loan amount.
+Caller: What's my current rate? Would refinancing make sense financially?
+Agent: Your current rate is 3.875%, which is a rate that many borrowers locked in before rates rose significantly. Current market rates are considerably higher. Refinancing to add a co-borrower would mean taking on the current market rate.
+Caller: So I'd lose my 3.875% rate?
+Agent: Correct. A refinance would replace your existing loan with a new one at current rates.
+Caller: That doesn't sound appealing. Is there any way to add her to the loan without refinancing?
+Agent: There is one rare scenario called a loan assumption, where someone assumes responsibility for the loan. However, most conventional loans are not assumable, meaning they include a due-on-sale clause that requires full repayment if ownership changes. Your loan is a conventional loan, so assumption would not be permitted.
+Caller: So my realistic options are to either refinance and lose the great rate, or just add her to the title?
+Agent: That's a fair summary. Many couples in this situation choose to add the spouse to the title via a new deed, which gives them legal co-ownership of the property, but leave the mortgage as-is under just one name. The non-borrower spouse would have full ownership rights to the property even if they're not on the loan.
+Caller: Is there any risk to her if something happened to me and she's on the title but not the mortgage?
+Agent: That's a great question for an estate planning attorney. Generally, if you were to pass away, your wife as co-owner would inherit the property, and she may be able to work with the lender on how to handle the loan. Some servicers offer survivor rights accommodations. But the specifics depend on state law and the loan terms.
+Caller: Should I talk to an attorney before making any decisions?
+Agent: I'd definitely recommend consulting with both a real estate attorney for the deed transfer and an estate planning attorney for the long-term implications. They can advise you based on California community property law, which may actually already give your wife some rights to the property depending on when the asset was acquired.
+Caller: Oh, California is a community property state. Does that mean she already has some claim?
+Agent: Property acquired during a marriage in California is generally considered community property, which does give your spouse certain rights. Your attorney can explain exactly how that applies to your situation.
+Caller: This is a lot more complex than I thought. I came in thinking I'd just add a name to a form.
+Agent: It's a common misconception. The good news is the deed addition is straightforward and affordable. The mortgage question is where it gets more involved.
+Caller: Thank you for explaining all of this very clearly, Kevin. I know what my next steps are.
+Agent: Happy to help. Is there anything else I can assist with today?
+Caller: No, that's it. Thank you.
+Agent: Take care, Stuart. Goodbye.
+Caller: Goodbye.

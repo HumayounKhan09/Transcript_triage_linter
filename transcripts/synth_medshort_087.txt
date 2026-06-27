@@ -1,0 +1,43 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Marcus. How can I help you today?
+Caller: Hi Marcus, my name is Vijay Nair. I got a letter telling me my mortgage is being transferred to a different servicer. I want to understand what my rights are because I've heard there are rules about how and when they can do this. I want to make sure everything is being done properly.
+Agent: Hi Mr. Nair, you're absolutely right that there are federal rules governing servicing transfers, and it's great that you're asking. Let me pull up your account to get some context, and then I can walk you through the relevant requirements. Can I verify your identity?
+Caller: Sure. My property is 3302 Greenfield Avenue, Detroit, Michigan, 48221.
+Agent: Last four of your Social?
+Caller: 5582.
+Agent: Date of birth?
+Caller: October 4th, 1979.
+Agent: Thank you, Mr. Nair. I see your account. And yes, I can see that there is a scheduled servicing transfer for your loan. The rules you're asking about are governed by RESPA — the Real Estate Settlement Procedures Act — specifically Section 6. Let me cover the key requirements.
+Caller: Please. And I want to make sure the timeline was followed correctly. The letter I received seemed very last minute.
+Agent: Understandable. Under RESPA, the current servicer — which is us — must provide you with a notice of transfer at least fifteen business days before the effective date of the transfer. The new servicer — the one taking over — must also provide you a welcome notice, either at the time of transfer or no later than fifteen business days after the transfer date. Can you tell me when you received our letter and what date is listed as the transfer date?
+Caller: I received it last Thursday. The transfer date in the letter says it's effective the first of next month, which is about fourteen calendar days from when I received it.
+Agent: I want to be transparent with you. The RESPA requirement is fifteen business days, not calendar days. Let me count business days from last Thursday to the first of next month.
+Caller: I counted and I came up with eleven business days. Which seems like it would be a violation.
+Agent: I want to make sure I have the dates right. Can you tell me what date you received the letter?
+Caller: I received it on June 12th. The transfer date is July 1st.
+Agent: Okay. June 12th to July 1st — let me count excluding weekends and federal holidays. That would be June 13, 16, 17, 18, 19, 20, 23, 24, 25, 26, 27, 30 — that's twelve business days. The RESPA requirement is fifteen business days notice. If the letter was mailed before June 12th and you received it later, that matters too — the notice period is calculated from when notice is given, which is typically considered the mailing date.
+Caller: The letter was dated June 10th. If we go from June 10th, how many business days is that?
+Agent: From June 10th to July 1st — that's June 11, 12, 13, 16, 17, 18, 19, 20, 23, 24, 25, 26, 27, 30 — that's fourteen business days. Still one short of the fifteen required.
+Caller: So it appears to be a violation.
+Agent: It does appear to be close to or potentially short of the fifteen business day requirement. I want to note that I'm doing this calculation in real time and there may be factors I'm not accounting for, like if there's a holiday in that period I'm missing. But based on what you're telling me, I understand your concern.
+Caller: What are my rights if there was a violation?
+Agent: Under RESPA, if a servicer fails to comply with the notice requirements, you have the right to file a complaint and can seek actual damages resulting from the violation. However, violations of the timing requirement alone — as opposed to substantive errors like applying payments incorrectly — often result in modest recoveries unless you can show actual harm caused by the short notice.
+Caller: I'm less interested in suing someone and more interested in making sure everything goes smoothly. What happens to my payments during the transfer?
+Agent: Great question. RESPA provides a sixty-day grace period after the transfer date during which you cannot be penalized or reported as late if you accidentally send your payment to the old servicer. So if you send your July payment to us after the July 1st transfer, we are required to forward that payment to the new servicer and you will not be charged a late fee.
+Caller: That's a relief. What's the new servicer's name?
+Agent: The new servicer is listed as Premier Home Loan Services. Their contact information should be in the welcome letter they're required to send you.
+Caller: I haven't received that yet.
+Agent: You have until fifteen days after the transfer date to receive it. If July 1st is the transfer date, they must send you their welcome notice by July 16th. If you don't receive it by then, that would be another compliance concern to note.
+Caller: Okay. Should I file a complaint about the notice timing now?
+Agent: You have the right to do so. You can submit a written complaint to us — it's a formal process called a notice of error — and we're required to respond within five business days of acknowledgment and resolve within sixty business days. You can also file a complaint with the Consumer Financial Protection Bureau at consumerfinance.gov. The CFPB tracks servicer compliance and takes action when patterns emerge.
+Caller: Even if I don't suffer damages?
+Agent: You can still file a complaint. The CFPB uses complaint data to identify patterns of non-compliance, so even individual complaints contribute to regulatory oversight.
+Caller: Alright. One more thing — does anything about my loan change with the transfer? My rate, my balance, my terms?
+Agent: No. Under RESPA, the transfer of servicing does not change the terms of your loan. Your interest rate, balance, payment amount, and maturity date all remain identical. Only the company you send your payment to changes.
+Caller: Good. And I should update my autopay?
+Agent: Yes. If you have autopay set up through us, that will be cancelled at transfer. You'll need to set up autopay with Premier Home Loan Services using their banking information. Your welcome letter will have instructions.
+Caller: Okay. Thank you Marcus. You've been very straightforward with me.
+Agent: I appreciate that. You're asking the right questions. Is there anything else I can help you with today?
+Caller: No, I think I have everything I need. I'll watch for the welcome letter and keep an eye on the calendar.
+Agent: Sounds like a good plan. Thank you for calling Meridian Mortgage, Mr. Nair.
+Caller: Thank you. Goodbye.
+Agent: Goodbye.

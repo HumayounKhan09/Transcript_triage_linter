@@ -1,0 +1,49 @@
+Agent: Thank you for calling Triton Mortgage Servicing. This is Brandon. Name and loan number?
+Caller: Hi Brandon. My name is Owen Fletcher. Loan number is 7-7-4-0-2-8-6.
+Agent: Thank you, Mr. Fletcher. Property address and last four?
+Caller: 2205 Winfield Court, Louisville, Kentucky 40218. Last four of Social is 8-8-0-1.
+Agent: Got it, I have your account. How can I help?
+Caller: I've decided to sell my house rather than try to hold onto it. My loan is underwater — I owe more than it's worth. I've had an offer to do a short sale at $172,000 but my loan balance is $201,000. I want to understand the timeline of the short sale process and whether you'll cooperate with the buyer.
+Agent: Thank you for calling proactively, Mr. Fletcher. A short sale with servicer cooperation is absolutely possible and I can walk you through how the timeline works and what we need from you. First — are you currently past due?
+Caller: Yes, I'm 45 days behind. I missed one payment.
+Agent: And you have a buyer interested at $172,000?
+Caller: Yes. The buyer is qualified — their agent said they're pre-approved for a conventional loan. We've signed a purchase contract contingent on lender approval.
+Agent: Good. That's the right structure. A short sale requires us to approve the sale at the reduced price because we're accepting less than what's owed. Since you're underwater by about $29,000, we'd be agreeing to release our lien for a $29,000 shortfall. That requires investor approval.
+Caller: Who's the investor on my loan?
+Agent: Let me check. Your loan is owned by Freddie Mac. Short sales on Freddie Mac loans go through their Standard Short Sale program. Freddie Mac has fairly structured guidelines for short sales and they're generally cooperative when the transaction is at or near market value and the hardship is documented.
+Caller: The buyer's offer of $172,000 — is that close enough to market value?
+Agent: That's one of the key questions. Freddie Mac requires that the purchase price be at or above the property's fair market value as determined by a broker price opinion or property valuation that we commission. If the buyer is offering $172,000 and the BPO comes back at $172,000 or below, the price would be approvable. If the BPO comes back higher — say, $185,000 — you'd need to renegotiate with the buyer.
+Caller: How much does the BPO cost and who orders it?
+Agent: We order and pay for the BPO as part of the short sale review process. You don't pay for it. It typically takes one to three weeks from the time we open the file and order it. The BPO agent will contact you or your real estate agent to access the property.
+Caller: Okay. So I need to open a short sale file with you?
+Agent: Exactly. To initiate the short sale review, you submit a loss mitigation application requesting short sale consideration. Along with that application, you provide your hardship letter, recent financial statements — pay stubs, bank statements — and the signed purchase contract showing the buyer's offer price and terms.
+Caller: What's in the hardship letter? What do I need to say?
+Agent: The hardship letter explains why you can't continue to make your mortgage payments and why you need to sell the home for less than what's owed. For you, it sounds like the issue is a combination of payment difficulty and negative equity — you're underwater with no realistic path to refinancing or catching up. Document the specific financial circumstances — income, expenses, why the current payment isn't sustainable.
+Caller: My hardship is that I'm self-employed and my income dropped significantly. I also just went through a divorce that affected our finances.
+Agent: Both are recognized hardship categories. Divorce especially, because it often results in a single-income household managing a payment that was budgeted for two incomes. Document both in your letter with supporting evidence — your income documentation showing the drop, and divorce-related documents if relevant.
+Caller: What happens after I submit everything?
+Agent: Once we receive a complete package — which we have 30 days to evaluate under CFPB guidelines — here's the general timeline. Step one is ordering the BPO, usually within a week of receipt. Step two is reviewing the full package and submitting to Freddie Mac for approval. Freddie Mac typically has a turnaround of 30 to 60 days from submission. Step three is us communicating the decision to you and the buyer's agent. If approved, there will be an approval letter with conditions and an expiration date for the closing.
+Caller: So worst case, we're looking at 90 days before we know if it's approved?
+Agent: That's a realistic worst-case scenario. In practice, many short sales go faster — some are resolved in 45 to 60 days from initial submission of a complete package. The biggest delays come from incomplete applications, BPO scheduling issues, or back-and-forth on the purchase price.
+Caller: My buyer has been patient but I want to make sure they don't walk away. Is there anything I can do to speed this up?
+Agent: Yes. Submit a complete package immediately — don't let document requests drag on. Respond to every inquiry from us within 24 hours if possible. Make sure your real estate agent is available to coordinate the BPO access promptly. And make sure the buyer has submitted their buyer's financial information if required — on some Freddie Mac transactions, the buyer's qualification documentation is also reviewed.
+Caller: Does Freddie Mac require buyer documentation?
+Agent: On standard short sales, Freddie Mac primarily evaluates the seller's situation and the transaction's arm's-length nature. They want to make sure the buyer isn't a related party — a family member, business partner, or someone with a prior relationship to you. That would be a red flag for a non-arm's-length transaction.
+Caller: The buyer is a couple I've never met. They saw the listing on Zillow.
+Agent: Perfect. That's a clean arm's-length transaction, which is what Freddie Mac requires. You'll likely need to sign an arm's-length affidavit as part of the closing documents.
+Caller: What about the $29,000 shortfall — do you pursue me for that?
+Agent: Under Freddie Mac's Standard Short Sale program, when an approval is issued and the sale closes in compliance with the approval letter, Freddie Mac generally requires servicers to release borrowers from the deficiency — the full amount owed minus the sale proceeds — in the approval letter itself. So you'd get a deficiency waiver as part of the short sale approval.
+Caller: Do you also waive late fees and other charges?
+Agent: Typically, the shortfall waiver in a short sale covers the principal balance, accrued interest, and fees. Any proceeds from the sale are applied in a defined order, and the waiver addresses the remaining gap. Yes, fees are generally included in the waiver.
+Caller: What's the tax implication on the $29,000 they forgive?
+Agent: Similar to the deed-in-lieu situation, forgiven debt can trigger a 1099-C. The Mortgage Forgiveness Debt Relief Act has provided exclusions for primary residence debt forgiveness in many cases. I'd encourage you to consult a tax professional before closing — this is important and the rules have evolved over the years.
+Caller: I'll talk to my accountant. Can we open the case today?
+Agent: Absolutely. I'm opening a short sale case on your account now. You'll receive a document checklist via email within 24 hours — you mentioned you prefer email?
+Caller: Yes. ofletcher19 at gmail dot com.
+Agent: Perfect. Once you have the checklist, gather the documents and submit through our borrower portal. The sooner we have a complete package, the sooner we can start the clock. Your buyer's agent can also be added as an authorized third party so they can communicate with our short sale team directly.
+Caller: How do I add them?
+Agent: You can sign a third-party authorization form — it'll be included in the packet we send you. Your agent fills in their information and you sign it, then submit it with your application.
+Caller: Excellent. Thank you, Brandon. This gives me a clear path.
+Agent: You're welcome, Mr. Fletcher. Call us at 1-800-555-0556 with any questions. Good luck with the sale.
+Caller: Thanks. Goodbye.
+Agent: Goodbye.

@@ -1,0 +1,42 @@
+Agent: Thank you for calling SilverLeaf Mortgage Servicing, this is Lisa speaking. How can I help you today?
+Caller: Hi Lisa. I'm having trouble getting into my online account. It's been two days and I can't log in. I keep getting a message that says my account is locked.
+Agent: Hi, I'm sorry to hear that. Account lockouts are frustrating. I can help you get back in. Let me pull up your account first. Can I get your name and property address?
+Caller: My name is Calvin Pratt. The address is 5503 Ridgewood Court, Indianapolis, Indiana 46220.
+Agent: Thank you, Calvin. And the last four of your Social Security number?
+Caller: 9938.
+Agent: And last four of your loan number?
+Caller: 2284.
+Agent: Got it. I have your account here. So I can see in our system that your online account is indeed in a locked status. This typically happens after three or more failed login attempts within a certain timeframe, as a security measure to protect your account.
+Caller: Yeah, I tried a bunch of times because I couldn't remember my password. Then it locked me out. I also tried the forgot password option but I never got an email.
+Agent: Let me check the email address we have associated with your online profile. We show the email as c.pratt77 at hotmail dot com. Is that the inbox you were checking?
+Caller: Oh. No, I haven't used Hotmail in years. My current email is cpratt at gmail dot com.
+Agent: That explains why you didn't receive the reset email. The reset would have been sent to the old Hotmail address, not your Gmail. We need to update your email on file before we can complete the reset.
+Caller: Can you do that now?
+Agent: I can update the email address on your account. For security purposes, before making changes to account contact information, I do need to verify your identity a bit further. I'll need you to confirm your date of birth and the property zip code.
+Caller: Date of birth is April 12, 1977. Zip code is 46220.
+Agent: Thank you. That matches. I've updated your email address to cpratt at gmail.com. Now let me unlock the account and initiate a password reset.
+Caller: Great. How does the reset work?
+Agent: Once I unlock the account and trigger the reset, you'll receive an email at your new Gmail address with a password reset link. That link is typically valid for 24 hours. You click it, create a new password, and you'll be back in.
+Caller: What are the password requirements so I don't run into problems?
+Agent: Your new password must be at least 10 characters, include at least one uppercase letter, one lowercase letter, one number, and one special character such as an exclamation point or pound sign. It cannot be the same as your last five passwords.
+Caller: Okay, I can work with that.
+Agent: I've unlocked the account and sent the password reset email to cpratt at gmail.com. Please check your inbox in the next few minutes. Also check your spam folder just in case.
+Caller: Okay, I'm pulling it up on my phone now. Give me a second. Actually yes, I see it. It just came in.
+Agent: Great. Go ahead and click the link in that email. It will take you to our website where you can set a new password.
+Caller: Clicking it now. It says create new password. Okay, I'm typing one in. Submitted. It says my password was successfully changed and I'm being redirected to log in.
+Agent: Perfect. Go ahead and try logging in with your new password.
+Caller: Okay, entering my email and new password. And... I'm in. I can see my account.
+Agent: Wonderful. You're all set, Calvin.
+Caller: Thank you. Now while I have you — is there anything I should do so this doesn't happen again? Like do you have two-factor authentication?
+Agent: Great question. Yes, we do offer two-factor authentication. Once you're logged in, go to your account settings and there's a security section where you can enable two-step verification. When you log in, you'll receive a text message or email with a one-time code. That adds an extra layer of security and also means if you ever need a password reset, the code can be sent directly to your phone.
+Caller: That sounds smart. I'll set that up right now while I'm already logged in.
+Agent: Perfect. And while you're in settings, take a moment to confirm that your contact information is current — phone number, address, everything. It makes account management much easier.
+Caller: Good call. I'll do a quick review. Is there anything else I should know about the portal?
+Agent: The portal lets you view your payment history, make payments, check your escrow balance, download your 1098 at year-end, and request certain account changes. It's quite full-featured.
+Caller: I didn't know I could get my 1098 from there. That's handy.
+Agent: Yes, much faster than waiting for the mail. Usually available in January right after the tax year ends.
+Caller: Very useful. Thank you so much, Lisa. You were quick and efficient.
+Agent: Happy to help. Is there anything else I can do for you today, Calvin?
+Caller: No, I'm all set. Thanks again.
+Agent: Have a great day. Goodbye.
+Caller: Goodbye.

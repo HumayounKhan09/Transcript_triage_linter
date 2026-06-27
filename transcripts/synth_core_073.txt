@@ -1,0 +1,50 @@
+Agent: Thank you for calling Pinnacle Mortgage Services, this is James. Can I pull up your account?
+Caller: Sure, the loan number is 7712-993-60. My name is Denise Garfield.
+Agent: Thank you, Ms. Garfield. Can you verify your Social Security last four and the property address?
+Caller: 2278, and the address is 3830 Cardinal Street, Richmond, Virginia 23228.
+Agent: Got your account. How can I help you today?
+Caller: When I got my mortgage I was told I could waive the escrow account but now I'm looking at my statements and I see escrow payments. I want to know whether I can waive escrow, and if so what the requirements are.
+Agent: That's a very reasonable question, and the answer depends on several factors tied to your specific loan type and terms. Let me look at your account and explain how escrow waivers work.
+Caller: Please.
+Agent: Your loan originated in November 2022. It's a conventional loan — not FHA or VA — with a loan-to-value ratio at origination of 82%. Those details are relevant to whether a waiver is permitted. Let me also check your current LTV. Your current balance is $237,800 and looking at the original appraised value of $295,000, your current LTV is approximately 80.6%.
+Caller: I've been paying down the balance for a few years. I thought being below 80% might matter for this.
+Agent: It does matter significantly. One of the key requirements for escrow waiver eligibility on conventional loans is an LTV at or below 80%. You're at 80.6% — just slightly above. Let me check what the policy is when the LTV is this close to the threshold.
+Caller: Is there a hard cutoff at 80%?
+Agent: For most conventional lenders, yes — 80% LTV is the standard threshold for escrow waiver eligibility. Below 80% is generally required because above 80%, lenders require PMI and typically bundle escrow with the loan as an additional safeguard to ensure taxes and insurance are maintained.
+Caller: Wait, I have PMI?
+Agent: Let me check. Looking at your account — yes, you do have PMI at a rate of $88.00 per month. Your original LTV was 82%, which triggered PMI, and it hasn't yet reached the automatic cancellation threshold.
+Caller: I didn't realize that. I thought I was past that point.
+Agent: Not quite yet. Your automatic cancellation point under the Homeowners Protection Act is when your balance reaches 78% of the original purchase price. That's 78% of $295,000, which is $230,100. Your current balance is $237,800, so you need to pay down about $7,700 more to hit automatic cancellation.
+Caller: Okay. So the escrow waiver question is connected to whether I have PMI?
+Agent: Yes, they're related. Lenders generally require escrow accounts when PMI is present because both escrow and PMI serve to protect the lender's collateral interest. Once PMI is cancelled — meaning your balance drops below 80% LTV — escrow waiver eligibility is typically evaluated.
+Caller: What are all the requirements for a waiver, assuming I meet the LTV threshold eventually?
+Agent: Let me walk through the standard requirements. First, LTV must be at or below 80% — as we discussed. Second, your loan must be a conventional loan, not FHA or VA. FHA loans require escrow for the life of the loan — there is no waiver option for FHA. VA loans have their own rules. Your loan is conventional, so you're eligible in principle.
+Caller: Good. What else?
+Agent: Third, your payment history must be in good standing — typically no late payments in the prior twelve months. Fourth, the property must be your primary residence or a second home in most cases — investment properties have different standards. Fifth, depending on the investor who owns your loan, there may be additional requirements or a fee for the waiver.
+Caller: A fee?
+Agent: Yes. Many lenders charge a fee for granting an escrow waiver — commonly between 0.125% and 0.25% of the loan balance. On your balance of $237,800, that would be between $297.25 and $594.50. It's a one-time fee paid at the time the waiver is granted.
+Caller: Why is there a fee?
+Agent: The fee reflects the additional risk to the lender when they're no longer administering the taxes and insurance. Without escrow, the lender is depending on you to pay taxes and insurance on time. If you fail to pay a tax bill, a lien could be placed that supersedes the mortgage. The fee compensates for that additional risk management responsibility.
+Caller: That seems punitive.
+Agent: I understand why it might feel that way. Whether the fee is worth it depends on your situation. If you're getting, say, 4% interest in a savings account and your monthly escrow is $500, keeping that $500 yourself earns you $240 per year in interest — so if the waiver fee is $400, you break even in under two years.
+Caller: That's actually a useful way to look at it.
+Agent: It's a financial tradeoff worth calculating. Now, to answer your direct question about timing — right now you cannot waive escrow because your LTV is above 80% and you have active PMI. Once you reach 80% LTV — approximately $7,700 in additional principal reduction — you can request PMI cancellation. Once that's cancelled, you can then apply for escrow waiver.
+Caller: How long will it take to pay down $7,700?
+Agent: At your current payment schedule, your balance decreases by approximately $450 to $475 per month in principal based on your amortization. So you're looking at sixteen to seventeen months — roughly early to mid 2028 — before you naturally reach 80% LTV without making extra principal payments.
+Caller: What if I made extra payments?
+Agent: Extra principal payments accelerate that timeline significantly. If you made an additional $500 a month toward principal, you'd reach the 80% threshold in approximately eight months — around February or March 2027.
+Caller: That's an interesting option. Does the escrow waiver have to happen at a specific time?
+Agent: No. You can submit a waiver request any time after you meet the eligibility requirements. There's no deadline — you submit it when you're ready and you meet the LTV and PMI cancellation requirements.
+Caller: What's the process for requesting it when the time comes?
+Agent: When you're ready, contact us and request an escrow waiver. We'll do a review of your LTV, payment history, and loan type. If eligible, we'll send you a waiver agreement to sign along with invoice for the fee. Once signed and the fee is paid, the waiver goes into effect and your escrow account is closed. You take over responsibility for paying taxes and insurance directly.
+Caller: And I'd just pay those myself annually?
+Agent: Your insurance premium directly to your insurer and your property taxes directly to the county on their schedule. Your monthly mortgage payment would drop to just principal and interest.
+Caller: How much would my payment drop?
+Agent: Your current escrow payment is $499.00 per month — $411.00 for taxes and $88.00 for PMI. Once PMI is cancelled and escrow is waived, your payment drops by $499.00. Your principal and interest is $1,388.00, so your new payment would be $1,388.00.
+Caller: That's a meaningful difference.
+Agent: It really is. The path to get there — pay down to 80% LTV, cancel PMI, then request escrow waiver — is clear and achievable. It just takes time or extra payments.
+Caller: Thank you, James. This gave me a complete picture.
+Agent: I'm glad. Is there anything else I can help with today?
+Caller: No, that's everything.
+Agent: Have a great day, Ms. Garfield.
+Caller: You too. Bye.

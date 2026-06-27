@@ -1,0 +1,56 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, this is Sandra, how can I assist you today?
+Caller: Hi Sandra. I've been trying to understand my escrow account for a while now and I want someone to walk me through every single line item. I got my statement and honestly it's confusing.
+Agent: Absolutely, I would be happy to do a full walkthrough with you. That's a completely reasonable request. Let me pull up your account. Loan number or address?
+Caller: Loan number is 461809. Address is 660 Amherst Place, Columbus, Ohio.
+Agent: And your name and last four of your Social?
+Caller: Catherine Moorhead. Social ends in 4477.
+Agent: Thank you Catherine. I've got your account fully open. I can see your escrow analysis and all the detail. Let me just orient you to the basics before we dive into the line items.
+Caller: Please.
+Agent: Your escrow account is essentially a savings account that we manage on your behalf. Each month, a portion of your mortgage payment — the escrow portion — is deposited into this account. Then when your property tax bills and homeowner's insurance premiums come due, we pay them directly from this account on your behalf. The goal is to always have enough money in the account to cover those bills.
+Caller: Okay. And what's in my escrow right now?
+Agent: Your current escrow balance is one thousand eight hundred and forty-three dollars and twelve cents. That's what's sitting in the account right now.
+Caller: Is that good? Is that the right amount?
+Agent: Let me put it in context by explaining your expected disbursements. Your escrow account needs to be able to cover your bills when they come due, and we're required by federal regulation — Regulation X under RESPA — to maintain a cushion of no more than two months' worth of escrow payments. Not too much, not too little.
+Caller: Okay. So walk me through my bills. What does escrow pay?
+Agent: Your account has two escrow disbursements per year. First: your homeowner's insurance premium. Your current policy with Eagle Ridge Insurance costs one thousand six hundred dollars per year. We pay that as an annual lump sum when your policy renews in April.
+Caller: So sixteen hundred leaves the account every April?
+Agent: Correct. And then your property taxes. Property taxes in Franklin County, Ohio are paid in two installments. The first installment — two thousand one hundred and forty dollars — goes out in February. The second installment — also two thousand one hundred and forty dollars — goes out in July. So your total annual property tax disbursement is four thousand two hundred and eighty dollars.
+Caller: So total out of escrow each year is four thousand two hundred and eighty for taxes plus sixteen hundred for insurance.
+Agent: Correct. Total annual escrow disbursements: five thousand eight hundred and eighty dollars.
+Caller: Okay. And how does that translate to my monthly escrow payment?
+Agent: We take that five thousand eight hundred and eighty dollars and divide by twelve. That's four hundred and ninety dollars per month that you pay into escrow as part of your mortgage payment.
+Caller: My mortgage payment is one thousand seven hundred and twenty-two dollars. Is four hundred and ninety of that just escrow?
+Agent: Let me break down your full payment. Your principal and interest — which is the actual loan repayment and interest portion — is one thousand two hundred and twelve dollars and fourteen cents. Your escrow contribution is four hundred and ninety dollars per month. And you have private mortgage insurance — PMI — of nineteen dollars and eighty-six cents. Total: one thousand seven hundred and twenty-two dollars.
+Caller: So the escrow is about twenty-eight percent of my payment.
+Agent: Roughly, yes.
+Caller: And what's the right balance for my escrow account? You said there's a cushion required?
+Agent: Yes. RESPA requires that we maintain a minimum cushion of two months' worth of our monthly escrow payment. Your monthly payment to escrow is four hundred and ninety dollars, so two months is nine hundred and eighty dollars. That's the floor — your escrow balance should never go below nine hundred and eighty dollars.
+Caller: My balance is eighteen hundred and forty-three. Is that too much?
+Agent: Let me do the analysis. The maximum we're allowed to hold is the sum of the next twelve months of expected disbursements plus two months cushion. Your next twelve months look like this: February tax payment two thousand one hundred and forty, April insurance one thousand six hundred, July tax payment two thousand one hundred and forty. Total expected outflows over the next twelve months: five thousand eight hundred and eighty. Add the two-month cushion of nine hundred and eighty. Maximum allowable balance: six thousand eight hundred and sixty dollars.
+Caller: So my current balance of eighteen hundred is well within that limit.
+Agent: Yes. In fact, your balance is actually a little low relative to what it will need to be by February. You collect four hundred and ninety a month, and you need to have at least two thousand one hundred and forty by February 1st. Given your current balance plus what you'll collect between now and February, let me project.
+Caller: Please.
+Agent: Today is late November. February is about ten weeks away — let's call it two and a half months. Two and a half times four hundred and ninety is about twelve hundred and twenty-five more dollars collected. Add to your current balance of eighteen hundred and forty-three, that's about three thousand and sixty-eight. That's comfortably above the two thousand one hundred and forty February payment.
+Caller: Oh, that's reassuring. I was worried it was too low.
+Agent: Your account looks healthy. After the February payment, your balance will drop to about nine hundred and twenty-eight dollars — just barely above the required cushion of nine hundred and eighty. It's close, but still within limits. Then you continue collecting and build back up before the April insurance payment.
+Caller: What happens if there's a shortfall?
+Agent: If at any point the projected balance would dip below the minimum cushion, we'd identify a shortage in the annual analysis and adjust your monthly payment to make up the difference. That's exactly what the annual escrow analysis is for.
+Caller: And if there's a surplus?
+Agent: If your escrow balance exceeds the maximum — which is the total of expected disbursements plus two months cushion — federal law requires us to refund the excess to you. Typically that shows up as a check mailed to you or a credit applied to your loan balance, depending on your preference.
+Caller: I've gotten a check before. Is that because I had a surplus?
+Agent: Most likely, yes. When we do the annual analysis and find more than the allowed maximum, we mail the overage to you.
+Caller: Okay. Can you also explain my PMI? The nineteen eighty-six — when does that go away?
+Agent: Your PMI of nineteen dollars and eighty-six cents per month — let me check your details. Your original loan was two hundred and forty-eight thousand, your current balance is two hundred and twenty-one thousand four hundred and twelve. Your original LTV was ninety percent. PMI cancels automatically when your balance reaches seventy-eight percent of your original purchase price.
+Caller: What was my original purchase price?
+Agent: Let me see. Your home was purchased for two hundred and seventy-six thousand. Seventy-eight percent of that is two hundred and fifteen thousand two hundred and eighty.
+Caller: My balance is two twenty-one, so I'm about six thousand away.
+Agent: About five thousand eight hundred and twelve dollars away from automatic cancellation. At your current amortization, that's approximately fourteen to fifteen months.
+Caller: So by next spring the PMI might be gone?
+Agent: Based on your regular payment schedule, roughly fourteen months from now — so next January or February. That'll free up about twenty dollars a month.
+Caller: Okay. This has been incredibly helpful Sandra. I feel like I actually understand my statement now.
+Agent: That was my goal. Is there any line item or number I didn't cover that you want to revisit?
+Caller: Actually — on my statement it shows something called "escrow adjustment." What was that?
+Agent: Let me look. There's a ten dollar and forty-eight cent escrow adjustment from the March analysis. That was a minor correction from the prior year's analysis — we had slightly overcollected, so a small credit was applied. It's a routine rounding correction.
+Caller: Got it. Okay. I think I'm fully satisfied. Thank you so much.
+Agent: My pleasure, Catherine. Don't hesitate to call again if anything comes up. Have a great day.
+Caller: You too. Goodbye.

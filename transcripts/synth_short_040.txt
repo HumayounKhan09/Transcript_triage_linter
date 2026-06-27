@@ -1,0 +1,40 @@
+Agent: Thank you for calling Ridgeline Mortgage Services, this is Beth. How can I help you today?
+Caller: Hi Beth. I'm trying to find out the original disbursement date of my loan. The actual date the funds were sent to me when I bought my house. I need it for some paperwork I'm filling out.
+Agent: Sure, that's something I can look up for you. Let me verify your account first. Can I get your full name?
+Caller: Claudia Reyes.
+Agent: Thank you, Ms. Reyes. And your loan number or property address?
+Caller: Loan number is 00612-71045.
+Agent: And the last four digits of your Social Security number for verification?
+Caller: 4430.
+Agent: And your date of birth?
+Caller: March 22, 1978.
+Agent: Thank you. One moment while I access your account.
+Caller: Of course.
+Agent: Okay, I have your loan information here. The original disbursement date, which is the date the loan funds were released to the title company or closing agent, was September 19, 2018.
+Caller: September 19, 2018. And that's the actual funding date, not the closing date?
+Agent: That's the funding date, yes. Sometimes closing dates and funding dates differ by a day or two, particularly for purchase transactions where the lender sends funds after the closing documents are signed and reviewed. Do you also need the closing date?
+Caller: Actually, yes. Are those the same for my loan?
+Agent: For your loan, the closing date was September 18, 2018, and the funding date was September 19, 2018. So one day apart, which is typical for a purchase transaction.
+Caller: That makes sense. I remember now, we signed on the 18th and the seller didn't get the money until the next day.
+Agent: Exactly right. That's a standard timeline. The lender reviews the signed documents, confirms everything is in order, and then wires the funds. For refinances, there's often a three-day right of rescission period between closing and funding, but for purchase loans like yours the turnaround is usually just one business day.
+Caller: Good to know. So for my paperwork, should I use the 18th or the 19th?
+Agent: That depends on what the paperwork is asking for. If it asks for the closing date or settlement date, that's September 18, 2018. If it asks for the disbursement or funding date, that's September 19, 2018. Do you know which one the form is requesting?
+Caller: It says disbursement date. So September 19th.
+Agent: Then yes, September 19, 2018 is the correct date for disbursement.
+Caller: Perfect. And just to have the complete picture, can you tell me the original loan amount as well?
+Agent: Of course. Your original loan amount was $248,500.
+Caller: $248,500 and disbursed September 19, 2018. Got it. Can you also tell me the interest rate?
+Agent: Your original interest rate is 4.375 percent, fixed for the life of the loan.
+Caller: And the term?
+Agent: It's a 30-year fixed-rate mortgage.
+Caller: Great. That's all the key details I needed. What's the name of the original lender? Is that you all or someone else?
+Agent: The loan was originally originated by Commonwealth Home Lending and subsequently transferred to us here at Ridgeline Mortgage Services for servicing. We've been servicing your loan since January 2019.
+Caller: Oh right, I remember getting that notice about the transfer. I forgot who the original lender was.
+Agent: Commonwealth Home Lending. That would have been listed on your original loan documents and your Closing Disclosure from September 2018.
+Caller: Good. I may need to dig those up for the full paperwork. Do you happen to know if those are available online anywhere through you?
+Agent: Some original loan documents may be accessible through your borrower portal under the documents section. However, documents from before your loan was transferred to us may not all be available there. You might also check with your original lender, or your real estate attorney or title company from the closing may have copies.
+Caller: I think I have the physical copies somewhere. I'll look. Thanks for all the information, Beth.
+Agent: Of course, happy to help. Is there anything else I can assist you with today?
+Caller: No, that's everything. Have a good day.
+Agent: You too, Ms. Reyes. Thank you for calling Ridgeline Mortgage Services. Goodbye.
+Caller: Goodbye.

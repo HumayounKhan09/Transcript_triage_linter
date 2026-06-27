@@ -1,0 +1,52 @@
+Agent: Thank you for calling First Meridian Servicing. This is Nicole. Can I have your loan number and name?
+Caller: Hi. My name is Brenda Castillo. Loan number is 8-3-2-2-0-9-1.
+Agent: Thank you, Ms. Castillo. Property address and last four of Social?
+Caller: 4419 Thornberry Lane, Albuquerque, New Mexico 87112. Last four is 5-5-2-0.
+Agent: Thank you. Account is up. How can I help you today?
+Caller: I've been going through a really hard time. I've tried everything to keep the house, I really have. But I've come to terms with the fact that I probably need to walk away. My counselor mentioned something called a deed-in-lieu with relocation assistance or what she called cash for keys. I want to know if that's real and how it works.
+Agent: I'm sorry you're in this position, Ms. Castillo, and I appreciate that you've been working with a counselor. Yes, what you're describing is absolutely real. A deed-in-lieu of foreclosure with relocation assistance is a recognized loss mitigation option, and the term "cash for keys" is used colloquially. Let me explain exactly how it works.
+Caller: Please.
+Agent: A deed-in-lieu of foreclosure, or DIL, is a transaction where you voluntarily transfer ownership of the property to the lender in exchange for a release from your mortgage obligation. Rather than going through a foreclosure process — which can take months or years — you agree to hand over the deed and in return, the lender releases you from the remaining debt and typically agrees not to pursue a deficiency judgment.
+Caller: And what's the relocation assistance part?
+Agent: Many investors offer relocation assistance as an incentive for borrowers to cooperate with the deed-in-lieu process. The thought is that it's cheaper for the investor to pay you to vacate cleanly, leave the home in good condition, and close the transaction efficiently than to go through foreclosure, deal with potential property damage, or have an uncooperative occupant.
+Caller: How much relocation assistance are we talking about?
+Agent: The amount varies by investor and program. For Fannie Mae and Freddie Mac loans, there have been programs offering up to $3,000 in relocation assistance. For FHA loans, HUD has had programs with assistance in the $3,000 to $7,500 range. For VA and USDA loans, similar amounts. For portfolio or private-label loans, the amount is negotiated and has no set standard — it can range from a few thousand dollars to much higher.
+Caller: Which type is my loan?
+Agent: Let me look. Your loan is backed by Fannie Mae. So you'd be under Fannie Mae's guidelines for deed-in-lieu and relocation assistance.
+Caller: And Fannie Mae offers up to $3,000?
+Agent: Historically, yes. However, Fannie Mae's specific programs and amounts can change, and the current amount should be confirmed when we formally evaluate your request. It's sometimes called a "Fannie Mae Deed-in-Lieu with Relocation Assistance" and includes a cash payment at closing in exchange for vacating by an agreed date and leaving the property in broom-clean condition.
+Caller: What's broom-clean? Like, how clean does it have to be?
+Agent: Broom-clean typically means the property is empty of personal belongings, no intentional damage, floors swept, and in generally maintained condition. You don't need to do deep cleaning or repairs — just basic maintenance. The investor doesn't expect you to repaint or fix normal wear and tear.
+Caller: And what about my belongings? How long do I have to get out?
+Agent: The timeline is negotiated as part of the agreement. Typically, borrowers are given 30 to 60 days from signing the deed-in-lieu agreement to vacate. Sometimes a specific vacate date is set at closing. The flexibility on timeline is part of why a deed-in-lieu is often more humane than a foreclosure — you're not being evicted suddenly.
+Caller: With foreclosure, how long does it typically take before I'd have to leave?
+Agent: That depends on your state. New Mexico is what's called a non-judicial foreclosure state, meaning the process doesn't require court involvement and can move faster — sometimes as quickly as three to four months from the first missed payment to a foreclosure sale. After the sale, you'd have a redemption period or potentially none depending on the circumstances, and then an eviction process. The whole thing could realistically result in you leaving within six months, but it's unpredictable.
+Caller: So a deed-in-lieu gives me more control over the timing.
+Agent: Significantly more control, yes. You choose to cooperate, you agree to a date, and you leave on your terms rather than being removed.
+Caller: What about the debt — the difference between what I owe and what the house sells for?
+Agent: That's the deficiency question, and it's one of the most important parts of this conversation. In a deed-in-lieu, the servicer typically agrees as part of the deal to waive any deficiency claim — meaning they accept the property in full satisfaction of the debt. You'd receive a written agreement confirming this before you sign the deed.
+Caller: What's my balance versus the home value?
+Agent: Your current balance is $212,400. I don't have a current appraisal on file, but given that you mentioned wanting to walk away, I assume you may be underwater or close to it?
+Caller: Yeah. The neighborhood has gone down. I think it's worth maybe $185,000 now. So I'd be about $27,000 short.
+Agent: In that case, the deficiency waiver is crucial for you. That $27,000 difference — after costs — would be forgiven as part of the deed-in-lieu agreement. Make sure the agreement explicitly states "full satisfaction of the debt" or "waiver of deficiency" before you sign.
+Caller: Could they still send me a 1099 for that amount?
+Agent: They could issue a 1099-C for cancellation of debt, which the IRS can treat as taxable income. However, there are important exclusions. The Mortgage Forgiveness Debt Relief Act has provided relief to many homeowners from owing taxes on forgiven mortgage debt on a primary residence. The rules around this have changed over the years and I'm not a tax expert, so I'd strongly encourage you to consult a tax professional before closing to understand what, if anything, might be reportable for your situation.
+Caller: Good point. What are the eligibility requirements for a deed-in-lieu?
+Agent: Fannie Mae generally requires that the property has been listed for sale first — typically for at least 90 days — to demonstrate that a traditional sale or short sale was not possible. This is called the list requirement. If you haven't listed the property, we'd need to go through that process before a deed-in-lieu would be approved.
+Caller: I haven't listed it. I didn't know that was required.
+Agent: That's an important point. You'd need to work with a real estate agent to list the property and attempt a sale, potentially as a short sale, before the deed-in-lieu option is fully available. Alternatively, some investors waive the listing requirement under certain circumstances — I can flag your file and ask whether any waiver applies here.
+Caller: What's a short sale versus a deed-in-lieu?
+Agent: In a short sale, you find a buyer for the home, and the servicer agrees to accept less than the full loan balance from the sale proceeds as payment in full. You sell to a third party, the lender takes a loss, and the buyer gets the property. In a deed-in-lieu, you give the property directly to the lender — no third-party buyer involved.
+Caller: Can I do both simultaneously — list it for a short sale and also apply for deed-in-lieu?
+Agent: Yes. Many servicers will allow you to pursue a short sale and apply for a deed-in-lieu simultaneously. If a short sale buyer is found, you go that route. If not, the deed-in-lieu is the fallback. That's a common strategy.
+Caller: Okay. I think I want to start the process. What do I do first?
+Agent: I'll open a disposition case today — that's the umbrella case for both short sale and deed-in-lieu evaluation. I'll also flag it for relocation assistance consideration given your Fannie Mae loan. You'll receive a document checklist and will need to submit a hardship letter and basic financial information. Do you have a real estate agent in mind?
+Caller: Not yet, but I can find one.
+Agent: If you'd like, I can provide you with a list of agents in the Albuquerque area who have experience with short sales and lender-cooperative transactions. That can speed things up considerably.
+Caller: Yes, that would be helpful.
+Agent: I'll include that in your packet. Email address?
+Caller: brendacastillo77 at yahoo dot com.
+Agent: Perfect. You'll hear from us within three business days. I know this is a difficult decision but you're handling it thoughtfully. Is there anything else?
+Caller: No. Thank you, Nicole. I feel like I have a plan now.
+Agent: That's the most important thing. Take care, Ms. Castillo. Call us at 1-800-555-0388 anytime. Goodbye.
+Caller: Goodbye.

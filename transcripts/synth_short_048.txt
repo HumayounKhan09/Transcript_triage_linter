@@ -1,0 +1,39 @@
+Agent: Thank you for calling Meridian Home Mortgage, this is Derek. How can I help you today?
+Caller: Hi Derek. My husband passed away earlier this year and his name is still on our mortgage. I want to find out how to remove him from the loan. It's just going to be me going forward.
+Agent: First, I'm very sorry for your loss. We understand how difficult this time is, and we're here to help make this process as straightforward as possible for you. Let me pull up your account so I can walk you through the options. Can I get your name?
+Caller: Yes, it's Patricia Sumner. The account has both my name and my late husband Gerald Sumner.
+Agent: Thank you, Ms. Sumner. And the property address?
+Caller: 505 Wheatfield Drive, Cincinnati, Ohio.
+Agent: And for verification, the last four of your Social Security number?
+Caller: 7734.
+Agent: And your date of birth?
+Caller: January 8, 1958.
+Agent: Thank you. I have your account here. I do want to be upfront with you about something important: removing a deceased co-borrower's name from a mortgage loan is a legal process and there are a few different ways it can be addressed depending on your situation.
+Caller: Okay. I didn't realize it was complicated. I thought it might just be some paperwork.
+Agent: I completely understand the expectation. At the account level, we can add a notation that Mr. Sumner is deceased and update our records accordingly. However, to actually change the legal names on the promissory note, that's a more involved process. Let me explain the main paths people take.
+Caller: Please.
+Agent: The most common approach is a loan assumption, where you apply to assume the mortgage solely in your own name. This removes your husband from the legal obligation and puts the loan entirely in your name. We do have an assumption process for this type of situation.
+Caller: What does that involve?
+Agent: You would apply as the sole borrower, which means we'd verify your income, credit, and ability to qualify for the loan on your own. If you meet the qualifications, the loan is restructured with you as the only borrower.
+Caller: And if I don't qualify on my own income?
+Agent: If you don't qualify independently, another option is a refinance with a new co-borrower, or keeping the loan as-is for now with the deceased borrower's name on the legal documents while updating our records to reflect the situation. In many cases, as long as the payments are being made, servicers don't require immediate legal restructuring.
+Caller: So for now, what can you do on your end?
+Agent: Right now I can flag the account with the deceased borrower status for Gerald Sumner, which changes how our team handles communications and ensures you're not receiving correspondence addressed to him. We can also note you as the surviving co-borrower managing the account.
+Caller: Would you need a death certificate for that?
+Agent: Yes. For us to formally update the account records with a deceased borrower notation, we do need a certified copy of the death certificate. You can mail, fax, or upload it through the borrower portal. Once received, we can update the account records within five to seven business days.
+Caller: I have several certified copies. What about the title on the house itself? Does that need to change separately?
+Agent: Yes, the title is separate from the mortgage. Removing him from the deed or title is handled through your county recorder's office, typically with an affidavit of survivorship if the property was held as joint tenants, or through probate if it was held differently. An estate attorney can help you determine the correct process based on how the deed was structured.
+Caller: I'm working with an attorney on the estate. I'll ask them about the deed.
+Agent: That's the right approach. The mortgage and the title are two separate legal instruments. Handling both through proper channels will give you the cleanest resolution.
+Caller: Okay. So the first step with you is to send in the death certificate?
+Agent: That's correct. Send us a certified copy of the death certificate and then call back to discuss the assumption process when you're ready. There's no rush on the assumption, and the loan remains valid and in good standing as long as payments are made.
+Caller: I've been making the payments. That part isn't a problem.
+Agent: I can see that, and your account is current. Thank you for keeping up with that during such a hard time.
+Caller: It's just what you do. Okay, I'll get that certificate in the mail this week.
+Agent: Take your time, and please don't hesitate to call back if you have any questions. We'll be here to help.
+Caller: Thank you, Derek. You've been very kind.
+Agent: Of course. I'm sorry again for your loss, Ms. Sumner. Is there anything else I can help you with today?
+Caller: No, I think that covers it. Thank you.
+Agent: Thank you for calling Meridian Home Mortgage. Take care.
+Caller: Goodbye.
+Agent: Goodbye.
