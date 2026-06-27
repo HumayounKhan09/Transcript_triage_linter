@@ -1,0 +1,52 @@
+Agent: Thank you for calling Pacific Realty Finance, this is Beth, how can I help you today?
+Caller: Hi, my name is Steven Quon. I've been looking at homes and I got an offer from a seller who's offering something called a shared appreciation mortgage. I've never heard of it before and I want to make sure I understand it before I agree to anything.
+Agent: Hi Steven, a shared appreciation mortgage is not something most buyers encounter in everyday home purchases — it's a specialized financing product and you're absolutely right to want to understand it thoroughly before committing. I can walk you through how it works, the pros and cons, and some things to watch out for.
+Caller: Perfect. Let me give you the situation. The house I'm looking at is listed at $520,000. I'm pre-approved for a conventional mortgage but I'd be stretching myself. The seller is offering to give me a below-market rate — like 3.5% — if I agree to share a percentage of the home's appreciation when I sell. Specifically, they want 25% of any appreciation above the $520,000 purchase price.
+Agent: That's a classic shared appreciation mortgage structure. Let me walk through exactly what it means for you. First, the mechanics. You'd take out a mortgage — in this case apparently with the seller acting as the lender or through a structured arrangement — at a below-market interest rate of 3.5%. In exchange, when you sell or refinance, you'd owe the lender 25% of the increase in the home's value above $520,000.
+Caller: Is the lender in this case the seller?
+Agent: It can be — seller-financed shared appreciation mortgages exist — or it could be that the seller has arranged this through a third-party investor or financial institution. You'd want to know specifically who's holding the note and whether this is a formal mortgage or a seller note. That distinction matters a lot for your legal protections and the terms of the arrangement.
+Caller: The seller mentioned it's through a company — I'd have to look up the name. They said it was a real mortgage, not just a seller handshake deal.
+Agent: That's good to hear. A formalized SAM through a lending company gives you more structure and legal standing. Now let me explain the real economics of this deal so you can evaluate whether that 3.5% rate is actually worth it.
+Caller: Please. That's exactly what I want to know.
+Agent: Okay. Current market rate for a conventional 30-year mortgage on a $520,000 purchase, assuming 20% down — so a $416,000 loan — is roughly in the 6.5% to 7% range. Let's say 6.75%. At 3.5%, your payment on $416,000 would be approximately $1,869 per month. At 6.75%, your payment on the same amount would be approximately $2,698. So the rate reduction saves you $829 per month — that's $9,948 per year.
+Caller: That's a lot. Over ten years that's almost $100,000.
+Agent: Exactly. So the question is: does the 25% appreciation share you're giving up cost you more or less than $100,000 over your holding period? Let's model it.
+Caller: How do you model something like that?
+Agent: You have to make assumptions about appreciation. Let's say you hold the home for ten years. Historical average home price appreciation is roughly 3% to 4% per year nationally, though it varies enormously by location. At 3% appreciation per year, a $520,000 home would be worth approximately $699,000 in ten years. That's $179,000 in appreciation. Your 25% share of that appreciation would be $44,750 owed to the SAM lender.
+Caller: So $44,750 in appreciation shared, versus $99,480 in payment savings over ten years. The savings would be much larger.
+Agent: At 3% appreciation, yes. But now let's model a hot market. If your area appreciates at 6% per year — which has happened in many coastal markets — in ten years that home would be worth approximately $931,000. Appreciation of $411,000, and 25% of that is $102,750.
+Caller: That almost wipes out the payment savings.
+Agent: Almost exactly. And if appreciation is 8% per year — which has happened in some markets post-2020 — the home reaches $1,124,000. Appreciation of $604,000, and 25% is $151,000. Now you've given up more in appreciation than you saved in interest payments.
+Caller: So the SAM is a bet on low appreciation.
+Agent: Precisely. If you're confident the market will be slow or moderate, the SAM can make financial sense. If you think the area will appreciate strongly, you're giving up potentially enormous upside. What market is this property in?
+Caller: San Jose, California.
+Agent: That's one of the highest appreciation markets in the country historically. Silicon Valley properties have appreciated dramatically over the past twenty years. That significantly changes the risk calculus. With San Jose's historic appreciation rates, a SAM at 25% share could be very expensive for you.
+Caller: I hadn't run the numbers this way. I was just looking at the payment savings.
+Agent: The lower payment is immediately visible — the appreciation share is invisible until you sell. That's the structural appeal of the product and also the structural risk.
+Caller: What other concerns should I have about the product itself, beyond the economics?
+Agent: Several. First — the appreciation share applies even if you're forced to sell at a bad time, like during a downturn. However, if the home value dropped below $520,000, you'd owe zero appreciation share since there's no appreciation. Make sure the agreement specifies this clearly.
+Caller: What if the home is worth less when I sell?
+Agent: If you sell below the purchase price, you owe nothing on the appreciation share — there's nothing to share. That's the floor. But you'd have taken a loss on the home itself. The SAM lender doesn't share in your losses, only your gains. That's an asymmetry worth noting.
+Caller: So the risk of the loss is all mine.
+Agent: Yes. You share the upside but bear the full downside.
+Caller: Other concerns?
+Agent: Second — make sure the SAM is assumable or clearly transferable. If you want to sell the home to someone who wants to assume the financing, that needs to be permitted. Third — what are the terms if you want to refinance? Refinancing could trigger the appreciation share event, even if you're not selling. A refinance could be considered an arm's-length transaction that values the property. Make sure the terms define exactly what triggers the appreciation repayment.
+Caller: I hadn't thought about refinancing.
+Agent: It's a significant consideration. If rates drop dramatically in five years and you want to refi, you might owe the appreciation share at that point even though you're not selling.
+Caller: What about improvements? If I renovate and add value, do they share in that too?
+Agent: That's an excellent question and it should be addressed in the agreement. Some SAM agreements define appreciation as all value increase regardless of source — including your renovations. Others carve out a renovation allowance. If you put $100,000 into the kitchen and bathrooms and the home goes up $150,000, the question is whether the lender gets 25% of all $150,000 or only the market-driven appreciation.
+Caller: That needs to be in writing.
+Agent: Absolutely. Every one of these terms needs to be in the formal SAM agreement. I would strongly recommend having a real estate attorney review this before you sign — not a general attorney, but one familiar with mortgage instruments and California real property law.
+Caller: Is the SAM a recognized mortgage type legally?
+Agent: SAMs have been used in various forms for decades and they are legal. California law does recognize them. However, they're not common, which means fewer precedents if a dispute arises and fewer standard forms — each SAM tends to be customized, which means more room for ambiguous terms.
+Caller: Is there any federal consumer protection on them?
+Agent: TILA — Truth in Lending Act — applies to first mortgage loans including SAMs, which means you must receive a Loan Estimate and Closing Disclosure showing the full terms. However, the appreciation share component can be tricky to represent in standard disclosure forms, so make sure you fully understand how it's documented on those forms.
+Caller: This has been incredibly eye-opening. I came in thinking this was a clever deal and now I see it's much more complicated.
+Agent: It might still be a good deal — I'm not saying it isn't. But it's a complicated deal that requires you to understand the full picture, especially in a high-appreciation market like San Jose. Would you like me to refer you to a HUD-approved housing counselor who might be familiar with non-traditional mortgage products?
+Caller: Yes, actually. That would be helpful.
+Agent: The HUD counselor line is 1-800-569-4287. Also, when you get the SAM terms in writing, please do have an attorney review them. That's the most important step before signing.
+Caller: I will. Thank you so much, Beth. You've saved me from possibly making a very expensive mistake — or at least from making it blindly.
+Agent: That's exactly the goal. Is there anything else today?
+Caller: No, I have a lot to think about. Thank you again.
+Agent: Good luck with your home search, Steven. Have a great day.
+Caller: You too. Goodbye.

@@ -1,0 +1,42 @@
+Agent: Thank you for calling First National Mortgage Servicing. This is Nicole. Can I have your loan number and name?
+Caller: Hi Nicole. This is George Papadopoulos. Loan number is 2-1-9-9-7-3-4.
+Agent: Thank you, Mr. Papadopoulos. Property address and last four of Social?
+Caller: 4841 Covington Way, Tampa, Florida 33612. Last four is 0-0-4-1.
+Agent: Got it, account is pulled up. How can I help?
+Caller: I'm in the middle of Chapter 7 bankruptcy proceedings right now. My attorney has been advising me but I'm confused about something and she told me to call the servicer directly and ask. The question is about reaffirming my mortgage. My attorney said I should think carefully about it and that it's not required. But I'm also seeing something from your company saying we recommend reaffirming for continued access to account servicing. Can you explain your position and what reaffirming actually means for me?
+Agent: Your attorney gave you excellent advice to research this carefully, and I appreciate that you're calling. Let me explain the reaffirmation process and then give you an honest explanation of what we say and why.
+Caller: Please.
+Agent: A reaffirmation agreement in Chapter 7 bankruptcy is a legal document signed by you, approved by your attorney, and filed with the bankruptcy court. By signing it, you voluntarily agree to remain personally liable on the mortgage debt as if the bankruptcy never happened. Without reaffirmation, the personal debt is discharged — meaning you have no personal obligation to pay — but the lien on your property survives. If you stop paying, the lender can foreclose, but they cannot get a personal judgment against you for any deficiency.
+Caller: So reaffirmation gives up the protection the bankruptcy gave me?
+Agent: For that specific debt, yes. You are reinstating personal liability. In exchange, you retain the loan under its existing terms, and the formal servicing relationship continues — we'd continue to send you statements, report your payments to credit bureaus, and so on.
+Caller: And without reaffirmation?
+Agent: Without reaffirmation, your personal liability is discharged. You can still stay in the home and make payments — and we will accept those payments — but there are some nuances. Under federal bankruptcy rules — specifically, Section 521 of the Bankruptcy Code — if a debtor doesn't reaffirm the loan and doesn't surrender the property, the debtor is technically supposed to do one or the other. However, many courts have interpreted this to allow what's called the "ride-through" approach, where you simply continue making payments without formally reaffirming.
+Caller: What's the risk of the ride-through approach?
+Agent: The practical risks vary. Some servicers — including, as you noted, our guidance — may stop sending monthly statements after discharge if there's no reaffirmation, because sending statements on discharged debt can raise issues under the discharge injunction. We may also stop reporting your on-time payments to credit bureaus, which means you miss out on the credit-building benefit of making mortgage payments.
+Caller: So my credit won't improve from paying the mortgage?
+Agent: Without reaffirmation, many servicers, including ours, do not report mortgage payments to credit bureaus post-discharge. That's a real downside for borrowers trying to rebuild credit after bankruptcy. With reaffirmation, the payments would be reported and contribute positively to your credit history.
+Caller: Is there any other risk from not reaffirming?
+Agent: The other risk, which is Florida-specific, is the interaction with homestead exemption and Florida's approach to bankruptcy discharge. In Florida, the homestead exemption is very robust — you can generally protect unlimited equity in a primary residence in bankruptcy. Since your equity is protected regardless, the discharge of personal liability doesn't cost you the house if you keep paying. But your attorney knows the Florida specifics better than I do.
+Caller: Let me give you my numbers. My balance is $213,000. My home is worth about $280,000. So I have about $67,000 in equity.
+Agent: Florida homestead exemption would protect that equity in bankruptcy. So the bankruptcy itself doesn't put your equity at risk. The reaffirmation decision is really about: do you want personal liability to continue in exchange for continued credit reporting and a seamless servicing relationship?
+Caller: What does the reaffirmation do to my loan terms?
+Agent: Reaffirmation under standard terms leaves your existing loan terms in place — rate, balance, payment, everything stays the same. It's not a modification or a new agreement. You're agreeing to the same loan you already had, just waiving the bankruptcy discharge protection for it.
+Caller: My current payment is $1,654 a month and I can afford that. I've actually kept making payments throughout the bankruptcy.
+Agent: That's excellent — staying current through the bankruptcy demonstrates your commitment to the property and your ability to sustain the payment. That's actually a factor in your favor whether you reaffirm or not.
+Caller: What if I reaffirm and then later fall behind again — like if something bad happens?
+Agent: If you reaffirm and then subsequently default, we could foreclose on the property and also pursue a deficiency judgment against you personally if the sale price doesn't cover the balance. That personal liability is the risk you take by reaffirming.
+Caller: And in Florida, how likely are lenders to pursue deficiency judgments?
+Agent: Florida does allow deficiency judgments after foreclosure, and lenders do sometimes pursue them, particularly on larger balances. With $213,000 outstanding and $280,000 in value, you actually have positive equity right now, so if foreclosure ever happened, a deficiency would be unlikely at current values. But values can change.
+Caller: Let me think about this from a practical standpoint. If I don't reaffirm, I lose the credit reporting benefit. But I keep the liability protection. If I do reaffirm, I get the credit reporting but give up the liability shield.
+Agent: That's exactly the trade-off. Your attorney's hesitation about reaffirmation is standard — most bankruptcy attorneys recommend against it unless the borrower has a very strong reason, because you've essentially already achieved the benefit of the discharge and reaffirmation undoes it for this debt.
+Caller: My attorney said there's something called a reaffirmation hearing. What is that?
+Agent: If your attorney is not willing to certify that the reaffirmation won't impose an undue hardship on you — which some attorneys won't sign off on if they feel reaffirmation is against your interest — the bankruptcy court schedules a hearing to evaluate whether the reaffirmation should be approved. The judge reviews whether you can actually afford the payment and whether reaffirmation is appropriate.
+Caller: So the judge could deny the reaffirmation?
+Agent: Yes. If the court determines the reaffirmation would impose an undue hardship and isn't in your interest, it can be denied. That's actually a protection for you — it prevents lenders from pressuring borrowers into unfavorable reaffirmations.
+Caller: My attorney said she has concerns about recommending reaffirmation given my circumstances. What would happen if the reaffirmation was denied but I wanted to keep the house?
+Agent: You'd continue in the ride-through scenario — making payments voluntarily without personal liability. The lien remains, you keep the house as long as you pay, but you have the discharge protection. Many borrowers successfully live in their homes for years post-Chapter 7 without reaffirmation.
+Caller: I think after this conversation, I'm leaning toward not reaffirming. The liability protection seems valuable and I'll just accept that my mortgage payments won't help my credit in the short term.
+Agent: That's a thoughtful conclusion and consistent with what many attorneys advise. Make sure you discuss the Florida-specific considerations with your attorney before finalizing. Can I help you with anything else today?
+Caller: No, this has been very helpful. Thank you, Nicole.
+Agent: Of course, Mr. Papadopoulos. Good luck with your case. Call us at 1-800-555-0555 if you have additional questions. Goodbye.
+Caller: Goodbye.
