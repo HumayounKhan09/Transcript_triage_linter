@@ -1,0 +1,52 @@
+Agent: Thank you for calling Cornerstone Mortgage Servicing, this is Jessica. How can I help you today?
+Caller: Hi Jessica. My name is Leonard Pruitt. I'm behind on my mortgage — I know, I know — and I want to bring it current. I need to know the exact amount I have to pay to make everything right with my account.
+Agent: Hi Mr. Pruitt, I'm glad you're calling and I want to help you get this resolved. Let me pull up your account. Can I get your loan number?
+Caller: 6619-0082.
+Agent: And the property address?
+Caller: 1844 Fox Run Circle, Indianapolis, Indiana, 46227.
+Agent: And last four of your Social Security number?
+Caller: 4421.
+Agent: Thank you. I've got your account. Let me pull up your full account status and calculate your reinstatement amount.
+Caller: How far behind am I exactly? I've lost track honestly.
+Agent: Let me count. Your last payment applied to your account was for the month of March. April, May, and June are all past due. So you're three months behind. Your monthly payment is $1,492.
+Caller: Three months. Okay. So is it just three times $1,492?
+Agent: It's a bit more than that unfortunately. The reinstatement amount includes the missed payments, but also any late fees that have accrued, and any other fees that have been assessed to the account. Let me go through each component.
+Caller: Please.
+Agent: Three monthly installments at $1,492 each equals $4,476. Then late charges — you have a 15-day grace period and after that a late fee of five percent of the principal and interest portion of your payment is charged. Let me add those up. April, May, and June each have a late fee. The P&I portion of your payment is $1,219, so five percent is $60.95. Three months of late fees equals $182.85.
+Caller: Okay.
+Agent: Are there any other fees? Let me check. I see a property inspection fee of $15 that was assessed last month — it's standard for accounts that reach a certain delinquency level for the servicer to conduct an exterior inspection to verify the property is occupied and maintained.
+Caller: I'm living there. Nobody knocked on the door or anything.
+Agent: It's typically a drive-by inspection, not a knock-and-visit. Just a visual confirmation from the street. The $15 fee is standard.
+Caller: Alright. So total?
+Agent: $4,476 plus $182.85 plus $15 comes to $4,673.85. However, I want to give you the formal reinstatement quote because there's also a per-diem calculation involved.
+Caller: What's a per-diem?
+Agent: A per-diem is the daily interest that accrues on your loan. Interest on your loan accrues daily and gets applied to your payment each month. If you bring the loan current but the payment arrives after today, we need to account for the additional days of interest that have accrued since the last billing period.
+Caller: So the amount changes depending on when I pay?
+Agent: Exactly. A formal reinstatement quote is calculated with a good-through date. If I issue you a quote good through June 30th, the amount is valid if your payment arrives by June 30th. If it arrives July 1st or later, we'd need to add one more day of interest, which on your balance is about $38 per day.
+Caller: My current balance is how much?
+Agent: Your unpaid principal balance is $168,420. At your note rate of 8.125 percent, daily interest is $168,420 times 8.125 percent divided by 365, which is approximately $37.52 per day.
+Caller: And the quote total was $4,673.85 through what date?
+Agent: Let me set a formal good-through date. If I make this quote good through June 30th — that's three days from now — your reinstatement amount is $4,673.85. If you need more time, I can extend the quote through July 15th and add the per-diem for the additional fifteen days.
+Caller: What would the July 15th amount be?
+Agent: Fifteen additional days at $37.52 per day is $562.80. The July 15th reinstatement amount would be $5,236.65.
+Caller: I think I can get it together by the end of the month. The June 30th quote works.
+Agent: Good. I can email or mail you the formal reinstatement letter with the exact amount and instructions. That letter is the official document you'd use to send payment.
+Caller: How do I send the payment? Can I pay online?
+Agent: For reinstatement payments — especially when there are multiple missed payments — we recommend a certified check or cashier's check made payable to Cornerstone Mortgage Servicing for the exact amount. Wire transfer is also accepted. We don't recommend a personal check for this type of payment because of processing time.
+Caller: Why not a personal check?
+Agent: Personal checks can take several days to clear. If your reinstatement quote has a June 30th good-through date, we need the funds to be confirmed received and collected by that date. Cashier's checks or wires are confirmed same-day.
+Caller: What if I wire it?
+Agent: Wire instructions are in the reinstatement letter. The wire must include your loan number as the reference so it's applied to your account correctly.
+Caller: And once the payment clears, my account goes back to current?
+Agent: Yes. Once the reinstatement amount is received and confirmed, your account is brought current, all late fees are cleared, and your next regular payment is due on August 1st.
+Caller: Does this affect my credit?
+Agent: The missed payments have already been reported to the credit bureaus for each month they were delinquent. Bringing the account current doesn't erase past late reports, but it does stop further negative reporting. Your account will show as current going forward.
+Caller: I figured. I kind of expected that. It's fine.
+Agent: The important thing is getting the loan current. Is there anything you'd like me to do differently — like if you've experienced a hardship and might benefit from a payment plan or modification?
+Caller: No, I had some cash flow issues that are resolved now. I just need to pay it and get back on track.
+Agent: Understood. I'll generate the formal reinstatement quote with a June 30th good-through date and send it to your email on file, which is lpruitt55@gmail.com. Is that still current?
+Caller: Yes, that's right.
+Agent: You'll receive it within the hour. Is there anything else I can help with today?
+Caller: No, that's all. Thank you for being straightforward with me. I appreciate it.
+Agent: Of course. Thank you for taking this step, Mr. Pruitt. Get that payment in by the 30th and you'll be in good shape. Have a good day.
+Caller: Thank you, Jessica. You too.
