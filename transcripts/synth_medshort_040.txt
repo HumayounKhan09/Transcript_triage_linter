@@ -1,0 +1,38 @@
+Agent: Thank you for calling Paragon Mortgage Services, this is Beth. How can I assist you today?
+Caller: Hi Beth. My name is Marcus Webb. I got a letter from you that says my private mortgage insurance is going to be cancelled. I'm a little surprised because I didn't request that. I want to understand what's happening and whether this is actually good news or if there's something I should be worried about.
+Agent: Hi Mr. Webb, great that you called to understand this fully. I can tell you upfront — this is almost certainly good news. Let me pull up your account and walk you through exactly what happened. Can I get your loan number or the property address?
+Caller: Yes, it's 721 Greenbriar Way, Richmond, Virginia 23229.
+Agent: And your full name for verification?
+Caller: Marcus Eugene Webb.
+Agent: Last four of your Social?
+Caller: 3381.
+Agent: Perfect. I have your account. Let me look at the PMI details and your loan balance. Before I get into the specifics, let me give you a quick explanation of how PMI cancellation works, because there are actually two ways it can happen. The first is automatic cancellation by law, and the second is borrower-requested cancellation.
+Caller: Okay, I'm listening.
+Agent: Under the Homeowners Protection Act — sometimes called the PMI Cancellation Act — servicers are required to automatically cancel PMI when a loan reaches certain milestones. Specifically, PMI must be terminated when the loan balance is scheduled to reach 78 percent of the original appraised value, based on the original amortization schedule. This happens automatically without the borrower having to do anything.
+Caller: And that's what's happening on my account?
+Agent: Let me look at the numbers. Your original loan amount was $324,000, and your original appraised value was $385,000. So 78 percent of the original value is $300,300. Looking at your amortization schedule, your balance is projected to reach that threshold very soon — in fact, I can see you're right at that point. Your current balance is $299,880, which is just below that threshold.
+Caller: So I hit the 78 percent mark and now PMI comes off automatically?
+Agent: Exactly right. Because your balance has reached 78 percent of the original appraised value based on the scheduled amortization, we are legally required to cancel PMI. That's what the letter is notifying you of.
+Caller: I should have known this was coming. I've had the loan for — let me think — about seven years.
+Agent: Seven years and four months based on your origination date, and for a loan at your rate and term, this timing is about right. Your PMI removal is right on schedule with what the original amortization projected.
+Caller: How much will my payment go down?
+Agent: Let me look at your current PMI amount. Your monthly PMI premium is $148.50 per month. That amount will be removed from your total monthly payment starting next billing cycle. Your new total monthly payment will decrease by $148.50.
+Caller: That's almost $150 a month. That's significant. I kind of forgot it was even in there at this point.
+Agent: That's actually very common. PMI becomes part of the background for a lot of borrowers. But it does add up — over the seven years you've been paying it, you've paid approximately $12,474 in PMI premiums.
+Caller: Wow. I don't regret it because I needed it to get into the house, but I'm glad it's done.
+Agent: That's the right way to think about it. PMI enabled the purchase when you didn't have 20 percent down, and now you've built enough equity that it's no longer needed.
+Caller: What happens to my escrow? Does anything change there?
+Agent: Your escrow account collects for property taxes and insurance — that part stays the same. PMI is separate from your homeowner's insurance and escrow. The PMI removal reduces your overall monthly payment but doesn't affect the escrow portion for taxes and homeowner's coverage.
+Caller: Good. I just want to make sure I'm not losing any coverage that I actually need.
+Agent: You're not losing anything important. PMI protects the lender — not you — in case of default. Your homeowner's insurance, which covers your property and your belongings, continues unchanged.
+Caller: Can I ask — is there a scenario where I could have gotten PMI removed earlier? I've heard you can request it if your home value has gone up.
+Agent: Absolutely. Borrower-requested cancellation is allowed when you've reached 80 percent LTV based on a current appraisal — not the original value. If home values in your area went up significantly, you may have been eligible to request cancellation earlier. For that process, you'd submit a written request, and we'd order an appraisal or a broker price opinion to verify the current value. If you had requested it, say, two or three years ago when rates were low and values were climbing, you might have knocked off a year or more of PMI premiums.
+Caller: I wish I'd known that. I could have saved some money.
+Agent: It's a common missed opportunity. Most borrowers aren't aware of the request option and just wait for the automatic cancellation. Going forward, now that PMI is off, the only way it could come back is if you took out a new loan against the property that brought your total LTV back above 80 percent. Otherwise, you're done with PMI on this home.
+Caller: Good to know. Is there anything I need to do? Do I need to sign anything?
+Agent: No action is required from you. The cancellation is automatic and our records will be updated. You'll see the reduced payment amount on your next monthly statement and subsequent billing notices.
+Caller: Perfect. This really was good news. Thank you for explaining all of it.
+Agent: My pleasure, Mr. Webb. It was a good day to call — you've got something to celebrate. Is there anything else I can help with?
+Caller: No, I'm good. Thanks, Beth.
+Agent: Have a wonderful day. Goodbye.
+Caller: Bye.

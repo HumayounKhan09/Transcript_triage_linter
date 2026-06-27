@@ -1,0 +1,61 @@
+Agent: Hello, may I speak with Mr. Gerald Fontaine please?
+Caller: This is Gerald Fontaine.
+Agent: Mr. Fontaine, my name is Rachel and I'm calling from Meridian Mortgage Servicing regarding your home loan, number 2271-664-088. I'm calling because our records show your account is 45 days past due and I wanted to reach out before this becomes a more serious situation. Is this a good time to talk?
+Caller: Yeah. I figured you'd be calling. I've been meaning to call you actually.
+Agent: I'm glad you answered. I want to make sure you know this call is being recorded for quality purposes. Can you verify your date of birth and the property address for me?
+Caller: August 4, 1978. 316 Crescent Bay Road, Savannah, Georgia 31401.
+Agent: Thank you. So Mr. Fontaine, you said you were meaning to call. What's going on? Help me understand the situation.
+Caller: I lost my job in May. I was an operations manager at a distribution facility, been there nine years. They did a reduction in force, eliminated about 40 positions including mine. Last day was May 16th.
+Agent: I'm really sorry to hear that. Nine years is a long time. Are you receiving unemployment benefits?
+Caller: Yes. I applied right away. I'm getting $487 a week. My mortgage is $1,622 a month. You do the math.
+Agent: That's about $1,948 a month in unemployment. So your mortgage is eating roughly 83 percent of your income right now.
+Caller: Yeah, and I've still got utilities, food, car insurance. My wife does some part-time work — she picks up shifts at a grocery store — maybe $600 a month.
+Agent: So total household income right now is roughly $2,500 to $2,600 a month?
+Caller: About that, yeah. Some months a little more.
+Agent: And your mortgage is $1,622. What are your other major monthly obligations?
+Caller: Car payment is $347. That's on a truck I need to keep because I'm job hunting and I need reliable transportation. Car insurance is $118. Utilities run about $200. We've cut everything else. No subscriptions, no eating out. My kids are with us — two daughters, 14 and 16.
+Agent: So your essential monthly expenses are roughly — mortgage $1,622, car $347, insurance $118, utilities $200, that's about $2,287 before food.
+Caller: And food is probably $600 a month for four people even being careful.
+Agent: That puts your essential expenses at about $2,887 against income of $2,500. You're running a deficit each month even being frugal.
+Caller: That's where we are. We used our savings for May and June. We've got about $1,800 left in savings right now. That's it.
+Agent: Okay. Mr. Fontaine, I appreciate you being so candid with me. This is exactly the kind of situation our hardship programs are designed for. Before I go through the options, let me get some more information. How long do you anticipate the job search taking? Do you have prospects?
+Caller: I've had three interviews. One went really well — it's another operations role at a logistics company, they said they'd have a decision in two to three weeks. I'm cautiously optimistic.
+Agent: That's meaningful information. If you're potentially back to work in a month or two, that shapes the options we look at. Are you comfortable sharing what your previous salary was?
+Caller: $72,000 a year. So $6,000 a month gross. About $4,200 take-home.
+Agent: And when you were employed, you could comfortably handle the mortgage?
+Caller: Easily. I had extra left over. I was making extra principal payments some months.
+Agent: Good. That tells me this is a situational hardship, not a structural affordability problem. Your loan was performing well before. That's important context. Let me walk you through some options that may apply to your situation.
+Caller: Please. I'm listening.
+Agent: The first option is a forbearance plan. Given that you've lost your job, you may qualify for an unemployment forbearance, which would pause or reduce your mortgage payments for a period — typically three to six months, sometimes up to twelve depending on circumstances. During forbearance, no late fees, no foreclosure action, and typically no credit reporting of new delinquencies.
+Caller: What happens to the payments I miss? Do they just disappear?
+Agent: They don't disappear — they accumulate and need to be addressed when the forbearance ends. The typical resolution is either a repayment plan, where you pay back the missed amounts over time while resuming regular payments, or a deferral, where the missed amount is added to the end of your loan as a balloon balance that comes due at payoff or sale.
+Caller: The deferral sounds better. I'd rather deal with it at the end.
+Agent: Deferral is a very popular option. It lets you get back on your feet without a spike in monthly payments later. The missed payments would essentially move to the back of your loan. With your situation — solid payment history, a job prospect on the horizon — you're a strong candidate for this approach.
+Caller: How do I apply? Do I have to fill out a lot of paperwork?
+Agent: I can start your hardship intake right now on this call. We'll document your hardship reason — involuntary job loss — your current income, expenses, assets, and your anticipated timeline for return to work. Then we'd formally request a forbearance. You'd receive a forbearance agreement within five to seven business days that you'd sign and return.
+Caller: Okay. Let's do it.
+Agent: Great. For the application I'll need to verify some numbers. Current monthly gross income — that's unemployment at $487 a week, so about $2,117 from unemployment plus your wife's $600, total approximately $2,717?
+Caller: That sounds right.
+Agent: Savings and liquid assets — you mentioned $1,800 in checking. Any other accounts? Retirement?
+Caller: We've got a 401k with about $34,000. I didn't want to touch it.
+Agent: Understandable, and we don't require you to liquidate retirement accounts. Other real estate, investments?
+Caller: Nothing else. Just this house.
+Agent: Monthly expenses as we discussed — mortgage $1,622, car $347, insurance $118, utilities $200, food approximately $600. Any medical expenses?
+Caller: My wife takes a medication that costs $90 a month after insurance.
+Agent: Noting medical $90. Total monthly expenses approximately $2,977. And the nature of the hardship — involuntary job loss, reduction in force, effective May 16, 2025. Anticipated return to employment — within 30 to 60 days, current job prospect under review.
+Caller: That's all accurate.
+Agent: Good. Based on this intake, I'm recommending a six-month unemployment forbearance with a deferral resolution option. I'm submitting this now under your account. You should receive a formal hardship acknowledgment within one business day and the forbearance agreement within five business days.
+Caller: What about the two payments I've already missed? May and June?
+Agent: Those would be included in the forbearance. The forbearance would be backdated to your May due date, so both missed payments would fall under the forbearance terms.
+Caller: That's a relief. And the credit reporting — those two missed payments, have they been reported?
+Agent: At 45 days past due, your account may have been reported as 30 days late. I'll note in your case file that you contacted us today and are entering a hardship program, which flags your account for reviewed reporting. Once the forbearance is in place, no additional lates will be reported.
+Caller: The 30-day late that might be on there — can that be corrected if I get caught up quickly?
+Agent: If you resume payments within a short period and the forbearance is resolved cleanly, we can submit a goodwill adjustment request to the bureaus. It's not guaranteed, but given your nine-year payment history before this, it's a reasonable request.
+Caller: I really appreciate you calling and I appreciate how you're handling this. I was embarrassed to call in.
+Agent: Please don't be embarrassed. This is exactly why these programs exist. Nine years of on-time payments and you hit a bump that was completely outside your control. Let's get this bridge in place so you can focus on landing that job.
+Caller: Thank you. You've made this much easier than I expected.
+Agent: Your case number for the hardship application is HP-2025-031447. Do you have any other questions?
+Caller: No. I'll watch for the paperwork. Thank you Rachel.
+Agent: Good luck with the job, Mr. Fontaine. Take care.
+Caller: Thanks. Bye.
+Agent: Goodbye.

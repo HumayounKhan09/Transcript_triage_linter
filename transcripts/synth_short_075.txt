@@ -1,0 +1,35 @@
+Agent: Thank you for calling Horizon Mortgage Servicing. My name is Fatima. How can I help you today?
+Caller: Hi Fatima. I need my MERS number. My title company is asking for it for some paperwork they're doing and I have no idea what it is or where to find it.
+Agent: Sure, I can help you locate your MERS number. Let me pull up your account. Can I get your name and loan number?
+Caller: My name is Dwayne Kowalski. My loan number is 6614-TT-37809.
+Agent: Thank you Dwayne. Can you verify the property address?
+Caller: It's 540 Iron Bridge Road, Cleveland, Ohio 44109.
+Agent: And the last four of your SSN?
+Caller: 2246.
+Agent: Perfect, I have your account. Before I give you the number, let me briefly explain what MERS is in case it's helpful context.
+Caller: Sure, go ahead.
+Agent: MERS stands for Mortgage Electronic Registration Systems. It's a national electronic registry that tracks ownership and servicing rights of mortgage loans. When a mortgage is registered with MERS, it's assigned an eighteen-digit number called a MIN — Mortgage Identification Number — which is the number your title company is asking for.
+Caller: Oh okay, so it's the MIN, not technically a MERS number?
+Agent: They're the same thing essentially. The MIN is how it's formally referred to but people often just call it the MERS number. Your title company will know what to do with it.
+Caller: Got it. And what's mine?
+Agent: Your MERS MIN is 100324-0000408817-6. Let me read it again slowly. 1-0-0-3-2-4-0-0-0-0-4-0-8-8-1-7-6. That's eighteen digits.
+Caller: Let me count. 1-0-0-3-2-4-0-0-0-0-4-0-8-8-1-7-6. Yes, eighteen digits.
+Agent: That's correct.
+Caller: And is that number searchable somewhere? Like if I wanted to verify it?
+Agent: Yes. The MERS system has a public-facing lookup tool at mersinc.org. Anyone can go to that website and enter the MIN number to look up the registered servicer and investor information associated with the loan. Your title company may do that independently.
+Caller: And what would they see if they search it?
+Agent: They would see the loan's current servicer of record, which would be us — Horizon Mortgage Servicing — and depending on the registration, possibly the investor or owner of the loan. It's a way for third parties like title companies, attorneys, or regulators to verify where a loan is being serviced and who holds the note.
+Caller: Is the MERS number the same as my loan number?
+Agent: No, they're different. Your loan number — the one you gave me at the start of the call — is our internal servicing system identifier. The MERS MIN is a nationwide unique identifier that follows the loan regardless of which company services it. If your loan were ever transferred to a different servicer, the MERS MIN would stay the same.
+Caller: Oh that's interesting. So it stays with the loan?
+Agent: Exactly. It's tied to the property and the note, not to any particular servicing company.
+Caller: My title company also asked about whether the loan is MERS-registered. I assume it is since you have a number for it?
+Agent: Yes, the fact that a MIN exists and is on record confirms that the loan is registered with MERS.
+Caller: Great, I can tell them that. Can you send me the MERS number in writing? Like an email?
+Agent: I can note your account that this was provided and you can reference this call. For official documentation, the title company may prefer to do their own lookup on the MERS website using the number you now have. If you need a formal written confirmation from us, you can submit that request through our correspondence address and we'll provide it on our letterhead.
+Caller: The lookup should be good enough for them. I'll give them the number and let them verify it themselves.
+Agent: Perfect. Is there anything else I can help you with today?
+Caller: No, that's all I needed. Thank you Fatima, very helpful.
+Agent: My pleasure Dwayne. Have a great day.
+Caller: You too, bye.
+Agent: Goodbye.

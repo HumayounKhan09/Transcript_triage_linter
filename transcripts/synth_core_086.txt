@@ -1,0 +1,43 @@
+Agent: Thank you for calling National Trust Mortgage, this is Sandra. How may I help you today?
+Caller: Hi Sandra, my name is Rodrigo Ferreira. I'm calling about something my county is calling a PACE loan. I signed up for it through a home improvement company to finance some windows and HVAC, and now I'm getting letters from you saying it could affect my mortgage. Loan number is 3341-8872.
+Agent: Hi Rodrigo, I'm glad you called. PACE loans are an important topic and it's critical that borrowers understand how they interact with existing mortgages. Let me pull up your account. I see your loan — a thirty-year fixed on your property in Riverside County, California. Let me ask — have you already closed on the PACE loan, or are you still in the process?
+Caller: I think it's already done. I signed all the papers about two months ago and the work is being done now. The window company said the county would handle collecting repayment through my property taxes.
+Agent: Okay. So the PACE financing is already in place. Let me explain the situation clearly. PACE stands for Property Assessed Clean Energy. It's financed through a special tax assessment that goes on your property tax bill. The assessment is collected by the county just like property taxes.
+Caller: Right, that's what they said. It doesn't show up on my credit report or anything.
+Agent: Correct, it's an assessment rather than a traditional loan. But here's the significant issue for your mortgage — PACE assessments are generally granted super-priority status under California law. That means the PACE assessment can take priority over your existing mortgage lien in a foreclosure scenario.
+Caller: Super-priority? What does that mean exactly?
+Agent: In a normal foreclosure, the first mortgage — our lien — would be paid off first from the sale proceeds. With a PACE assessment that has super-priority status, the PACE assessment would be paid before our first mortgage. That's a significant risk to us as your lender.
+Caller: So you could lose money if I defaulted?
+Agent: In theory, yes. If the property were foreclosed and sold, the PACE assessment would come ahead of our first mortgage. Given that concern, many mortgage investors and servicers — including our investors — have policies that prohibit PACE financing on mortgaged properties or that require specific conditions be met.
+Caller: Oh no. Is my mortgage in trouble?
+Agent: Your loan is currently not in default or anything like that — you're current on your payments. But the PACE assessment on your property is a compliance issue because it conflicts with your loan's terms. Specifically, most mortgage notes include a covenant that prohibits subordinating the mortgage to any other lien or creating liens that could have superior priority.
+Caller: I didn't know that. The PACE company never mentioned any of this.
+Agent: Unfortunately that's a common complaint. PACE companies don't always disclose the mortgage implications fully. In California there have been legislative and regulatory efforts to improve PACE disclosures but the issue persists.
+Caller: So what happens now? What are you going to do?
+Agent: We've sent you letters because we've been notified of the PACE assessment through our lien monitoring process. At this stage, we're asking you to address the conflict. The options are limited at this point since the work may already be done, but let me explain what borrowers in your situation typically do.
+Caller: Please.
+Agent: The cleanest resolution is to pay off the PACE assessment. If you can refinance using traditional financing — a personal loan, a home equity line, or even a cash-out refinance — and use those funds to retire the PACE assessment, the lien would be removed from the property tax roll and the priority conflict would be resolved.
+Caller: How much is the PACE assessment?
+Agent: You'd need to check your county tax bill or the PACE disclosure documents for the exact assessment amount. What was the cost of the windows and HVAC work?
+Caller: About twenty-eight thousand dollars total.
+Agent: So approximately twenty-eight thousand dollars. Paying that off with a different financing source is one option.
+Caller: That's a lot of money to pay off differently when I already have the payment plan through the county.
+Agent: I understand. The other option is to attempt to negotiate with the PACE provider. Some PACE programs will consider subordinating their lien to the first mortgage if requested, though this is not common in California since the super-priority status is statutory.
+Caller: Statutory means it's the law?
+Agent: Correct — it's embedded in California law and PACE providers can't simply waive it without going through a legal process.
+Caller: So what happens if I can't resolve it? Are you going to foreclose on me?
+Agent: No. We're not in a position to foreclose simply because of a PACE lien. But there are consequences. Your loan may be flagged as out of compliance with its terms, which could affect your ability to refinance. If your loan is ever sold to a new investor, the PACE lien could create complications. And some investors may require cure of the PACE issue as a condition of refinancing.
+Caller: What about my mortgage payments? Do I keep paying those normally?
+Agent: Absolutely — continue paying your mortgage as normal. This situation doesn't change your payment obligations. The concern is structural — the lien position — not your payment performance.
+Caller: Is there anything I should have done differently before signing?
+Agent: Yes — before taking on any PACE financing, you should have notified your mortgage servicer or checked your loan documents for restrictions on liens. Some loan programs, including many Fannie Mae and Freddie Mac backed loans, explicitly prohibit PACE financing. Do you know if your loan is a conventional Fannie or Freddie loan?
+Caller: I think it's a regular conventional loan. I don't know if it's Fannie or Freddie.
+Agent: I can check. Your loan is securitized through Freddie Mac. Freddie Mac's guidelines do prohibit PACE liens that have super-priority status on properties with Freddie-backed mortgages. That's the policy conflict we're dealing with.
+Caller: This feels like I got tricked. Is there any recourse against the PACE company?
+Agent: If you believe material facts were withheld or misrepresented at the time of the sale, you may have grounds for a complaint with the California Department of Financial Protection and Innovation. I'd recommend consulting with a consumer protection attorney. We can't advise you on legal options, but the CFPB also accepts complaints about PACE loan disclosure issues.
+Caller: Okay. I'll look into that. In the meantime, what's the next step from your side?
+Agent: We'll send you a formal notice letter outlining the policy conflict and the required remediation timeline. Typically we give sixty days for a response or resolution plan. I'd recommend consulting with your financial advisor or attorney about the refinancing or payoff options before that deadline.
+Caller: Sixty days. Okay. Thank you, Sandra. This wasn't what I expected to hear but I'm glad I understand it now.
+Agent: I understand this is stressful. The important thing is you called and we can work through this together. Is there anything else I can help with?
+Caller: Not right now. I need to process all this. Thank you.
+Agent: Of course. Good luck, Rodrigo. Don't hesitate to call back.
