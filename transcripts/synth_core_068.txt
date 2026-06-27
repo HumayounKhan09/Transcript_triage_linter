@@ -1,0 +1,45 @@
+Agent: Thank you for calling Summit Financial Mortgage, this is James. Can I get your loan number?
+Caller: It's 4412-667-23. My name is Louis Petrakis.
+Agent: Thank you, Mr. Petrakis. Can you verify your date of birth and property address?
+Caller: October 1st, 1965, and the address is 3090 Olympia Court, Tarpon Springs, Florida 34689.
+Agent: Got your account. What can I help you with today?
+Caller: I have an adjustable-rate mortgage and I've been reading through my loan note because of an upcoming adjustment. I'm seeing terms I don't fully understand — periodic interest rate cap versus lifetime cap. Can you explain the difference and tell me what my specific limits are?
+Agent: Absolutely. These are important terms and understanding the difference between them is essential for knowing exactly how much your rate can move at any given time. Let me pull up your note details and walk through it.
+Caller: Thank you. I've been trying to read the note myself but it gets complicated.
+Agent: I understand. ARM notes can be technical documents. Let me start with the two concepts and then give you your specific numbers. The periodic interest rate cap limits how much your interest rate can change at any single adjustment interval. If your loan adjusts annually, the periodic cap limits how much the rate can go up or down in a given year.
+Caller: So it's a per-adjustment limit.
+Agent: Exactly. Every time the rate adjusts — whether that's every year or every six months depending on your loan — the periodic cap is the maximum it can move in that one adjustment. It applies in both directions. Your rate can't go up more than the cap, but it also can't go down more than the cap in a single period.
+Caller: That's useful to know on the downside too.
+Agent: Correct. Now the lifetime cap is the total maximum change in your interest rate over the entire life of the loan, measured from your initial start rate. It doesn't matter how many adjustments happen — the rate can never exceed the start rate plus the lifetime cap.
+Caller: So the lifetime cap is like an absolute ceiling?
+Agent: Exactly. It's an absolute ceiling — and technically an absolute floor too, though floors are less common and work differently. Most ARM notes don't have explicit rate floors beyond the margin itself.
+Caller: Now what are my specific caps?
+Agent: Looking at your loan note on file. Your loan is a 7/1 ARM originated in June 2019. Your initial start rate was 3.875%. Your seven-year fixed period ended in June 2026 — so you just had your first adjustment. Let me check what that adjustment was. Your first adjustment effective July 1st, 2026 was limited by your initial adjustment cap of 5.00% — so from 3.875%, your rate could go up a maximum of 5.00%. However, the actual index plus margin calculation produced a rate of 7.50%, so your rate adjusted to 3.875% plus 5.00% — up to 8.875%? Wait, let me re-read this.
+Caller: Take your time.
+Agent: I need to clarify. Your initial cap of 5.00% means the first adjustment from the fixed rate can go up no more than 5.00%. So 3.875% plus 5.00% is 8.875%, which is the maximum for the first adjustment. But the fully indexed rate — your current SOFR index plus your margin of 2.625% — came to 7.50%, which is below the initial cap of 8.875%. So your rate adjusted to 7.50% on July 1st.
+Caller: So the initial cap didn't actually constrain the adjustment because the index rate was below the cap limit?
+Agent: Exactly right. The cap only constrains the rate when the calculated indexed rate exceeds the cap. In your case, the initial cap of 5.00% allowed up to 8.875%, and the calculated rate of 7.50% is within that range, so you got 7.50%.
+Caller: What's my periodic cap for future adjustments?
+Agent: Your periodic cap for subsequent annual adjustments — every year after the first — is 2.00%. So from your current rate of 7.50%, the most your rate can increase at the next adjustment is 2.00%, giving a maximum of 9.50%. And it can't decrease more than 2.00% either, so the floor for each annual adjustment is 5.50% from where you are now.
+Caller: And the lifetime cap?
+Agent: Your lifetime cap is 6.00% above the initial start rate. Your start rate was 3.875%, so your lifetime cap means the rate can never exceed 9.875%, regardless of where the index goes.
+Caller: So even if the Fed raised rates dramatically, my rate could never go above 9.875%?
+Agent: Correct. That's the contractual protection built into your note. The lifetime cap is a hard ceiling that overrides everything else.
+Caller: Okay. Now let me ask about the relationship between the two caps. Could multiple smaller adjustments accumulate to hit the lifetime cap even if each periodic adjustment stayed within the periodic cap?
+Agent: Yes, that's exactly how the lifetime cap works in practice. Let's say your rate is at 7.50% now. If it goes up 2.00% per year for two consecutive years, it would be at 11.50% — but the lifetime cap of 9.875% would kick in and limit it to 9.875% before you got there. So in practice, once your rate is at 9.875%, it stays there regardless of the index.
+Caller: But it could also come down, right? If rates fall?
+Agent: Yes. If the index falls, your rate can decrease by up to 2.00% per annual adjustment. There's no floor preventing rate decreases in your note other than the margin itself — your margin of 2.625% is effectively the minimum possible rate, because the index portion of the calculation can't be negative in practice.
+Caller: So my absolute minimum rate would be 2.625%?
+Agent: Theoretically, yes — if SOFR ever went to zero, your rate would equal your margin of 2.625%. That's very unlikely but it's the mathematical floor.
+Caller: This is helpful. Can you put all of this in writing for me?
+Agent: I can send you a written summary of your ARM's adjustment parameters — start rate, current rate, initial cap, periodic cap, lifetime cap, margin, and index. It'll be formatted clearly and mailed to your address on file. Would you also like it by email?
+Caller: Yes, email please. It's l-petrakis at comcast dot net.
+Agent: L-P-E-T-R-A-K-I-S at comcast dot net. I'll also include the next adjustment date — that would be July 1st, 2027 — and a note about the current index level so you can track it yourself.
+Caller: Is there a website where I can monitor SOFR?
+Agent: Yes. The Federal Reserve Bank of New York publishes it daily at newyorkfed.org. Look for the SOFR rates section. One-year Term SOFR is currently around 4.85%, and your margin is 2.625%, so your next fully indexed rate would be around 7.475% — just below your current 7.50%, which would mean a slight decrease at the next adjustment if SOFR stays where it is.
+Caller: A slight decrease would be welcome.
+Agent: It would be a modest improvement — small but in the right direction. Is there anything else I can clarify about your ARM caps or rate structure?
+Caller: No, I think I have a complete picture now. Thank you for your patience, James.
+Agent: My pleasure. These are complex documents and you deserve a clear explanation. Your summary letter will be in your email by end of day. Have a great day.
+Caller: Thank you. Goodbye.
+Agent: Goodbye.

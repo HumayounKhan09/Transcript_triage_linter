@@ -1,0 +1,49 @@
+Agent: Meridian Home Lending. This is Monique. How can I help you today?
+Caller: Hi Monique. My name is Stuart Langley. I recently came into some money — I sold a business — and I put two hundred and fifty thousand dollars toward my mortgage principal. That was processed a few weeks ago. Now I'm wondering about something I read about called a loan recast. Is that an option for me and would it make sense?
+Agent: Hi Stuart. Congratulations on the business sale, and that's a substantial principal payment. A loan recast is absolutely something worth discussing. Let me pull up your account so I can give you specifics. Can I get your loan number?
+Caller: It's 6-6-5-1-0-0-3.
+Agent: Property address?
+Caller: 3300 Lakeview Estates Drive, Charlotte, North Carolina, 28210.
+Agent: Last four of your Social?
+Caller: 2-2-5-6.
+Agent: Got it. I have your account. I can see the principal payment posted about three weeks ago. Your updated balance is now one hundred and seventy-two thousand, six hundred and forty-one dollars. That's down from four hundred and twenty-two thousand before the payment. That's a very significant reduction.
+Caller: Yes. And my payment is still the same two thousand, eight hundred and thirty dollars a month. I want to understand the recast option.
+Agent: Perfect. Let me explain exactly what a recast is and then we'll talk about whether it makes sense for you. A mortgage recast — also called re-amortization — is when we recalculate your monthly payment based on your new lower principal balance, keeping your original interest rate and your original loan maturity date. So essentially, you pay less each month because you owe so much less, but your payoff date stays the same.
+Caller: Unlike a refinance, which would give me a new loan with a new term and potentially a new rate.
+Agent: Exactly. A recast doesn't change your rate or your term. It only recalculates the monthly payment amount to reflect the reduced balance. Since your balance dropped by over two hundred and fifty thousand dollars, your monthly payment could drop very substantially.
+Caller: What would my new payment be approximately?
+Agent: Let me calculate. Your original loan was a thirty-year fixed at three point seven five percent. You originated in 2020, so you're about four years in — you have about twenty-six years remaining. With a balance of one hundred and seventy-two thousand, six hundred and forty-one dollars at three point seven five percent over two hundred and sixty-two remaining months, your recalculated monthly principal and interest payment would be approximately nine hundred and eighty-seven dollars.
+Caller: Down from two thousand, eight hundred and thirty?
+Agent: Down from about two thousand, four hundred in principal and interest — the rest of your current payment is escrow. So your principal and interest portion was about two thousand, four hundred, and after recast it would be about nine hundred and eighty-seven. Plus your escrow component of roughly four hundred and thirty dollars stays unchanged.
+Caller: So my total payment would go from twenty-eight thirty to about fourteen seventeen?
+Agent: Roughly, yes. That's about fourteen hundred and seventeen to fourteen hundred and twenty dollars total including escrow. You'd save approximately fourteen hundred dollars a month.
+Caller: That's a remarkable reduction. What's the catch?
+Agent: There are a few things to understand. First, a recast doesn't shorten your loan term — you'd still pay off in 2050, your original maturity. If you want to pay it off faster, you'd need to continue making extra payments. Second, you'd pay more total interest than if you'd kept the high payment, because now you're paying less toward the balance each month.
+Caller: But my rate is three point seven five, which is very low by today's standards. I might prefer to have the cash flow flexibility and invest the fourteen hundred a month rather than overpaying the mortgage.
+Agent: That's a very reasonable financial decision. At three point seven five percent, your after-tax cost of carrying the mortgage is arguably lower than what you might earn investing. Many financial advisors would support your reasoning.
+Caller: Is there a fee for the recast?
+Agent: There is typically a recast processing fee. Ours is three hundred and fifty dollars.
+Caller: That's reasonable for what I'm getting. What are the eligibility requirements?
+Agent: The main requirements are that you have a conventional loan — which you do — that the loan is in good standing with no delinquencies — which it is — and that the principal reduction meets a minimum threshold. For most servicers that threshold is somewhere between ten thousand and twenty-five thousand dollars. You've paid two hundred and fifty thousand, so you're well above any minimum.
+Caller: Are there loans that don't qualify for recast?
+Agent: FHA, VA, and USDA loans are generally not eligible for recast. Conventional loans are typically eligible. Your loan is conventional, so you're in the right category. Some ARM loans also have recast provisions, but that's a different kind of recast.
+Caller: How long does the process take?
+Agent: Once you submit the written request and pay the fee, the recast typically processes within thirty to forty-five days. Your new payment amount would be reflected on the first statement after the recast is complete.
+Caller: Is there anything I need to consider before deciding?
+Agent: A few things. If you might need liquidity in the near future, the lower payment frees up cash flow. If your goal is to be completely debt-free faster, a recast doesn't help with that — you'd keep paying for twenty-six more years. Also consider your investment return assumptions versus the three point seven five percent rate. And there's no way to undo a recast, so think it through.
+Caller: My investment returns have consistently beat three point seven five. I think the recast makes sense.
+Agent: Given that your interest rate is well below current market rates and your returns have exceeded it, your reasoning is solid. How would you like to proceed?
+Caller: Let's get the process started. How do I formally request it?
+Agent: I'll flag your account for a recast review and note the amount of the recent principal payment. You'll receive a formal recast application by mail or through the portal within five business days. You'll complete that, include the three hundred and fifty dollar fee, and return it to us.
+Caller: Can I pay the fee now over the phone to speed things up?
+Agent: The fee is collected with the application submission rather than upfront, so you'd pay it when you return the signed application.
+Caller: Understood. My request reference number?
+Agent: Your recast request reference is RC-7-7-4-0-2-2-1.
+Caller: RC-7-7-4-0-2-2-1. Perfect. Monique, this has been exactly the conversation I was hoping for. You laid it all out clearly.
+Agent: Thank you, Stuart. It sounds like you've thought this through carefully. The recast seems like a good fit for your situation. I'll get this process rolling on our end.
+Caller: Great. Is there anything else I should know?
+Agent: One last thing — if you continue making extra principal payments after the recast, that's perfectly fine and would help you pay the loan off early even though the minimum payment is lower. So you retain all the flexibility you want.
+Caller: Noted. That's actually important. Thank you.
+Agent: Absolutely. Congratulations again on the business sale. Have a great day.
+Caller: Thanks, Monique. You too. Goodbye.
+Agent: Goodbye.

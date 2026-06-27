@@ -1,0 +1,63 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Rachel, how can I help you today?
+Caller: Hi, my name is Marcus Webb, loan number 3341-108-774. I had a house fire six weeks ago and I'm calling because I still need to make mortgage payments on a house I can't live in and I have no idea what I'm available for help-wise.
+Agent: Marcus, I'm so sorry. Are you and your family safe?
+Caller: Yes, everyone is safe. My wife and two kids are staying with my in-laws. We're okay physically.
+Agent: I'm relieved to hear that. Let me pull up your account and we're going to go through everything systematically. Property address and date of birth?
+Caller: 1771 Oakdale Street, Nashville, Tennessee 37209. Date of birth September 22, 1983.
+Agent: Thank you. Got your account. And last four of Social for verification?
+Caller: 3348.
+Agent: Verified. Marcus, let me ask the key questions. Is the property currently habitable?
+Caller: No. The fire started in the kitchen and spread to most of the main floor and part of the second floor. The fire marshal declared it uninhabitable. Structural engineers have been through. The estimate is about $280,000 to $320,000 in repairs.
+Agent: And you have homeowner's insurance?
+Caller: I had insurance. It's a nightmare. My insurer is State Farm. They've opened a claim — claim number SF-881-774219. But six weeks in they haven't given me a determination yet. They're still investigating because they have questions about the fire origin. I haven't received a single dollar.
+Agent: Is there any suggestion of dispute about the claim? Are they questioning coverage?
+Caller: My public adjuster — I hired a public adjuster, which was the best decision I've made — says the insurer is doing routine investigation but there's nothing to indicate they'll deny it. But it could be another four to eight weeks before they make a payment determination.
+Agent: So potentially ten to fourteen weeks total from the fire to any insurance money.
+Caller: Right. And I'm paying rent at my in-laws — $1,400 a month they're charging us to stay there, which I understand — they've got their own expenses. And my mortgage is $1,889 a month. On a house I can't go into.
+Agent: So you're paying $3,289 combined for housing on a single income while everything is resolved.
+Caller: And I'm a firefighter. I make about $5,100 a month take-home. It's more than some people, but not enough for this.
+Agent: I understand. Marcus, your situation clearly qualifies as a natural disaster hardship. We have specific programs designed exactly for this. Let me walk through them.
+Caller: Please. Because I've been paying the mortgage even though I thought that might be negotiable.
+Agent: It's actually very notable that you've stayed current. First and most immediately — you likely qualify for a natural disaster forbearance. Federal and investor guidelines typically allow for forbearance of up to 12 months in natural disaster situations where the property is uninhabitable. Under the forbearance, your monthly payment is paused — no payments required. No late fees, no credit reporting of new delinquencies. No foreclosure action.
+Caller: When you say paused — it doesn't disappear, right?
+Agent: Correct. The months you don't pay during forbearance accumulate and are resolved when the forbearance ends. Typically with a natural disaster, the resolution is a deferral — the missed amounts are added to the end of your loan with no interest.
+Caller: So if I take a six-month forbearance, I owe the same as I do now, just stretched out?
+Agent: Essentially yes. You'd be adding approximately $11,334 — six payments of $1,889 — to the back of your loan as a non-interest-bearing amount. Your monthly payment would return to $1,889 when you resume. It's not a forgiveness, but it's a bridge.
+Caller: Six months feels like it should be enough. If insurance pays, I'd use part of that to get current.
+Agent: That's actually common in disaster cases. Insurance proceeds often help resolve the forbearance. Speaking of which — I need to note something important. Your loan agreement requires insurance proceeds above a certain threshold to be managed through us as a cosigner on the insurance check.
+Caller: My adjuster mentioned that. He said any check over $10,000 from the insurer would be co-payable to Meridian Mortgage?
+Agent: That's correct. It's standard — the lender has an insurable interest in the property, so we're named on large loss checks. When you receive the insurance check, do not deposit it on your own — call us and we'll walk you through the loss draft process.
+Caller: What does that process look like?
+Agent: We receive the check, we endorse it together with you, and the funds go into a monitored account. Depending on the repair amount and the loan-to-value situation, we may release funds in draws as repairs progress, or in some cases we can release directly for repairs. Our loss draft team manages that process and they're experienced in disaster situations.
+Caller: So you hold the insurance money?
+Agent: We co-manage it. It's a consumer protection as much as anything — it ensures the repair funds actually go toward repairing the property rather than other uses. For most borrowers it goes smoothly.
+Caller: Okay. I'll cross that bridge when we get to the check.
+Agent: Smart approach. Now — your immediate situation. I'm opening a natural disaster forbearance application right now. I'll flag the account with the declared uninhabitable status and the open insurance claim. Your case number is HP-2025-031801.
+Caller: What do I need to provide?
+Agent: For a natural disaster forbearance, I need the fire marshal's declaration — you mentioned they declared it uninhabitable — a copy of your homeowner's insurance claim number, which you gave me, and a brief hardship statement from you. That's it. The nature of the hardship — fire, uninhabitable home — is documented by the official declaration.
+Caller: I have the fire marshal's letter. I can upload everything tonight.
+Agent: Document portal is meridianmortgage.com/hardship-upload. Reference HP-2025-031801 on every page. Once the documents are received, I'm targeting a three to five business day turnaround given the straightforward nature of the hardship documentation.
+Caller: And when does the forbearance start?
+Caller: I'd request it start retroactively from your most recent payment due date — that way if you've already paid this month and want a refund applied to the forbearance, we can do that.
+Agent: My June payment I made — if the forbearance can start June 1st, can I get that June payment back?
+Agent: It can be applied as a credit that offsets the first deferred amount or returned to you. You'd make that choice when we formalize the agreement.
+Caller: I think I'd rather have it back given I'm paying rent elsewhere.
+Agent: Noted. Credit refund preference for June payment. That'll be part of the forbearance agreement you receive.
+Caller: What about FEMA? Do I need to contact them?
+Agent: FEMA registration is separate from our program and I strongly recommend doing it if you haven't already. Individual disaster assistance from FEMA can provide rental assistance, repair assistance, and other immediate needs. Go to disasterassistance.gov or call 1-800-621-3362. Even if you're not sure you qualify, register.
+Caller: I haven't done that yet. I'll do it tonight.
+Agent: Do it first thing. There are application deadlines and you want to get in the system. A public adjuster is great for the insurance side but FEMA is a separate track.
+Caller: My adjuster didn't mention FEMA. I'll call them tonight.
+Agent: Also worth knowing — if your property is in a county that's been declared a federal disaster area, that triggers additional mortgage protections automatically. I'll check — Nashville, Davidson County. Give me a moment.
+Caller: There was definitely a storm season this spring but our fire was a kitchen fire, not storm related.
+Agent: I see. If it's not related to a federally declared disaster event, FEMA individual assistance may be more limited but still worth registering for. The uninhabitable status and documented fire loss are what we'd document on our side regardless.
+Caller: Got it. And we're renting — the in-laws are charging $1,400 a month. Is there any way to document that as a hardship expense in the mortgage case?
+Agent: I can include it in your hardship expense documentation. It doesn't change the forbearance terms but it provides fuller context for the review and any subsequent decisions about assistance extensions.
+Caller: Okay. I feel like I have a clearer picture now. The forbearance application, upload the fire documents, call FEMA tonight, and wait for insurance.
+Agent: That's exactly the roadmap. Case HP-2025-031801. Your email on file is mwebb.nash at yahoo dot com — is that right?
+Caller: Yes.
+Agent: You'll receive the acknowledgment and document checklist today. Is there anything else?
+Caller: No. You've been really helpful, Rachel. Thank you. Honestly I was dreading this call.
+Agent: I understand. You're dealing with a lot. Focus on your family — we'll handle this part on our end. Take care, Marcus.
+Caller: Thank you. Goodbye.
+Agent: Goodbye.

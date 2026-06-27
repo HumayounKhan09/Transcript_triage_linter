@@ -1,0 +1,48 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, this is Jennifer, how can I assist you today?
+Caller: Hi Jennifer. My mother passed away in March and I've been working with the probate court. I'm the executor of her estate. She had a mortgage on her home and I need to understand what my options are going forward.
+Agent: I'm so sorry for your loss. This is a situation we do handle and I want to make sure you have all the information you need. Let me look up the account. Do you have the loan number or the property address?
+Caller: I have the address. It's 118 Maple Glen Drive, Richmond, Virginia.
+Agent: And can I get your name and your relationship to the account?
+Caller: My name is Frank DiMartino. My mother was Eleanor DiMartino. I'm not on the account — she was the sole borrower. I'm the executor of her estate.
+Agent: Thank you Frank. I do need to let you know that because you're not on the account, I'm limited in what account details I can share with you without verifiable documentation of your executor status. But I can discuss the general options and process. Is that okay?
+Caller: Yes, I understand. My attorney told me I'd need to provide letters testamentary. I have those.
+Agent: Perfect. Letters testamentary are exactly what we need. Once you provide those, we can formally recognize you as the estate's authorized representative and have a full conversation. Can I ask — do you have a sense of the loan balance and whether payments have been made?
+Caller: The balance according to the last statement I found in her files is about one hundred and sixteen thousand. She was very current — I found statements going back years and she never missed a payment.
+Agent: Good to know. And the options you're considering for the property?
+Caller: That's what I want to talk about. My siblings and I are trying to figure out the best path. The house could be worth around two hundred and fifty to two seventy-five. There's significant equity. We don't know if we should sell it, if one of us should keep it, or if there's some other option.
+Agent: Those are really the three main paths. Let me walk through each one.
+Caller: Please.
+Agent: Option one: sell the property through the estate. The estate would sell the home, pay off the mortgage balance at closing out of the proceeds, and distribute the remaining equity to the beneficiaries according to the will. This is the cleanest and most common path. The mortgage gets paid off, the lien is released, and the estate is settled. Approximate net equity after paying off the mortgage would be around one hundred and thirty to one hundred and fifty-five thousand, depending on sale price and selling costs.
+Caller: That seems straightforward. What's option two?
+Agent: Option two is one of the beneficiaries takes ownership of the property. This is sometimes called a transfer. The heir would take title to the property and could either pay off the mortgage or assume it, depending on the loan type and their eligibility.
+Caller: What does assuming it mean?
+Agent: A loan assumption means the inheriting party takes over the mortgage with the same terms — same rate, same balance, same payment. Federal law under the Garn-Saint Germain Act specifically protects heirs from having a due-on-sale clause invoked when a property is inherited. So even if the mortgage has a due-on-sale clause — which most do — it cannot be enforced when a relative inherits and intends to live in the home.
+Caller: So if my brother wanted to move in and take over the mortgage, the bank can't demand full repayment?
+Agent: Correct, as long as it's an heir who intends to occupy the property. He would still need to qualify or meet any assumption requirements, and the loan terms would be reviewed. But the lender cannot call the loan due simply because of the transfer by inheritance.
+Caller: What's the current interest rate on her mortgage?
+Agent: I'm not able to share specific account details until I can verify your executor status. But I can tell you that if the existing rate is favorable — lower than current market rates — assumption might be quite attractive.
+Caller: I think she got this loan in 2016 or 2017. Rates were pretty low then.
+Agent: If the rate is from that era, it could be meaningfully below current rates, which would make assumption very attractive for an heir who qualifies.
+Caller: What's option three?
+Agent: Option three is a hybrid — an heir takes title but then gets new financing. They'd pay off the existing mortgage with a new mortgage in their own name. This gives them a fresh loan rather than assuming the old one, but they'd be subject to current rates. That might make sense if they don't qualify for the assumption, or if they want different loan terms.
+Caller: What about if none of us want to keep the property but we also can't sell quickly? Is there a way to keep the mortgage going during probate?
+Agent: Yes, and this is actually something we work with executors on regularly. During the probate process, the estate can continue to make mortgage payments to keep the loan current. The estate is allowed to make payments from estate funds. If the estate is cash-constrained, we can sometimes work out a short-term arrangement.
+Caller: How long does probate take in Virginia?
+Agent: I can't give legal advice on probate timelines — that's really a question for your attorney. But generally Virginia probates can take six months to over a year depending on complexity. The key is that the mortgage needs to continue being serviced during that period.
+Caller: Is the mortgage current right now?
+Agent: I'm not able to confirm specific payment status without authorization. I'd encourage you to check the most recent statement in her files and call us back once you have your letters testamentary to confirm.
+Caller: Okay. What do I need to send you once I have those documents?
+Agent: Your letters testamentary — a certified copy, not just a photocopy — along with a copy of the death certificate. You can send those to our estate administration team. I'll give you their contact information. Address: Horizon Mortgage Servicing, Estate Administration, P.O. Box 81204, Dallas, Texas 75381. Or you can bring originals to any branch and they'll make certified copies.
+Caller: Is there an email or online upload option?
+Agent: For estate documents, we do require physical copies initially because of the legal nature of the documents. Once you're in the system as the executor, future communication can happen online.
+Caller: Understood. What's my timeline concern? Like, when does this become urgent?
+Agent: The most time-sensitive issue is keeping the mortgage payments current. As long as payments are being made, you have time to work through the estate process and make a thoughtful decision. The urgency increases only if payments stop, which could trigger delinquency.
+Caller: I'll make sure a payment goes out this month from the estate account.
+Agent: That's the right call. And when you call back after sending in the documents, ask specifically for the estate administration team — they're a specialized group who handle exactly this type of situation and can walk you through everything with full access to the account.
+Caller: That's really helpful. One more thing — if my brother does want to assume the loan, how long does that process take?
+Agent: Typically a loan assumption for an heir takes four to eight weeks. It involves paperwork confirming the relationship and intent to occupy, a review of the loan terms, and a formal transfer of responsibility. Your brother wouldn't need to go through full mortgage underwriting, but there is a process.
+Caller: Good to know. Thank you Jennifer. This has really helped me understand what we're dealing with.
+Agent: Of course, Frank. I'm sorry again for your loss. Your mother left you a solid asset and it sounds like you're being very thoughtful about handling her estate.
+Caller: Thank you. She was very responsible and I want to honor that. I'll call back once I have the letters testamentary.
+Agent: We'll be ready for you. Take care.
+Caller: Thank you. Goodbye.

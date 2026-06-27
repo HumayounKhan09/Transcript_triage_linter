@@ -1,0 +1,47 @@
+Agent: Thank you for calling Heritage Mortgage Services. This is Marcus. Can I pull up your account with your loan number?
+Caller: 6612-3377-04. Deborah Haynes.
+Agent: Thank you Ms. Haynes. Can I verify your date of birth and property address?
+Caller: April 22, 1968. Property is 9981 Crescent Park Road, Nashville, Tennessee 37209.
+Agent: Perfect. I have your account open. How can I help you today?
+Caller: I've been having some financial difficulties and my mortgage is past due. My regular payment is $1,580 a month and right now I can realistically only pay $960 a month — that's about 60% of my payment. I want to know if there's any arrangement I can get into where I can pay that amount for a while.
+Agent: Ms. Haynes, I appreciate you calling in proactively to discuss this. It's much better to have this conversation now rather than after the situation gets worse. Let me ask you a few questions to understand your situation better and see what options we can document for you.
+Caller: Okay.
+Agent: How long have you been having the difficulty, and what's the nature of it? Is this a job change, medical issue, temporary income reduction?
+Caller: I had a medical situation in March. I had surgery and was out of work for eight weeks. I'm back to work now but I had to use all my savings and rack up some credit card debt during the recovery period. My income is the same as before, but I have a lot of extra debt payments now that have squeezed my budget.
+Agent: I understand. So your income has returned to its prior level but your monthly obligations have increased due to the medical debt and credit card balances. How many payments are you currently past due?
+Caller: I missed April and May completely. I made a partial payment in June — I sent $960 — so I've missed $2 payments plus underpaid June by $620.
+Agent: So your total past-due amount is April $1,580, May $1,580, and the June shortfall of $620 — that's $3,780. Is there any late fee accrual? Let me check. I see two late fees of $79 each, totaling $158. So the total delinquency is approximately $3,938.
+Caller: And there's no way I can pay that lump sum right now.
+Agent: Right, I understand. Let me walk you through what options are available and what can be formally documented. First, there's a formal repayment plan. This would involve paying your full regular payment of $1,580 plus an additional amount each month toward the past due. For example, over 12 months, you'd add $328 a month to your $1,580, paying $1,908 total. Over 6 months, it would be $656 extra, paying $2,236. At your stated capacity of $960, neither of those options works because $960 is less than your base payment.
+Caller: Right. I can't even cover the regular payment right now.
+Agent: So a standard repayment plan is not the right fit. The second option is a forbearance. A forbearance would pause or reduce your required payment for a temporary period — usually 3 to 6 months — while you stabilize your finances. At the end of the forbearance, you'd need to repay the deferred amount through one of the exit options: lump sum, repayment plan, deferral, or modification.
+Caller: How does a forbearance work exactly? If I'm only paying $960, is that okay or do I have to pay nothing?
+Agent: Forbearance can be structured as a reduced payment arrangement. Given your situation — medical hardship, temporary — we can document a reduced payment forbearance of $960 per month for up to six months. This is sometimes called a partial forbearance. You pay $960 per month, the remaining $620 per month accrues as a deferred amount. At the end of six months, you'd have accumulated $3,720 in deferred amounts from the six months of partial payments, plus your existing $3,938 past due, for a total deferred amount of approximately $7,658.
+Caller: And then what? I have to pay $7,658 all at once?
+Agent: No. At the end of the forbearance, you'd review your financial situation and choose an exit path. If your finances have improved, you could set up a repayment plan. If they haven't, we'd look at a modification. In the best case scenario, you'd apply for a COVID deferral if still eligible, or a standard deferral under current programs, which would move that balance to the end of your loan with no additional interest.
+Caller: My hardship isn't COVID-related. Does that matter?
+Agent: The COVID-specific deferral program has largely ended, but there are other deferral options depending on the investor who owns your loan. Let me look at who owns your loan. I see your loan is owned by Ginnie Mae — your loan is an FHA loan through HEW. FHA has its own loss mitigation waterfall which includes an FHA special forbearance and a loan modification called an FHA-HAMP modification or more recently the FHA 40-year modification.
+Caller: What's the 40-year modification?
+Agent: The FHA 40-year modification is a relatively recent program that allows servicers to extend the loan term to 40 years to achieve a meaningful payment reduction. Given that you're at $1,580 currently and your balance is — let me check — $248,000 at a rate of 5.875%, a 40-year modification might bring your payment down to approximately $1,340 to $1,380. That's still above your $960 target but much closer.
+Caller: Getting it under $1,200 would really help. Can they get it that low?
+Agent: With FHA programs, the rate can also be modified as part of the modification. The FHA Loss Mitigation waterfall first tries to achieve a 25% payment reduction by extending the term, then adjusts the rate if needed. Starting from your $1,580 payment, a 25% reduction would target $1,185. That's achievable in some cases depending on current FHA program rates and your balance.
+Caller: That would be manageable for me.
+Agent: Let me document what we can do today. Here's what I recommend. I can put you on an informal reduced payment plan right now — documenting that you're paying $960 per month while we initiate a formal forbearance and start you on an FHA loss mitigation application. The $960 payments will be accepted and applied to your account, with the shortfall documented as deferred. This gives you breathing room while the modification application is reviewed.
+Caller: Will my credit take a hit?
+Agent: I want to be honest with you. Because you're currently past due, those missed April and May payments may already be reporting to credit bureaus. An active forbearance is typically reported differently — some servicers report it as "in forbearance" which is less damaging than "past due." During an active loss mitigation review, we typically pause negative reporting. I'll note in your file that you're in an active loss mitigation review.
+Caller: Okay. What do I need to do to start the modification application?
+Agent: To start the FHA loss mitigation review, you'll need to complete a Borrower Assistance Form and submit supporting documentation. The documents needed are your two most recent pay stubs, your 2024 federal tax return, two months of bank statements, a hardship letter describing your medical situation, and any documentation of medical expenses or income loss such as the employer letter showing your leave period.
+Caller: I have most of those. I'll need to write the hardship letter.
+Agent: The hardship letter doesn't need to be long. Just a brief statement of what happened — surgery in March, eight weeks out of work, savings depleted, working to recover — and your commitment to maintaining payments once a sustainable plan is established. It can be one page.
+Caller: Okay. Where do I submit everything?
+Agent: You can upload documents to our online portal at heritagemortgageservices.com/lossmitigate, or fax to 1-800-442-5521, or mail to Heritage Loss Mitigation Center, 3300 Financial Way, Nashville, Tennessee 37215. Once all documents are received, the review takes 30 days.
+Caller: And during those 30 days I keep paying $960?
+Agent: Yes. Keep making $960 payments monthly. I'm documenting today that $960 is your current agreed partial payment while your loss mitigation application is under review. Your next payment would be due July 1st. Make that $960 payment on time.
+Caller: Got it. And will someone contact me during the 30-day review?
+Agent: You may receive a request for additional documents if anything is missing. You should also receive a written acknowledgment within five business days that your application was received. If you don't hear anything within two weeks of submission, call us back to confirm your documents were received.
+Caller: This is really helpful. I feel like there's actually a path here.
+Agent: There is absolutely a path, Ms. Haynes. You're being proactive and that makes all the difference. Let me give you your loss mitigation case reference number. It's HM-2026-06-7741. Use that when you call back. Is there anything else I can answer for you?
+Caller: I think I'm good. I'll get those documents together this week.
+Agent: Perfect. The sooner the better. Thank you for calling Heritage Mortgage Services.
+Caller: Thank you, Marcus. Goodbye.
+Agent: Goodbye, Ms. Haynes. Take care.

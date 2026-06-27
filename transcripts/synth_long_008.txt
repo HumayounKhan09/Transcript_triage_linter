@@ -1,0 +1,73 @@
+Agent: Thank you for calling Keystone Mortgage Servicing, this is Sandra, how can I help you today?
+Caller: Oh thank god someone answered. My name is Paulette Diaz, loan number 376519. I just found out — I just got a certified letter in the mail today — it says there's a foreclosure auction on my house in 21 days. Is that right? That can't be right. Please tell me that's wrong.
+Agent: Ms. Diaz, I want you to take a breath. I'm pulling up your account right now and I'm going to find out exactly what's happening. Can you verify the last four of your social and your property address?
+Caller: 2-2-0-9. The address is 5502 Magnolia Hollow Road, Memphis, Tennessee 38118.
+Agent: I have your account. Ms. Diaz, I can see that your loan is 218 days past due. That's over seven months of missed payments. And I do see that the account was referred to our foreclosure department. The auction date showing in our system is November 16th.
+Caller: That's in 21 days. I didn't — nobody told me this was happening. I mean, I got some letters but I didn't understand them. I've been going through a terrible time. My father died in March and I had to go back to Alabama to handle his estate, and I was just — I wasn't opening mail. I know that sounds terrible.
+Agent: It doesn't sound terrible. Grief does that to people. But I have to be honest with you: this is a serious situation and we have a limited window. What I want to do right now is look at every possible option for stopping or delaying that auction date while you find a longer-term solution. Can you work with me through this?
+Caller: Yes. Yes, please. I don't want to lose my house. I've been there for nine years.
+Agent: Okay. First, let me make sure I understand your current situation. Are you currently employed or receiving income?
+Caller: I'm working. I work at a dental clinic as a billing coordinator. I make about $46,000 a year. I've been working the whole time, I just... I stopped paying the mortgage. It's hard to explain. After my dad died, I just kind of stopped functioning. I kept going to work, but at home I wasn't doing anything. I wasn't paying bills.
+Agent: I understand more than you might think. What you're describing sounds like it could be complicated grief. Have you talked to anyone about it?
+Caller: I started seeing a therapist last month. That's partly why I'm finally opening my mail.
+Agent: Good. I'm going to document the hardship as bereavement, situational depression, and resulting financial neglect — that's the technical language, but it's meant to convey what you've described. Now, let me walk you through your options because we have 21 days and each option has different timelines. Some are possible, some may not be, but I want you to understand all of them.
+Caller: Okay.
+Agent: Option one is reinstatement. This means paying everything you owe to bring the loan fully current. I'm calculating your delinquency: 7 months at $1,840 regular payment, plus late fees, plus any foreclosure-related fees that have been added. Let me add this up. Seven payments at $1,840 is $12,880. Late fees — I see six months of $83 fees, that's $498. Foreclosure referral fees — this depends on stage, I see title fees of $650 and attorney fees of $1,240. So your total reinstatement amount is approximately $15,268.
+Caller: I don't have $15,000.
+Agent: Do you have any access to any significant funds? Retirement account, family member who could help, credit card with available credit?
+Caller: I have a 401k through my employer. I think there's about $24,000 in it.
+Agent: That's potentially significant. Taking a hardship withdrawal from a 401k typically results in a 10% early withdrawal penalty plus income tax on the amount withdrawn, if you're under 59 and a half. Are you under 59 and a half?
+Caller: I'm 43.
+Agent: So if you withdrew $15,268, the 10% penalty would be $1,527, and you'd owe income taxes on the full $15,268 at your marginal rate. At $46,000 income plus $15,268 withdrawal, you'd likely be taxed at roughly 22%, which is about $3,359. So the effective cost of the $15,268 is closer to $20,154 after penalties and taxes. That's still less than $24,000, so it is mathematically possible.
+Caller: But that's my retirement. I don't want to drain my retirement.
+Agent: I completely understand. That's an option, not a recommendation. Some 401k plans also allow you to take a loan against the balance — that's different from a withdrawal. A 401k loan doesn't trigger a penalty or taxes if repaid, and you repay yourself with interest. You'd want to check if your plan allows loans and what the maximum amount is.
+Caller: I've heard of that. I don't know the details of my plan.
+Agent: I'd encourage you to call your HR department or plan administrator today — this afternoon if possible — to ask whether a 401k loan is available and how quickly funds could be disbursed. Sometimes that can be done within a week. Now let me tell you the other options because we may not need $15,268 if we go a different route.
+Caller: Okay.
+Agent: Option two is a forbearance with immediate effect. If I can get loss mitigation to approve an emergency forbearance, that would halt the foreclosure proceedings. Dual tracking protections under federal law — specifically Regulation X, which implements the Real Estate Settlement Procedures Act — require that once a complete loss mitigation application is submitted, foreclosure actions must be paused while the application is reviewed.
+Caller: So if I apply for help, they have to stop the auction?
+Agent: The law prohibits completing a foreclosure sale while a complete loss mitigation application is under review. The auction cannot be held while the review is pending if the application was submitted more than 37 days before the scheduled sale. Your auction is in 21 days, which is under that threshold.
+Caller: So the 37-day rule doesn't protect me.
+Agent: It's a complicating factor, but not a complete bar. The servicer still has a general obligation to consider loss mitigation, and many foreclosure defense attorneys and HUD counselors know how to use procedural tools to create additional time. I want to be honest with you: the 21-day window is tight and we may not be able to stop the auction through the application process alone.
+Caller: What else is there?
+Agent: Option three is a short sale. A short sale is when you sell the house, typically for less than you owe, with our approval. But it takes time — usually 60 to 120 days to list, find a buyer, and close. With 21 days, a short sale is not feasible as a means to stop the auction.
+Caller: What about if I find a buyer really fast?
+Agent: If you found a buyer immediately, received an offer, and submitted that to us, we might be able to postpone the auction pending short sale review. It's unusual, but it can happen. How much is your home worth?
+Caller: I think around $185,000 based on what houses sell for on my street.
+Agent: Your outstanding balance including delinquency and fees is approximately $157,468. So you have approximately $27,000 in equity. If you sold at $185,000, paid off the $157,468, and paid real estate commissions of roughly 5 to 6%, you'd net about $16,000 to $18,000 to take with you.
+Caller: I don't want to sell. But I'm hearing you that if it's that or foreclosure, I'd rather sell.
+Agent: Understood. That's an important distinction and it makes sense. Option four is a deed-in-lieu of foreclosure. You voluntarily sign the house over to us in exchange for us forgiving the debt and the deficiency. This avoids foreclosure on your record — the credit impact is somewhat different and often slightly less severe — and it can be processed faster than a short sale in some cases. However, you'd be giving up your $27,000 in equity.
+Caller: I wouldn't do that. Not if I have equity.
+Agent: That's the right thinking. You should not pursue a deed-in-lieu when you have positive equity. Option five — and I want to mention this even though it's a drastic step — is a bankruptcy filing.
+Caller: Like declaring bankruptcy?
+Agent: A Chapter 13 bankruptcy filing creates what's called an automatic stay, which immediately halts all collection activity including foreclosure proceedings. Even if your auction is scheduled for 21 days out, a bankruptcy filing the day before the auction would stop it. The Chapter 13 plan would then allow you to repay your arrears — the $15,268 — over three to five years through a court-approved plan, while resuming regular mortgage payments.
+Caller: Would I have to declare all my debts?
+Agent: Chapter 13 is a reorganization — it includes all your debts in the plan. It is a significant step with real consequences for your credit and financial life, but it is a legitimate tool for preventing foreclosure when other options have run out. I'm not advising you to file bankruptcy — I'm telling you it exists and works for exactly this type of situation.
+Caller: My brother filed bankruptcy a few years ago. He had to meet with a trustee and it took years.
+Agent: Yes, Chapter 13 is a three-to-five-year process with regular payments to a trustee who distributes to creditors. It's not simple, but it is effective at stopping foreclosure immediately when there's no other way.
+Caller: What do I do first? Like, today. Right now. What's the first thing I should do?
+Agent: Right now, on this call, I'm initiating an emergency loss mitigation intake on your account. Even though the 37-day window has passed, submitting an application creates a formal record that you sought assistance, which is relevant for any subsequent legal proceedings. I'm also flagging your account for senior servicer review given the 21-day timeline — that escalation sometimes prompts a postponement evaluation.
+Caller: Can you postpone the auction?
+Agent: The servicer has discretion to request a postponement from the foreclosure attorney. It's not guaranteed and it's not something I control directly — it goes to our foreclosure department. But I'm going to send an internal referral right now requesting that the foreclosure department evaluate a 60-day postponement to allow loss mitigation review to proceed. That referral is being sent as we speak.
+Caller: Oh my god. Thank you.
+Agent: Now, in parallel with what I'm doing, here's what you need to do today. Call a HUD-approved housing counselor immediately. The number is 1-800-569-4287. Tell them you have a foreclosure auction in 21 days and you need emergency assistance. They have experience with exactly this and sometimes have contacts with foreclosure prevention funds.
+Caller: Are there programs that can give me money to pay the $15,000?
+Agent: Yes, actually. There are state-level Homeowner Assistance Fund programs — the HAF program — funded through the American Rescue Plan Act. Tennessee has a HAF program. These programs can provide grants or forgivable loans to bring mortgages current. I don't know the current funding status of Tennessee's program, but the HUD counselor will know and can help you apply immediately.
+Caller: How long does HAF take?
+Agent: That varies — some applicants have received funds within two to four weeks. It's not guaranteed in 21 days, but it's worth applying immediately while other options are pursued simultaneously.
+Caller: What else?
+Agent: Call a foreclosure defense attorney for a free consultation. Many take calls same-day for auction situations. They can evaluate whether there are any procedural defenses — errors in the foreclosure notice, timeline violations — that could create additional delay. This doesn't cost you anything for an initial consultation and it gives you a legal expert in your corner.
+Caller: I don't know any attorneys.
+Agent: The Tennessee Bar Association has a referral service. The number is 1-800-342-9748. Tell them you need a foreclosure defense attorney for an emergency situation.
+Caller: Okay. Okay, I'm writing all of this down. HUD, 1-800-569-4287. Tennessee Bar, 1-800-342-9748. Call HR about the 401k loan. You're sending an internal referral for postponement.
+Agent: And call us back by end of day tomorrow to check the status of the postponement request. You can ask for the foreclosure department directly — extension 2800 — and reference your loan number 376519.
+Caller: What's the worst-case scenario? Like if none of this works and the auction happens in 21 days?
+Agent: I want to be honest with you. If the auction happens, you lose the house. There is a redemption period in Tennessee — you have two years after the sale to redeem the property by paying the full sale price plus interest, but that's rarely practical. After the redemption period, the sale is final.
+Caller: Two years. That's something at least.
+Agent: It is. And practically speaking, even after an auction, you're not removed from the house immediately — there's an eviction process that takes additional weeks or months. But I don't want you to count on that because the goal is to prevent the auction entirely.
+Caller: Sandra, I feel like I was drowning when I called and now I at least have a life raft. I know it's still bad but I feel like I can do something.
+Agent: That's exactly how you should feel, because you can do something. You called at the right time. 21 days is short but it's not nothing. You have equity, you have income, you have options. Go make those calls right now.
+Caller: I'm going to start the moment I hang up. Thank you. Seriously, thank you.
+Agent: Good luck, Ms. Diaz. Please call us back by tomorrow. Is there anything else before you go?
+Caller: No. I'm going to call HUD right now. Goodbye.
+Agent: Goodbye. Go.

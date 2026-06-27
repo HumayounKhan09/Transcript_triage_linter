@@ -1,0 +1,53 @@
+Agent: Thank you for calling Summit Lending Group, this is Tom, how can I help you today?
+Caller: Hi Tom. My name is Brian Nakashima. I own a rental property in addition to my primary home. I want to do a cash-out refinance on the rental to pull out some equity for improvements and maybe buy another rental. I wanted to understand the process and whether you guys can help with investment property refinances.
+Agent: Hi Brian, investment property cash-out refinances are something we do handle, and there are some specifics that differ from a primary residence refinance — some important differences in rates, LTV limits, and qualification. Let me pull up any existing account first, or are you calling as a new customer?
+Caller: My primary home loan is with you. The rental is with a different lender right now. I'm open to bringing the rental to you guys.
+Agent: Got it. Let me pull up your primary home account to start — that'll help me understand your overall financial picture. Can I get your loan number or address for the primary?
+Caller: The primary is at 3308 Willowbrook Drive, Sacramento, California, 95864. Loan number BN-441-228-5501.
+Agent: And for verification — last four of your Social and date of birth?
+Caller: Social ends in 4421, birthday September 17th, 1975.
+Agent: Thank you. Brian Nakashima, primary home balance $387,400, rate 4.25%, monthly payment $2,188. Okay, good. Now tell me about the rental property — address, current loan balance, and estimated value?
+Caller: The rental is 1441 Oak Street, Fresno, California, 93720. I owe about $142,000 on it and based on comps it's probably worth $285,000 to $295,000. It's a three-bedroom single family home. I rent it for $1,850 a month.
+Agent: So you're looking at roughly 48% to 50% LTV on the rental property — very solid equity position. That helps significantly. Let me walk you through what a cash-out refinance on an investment property looks like.
+Caller: Please do.
+Agent: The most important thing to know upfront is that investment property loans are treated differently from primary residence loans in terms of guidelines and pricing. Specifically, three things change: first, the maximum LTV you can cash-out to is lower. For a primary residence cash-out refi, you can generally go up to 80% LTV. For a non-owner-occupied investment property, the limit is typically 75% LTV. Second, the interest rate will be higher — investment property loans carry a pricing premium over primary residence loans because lenders view them as higher risk. Third, qualification is stricter.
+Caller: How much higher is the rate?
+Agent: Investment property cash-out refinances typically carry a rate that's 0.5% to 0.75% higher than a comparable primary residence loan. If primary residence cash-out rates are at, say, 7%, you'd be looking at 7.5% to 7.75% for the investment property.
+Caller: That's a notable premium.
+Agent: It is. And it factors into whether the cash-out makes financial sense. Let's look at the numbers. If your rental is worth $290,000 — splitting the difference on your estimate — 75% LTV gives you a maximum loan of $217,500. Your current balance is $142,000. So you could potentially pull out up to $75,500 in cash.
+Caller: That's actually a solid number. That would fund the improvements and part of a down payment on another rental.
+Agent: What kind of improvements are you planning on the Fresno property?
+Caller: New roof, HVAC upgrade, and kitchen remodel. Probably $35,000 to $40,000 total.
+Agent: Those are high-value improvements for a rental property — roof and HVAC especially are items that protect the asset and support higher rent. Now, let me walk through qualification.
+Caller: Yeah, what do I need to show?
+Agent: For an investment property cash-out refi, you'd need to qualify with full documentation. That means two years of federal tax returns — both personal and if you have any business entities involved — two months of recent bank statements, proof of all income sources including the rental income, and any other real estate you own will be factored into your overall debt picture.
+Caller: My rental shows income on my Schedule E.
+Agent: Right — Schedule E rental income is used, but with one important caveat. Fannie Mae and Freddie Mac guidelines typically use 75% of the gross rental income to account for vacancies and expenses, unless you can show a higher net income on your tax return that's more favorable. So $1,850 per month becomes $1,388 for qualification purposes.
+Caller: That's fine. I also have my W-2 income from my job — I'm an engineer at a tech firm, I make about $180,000.
+Agent: That's a strong income foundation. Your debt-to-income ratio will factor in your primary mortgage, the new investment property mortgage payment, and any other debts — car loans, student loans, credit cards, etc. Do you have significant other debts?
+Caller: My car payment is $650. Student loans are done. Credit cards are paid off monthly. That's about it.
+Agent: With $180,000 income plus rental income, your DTI should be very comfortable even with two mortgage payments. Let's rough-estimate the new investment property payment. If you refinance $210,000 at 7.5% for 30 years, the P&I payment is approximately $1,469 per month. That's notably higher than your current payment on $142,000, but with your income, the DTI should still work.
+Caller: Right, and the property is generating rent to offset it.
+Agent: Exactly. And lenders for investment properties look favorably on a property that has documented rental income, especially if it's been renting for a year or more.
+Caller: It's been renting for three years. Same tenant, very reliable.
+Agent: That's excellent. Multi-year tenancy shows stability. You'll want to provide a copy of the lease agreement as part of your documentation.
+Caller: What about reserves? I've heard investment property loans have reserve requirements.
+Agent: You've done your research. Yes — investment property cash-out refinances typically require you to demonstrate post-closing reserves. Fannie Mae guidelines generally require six months of principal, interest, taxes, and insurance payments in liquid reserves for each investment property you own. So for the Fresno property, if your total payment is approximately $1,700 including taxes and insurance, you'd need $10,200 in reserves.
+Caller: I have that in savings easily.
+Agent: Good. And if you own multiple rental properties — which you've indicated you're considering — reserve requirements can stack. Something to plan for as you expand the portfolio.
+Caller: What about the appraisal?
+Agent: A full appraisal is required for an investment property cash-out refinance — no streamlined options here. The appraiser will do an interior inspection and provide a report based on comparable sales. With your strong equity position, the appraisal risk is low, but it does add time — typically two to three weeks for scheduling and delivery.
+Caller: What's the timeline from application to close overall?
+Agent: For an investment property cash-out refi with a smooth file — complete documentation, no issues — you're looking at thirty to forty-five days typically. If the appraisal or title has complications, it can extend. Some lenders have done it in as little as three weeks, but I'd plan for six weeks.
+Caller: And closing costs? What am I looking at?
+Agent: Investment property closing costs are similar to primary home closing costs — origination fees, title, escrow, recording. Typically 2% to 3% of the loan amount. On $210,000, that's roughly $4,200 to $6,300. These can often be rolled into the loan if you have sufficient equity, which you do.
+Caller: This all sounds viable. How do I start?
+Agent: You'd call our investment property loan division — I can transfer you today or give you a direct number. They'll take a pre-application, pull your credit with your permission, and give you a formal rate quote and loan estimate. Credit for a pre-qualification is a soft pull, so it won't impact your score.
+Caller: Please give me the number — I'll call them this week.
+Agent: Investment property lending is at 1-800-884-5501, extension 3. Mention you spoke with Tom about a cash-out refinance on an existing investment property, single family, Fresno California.
+Caller: Got it. This has been really helpful. I wasn't sure whether you guys did investment property loans.
+Agent: We do — it's a significant part of our business. Is there anything else I can help you with today?
+Caller: I think that covers it. Thanks Tom.
+Agent: Absolutely, Brian. Good luck with the portfolio expansion.
+Caller: Thanks. Goodbye.
+Agent: Goodbye.

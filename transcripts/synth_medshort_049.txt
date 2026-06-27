@@ -1,0 +1,35 @@
+Agent: Thank you for calling Cornerstone Mortgage Services, this is Anita. How can I help you today?
+Caller: Hi Anita. My name is Timothy Hargrove. I refinanced my home about eight months ago — I got a new mortgage with a different lender — and I had a co-borrower on the original loan, my ex-wife. I was told that the refinance would take care of releasing her from the loan, but she recently told me she got a notice about the old loan. I want to make sure she's actually been released and that she's not still on the hook for my mortgage.
+Agent: Hi Mr. Hargrove. This is an important issue to clarify and I want to look into it carefully with you. Let me pull up your account information. Can I get your original loan number or the property address?
+Caller: The property address is 933 Willowbrook Drive, Denver, Colorado 80246. The old loan number with you was CS-404-88-1221.
+Agent: And your full name for verification?
+Caller: Timothy Alan Hargrove.
+Agent: Last four of your Social?
+Caller: 5576.
+Agent: Thank you. Let me pull up your account. I can see this loan shows as paid in full approximately eight months ago, which aligns with your refinance timeline. The co-borrower on the original loan is listed as — I'll verify without stating the name publicly — can you confirm the co-borrower's first name for my records?
+Caller: It was Sandra Hargrove.
+Agent: That matches what I have. The original loan is closed and paid in full. A release of liability is a different matter from a payoff — let me explain the distinction. When you refinanced, your original mortgage with us was paid off in full from the proceeds of your new loan. That means our lien on the property was released. Both you and Sandra were jointly and severally liable on our original loan, and when that loan was paid off, the obligation to us ended for both of you.
+Caller: So she's not on the hook with you anymore?
+Agent: Correct. Because the loan was paid in full — not sold, not transferred, but actually paid off — both borrowers' obligations to Cornerstone ended at payoff. There is no ongoing liability to this company for either of you.
+Caller: Then why would she have gotten a notice about the old loan?
+Agent: That's a very good question. Let me think through the possibilities. After a loan pays off, there are a few routine documents that may go out — for example, a satisfaction of mortgage notice, an escrow refund check if there was a remaining balance, or a year-end tax form like a Form 1098 that documents interest paid during the year of payoff. Any of those would go to all parties on the original loan, including a co-borrower. Were any of those possibilities mentioned in what she received?
+Caller: She said it was a tax form. A 1098.
+Agent: That explains it completely. A Form 1098 — Mortgage Interest Statement — is issued to all borrowers on a loan for the tax year in which interest was paid. Since you had the original loan active at the start of the year before refinancing, we'd have issued a 1098 to both you and Sandra showing the interest paid during that period. It's a tax document, not an indication that she still owes anything.
+Caller: So it's not a bill. It's just a tax form.
+Agent: Exactly right. It's a statement of mortgage interest paid — useful for both of you when filing taxes for that year, as it documents deductible interest. It carries no ongoing financial obligation. Sandra receiving a 1098 doesn't mean she's liable for any current or future mortgage payments.
+Caller: That's a huge relief. She was worried and so was I when she told me.
+Agent: Understandably so — an unexpected letter from a mortgage company can seem alarming. But in this case, it's a routine tax document and nothing more.
+Caller: Now, the new loan I refinanced into — she's not on that one at all. I did the new loan by myself. Does that mean she's completely free and clear of any mortgage on this property?
+Agent: Correct. If Sandra is not listed as a borrower on your new loan, she has no obligation on the new mortgage. And the old loan is paid off, so there's no obligation there either. She has no connection to any current mortgage on that property.
+Caller: Good. Now, here's a follow-up question. My attorney mentioned something called a release of liability as a separate document from the payoff. Is that something she would need? Or is the payoff sufficient?
+Agent: That's a nuanced and smart question. A formal release of liability is most commonly relevant in the context of a loan assumption — where one borrower takes over a mortgage another borrower was on — and the departing borrower wants written confirmation that they are no longer responsible. In a standard payoff scenario like yours, where the original loan is completely extinguished by new financing, both borrowers are released from the obligation by operation of the payoff itself. There isn't a separate formal release of liability document that we would issue in that circumstance.
+Caller: So the payoff itself is the release?
+Agent: Yes. When the loan is paid in full, the obligation is extinguished for both parties. Some attorneys do request a formal letter of confirmation, which we can provide. I can generate a payoff confirmation letter stating that the loan was paid in full on the specified date and that no further obligation exists. Would that be useful for Sandra's records or for legal documentation?
+Caller: Yes. Her attorney suggested having something in writing.
+Agent: Absolutely reasonable. I can generate a payoff confirmation letter that notes both borrowers by name and confirms the loan was paid in full and the lien released. That letter can be mailed or sent electronically. What address would you like it sent to?
+Caller: Can you send one to my address and one to hers? 933 Willowbrook for me, and her address is 4412 Spruce Street, Denver, Colorado 80207.
+Agent: I'll send a copy to both addresses. This will take approximately seven to ten business days to generate and mail. Is there anything else I can help you with?
+Caller: No, I think that handles it. I'll let Sandra know to watch for the letter. Thank you, Anita.
+Agent: Of course. I hope this puts both of your minds at ease. Have a great day, Mr. Hargrove.
+Caller: You too. Bye.
+Agent: Goodbye.

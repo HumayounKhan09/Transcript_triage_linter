@@ -1,0 +1,117 @@
+Agent: Thank you for calling Crestline Mortgage Servicing, this is James speaking. How can I help you today?
+
+Caller: Hello, young man. My name is Eleanor Voss. I'm 80 years old and I'm having trouble with my mortgage. I was hoping you could help me.
+
+Agent: Mrs. Voss, I'm very happy to help you. Take your time, and please tell me whatever you'd like to share. Can I pull up your account? Can you give me your address or loan number?
+
+Caller: Yes, it's 12 Covington Place, Albuquerque, New Mexico 87110. The loan number — my daughter wrote it down for me — it's 9905613.
+
+Agent: Perfect. Let me look that up. Is your daughter with you today?
+
+Caller: She's in the other room. She was going to listen in but she had to take a call. She'll join us if I need her.
+
+Agent: That's fine. I'm looking at your account now. Mrs. Voss, I see your loan originated in September 2019. The current interest rate is 9.5 percent and your monthly payment is $1,847. Is that right?
+
+Caller: Yes, that's right. And it was lower when I started. It keeps going up. That's what I wanted to talk about.
+
+Agent: I understand. Let me look at the loan type. Your loan is an adjustable-rate mortgage — an ARM. Specifically, it appears to be a 5-year ARM with annual adjustments after the initial period. Your initial rate was 5.5 percent for the first five years, and the rate began adjusting in September 2024. Each adjustment is tied to an index called SOFR plus a margin of 4.5 percent, and the cap structure allows it to increase up to 2 percent per adjustment and up to 5 percent lifetime over your start rate.
+
+Caller: I didn't really understand that when I signed. The man who sold it to me — he said the rate could go up a little but that I'd be able to refinance before that happened. He said it was normal.
+
+Agent: Mrs. Voss, I have to be honest with you — that explanation concerns me. Can I ask, what was your situation in 2019 when you took out this loan?
+
+Caller: I had a reverse mortgage, actually. And a new company — they called me on the phone — they said I was paying too much in fees and they could do better for me. I should have stayed with what I had, I think.
+
+Agent: I'm going to ask you some questions and I want you to know I'm not trying to alarm you, but I do want to understand what happened. Were you approached by phone about changing your loan?
+
+Caller: Yes. A man named Gerald called me several times. He was very friendly. Said he specialized in helping seniors.
+
+Agent: And when you signed the loan documents in 2019, did you have an attorney or family member present?
+
+Caller: No. Gerald said it wasn't necessary. He sent a notary to my home. My daughter was away that week.
+
+Agent: I see. And your current balance — let me look — you started with $198,000 in 2019. Your current balance is $201,400. You've been paying for five years and your balance has barely decreased because a 9.5 percent rate means most of your payment goes to interest. At $1,847 a month, roughly $1,590 is going to interest each month right now.
+
+Caller: That can't be right. I've paid thousands and thousands of dollars.
+
+Agent: I know it feels that way and it's painful to see. You've paid approximately $110,000 in payments over five years and your balance has gone up by about $3,400. That's the nature of a high-interest loan in the early amortization years. Mrs. Voss, I want to ask you something directly — do you think you were treated fairly when this loan was sold to you?
+
+Caller: I'm starting to wonder. I thought I was getting a good deal. Gerald said this was much better than my reverse mortgage. But I just can't keep up with these payments. I'm on Social Security and a small pension. My Social Security is $1,680 a month and my pension is $420. That's $2,100. My mortgage is $1,847. I have almost nothing left.
+
+Agent: Mrs. Voss, your mortgage payment is 88 percent of your income. That is deeply troubling. Can I put you on a brief hold — just a minute or two — while I review some information?
+
+Caller: Yes, that's okay dear.
+
+Agent: Thank you. I'll be right back.
+
+Agent: Mrs. Voss, thank you for holding. I've looked at more detail in your account and I've noted some things I want to share with you. First, on the immediate financial pressure — we do have hardship programs. At your income level and with this payment burden, you may qualify for a loan modification. I want to explore that with you. Second, I also want to mention some resources about the circumstances under which you got this loan, because some of what you've described raises concerns that go beyond a servicing issue. Can I share those with you?
+
+Caller: Yes, please.
+
+Agent: The CFPB — the Consumer Financial Protection Bureau — has a dedicated office called the Office for Older Americans. They specifically handle cases where elderly borrowers may have been targeted by unsuitable or predatory loan products. The phone number is 1-855-411-2372 and you can also reach them at consumerfinance.gov/older-americans. What you've described — being contacted repeatedly by phone, a salesman discouraging legal counsel, an in-home signing without family present — these are patterns the CFPB takes seriously.
+
+Caller: Do you think I was taken advantage of?
+
+Agent: I want to be careful about telling you definitively, because I only know what you've told me today. But I will say this: an 80-year-old borrower on a fixed income being sold a 5-year ARM at a high rate, without an attorney, without family present, by a salesperson who discouraged legal review — that warrants a closer look by people who specialize in this. You deserve to have your situation reviewed.
+
+Caller: My daughter has been saying this for years. I didn't want to believe her.
+
+Agent: Is she available now? I'd like her to hear some of this if that's alright with you.
+
+Caller: Let me get her. One moment.
+
+Caller: James, this is Mrs. Voss's daughter, Harriet Voss-Carpenter. I've been worried about my mother's loan for a long time.
+
+Agent: Harriet, I'm glad you're on. I've been going through your mother's account. I've explained the loan terms and I've shared the CFPB's Office for Older Americans resource. I also want to mention two more resources. Your state — New Mexico — has the Attorney General's Consumer Protection Division. They handle elder financial exploitation cases and can investigate licensed loan originators. You can reach them at 1-844-255-9210 or nmag.gov/consumer-protection.
+
+Harriet: We've actually been wondering if we should consult an attorney.
+
+Agent: That's worth doing. A consumer protection attorney who handles predatory lending — sometimes called a TILA attorney, for Truth in Lending Act — can review the original loan documents and determine if there were disclosure violations or improper practices when the loan was originated. Many of these attorneys take cases on contingency.
+
+Harriet: What would they look for?
+
+Agent: They'd look at whether the loan was appropriate for your mother's income — something called the ability-to-repay rule requires lenders to verify a borrower can actually repay. They'd look at whether she received all required disclosures, whether the ARM terms were clearly explained, and whether there was any misrepresentation about refinancing later. If they find TILA violations, they can pursue remedies including rescission — unwinding the loan — or damages.
+
+Harriet: I've been researching reverse mortgages too. My mother had one before and while they're not perfect, at least she didn't have a monthly payment she couldn't afford.
+
+Agent: A reverse mortgage is something worth considering again. With your mother's age and her equity — let me look — her current balance is $201,400 and comparable properties in your area suggest value around $285,000. She has approximately $83,000 in equity. At 80 years old, she would likely qualify for a Home Equity Conversion Mortgage — the federally insured reverse mortgage product. It would eliminate her monthly payment entirely and could potentially provide additional funds or a line of credit.
+
+Caller: No monthly payment? How does that work?
+
+Agent: With a reverse mortgage, instead of making payments to the lender, the loan balance grows over time using your equity. You remain in your home and the loan doesn't come due until you sell, move out permanently, or pass away. The equity in the home then repays the loan. The key risk is that equity is consumed over time, which may reduce what's left for heirs. But for someone in your situation, eliminating a payment that consumes 88 percent of your income is a significant quality-of-life improvement.
+
+Harriet: We would need HUD counseling for that, right?
+
+Agent: Correct. Before any HECM can be originated, you're required by law to complete reverse mortgage counseling with a HUD-approved counselor. That's actually a consumer protection — the counselor helps ensure you understand the product fully. You can find local counselors at hud.gov/program_offices/housing/sfh/hecm. New Mexico has approved agencies including HECM counselors in Albuquerque.
+
+Caller: Would I have to start all over with a new company?
+
+Agent: A reverse mortgage would be with a reverse mortgage lender, yes. It would pay off your current loan balance and then you'd have no monthly payment. The transition requires a new application and the HUD counseling, but it could be done.
+
+Agent: Mrs. Voss, I want to make sure you understand all your options on the table: first, a loan modification with us to reduce your current payment, which may help in the short term; second, a complaint to the CFPB and potentially the New Mexico AG about how this loan was sold; third, a consultation with a TILA attorney about potential legal remedies; and fourth, exploring a reverse mortgage with a HECM lender to eliminate the monthly payment entirely.
+
+Caller: That's a lot. Which would you start with if you were me?
+
+Agent: Honestly? I'd start with the HUD reverse mortgage counseling because it's free and educational, and it helps you make an informed decision about whether that path is right for you. I'd also file the CFPB complaint because it costs nothing and puts your situation on record. And I'd call the New Mexico AG. These things can happen in parallel.
+
+Harriet: Can we start a hardship application with you today as well, as a short-term measure?
+
+Agent: Yes. I can open a loss mitigation application today. Given your mother's income situation — $2,100 total monthly income and $1,847 payment — she clearly qualifies under hardship criteria. We'd need her most recent Social Security award letter, pension statement, and two months of bank statements. A modification might reduce her payment temporarily while she explores longer-term options.
+
+Caller: James, you've been so kind and thorough. I feel less alone with this now.
+
+Agent: Mrs. Voss, you've been taken advantage of and you deserve real help. What's happened to you is not your fault. Please do call the CFPB and please talk to your daughter about that HUD counseling. Can I send the resource information to an email address?
+
+Harriet: Yes — harrietvoss at yahoo.com.
+
+Agent: I'll send a summary of today's call with all the phone numbers and websites we discussed. I'm also opening your mother's loss mitigation application right now. Mrs. Voss, is there anything else I can do for you today?
+
+Caller: No dear. You've given me hope. Thank you.
+
+Agent: That's what I'm here for. Take good care, Mrs. Voss. Harriet, I hope things improve quickly for your family.
+
+Harriet: Thank you, James. Goodbye.
+
+Caller: Goodbye, dear.
+
+Agent: Goodbye.

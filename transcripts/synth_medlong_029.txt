@@ -1,0 +1,55 @@
+Agent: Thank you for calling Harborview Mortgage, this is Priya. Can I pull up your account?
+Caller: Sure, loan number 4499-18800.
+Agent: Thank you. And your name and last four of Social?
+Caller: Dennis Kowalski. Social is 3371.
+Agent: Got it, Mr. Kowalski. I have your account on screen. Property at 7710 Lakeshore Circle, Stockton, California. What's going on today?
+Caller: I got my annual statement and something is really wrong. I've been making my payments every single month and my loan balance is higher now than when I started. It's gone from $290,000 to $298,440 in three years. That can't be right, can it?
+Agent: Mr. Kowalski, I understand why this is alarming, but I want to explain what's happening because it's not an error. You have a negatively amortizing loan — also called a neg-am loan. This is actually how your loan was designed to work. Let me walk you through this carefully.
+Caller: I have a what? Nobody told me my loan could grow.
+Agent: I hear you, and I understand this may not have been explained clearly when you took out the loan. Let me pull up the original loan terms. I'm seeing a Pay Option ARM — a payment option adjustable-rate mortgage — originated in July 2021. Loan amount $290,000. Does that match your records?
+Caller: Yes. July 2021. I thought it was just a regular adjustable loan.
+Agent: A Pay Option ARM is a specific type of loan that gives borrowers multiple payment options each month. Looking at your loan documents, you had four payment options: a minimum payment, an interest-only payment, a 30-year amortizing payment, and a 15-year amortizing payment. Each month you choose which to make.
+Caller: I've been making the minimum payment because it was the lowest.
+Agent: That's what the statements show — you've consistently selected the minimum payment option. Here's what happens when you make the minimum payment: it's less than the amount of interest accruing each month. The difference between the interest owed and the minimum payment you made gets added to your principal balance. That's called deferred interest, and it causes your balance to grow — that's negative amortization.
+Caller: So my balance is growing because I'm not paying enough to cover the interest?
+Agent: Exactly right. Let me show you the math for a recent month. Your current rate is 7.25 percent. On a $298,000 balance, monthly interest is approximately $1,799. Your minimum payment for that period was approximately $1,180. The difference — $619 — was added to your balance as deferred interest. Multiply that over 36 months and you can see how the balance has grown from $290,000 to $298,440.
+Caller: That's $8,440 in extra debt I didn't realize I was accumulating. This feels like I was tricked.
+Agent: I understand that reaction, and I want to be straightforward with you — Pay Option ARMs were sold very aggressively in the early 2000s and again in the late 2010s. Some borrowers understood exactly what they were getting; others did not. Regardless of what happened at origination, I need to help you understand where you stand now and what your options are.
+Caller: Okay. What are the risks I'm facing?
+Agent: There are two key risks. First, your balance is growing — negative amortization means you owe more each year instead of less. Second, and this is important — your loan has a negative amortization cap. Looking at your note, the neg-am cap is 115 percent of the original balance. Your original balance was $290,000, and 115 percent of that is $333,500. When your balance hits $333,500, the loan mandatorily resets.
+Caller: What does mandatory reset mean?
+Agent: When the balance hits the neg-am cap, your minimum payment option is eliminated. The loan resets to a fully amortizing payment at whatever the current rate is at that time. Based on your current trajectory — adding roughly $7,000 to $8,000 per year — you could hit that cap in approximately four to five years.
+Caller: What would the payment be at that point?
+Agent: If you hit the cap in five years, your balance would be $333,500. At that point, assuming a rate around 7 to 8 percent depending on market conditions at the time, amortized over the remaining loan term — your loan is 30 years, so 25 years remaining — your payment could be anywhere from $2,300 to $2,600 per month. Compared to your current minimum of $1,180, that's a potential doubling of your payment.
+Caller: That's a payment shock similar to what you see with IO loans at the end of the period.
+Agent: Very similar dynamic. It's sometimes called a recast. The difference is a recast can happen before 30 years are up if the neg-am cap is triggered.
+Caller: The rate can also change, right? It's adjustable?
+Agent: Yes. Your rate adjusts monthly based on the index plus your margin. Your margin is 2.75 percent above SOFR. SOFR has been volatile — it's currently around 5.3 percent, so your rate of 7.25 is already at an elevated level compared to when you originated. If rates rise further, your interest accrual accelerates and you hit the neg-am cap faster. If rates fall, the accrual slows.
+Caller: What can I do? This feels like a ticking clock.
+Agent: You have several options. The first and most immediate is simply to pay more each month. If you pay at least the interest-only payment option, your balance stops growing. The interest-only payment right now is approximately $1,799. If you can pay that instead of the $1,180 minimum, you stop the negative amortization.
+Caller: The difference is $619 a month. That's feasible. What's the next option?
+Agent: The second option is to refinance out of this loan entirely into a stable fixed-rate mortgage. Your balance is $298,440. You said before — let me check — I don't have an estimate of your home value. Do you know roughly what it's worth?
+Caller: Maybe $320,000 based on Zillow. The Stockton market hasn't been great.
+Agent: At $320,000 value and $298,440 balance, your LTV is 93 percent. That's quite high for a refinance — most conventional refinance programs want 80 percent or lower, and even high-LTV programs typically cap at 97 percent. You're in range technically, but the terms would be challenging. You'd also need to pay mortgage insurance, and you might be limited to FHA or certain conventional high-LTV products.
+Caller: What if the home is worth less than I think?
+Agent: If the value comes in at or below the balance, you'd be underwater, which makes refinancing very difficult. That's why stopping the negative amortization immediately is so important — the longer you wait, the more your balance grows and the worse the equity position gets.
+Caller: Is there any government program for this type of loan?
+Agent: When neg-am loans were widespread in the 2008 crisis, there were programs like HAMP that specifically addressed them. Those programs have expired. Currently, the options are the standard market-based ones we've discussed, plus any modification options available through your loan's investor. Let me check the investor on your loan.
+Caller: Who is the investor?
+Agent: Your loan is in a private label mortgage-backed security trust. The modification authority is governed by the trust's PSA. Private securitizations vary widely in what modifications they'll approve. I can request a modification review, but I can't promise what options the trust allows.
+Caller: What would a modification potentially look like?
+Agent: In the best case, the trust might agree to convert the Pay Option ARM to a fixed-rate fully amortizing loan at a reduced rate — say 5 or 5.5 percent — based on current ability to pay. Your payment at 5 percent on $298,440 over 27 remaining years would be approximately $1,724. That's more than your minimum but far more sustainable than the recast trajectory.
+Caller: That would be manageable. What do I need to submit?
+Agent: A financial hardship package — income documentation, bank statements, tax returns, and a hardship letter explaining that you were unaware of the full neg-am consequences and that the loan is unsustainable. I'd also recommend working with a HUD-approved housing counselor who can help you frame the modification request persuasively.
+Caller: I want to do two things right now. First, change my payment to the interest-only option going forward. Second, open the modification inquiry.
+Agent: Both of those I can initiate today. To change your payment selection, I'll note on your account that you wish to make interest-only payments going forward. You'll need to select that option on each statement, but I'll flag it prominently. For the modification inquiry, I'll open a case — number HV-2025-DK-22517 — and you'll receive a document request package within five business days.
+Caller: What happens to my credit if I apply for a modification but I'm current on payments?
+Agent: Applying for a modification doesn't itself affect your credit. You remain current. If the modification requires a trial period, you'd make reduced trial payments, which some investors require to be made — those typically don't get reported as delinquent if they're part of an approved trial. But as long as you're making your contractual minimum payment, you're technically current.
+Caller: Good. I'm going to start paying interest-only immediately. That much I can control.
+Agent: That's the right instinct. Stopping the bleeding on negative amortization is step one. To recap: your balance is growing due to neg-am because you've been paying less than monthly interest. Neg-am cap is at $333,500 — about $35,000 away. Switching to interest-only stops growth. Modification inquiry opened at case HV-2025-DK-22517. Refinance is possible but difficult given current LTV.
+Caller: And I should talk to a housing counselor?
+Agent: Yes — HUD.gov has a directory. Look for counselors in California who have experience with ARM and neg-am loans specifically. Is there anything else today?
+Caller: No, I think I have what I need. Thank you, Priya — and I wish I'd called sooner.
+Agent: Better now than later. Have a good day, Mr. Kowalski.
+Caller: Thank you. Goodbye.
+Agent: Goodbye.

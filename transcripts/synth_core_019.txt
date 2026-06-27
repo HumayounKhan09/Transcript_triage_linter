@@ -1,0 +1,44 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, this is Kevin, how can I assist you today?
+Caller: Hi Kevin. I'm calling because I'm in a really difficult financial situation and I've been looking into the possibility of a short sale. I'm not sure if it's the right option for me but I want to understand what it is and how it works.
+Agent: I'm glad you called to ask questions before making any decisions — that's exactly the right approach. Let me pull up your account first, and then we can have a thorough conversation. Loan number or address?
+Caller: Address is 5722 Chestnut Grove Road, Baltimore, Maryland. Loan number is 638841.
+Agent: And your name and last four of your Social?
+Caller: Lorraine Dupont. Social ends in 2280.
+Agent: Thank you Lorraine. I've got your account. I can see your current balance is three hundred and forty thousand. You mentioned a short sale — can you tell me a bit about your situation and how you arrived at that option?
+Caller: Sure. So we bought at the height of the market in 2022. We paid three seventy-five. Values in my neighborhood have really come down since then. I had a real estate agent come out and she said the most she could realistically sell for is around two hundred and eighty thousand. I can't afford the payments anymore — my ex-husband and I separated and he's not contributing. I'm a teacher and I can't carry this on my own.
+Agent: I understand. That's a genuinely difficult set of circumstances — a market drop combined with a significant change in household income. Let me explain what a short sale is and then go over all the options.
+Caller: Please.
+Agent: A short sale is when we agree to accept less than the full loan balance as payment in full for the debt. So if the house sells for two hundred and eighty thousand and your loan balance is three hundred and forty thousand, the sixty thousand dollar shortfall — which is called the deficiency — would be subject to our decision about whether to forgive it, pursue it, or accept a partial payment.
+Caller: So you could still come after me for the sixty thousand?
+Agent: Potentially, yes. That's one of the key questions in any short sale negotiation, and one of the reasons you should have a HUD-approved housing counselor and possibly an attorney involved. Every short sale is different, and the outcome on the deficiency depends on the investor who owns your loan, the circumstances, and the negotiation.
+Caller: Who owns my loan?
+Agent: Let me check. Your loan is owned by Freddie Mac. Freddie Mac does have established short sale guidelines, and under their guidelines, if you complete a short sale in accordance with their program, they typically waive the deficiency. They would issue what's called a deficiency waiver.
+Caller: So I might not owe the sixty thousand?
+Agent: Under Freddie Mac's standard short sale program, if everything qualifies and you follow the process, the deficiency is generally waived. I want to be clear that I'm speaking generally — the final determination is made by the loss mitigation team that would handle your case. But Freddie Mac borrowers in genuine hardship who complete a short sale typically do receive the waiver.
+Caller: Okay. What about my credit? What does a short sale do to my credit score?
+Agent: A short sale will negatively impact your credit. A short sale typically shows up on your credit report and can stay there for seven years. The impact is similar to a foreclosure in terms of the credit hit, though some lenders view a short sale slightly more favorably than a foreclosure because it shows you worked with the lender rather than just walking away.
+Caller: How does it compare to just stopping payments and letting foreclosure happen?
+Agent: Both are serious negative events. Foreclosure is generally considered the more severe mark, can take longer to recover from, and the process itself is more traumatic and public. A short sale is often faster to complete than a foreclosure, keeps you more in control of the outcome, and in some cases — like with Freddie Mac — eliminates the deficiency obligation that might otherwise persist.
+Caller: What does the short sale process actually look like?
+Agent: Here are the main steps. First, you work with a real estate agent to list the home and get an offer from a buyer. Then you submit a short sale application to us with the purchase offer, along with your hardship documentation. We submit to Freddie Mac for approval. Freddie Mac orders a Broker Price Opinion — kind of a fast appraisal — to verify the sale price is reasonable. If approved, the sale proceeds. The whole process can take sixty to ninety days on average, sometimes longer.
+Caller: The house isn't listed yet. Should I list it before I apply to you?
+Agent: You'll need a purchase offer to submit a short sale package. Typically the process is: list the home with an agent experienced in short sales — that's important, ask specifically about short sale experience — get an offer, then submit to us. However, you can contact our loss mitigation team now to open a case and start gathering documents so you're ready to move quickly when you have an offer.
+Caller: What documents do I need?
+Agent: Your hardship letter explaining the divorce and income reduction. Two months of bank statements. Pay stubs or other income documentation. Your most recent tax returns — usually two years. A completed hardship worksheet. And when the time comes, the purchase offer and real estate listing documentation.
+Caller: Is there a risk the bank rejects the short sale?
+Agent: Yes. We — and Freddie Mac — review whether the sale price is close to market value and whether your hardship is documented. If the offer is too low relative to what the property could reasonably sell for, or if the documentation doesn't support the hardship, the application could be denied. That's why having an experienced short sale agent is important — they'll price the home appropriately and understand what lenders look for.
+Caller: What are my alternatives to a short sale?
+Agent: A few. Loan modification — if you can afford some payment, we might be able to restructure the terms to make it more manageable. Deed-in-lieu — you voluntarily transfer the title to us in exchange for a release of the debt, avoiding foreclosure. It has similar credit impacts but can sometimes be faster. Or forbearance if the income issue is temporary. But if you're truly unable to sustain the mortgage and the home is underwater, the short sale or deed-in-lieu are the most viable paths.
+Caller: What should I do right now, today?
+Agent: I'd recommend three things. One, call a HUD-approved housing counselor — they're free, objective, and can review all your options. The number is 1-800-569-4287. Two, interview real estate agents with specific short sale experience. Three, call us back to speak with the loss mitigation team and open a case so you're in the queue.
+Caller: Can I open the loss mitigation case today on this call?
+Agent: I can transfer you to loss mitigation right now. They'll take it from there.
+Caller: Yes, please. Let's do that.
+Agent: Before I transfer you, is there anything else you want to ask me?
+Caller: Just — if I do a short sale and it goes through, am I allowed to buy another home someday?
+Agent: Generally yes. After a short sale, most conventional loan programs require a waiting period of two to four years before you can qualify for another mortgage. FHA loans have a three-year waiting period. The exact timeline depends on the circumstances and the lender. It's not a permanent bar.
+Caller: Okay. That's a relief to know. Alright, please transfer me.
+Agent: Transferring you now to our loss mitigation team. Your reference number is LMT-2024-20338. Have that ready for the representative.
+Caller: LMT-2024-20338. Got it. Thank you Kevin.
+Agent: Good luck Lorraine. You're taking this one step at a time — that's the right approach.
+Caller: Thank you. Bye.

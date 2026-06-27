@@ -1,0 +1,43 @@
+Agent: Meridian Mortgage Servicing, this is Marcus. How can I help you today?
+Caller: Hi Marcus. My name is Tom Delgado. I'm calling because I need to sell my house but I owe more than it's worth. My brother told me about something called a short sale and said I should call my mortgage company. I'm just starting to figure out what my options are.
+Agent: Hi Mr. Delgado, I appreciate you reaching out. A short sale is something our loss mitigation team handles, and I can give you an overview of the process so you know what to expect. First, let me pull up your account. Can I verify your identity?
+Caller: Sure. My address is 5502 Cypress Hill Lane, Tampa, Florida, 33610.
+Agent: Thank you. Last four of your Social?
+Caller: 9912.
+Agent: And date of birth?
+Caller: September 28th, 1969.
+Agent: Thank you. I have your account. Now, to make sure we're on the same page — a short sale is when you sell the property for less than what you owe on the mortgage, and the lender agrees to accept that lower amount as full or partial satisfaction of the debt. The "short" refers to the payoff being short of the outstanding balance.
+Caller: Right. So the bank takes less than I owe.
+Agent: Correct. And in exchange, you avoid going through foreclosure, which has a much longer and more damaging impact. Can I ask — what's the approximate value of your home and what do you owe?
+Caller: I think the house is worth somewhere around $195,000. Zillow says $191,000 and a realtor told me maybe $198,000. And I owe about $232,000.
+Agent: So you'd be looking at a shortfall of roughly $35,000 to $40,000. That's a meaningful gap. For a short sale to work, we and the investor on your loan would need to approve accepting less than the full balance. That approval is not automatic — it depends on your hardship, the market value, and investor guidelines.
+Caller: Do I need to have a buyer first, or can I apply for short sale approval first?
+Agent: Typically you do both somewhat in parallel. You would work with a real estate agent to list and market the property, and simultaneously submit a short sale application to us. When you receive an offer, that offer gets submitted to us for approval. We then review it against our own estimate of the property's value — typically through an independent appraisal or a broker price opinion — and decide whether to approve it.
+Caller: So I need a real estate agent?
+Agent: Yes, for a short sale you generally need a licensed real estate agent who has experience with short sales. The process is more complex than a standard sale and an experienced agent makes a big difference. Some agents specialize in distressed sales and know how to navigate the approval process.
+Caller: How long does a short sale take?
+Agent: Short sales are notoriously slow. From listing to closing, it can take anywhere from three to nine months, sometimes longer. A lot of that time is the lender review process after an offer is received. The buyer has to be patient, and many buyers walk away if the wait is too long. An experienced agent can help manage the timeline.
+Caller: That's a lot longer than I expected. I was hoping to be done in a couple months.
+Agent: I understand. Unfortunately the process doesn't lend itself to quick timelines. Part of why it takes time is that the investor on your loan — not just us as the servicer — has to weigh in, and sometimes there are additional parties like mortgage insurers.
+Caller: What's a mortgage insurer?
+Agent: If you have private mortgage insurance on your loan — which some borrowers do, especially if they put less than 20 percent down — the insurance company also has to approve the short sale because they would be paying out a claim on the difference. Let me check your account. Your loan does show mortgage insurance. That means PMI approval would be part of the process as well.
+Caller: Okay, that adds another layer.
+Agent: It does, but it doesn't make it impossible. It just means a few more parties to coordinate.
+Caller: What about the deficiency? If the house sells for $195,000 and I owe $232,000, do I owe the bank $37,000 after?
+Agent: That's one of the most important questions in a short sale, and the answer is: it depends on the agreement. Some short sale approvals include a full waiver of the deficiency — meaning you owe nothing after the sale. Others don't. You need to read the short sale approval letter very carefully or have an attorney review it. In Florida specifically, there are some state law protections, but they're not absolute.
+Caller: I'd want the deficiency waived. Is that something I should ask for?
+Agent: Yes, and you should insist on it being documented in writing in the approval letter. Your real estate agent and potentially a real estate attorney can help negotiate that language. Some lenders routinely include deficiency waivers; others don't offer them unless pushed.
+Caller: And the short sale affects my credit?
+Agent: Yes, a short sale will negatively affect your credit. However, it's generally considered less damaging than a completed foreclosure. It shows on your record, but many lenders see it as a more responsible resolution than a foreclosure. Rebuilding from a short sale is typically faster.
+Caller: What's my current payment status? I haven't missed any payments yet.
+Agent: Looking at your account, you are current on all payments. Being current can actually be both a plus and a minus in short sale situations — some investors are more willing to approve a short sale before foreclosure proceedings begin, while others only engage once there's delinquency. This is another area where an experienced short sale agent can guide you.
+Caller: Okay. I feel like I have enough to start researching. Is there anything I need to do on your end to start the process?
+Agent: The first step is to find a real estate agent experienced with short sales and begin listing the property. Simultaneously, you can contact our loss mitigation department — when you call back, ask specifically for loss mitigation — and they'll send you a short sale application package. You'll need to submit a hardship letter, proof of income, bank statements, and a few other documents.
+Caller: Alright. I'll find an agent first and then come back to you.
+Agent: That's a good sequence. One thing to keep in mind — the sooner you start, the more time you have. If payments eventually become unaffordable, the timeline matters.
+Caller: I understand. Thank you Marcus, you've been really straightforward.
+Agent: I appreciate that. Good luck. Is there anything else today?
+Caller: No, I think I have what I need.
+Agent: Thank you for calling Meridian Mortgage, Mr. Delgado. Take care.
+Caller: You too. Bye.
+Agent: Goodbye.

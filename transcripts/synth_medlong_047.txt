@@ -1,0 +1,50 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is James, how can I help you today?
+Caller: Hi. My name is Elaine Marsh. Loan number 6618-443-009. I'm calling because I'm in financial trouble and I'm actually looking into bankruptcy and I wanted to understand what happens to my mortgage if I file.
+Agent: Elaine, thank you for calling, and thank you for being upfront about where you are. These are really important questions. Let me pull up your account first. Property address and date of birth?
+Caller: 3302 Westgate Avenue, Cleveland, Ohio 44113. Date of birth February 18, 1971.
+Agent: And last four of Social?
+Caller: 7741.
+Agent: Got your account. Before we go any further, I want to be clear — I can provide you with general information about how bankruptcy intersects with mortgage servicing, but I'm not an attorney and this is not legal advice. For anything specific to your situation, you'll need to speak with a bankruptcy attorney.
+Caller: I understand. I've actually already had a consultation with one. I just want to understand the mortgage piece better from your side.
+Agent: That's smart. Let me start by asking — what's driving the financial hardship? You mentioned you're considering bankruptcy.
+Caller: Medical debt. My husband had a heart attack fourteen months ago. Three hospitalizations, two surgeries, months of cardiac rehab. We have good insurance — or we thought we did. After insurance paid, we're left with $280,000 in out-of-pocket medical debt. Our insurance had terrible annual caps. We've tried negotiating with the hospitals but we're looking at $280,000 we simply cannot pay.
+Agent: I'm so sorry. Is your husband okay now?
+Caller: He's managing. He's back at work part-time, maybe 20 hours a week. He can't do full-time yet. That's affected our income too.
+Agent: What's your current household income situation?
+Caller: Before his heart attack we were at about $8,400 combined take-home. Right now with him part-time, we're at about $6,100. My income is $3,800, his is about $2,300 on reduced hours.
+Agent: And your mortgage payment?
+Caller: $1,947. We're current on the mortgage. We've kept the mortgage current even through all of this. But the medical creditors are calling constantly and we have some smaller debts we've let slip. Two credit cards, a personal loan. We've been robbing Peter to pay Paul for a year.
+Agent: The $280,000 medical debt — is that all with hospitals and medical providers? Or has any of it gone to collectors?
+Caller: About $190,000 is still with the hospital systems. About $90,000 has been sold to medical debt collectors.
+Agent: And your attorney recommended bankruptcy — Chapter 7 or 13?
+Caller: She mentioned both and I didn't fully understand the difference for the mortgage. That's what I'm most afraid of — losing the house.
+Agent: Let me explain how each interacts with your mortgage, and again, this is general information — your attorney will apply this to your specific situation.
+Caller: Please go ahead.
+Agent: Chapter 7 is a liquidation bankruptcy. It wipes out most unsecured debt — medical bills, credit cards — but it doesn't give you a way to catch up on secured debts like a mortgage. The automatic stay that begins when you file halts all collections, including mortgage collection. But Chapter 7 doesn't restructure the mortgage. If you're current when you file and you keep making payments, you can keep the house. The mortgage company would ask you to reaffirm the debt — sign a new agreement confirming you still owe the mortgage — and if you keep paying, nothing changes from a mortgage perspective.
+Caller: So if I'm current on the mortgage and I file Chapter 7, the house is safe as long as I keep paying?
+Agent: Generally, yes, with one important caveat — Chapter 7 requires a means test, and if your disposable income is above a certain threshold you may not qualify. For people with primarily medical debt rather than lifestyle debt, courts sometimes have more flexibility.
+Caller: My attorney said our income might make Chapter 13 more likely.
+Agent: Chapter 13 is a reorganization bankruptcy. You propose a repayment plan — three to five years — that pays back some or all of your debts under court supervision. The critical difference for your mortgage is this: if you're behind on your mortgage, Chapter 13 allows you to catch up on the arrears through the repayment plan while continuing current payments. If you're current, you just keep paying the mortgage while the plan handles the other debts.
+Caller: We're current on the mortgage. So in Chapter 13, we'd just keep paying the $1,947 and the bankruptcy plan handles the medical debt?
+Agent: In a Chapter 13, your monthly plan payment consolidates many debts, and the $280,000 in medical debt would be classified as unsecured — meaning in many Chapter 13 plans it receives only a percentage of what's owed, sometimes very little, depending on your disposable income. The mortgage, being secured, is treated differently — you keep paying it.
+Caller: So we wouldn't lose the house in either scenario as long as we keep paying?
+Agent: Generally correct, assuming you stay current during and after bankruptcy. But there are additional nuances. If the bankruptcy trustee questions whether your home equity affects the case — Ohio has homestead exemptions that protect some equity — your attorney would navigate that. What's your current approximate equity?
+Caller: The house is worth maybe $215,000. The mortgage balance is $168,400.
+Agent: About $46,600 in equity. Ohio's homestead exemption is $136,925 for a married couple as of recent law. So your equity is well within the exemption. That's important — it means the trustee in a Chapter 7 should not seek to sell the home to pay creditors.
+Caller: That's a relief. I've been terrified about that.
+Agent: I can understand. Now, from our servicing side — when you file bankruptcy, we receive an automatic stay notice from the court. At that point, all collection activities stop. We cannot call you, cannot charge fees, cannot proceed with any foreclosure. Your account gets flagged as bankruptcy-protected.
+Caller: What about my credit?
+Agent: Bankruptcy does significantly affect credit — a Chapter 7 stays on your credit report for ten years, Chapter 13 for seven years. But medical debt — even at $280,000 — was already damaging your credit as it went to collections. Many people find that after bankruptcy, their credit recovers faster than they expect because the overwhelming debt load is gone.
+Caller: And the mortgage — it continues to report to the credit bureaus during bankruptcy?
+Agent: If you're current on the mortgage, it should continue to report positively as a paid-as-agreed account. Lenders do sometimes stop reporting during bankruptcy, which neither helps nor hurts, but continued positive reporting can happen.
+Caller: What should I tell my bankruptcy attorney about the mortgage so she can incorporate it?
+Agent: Tell her the loan number, the servicer name — Meridian Mortgage — that the account is current, the current balance $168,400, the monthly payment $1,947, and that you intend to continue paying and retain the property. She'll use that to include the mortgage correctly in the bankruptcy schedules.
+Caller: Can I get a statement of my account in writing to give her?
+Agent: Yes. I can generate a payoff statement and a payment history. The payoff statement shows your exact balance as of a date certain and your attorney can use it for the schedules. I'll have that generated and emailed to you within two business days.
+Caller: My email is emarsh.cle at gmail dot com.
+Agent: Got it. And for what it's worth — I hear real strength in how you've handled this. A year of keeping a mortgage current while dealing with $280,000 in medical bills and a husband's serious illness. That shows real commitment to your home.
+Caller: Thank you. We're fighters. We just don't want to lose the house. Everything else can go.
+Agent: Based on what you've told me, the house appears protectable under either bankruptcy chapter. Your attorney can confirm that. Is there anything else I can help clarify?
+Caller: No. You explained it more clearly than I expected. Thank you, James.
+Agent: Of course, Elaine. Take care of yourselves. Goodbye.
+Caller: Goodbye.

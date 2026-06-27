@@ -1,0 +1,48 @@
+Agent: Thank you for calling Westgate Mortgage Services, this is Rachel. Can I get your loan number?
+Caller: It's 7765-003-48. My name is Ingrid Sorensen.
+Agent: Thank you, Ms. Sorensen. Can you verify your Social Security last four and the property address?
+Caller: 9934, and the address is 5507 Nordic Pines Lane, Minneapolis, Minnesota 55416.
+Agent: Got your account. How can I help you today?
+Caller: I got a letter about an upcoming interest rate adjustment on my ARM, and it mentions something called SOFR. I don't know what that is. My original loan documents say LIBOR, but now it says SOFR. I want to understand what changed and what it means for my payment.
+Agent: That's a great question and a change that affected millions of adjustable-rate mortgages in the past few years. Let me explain what happened and what it means for your loan.
+Caller: Please, start from the beginning. I'm not a financial person.
+Agent: Absolutely. First, a quick background. Your adjustable-rate mortgage has an interest rate that changes over time based on an index — think of the index as an external benchmark that neither you nor I control. Your original loan was tied to LIBOR, which stands for London Interbank Offered Rate. That was the most commonly used index for ARMs for decades.
+Caller: I've heard of LIBOR. So what happened to it?
+Agent: In 2023, LIBOR was officially discontinued. The major financial regulators around the world determined that LIBOR was no longer reliable because of past scandals involving manipulation of the rate. When LIBOR ended, lenders needed a replacement index for all the ARM loans that were tied to it.
+Caller: And the replacement is SOFR?
+Agent: Correct. SOFR stands for Secured Overnight Financing Rate. It's published by the Federal Reserve Bank of New York every business day and is based on actual overnight transactions in the US Treasury repurchase market. It's considered more transparent and more robust than LIBOR was.
+Caller: Why does that matter for my payment?
+Agent: It matters because your interest rate is calculated as the index — formerly LIBOR, now SOFR — plus a fixed spread called your margin. Your margin is written into your original loan note and doesn't change. What can change is the index value itself. Because SOFR is a different number than LIBOR, your rate calculation uses SOFR now.
+Caller: Are they usually close to each other?
+Agent: They are similar but not identical. When the transition happened, regulators established a spread adjustment — a fixed add-on to SOFR — to make the transition fair for borrowers. So instead of raw SOFR, your loan uses what's called SOFR plus a spread adjustment of 0.26%. This was specifically designed to approximate what LIBOR would have been, so the transition doesn't disadvantage borrowers.
+Caller: Okay, I think I follow that. What does this mean specifically for my rate?
+Agent: Let me look at your specifics. Your loan uses the one-year Term SOFR, which as of June 2026 is approximately 4.85%. Adding your spread adjustment of 0.26% brings the adjusted index to 5.11%. Your margin is 2.50%. So your new rate is 5.11% plus 2.50%, which equals 7.61%.
+Caller: What was my rate before?
+Agent: Your current fixed-period rate — your loan is in its fixed period still — is 4.125%. Your adjustment is scheduled for September 1st, 2026.
+Caller: And there are caps on how much it can go up?
+Agent: Yes. Let me check your note for the specific caps. Your initial adjustment cap is 2.00%, your periodic cap for subsequent adjustments is 2.00%, and your lifetime cap is 6.00% above the original start rate. So even though the fully indexed rate would be 7.61%, your initial cap limits the first adjustment to 4.125% plus 2.00% — meaning a maximum rate of 6.125% on September 1st.
+Caller: Oh that's much better than 7.61%.
+Agent: Significantly better. Your first adjusted payment will reflect a rate of 6.125%, not the full 7.61%. Let me calculate your new payment. Your current balance is $287,340.00. Your remaining loan term is twenty-three years. At 6.125%, your new monthly payment would be approximately $2,061.00.
+Caller: What is it now?
+Agent: At 4.125% on the same remaining balance, your current payment is approximately $1,787.00. So you're looking at an increase of about $274.00 per month starting September 1st.
+Caller: That's a meaningful jump but not catastrophic.
+Agent: Exactly. The initial cap does a lot of work here. It's there to prevent exactly the kind of payment shock that would otherwise occur when the index is higher than the original start rate.
+Caller: And next year, could it jump again?
+Agent: Yes. On September 1st, 2027, the rate will be recalculated using whatever one-year Term SOFR is at that time, plus your spread adjustment, plus your margin — subject to the 2.00% periodic cap. If SOFR is still at current levels, you could see another increase up to 2.00%. If SOFR has declined — which some economists forecast — the rate could actually decrease.
+Caller: So there's a chance my rate could go down in future years?
+Agent: Absolutely. ARM rates can go up or down depending on the index. If the Federal Reserve cuts rates significantly over the next year, SOFR could fall, and your ARM rate at the next adjustment could decrease rather than increase.
+Caller: This feels a lot less scary now that I understand what SOFR is. It just seemed mysterious.
+Agent: That's completely understandable. Financial acronyms can feel overwhelming. But SOFR is essentially a daily rate published by the Fed based on real market activity. It's public — you can look it up any day at newyorkfed.org.
+Caller: The letter also mentioned a loan adjustment notice I should have received. I'm not sure I got one.
+Agent: Your adjustment notice is required to be sent sixty to ninety days before the adjustment date. For a September 1st adjustment, that means we should be sending it in June or early July. It looks like our records show the notice was generated on June 20th and mailed to your address on file. If you haven't received it, it may still be in transit or it may have been missed.
+Caller: I'll watch for it. What does the notice contain?
+Agent: The notice will show your current rate, your new rate, the index value used, your margin, any applicable cap limitations, your new monthly payment amount, and the effective date of the adjustment. It's a complete summary of the change.
+Caller: Can I get a copy by email?
+Agent: Yes. I can send a duplicate notice to the email address we have on file. Can you confirm your email?
+Caller: It's i-sorensen-1974 at outlook dot com.
+Agent: Got it. I-S-O-R-E-N-S-E-N-1974 at outlook dot com. I'll send that duplicate adjustment notice today.
+Caller: Perfect. Thank you, Rachel. You made SOFR make sense.
+Agent: I'm glad I could help. Is there anything else I can clarify?
+Caller: No, I feel good now. Thank you.
+Agent: Have a wonderful day, Ms. Sorensen. Goodbye.
+Caller: Goodbye.
