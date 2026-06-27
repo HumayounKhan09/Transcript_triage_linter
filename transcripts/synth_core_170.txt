@@ -1,0 +1,45 @@
+Agent: Thank you for calling Cornerstone Home Lending, this is Michael. How can I help you today?
+Caller: Hi Michael, my name is Bernadette Owens. When I bought my home four years ago, I got some kind of government assistance that was described as a silent second mortgage. I've never really understood exactly what that means and now I'm thinking about selling the house and I want to know what happens to it.
+Agent: Hi Bernadette, that's a great question to be asking before you proceed with a sale. A silent second mortgage is a second loan on your property — sometimes also called a soft second — that typically comes from a government, nonprofit, or housing finance agency and sits behind your first mortgage. Let me pull up your account to see what we have on file.
+Caller: My loan number is 4482-5517-R.
+Agent: Thank you. One moment. Okay, Bernadette Owens, property in Baltimore, Maryland, first mortgage balance $188,600. I see a notation about a Maryland Community Development Administration second lien in the amount of $20,000. Is that the one you're referring to?
+Caller: Yes, that sounds right. I remember it was $20,000 and it was from a state program. I was told I didn't need to make monthly payments on it.
+Agent: That's consistent with how silent second mortgages work. The term silent refers to the fact that you make no monthly payments on this loan — it's silent in terms of your monthly budget. But it is a real lien on your property, recorded in the public records, and it becomes payable upon certain triggering events.
+Caller: And selling is one of those events?
+Agent: Almost certainly, yes. These programs typically require repayment when you sell, refinance, or move out of the home. Let me look at the specific terms in your file.
+Caller: Please.
+Agent: The file shows this is a deferred payment second mortgage at zero percent interest. The full $20,000 is due and payable upon sale of the property, refinance, or change of occupancy.
+Caller: So I'd owe $20,000 at closing?
+Agent: That's correct. When you sell, at the closing table, the proceeds would pay off your first mortgage balance of $188,600 and then pay off the $20,000 silent second. Whatever remains after those payoffs, minus your selling costs, would be your equity.
+Caller: What does my equity look like? I think the house is worth around $280,000 now.
+Agent: Let me run through the numbers with you. If you sell at $280,000, you'd first pay a real estate commission — typically 5 to 6 percent. At 5.5 percent, that's $15,400. Then you'd pay first mortgage payoff of $188,600 and the silent second payoff of $20,000. Total deductions: $224,000. That leaves you with approximately $56,000 before any other closing costs.
+Caller: $56,000. That's significant. I've built up quite a bit of equity.
+Agent: You have, and it's because the home appreciated. You also got the benefit of the $20,000 assistance at purchase, which helped you get into the home in the first place. When you factor in what you would have paid in rent over four years, the financial picture is even more favorable.
+Caller: Is there any scenario where I don't have to repay the $20,000?
+Agent: It depends on the program's specific terms. Some assistance programs have a forgiveness component — meaning if you stay in the home for a certain number of years, a portion or all of the second is forgiven. The Maryland CDA program has varying terms by loan type. Let me check your file more carefully.
+Caller: The person at closing said something about forgiveness but I didn't fully understand it.
+Agent: Looking at your file more closely, I can see a notation that this particular CDA second has a partial forgiveness feature. It looks like after five years of occupancy, 20 percent of the balance is forgiven annually, starting in year six. So from years six through ten, $4,000 per year is forgiven.
+Caller: I've only been here four years. So nothing has been forgiven yet.
+Agent: Correct. The forgiveness doesn't start until year five of occupancy. If you sell in year four, the full $20,000 is due. If you waited until year six, $4,000 would already be forgiven and you'd owe $16,000. By year ten, the full amount would be forgiven.
+Caller: So if I wait two more years, I'd save $8,000?
+Agent: You'd save $4,000 in year five — wait, let me clarify. The five-year milestone triggers the beginning of forgiveness, and the first $4,000 forgiveness would occur after you complete year five. Sell after year five is complete: $4,000 forgiven, $16,000 owed. Sell after year six: $8,000 forgiven, $12,000 owed. And so on.
+Caller: That's meaningful. I wasn't planning to rush the sale — I was just exploring. Knowing this, I might want to stay at least through March 2028 to get to the five-year mark.
+Agent: That would be March 2028, which is your five-year anniversary. That makes a lot of financial sense if you're not urgently needing to sell.
+Caller: What if I refinance instead of selling? Does the silent second just stay behind the new first?
+Agent: Refinancing also triggers repayment under the note terms I'm seeing. However — and this is worth checking with the CDA directly — some programs allow subordination of the second when you refinance rather than requiring full repayment. If the CDA is willing to subordinate, your second stays in place and you get the rate benefit from the refinance without repaying the $20,000.
+Caller: How do I find out if they'll subordinate?
+Agent: Contact the Maryland CDA directly. They manage the program and make those determinations. The contact number is typically on your original closing disclosure or in your loan documents. Let me see if I have it in your file — I can see a servicer contact note for the CDA: 410-514-7000. That's their housing finance number.
+Caller: Thank you, I'll write that down.
+Agent: The CDA will tell you their current subordination policy, any fees, and the documentation they need. Our team would prepare the subordination package once you have their go-ahead.
+Caller: Now, what if I decided to rent the house out instead of selling — would that trigger repayment?
+Agent: Yes, based on the occupancy requirement in your note. These programs are for owner-occupied primary residences. If you move out and rent the property, that's a change of occupancy and would trigger repayment of the silent second. Doing so without notifying the program is a violation of your note terms and could put you in technical default.
+Caller: Even if I'm not selling?
+Agent: Even if you're not selling. The occupancy requirement is separate from the sale requirement. The second is lien on the property — it protects the public program investment by ensuring the home stays affordable and owner-occupied.
+Caller: Good to know. I had no intention of renting it but I wanted to understand the full picture.
+Agent: Always smart to know your rights and obligations. Is there anything else you want to understand about the silent second or the sale process?
+Caller: I think I understand it much better now. I'm going to hold off on selling until at least my five-year mark and call the CDA next week.
+Agent: That sounds like a well-informed decision. I'll note in your file that you called on June 27th, 2026, regarding the CDA silent second terms and forgiveness schedule, and that you plan to continue occupying through at least year five.
+Caller: Thank you so much, Michael. This was really clarifying.
+Agent: My pleasure, Bernadette. Best of luck, and don't hesitate to call if anything changes or you have more questions.
+Caller: I will. Goodbye.
+Agent: Goodbye.

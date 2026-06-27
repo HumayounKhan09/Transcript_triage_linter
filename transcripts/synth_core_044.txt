@@ -1,0 +1,49 @@
+Agent: Thank you for calling American Home Servicing, this is Anita, how can I help you today?
+Caller: Hi. My name is Felicia Drummond. I have a mortgage and I owe more on my house than it's worth. I've been upside-down for years. Someone at my credit union mentioned there might be programs to help people refinance when they're underwater. Is that a real thing?
+Agent: Hi Felicia, it's a real concern and one that affected millions of homeowners, particularly those who bought before the 2008 housing crisis. Let me pull up your account and we'll look at what's available and what's realistic. Can I get your loan number or property address?
+Caller: The address is 119 Larkspur Lane, Cleveland, Ohio, 44109. Loan number is AHS-2008-77-1155.
+Agent: And for verification — last four of your Social and date of birth?
+Caller: Social ends in 5587, birthday is February 19th, 1975.
+Agent: Thank you. I have your account. Felicia Drummond, loan originated in 2008. Current balance $178,200, monthly payment $1,344. I want to look at the investor on this loan. Your loan is held by Fannie Mae. Let me also look at what we have on property value. Do you have a sense of the current value?
+Caller: My neighbor sold a very similar house last spring for $148,000. I believe my house is worth between $145,000 and $155,000. So I owe about $30,000 more than it's worth.
+Agent: I understand. So your loan-to-value is approximately 115% to 120% based on those estimates — you're about 15% to 20% underwater. Let me talk through what programs exist and where you stand.
+Caller: Someone mentioned HARP. Is that what I need?
+Agent: HARP — the Home Affordable Refinance Program — is the program you're likely thinking of. It was specifically designed for borrowers who were underwater on their mortgages but current on their payments, and it allowed refinancing at higher LTVs than traditional programs would allow. It helped millions of homeowners.
+Caller: So where do I sign up?
+Agent: I have to be straightforward with you — HARP officially ended in December 2018. It was replaced by a successor program called the High LTV Refinance Option, or HIRO, for Fannie Mae loans, and the Enhanced Relief Refinance for Freddie Mac loans. But even those programs have very specific eligibility requirements and have largely wound down in terms of new participants.
+Caller: So all of these programs are gone?
+Agent: The specialized high-LTV programs are much more limited than they were. Let me check something specific about your loan. Your loan originated in 2008 and is held by Fannie Mae. For the Fannie Mae High LTV Refinance Option — HIRO — to apply, your loan needs to have a note date of October 1, 2017 or later. Your loan is from 2008, so it would not be eligible for HIRO.
+Caller: So there's nothing.
+Agent: I want to be honest without being discouraging. Let me look at the full picture. For a standard refinance, Fannie Mae allows up to 97% LTV on primary residences for rate-and-term refinances. But your LTV is 115% or more — that's well outside standard parameters. A conventional lender cannot offer you a new loan at 115% LTV outside a special program.
+Caller: So I'm stuck?
+Agent: You're limited by the current program landscape, which is genuinely frustrating. But I want to make sure we've looked at every angle. Let me ask a couple of questions. First — your account shows you're current on your payments. How long have you been current?
+Caller: I've been paying on time for about four years. Before that I had some trouble during the recession but I got caught up.
+Agent: Four years of on-time payments is meaningful and says a lot about your character as a borrower. Second question — what is your current interest rate?
+Caller: It's 6.875%.
+Agent: That's a meaningful rate and I understand why you want to refinance — with a $178,000 balance, every percentage point of rate reduction saves you $1,780 per year. Third — is this your primary residence and do you intend to stay?
+Caller: Yes, I've lived here since 2008 and I'm not going anywhere. I'm committed to the house. I just wish the rate was lower.
+Agent: Let me look at your current loan more carefully. With a 2008 origination and Fannie Mae as the investor, I want to check something. Sometimes investors are willing to grant modification-style rate reductions for borrowers who are current but trapped by negative equity. This is different from a refinance — it's a modification of the existing loan terms.
+Caller: I didn't know they did that for people who aren't delinquent.
+Agent: Fannie Mae does have what's sometimes called a streamlined modification and also evaluates borrowers on a case-by-case basis. However, modifications for current borrowers — people not in default — are much harder to get because the standard modification process is primarily designed for borrowers in or near default.
+Caller: So I'd have to stop paying to get help?
+Agent: I am absolutely not advising you to stop paying. Intentional default has serious consequences — credit damage, potential foreclosure risk, fees. I want to be clear about that. The catch-22 you've identified — that you have to be in distress to get some programs — is real and it's a systemic issue that was widely criticized. But intentional default is not a sound strategy.
+Caller: I wasn't going to do it. I was just noting the irony.
+Agent: Completely understood and it is ironic and unfair in a very real sense. Let me think about what else might be relevant. One option some underwater borrowers have used: extra principal payments. If you can apply any additional money — even $100 or $200 a month — to principal, you'd reduce your balance faster and eventually get above water, at which point a traditional refinance becomes available.
+Caller: How long would that take?
+Agent: At your current balance of $178,200 and an estimated value of $150,000, you need to close a gap of about $28,200 to break even. With extra principal payments of $200 a month, that would take roughly 141 months — almost twelve years — just to reach break-even on the gap. That's a long time, and if home values in your area improve, the timeline shortens.
+Caller: Cleveland's been improving in some neighborhoods but mine hasn't moved much.
+Agent: Home price trends are very local and unpredictable. There's also the possibility that broader economic cycles bring rates down again, and if they do and values improve modestly, the combination could get you above water sooner than expected.
+Caller: Is there any government program right now that I'm missing?
+Agent: Let me give you a comprehensive answer. For underwater conventional loans not backed by FHA or VA, the current federal landscape is limited. FHA has a refinance product called the FHA No Cash-Out Refinance but it only applies to existing FHA loans converting to FHA. If your loan were FHA-insured, you'd have more options. VA loans have similar in-family streamline options but again, only if you're a veteran with a VA loan. USDA has their streamline for rural development loans.
+Caller: Mine is none of those — it's a conventional Fannie Mae loan.
+Agent: Correct, which puts you in the most limited position for high-LTV refinancing right now. I don't want to be the bearer of only bad news though — HUD-approved housing counselors sometimes know about state-specific programs or community development lenders who work with underwater borrowers. Ohio in particular has had housing rescue programs through the Ohio Housing Finance Agency. It's worth a call to the OHFA or to a HUD counselor at 1-800-569-4287 to ask about any Ohio-specific resources.
+Caller: I didn't know there were state-level programs.
+Agent: They come and go but they're worth asking about. Also, if your financial situation were to change and you experienced a documented hardship, the modification pathway for principal reduction — while it exists in theory — remains available and sometimes includes rate reduction as a component.
+Caller: This isn't the answer I was hoping for but at least I understand why.
+Agent: I wish I had better news. The honest picture is that the programs specifically designed for your situation — HARP primarily — are no longer active, and the replacement programs have eligibility dates that exclude 2008-era loans. You haven't been forgotten, you've been caught in a timing gap.
+Caller: Is there anything I should do while I wait?
+Agent: Keep your payment current — that's the most valuable thing. Maintain your credit profile. Keep an eye on Ohio housing initiatives and any federal program updates. And if rates do fall significantly — below 5% for example — call us and ask whether there are any new relief programs available, because the policy landscape does change.
+Caller: Alright. Thank you for being honest with me, Anita. I've called before and gotten run-arounds. This was straight talk.
+Agent: You deserved straight talk. I'm sorry the answer isn't better. Is there anything else I can help you with?
+Caller: No, I think I've got the picture. Thank you.
+Agent: Take care, Felicia. Goodbye.
