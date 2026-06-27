@@ -1,0 +1,27 @@
+Agent: Thank you for calling Keystone Mortgage Services, my name is Carlos. How can I help you today?
+Caller: Hi there. I normally pay my mortgage online but this month my computer is down and I was thinking about calling in to make a payment over the phone. I just want to know if there's a fee for doing that before I decide.
+Agent: Great question, and I can answer that for you right away. Can I pull up your account to give you the most accurate information? Sometimes fees can vary based on account type.
+Caller: Sure, my name is Anthony Giordano and my loan number is 4418-990-WW.
+Agent: Thank you Anthony. And can you verify the property address on the loan?
+Caller: Yes, it's 77 Elm Ridge Road, Manchester, New Hampshire 03104.
+Agent: Perfect. Let me pull that up. Okay Anthony, I have your account. So for phone payments, there is a processing fee of twelve dollars and fifty cents per transaction if you use our automated phone payment system. If you prefer to make the payment through a live agent, meaning through me right now, there is a fee of fifteen dollars.
+Caller: Oh, okay. So it's cheaper to do it through the automated system?
+Agent: That's correct. The automated system is available twenty-four hours a day, seven days a week, and the fee is twelve fifty. Speaking with a live representative carries the slightly higher fee of fifteen dollars.
+Caller: Is there any way to waive that fee? Like if I haven't used it before or if I'm a long-term customer?
+Agent: I understand the concern. Unfortunately those fees are standard and we're not able to waive them through this channel. They're processing fees charged by our payment vendor. However, if your goal is to avoid the fee entirely, there are a couple of fee-free options.
+Caller: Oh yeah? What are those?
+Agent: You can mail in a check or money order at no charge. You can also set up a bank account on our website and once your computer is back up you could pay online with no fee. Additionally if you have a bank that offers bill pay services, you could initiate a payment from your bank directly to us at no cost from our end.
+Caller: The mail option might take too long. My payment is due in four days.
+Agent: That's cutting it close with mail, you're right. Do you have access to your bank's mobile app or online banking by any chance, even from your phone?
+Caller: Actually yes, I do have the banking app on my phone. I could use bill pay from there?
+Agent: Absolutely. If your bank's bill pay service is already set up with our information, that would go through as an electronic payment at no charge from us. Your bank may or may not charge their own fee for that, but our end is free.
+Caller: I think I've used bill pay before so the payee is probably already in there. That's probably the best option.
+Agent: That would be my recommendation to avoid the fee. If you run into any trouble and need to make the phone payment instead, just know that the automated line is twelve fifty and a live agent is fifteen.
+Caller: Good to know. And if I do end up using the automated system, can I do it right now, or do I call a different number?
+Agent: You can call our main number and follow the prompts for automated payment. It will walk you through entering your loan number and payment information. You'll need your bank account and routing number handy.
+Caller: Got it. I'll try the bill pay app first. If that doesn't work I'll call back and use the automated line.
+Agent: That sounds like a great plan. Is there anything else I can help you with today?
+Caller: No, that's all I needed. Thanks Carlos, very helpful.
+Agent: My pleasure Anthony. Have a good day.
+Caller: Thanks, you too.
+Agent: Goodbye.

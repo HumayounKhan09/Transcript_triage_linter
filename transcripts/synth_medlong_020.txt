@@ -1,0 +1,45 @@
+Agent: Thank you for calling Atlantic Coast Mortgage, this is Derek. Can I get your loan number?
+Caller: It's 9908-34451. I'm in a bad situation, Derek — I'm calling from my sister's house right now. My home was heavily damaged in the flooding.
+Agent: I'm so sorry to hear that. Let me pull up your account. Can I verify your name and last four of your Social?
+Caller: Sandra Beaumont. Social ends in 2267.
+Agent: Thank you, Ms. Beaumont. I have your account — property at 3315 Bayou View Road, Slidell, Louisiana. Is that the property that was damaged?
+Caller: Yes. We got about four feet of water inside. FEMA has already declared our area a major disaster area. I saw on the news that there might be mortgage relief available.
+Agent: Yes, absolutely. You're right that there are specific protections and programs available when FEMA declares a major disaster. I want to walk you through everything, because there are actually two parallel tracks here — the mortgage forbearance track and the insurance claim track — and they interact in ways that are important to understand.
+Caller: Okay. I'm ready to take notes.
+Agent: Great. First, the mortgage forbearance. Because your property is in a federally declared disaster area, you are eligible to request a forbearance of up to 12 months. During forbearance, you temporarily pause or reduce your mortgage payments without being charged late fees and without the missed payments being reported to credit bureaus as delinquent.
+Caller: Do I have to prove anything? Show damage photos or a FEMA letter?
+Agent: For the initial forbearance request, you do not need documentation upfront. Your statement that you've experienced a hardship due to the disaster is sufficient to initiate. We will ask for a brief verbal attestation that your home is in the declared disaster area, which based on your address, it clearly is — we can verify that on our end. However, for any long-term resolution after the forbearance period, we will need documentation.
+Caller: So right now, you can just turn it on?
+Agent: I can process the forbearance request right now during this call. Before I do, I want to explain what happens to the payments you don't make. They don't disappear — they are deferred and will need to be resolved at the end of the forbearance period. You won't owe them all at once in a lump sum; we have several resolution options including a deferral, modification, or repayment plan. But I want you to go in with eyes open.
+Caller: I appreciate that. What's my current loan balance?
+Agent: Your unpaid principal balance is $214,880.40. Your regular monthly payment is $1,342.18, which includes principal, interest, taxes, and insurance. During forbearance, that payment is suspended.
+Caller: My insurance — I have a flood insurance policy. FEMA's National Flood Insurance Program. Do I need to do anything about that?
+Agent: Yes, and this is the second track I mentioned. Your flood insurance claim is completely separate from your mortgage forbearance, but they intersect because you have a mortgage. Here's the important part: your lender is listed as a mortgagee on your flood insurance policy. That means insurance claim checks — especially large ones — may be made payable to both you and Meridian, or we may receive them directly.
+Caller: Seriously? They'll send the check to you?
+Agent: It depends on the claim amount and your policy terms. For significant structural damage claims, the insurance company is required to include the mortgagee — that's us — on the check. This is because we have a financial interest in the property. The practical effect is that you'll receive a check payable to both you and Atlantic Coast Mortgage.
+Caller: So how do I get that money to pay for repairs?
+Agent: You bring or mail us the check endorsed by you, and we set up what's called a managed repair process. We open a restricted escrow account where the insurance funds are held, and we disburse them to you or directly to contractors in installments as repairs progress. We typically do an initial disbursement when you have a contractor lined up, a second disbursement when work is 50 percent complete based on inspection, and a final disbursement when work is done.
+Caller: That sounds complicated. What if I just need to pay a contractor immediately?
+Agent: We understand urgency. We can do an initial emergency disbursement, typically up to 25 percent of the claim funds or $5,000, whichever is less, without waiting for a full inspection. You'd need to have signed the contractor agreement and sent us the check to process.
+Caller: Okay. I haven't even filed the flood claim yet. I just called my adjuster this morning.
+Agent: That's fine. Get the claim filed as soon as possible because FEMA NFIP adjuster availability can be limited after a major event. Once the claim is filed, the adjuster will schedule an inspection. After that, you'll have a claim amount and we can go from there.
+Caller: In the meantime, should I also file with FEMA directly for disaster assistance?
+Agent: Yes. The FEMA Individual Assistance program is separate from your flood insurance and your mortgage. You should register at DisasterAssistance.gov or call 1-800-621-3362. FEMA IA can provide grants for temporary housing, home repairs not covered by insurance, and other disaster-related needs. It doesn't affect your mortgage forbearance eligibility.
+Caller: Is there any risk to my credit from doing the forbearance?
+Agent: Under the CARES Act provisions that apply to federally declared disasters and the additional CFPB guidance, we are required to report your account as current or in forbearance — not as delinquent — to credit bureaus during an approved disaster forbearance period. So your credit should not be negatively impacted.
+Caller: I'm living at my sister's. How long can I stay in forbearance while the house gets repaired?
+Agent: The initial forbearance period is typically 90 days, and it can be extended up to 12 months total if you need it. We can reassess at each interval. Most disaster repairs for moderate to heavy damage take six to nine months, so 12 months of forbearance protection is designed to cover that.
+Caller: What about my property taxes? They're escrowed. Will they still get paid?
+Agent: Yes, we'll continue to advance tax payments from the escrow account even during forbearance. We do not want your property to fall behind on taxes. Insurance premiums also continue to be paid from escrow. If the escrow balance runs low because your payments are suspended, we may advance the funds and add it to the deferred balance. We'll keep you informed of your escrow status.
+Caller: What if my house turns out to be a total loss? FEMA is saying some houses in my area had foundation damage.
+Agent: If it's a total loss, the insurance payout would typically cover the outstanding mortgage balance first since we're a mortgagee. If the insurance proceeds exceed the mortgage balance, you'd receive the surplus. If the payout is less than the balance, we'd need to discuss your options, which could include a short sale of the lot or other arrangements. Hopefully it won't come to that, but if it does, our loss mitigation team handles those situations with disaster-specific guidelines.
+Caller: This is a lot to process. Can I call back when I have more information from the insurance company?
+Agent: Absolutely. Let me process the forbearance right now so you're protected immediately. I'll put you on a 90-day initial disaster forbearance effective today. Your next payment due July 1st is suspended. I'll send a forbearance confirmation to your email at the address on file — is SBeaumont7@gmail.com still current?
+Caller: Yes, that's right.
+Agent: Good. I'm also noting your account with all the details we discussed. When your insurance adjuster contacts you, make sure to give them our lienholder information: Atlantic Coast Mortgage, loan number 9908-34451, and our insurance claims department address.
+Caller: Can you email that information to me too?
+Agent: I'll include it in the forbearance confirmation email. Is there anything else I can do for you today, Ms. Beaumont?
+Caller: No. Thank you, Derek. You've actually made me feel a lot calmer.
+Agent: I'm glad. I'm sorry you're going through this. Stay safe, and don't hesitate to call us as things develop.
+Caller: Thank you so much. Goodbye.
+Agent: Take care. Goodbye.

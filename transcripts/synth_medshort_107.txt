@@ -1,0 +1,43 @@
+Agent: Thank you for calling Landmark Mortgage Services, this is Brandon. How can I help you today?
+Caller: Hi Brandon, my name is Greg Schuster. I have a construction loan with you and I need to submit a draw request. We've hit another milestone and the contractor is asking to be paid.
+Agent: Hi Mr. Schuster, happy to help walk you through that. Let me verify your account first. Can I get your loan number?
+Caller: It's 4410-8823.
+Agent: And the property address for the construction site?
+Caller: 3302 Lakeview Ridge, Asheville, North Carolina, 28803.
+Agent: Great. And last four of your Social?
+Caller: 4456.
+Agent: Thank you. I've got your construction loan up. It looks like this is draw number four of a six-draw schedule. Is that correct?
+Caller: Yes, that's right. We just completed the framing and rough-in stage.
+Agent: Good. So to process a draw request, we'll need a few things from you. First, your contractor needs to submit a completed draw request form, an updated lien waiver — conditional or unconditional depending on the stage — and an inspection must be completed by our construction inspector before we release funds.
+Caller: We've done this before so I know the general process, but the inspector that came out last time was delayed and it caused problems with the contractor.
+Agent: I understand that's frustrating. Inspection timing is critical for keeping your project on schedule. Let me see what I can note here. Typically our inspectors are scheduled within three to five business days of receiving the draw request paperwork.
+Caller: Last time it took nine days and the contractor threatened to walk.
+Agent: I hear you and I'll flag this account for priority inspection scheduling given that history. I want to make sure that doesn't happen again. When you submit the draw request, please note in the comments that you need an expedited inspection, and I'll put an internal note right now flagging the timing sensitivity.
+Caller: Okay, I appreciate that. Now, the contractor is saying this draw should be for $48,500. Is there anything I need to verify with you before he submits the paperwork?
+Agent: Let me check your draw schedule. You're in draw four, which covers framing completion and rough mechanicals. The scheduled draw amount for this phase in your original budget is $51,000. Draws can be for the full scheduled amount or less if the work isn't fully complete, but they can't exceed the scheduled amount for the phase.
+Caller: $48,500 is under $51,000 so that should be fine?
+Agent: Yes, as long as the inspector confirms the work described is complete, the draw amount of $48,500 is within the approved phase budget. The remaining $2,500 from this phase can either be forfeited or in some cases rolled into the contingency depending on your loan terms.
+Caller: I'd prefer it goes to contingency. We've had a few unexpected expenses.
+Agent: Let me check your contingency terms. You do have a ten percent contingency built into your loan, and your current contingency balance is $8,200. You can request that the unused $2,500 be reallocated to contingency, but that requires a written change order request submitted alongside the draw.
+Caller: Okay, I'll have the contractor include that in his paperwork.
+Agent: Perfect. Now, where should funds be disbursed? Do you have direct disbursement to the contractor on file, or does it go to you?
+Caller: Last time it went to me and I paid the contractor. But the contractor is now asking for it to go directly to him. Can we do that?
+Agent: Yes, we can set up dual-party disbursement or direct contractor disbursement. For direct disbursement to the contractor, we'd need a completed contractor authorization form from you and the contractor's banking information or a request for a check made out to the contractor's business.
+Caller: I'd rather just have the check made out to both of us — me and the contractor — so I have to sign off on it.
+Agent: That's actually a very common approach and gives you control. We can issue a two-party check made out to both you and your contractor's business name. You'd both need to endorse it before it can be deposited.
+Caller: That's what I want. The contractor's business is Schuster Custom Homes LLC — wait, no, the contractor's name is different. It's Ridgeline Construction LLC.
+Agent: Ridgeline Construction LLC. I'll note that. We'll issue the check as Gregory Schuster and Ridgeline Construction LLC. Does that match how your name appears on the account?
+Caller: Gregory Allen Schuster, yes.
+Agent: Perfect. And does the contractor have the draw request form, or does he need us to send him one?
+Caller: He has it from last time. Is it still the same form?
+Agent: Our draw request form was updated in January. I'd recommend having him download the current version from our website under the Construction Loan Resources section, or I can email it directly to you.
+Caller: Email it to me please.
+Agent: I'll send it to the email on file, which appears to be gschuster1974@gmail.com. Is that still current?
+Caller: Yes, that's right.
+Agent: Done. You'll receive that within the hour. Once the contractor submits the form, lien waiver, and cost breakdown, and we receive your change order request for the contingency reallocation, we'll schedule the inspection. When the inspection passes, the draw is typically funded within two business days.
+Caller: Two business days after inspection. That's faster than last time.
+Agent: The priority note on your account should help. I'm also noting that the target funding date should be within two business days of inspection approval. Is there anything else you need?
+Caller: How many draws do I have left after this?
+Agent: After this draw, you'll have draws five and six remaining. Draw five is typically for drywall and insulation, and draw six is the final draw upon certificate of occupancy. Is there anything else, Mr. Schuster?
+Caller: No, I think I'm set. Thanks for the help, Brandon.
+Agent: Of course. Good luck with the build. Have a great day.

@@ -1,0 +1,38 @@
+Agent: Thank you for calling Keystone Mortgage Solutions, this is Lisa speaking. How can I assist you today?
+Caller: Hi Lisa. I want to talk about getting rid of my PMI. I've been paying it for a while now and I think I should be eligible to remove it.
+Agent: That's a great goal and I'd be happy to help. Let me pull up your account. Can I get your full name and your property address?
+Caller: My name is Devon Castellano. The address is 775 Ridgecrest Avenue, Phoenix, Arizona 85032.
+Agent: Thank you. And the last four of your Social Security number?
+Caller: 6614.
+Agent: And last four of your loan number?
+Caller: 3358.
+Agent: Perfect. I have your account up, Devon. Now let me get some information and explain how PMI removal works, because there are actually a couple of different paths depending on your situation.
+Caller: Okay. I just figured once I hit 80% loan-to-value I could ask you to drop it.
+Agent: You're on the right track. There are actually two different mechanisms under the Homeowners Protection Act. The first is automatic cancellation, which happens when your loan balance reaches 78% of the original purchase price based on your scheduled payments. At that point we are legally required to cancel your PMI without you having to ask. The second is borrower-requested cancellation, which is what you're thinking of. You can request removal when your balance reaches 80% of the original value.
+Caller: Right, so I think I'm at 80% now. Can you check?
+Agent: Absolutely. Let me look at your numbers. Your original purchase price was $285,000, and your loan originated in September 2019. Your original loan amount was $256,500. Based on your scheduled payments, your current loan balance as of this month is approximately $231,400.
+Caller: And 80% of the purchase price would be... let me do the math... $228,000?
+Agent: That's right. 80% of $285,000 is $228,000. Your current balance of $231,400 is above that threshold, so you're close but not quite there yet based on your original value.
+Caller: Hm. But the house is worth more now than when I bought it. Can I use the current value?
+Agent: That's exactly the right question. Yes, you can request borrower-initiated cancellation based on current appraised value, not just the original purchase price, but there are a few requirements. Your loan has to be at least two years old, which it is. If it's been two to five years, you need to reach 80% of the current appraised value. If it's been more than five years, you need to reach 80% of current value or 80% of original value, whichever is lower.
+Caller: My loan is about four and a half years old, so I'd be in that two-to-five-year window.
+Agent: Correct. So you'd need to demonstrate that your current balance is 80% or less of the current appraised value.
+Caller: I had an informal appraisal from a real estate agent a few months ago saying the house was worth about $340,000. Would that work?
+Agent: Unfortunately a real estate agent's opinion of value doesn't meet our requirements. You'd need a formal appraisal ordered through us from one of our approved appraisers. We do charge a fee for that, typically in the range of $450 to $600.
+Caller: And if the appraisal comes in at $340,000, would I qualify?
+Agent: Let's run the math together. If the appraisal is $340,000 and your current balance is $231,400, that's a loan-to-value ratio of about 68%, which is well below 80%. So yes, if the appraisal supports that value, your PMI could be removed.
+Caller: How much is my PMI per month right now?
+Agent: Your current PMI premium is $96 per month.
+Caller: So the appraisal would pay for itself within six months of getting rid of PMI. That seems worth it.
+Agent: That's a very reasonable way to look at it. If you'd like to proceed, I can put in a request for an appraisal order. An appraiser from our approved panel will contact you within five to seven business days to schedule the inspection.
+Caller: Yes, I'd like to do that. What happens after?
+Agent: Once the appraisal is completed, we'll review the report. If it confirms your LTV is at or below 80%, we'll send you written confirmation that PMI is being removed and it will come off the following month's payment. If it comes in between 80% and 78%, you'll need to wait for automatic cancellation. But based on what you've described, you're likely well positioned.
+Caller: And while we're waiting for all this, I keep paying PMI?
+Agent: Yes, PMI continues until the removal is officially confirmed. Once approved, it stops with your next scheduled payment.
+Caller: Okay. Let's go ahead and order the appraisal.
+Agent: I'll submit that request right now. You'll receive a call or email from the appraisal management company within five to seven business days to schedule. The appraisal fee of approximately $500 will be collected at the time of the appraisal.
+Caller: Perfect. Thank you for walking me through all of that, Lisa. I feel like I finally understand how this works.
+Agent: Absolutely, happy to help. Is there anything else I can do for you today, Devon?
+Caller: No, that's everything. Thank you again.
+Agent: Of course. Have a wonderful day. Goodbye.
+Caller: Goodbye.

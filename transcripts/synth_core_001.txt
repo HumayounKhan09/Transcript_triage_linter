@@ -1,0 +1,50 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, my name is Jennifer, how can I help you today?
+Caller: Hi Jennifer, yeah I got this letter in the mail and I'm a little confused about it. It says I have an escrow shortage of eleven hundred dollars?
+Agent: I can definitely help you understand that. Can I pull up your account? I'll need your loan number or the property address.
+Caller: Sure, the loan number is 482910. And the property is at 4417 Birchwood Lane, Columbus, Ohio.
+Agent: Perfect, and can I get your name and the last four of your Social to verify?
+Caller: Raymond Kowalski, Social ends in 7734.
+Agent: Great, thank you Raymond, I've got your account pulled up. So you're right, you did receive your annual escrow analysis and it's showing a shortage of eleven hundred dollars. Let me walk you through what happened here.
+Caller: Please, because I have no idea why this is happening. I've had this mortgage for six years and this never happened before.
+Agent: Totally understandable. So your escrow account is what we use to collect funds each month to pay your property taxes and your homeowner's insurance on your behalf. Every year we do an analysis to make sure we're collecting enough to cover those bills. If the bills went up, your escrow might not have collected enough, and that creates what we call a shortage.
+Caller: Okay, so something went up?
+Agent: Yes. Looking at your account, your county property tax bill increased significantly this year. In the prior year, your taxes were being paid at four thousand two hundred dollars annually. This year, the county assessed them at five thousand three hundred and forty dollars.
+Caller: Whoa. That's over a thousand dollar jump. Why would my taxes go up that much?
+Agent: So that's actually determined by your county auditor, not by us. We just pay whatever bill the county sends. A few things can cause a jump like that — a reassessment of your property value, a local levy that passed, sometimes it's a combination. In your county, there was a school district levy that passed last November, and it looks like there was also a general property revaluation cycle this year.
+Caller: Nobody told me about this.
+Agent: The county would have sent you a notice of assessment directly. Sometimes those come and people don't realize what they are. But I understand it's a shock when you see the escrow letter. Now, the good news is you do have two options for how to handle the eleven hundred dollar shortage.
+Caller: Okay, what are they?
+Agent: Option one is a lump sum payment. You'd pay the eleven hundred dollars in one payment, and then we'd recalculate your monthly escrow payment going forward to reflect the higher tax amount. That would add about eighty-nine dollars per month to your payment.
+Caller: So even if I pay the lump sum I'm still paying more every month?
+Agent: Correct. The lump sum covers the shortage that already occurred — the gap between what we collected and what we paid. But your ongoing monthly escrow also has to increase because the taxes are higher going forward.
+Caller: What's option two?
+Agent: Option two is to spread the shortage over twelve months. Instead of paying eleven hundred dollars upfront, we add about ninety-two dollars per month to cover the shortage, on top of the escrow increase for the higher taxes. So your total monthly increase under option two would be approximately one hundred and eighty-one dollars per month.
+Caller: Okay so option one I pay eleven hundred now plus eighty-nine more a month, and option two I pay nothing now but a hundred and eighty-one more a month?
+Agent: That's exactly right, you've got it.
+Caller: How much is my payment going to be either way?
+Agent: Currently your total monthly payment is one thousand four hundred and twelve dollars. Under option one, after you pay the lump sum, it goes to one thousand five hundred and one dollars. Under option two, it goes to one thousand five hundred and ninety-three dollars.
+Caller: Okay. And this is just because of the property taxes, my insurance didn't change?
+Agent: Let me double-check that for you. Your homeowner's insurance premium — it looks like that stayed the same this year at fourteen hundred dollars annually. So yes, this is entirely driven by the property tax increase.
+Caller: Can I dispute my property taxes?
+Agent: You can, actually. You'd need to contact the Franklin County Auditor's office directly. They have a formal appeals process. But I want to be clear that even if you file an appeal, you'd still need to address the escrow shortage with us, because we're required to pay the tax bill as assessed until and unless the county changes it.
+Caller: Right, right. That makes sense. And when do I have to decide?
+Agent: Your new payment under whichever option you choose takes effect with your August 1st payment. If you want to do the lump sum, we'd need to receive it before then, or you can just let the monthly spread kick in automatically.
+Caller: What happens if I just do nothing?
+Agent: If we don't hear from you, the system will default to the spread option and adjust your payment accordingly starting August 1st. We'd send you a confirmation of that.
+Caller: Okay. I think I probably want to just do the lump sum and get it over with. How do I pay it?
+Agent: You can pay online through our website, you can call in and make a payment over the phone, or you can mail a check. Just make sure you note on anything you send that it's an escrow shortage payment, not a regular mortgage payment, so it gets applied correctly.
+Caller: And it won't go toward my principal or anything like that?
+Agent: Correct, it would go directly into your escrow account. It won't reduce your principal balance.
+Caller: Okay. Can I also ask — is there any way to prevent this from happening again next year?
+Agent: The best thing you can do is keep an eye on your county tax assessments each year. If you see a tax increase coming, you can contact us and we can do a voluntary escrow analysis to adjust your payment proactively. That way you don't end up with as big a shortage at the end of the year.
+Caller: That's actually helpful. I didn't know I could do that.
+Agent: Absolutely. Most people don't. Is there anything else on the escrow analysis letter I can help clarify?
+Caller: I think that covers it. So my deadline is basically before August 1st if I want to do the lump sum.
+Agent: That's correct. And I'm happy to take that payment over the phone right now if you have a checking account handy.
+Caller: I don't have my checkbook on me right now but I'll go online and do it later today.
+Agent: Perfect. And when you log into your account online, there should be a specific escrow shortage payment option in the payment menu. If you have any trouble finding it, call us back and we can walk you through it.
+Caller: Sounds good. Thanks Jennifer, you explained that way better than the letter did.
+Agent: I'm glad I could help, Raymond. I'll make a note on your account that you spoke with us and are planning to submit the lump sum payment online. Is there anything else I can do for you today?
+Caller: No, I think I'm all set. Thank you.
+Agent: Thank you for calling Horizon Mortgage Servicing. You have a great day.
+Caller: You too.

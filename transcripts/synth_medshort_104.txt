@@ -1,0 +1,45 @@
+Agent: Thank you for calling Summit Mortgage Servicing, this is Tyler. How can I help you today?
+Caller: Yeah hi, Tyler, my name is Carolyn Brecht. I have a conventional loan and my homeowners insurance just came up for renewal and my insurance agent is now telling me I might need flood insurance. I want to know if my loan actually requires it.
+Agent: Hi Ms. Brecht, I can look into that for you. Let me get your account pulled up. Can I have your loan number?
+Caller: It's 8812-4457.
+Agent: And the property address?
+Caller: 1505 Riverside Terrace, Baton Rouge, Louisiana, 70808.
+Agent: And last four of your Social?
+Caller: 3391.
+Agent: Thank you. I've got your account. So you have a conventional loan and you're asking whether flood insurance is required. Let me check your property's flood zone status here.
+Caller: My insurance agent said something about a flood zone map and that we might be in a special flood hazard area.
+Agent: That's exactly what matters here. Federal law — specifically the National Flood Insurance Reform Act — requires lenders to obtain flood insurance on loans secured by properties in Special Flood Hazard Areas, which are the high-risk zones designated by FEMA. Let me check what zone your property is coded to in our system.
+Caller: Okay. My insurance agent called it a Zone AE.
+Agent: Zone AE is indeed a Special Flood Hazard Area. That's a high-risk zone with a one percent or greater annual chance of flooding — also called a hundred-year floodplain. Our system does show your property is in Zone AE, which means yes, flood insurance is required on your loan.
+Caller: It was never required before. We've had this loan for six years.
+Agent: That can happen for a couple of reasons. Flood maps are updated periodically by FEMA, and sometimes properties move into higher-risk zones after a map revision. It's also possible the requirement was always there and there's been a compliance gap. Let me check your account history.
+Caller: A compliance gap sounds bad.
+Agent: It's not uncommon, unfortunately. If a property is in a flood zone and flood insurance lapses or was never obtained, federal regulations require us as the servicer to notify you and give you an opportunity to obtain coverage. If you don't, we're required to force-place a flood insurance policy.
+Caller: What does force-place mean?
+Agent: Force-placed insurance, also called lender-placed insurance, is a policy we obtain on your behalf to protect the collateral — meaning your home. The cost is typically much higher than what you'd pay through the National Flood Insurance Program or a private flood carrier, and it's added to your loan account.
+Caller: How much more expensive?
+Agent: It varies, but force-placed policies can be two to three times the cost of a standard NFIP policy. And they also typically only cover the lender's interest — meaning the outstanding loan balance — not the full replacement cost of your home or your personal belongings.
+Caller: Okay, that sounds like something to avoid. So I should just get my own flood insurance?
+Agent: That would be the recommended approach. Your insurance agent can help you get a policy through the National Flood Insurance Program or a private flood insurer. NFIP policies have a maximum coverage of $250,000 for the structure and $100,000 for contents.
+Caller: Is $250,000 enough?
+Agent: It depends on your home's replacement cost. If your home would cost more than $250,000 to rebuild, you may want to look into excess flood coverage on top of an NFIP policy. But for purposes of satisfying your loan requirement, as long as the coverage amount is at least equal to the outstanding loan balance or the NFIP maximum, whichever is less, that typically meets the requirement.
+Caller: What's my current loan balance?
+Agent: Your current outstanding balance is $187,440. So $250,000 in NFIP coverage would exceed your balance, and that should satisfy the loan requirement.
+Caller: Okay. And once I get the policy, what do I do?
+Agent: You or your insurance agent can send us the declarations page showing the policy is in force. We need to see the property address, your name as the insured, the coverage amount, and the policy effective and expiration dates. You can fax it, email it, or mail it to us.
+Caller: Is there an email address?
+Agent: Yes, our insurance department email is insurance@summitmortgage.com. You can also upload it through our online portal if you have an account set up.
+Caller: I do have an online account. I'll upload it there.
+Agent: Perfect. Once we receive and process it, we'll note your account that flood insurance is satisfied and you won't be at risk of force-placed coverage.
+Caller: Is there a deadline?
+Agent: We're required to give you forty-five days' notice before force-placing coverage. Let me check when the notice was sent. It looks like a notice went out eighteen days ago, so you have approximately twenty-seven more days to provide proof of coverage.
+Caller: Twenty-seven days. Okay, I can make that work. My insurance agent actually has a quote ready, I just wasn't sure if I needed it.
+Agent: Now you have clarity that yes, it is required. I'd suggest moving forward with that quote as soon as possible given the timeline.
+Caller: Will my payment go up?
+Agent: If you have an escrow account with us, yes, your payment will likely increase slightly once we add the flood insurance premium to your escrow calculation. That typically triggers a new escrow analysis.
+Caller: I do have escrow. How much of an increase are we talking?
+Agent: I can't say exactly without knowing the premium, but once we receive the policy we'll run an updated escrow analysis and notify you of any payment change.
+Caller: Alright. Thanks Tyler, this actually cleared up a lot.
+Agent: My pleasure, Ms. Brecht. Good luck getting that policy in place. Is there anything else I can help with?
+Caller: No, that's it. Thank you.
+Agent: Have a great day.

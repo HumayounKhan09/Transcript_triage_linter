@@ -1,0 +1,35 @@
+Agent: Thank you for calling Keystone Loan Services, this is Daniel speaking. How can I assist you today?
+Caller: Hi Daniel, my name is Priya Nambiar. I got a letter last month saying my mortgage was transferred to your company, and I'm a little worried because I already mailed my June payment to my old servicer and I have no idea if it got credited or not.
+Agent: Hi Priya, I completely understand your concern. Servicer transfers can definitely create some confusion around payments. Let me pull up your account. Do you have your loan number handy?
+Caller: Yes, it's 9903476.
+Agent: Thank you, one moment. Okay, I have your loan here. Your loan transferred to Keystone Loan Services effective June 1st, 2026, from Paramount Home Lending. Your original loan amount was $284,000, and your current outstanding balance is $261,847.19. Does that sound right?
+Caller: Yes, that sounds about right. I've had the loan for about three years.
+Agent: Perfect. So regarding your June payment — under federal law, specifically the Real Estate Settlement Procedures Act, there's a 60-day grace period that begins on the effective date of a servicing transfer. What that means is that if you sent your June payment to Paramount Home Lending, your previous servicer, you cannot be charged a late fee or reported as late to credit bureaus during that 60-day window, even though the payment went to the wrong place.
+Caller: Oh, that's a relief. So I won't get dinged on my credit?
+Agent: Correct, not during that protection period. However, there are two scenarios. The first is that Paramount may have already forwarded your payment to us. The second is that they may be holding it or returning it to you. Let me check your account activity to see if we've received anything. Give me just a moment.
+Caller: Okay.
+Agent: I'm showing that we did receive a payment forwarded from Paramount on June 14th, 2026, in the amount of $1,847.55, which matches your regular monthly payment amount. That has been posted to your account and is showing current. You're all caught up.
+Caller: Oh thank goodness. I was really worried about that. I mailed it like three days before the transfer date and I had no way to know if it would reach the right place.
+Agent: That's a very common situation and you handled it the right way. Going forward, all of your payments should be sent directly to us here at Keystone Loan Services. Do you have the new payment address?
+Caller: I got a letter but honestly I'm not sure where I put it. Can you give it to me again?
+Agent: Of course. You can mail payments to: Keystone Loan Services, Payment Processing Center, P.O. Box 88400, Columbus, Ohio 43218. If you prefer to pay online, we also have a website and a mobile app. And if you were previously enrolled in AutoPay through Paramount, that enrollment did not transfer over, so you would need to re-enroll with us.
+Caller: I actually was on AutoPay. How do I set that up with you?
+Agent: You can do it through our website at KeystoneLoanServices.com. You'll need to create a new account — just register with your loan number and last four of your Social. Once you're logged in, go to the Payment Center tab and you'll see the AutoPay enrollment option. It usually takes about one billing cycle to activate, so I'd recommend submitting a manual payment for your next due date while that's processing.
+Caller: When is my next due date?
+Agent: Your next payment is due July 1st, 2026, and the amount remains $1,847.55. You have until July 16th before any late fee would apply, but we always encourage payment on or before the first.
+Caller: Okay. And I noticed my interest rate seems higher on the new statement. Is that normal or did something change?
+Agent: Your interest rate cannot change as a result of a servicing transfer. The terms of your loan — the rate, the payment amount, the remaining term — all remain exactly the same. The rate on your loan is 5.25 percent fixed, and that was set at origination. It cannot be altered by a servicer. If there's a discrepancy on any statement, that would be a billing error that we'd need to investigate.
+Caller: Good, I just wanted to make sure. The statement looked a little different from what I was used to seeing.
+Agent: That's completely normal. Every servicer has a different statement format and layout, so the same information might just be displayed differently. If you'd like, I can go over the components of your statement with you to make sure everything makes sense.
+Caller: That would actually be helpful, yes.
+Agent: Sure. Your total monthly payment of $1,847.55 breaks down like this: $1,144.17 goes toward principal and interest, and $703.38 goes into your escrow account for property taxes and homeowner's insurance. The escrow portion is consistent with what Paramount was collecting.
+Caller: Okay, that does match up. I was looking at the wrong line on the statement.
+Agent: Easy to do. The format change can make things look different at first glance. Is there anything else about your account I can help clarify?
+Caller: Actually yes — I had a small dispute with my old servicer about an escrow shortage from last year. Do you have any record of that?
+Agent: I do see a note in your file that there was an escrow analysis conducted in March 2026 showing a shortage of $312.00, which resulted in a temporary payment increase of $26 per month through March 2027. That adjustment was carried over and is reflected in your current payment amount. The shortage repayment period ends March 1st, 2027, at which point your payment will decrease accordingly.
+Caller: Okay good, so it transferred over properly.
+Agent: It did. Your entire payment history and account notes transferred with the loan. Is there anything else I can help you with today, Priya?
+Caller: No, I think that covers everything. Thank you for clearing all of this up, Daniel.
+Agent: Of course. Welcome to Keystone Loan Services — we're happy to have you. Have a great day!
+Caller: You too, thanks again.
+Agent: Goodbye!

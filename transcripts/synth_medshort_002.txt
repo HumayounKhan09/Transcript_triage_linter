@@ -1,0 +1,34 @@
+Agent: Thank you for calling ClearPath Mortgage Servicing, this is Maria speaking. How can I help you today?
+Caller: Hi Maria. My name is Patricia Okafor. I got a late fee on my account and I'm really hoping you can help me get that waived. I've never been late before.
+Agent: I'm sorry to hear that, Patricia. I'd be happy to look into that for you. Let me pull up your account. Can I get your property address and the last four of your Social?
+Caller: Sure. The address is 881 Clover Ridge Drive, Raleigh, North Carolina 27609. And the last four of my Social is 5521.
+Agent: Thank you. And can you confirm the last four of your loan number?
+Caller: It's 4477.
+Agent: Perfect. I've got your account here, Patricia. I can see a late fee was assessed. Can you tell me a little bit about what happened?
+Caller: Yes, so my payment is always due on the first. I've been paying this mortgage for almost six years and I have never once been late. But this month, I had a family situation come up. My mother was in the hospital and I was traveling and I completely lost track of the date. By the time I remembered, it was the third. I paid immediately on the third but then I saw the late fee show up.
+Agent: I completely understand, Patricia. Family emergencies can absolutely throw everything off. Let me review your payment history here. Give me just a moment.
+Caller: Of course.
+Agent: All right, so I'm looking at your account and I can see your payment history going back to when you originated this loan. You've been with us since March 2018, is that right?
+Caller: That sounds about right, yes.
+Agent: And looking at the history, I can confirm that this is the first late payment we have ever recorded on your account. Every single prior payment came in on time or early. Your payment posted on the third, which put it two days past your grace period end date, which is why the late fee was generated.
+Caller: Right. I know technically it was late. I'm not disputing that. I just feel terrible because I've been so diligent. Six years of never missing.
+Agent: Your record truly speaks for itself, Patricia. A six-year perfect payment history is something we absolutely take into account. I'm going to go ahead and submit a one-time courtesy waiver on that late fee for you.
+Caller: Oh, thank you so much. How much was the fee?
+Agent: The late fee was $52.50. I'm reversing that in full as a one-time courtesy adjustment. You'll see a credit for that amount on your account, typically within two to three business days.
+Caller: That is such a relief. I was so stressed about it.
+Agent: Totally understandable. I do want to mention, Patricia, just for your awareness, that this is a one-time waiver. If you ever find yourself in a situation where payment might be delayed, you're always welcome to call us before the grace period ends and we can sometimes make note of the circumstances.
+Caller: That's good to know. I'll definitely call ahead if something like that happens again. I really hope it doesn't.
+Agent: I hope so too, but life happens. Now, just to confirm, your late fee of $52.50 is being waived and will be removed from your account. Is there a reference number or anything I can give you?
+Agent: Absolutely. Your waiver confirmation number is WVR-0048821. I'd recommend jotting that down in case you have any questions when you review your statement.
+Caller: WVR-0048821. Got it. I'll write that down. And just to double-check, this won't affect my credit score or anything, right? The late payment?
+Agent: That's an important question. Because your payment posted on the third and your grace period extended through the end of the second, the payment was considered late internally for fee purposes, but it was not reported to the credit bureaus. We only report to the credit bureaus when a payment is 30 or more days past the due date. So your credit is completely unaffected.
+Caller: Oh, that's a huge relief. I was worried about that.
+Agent: No impact to your credit at all. You're in great standing with us, Patricia.
+Caller: Wonderful. Thank you so much, Maria. You've been so helpful. This made my whole day better.
+Agent: I'm so glad I could help. Give your mother my best wishes for a speedy recovery.
+Caller: Thank you, I will. She's doing much better.
+Agent: That's wonderful to hear. Is there anything else I can help you with today?
+Caller: No, that was the only thing. I really appreciate it.
+Agent: Absolutely. Thank you for being such a loyal customer, Patricia. Have a great rest of your day.
+Caller: You too, Maria. Goodbye.
+Agent: Goodbye.

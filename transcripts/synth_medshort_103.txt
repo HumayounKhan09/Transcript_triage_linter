@@ -1,0 +1,43 @@
+Agent: Thank you for calling Clearwater Mortgage, this is Amber. How can I assist you today?
+Caller: Hi, this is Marcus Featherstone. I'm trying to refinance my FHA loan with a new lender and they're asking me for my FHA case number and I have no idea where to find that.
+Agent: Hi Mr. Featherstone, I can definitely help with that. Let me pull up your account. Can I get your loan number?
+Caller: It's 5521-7703.
+Agent: And the property address?
+Caller: 229 Maple Glen Court, Decatur, Georgia, 30033.
+Agent: And last four of your Social Security number?
+Caller: 8814.
+Agent: Thank you, I've verified your account. So you're refinancing and your new lender is asking for the FHA case number. Let me find that for you.
+Caller: Yes, they said they need it before they can proceed with the appraisal.
+Agent: That's correct. The FHA case number is used to track the loan in HUD's systems and stays with the property for a period of time. Let me look at your origination records here.
+Caller: I looked everywhere in my closing documents and couldn't find it.
+Agent: It can be tricky to locate in paper documents. It's typically on the FHA loan documents, specifically the Mortgage Insurance Certificate or the HUD-92900-A form from your original closing package. Your case number is 133-6229847.
+Caller: 133-6229847?
+Agent: That's correct. The first three digits, 133, represent the FHA field office number — in your case that's the Atlanta field office. The remaining digits are your unique case identifier.
+Caller: Okay, great. And is this something I should just give directly to the new lender?
+Agent: Yes, exactly. You provide that to your new lender and they can look up the case in HUD's systems. There's actually an important point about FHA case numbers and refinancing that you should know.
+Caller: What's that?
+Agent: FHA case numbers can be transferred from one lender to another, but they can also be reassigned or a new one created. If you're doing an FHA-to-FHA refinance, your new lender may be able to use the existing case number if it's still active, which can matter for things like the appraisal.
+Caller: What do you mean still active?
+Agent: FHA case numbers have a validity period. If too much time has passed since the original case was opened without a loan being originated, or in some circumstances after origination, the case can expire. For an existing FHA loan that's been active, the case number should still be in HUD's system.
+Caller: We bought this house four years ago. So it should be fine?
+Agent: It should be. For an existing originated and insured FHA loan, the case number remains in HUD's records. Your new lender will verify its status when they access the system.
+Caller: What system is that exactly?
+Agent: HUD's FHA Connection system. It's a web portal that approved FHA lenders have access to. They can look up case information, request case transfers, and manage the mortgage insurance aspects of FHA loans. You as the borrower don't have direct access to it, but your lender does.
+Caller: Okay. Is there anything else on my account that the new lender might need?
+Agent: They'll likely need your current outstanding principal balance, your mortgage insurance premium history, and your payment history. We can provide a payoff statement when they get closer to the settlement date. Some lenders also want a statement of account.
+Caller: Can I request a payoff statement now?
+Agent: You can, though payoff statements are typically only valid for thirty days. If your closing is more than thirty days out, I'd suggest waiting a bit closer to your expected closing date. But I can note your account and you can call back when you're ready and we can process that quickly.
+Caller: My closing is scheduled for about six weeks from now.
+Agent: Then I'd recommend calling back in about two to three weeks to request the payoff statement so it's still valid at your closing. We can usually get those processed within two to three business days.
+Caller: That makes sense. Is there a form I need to fill out to request it?
+Agent: No form needed. You can just call us back at this number, verify your identity, and request the payoff statement. You'll want to give us your expected closing date so we can make sure the per-diem calculations are accurate.
+Caller: What's a per-diem?
+Agent: It's the daily interest amount. Payoff statements include a per-diem because interest accrues every day. The statement will give a payoff amount good through a specific date, and if your closing happens after that date, the per-diem tells your closing agent how much more to collect.
+Caller: Oh, that makes sense. So if we close a few days late, they just add a few days of interest?
+Agent: Exactly. The closing agent handles that calculation. As long as the payoff statement is recent, it's straightforward.
+Caller: Alright. So just to recap — the case number is 133-6229847, and I give that to my new lender?
+Agent: That's correct. And if they have any trouble accessing it in FHA Connection, they can contact HUD directly. Is there anything else you need today, Mr. Featherstone?
+Caller: No, I think that's everything. That case number is what I needed.
+Agent: Perfect. Good luck with your refinance. Is there anything else before I let you go?
+Caller: No, I'm all set. Thanks, Amber.
+Agent: You're welcome. Have a great day.

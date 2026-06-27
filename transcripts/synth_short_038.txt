@@ -1,0 +1,36 @@
+Agent: Thank you for calling Silverline Mortgage, this is Derek. How can I help you today?
+Caller: Hi Derek. I need to know my current outstanding principal balance on my loan. I'm doing some financial planning and I need the number.
+Agent: I can help you with that. Let me verify your account first. Can I get your full name?
+Caller: Nina Caldwell.
+Agent: Thank you, Ms. Caldwell. And your loan number or property address?
+Caller: Property address is 3380 Elm Grove Circle, Minneapolis, Minnesota.
+Agent: And for identity verification, the last four of your Social Security number?
+Caller: 7712.
+Agent: And your date of birth?
+Caller: September 6, 1975.
+Agent: Thank you. One moment while I access your account.
+Caller: Of course.
+Agent: Okay, I have your account here. Your current outstanding principal balance as of today is $157,338.49.
+Caller: $157,338.49. Got it. And is that current as of today's date?
+Agent: That reflects your balance as of this morning's processing cycle. It includes all payments that have been applied through yesterday. If you made a payment today it would not yet be reflected, but based on your payment history I don't see anything pending.
+Caller: No, I haven't made a payment today. My last payment was the 1st of this month.
+Agent: Correct, your June 1st payment has been applied. The balance I gave you reflects that.
+Caller: Good. Now, I want to understand something. If I were to request a formal payoff quote, would that number be different?
+Agent: It would be slightly different, yes. A formal payoff quote is calculated to a specific future date, because interest accrues daily on your loan. The payoff quote would include your outstanding principal balance, plus all interest accrued from your last payment date through the anticipated payoff date, plus any fees that may be outstanding.
+Caller: So the $157,338.49 is just the principal and doesn't include accrued interest?
+Agent: Exactly. That's the principal balance. If you wanted a payoff as of, say, July 15th, we'd add approximately 45 days of daily accrued interest to that figure. Your interest rate is 4.125 percent, so your daily interest charge is approximately $17.80 per day.
+Caller: Okay, so if I needed a real payoff number for a specific date, I'd need to request a formal quote?
+Agent: Correct. A payoff statement can be requested online through your account portal, by phone, or by written request. We typically generate it within three to five business days, and it will be good for a set number of days, usually 30 days from the date of the statement.
+Caller: And if the payoff happens after the good-through date on the quote?
+Agent: You'd need a new payoff statement for the updated date. The amount changes because interest is still accruing every day the balance isn't paid. Lenders always recalculate to the actual payoff date.
+Caller: That makes sense. For now I just needed the principal balance for planning purposes, so the $157,338 works.
+Agent: Understood. To confirm once more: your outstanding principal balance as of today's cycle is $157,338.49. Your loan started at $195,000 with a 30-year term at 4.125 percent, originated in February 2013.
+Caller: And I've been paying for 12 years. Makes sense.
+Agent: Yes, you've made substantial progress. You've paid down approximately $37,661 in principal over that time.
+Caller: It never feels like that much when you're in it, but I guess it is.
+Agent: It really adds up. And the good news is that at this stage of your loan you're past the halfway point of the amortization schedule, so more of each payment is going toward principal than it was in the early years.
+Caller: That's good to hear. Alright, I think I have what I need. Thank you, Derek.
+Agent: Happy to help. Is there anything else I can assist you with today?
+Caller: No, that's it. Have a good one.
+Agent: You too, Ms. Caldwell. Thank you for calling Silverline Mortgage. Goodbye.
+Caller: Bye.

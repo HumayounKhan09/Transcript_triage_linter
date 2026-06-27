@@ -1,0 +1,39 @@
+Agent: Thank you for calling Pinnacle Loan Servicing, this is Jessica. How can I help you today?
+Caller: Hi Jessica. My name is Howard Pilkington. My financial advisor was asking me whether my mortgage is recourse or non-recourse and I honestly didn't know the answer. I was hoping you could tell me.
+Agent: Hi Mr. Pilkington, that's a great question and it's one a lot of people don't think to ask until something comes up. Let me pull up your account. Can I get your loan number?
+Caller: Sure, it's 6634-0092.
+Agent: And the property address?
+Caller: 78 Windermere Lane, Scottsdale, Arizona, 85251.
+Agent: And last four of your Social?
+Caller: 5519.
+Agent: Thank you. Got your account up. So your advisor is asking about recourse status. Can I ask what context they're asking about — is this for estate planning, or are you exploring selling or a short sale, or something else?
+Caller: We're doing some financial planning and looking at worst-case scenarios if the property value ever dropped significantly. Just want to know our exposure.
+Agent: That's very prudent planning. So let me explain the difference and then I'll tell you what I can see about your loan.
+Caller: Please.
+Agent: A recourse loan means that if you default and the lender forecloses, and the foreclosure sale doesn't generate enough to pay off the loan balance, the lender can pursue you personally for the remaining amount — that's called a deficiency judgment. A non-recourse loan means the lender's only remedy is the collateral itself. If they foreclose and the sale doesn't cover the balance, they cannot come after you personally.
+Caller: So non-recourse is obviously better for the borrower.
+Agent: From a personal liability standpoint, yes. But here's where it gets complicated, especially in Arizona.
+Caller: What do you mean?
+Agent: Arizona is one of the states that has anti-deficiency statutes, which means state law provides some non-recourse-like protections even if your loan document says it's a recourse loan. The protections depend on the type of loan, the type of foreclosure, and how the property was used.
+Caller: So state law might protect me regardless of what my loan says?
+Agent: Potentially. In Arizona, purchase money mortgages on owner-occupied properties of two and a half acres or less, secured by a single-family or two-family dwelling, generally cannot be pursued for a deficiency after a trustee's sale — which is the most common foreclosure method in Arizona. If those conditions are met, you have anti-deficiency protection.
+Caller: So what is my loan?
+Agent: Your loan documents show this is a conventional purchase money mortgage. You're using the property as your primary residence, and based on the property type in our system it's a single-family home. I don't have acreage listed, but those factors you'd want to confirm.
+Caller: It's definitely less than two and a half acres. It's a neighborhood home.
+Agent: Then based on Arizona law, if a foreclosure were ever conducted as a trustee's sale on this property — which is the standard non-judicial process in Arizona — the anti-deficiency statute would likely apply and protect you from a deficiency judgment, regardless of what the loan documents say about recourse.
+Caller: Interesting. So the state law overrides the loan terms?
+Agent: In that specific circumstance, yes. Anti-deficiency statutes are a matter of public policy and courts uphold them. However, there are exceptions. If the lender chose a judicial foreclosure process instead of a trustee's sale, deficiency rights may be preserved under certain conditions. And other types of loans — like HELOCs or second mortgages — may have different treatment.
+Caller: I only have one mortgage on this property.
+Agent: Then your situation is fairly clean for these purposes. The note itself is drafted with standard recourse language, as most conventional loans are, but the state law protections in Arizona would likely apply in the scenario you're describing.
+Caller: My advisor is going to ask me to get this in writing. Is that something you can provide?
+Agent: We can provide a copy of your promissory note, which shows the loan terms. However, we as a servicer can't provide a legal opinion about how state law applies to your specific situation. For that, your advisor should really consult with an Arizona real estate attorney who can review the full loan documents and confirm the statutory analysis.
+Caller: That makes sense. Can you at least send me a copy of the note?
+Agent: Absolutely. I can mail a copy of your promissory note to the address on file. It typically takes seven to ten business days. Would you prefer it mailed or would you like to access it through the online document portal?
+Caller: The portal is fine if it's already there.
+Agent: Let me check. Yes, your promissory note and deed of trust are both available in the document library in your online account under Loan Documents. You should be able to download them directly.
+Caller: Perfect. And the key thing is that it's a purchase money mortgage on a primary residence?
+Agent: Correct, those are the two critical factors for Arizona's anti-deficiency protection on a trustee's sale. Your advisor's attorney can confirm the rest.
+Caller: This is really helpful context. I appreciate you walking me through it.
+Agent: Of course. It's a nuanced topic. Is there anything else I can help you with today, Mr. Pilkington?
+Caller: No, I think that gives me what I need to take back to my advisor. Thank you, Jessica.
+Agent: Happy to help. Have a wonderful day.

@@ -1,0 +1,37 @@
+Agent: Thank you for calling Clearwater Mortgage, this is Derek. How can I assist you today?
+Caller: Hi Derek. I just renewed my homeowner's insurance policy and I want to make sure you have the current insurance on file. Can you verify what you have?
+Agent: Absolutely, that's an important thing to check. Let me pull up your account. Can I get your name?
+Caller: James Petrov.
+Agent: Thank you, Mr. Petrov. And your loan number or property address?
+Caller: Property address is 54 Cottonwood Street, Baton Rouge, Louisiana.
+Agent: And the last four of your Social Security number for verification?
+Caller: 2247.
+Agent: And date of birth?
+Caller: March 3, 1969.
+Agent: Thank you. One moment.
+Caller: Sure.
+Agent: Okay, I have your account. I can see the insurance information we currently have on file. We show a homeowner's insurance policy with Riverdale Insurance Company. The policy number on file is RIV-7741209. The effective date shows January 15, 2024, with an expiration date of January 15, 2025.
+Caller: Yeah, that's the old one. I just renewed it. The new policy started January 15, 2025. So it should have rolled over but I'm not sure if you got the new declarations page.
+Agent: I see. We don't yet have an updated policy on file. The system still shows the prior policy that expired January 15th of this year. It's possible your insurance company hasn't sent the renewal information to us yet, or it may be in processing.
+Caller: They told me they send it automatically. But I wanted to make sure.
+Agent: I understand. For escrow accounts like yours, we do rely on the insurance company to send us the declarations page directly when policies renew. If we don't receive it, we may send you a notice indicating we have no current insurance on file, which can trigger force-placed insurance in some cases.
+Caller: Force-placed insurance? What's that?
+Agent: Force-placed insurance, also called lender-placed insurance, is a policy that we would obtain on your behalf to protect the property if we can't verify you have active coverage. It's generally more expensive than a standard homeowner's policy and provides less coverage. It's not something you want to have if you can avoid it.
+Caller: That sounds terrible. What do I need to do?
+Agent: The easiest thing is to provide us with your new declarations page directly. You can fax it, mail it, or in some cases upload it through our online portal. Once we receive it, we'll update your file and the force-placed insurance concern goes away.
+Caller: Can I just give you the information over the phone right now?
+Agent: You can give me the policy details and I'll note them on your account, which will buy some time. But we will still need the actual declarations page on file as documentation. The note will flag that insurance is being verified and help prevent any automated notices from going out while we wait for the document.
+Caller: Okay, let's do that. The new policy is still with Riverdale. Policy number is RIV-8819044. Effective date January 15, 2025, through January 15, 2026. The coverage amount is $310,000 and the premium is $1,248 for the year.
+Agent: Got it. Riverdale Insurance, policy number RIV-8819044, effective January 15, 2025 through January 15, 2026, dwelling coverage $310,000, annual premium $1,248. I've noted all of that. And can you give me a contact number for Riverdale in case we need to verify?
+Caller: Their number is 1-800-555-0193.
+Agent: Perfect, noted. Now to get the declarations page to us, you can fax it to 1-866-555-0277, mail it to our insurance team at the address I can provide, or upload it through your online account under the documents section.
+Caller: I'll upload it tonight. That's probably the easiest.
+Agent: That's usually the fastest option. Once it's uploaded, it goes directly to our insurance team for review and typically processes within five to seven business days.
+Caller: Great. And I should call back to confirm it was received?
+Agent: You can, or you can also check the document status in your online account. It'll show whether the document is received, in review, or processed.
+Caller: Perfect. Thanks for the heads-up about all this, Derek.
+Agent: Happy to help. Is there anything else I can assist you with?
+Caller: No, that covers it. Thanks again.
+Agent: Thank you for being proactive about this, Mr. Petrov. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

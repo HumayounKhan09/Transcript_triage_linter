@@ -1,0 +1,29 @@
+Agent: Thank you for calling Blue Ridge Mortgage, this is Fatima. How can I help you today?
+Caller: Hi Fatima. I've been doing some research online about refinancing and I came across something called HARP. It said it was a government program that helped people refinance even if they were underwater on their mortgage. I wanted to find out if my loan qualifies for HARP.
+Agent: I appreciate you doing research and I'm glad you called, because I have some important information to share about HARP. Can I first pull up your account? I'll need your name and loan number.
+Caller: Sure, my name is Walter Drummond. My loan number is 6609-MM-55544.
+Agent: Thank you Walter. Can you verify the property address?
+Caller: It's 908 Ridgemont Drive, Pittsburgh, Pennsylvania 15237.
+Agent: And the last four of your SSN for verification?
+Caller: 4420.
+Agent: Perfect, I have your account. So Walter, I want to be straightforward with you. HARP — which stands for the Home Affordable Refinance Program — was a federal program that was created after the 2008 housing crisis to help homeowners who owed more on their mortgages than their homes were worth. It was a very helpful program for many people.
+Caller: Right, that's what I read. So does my loan qualify?
+Agent: Unfortunately HARP is no longer available. The program ended on December 31st, 2018. It was not extended beyond that date. So even if your loan would have qualified under the old criteria, there is no active HARP program to apply to today.
+Caller: Oh. I had no idea it had ended. The articles I was reading made it sound like it was current.
+Agent: That's a common issue — there's a lot of older content online that was written when HARP was active and it hasn't been updated to reflect that it ended. It's easy to come across it and think it's still available.
+Caller: Is there anything similar that replaced it?
+Agent: Yes, actually. After HARP ended, Fannie Mae and Freddie Mac introduced what are called high LTV refinance options. Fannie Mae has the HIRO program, which stands for High LTV Refinance Option, and Freddie Mac has the Enhanced Relief Refinance program. These serve a similar purpose to HARP for loans owned by those agencies.
+Caller: Would my loan qualify for one of those?
+Agent: To qualify, your loan typically needs to be owned or guaranteed by either Fannie Mae or Freddie Mac, and it needs to have a note date after October 1st, 2017. You'd also need to be current on your payments and meet other criteria. Let me check something on your account.
+Caller: Sure.
+Agent: Your loan does appear to be a Fannie Mae loan. So you may potentially have access to the HIRO program if you meet the other criteria.
+Caller: That's encouraging. What do I do to find out more?
+Agent: The next step would be to speak with a refinance specialist who can look at your full situation — your current balance, home value, credit, and income — and walk you through whether you qualify. I can flag your account and have someone reach out, or you can call our refinancing line directly.
+Caller: Could you flag it for a callback? I'd prefer that.
+Agent: Absolutely. I'll note your account that you're interested in exploring refinance options including the HIRO program. A specialist will reach out to you. Is the best number to reach you the phone number we have on file?
+Caller: Yes, that's fine.
+Agent: Perfect, I've added that note. Is there anything else I can help you with today?
+Caller: No, I think that covers it. Thanks for setting me straight on HARP — I would have wasted time looking into a dead program.
+Agent: Happy to help. We appreciate you calling to verify. Have a great day Walter.
+Caller: Thanks Fatima, you too. Bye.
+Agent: Goodbye.

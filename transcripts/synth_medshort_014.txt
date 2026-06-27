@@ -1,0 +1,40 @@
+Agent: Thank you for calling Riverside Mortgage Services, this is Kevin speaking. How can I help you today?
+Caller: Hi Kevin. I got a letter from FEMA saying my property has been added to a flood zone. I have a mortgage and I know that means I have to get flood insurance, but I'm not sure how that affects my payments.
+Agent: Hi. I'm sorry to hear your property has been remapped into a flood zone — that can be a surprise. I'd be happy to walk you through how it affects your escrow. Let me pull up your account first. Can I get your name and property address?
+Caller: My name is James Tillman. Property is 3847 River Oaks Lane, Baton Rouge, Louisiana 70816.
+Agent: Thank you. Last four of your Social?
+Caller: 8834.
+Agent: And last four of the loan number?
+Caller: 2259.
+Agent: Great. I've got your account. So first, let me confirm — have you already purchased flood insurance, or are you in the process?
+Caller: I just got a quote yesterday. I'm going to buy it but I wanted to talk to you first because I wasn't sure if it goes through escrow or if I pay separately.
+Agent: Good that you called. Since your property is now in a FEMA Special Flood Hazard Area, your lender is required to ensure flood insurance coverage is maintained. Because you have an escrow account with us for your homeowners insurance and property taxes, your flood insurance premium will also be added to your escrow.
+Caller: So I pay flood insurance through my mortgage payment each month?
+Agent: Exactly. Once you have a flood insurance policy in place, you'll need to provide us with the declarations page so we can add the annual premium to your escrow account. We'll then factor that into your monthly payment.
+Caller: The quote I got was $1,440 per year. What does that do to my monthly payment?
+Agent: Let me show you the math. $1,440 per year divided by 12 is $120 per month. Your current monthly escrow payment covers homeowners insurance and property taxes. We'd add $120 to your monthly escrow contribution. So if your current total payment is, say, $1,750, it would go to approximately $1,870.
+Caller: That's a meaningful increase. Is there any way to reduce it?
+Agent: There are a few things you can look into. FEMA offers a program where homeowners can appeal a flood zone designation if they believe it's incorrect, called a Letter of Map Amendment, or LOMA. This involves getting an elevation certificate from a licensed surveyor. If your property is actually above the base flood elevation, you could potentially be removed from the flood zone.
+Caller: How much does an elevation certificate cost?
+Agent: Typically between $500 and $1,500 depending on your area and surveyor. If the LOMA is approved, your flood insurance requirement would be removed and your escrow would drop back down.
+Caller: That might be worth exploring. My house is on higher ground than my neighbors. It surprised me that it got added to the zone.
+Agent: That's definitely worth looking into. You'd contact a licensed land surveyor, they prepare the elevation certificate, and you submit the LOMA application through FEMA's website. It can take two to three months to process, but if approved, the savings in flood insurance premiums could be substantial.
+Caller: In the meantime though I have to get the insurance?
+Agent: Yes. Once FEMA has designated your property as being in a Special Flood Hazard Area, your lender is required by federal law to mandate flood insurance. We have 45 days from notification to confirm coverage is in place. If you don't obtain a policy within that window, we're required to force-place a policy on your behalf, which is typically more expensive and provides less coverage.
+Caller: So I should just buy the policy now.
+Agent: Yes, I'd recommend getting the policy in place to protect yourself and meet the requirement. Then separately you can pursue the LOMA appeal.
+Caller: Once I buy the policy, how do I send you the declarations page?
+Agent: You can email it to our insurance department at insurance at riversidems dot com, or mail it to our servicing address. Include your loan number in the subject line. Once we receive and review the policy, we'll update your escrow calculation and send you a notice with your new monthly payment amount.
+Caller: How long does that take?
+Agent: Typically five to seven business days once we receive the document.
+Caller: And will my escrow cushion cover the new premium right away or do I need to fund that upfront?
+Agent: We'll conduct a supplemental escrow analysis when we add the flood insurance. If your current escrow balance is insufficient to cover the new annual premium in addition to existing obligations, you may receive a notice of a shortage that can be paid lump sum or spread over twelve months.
+Caller: Just like a regular escrow shortage?
+Agent: Exactly the same process.
+Caller: Okay. I'll buy the policy today and send you the declarations page right away.
+Agent: That's the right move. And I'll make a note on your account that flood insurance is being added due to a flood zone remapping, which will flag it for our escrow team.
+Caller: Thank you for explaining everything, Kevin. I feel much better knowing exactly what to expect.
+Agent: Absolutely. It's a big change but you're handling it the right way. Is there anything else I can help with?
+Caller: No, I think I've got what I need.
+Agent: Great. Have a good day, James. Goodbye.
+Caller: Thanks. Bye.

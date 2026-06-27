@@ -1,0 +1,37 @@
+Agent: Thank you for calling Oakbridge Mortgage, this is Kevin. How can I help you today?
+Caller: Hi Kevin. I've heard about something called PMI and my neighbor was telling me I might have it on my loan without knowing. Can you check if I have that?
+Agent: Absolutely, that's an important thing to know. Let me pull up your account. Can I have your name?
+Caller: Alicia Drummond.
+Agent: Thank you, Ms. Drummond. And the last four of your Social Security Number?
+Caller: 1175.
+Agent: And the property address?
+Caller: 24 Stonegate Court, Nashville, Tennessee 37201.
+Agent: Got it. Let me review your loan details. PMI stands for private mortgage insurance. It's required on conventional loans when the borrower puts down less than 20% at the time of purchase.
+Caller: I think we put down about 10%.
+Agent: That would typically trigger a PMI requirement. Let me look at your account details. I do show that your loan includes PMI. Your current PMI premium is $87.50 per month, which is included in your total monthly payment.
+Caller: Oh wow, I didn't even realize I was paying that. Where does it show up?
+Agent: It shows as a line item on your monthly mortgage statement. Your total payment of $1,743.00 breaks down as: principal and interest $1,211.80, escrow $443.70, and PMI $87.50.
+Caller: I always just look at the total. I had no idea. Okay so when does it go away?
+Agent: Great question. PMI can be removed in a couple of ways. First, once your loan balance reaches 80% of the original appraised value of your home, you can request cancellation in writing.
+Caller: And how do I know when that happens?
+Agent: Under the Homeowners Protection Act, lenders are required to notify you when you're scheduled to reach that point. We're also required to automatically cancel PMI when your balance reaches 78% of the original appraised value, even without a request.
+Caller: What was the original appraised value?
+Agent: The original appraised value at origination was $285,000. So 80% of that is $228,000. Your current balance is $248,612.00, so you're not there yet.
+Caller: How much longer until I hit that threshold?
+Agent: Based on your current payment schedule and amortization, you would reach the 80% threshold — which is $228,000 — in approximately 38 more months. About three years from now.
+Caller: Three years. Can I get there faster?
+Agent: Yes. If you make additional principal payments, you can reduce the balance faster and request PMI removal sooner. When you believe you've reached 80%, you submit a written request and we may require a new appraisal to confirm the value.
+Caller: Could the home value have increased enough that we're already at 80%?
+Agent: If your home has appreciated significantly, your loan-to-value ratio based on current market value could be favorable. However, for PMI removal, we typically use either the original value or require a new appraisal.
+Caller: So I could pay for a new appraisal and if the value is high enough, remove PMI now?
+Agent: Potentially, yes. You'd submit a written PMI cancellation request along with a current appraisal. If the loan-to-value based on the new appraisal is 80% or below, we'd process the cancellation.
+Caller: And an appraisal costs what, a few hundred dollars?
+Agent: Typically $400 to $600. If you're saving $87.50 a month in PMI, it could pay for itself fairly quickly depending on results.
+Caller: That's worth looking into. Okay, this is really helpful. I had no idea I was even paying PMI.
+Agent: It happens more often than you'd think. I'm glad you called to find out.
+Caller: Thank you Kevin. I have a lot to think about.
+Agent: Absolutely. Is there anything else I can help you with?
+Caller: No, that's enough for today. Thank you.
+Agent: Of course. Thank you for calling Oakbridge Mortgage. Have a wonderful day.
+Caller: You too. Bye.
+Agent: Goodbye.

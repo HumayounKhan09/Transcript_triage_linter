@@ -1,0 +1,45 @@
+Agent: Thank you for calling Summit Mortgage Servicing, this is Robert. How can I help you today?
+Caller: Hi Robert, my name is Patricia Villanueva. I got a letter in the mail saying my adjustable-rate period is ending and I wanted to understand what that means exactly and what my options are.
+Agent: Of course, Patricia. That's an important letter and it's definitely worth talking through. Can I pull up your account? Do you have your loan number?
+Caller: Yes, it's 6628-3317-A.
+Agent: Thank you, one moment. Okay, I have your loan here, Patricia Villanueva. I can see you have a 5/1 ARM — that means it had an initial fixed period of five years and then adjusts annually. The initial fixed period ends on August 1st, 2026, so that explains the notice you received.
+Caller: Right. My rate has been 4.5 percent this whole time. What happens now?
+Agent: Great question. After the fixed period ends, your rate will adjust based on an index plus a margin. Your loan is tied to the one-year SOFR index, and your margin is 2.5 percentage points. So your new rate will be whatever current SOFR is, plus 2.5 percent.
+Caller: What is SOFR right now?
+Agent: As of the most recent rate reset date, the one-year SOFR is approximately 5.1 percent. Adding your 2.5 margin gives an adjusted rate of 7.6 percent.
+Caller: That's a significant jump from 4.5 percent. What does that do to my payment?
+Agent: Let me calculate that for you. Your current outstanding balance is $318,400 with about 25 years remaining on your loan. At your current 4.5 percent rate, your principal and interest payment has been $1,764 per month. At 7.6 percent, your new estimated payment would be approximately $2,308 per month.
+Caller: That's almost $550 more a month. That's pretty alarming.
+Agent: I understand that's a significant increase, Patricia. However, your loan does have interest rate caps that limit how much the rate can change. Let me walk you through those. Your loan has what's called a 5/2/5 cap structure. The first cap is 5 percent — that means at the very first adjustment, the rate can go no higher than 4.5 plus 5, which is 9.5 percent. The periodic cap is 2 percent, meaning after the first adjustment, the rate can only change by 2 percent per year. The lifetime cap is 5 percent over the initial rate, so your rate can never exceed 9.5 percent over the life of the loan.
+Caller: Okay, so in this case the index plus margin gives 7.6 percent, which is well within the 9.5 cap, so I'd go to 7.6?
+Agent: That's correct. The cap doesn't come into play in this specific adjustment because 7.6 is below the first cap ceiling of 9.5. You would go to 7.6 percent for this adjustment period.
+Caller: How long does it stay at 7.6?
+Agent: Your rate will be fixed at 7.6 percent for twelve months, from August 1st, 2026 through July 31st, 2027. Then it will adjust again on August 1st, 2027, based on whatever SOFR is at that time plus your 2.5 margin. That annual adjustment continues for the remaining life of the loan.
+Caller: So every year it could go up or down?
+Agent: Exactly. If SOFR falls, your rate falls too, subject to the periodic cap of 2 percent change per adjustment. If SOFR rises further, your rate rises as well, but again capped at 2 percent per year and never above 9.5 percent total.
+Caller: Now, someone told me I might be able to convert this to a fixed rate. Is that true?
+Agent: Some ARMs do include a conversion option, Patricia, and I'm checking your loan documents now. Let me look at your note. Yes, I can see your loan includes a conversion feature. It allows you to convert to a fixed rate at any adjustment date during years two through ten of the loan term.
+Caller: Oh, that's great. How does the conversion work?
+Agent: The conversion rate would be determined by a formula specified in your note. Typically it's based on the average commitment rate for 30-year fixed mortgages as published by Freddie Mac during a specific reference period, plus a set number of basis points — in your case the note specifies plus 0.5 percent. There's also a conversion fee, which in your loan is $250.
+Caller: What would the fixed rate be approximately if I converted right now?
+Agent: Based on current Freddie Mac published rates of approximately 7.0 percent, your conversion rate would be 7.0 plus 0.5, so 7.5 percent. That's actually very close to the 7.6 percent adjusted rate. But the advantage of converting is that 7.5 percent would be locked in for the remaining life of the loan — no more annual adjustments.
+Caller: So I'd be paying 7.5 percent forever instead of 7.6 percent but potentially variable in future years.
+Agent: Correct. If you believe rates will stay high or go higher, converting gives you certainty. If you think rates will fall, staying on the ARM allows you to benefit from future decreases.
+Caller: Is there any deadline to request the conversion?
+Agent: Yes. The conversion notice typically needs to be submitted at least 30 days before the adjustment date. Since your adjustment date is August 1st, your deadline to submit a conversion request would be July 1st, 2026.
+Caller: That's only a few days away. I need to make a decision soon.
+Agent: That's right, it would need to happen quickly. I'd recommend you call back or submit the request in writing as soon as possible if you want to convert at this first adjustment. If you miss this window, you can still convert at the next annual adjustment date on August 1st, 2027.
+Caller: What's the process to request it?
+Agent: You'd need to submit a written conversion request. We can send you the form via email today. I'll also need you to pay the $250 conversion fee, which can be added to your loan balance or paid out of pocket.
+Caller: Can it be added to the balance?
+Agent: Yes, that's an option. It would increase your outstanding balance from $318,400 to $318,650 and your fixed payment at 7.5 percent would be approximately $2,293 per month.
+Caller: Versus $2,308 at 7.6 adjustable?
+Agent: Correct. Almost identical in the short run, but you'd have rate certainty going forward with the fixed conversion.
+Caller: I think I want to go ahead and convert. Can we start that process?
+Agent: Absolutely. I'll send you the conversion request form to the email address we have on file, which ends in gmail.com. You'll need to return the signed form. We should have it back no later than June 30th to ensure we can process by the July 1st deadline.
+Caller: Okay, I'll watch for that email today and get it back right away.
+Agent: Perfect. I'll also note in your account that you called on June 27th, 2026, regarding the ARM adjustment and conversion option, and that you intend to convert. Is there anything else I can help you with?
+Caller: No, I think that covers everything. I feel much better now that I understand what's happening.
+Agent: I'm glad, Patricia. Good luck with the decision and don't hesitate to call if you have any other questions.
+Caller: Thank you, Robert. Goodbye.
+Agent: Goodbye, Patricia. Have a great day.

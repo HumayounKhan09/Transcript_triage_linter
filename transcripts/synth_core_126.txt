@@ -1,0 +1,35 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, this is Amanda speaking. How can I help you today?
+Caller: Hi Amanda, my name is Trevor Hollis. I just closed on my first home last week and I'm honestly a little confused about when my first mortgage payment is due. The closing paperwork had so many pages I couldn't keep track of everything.
+Agent: Congratulations on closing on your first home, Trevor! That's a big deal. And you're definitely not alone — the first payment date confuses a lot of new homeowners. Can I pull up your loan to go over the specifics with you?
+Caller: Yes please. My loan number is 7741882.
+Agent: Perfect, give me just a moment to bring that up. Okay, I have your account here. Your loan closed on June 19th, 2026, and your loan amount is $312,400 at a fixed interest rate of 6.875 percent. Is all of that looking right to you?
+Caller: Yes, that's correct.
+Agent: Great. So here's how the first payment date works, and this trips up a lot of first-time buyers. With most mortgage loans, you have what's called a skip month built into the closing. Because interest on a mortgage is paid in arrears — meaning you pay for the previous month's interest — your first payment is typically due on the first of the month that is two months after your closing month.
+Caller: Okay, so if I closed in June, my first payment is due in August?
+Agent: That's exactly right. Your first payment is due August 1st, 2026. The June interest was collected at closing as a prepaid item — you may have seen that on your closing disclosure as a line item called prepaid interest. That covered June 19th through June 30th. Then July is your skip month, and August 1st is when your regular monthly payments begin.
+Caller: Oh, that makes sense. So I actually have more time than I thought. I was panicking thinking I owed something in July.
+Agent: Completely understandable. A lot of people get worried about that. You do not owe anything in July. Your first scheduled payment of $2,052.18 is due August 1st, 2026, and you have a 15-day grace period, so technically you have until August 15th before any late fee would apply.
+Caller: What's the late fee if I miss that window?
+Agent: The late fee on your loan is 5 percent of the principal and interest portion of the payment. That would be approximately $94.17. We always encourage people to pay on or before the first to avoid that, but the grace period is there as a safety net.
+Caller: Got it. And is there a way to set up automatic payments? I don't want to forget.
+Agent: Absolutely. We have a few options. You can enroll in AutoPay through our website or our mobile app, and there's no fee for that. You just link your checking or savings account and choose your monthly draft date. You can set it to draft on the 1st, the 5th, or the 10th of each month.
+Caller: I'd probably do the 5th so my paycheck has time to clear. How do I set that up?
+Agent: You'd go to our website at HorizonMortgageServicing.com, click on the Login button, and if you haven't created an account yet, you'd register with your loan number and the last four digits of your Social Security number. Once you're in, there's an AutoPay tab right on the dashboard. It walks you through the whole process in about five minutes.
+Caller: Okay that sounds easy enough. Now, my payment — is that $2,052 just the principal and interest, or does it include taxes and insurance too?
+Agent: Great question. Your payment of $2,052.18 is principal and interest only. However, looking at your account, you do have an escrow account set up. Your total monthly payment including the escrow for property taxes and homeowner's insurance is actually $2,489.54.
+Caller: Wow, okay. That's a bigger number than I was expecting. Where does the extra money go exactly?
+Agent: The difference — about $437.36 — goes into your escrow account each month. We hold those funds and then pay your property tax bill and your homeowner's insurance premium on your behalf when they come due. This way you're not hit with a large lump sum payment once or twice a year for taxes.
+Caller: That's actually kind of nice. So I don't have to worry about paying taxes separately?
+Agent: Correct. We handle those disbursements for you. You'll receive an escrow analysis statement every year, typically in January, that shows what came in, what went out, and whether your escrow balance needs to be adjusted. If your taxes or insurance go up, your monthly payment may increase slightly to account for that.
+Caller: And what if there's extra money sitting in the escrow account?
+Agent: If there's a surplus of $50 or more, we're required to refund that to you. If it's under $50, it typically stays in the account as a cushion. Federal regulations under RESPA govern how escrow accounts work, so there are rules we follow to make sure everything is handled correctly.
+Caller: Okay. Now one more thing — I got a letter saying I should keep a copy of my note and mortgage deed. Is there anything else I should have filed away?
+Agent: Yes, definitely. You'll want to keep your closing disclosure, your promissory note, your deed of trust or mortgage document, your title insurance policy, and your homeowner's insurance declarations page. Your loan servicer — which is us — will send you a welcome letter and your first billing statement before your August 1st due date. That statement will show all the payment details and your account number.
+Caller: And my loan number for online — that's the same 7741882?
+Agent: Yes, that's your loan number and that's what you'll use to log in online and to reference on any checks or payments you send.
+Caller: Perfect. I think I'm good. This was really helpful, Amanda. I was stressing out for nothing.
+Agent: Not at all — these are all really important questions, especially as a first-time buyer. Is there anything else I can help you with today?
+Caller: No, I think that covers everything. Thank you so much.
+Agent: You're very welcome, Trevor. Congratulations again on your new home. Have a great day!
+Caller: You too, bye.
+Agent: Goodbye!

@@ -1,0 +1,55 @@
+Agent: Horizon Mortgage Servicing, this is Jennifer, how can I help you today?
+Caller: Yeah hi, I got a notice in the mail about my interest rate changing and I'm pretty alarmed. It says my rate is going from four point five percent to six point eight seven five percent? That can't be right.
+Agent: I understand that's startling to see. Let me pull up your account and walk you through what's happening. Can I get your loan number?
+Caller: It's 394850. Property address is 2208 Wentworth Avenue, Phoenix, Arizona.
+Agent: And your name and last four of your Social?
+Caller: Marcus Webb, and the last four is 5573.
+Agent: Thank you Marcus, I've got your account. And yes, I can see the adjustment notice. You have an adjustable-rate mortgage, and this is your scheduled rate adjustment. I know it looks alarming but let me explain exactly what's happening and why.
+Caller: Please. Because my payment is going up almost four hundred dollars a month according to this letter.
+Agent: Three hundred and eighty dollars, yes. So first, let me make sure you understand the structure of your loan. When you took this out in 2019, you have what's called a 5/1 ARM. That means the rate was fixed for the first five years, and then after that it adjusts once per year. You're now hitting your first adjustment after the five-year fixed period.
+Caller: I knew it would adjust. I didn't think it would jump that much.
+Agent: I understand. Let me explain the mechanics of how the new rate is calculated. Your ARM is tied to an index — in your case, it's the one-year SOFR, which is a benchmark interest rate. Your rate is calculated as the index plus a margin.
+Caller: What's the margin?
+Agent: Your margin is two point seventy-five percent. That's locked in for the life of your loan, it never changes. The index, however, moves with market rates. When you got this loan in 2019, the index was very low. Now it's higher.
+Caller: So what's the index at right now?
+Agent: The current one-year SOFR rate used for your adjustment is four point one two five percent. Add your two point seventy-five margin and that gives you six point eight seven five percent.
+Caller: And the four point five I've had — was that fixed, or was that also the index plus margin?
+Agent: Your initial four point five was a discounted introductory rate, also called a teaser rate, negotiated at origination. It wasn't tied to the index. Now that the fixed period is over, the fully indexed rate applies.
+Caller: Can you just freeze my rate at four point five?
+Agent: I wish I could, but that's not something we can do unilaterally — it's a contractual adjustment based on your loan terms. However, I do want to talk to you about your options because you're not stuck with this rate forever.
+Caller: What are my options?
+Agent: First option is to do nothing, which means you accept the new rate and the higher payment. Your payment goes from the current one thousand two hundred and ten dollars to one thousand five hundred and ninety dollars starting your next adjustment cycle.
+Caller: That's not really an option.
+Agent: Okay. Second option — and this is what a lot of people in your situation do — is refinance. If you can qualify for a fixed-rate mortgage, you could lock in a rate and get out of the ARM structure entirely. Rates on thirty-year fixed are running in the six to six point five range right now, so depending on what you qualify for, you might get a rate that's actually comparable or slightly lower than this adjustment.
+Caller: That's interesting. What would I need to do?
+Agent: You'd apply for a refinance. Your credit score, current income, and home equity all matter. Do you know roughly what your home is worth right now?
+Caller: I think around three fifty. I paid two ninety for it.
+Agent: And your current balance?
+Agent: I can see it here — your current balance is two hundred and sixty-one thousand. So you've got significant equity. That's good for qualifying. You'd also want to know your credit score. Do you have a rough idea?
+Caller: Last time I checked it was around seven twenty, seven thirty.
+Agent: That's solid. You'd likely qualify for conventional refinance products. I'd encourage you to shop around with a few lenders. We do offer refinancing as well.
+Caller: Should I refinance with you or shop around?
+Agent: I'd honestly recommend getting a few quotes. We're one option, but there are many lenders. The key is to compare the total cost — not just the rate but also closing costs, because if you're not going to stay in the home long, the math might not work even with a lower rate.
+Caller: I'm planning to stay. I've been here five years and I plan to be here another ten at least.
+Agent: Then the break-even analysis works in your favor. If closing costs are say six thousand dollars, and you save a hundred dollars a month on your payment, you break even in five years. Over ten more years you'd save significantly.
+Caller: What's my third option?
+Agent: The third option is to understand what future adjustments look like and see if they might come down. Your loan has caps. Let me look those up for you. Your periodic cap — the maximum your rate can change in any single adjustment — is two percent. Your lifetime cap is five percent above your initial rate.
+Caller: So it can never go above nine point five percent?
+Agent: Correct. Your rate started at four point five, so nine point five is the ceiling. And it could come back down if rates drop — it would adjust downward the same way it adjusted upward.
+Caller: But that's cold comfort if it could still go to nine and a half.
+Agent: I understand. That's why many people in ARM situations choose to refinance during a rising rate environment.
+Caller: What's the two percent periodic cap mean for next year?
+Agent: It means next year, your rate can only go up or down by a maximum of two percentage points from this year's rate. So if rates spike dramatically, you're somewhat protected in any single year. But sustained high rates will eventually pass through.
+Caller: Okay. I think I need to seriously think about refinancing. How do I get a quote from you guys?
+Agent: You can call our refinance line directly or go to our website and request a quote. They'll pull your credit, review your income, and give you a formal loan estimate within a few business days. Or you can call multiple lenders simultaneously — shopping for a mortgage within a forty-five day window only counts as one credit inquiry, so it won't hurt your score.
+Caller: I didn't know that. That's good to know.
+Agent: Yeah, the credit bureaus understand that you're comparison shopping for a mortgage, not applying for many loans. So definitely get multiple quotes.
+Caller: When does this new rate actually take effect? What's my first payment at the higher amount?
+Agent: Your first payment at the new rate is July 1st. So you have until then before the higher payment kicks in.
+Caller: Okay. That gives me a little time to think this through.
+Agent: It does. And Marcus, one more thing — whatever you decide, make sure you keep making your current payments on time. Being delinquent would hurt your ability to refinance.
+Caller: Of course. Yeah. Okay, thank you Jennifer. This was a lot of information but I feel like I understand it now.
+Agent: I'm glad. You asked really good questions. Is there anything else I can help you with today?
+Caller: I don't think so. I'm going to make some calls about refinancing.
+Agent: Good luck. Have a great day, Marcus.
+Caller: Thanks. You too. Bye.

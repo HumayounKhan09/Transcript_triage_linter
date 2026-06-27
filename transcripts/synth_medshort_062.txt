@@ -1,0 +1,38 @@
+Agent: Meridian Home Lending. This is Rachel speaking. How can I assist you?
+Caller: Hi Rachel. I'm Nate Bergman. I'm thinking about selling my house and my real estate agent mentioned something called a due-on-sale clause. She said most mortgages have it and I need to understand what it means before I proceed. Does my loan have one?
+Agent: Good question to ask upfront, Nate. This will absolutely affect your sale options. Let me pull up your loan so I can give you a definitive answer. Can I get your loan number?
+Caller: It's 8-8-7-5-5-4-1.
+Agent: And the property address?
+Caller: 440 Sunridge Boulevard, Phoenix, Arizona, 85018.
+Agent: Last four of your Social?
+Caller: 5-5-8-1.
+Agent: Got it. I have your account. So your loan is a thirty-year conventional fixed-rate mortgage from 2019 with an interest rate of three point six two five percent. Let me look at the loan terms.
+Caller: My agent mentioned that if there's a due-on-sale clause, a buyer can't just assume my mortgage.
+Agent: Your agent is right, and yes, your loan does contain a due-on-sale clause. This is standard for virtually all conventional mortgages originated in the modern era. Let me explain exactly what it means in plain terms.
+Caller: Please.
+Agent: A due-on-sale clause — also called an acceleration clause — means that if you sell or transfer the property, we as the lender have the right to require that the entire remaining loan balance be paid off at the time of the sale. So when you sell your home, the mortgage must be paid in full at closing, typically from the proceeds of the sale.
+Caller: So a buyer can't take over my loan?
+Agent: Under the due-on-sale clause, no — a buyer cannot assume your mortgage without our approval, and for conventional loans with this clause, we are under no obligation to approve an assumption by a non-related buyer. As a practical matter, most conventional mortgage sales result in full payoff of the original loan, and the buyer secures their own financing.
+Caller: My rate is three point six two five. Rates now are much higher. My agent said if a buyer could assume my loan, that'd be a huge selling point.
+Agent: She's right that it would be a valuable feature, but with a conventional loan containing the due-on-sale clause, the lender controls whether an assumption happens. We're not required to allow it for a typical arm's-length sale to a stranger.
+Caller: Is there any way around it?
+Agent: Legally, no — not for a sale to an unrelated buyer with a conventional loan. The clause is enforceable. There are very limited federal exceptions under the Garn-St. Germain Act, but those apply to specific transfers like inheritance to a family member who will occupy the property, or transfer to a spouse — not to a typical home sale.
+Caller: What about if I sold to a family member?
+Agent: If you were to transfer the property to a close relative, like a child or a sibling who would occupy the home as their primary residence, that would fall under the Garn-St. Germain exceptions and we could not invoke the due-on-sale clause solely due to the transfer. However, we could still require the new owner to go through a qualification process.
+Caller: I'm not selling to family, just a regular buyer on the open market. So I just have to pay off the mortgage at closing.
+Agent: Exactly. When you close the sale, the title company will contact us for a payoff statement, which shows exactly how much is owed including principal, any accrued interest through the payoff date, and any fees. That amount is paid from the sale proceeds, the mortgage is released, and your buyer starts with a clean title and their own financing.
+Caller: What's my current payoff balance approximately?
+Agent: Let me calculate that. Your current unpaid principal balance is two hundred and sixty-one thousand, four hundred and twenty dollars. The payoff amount would be slightly higher due to per diem interest accrued through the payoff date. Based on your daily interest rate, every day adds about twenty-six dollars. The title company will request an official payoff good through a specific date when you're ready to close.
+Caller: That makes sense. And is there a fee to request the payoff statement?
+Agent: There's typically a small payoff statement fee for a formal written payoff quote. We charge twenty dollars for a written payoff statement mailed or faxed to the title company. If requested electronically through the portal, it's free.
+Caller: How far in advance do I need to request it?
+Agent: Most title companies request payoff statements about two to three weeks before closing. We'll generate a payoff good through a specified date, usually ten to thirty days out. If closing gets delayed and the payoff date passes, they'll need to request a new one.
+Caller: Good to know. So there's nothing surprising about the process — sell the house, payoff comes out of proceeds, done.
+Agent: That's the cleanest way to think about it. In the vast majority of home sales, that's exactly what happens. Your mortgage is paid at closing, a lien release is recorded, and you walk away with the remaining equity.
+Caller: And the lien release — how long does that take?
+Agent: We're required to release the lien within a certain timeframe after receiving payoff, typically thirty days. Most are processed much faster, within one to two weeks. The title company will follow up with us to get confirmation.
+Caller: Perfect. I think I understand the full picture now. The due-on-sale clause means my loan gets paid off when I sell, not assumed. Got it.
+Agent: Exactly right. Is there anything else I can help clarify, Nate?
+Caller: No, that's it. Thank you, Rachel. This was clear and helpful.
+Agent: Happy to help. Good luck with the sale. Have a great day.
+Caller: Thanks, you too.

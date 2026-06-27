@@ -1,0 +1,46 @@
+Agent: Thank you for calling Heritage Federal Mortgage, this is Rachel. Can I get your loan number?
+Caller: Sure, it's 5541-117-88. My name is Rosario Mendez.
+Agent: Thank you, Ms. Mendez. Can you verify your Social Security last four and the property address?
+Caller: 7823, and it's 2054 Crestview Avenue, San Antonio, Texas 78201.
+Agent: I've got your account up. How can I help you today?
+Caller: I spoke with someone last week about loss mitigation options, and they mentioned something called a partial claim for FHA loans. I've been thinking about it and I want to understand exactly how it works before I agree to anything.
+Agent: That's a great question and I'm glad you want to understand it fully before moving forward. A partial claim is a HUD — that's the Department of Housing and Urban Development — program specifically for FHA-insured loans. It's designed to help borrowers who've fallen behind get current without changing their original loan terms. Let me walk through it step by step.
+Caller: Please.
+Agent: A partial claim works like this: HUD advances money on your behalf — essentially a loan from HUD to bring your mortgage current. That advance pays your servicer the past-due amount, so your mortgage becomes current immediately. You don't make payments on the HUD advance right away. It's an interest-free subordinate loan — meaning it sits behind your first mortgage — and it only becomes due and payable when you sell the home, refinance, or pay off the first mortgage.
+Caller: So it's a second mortgage basically?
+Agent: It is structured like a second mortgage, technically called a promissory note secured by a lien — but it carries zero percent interest, and there are no monthly payments on it. It just sits there until the property is sold or the first mortgage is paid off.
+Caller: How much can the partial claim be?
+Agent: The partial claim cannot exceed twelve months' worth of principal and interest payments on your loan. So it's capped — it won't cover more than what the equivalent of one year of your mortgage payment is. In your case, your P&I payment is $1,094.00, so the maximum partial claim would be $13,128.00. Your current arrears are three payments, which is about $3,282.00 plus fees, so you'd be well within the cap.
+Caller: So HUD pays my servicer — you guys — the past-due amount, and then I owe HUD instead?
+Agent: Exactly right. The funds come from the FHA mortgage insurance fund. HUD records a lien against your property for the amount advanced. When you sell the home or pay off the first mortgage, the partial claim balance gets paid from the proceeds. The important thing is there's no monthly payment and no interest accruing on that amount.
+Caller: What does that do to my total debt? Like, what do I owe overall?
+Agent: Your first mortgage balance stays the same — the partial claim doesn't roll into your first mortgage. It sits separately. So if your first mortgage balance is $178,400.00 today, that remains $178,400.00. HUD then records a separate lien for the partial claim amount — let's say $3,400.00 including the arrears and fees. Your total indebtedness against the property becomes $181,800.00.
+Caller: So when I sell the house, that extra $3,400 comes off the top?
+Agent: Correct. The partial claim lien gets paid off at closing from the sale proceeds, just like your first mortgage gets paid off. If your home has appreciated in value, this is generally not a problem because there's sufficient equity to cover both.
+Caller: What if my home hasn't appreciated? What if I owe more than it's worth?
+Agent: That's an important consideration. If you're underwater — meaning you owe more than the home's value — the partial claim lien would add to that deficit. However, in practice, most borrowers who use a partial claim are not in that extreme a situation, and HUD is aware of this risk. If you're concerned about your home's current value relative to what you owe, that's worth thinking through before accepting.
+Caller: I've been in the house six years, so I've built up some equity. I think I'm okay.
+Agent: Six years with regular payments before the hardship — you likely do have equity. You can get a rough estimate by looking at comparable sales in your neighborhood, and our website also has a home value estimator tool.
+Caller: Are there any eligibility requirements I need to meet?
+Agent: Yes. To qualify for a partial claim, your loan must be FHA-insured, which yours is. You must be at least one payment behind — you are — and you cannot be more than twelve months behind, so you cannot exceed that twelve-month cap I mentioned. You also need to demonstrate the ability to resume your regular mortgage payments going forward. So if you have stable income, that works in your favor.
+Caller: I'm still employed. My hardship was a period of reduced hours, but I'm back to full hours now.
+Agent: That's ideal. Demonstrated recovery of income is exactly what HUD looks for. Do you have current pay stubs from the last thirty days?
+Caller: Yes, I got paid last week.
+Agent: Good. We'll need those, plus your last two months of bank statements, and a signed borrower assistance form. The process typically takes three to four weeks from when we receive a complete application to execution of the partial claim documents.
+Caller: What happens at execution? Do I sign something?
+Agent: Yes. HUD prepares a promissory note and a subordinate deed of trust. You sign both at a closing, very similar to when you first took out your mortgage. The signing can usually be done at a local title company or even mailed to you for signature in front of a notary.
+Caller: And after I sign, what happens?
+Agent: The funds are remitted to your servicer — us — and applied to your account to bring it current. Your regular monthly payment of $1,094.00 resumes on the first of the following month. You'll get a confirmation letter showing your account is current and the partial claim amount.
+Caller: Will I receive documentation of the HUD lien? Like, what does that paperwork look like?
+Agent: Yes. You'll receive a copy of the recorded promissory note and deed of trust. You should keep those in a safe place because when you eventually sell, your closing attorney or title company will pull them and payoff figures will need to be requested from HUD's National Servicing Center at that time.
+Caller: Is there a way to pay off the partial claim early if I want to?
+Agent: Yes, absolutely. You can pay it off at any time with no prepayment penalty. You'd request a payoff figure from HUD directly — they have a dedicated line for partial claim payoffs. The amount to pay off is simply the original amount advanced, since there's no interest.
+Caller: Okay. I think I understand it now. It seems like the right option for me.
+Agent: Based on what you've shared — FHA loan, employed, able to resume payments, hardship was temporary — a partial claim does seem like a very strong fit. Would you like me to initiate the application today?
+Caller: Yes, please go ahead.
+Agent: I'll flag your account for partial claim processing. You'll receive the application packet within twenty-four hours by email. Submit it with your pay stubs and bank statements, and we'll take it from there. Your reference number is PC-2026-001183.
+Caller: PC-2026-001183. Perfect. Thank you, Rachel. You really explained it well.
+Agent: I'm happy to help. Is there anything else I can clarify before we go?
+Caller: No, I feel good about this now.
+Agent: Excellent. Have a great day, Ms. Mendez.
+Caller: You too. Goodbye.

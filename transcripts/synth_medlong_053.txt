@@ -1,0 +1,47 @@
+Agent: Thank you for calling Crestwood Loan Servicing. This is Marcus. Can I pull up your account with your loan number?
+Caller: Yes, it's 7723-4411. Patricia Nguyen.
+Agent: Thank you Ms. Nguyen. Can you verify your date of birth and the property zip code for me?
+Caller: Date of birth is April 14, 1969. Zip code is 30067.
+Agent: Perfect, I have your account. How can I help you today?
+Caller: I got a letter this week that says my loan modification was approved, which is great, I guess. But the new terms in the letter are really confusing and I don't know if I should sign it or not. There's a lot of numbers that don't match what I expected.
+Agent: Congratulations on the approval, Ms. Nguyen, and it's absolutely the right call to make sure you understand every term before you sign. I have your modification agreement pulled up on my screen. Let me walk you through each section and you can stop me and ask questions at any point.
+Caller: Okay, thank you. I really appreciate that.
+Agent: So the first section of the modification agreement covers what they call the unpaid principal balance after modification. Your original principal balance was $287,400. The new modified principal balance shown in your agreement is $294,312. Can you see that on your letter?
+Caller: Yes, and that's one of the things that confused me. My balance went up? How does that happen?
+Agent: That's one of the most common questions we get, so let me explain it clearly. When you were in forbearance or in the past-due period, interest continued to accrue on your loan even though you weren't making payments. That accrued interest — plus any advances the servicer made on your behalf for things like property taxes and insurance — got added to your outstanding principal. This is called capitalization of arrears. So that difference of about $6,912 between your old balance and new balance represents the accumulated unpaid interest and escrow advances that were rolled into your loan. It does not mean you're paying more than you owe — it's money that was already owed, just reorganized.
+Caller: Okay. That makes more sense than I thought. So I'm not being charged extra?
+Agent: Correct. You're not being charged a penalty or extra fee. It's a restructuring of existing debt. The next thing to look at is your interest rate. What does your letter show for the new interest rate?
+Caller: It says 4.875%. My old rate was 6.25%. So that went down, right?
+Agent: Yes, and that's a significant reduction — more than a point and a quarter. That lower rate is one of the main reasons your payment is going down. Let me walk you through the payment calculation. With your new balance of $294,312 at 4.875% over a 40-year term — and we'll get to that term in a moment — your new monthly principal and interest payment comes to $1,398.44. Your prior payment was around $1,721. So you're saving approximately $322 per month on the principal and interest portion alone.
+Caller: Wait, 40 years? My loan was a 30-year mortgage. I've been paying for six years. Now they're extending it to 40?
+Agent: That's another very common point of confusion, and I want to be straightforward with you. Yes, the modification resets your amortization. Your modification start date is July 1, 2026, and the new term runs 40 years from that date, so your new payoff date would be July 1, 2066. You had roughly 24 years remaining on your original loan. Now you'll have 40 years.
+Caller: That feels like a lot. I'll be paying this forever.
+Agent: I understand that concern. Here's how to think about it: the 40-year term is what makes your monthly payment affordable right now. If they kept a 24-year remaining term and just changed the rate, your payment reduction would be much smaller. The extended term is the mechanism that brings your payment down to something you can sustain. The trade-off is that you will pay more total interest over the life of the loan. However, there's no prepayment penalty in this agreement — I can confirm that — so if your financial situation improves, you can make extra principal payments at any time to pay the loan down faster.
+Caller: Is there a prepayment penalty section I should look for?
+Agent: Yes, look for Section 8 in your agreement. It should say something like "no prepayment premium applies." Can you find that section?
+Caller: Let me look. Yes, it says no premium shall be charged for full or partial prepayment.
+Agent: Good. That's the standard language and it protects you. Now, the next component is your escrow. Your letter shows a new monthly escrow amount. What does it say?
+Caller: It says escrow payment is $412 per month. I was paying $387 before.
+Agent: Right. Escrow went up slightly because your property tax assessment changed. The escrow portion covers your property taxes and homeowner's insurance. That $25 increase is based on your county's current tax rate. That's not part of the modification terms themselves — it would have increased on your original loan too. So your total new monthly payment — principal, interest, and escrow — is $1,398.44 plus $412.00, which equals $1,810.44.
+Caller: Okay wait. So my payment is actually going up? I thought it was going down.
+Agent: Your principal and interest portion is going down by about $322 a month. But the escrow portion went up by $25 because of the property tax increase. So your net savings on the full payment is approximately $297 per month compared to what you were paying before forbearance. Your old total payment was $2,108. Your new total payment is $1,810. So you are saving money — just not quite as much as the rate reduction alone would suggest because of the escrow change.
+Caller: Okay. That makes more sense. What about this section that says trial period plan? I thought I already did the trial.
+Agent: Yes, you completed your trial period plan — three payments at the trial amount — and the approval you received is the permanent modification. However, your agreement contains a clause that says the permanent modification terms become effective only after you make your first payment by the due date stated. That first payment is due July 1, 2026. If you don't make that payment on time, the permanent modification can be rescinded. So the trial is done, but the first payment under permanent terms is critical.
+Caller: Got it. So I need to pay by July 1st. Is there a grace period?
+Agent: There's typically a 15-day grace period for a late charge, so payments received by July 15th would not incur a late fee. However, I would strongly recommend making that payment by July 1st because the servicer has the contractual right to rescind the modification if the first payment is not received by the due date stated in the agreement, regardless of the grace period for late fees.
+Caller: Understood. What about the signature page? It says both borrowers need to sign. My husband is on the loan too.
+Agent: Yes, both borrowers named on the note need to sign the modification agreement and have the signatures notarized. The agreement needs to be returned to us by June 28, 2026, based on the deadline I see in the file. That's the date Crestwood needs the executed agreement back to process it before your July 1st due date.
+Caller: That's only a few days away. Where do I send it?
+Agent: You can return the signed, notarized agreement by overnight mail to our loss mitigation processing center at 4400 Commerce Boulevard, Suite 900, Atlanta, Georgia 30339. Or you can scan and email it to modifications@crestwoodloans.com. If you email it, please call us back to confirm receipt.
+Caller: We'll probably email it. Is there anything else in the agreement I should know about?
+Agent: I want to point out Section 12, which is the default clause. It states that if you miss two or more payments during the modification period, the servicer reserves the right to accelerate the loan. That means they could call the full balance due. This is standard language in all modification agreements — it's not unique to yours — but it's important to understand. The modification is an agreement that requires you to maintain the payment schedule.
+Caller: I understand. I'm committed to making these payments. I really just needed to understand what I was signing.
+Agent: That's exactly the right approach. Do you have any other questions about any section of the agreement?
+Caller: I think I understand it now. One last thing — after I sign and send it back, will I get a confirmation?
+Agent: Yes, we'll send you a confirmation letter once the executed modification is processed, typically within five to seven business days of receipt. You'll also receive a new welcome packet showing your updated payment schedule.
+Caller: Perfect. Marcus, thank you so much. This actually makes complete sense now.
+Agent: I'm very glad I could help clarify it. Is there anything else before I let you go?
+Caller: No, that's everything.
+Agent: Thank you for calling Crestwood Loan Servicing, Ms. Nguyen. Best of luck with the modification.
+Caller: Thank you. Bye.
+Agent: Goodbye.

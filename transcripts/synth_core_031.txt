@@ -1,0 +1,46 @@
+Agent: Thank you for calling Meridian Home Loans, this is Tom, how can I help you today?
+Caller: I need to talk to someone right now because my mortgage payment went up and nobody told me. My name is Patricia Elsworth. I've been paying $1,541 every single month for three years and now suddenly my statement says I owe $1,698. Nobody called me, nobody sent a letter — at least I didn't get one. I'm on a fixed income and I can't just absorb a $157 increase out of nowhere.
+Agent: Patricia, I completely understand your frustration, and I appreciate you calling in about this. Let me pull up your account right away so I can see exactly what's happened and explain it to you. Can I get your account number or property address?
+Caller: The property is 7714 Maple Glen Road, Memphis, Tennessee, 38117. Account number is MHL-229-4401.
+Agent: And for verification — last four of your Social and date of birth?
+Caller: Social ends in 1134, date of birth is February 11th, 1952.
+Agent: Thank you, Patricia. I have your account here. Let me look at the details. Your account is current — you've been making payments on time, which is excellent. Now let me pull up your escrow analysis, because that's almost certainly what changed here.
+Caller: What's escrow got to do with my mortgage going up? My interest rate is fixed. It says so right on my paperwork from when I bought the house.
+Agent: You're absolutely right that your interest rate is fixed. The principal and interest portion of your payment has not changed. But your monthly payment actually has three components — principal and interest, which is fixed; and then your escrow, which can change annually. Escrow covers your property taxes and your homeowner's insurance. Those amounts go up and down based on what the county charges and what your insurance company charges, and when they go up, your escrow payment goes up.
+Caller: Are you telling me the county raised my property taxes?
+Agent: Let me look at the escrow analysis that was run on your account. It says here the analysis was completed in October and the statement was sent on November 3rd. Let me see the specifics. Your property taxes for the upcoming year are projected at $4,218, which is up from last year's $3,490. That's an increase of $728 for the year, or about $61 more per month in your escrow for taxes.
+Caller: Seven hundred and twenty-eight dollars more in property taxes? That's outrageous. When did that happen?
+Agent: Property tax reassessments in Shelby County, Tennessee, typically happen every few years and values have increased significantly in many areas. The county likely reassessed your property and the taxable value went up, which drives the tax bill up. It's not something we control — we simply collect the actual amount the county bills us when your taxes are due.
+Caller: Okay so that accounts for $61. Where's the other $96 coming from?
+Agent: Let me look at the insurance portion. Your homeowner's insurance premium increased as well — it went from $1,440 annually to $1,824. That's $384 more per year, or $32 more per month. So taxes plus insurance accounts for $93 of the increase.
+Caller: You said $157. That's still not adding up.
+Agent: You're right to catch that. Let me look further. The analysis also shows that your escrow account had a shortage. Here's how that works — we estimate your taxes and insurance at the beginning of the year, and if the actual bills come in higher than estimated, we pay the difference out of the escrow account, which can create a negative balance or a shortfall. When that happens, the escrow analysis spreads the shortage recovery over twelve months added to your payment.
+Caller: So I'm also paying back money that was already spent out of my escrow?
+Agent: Correct. The shortage here was $759 and we're recovering it over twelve months, which is about $63 per month. So if you add $61 for taxes, $32 for insurance, and $63 for the shortage recovery — that's $156, which is essentially your $157 increase.
+Caller: I just want to make sure I understand this. My loan rate didn't change. My principal and interest is the same.
+Agent: That's exactly right. The P&I portion of your payment is $1,022 per month and that has not moved at all. It never will on a fixed-rate loan.
+Caller: So this increase is entirely because of the county and my insurance company.
+Agent: Yes. We have no control over property tax assessments or insurance premiums. We simply collect and pay them on your behalf through the escrow account.
+Caller: Can I just pay the taxes and insurance myself and not have escrow?
+Agent: That's a question I'm glad you asked. For some loan types, escrow waivers are possible. However, it depends on your loan-to-value ratio and loan type. I can see your loan is a conventional loan and your current balance is $141,200 against your original purchase price of $187,000. Your current LTV is around 75.5%. Most conventional loan guidelines require escrow until LTV is at or below 80%, and you're above that threshold, so unfortunately an escrow waiver isn't available to you at this time.
+Caller: What if I pay down the loan?
+Agent: If you bring the principal balance below 80% of the original appraised or purchase value — which would be $149,600 — you could request an escrow waiver. Your balance is $141,200, so you're actually already below that threshold. Let me recalculate — if the original purchase price was $187,000, 80% is $149,600 and your balance is $141,200. You may actually qualify.
+Caller: You said earlier my LTV is 75.5 percent. That's under 80.
+Agent: You're right — I misspoke. Your LTV based on original value is about 75.5%, which means you may be eligible to request an escrow waiver. However, there's also the question of whether your loan has any specific escrow requirements. Let me check the investor guidelines. Your loan is held by Freddie Mac, and for Freddie Mac conventional loans, once your LTV is below 80%, you can request a waiver, though some lenders charge a fee for that privilege.
+Caller: How much is the fee?
+Agent: For us, the escrow waiver fee is typically 0.25% of the loan balance added to your interest rate if it's done at origination, but for an existing loan requesting a waiver mid-stream, it's a flat processing fee — I'm seeing $250 for your loan type.
+Caller: But if I waive escrow I'd be responsible for paying my own taxes and insurance?
+Agent: Correct. You'd pay the county directly and your insurance company directly. Your mortgage payment would drop back to just principal and interest — $1,022 per month.
+Caller: That's a significant difference. I need to think about whether I can manage those large bills. My taxes are over $4,000.
+Agent: That's the main tradeoff — having one big tax bill twice a year versus spreading it into monthly payments. Many people on fixed incomes prefer the predictability of escrow even when rates go up, because they don't have to worry about saving for a large quarterly or semi-annual payment.
+Caller: Honestly, I think I'm going to stay with escrow. I can't handle the lump sum. But I want to know — can I fight my property tax assessment?
+Agent: Absolutely. That's a county-level process. In Shelby County, Tennessee, there's an assessment appeals process — you can contact the Shelby County Assessor of Property's office directly to contest the assessed value. If the assessment is successfully lowered, your taxes go down and your escrow would be re-analyzed next year.
+Caller: That might be worth doing if my property value was over-assessed.
+Agent: Many homeowners find success with that process, especially if comparable sales in the neighborhood support a lower valuation. I'd encourage you to look into it.
+Caller: Alright. This is still frustrating but at least I understand why it happened. I'm not happy about it, but I understand.
+Agent: That's completely fair, Patricia. I'm sorry we didn't do a better job of communicating the change in advance. We do send escrow analysis notices but I understand they can be easy to miss or seem like routine mail.
+Caller: I'll look through my papers. Maybe it came and I set it aside.
+Agent: Quite possible. Is there anything else I can help you with today?
+Caller: No, I think we've covered it. Thank you for explaining it clearly, Tom. I was furious when I called.
+Agent: Understandably so. I'm glad we could sort it out. Have a good day, Patricia.
+Caller: Thank you. Goodbye.

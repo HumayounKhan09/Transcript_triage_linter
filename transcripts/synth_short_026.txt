@@ -1,0 +1,35 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, this is Tom. How can I help you today?
+Caller: Hi Tom, yes, I wanted to find out what my current escrow payment amount is. I feel like it changed recently and I'm not sure what the new number is.
+Agent: I'd be happy to help you with that. Can I start by getting your full name?
+Caller: Sure, it's Margaret Okonkwo.
+Agent: Thank you, Ms. Okonkwo. And can I get your loan number or the property address associated with the account?
+Caller: The property address is 412 Birchwood Lane, Columbus, Ohio.
+Agent: Perfect. And for verification purposes, can you confirm the last four digits of your Social Security number?
+Caller: Yes, it's 7731.
+Agent: Thank you. And your date of birth?
+Caller: March 14, 1968.
+Agent: Great, I've verified your identity. Let me pull up your account now. One moment please.
+Caller: Sure, take your time.
+Agent: Okay, I have your account here. Your current total monthly payment is $1,847.22. Of that amount, your escrow portion is $412.50 per month.
+Caller: Okay so it did go up. What does that escrow cover exactly?
+Agent: Your escrow account covers two things: your property taxes and your homeowner's insurance premium. Both are collected monthly and held in the escrow account, then disbursed on your behalf when those bills come due.
+Caller: I see. So why did it change? It used to be lower.
+Agent: That's a great question. Escrow payments are recalculated annually during what we call an escrow analysis. The analysis looks at the actual costs of your taxes and insurance over the past year and projects what they'll be in the coming year. If either of those went up, your escrow payment will increase to account for the higher bills.
+Caller: My taxes definitely went up this year. They reassessed our property.
+Agent: That would explain it. A property tax increase is one of the most common reasons escrow payments go up. The county sends us the updated tax bill and we adjust the escrow accordingly so we have enough funds to cover it when it's due.
+Caller: Okay that makes sense. Is there anything I can do to lower it?
+Agent: The escrow amount itself is driven by your actual tax and insurance costs, so there isn't a way to reduce it through us directly. However, if you believe your property was over-assessed, you can appeal the assessment with your county assessor's office. If the assessment comes down, your tax bill would decrease and your escrow would be adjusted at the next annual analysis.
+Caller: That's good to know. I've heard people do that but I wasn't sure if it was worth it.
+Agent: It can definitely be worth exploring, especially if there was a significant jump. Your county assessor's office can tell you the appeal process and deadlines.
+Caller: Alright. And just to confirm, the escrow piece is $412.50 a month?
+Agent: That's correct. $412.50 is your current monthly escrow contribution. Your principal and interest portion is $1,434.72, which brings the total to $1,847.22.
+Caller: Perfect. And when did this new amount take effect?
+Agent: The updated payment amount took effect with your June 1st statement, so it's been in place for the current billing cycle.
+Caller: Okay, that tracks. I noticed it when I went to pay last month.
+Agent: Yes, the escrow analysis notification and the new payment amount would have been reflected starting with that June billing statement. We also mail an escrow analysis statement that breaks down the changes in detail.
+Caller: I think I might have tossed that without reading it. I'll be more careful.
+Agent: No worries at all. Is there anything else I can help you with today?
+Caller: No, I think that covers it. Thanks for explaining everything so clearly, Tom.
+Agent: Of course. Thank you for calling Horizon Mortgage Servicing, Ms. Okonkwo. Have a great day.
+Caller: You too, bye.
+Agent: Goodbye.

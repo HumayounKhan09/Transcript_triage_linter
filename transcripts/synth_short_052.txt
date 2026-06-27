@@ -1,0 +1,31 @@
+Agent: Thank you for calling Lakeside Mortgage, this is Rachel speaking. How can I assist you today?
+Caller: Hi Rachel. I have an adjustable-rate mortgage and I'm trying to figure out when my rate is going to adjust next. I'm a little stressed about it honestly.
+Agent: I completely understand, that's an important thing to know. I'd be happy to look that up for you. Can I start by getting your name and loan number?
+Caller: Yes, my name is Darnell Whitfield and my loan number is 3309-alpha-8812.
+Agent: Thank you, Darnell. And can you verify the last four digits of your Social Security number for me?
+Caller: Sure, it's 4471.
+Agent: Thank you. And can you confirm the mailing address we have on file?
+Caller: It's 29 Orchard Street, Apartment 4B, Columbus, Ohio 43215.
+Agent: Perfect, I have your account pulled up. So Darnell, your loan is a five-one ARM, meaning it had a fixed period of five years initially, and then it adjusts annually after that.
+Caller: Right, I remember that now. And when's the next adjustment?
+Agent: Your next scheduled rate adjustment date is September 1st of this year.
+Caller: Oh wow, that's coming up pretty soon. That's only about three months away.
+Agent: That's correct. You should be receiving a change of interest rate notice in the mail approximately sixty to one hundred and twenty days before the adjustment date. If you haven't received one yet, you likely will very soon.
+Caller: Okay, and will the notice tell me what the new rate is going to be?
+Agent: Yes, the ARM change notice will include your new interest rate, your new monthly payment amount, and an explanation of how the rate was calculated based on the index and your margin.
+Caller: Can you tell me right now what my rate is going to adjust to? Or is it too early to know that?
+Agent: It's a little early to give you a final confirmed rate since the index value used for calculation is typically taken close to the adjustment date. However, I can tell you your current rate, your margin, and the index it's based on if that helps you estimate.
+Caller: Yes, that would help.
+Agent: Your current interest rate is 5.25 percent. Your margin is 2.75 percent. Your loan is tied to the Secured Overnight Financing Rate, also known as SOFR. So your new rate will be the SOFR value at the time of calculation plus 2.75 percent, subject to your periodic cap.
+Caller: And what's my periodic cap?
+Agent: Your periodic cap is two percent, meaning your rate can go up or down by no more than two percentage points at any single adjustment.
+Caller: So if SOFR is at, say, 4 percent, my new rate would be 6.75?
+Agent: That's exactly right, assuming the cap isn't triggered. If the calculated rate exceeded your current rate by more than two percent, the cap would limit the increase.
+Caller: Okay, that makes a lot more sense now. I've been kind of anxious about this because I wasn't sure if it was going to jump dramatically.
+Agent: I understand. The caps are there specifically to protect borrowers from dramatic swings. Is there anything else I can help clarify about the adjustment?
+Caller: No, I think I have a good picture now. I'll keep an eye out for that notice in the mail.
+Agent: Perfect. And if you have questions once you receive the notice, please don't hesitate to call us back. Is there anything else I can help you with today?
+Caller: No, that's all. Thanks so much Rachel, you explained that really clearly.
+Agent: You're very welcome, Darnell. We appreciate your business. Have a great day.
+Caller: You too, bye.
+Agent: Goodbye.

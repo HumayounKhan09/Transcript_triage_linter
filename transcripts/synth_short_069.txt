@@ -1,0 +1,32 @@
+Agent: Thank you for calling Summit Mortgage Servicing. This is Yuki. How can I help you today?
+Caller: Hi Yuki. I've been hearing a lot about home equity loans and lines of credit and I'm trying to figure out if I have enough equity to do something like that. Can you tell me my current loan-to-value ratio?
+Agent: Sure, I can help with that. The LTV, or loan-to-value ratio, is based on your current loan balance compared to the value of your home. Let me pull up your account and see what we have. Can I get your name and loan number?
+Caller: My name is Priscilla Thornton. Loan number is 5517-PP-88200.
+Agent: Thank you Priscilla. Can you confirm the property address?
+Caller: 2410 Foxcroft Circle, Charlotte, North Carolina 28211.
+Agent: And the last four of your SSN?
+Caller: 8813.
+Agent: I have your account here. So your current outstanding principal balance is two hundred and nineteen thousand, four hundred and thirty-two dollars.
+Caller: Okay. And what value are you using for the home?
+Agent: We use the most recent appraised value we have on file, which may not reflect current market conditions but it gives us a reference point. The value we have on file from the original appraisal at closing is three hundred and ten thousand dollars.
+Caller: So what's the LTV based on that?
+Agent: Based on those figures your LTV would be approximately 70.8 percent. That's calculated by dividing two hundred nineteen thousand by three hundred ten thousand and multiplying by one hundred.
+Caller: Is that considered good?
+Agent: Generally speaking, yes. Most lenders consider anything below 80 percent LTV to be favorable. At around 71 percent you have approximately 29 percent equity based on the value we have on file, which would likely put you in a reasonable position for a home equity product.
+Caller: Now my home might be worth more than it was when I bought it. The market has gone up in my area. Does that change anything?
+Agent: It could significantly. The LTV we calculated is based on our appraisal from when you originated the loan. If your home's current market value is higher, your actual LTV would be lower, meaning you have even more equity than that figure suggests.
+Caller: How would I find out the current value?
+Agent: A few options. You could look at recent comparable sales in your neighborhood, or use online tools like Zillow or Redfin as rough estimates. However, when you apply for a home equity loan or HELOC with any lender, they'll typically order a new appraisal or conduct an automated valuation to establish the current market value for underwriting purposes.
+Caller: And if my home is worth, say, four hundred thousand now, what would my LTV be?
+Agent: If the value were four hundred thousand and your balance remains at approximately two hundred nineteen thousand, your LTV would be about 54.9 percent. That would give you very strong equity positioning.
+Caller: That's quite a bit of equity. Is there anything on my current loan that would prevent me from taking out a home equity loan or HELOC?
+Agent: Your current first mortgage with us wouldn't typically block you from obtaining a home equity product from another lender, as long as they accept a second lien position behind our loan. Most home equity lenders do. However, your first mortgage would need to be in good standing, which yours is.
+Caller: What if I wanted to do it through you?
+Agent: We do offer home equity products in some circumstances. I can note your account and have a home equity specialist reach out to you to discuss what's available for your situation.
+Caller: Yes please, that would be helpful.
+Agent: I'll make that note now. They'll typically need current income documentation and will want to run credit as part of the process.
+Caller: That's fine. Thank you Yuki, you've been very helpful.
+Agent: My pleasure Priscilla. Is there anything else I can help you with today?
+Caller: No, I think that's it. Thanks again.
+Agent: Of course. Have a great day. Goodbye.
+Caller: Bye.

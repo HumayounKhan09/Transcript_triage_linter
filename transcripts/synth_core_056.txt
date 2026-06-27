@@ -1,0 +1,46 @@
+Agent: Thank you for calling Keystone Mortgage Services, this is Carlos. Can I get your loan number?
+Caller: Hi, yeah, the number is 8819-220-63. My name is Sandra Putnam.
+Agent: Thank you, Ms. Putnam. Can you verify your date of birth and property address?
+Caller: November 29th, 1971, and the property is 90 Lakeview Terrace, Minneapolis, Minnesota 55408.
+Agent: I've got your account. How can I help you today?
+Caller: This is really confusing and I'm hoping you can help. I was on a forbearance with my old mortgage company — Pioneer Home Lending — and then I got a letter saying my loan was sold to you guys. But I was in the middle of forbearance and I didn't even know the loan was sold until the letter arrived.
+Agent: I completely understand why that's disorienting, Ms. Putnam. Loan transfers do happen, and they can occur even while someone is in a forbearance or repayment arrangement. The good news is that federal law provides strong protections in exactly this situation. Let me pull up what we have on your account.
+Caller: Okay.
+Agent: I can see that your loan was transferred to Keystone effective May 1st, 2026. I also see a note in the system indicating that this account came in with an active forbearance arrangement from Pioneer Home Lending. Can you tell me when your forbearance started and what the original terms were?
+Caller: Pioneer approved me for six months starting December 1st, 2025. So it should run through May 31st, 2026. But nobody told me what happens now.
+Agent: That's correct — your forbearance period would have been set to end May 31st. Now, the important thing is that because the loan transferred mid-forbearance, we are required to honor the terms that were in place with Pioneer. The forbearance arrangement does not terminate simply because the loan changed hands.
+Caller: So you're still honoring it?
+Agent: Yes. The Homeowner Protection provisions under the CARES Act and ongoing servicing regulations require the new servicer to honor loss mitigation agreements entered into by the prior servicer. Your forbearance was in effect through May 31st, and we would treat it accordingly.
+Caller: But May 31st just passed. So now what?
+Agent: Right — so the forbearance end date has passed as of this conversation. That puts us at the post-forbearance resolution phase. This is when we work with you to determine how to handle the payments that were paused. What was your forbearance covering — were you making partial payments or were payments fully paused?
+Caller: Fully paused. Pioneer told me I didn't have to make any payments December through May.
+Agent: Okay, so six months of payments were paused. Your monthly payment is $1,388.00, so six months comes to $8,328.00 in deferred amounts. Now there are several resolution options. The first is a repayment plan — you resume your regular monthly payment and add an additional amount each month until the deferred balance is paid back. The second is a deferral — the missed payments are added to the end of your loan term and your regular monthly payment simply resumes. The third is a loan modification if your circumstances have changed and the original payment isn't affordable.
+Caller: Nobody from Pioneer ever told me what was going to happen at the end. Is that normal?
+Agent: Honestly, with servicer transfers mid-forbearance, there can be communication gaps. That's a known issue. The regulations require the prior servicer to send a goodbye letter and the new servicer to send a hello letter, but specific post-forbearance resolution details often don't get communicated clearly. That's why I want to make sure we go through everything now.
+Caller: I was also confused about who to make payments to. I made my May payment — wait, there was no May payment since I was in forbearance — but I need to know who gets June's payment.
+Agent: Starting June 1st, 2026, all payments should be made to Keystone Mortgage Services. Any payment sent to Pioneer after the transfer date of May 1st should have been forwarded to us, and we have a sixty-day period where we're required to accept and apply those even if they come addressed to the old servicer.
+Caller: I didn't make any payments. I was in forbearance.
+Agent: Right — so your first payment due to us is June 2026. Have you made a June payment yet?
+Caller: No, because I was confused about who to pay and I didn't even know where to send it.
+Agent: Understood. That's a fair situation given the circumstances. Here's what I recommend — let's get your June payment processed today if you're able, and simultaneously start a post-forbearance review to determine the best resolution for the $8,328.00 in deferred payments.
+Caller: Can I really afford a repayment plan on top of my regular payment?
+Agent: That depends on your current income and expenses. For a repayment plan, typical terms spread the deferred amount over twelve months. That would be an additional $694.00 per month on top of your $1,388.00 regular payment — so $2,082.00 per month total. Is that feasible for you?
+Caller: Not really. My income changed during the forbearance period. I went from full-time to part-time work.
+Agent: That's important information. A deferral would be a much better fit then. With a deferral, your six missed payments are moved to the end of your loan as a non-interest-bearing lump sum that's due when the loan pays off. Your regular monthly payment resumes at $1,388.00 and nothing extra is added each month.
+Caller: That sounds much more manageable. Do I qualify?
+Agent: I'll need to do a formal review, but based on what you've described — a documented hardship, a completed forbearance, and inability to afford a repayment plan — a deferral is a strong candidate. Certain loan types — FHA, VA, Fannie Mae, Freddie Mac — each have their own deferral programs with specific eligibility rules. What type of loan do you have?
+Caller: Pioneer said it's a conventional loan, Fannie Mae.
+Agent: Fannie Mae has a COVID deferral option as well as a general payment deferral option. You may qualify for one or both depending on timing. I'm going to open a formal loss mitigation review for you today.
+Caller: How long does it take?
+Agent: Once you submit a complete application, we have thirty days to review. Given that we received incomplete transfer documentation, I'm flagging this as a priority case. I'll note that the forbearance was valid and in effect and that the transfer created a communication gap.
+Caller: What do I need to send you?
+Agent: For the post-forbearance deferral request, I'll need your two most recent pay stubs reflecting your part-time income, your last two bank statements, and a brief written statement explaining the income change. I'll also need your signed borrower assistance form, which I'll send to you by email today.
+Caller: Okay. And where do I send my June payment while this is being reviewed?
+Agent: You can pay online at keystonemortgage.com, call our automated payment line at 1-800-774-2200, or mail a check payable to Keystone Mortgage Services, P.O. Box 3310, Atlanta, Georgia 30301. Your loan number must be on the check.
+Caller: Got it. Thank you so much, Carlos. I've been so stressed about this.
+Agent: I completely understand. You were caught in a gap that shouldn't have happened this way, and we're going to make it right. Your case reference number is TF-2026-007714.
+Caller: TF-2026-007714. Thank you. I'll get those documents to you.
+Agent: Please do, as soon as possible. Is there anything else I can help with?
+Caller: No. You've been incredibly helpful.
+Agent: Take care, Ms. Putnam. Have a good day.
+Caller: You too. Bye.

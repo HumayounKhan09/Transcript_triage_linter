@@ -1,0 +1,42 @@
+Agent: Thank you for calling Meridian Home Lending. This is James speaking. How can I help you?
+Caller: Hi James. My name is Lorena Vásquez. I have a question about my escrow account. My county just announced that you can now pay property taxes directly online and I kind of want to do that myself instead of going through escrow. Is that an option?
+Agent: Hi Lorena, great question. Let me pull up your account first so I can give you an accurate answer based on your specific loan type. Can I get your loan number?
+Caller: Yes, it's 4-4-6-2-1-1-9.
+Agent: Property address?
+Caller: 1740 Ferndale Court, Sacramento, California, 95831.
+Agent: And last four of your Social?
+Caller: 2-2-6-5.
+Agent: Thank you. Okay, I have your account. I can see your loan is an FHA loan. Is that correct — you're aware your loan is FHA?
+Caller: Yes, I went FHA because I didn't have twenty percent down. That was about four years ago.
+Agent: Right. So I want to be straightforward with you, Lorena. FHA loans have mandatory escrow requirements for the life of the loan. Unlike conventional loans, which allow escrow waivers under certain LTV conditions, FHA loans require escrow for property taxes and insurance as a condition of the loan. This is set by HUD, not by us as the servicer.
+Caller: Oh. So I can't opt out?
+Agent: Unfortunately, no. Not while your loan remains an FHA loan. The requirement is a federal mandate tied to the FHA mortgage insurance program. The reasoning is that HUD wants to ensure that taxes and insurance are paid so the property — which backs the loan — maintains its value and stays legally protected.
+Caller: Is there any exception to that?
+Agent: There's no exception to the FHA escrow requirement for taxes and insurance. HUD has been very consistent on this. Even if you have a lot of equity, even if you have a perfect payment record, the requirement stays in place.
+Caller: What if I refinance to a conventional loan?
+Agent: That's actually the path some borrowers take. If you were to refinance into a conventional loan and your loan-to-value ratio is at or below eighty percent, you'd be eligible to request an escrow waiver on the new conventional loan. Based on the length of time you've had your FHA loan and depending on what your home's value is now, you might have enough equity to do that.
+Caller: I've been in the house four years and the market has been good here. I think my house has gone up quite a bit.
+Agent: It's certainly possible you have enough equity. If you got an appraisal and it came in showing eighty percent LTV or less based on your current balance, a conventional refinance could give you the escrow waiver option. Of course, refinancing has its own costs and you'd want to evaluate whether it makes financial sense overall.
+Caller: That's a bigger conversation than I was expecting when I called. I was just hoping to say yes please let me pay my taxes myself.
+Agent: I completely understand. I'm sorry the answer isn't simpler. The FHA requirement is firm, and I don't want to give you false hope that there's a workaround within the current loan structure.
+Caller: Okay. Let me ask a different question then. My county says I'm overpaying on my taxes because I got an assessment reduction. How quickly will that show up in my escrow payment?
+Agent: That's a great follow-up. When your property tax amount decreases, we'll typically learn about it when your county sends updated tax bills or when we do your annual escrow analysis. The analysis happens once a year for most accounts.
+Caller: When is my escrow analysis?
+Agent: Let me check. Your escrow analysis is scheduled for February of next year. At that point, we'll recalculate your required escrow based on the actual tax amounts for the upcoming year. If your taxes have gone down, your escrow payment will go down, and you may also receive a surplus refund if we've been collecting more than necessary.
+Caller: So I might get a check?
+Agent: If the analysis shows you have more in escrow than is needed for the upcoming year's taxes and insurance, yes — we're required to refund any surplus above one month's escrow cushion. That refund comes in the form of a check to your address of record.
+Caller: That would be nice. How much is in my escrow right now?
+Agent: Your current escrow balance is two thousand, eight hundred and forty-five dollars.
+Caller: And what's the annual tax amount you're currently working with?
+Agent: We have your annual property tax estimated at three thousand, four hundred and eighty dollars, based on the most recent bill we received.
+Caller: My assessment reduction would bring it down to about twenty-eight hundred, I think. So I'm overpaying a little each month right now.
+Agent: Yes, and that difference will be captured at your February analysis. I can also flag your account for an interim escrow review if you'd like, especially if you have documentation of the new assessed value. That might allow us to adjust your payment sooner rather than waiting until February.
+Caller: I do have the notice from the county. How would I send that?
+Agent: You can upload it through our online portal under the Documents section, or mail it to our escrow department. If you include a note requesting an interim escrow review, our team will look at it and may be able to adjust your payment for the next billing cycle.
+Caller: That's actually really helpful. So even though I can't pay the taxes directly, I can at least get my payment adjusted sooner.
+Agent: Exactly. You can't step outside the escrow structure with an FHA loan, but we can work within it to make sure your payments are accurate.
+Caller: Okay. I'll upload that county notice today. Thank you for explaining all of this, James. I'm a little disappointed but at least I understand why.
+Agent: I understand the frustration. You're not alone in wanting more control over your finances. The FHA rules are what they are, but at least the interim review is an option.
+Caller: Appreciate it. Thanks again.
+Agent: Of course, Lorena. Have a great day.
+Caller: You too. Bye.

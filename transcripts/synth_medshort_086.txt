@@ -1,0 +1,43 @@
+Agent: Meridian Mortgage Servicing, this is Sandra. How can I help you?
+Caller: Hi Sandra. I'm really confused and a little upset, honestly. My name is Beatrice Morales. I went through a loan modification about six months ago and my payment was supposed to go down. But last month my payment actually went up from what it was right after the modification. I don't understand what happened.
+Agent: Hi Ms. Morales, I can understand why that's confusing and frustrating. Let me pull up your account so we can look at this together. Can you give me your property address?
+Caller: Yes. It's 8850 Cactus Ridge Way, Albuquerque, New Mexico, 87114.
+Agent: Thank you. Last four of your Social?
+Caller: 6641.
+Agent: Date of birth?
+Caller: June 3rd, 1971.
+Agent: Thank you. I have your account. And I can see the loan modification that was completed. Before I explain what might be happening, can you tell me more specifically what the payment was right after the modification, and what it is now?
+Caller: When the modification was first applied, my payment was $1,543 a month. I got a letter last month saying my new payment is $1,689. So it went up $146.
+Agent: I see. Thank you for those specific numbers. Let me look at the modification terms and the current payment breakdown. I want to make sure I explain this accurately.
+Caller: Please. Because when they modified my loan, they said my payment would be lower and more manageable. I took that at face value.
+Agent: I understand. So looking at your account and the modification agreement — your modification included a deferred principal amount and also had an escrow component. The reduction in your payment at the time of the modification was driven by a change in your interest rate. However, loan modifications don't freeze your escrow amount permanently. That's likely where the increase is coming from.
+Caller: Escrow? So the loan part didn't change?
+Agent: Correct. Your principal and interest portion — the part driven by your modification terms — has not changed. That stayed at what was set by the modification. But your escrow payment, which covers your property taxes and homeowner's insurance, is adjusted annually based on an escrow analysis. If your property taxes or insurance premiums went up, your escrow portion would increase, which increases your overall monthly payment.
+Caller: My property taxes went up. The county reassessed everything last year.
+Agent: That's almost certainly the cause. Let me pull up the escrow analysis. Yes, I can see here that your annual property tax projection increased by about $1,750 compared to the prior year. Divided by twelve, that's roughly $146 per month — which matches exactly the increase you described.
+Caller: So it's all from taxes?
+Agent: Yes, based on this analysis, the increase is entirely from the escrow portion. Your principal and interest payment stayed exactly at the modification amount. This is actually a normal and expected adjustment under any mortgage, modified or not. Escrow amounts float with actual tax and insurance costs.
+Caller: I feel like that should have been explained to me when I signed the modification. I feel like nobody told me the payment could still go up for other reasons.
+Agent: That's a fair point and I understand your frustration. Modification agreements do include language about escrow adjustments, but that language can be dense and it's easy to miss. You're not alone in being surprised by this. The clear part was communicated — your interest rate is lower — but the escrow variable piece often isn't emphasized clearly enough.
+Caller: So there's nothing I can do about it? I just have to pay more because of the county?
+Agent: The escrow adjustment itself reflects real costs — your actual tax bill — so we can't reduce it below what's required to cover those taxes. However, there are a couple of things worth checking. First, if you believe your property was over-assessed, you may have the right to appeal the assessment with your county. If the assessment is lowered, your tax bill drops, and we'd adjust your escrow at the next analysis accordingly.
+Caller: I actually did file an appeal. I didn't know it could affect my mortgage payment.
+Agent: Yes, it absolutely can. If your appeal succeeds and the county issues a revised tax bill, please send us a copy. We can do an off-cycle escrow analysis based on the corrected tax amount, and your payment would be recalculated downward.
+Caller: That's really good to know. How do I send that to you?
+Agent: You can upload it through our website's secure document portal, fax it to our escrow department, or mail it to our correspondence address. Include a note saying you're requesting an escrow reanalysis based on a corrected tax assessment, and include your loan number.
+Caller: And can you tell me my loan number?
+Agent: Your loan number is 4-0-0-8-8-3-0-0-4.
+Caller: Thank you. And is there any way to find out before my appeal is decided what my escrow shortage is and whether I can pay it upfront to reduce my monthly payment?
+Agent: Yes. When an escrow shortage exists, you have the option to pay it in a lump sum rather than spreading it across twelve months as an increase to your monthly payment. I can tell you what your current escrow shortage is.
+Caller: Please.
+Agent: Looking at the analysis, the shortage amount that's being spread over twelve months is $1,752. If you paid that $1,752 upfront, your monthly payment would drop back down to approximately $1,543 — which is where it was right after the modification. The next annual analysis would then recalculate based on current costs.
+Caller: Wow. I didn't know I could do that. Can I pay that today?
+Agent: You can. If you'd like, I can process a one-time escrow shortage payment today by phone, or you can mail a check marked "escrow shortage payment" with your loan number.
+Caller: Let me think about whether I have those funds available. But it's good to know I have that option. Right now let me focus on the tax appeal.
+Agent: That's smart. If the appeal succeeds, you may get a refund from the county and a lower ongoing payment going forward. Hold off on the lump sum until you hear back from the county.
+Caller: That makes total sense. Okay. I understand what happened now and I have a plan. I'm still a little frustrated it wasn't explained up front, but at least now I know what to do.
+Agent: I really appreciate your patience in working through this. Is there anything else I can help you with today?
+Caller: No, I think that's everything. Thank you Sandra, you were very thorough.
+Agent: You're welcome. And don't hesitate to call back once you have your tax appeal result. Thank you for calling Meridian Mortgage, Ms. Morales.
+Caller: Thank you. Bye.
+Agent: Goodbye.

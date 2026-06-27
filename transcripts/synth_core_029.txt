@@ -1,0 +1,46 @@
+Agent: Thank you for calling Lakeview Mortgage Servicing, my name is Derek, how can I help you today?
+Caller: Hi Derek, I'm Rosa Pedraza. I got a letter in the mail last week saying I was approved for a trial loan modification and that I need to start making trial payments next month. I'm a little confused about what a trial period actually means and what I'm supposed to do.
+Agent: Congratulations, Rosa — getting that approval letter is a big step. I'm happy to walk you through exactly what the trial period means and what to expect. Let me pull up your account first. Can I get your loan number or the property address?
+Caller: It's 5503 Elm Creek Court, Phoenix, Arizona, 85032. And my loan number is on the letter — it's 90-338-1174.
+Agent: Thank you. And for verification, last four of your Social and date of birth?
+Caller: Social ends in 4892, birthday is September 14th, 1976.
+Agent: Perfect, I have your account, Rosa Pedraza. I can see the modification approval notation here. Your original payment was $1,788 per month, and your trial modification payment is $1,341 per month. Your first trial payment is due November 1st. Three trial payments total — November, December, and January. Does that match your letter?
+Caller: Yes, exactly. $1,341 for three months. I just want to understand — is this the permanent payment? Or is it going to change again?
+Agent: Great question. The trial period payment is not automatically your permanent payment — it's the proposed permanent payment. The purpose of the trial period is twofold. From our perspective, we want to verify that the new payment amount is sustainable for you — that you can reliably make it. From your perspective, you get to see what the new payment feels like before it's locked in permanently.
+Caller: So if I make all three payments on time, what happens?
+Agent: If you make all three trial payments on time, we finalize the modification. You'll receive a permanent modification agreement to sign, and once that's executed, your loan terms are officially changed. In your case, the modification extends your loan term and the payment is reduced from $1,788 to $1,341 permanently.
+Caller: What's the interest rate going to be on the permanent modification?
+Agent: I can see in the notes that your proposed rate is 4.75% fixed, and the loan term is being extended to 40 years from the original remaining term. The permanent modification agreement letter will have all those details spelled out — your new rate, new term, and the breakdown of principal and interest.
+Caller: Does the past due amount just go away? Because I know I was several months behind.
+Agent: No, it doesn't disappear, but it's handled in a way that makes it manageable. Most modifications — and yours appears to follow this structure based on the notes — use what's called a principal deferral. The past-due amount, plus certain fees and escrow advances, gets moved to the back of the loan as a deferred balance. You don't pay interest on it and you don't make monthly payments on it — it comes due when you sell the home, refinance, or pay off the loan.
+Caller: Oh, so it's like a silent balance at the back.
+Agent: Exactly — that's a good way to think about it. It won't show up in your regular monthly payment, but it will be disclosed in your modification agreement and it will appear on your statements as a deferred balance. Just so you're aware of it when the time comes.
+Caller: That's fine. I'm planning to stay in this house long-term so it's not a concern right now.
+Agent: That's a perfectly reasonable approach. Now let me make sure you understand a few important things about the trial period itself, because there are some things that can cause problems.
+Caller: Okay, what should I watch out for?
+Agent: First — the payments must be received by the last business day of each month, not necessarily the due date of the first. Most trial plans allow a grace period but the safest approach is to make sure the payment is received before month-end. I'd recommend making them in the first week of each month to be safe.
+Caller: Can I set up autopay?
+Agent: Yes, and I actually strongly encourage it. I can set that up for you today from your checking account. It would draft on the first of each month automatically.
+Caller: Please, yes. My checking account is at Wells Fargo, routing number 121042882, account number ending in 7730. Do you need the full account number?
+Agent: I do need the full account number to set that up.
+Caller: Okay it's 4419-7730-2215.
+Agent: Thank you. I've entered that. I'll set the draft for the first of each month starting November 1st, amount $1,341. You'll receive a confirmation of the autopay enrollment separately.
+Caller: Perfect. Now what if something happens and I can't make one of the trial payments? Like a car repair comes up or something.
+Agent: That's something to take very seriously. If you miss a trial payment, the modification approval can be revoked. The trial plan is essentially a probationary period and the requirement is strict. If you know you're going to have trouble in a given month, call us immediately — don't wait. There's not a lot of flexibility in the trial period rules, but communicating early is always better than missing a payment without warning.
+Caller: That's really important to know. I'll make sure I don't let that happen.
+Agent: I know you will. The other thing I want to mention is that during the trial period, your account will still reflect the delinquency from before. Credit bureau reporting during a trial period can vary — some servicers report trial plan payments positively, some differently. I'd encourage you to check your credit reports once you're permanent, because once the modification is permanent and you're current, the reporting status improves.
+Caller: Okay. And when do I expect to get the permanent modification agreement?
+Agent: Typically within thirty to sixty days after you make your last trial payment. So if your last trial payment is January 1st, you could expect the permanent agreement somewhere in late January to early March. You'll need to review it, sign it, and return it by the deadline stated on the document. Don't miss that deadline.
+Caller: Is it notarized?
+Agent: Modification agreements sometimes require notarization and sometimes don't — it depends on the state and the investor guidelines. Arizona sometimes requires it. The agreement will specify whether notarization is needed. If it does, you'll need to have it signed in front of a notary before returning it.
+Caller: Okay. I think I understand the process now. Make three payments on time, don't miss any, sign the permanent agreement when it comes.
+Agent: That's exactly right. You've summarized it perfectly. And if you ever have questions about your account status during the trial period, don't hesitate to call. We can look up whether payments have been received.
+Caller: How long does it take for a payment to post if I make it by phone?
+Agent: Phone payments post within one to two business days. Online payments through our portal are the same. If you're using autopay, drafts are initiated the day before the draft date and typically post the next morning.
+Caller: Great. I think I have everything I need. I feel really good about this.
+Agent: You should — you did the hard work to get here, Rosa. Is there anything else I can help with today?
+Caller: I don't think so. I'm going to make sure I note all these dates in my calendar. November, December, January.
+Agent: That's a smart move. Good luck, and congratulations again on the approval.
+Caller: Thank you so much, Derek. Really appreciate the help.
+Agent: Of course. Take care, have a great day.
+Caller: You too. Bye.

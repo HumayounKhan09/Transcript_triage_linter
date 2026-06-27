@@ -1,0 +1,41 @@
+Agent: Thank you for calling Keystone Mortgage Group, this is Nicole. How can I assist you today?
+Caller: Hi Nicole. I'm Tina Ogunyemi and I have a construction-to-permanent loan with you all. We finished building our house about three weeks ago and I'm trying to figure out what happens next with the loan conversion. Nobody's told me anything.
+Agent: Hi Ms. Ogunyemi, congratulations on completing your build! Let me pull up your account and we can walk through the conversion process. Can I get your loan number?
+Caller: Yes, it's 9901-3345.
+Agent: And the property address?
+Caller: 6 Birchwood Court, Carmel, Indiana, 46033.
+Agent: And the last four of your Social Security number?
+Caller: 7728.
+Agent: Thank you. I've got your account. I can see you're in the construction phase — well, you said you're done building, which is exciting. Let me look at where things stand on the modification side.
+Caller: The builder gave us the certificate of occupancy about three weeks ago. I thought someone would have called us by now.
+Agent: Understood. The certificate of occupancy is a critical document for triggering the permanent conversion. Let me check if we received it. I'm not seeing it uploaded in the system yet. Did you send it to us?
+Caller: I didn't know I was supposed to. The builder gave it to us and I assumed it got handled automatically somehow.
+Agent: That's a common assumption. The certificate of occupancy, along with a few other documents, needs to be submitted to us to initiate the conversion. The builder may not have sent it directly since it's issued by the municipality to the homeowner.
+Caller: What other documents do you need?
+Agent: Typically we need the certificate of occupancy, a final inspection report or a builder's final affidavit confirming the project is complete, and in some cases an updated appraisal or completion certification depending on what your original loan agreement specifies. Let me look at your specific terms.
+Caller: Okay. I have the CO right here actually. I just didn't know to send it.
+Agent: No problem. Looking at your loan terms, you need the certificate of occupancy and a completion certificate signed by your builder. Once we receive those, we'll schedule a final inspection on our end and then process the modification to the permanent loan.
+Caller: What does the modification do exactly?
+Agent: During construction, your loan was structured as a construction loan — you were drawing funds as work was completed and likely paying interest only on the drawn amounts. The modification converts that to your permanent mortgage with a fixed monthly payment of principal and interest on the full loan balance.
+Caller: And what will my payment be?
+Agent: I can see your permanent rate is locked at 6.75 percent fixed for thirty years. Your final draw total and any remaining funds will determine the exact balance that converts. Let me look at your draw history. Your total draws to date are $387,200. Do you expect any additional draws?
+Caller: No, we're done. The last draw was the final payment to the builder.
+Agent: Then your permanent loan balance will be $387,200. At 6.75 percent over thirty years, your principal and interest payment would be approximately $2,510 per month. That doesn't include escrow for taxes and insurance, which we'll calculate separately.
+Caller: That's what I was expecting, roughly. Okay so I send the CO and the completion certificate and then what?
+Agent: Once we receive those documents, the review process typically takes five to seven business days. If everything is in order, we'll prepare the modification agreement, which you'll need to sign. After signatures are received and recorded, your loan officially converts to permanent status and your first full principal and interest payment will be due on the first of the following month.
+Caller: So it could be another two to three weeks before it's all done?
+Agent: Roughly, yes. If you submit today, and the review goes smoothly, you could be looking at converting within the next three weeks.
+Caller: In the meantime, am I still making interest-only payments?
+Agent: Yes, during the conversion period your loan remains in the construction phase and interest continues to accrue on the outstanding balance. You'll receive a billing statement reflecting the interest due.
+Caller: Okay. And the property taxes and insurance — when do those get set up in escrow?
+Agent: When we set up the permanent loan modification we'll establish your escrow account based on your current tax assessment and your homeowners insurance policy. You'll want to make sure you have a homeowners policy in force before conversion — we'll need the declarations page if we don't already have it.
+Caller: I got my policy last month. I'll send that along with the other documents.
+Agent: Perfect. You can email everything to closingservices@keystonemortgage.com with your loan number in the subject line. Or you can upload directly through the online portal.
+Caller: I'll do the portal since I already have an account. Is there a specific section?
+Agent: Yes, go to Document Upload and select Construction Loan Conversion Documents as the category. That routes it to the right team.
+Caller: Got it. I'll do it today.
+Agent: Excellent. Is there anything else you'd like to know about the conversion process?
+Caller: I think that covers it. I just didn't realize I needed to do anything to kick this off.
+Agent: It's a gap we try to communicate at origination but sometimes things get lost in the excitement of the build. You're in great shape now. Congratulations again on your new home.
+Caller: Thank you so much, Nicole. Really appreciate the help.
+Agent: Of course. Have a great day, Ms. Ogunyemi.

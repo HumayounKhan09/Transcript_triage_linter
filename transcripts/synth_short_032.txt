@@ -1,0 +1,34 @@
+Agent: Thank you for calling Meridian Mortgage Services, this is Priya. How can I help you today?
+Caller: Hi, I'm thinking about paying off my mortgage early, either a lump sum or maybe selling the house in the next year or two. I wanted to find out if there's a prepayment penalty on my loan.
+Agent: That's a smart thing to check before making any decisions. Let me pull up your account and I can tell you exactly what's in your loan terms. Can I get your full name?
+Caller: Theresa Nguyen.
+Agent: Thank you, Ms. Nguyen. And your loan number or property address?
+Caller: The address is 310 Orchard Hill Road, Nashville, Tennessee.
+Agent: And for identity verification, the last four digits of your Social Security number?
+Caller: 6618.
+Agent: And your date of birth?
+Caller: July 11, 1977.
+Agent: Thank you. One moment while I access your account.
+Caller: Of course.
+Agent: I have your account here. Ms. Nguyen, I can confirm that your loan does not have a prepayment penalty. You are free to make extra principal payments, pay off the loan in full, or sell the property at any time without incurring any additional fees for early payoff.
+Caller: Oh, that's great news. I honestly wasn't sure because I vaguely remember something about penalties being mentioned when we signed.
+Agent: It's possible it was discussed as a comparison or mentioned in the context of certain loan types that do carry them, but looking at your actual loan terms, there is no prepayment penalty clause on your mortgage.
+Caller: Can you tell me what a prepayment penalty actually is, just so I understand it better?
+Agent: Absolutely. A prepayment penalty is a fee that some lenders charge if a borrower pays off their loan ahead of schedule, either by selling the home, refinancing, or making large extra payments. The idea historically was to compensate the lender for losing the expected stream of interest income. They're less common now than they used to be, and there are federal regulations that restrict them on certain loan types.
+Caller: Are there loans where they're still common?
+Agent: They can still appear on some adjustable-rate mortgages, certain jumbo loans, and sometimes on non-QM loans, which are non-qualified mortgages outside the standard guidelines. Your loan is a conventional fixed-rate mortgage, and prepayment penalties are generally prohibited on that loan type under the qualified mortgage rules that took effect in 2014.
+Caller: That makes sense. Okay, so if I sold my house next year, I'd just pay off the remaining balance at closing?
+Agent: Exactly. At the time of sale, the title company or closing attorney would request a payoff quote from us, which would include your outstanding principal balance, any accrued interest up to the payoff date, and any applicable recording fees. There are no extra penalties on top of that.
+Caller: And what if I just wanted to throw an extra thousand dollars at the principal every few months?
+Agent: You can do that as well. Additional principal payments reduce your balance and shorten the life of the loan. You can make those online, by phone, or by mail. Just make sure to designate the extra amount as a principal-only payment so it's applied correctly.
+Caller: How do I make sure it's applied to principal only?
+Agent: Online, there's an option when you enter the payment to designate additional funds as principal reduction. If you're calling in, just tell the representative at the time of payment. And if you mail a check, include a note or payment coupon indicating the extra amount is for principal only.
+Caller: That's useful. I didn't know I could do that.
+Agent: It's a great strategy for paying down the loan faster and reducing total interest. Would you like your current payoff balance while I have you?
+Caller: Sure, why not.
+Agent: Your current outstanding principal balance is $224,817.55. If you needed a formal payoff quote for a specific date, we can generate that separately as it includes daily interest accrual.
+Caller: No, that's fine for now. Just good to know the number. Thanks for all the help, Priya.
+Agent: My pleasure. Is there anything else I can assist you with today?
+Caller: No, that's all. Have a good day.
+Agent: You too, Ms. Nguyen. Thank you for calling Meridian Mortgage. Goodbye.
+Caller: Bye.

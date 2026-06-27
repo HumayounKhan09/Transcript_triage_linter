@@ -1,0 +1,47 @@
+Agent: Meridian Home Lending, this is Yuki. How can I help you today?
+Caller: Hello, this is Gwendolyn Park. I got a letter saying I have an escrow surplus and there's a refund coming. I wanted to call and find out what this is about and when to expect the check.
+Agent: Hi Gwendolyn, I'm happy to explain that. Let me pull up your account first. Can I get your loan number?
+Caller: It's 7-7-0-3-4-5-6.
+Agent: And the property address?
+Caller: 914 Lakewood Terrace, Raleigh, North Carolina, 27609.
+Agent: And the last four of your Social Security number?
+Caller: 6-1-4-9.
+Agent: Perfect. I have your account. So you're right, your escrow account was recently reviewed as part of your annual escrow analysis. Let me walk you through what happened and what to expect.
+Caller: Please. The letter had a lot of numbers and I wasn't quite sure what I was looking at.
+Agent: Of course. So every year we're required by federal law to analyze your escrow account. We look at what's actually been paid out for your property taxes and homeowners insurance over the past year, and we compare it to what we collected from you through your monthly payment.
+Caller: And I paid too much?
+Agent: In this case, yes. There are a couple of reasons that can happen. Your property taxes may have come in lower than we projected, or your insurance premium may have decreased at renewal, or sometimes we carry a slightly higher cushion than necessary. In your situation, the primary reason is that your property tax bill came in lower than what we had estimated when we set up your escrow payment for this year.
+Caller: My tax assessment did go down slightly. I appealed it last year.
+Agent: That would explain it. When your assessment decreased, your tax bill decreased, but your monthly escrow payment was still based on the higher projected amount. So over the course of the year, you overpaid into escrow relative to what actually went out.
+Caller: How much is the refund?
+Agent: The surplus amount is four hundred and twelve dollars. That's the amount that exceeds the allowable escrow cushion, which is typically two months of estimated escrow payments.
+Caller: And that's coming as a check?
+Agent: Yes. A refund check for four hundred and twelve dollars will be mailed to your address of record. The letter should have listed that address. Is it 914 Lakewood Terrace, Raleigh, North Carolina, 27609?
+Caller: Yes, that's right.
+Agent: Good. The check was issued within the last week as part of the analysis cycle. You should receive it within seven to ten business days.
+Caller: So it's already in the mail?
+Agent: It should be, yes. The analysis ran on the twelfth of this month and the refund was processed at the same time.
+Caller: Okay. And does this change my monthly payment going forward?
+Agent: Yes, it does. That's the other part of the escrow analysis. Going forward, your monthly escrow portion will be adjusted to reflect the lower tax amount. Your new monthly payment starting next month will be one thousand, seven hundred and twenty-two dollars, down from one thousand, seven hundred and eighty-nine dollars.
+Caller: That's a savings of sixty-seven dollars a month.
+Agent: That's correct. The reduction reflects your lower property tax bill. Your principal and interest portion stays the same — only the escrow component changed.
+Caller: That's nice. Not a huge amount but every little bit helps.
+Agent: Absolutely. And it'll continue at that lower level unless your property taxes or insurance changes again.
+Caller: What happens at next year's analysis? Do I get another refund if there's another surplus?
+Agent: If there's a surplus again, yes, you'd receive another refund. If the analysis shows a shortfall, meaning we collected less than what was paid out, you'd have the option to pay the shortfall in a lump sum or have it spread across your monthly payments over the next twelve months.
+Caller: What's more common — refund or shortfall?
+Agent: It honestly varies year to year based on tax and insurance fluctuations. Some years you get a small refund, some years there's a small shortfall. We try to calibrate the monthly escrow collection to minimize large swings in either direction.
+Caller: Good to know. Is there anything I need to do when I get the check?
+Agent: No action required on your part. Just deposit it as you normally would. It's a standard refund check from our escrow department. No tax implications since it's a return of your own funds, not income.
+Caller: Good. I was going to ask about that. It's not taxable?
+Agent: Correct. An escrow surplus refund is not taxable income. It's simply a return of money you overpaid. It doesn't affect your mortgage interest deduction or anything on your taxes.
+Caller: That's a relief. One more thing — the letter mentioned something about an escrow account disclosure statement. What is that?
+Agent: The escrow account disclosure is an annual document that details all the escrow activity for the past twelve months — everything that was collected, every disbursement that was made for taxes and insurance, and the current balance. It's required under the Real Estate Settlement Procedures Act, also called RESPA. It's informational, just for your records.
+Caller: Do I need to do anything with it?
+Agent: Just keep it for your records. Some people file it with their mortgage documents. It can also be useful at tax time if your accountant wants to verify what was paid for property taxes.
+Caller: Perfect. I think I understand everything now. The refund is on the way, my payment goes down next month, and I just watch for the check.
+Agent: That's exactly right. Is there anything else I can help you with today, Gwendolyn?
+Caller: No, that covers it. Thank you for taking the time to explain it all so clearly.
+Agent: My pleasure. Enjoy that refund when it arrives. Have a great day.
+Caller: Thank you. You too. Bye.
+Agent: Goodbye.

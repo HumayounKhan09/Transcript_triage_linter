@@ -1,0 +1,131 @@
+Agent: Thank you for calling Homebridge Loss Mitigation, this is Rachel speaking. How can I help you today?
+
+Caller: Hi. My name is Marcus Webb. I'm calling because I'm in a really bad situation and I think I've been scammed. I don't even know where to start.
+
+Agent: Marcus, I'm sorry to hear that. You've called the right place. Take a breath and just tell me what happened. I'm going to listen and then we're going to figure out what we can do together.
+
+Caller: Okay. So I fell behind on my mortgage last year — about $8,000 behind — and I was panicking. I saw an ad online for a company called Apex Foreclosure Relief. They had a website, testimonials, the whole thing. They said they could stop my foreclosure and get my loan modified for a guaranteed fee of $3,500.
+
+Agent: Okay. And you paid them?
+
+Caller: I paid them $3,500 in February. They told me to stop paying my mortgage and stop talking to the bank — to you guys — while they negotiated on my behalf. They said it would confuse the process if I contacted you directly.
+
+Agent: Marcus, that instruction right there — to stop communicating with your servicer — is one of the most dangerous things a scam operation will tell a borrower. It's designed to keep you isolated while they do nothing. What happened after you paid?
+
+Caller: For about six weeks they kept telling me they were in negotiation with your company. They had a name — they kept mentioning someone named "David Chen" in your modification department. Then around April I couldn't reach them anymore. Phone went to voicemail. Email bounced. The website is gone.
+
+Agent: And did they ever actually contact us on your behalf?
+
+Caller: I don't know. Did they?
+
+Agent: Let me pull up your account. Can you give me your loan number or property address?
+
+Caller: The address is 2209 Fairfax Drive, Memphis, Tennessee 38117. Loan number is — I have it here — 5530847.
+
+Agent: One moment while I pull that up. Okay, Marcus, I have your account. I'm looking at the contact history here. I can see calls from your number — the last one was in January. There is no record of any third party contacting us on your behalf in February, March, or April. No power of attorney was received, no third-party authorization was on file.
+
+Caller: Oh god. They did nothing.
+
+Agent: I'm sorry to confirm that. They collected your money, told you to go silent, and did absolutely nothing. This is a textbook foreclosure rescue scam. I want to be very clear with you — what they did is illegal. Under federal law, specifically the FTC's Mortgage Assistance Relief Services Rule, or MARS Rule, it is illegal to charge upfront fees for mortgage modification or foreclosure rescue services before those services are actually delivered.
+
+Caller: Can I get my money back?
+
+Agent: That's a real question and I'll be honest with you — recovering the money from the company itself may be very difficult if they've disappeared. But there are steps we're going to take today that give you the best chance and also get you into the regulatory pipeline. First — you mentioned power of attorney. Did you sign any documents giving them power of attorney?
+
+Caller: Yes. They had me sign something. I have a copy.
+
+Agent: That's extremely important. Even though they never filed it with us, you should revoke that power of attorney immediately. A real estate attorney can prepare a revocation document, but even a written and notarized letter revoking any and all power of attorney you granted to Apex Foreclosure Relief should be prepared right away. If that POA is floating around and someone else tries to use it, you're exposed.
+
+Caller: I didn't even think about that. Okay.
+
+Agent: Let me also ask — did they ever have access to your bank account? Did you give them any banking information?
+
+Caller: I paid them by wire transfer. They said they don't take credit cards because banks charge back modification fees.
+
+Agent: That's another red flag — they specifically directed you to wire because wire transfers are nearly impossible to reverse. You should contact your bank and let them know you were a victim of fraud. They may have limited options to claw back a wire, but you want that conversation on record.
+
+Caller: Okay. What about my mortgage? I've now been ignoring you — ignoring the bank — for four months. How bad is the damage?
+
+Agent: Let me look at your account. You were $8,000 behind when this started. You've now missed four additional payments at $1,247 a month. So your total delinquency is now approximately $12,988. You're also accruing fees and the foreclosure process — let me check the status — yes, a notice of default was filed on April 15th. You're in the early stage of foreclosure.
+
+Caller: April 15th. So they let the foreclosure start while I was waiting for them to help me.
+
+Agent: Exactly. And that's the cruelty of this scam. They take your money, your time, and your false sense of security while the real situation gets worse. I am so sorry this happened to you, Marcus. Now let's focus on what we can actually do.
+
+Caller: Please. Tell me there's something we can do.
+
+Agent: Here's the reality. You're in early stage foreclosure, not late stage. There is still meaningful time and real options. The first thing I want to do is help you file a complaint with the Consumer Financial Protection Bureau — the CFPB. This is critical because the CFPB tracks these scams and has enforcement authority. They also have a complaint process that can sometimes surface recovery options.
+
+Caller: How do I do that?
+
+Agent: You can file online at consumerfinance.gov/complaint or by calling 1-855-411-2372. When you file, include the company name Apex Foreclosure Relief, the amount you paid, the date, how you paid — the wire transfer — and the fact that they instructed you to stop communicating with your servicer. Include any documents you have.
+
+Caller: I have the contract I signed, the receipt of the wire transfer, and some emails.
+
+Agent: Save all of that. That's your evidence package. I would also suggest filing with your state's attorney general. Tennessee has an active consumer protection division and foreclosure rescue scams fall directly in their enforcement scope. You can find them at tn.gov/attorneygeneral. And you should file with the FTC at reportfraud.ftc.gov.
+
+Caller: This is a lot of filing, but okay. What about the actual mortgage?
+
+Agent: Now, yes. The most urgent thing is getting you back into active communication with us and into a legitimate assistance program. The good news is that you have equity protection here — your loan balance is $203,500 and your property's estimated value is around $230,000. You're not underwater, which opens up options.
+
+Caller: I didn't know that. What options?
+
+Agent: The first thing I want to explore is a standard loan modification. Your pre-scam delinquency was caused by — can you tell me what your hardship was originally?
+
+Caller: I had a medical issue. I was out of work for about three months. I'm back to work now, full time, same salary as before. $58,000 a year.
+
+Caller: I work in logistics management.
+
+Agent: You're employed again full time, your delinquency is roughly $13,000, and you have equity in the home. This is actually a workable situation. With a modification, we may be able to capitalize the past-due amount — roll it into the loan balance — extend the term, and bring your monthly payment to something manageable.
+
+Caller: What would that look like roughly?
+
+Agent: I can't give you an exact number without running the formal numbers, but let me do a rough estimate. Your current payment is $1,247. If we roll $13,000 into your balance, you're at $216,500 on the remaining term. Depending on the interest rate adjustment and term extension, your payment could be somewhere between $1,100 and $1,350 depending on the specific modification type. I want to caution you that this is not a formal quote — you'd get the exact terms in writing.
+
+Caller: That's actually manageable. So I might be able to stay in my house?
+
+Agent: I believe so. But we need to act quickly. To initiate the modification review, I'm going to take some information from you right now and open a formal request. We'll need your hardship letter — in this case your hardship is the medical leave plus the additional months lost to the scam — your last two pay stubs, your last two bank statements, and your most recent tax return.
+
+Caller: I can get all of that together. How do I send it?
+
+Agent: You can fax it to our loss mitigation intake team at 1-888-555-0291, or you can upload it through our secure borrower portal at meridianhomebridge.com/myloan. I strongly recommend the portal because you get confirmation of receipt.
+
+Caller: Okay. I'm going to do that tonight. Is there anything else I should be doing right now?
+
+Agent: One more thing. Given that you were taken advantage of and there are regulatory filings going out, I'm going to flag your account for our compliance team. We have a process where borrowers who are victims of foreclosure rescue scams and can document it get a compliance hold placed on their account. That means no additional foreclosure action for 30 days while we review the situation and get the modification application into the system.
+
+Caller: You can do that?
+
+Agent: I can initiate that request, yes. I'm doing it right now. I'm noting your account: borrower reports being victimized by foreclosure rescue scam, Apex Foreclosure Relief, paid $3,500 in February, instructed to cease servicer contact, no third-party contact received by servicer, CFPB complaint being filed, modification application to follow. I'm flagging for compliance review and requesting a 30-day administrative hold on foreclosure proceedings.
+
+Caller: Rachel, that means a lot. I've been so scared.
+
+Agent: You did the right thing calling us. I know it felt hard to call after being told not to, but these scammers prey on that fear. Please do not pay anyone else upfront for mortgage help. Legitimate HUD-approved housing counselors are free. I want to give you one more resource.
+
+Caller: Please.
+
+Agent: The HUD website is hud.gov and they have a housing counselor locator. In Memphis, there are several approved agencies including the Urban League of the Mid-South and Neighborhood Housing Services. These are real nonprofit counselors who can sit with you, review your documents, and help you through the modification application at no cost.
+
+Caller: I wish I'd called them eight months ago instead of Apex.
+
+Agent: A lot of people have been where you are. These companies are sophisticated. They look real. Don't blame yourself — let's just focus on getting you out of this. I want to confirm your contact information before we wrap up. Is the best number to reach you still the one ending in 4417?
+
+Caller: Yes, that's my cell.
+
+Agent: And your email address for correspondence?
+
+Caller: m.webb at comcast.net.
+
+Agent: Perfect. I'm going to send you a confirmation email summarizing everything we discussed today — the compliance hold, the modification intake process, and the complaint resources. You'll receive that within 24 hours.
+
+Caller: Thank you so much, Rachel. I honestly feel like I can breathe again for the first time in months.
+
+Agent: I'm really glad. You have a clear path forward now. Gather those documents, file those complaints, and call that HUD counselor. You've got this. Is there anything else I can help you with today?
+
+Caller: No. That's everything. Thank you.
+
+Agent: Take care, Marcus. Good luck.
+
+Caller: Thank you. Bye.
+
+Agent: Goodbye.

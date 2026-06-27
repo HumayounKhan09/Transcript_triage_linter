@@ -1,0 +1,43 @@
+Agent: Meridian Home Lending, this is Carlos. How can I help you today?
+Caller: Hi Carlos, my name is Audrey Simmons. I'm applying for a new job and they're doing a financial background check. They want a letter from my mortgage company confirming that my mortgage is current. Is that something you can provide?
+Agent: Absolutely, Audrey. That's a fairly common request. Let me pull up your account to verify the status and then we can talk about getting that letter generated. Can I get your loan number?
+Caller: Sure, it's 2-2-8-7-4-4-0.
+Agent: And the property address?
+Caller: 503 Westbrook Lane, Austin, Texas, 78745.
+Agent: And the last four of your Social?
+Caller: 8-8-2-3.
+Agent: Perfect. I have your account open. I can see your loan is active and in good standing. You're current on all payments, no delinquencies in the history, and your next payment isn't due until next month. So yes, a mortgage current status letter is something we can absolutely provide.
+Caller: Great. What's the letter actually called? The HR department asked for something specific but I can't remember exactly what they said.
+Agent: It goes by a few names. Some companies call it a mortgage verification letter, a loan status letter, or a current payment confirmation letter. We generate it under the name mortgage standing confirmation, but it covers what employers typically need, which is confirmation of the loan, the property address, that payments are current, and sometimes the monthly payment amount if that's relevant.
+Caller: I think that's what they need. How do I request it?
+Agent: I can actually initiate that request right now on this call. The letter will come from our loan servicing department on company letterhead and will be signed by an authorized officer. It typically takes three to five business days to generate and mail.
+Caller: Is there a way to get it faster? My background check deadline is next week.
+Agent: In that case, let me check if we can expedite or provide it electronically. We do have an option to email a PDF version, which would arrive much sooner, usually within two business days. Would that work?
+Caller: A PDF would be perfect, actually. Can you send it to my personal email?
+Agent: Yes, we can send it to the email address you provide. What's that email?
+Caller: A-simmons-atx at outlook dot com.
+Agent: Got it. A-simmons-atx at outlook dot com. I'll make sure the expedited request notes that timeline. Now, some employers want original paper letters with a wet signature, so you'll want to verify with your HR department that a PDF is acceptable. Some do accept electronic versions, and some do not.
+Caller: Good point. I'll double-check with them. What if they need the hard copy?
+Agent: Then I'd request the letter today and ask for it to be overnighted. We do have an expedite service for physical letters that costs fifteen dollars, which covers the overnight courier fee. That would get it to you the next business day.
+Caller: Let's start with the PDF and if HR rejects it, I'll call back and request the physical one.
+Agent: That's a sensible approach. I'll submit the PDF request now. Is there anything specific you need the letter to include? For example, some employers want the original loan amount, some want the current balance, some want the monthly payment amount.
+Caller: Honestly, I'm not sure what level of detail they need. What does the standard letter include?
+Agent: The standard mortgage standing confirmation includes: the borrower's name as it appears on the loan, the property address, the loan number, a statement that the loan is current as of the date of the letter, and the date the letter was issued. It does not typically include the loan balance or payment amount unless specifically requested, since that's considered more sensitive financial detail.
+Caller: I think that should be fine. If they need more, I'll let you know.
+Agent: Sounds good. Now, one thing I want to flag — this letter is not the same as a payoff statement or a verification of mortgage that a lender would use for a new loan. It's specifically a status confirmation for this type of purpose.
+Caller: Right, and they're not asking about anything like that. They just want to know I'm not in financial trouble.
+Agent: Understood. This letter will clearly confirm you're current with no missed payments. Is there a specific person or department at your employer we should address the letter to?
+Caller: They said to just make it out to Human Resources at Linwood Technologies.
+Agent: I'll include that in the letter instructions — attention Human Resources, Linwood Technologies. Is there a specific address they want it sent to, or since it's a PDF it's just the email?
+Caller: Just the email is fine. They'll forward it internally.
+Agent: Perfect. The request is submitted. You should receive the PDF at a-simmons-atx at outlook dot com within two business days. Your request confirmation number is LTR-7-7-2-1-0-4.
+Caller: LTR-7-7-2-1-0-4. Got it. Is there a fee for this?
+Agent: No fee for the standard letter. The fifteen dollar fee only applies if you need the physical overnight option. The PDF version is complimentary.
+Caller: That's great news. I was worried there might be a charge.
+Agent: Nope, no charge. Borrowers in good standing can request one of these per calendar year at no cost.
+Caller: Wonderful. I think that covers everything. Is there anything I need to do or just wait for the email?
+Agent: Just watch your inbox. If you don't see it within two business days, check your spam folder first, and if it's not there, call us back with the confirmation number and we'll resend it.
+Caller: Perfect. Thank you so much, Carlos. This job opportunity is really important to me and I didn't want this to be the thing that held it up.
+Agent: I completely understand. You're all set. Good luck with the application.
+Caller: Thank you. Have a great day.
+Agent: You too, Audrey. Take care.

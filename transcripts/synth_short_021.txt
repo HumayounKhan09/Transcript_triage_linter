@@ -1,0 +1,37 @@
+Agent: Thank you for calling Vantage Mortgage, this is Jennifer. How can I help you?
+Caller: Hi. I'm in a tough spot this month and I was wondering if there's any way I could skip my July payment and just make it up later.
+Agent: I understand, and I'm glad you called. Let me look at your account and go over your options. Can I get your name?
+Caller: Terrence Mobley.
+Agent: Thank you, Mr. Mobley. And the last four of your Social Security Number?
+Caller: 6641.
+Agent: And your property address?
+Caller: 236 Prairie Wind Road, Oklahoma City, Oklahoma 73102.
+Agent: I have your account. I want to be upfront with you — we can't skip a payment in the traditional sense, as missed mortgage payments have contractual and credit implications. However, there is a program called payment deferral that may be what you're looking for. Would you like to hear more about it?
+Caller: Yes, please. What's the difference?
+Agent: A payment deferral allows you to move a payment to the end of your loan term rather than skipping it entirely. The payment is not forgiven, but it's pushed out so you're not delinquent and your credit isn't affected. It essentially adds one month to the back end of your loan.
+Caller: Okay, so I'd still pay it eventually, just later?
+Agent: Exactly. The deferred payment is added to your maturity date. And there's no additional interest on the deferred amount itself — it simply shifts in time.
+Caller: That sounds like what I need. Is it hard to qualify?
+Agent: For a one-time deferral, it's a fairly straightforward process. Your account must be current, meaning you don't have any prior missed payments. Let me check your payment history. I see your account is current with no late payments. You'd be a candidate.
+Caller: Oh good. What do I have to do?
+Agent: I'll need to initiate the deferral request from this call with your verbal consent, and then we'll mail you a deferral agreement to sign and return. Once we receive the signed agreement, the July payment is officially deferred.
+Caller: And during all this time, my account isn't marked late?
+Agent: Correct. As long as you complete the process and meet our response deadline, your account will not be reported as delinquent.
+Caller: What's the deadline to sign and return the agreement?
+Agent: We'll mail the agreement today or tomorrow. You'll have 10 business days to return it. I'd suggest sending it back via email or fax rather than mail to ensure we receive it quickly.
+Caller: Can I sign and send it back electronically?
+Agent: Yes. The agreement will have instructions for e-signature submission.
+Caller: That's easy. Okay. And after July, I just resume normal payments in August?
+Agent: Exactly. Your August 1st payment amount will be the same as usual. Nothing changes going forward except that your loan term has extended by one month.
+Caller: And this won't hurt my credit at all?
+Agent: Not if you complete the deferral process before missing the payment. We report to credit bureaus monthly. As long as the deferral is in place before your payment becomes past due, it won't appear as a late payment.
+Caller: How long does it take to process from your end?
+Agent: Once we receive your signed agreement, processing takes two to three business days. I'd aim to return it within a week just to be safe.
+Caller: Okay. I want to do this. Can you start the process now?
+Agent: Yes. I'll note your verbal consent and initiate the deferral request for your July 2026 payment. You'll receive the agreement by mail to 236 Prairie Wind Road within three to five business days. Watch for it.
+Caller: Thank you so much. I was really stressed about this.
+Agent: I completely understand. I'm glad we had an option that helps. Is there anything else I can assist with?
+Caller: No, that's everything. Thank you Jennifer.
+Agent: Of course. Take care of yourself, Mr. Mobley. Thank you for calling Vantage Mortgage.
+Caller: Thank you. Bye.
+Agent: Goodbye.

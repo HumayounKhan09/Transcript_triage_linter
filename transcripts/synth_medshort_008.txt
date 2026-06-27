@@ -1,0 +1,36 @@
+Agent: Thank you for calling Cornerstone Mortgage Servicing, this is Sandra speaking. How can I help you today?
+Caller: Hi Sandra. My name is Terrence Whitfield. I'm in the process of refinancing through a different lender and they're asking me for proof of homeowners insurance on file with you guys. I'm not sure exactly what they need.
+Agent: Hi Terrence, I can definitely help with that. Let me pull up your account. Can I get your property address and the last four of your Social?
+Caller: The address is 3042 Fernwood Circle, Denver, Colorado 80218. Social last four is 7731.
+Agent: Thank you. And the last four of your loan number?
+Caller: 1195.
+Agent: Great. I have your account here. So what the new lender is most likely requesting is something called a certificate of insurance, or they may also call it a declarations page from your homeowners policy. We have the insurance information that's on file as it's tied to your escrow account.
+Caller: Right. They said they need to verify that the coverage meets their requirements for the new loan. Can you send them something?
+Agent: What we can provide is the current insurance information we have on file for your property, including your insurance company, policy number, effective dates, and coverage amounts. We can send that information to you or directly to the new lender. However, the actual policy declarations page would need to come from your insurance company directly, not from us.
+Caller: Oh, I didn't realize that. So you can't give them the declarations page?
+Agent: Correct. We receive the declarations page from your insurer when coverage renews, but we don't typically retain or redistribute it. What we can do is confirm to the new lender what's on file in our system, and we can give you the contact information for the insurance company so you can request the declarations page directly from them.
+Caller: Who is the insurance company on file for me?
+Agent: Let me check. Your current homeowners insurance is through Nationwide Property and Casualty. Your policy number is NPC-00847732-H. The policy effective date is March 1, 2024, and it expires February 28, 2025. Coverage amount for dwelling is $410,000.
+Caller: Okay, the new lender said they need at least $350,000 in dwelling coverage, so that should be fine.
+Agent: That's correct, you exceed their threshold. I'd recommend calling Nationwide directly and requesting a declarations page or certificate of insurance be sent to the new lender. You can typically do that in a single call or through their website.
+Caller: Do you have a phone number for Nationwide?
+Agent: Your insurance agent's contact information on file here is 720-555-0194. That may be your local agent rather than corporate, but they should be able to help you with the declarations page very quickly.
+Caller: Perfect. And just to be safe, can you also send something from your end confirming what's on file?
+Agent: I can send you a written confirmation letter of the insurance information we have on file. Would you prefer that by email, fax, or mail?
+Caller: Email would be fastest. My email is terrence.whitfield at gmail dot com.
+Agent: Got it. Terrence.whitfield at gmail.com. I'll send that confirmation today. It typically goes out within a few hours. It won't be a declarations page, but it will confirm the policy details we have on file, which many lenders accept alongside the declarations page.
+Caller: My new lender also mentioned something about being listed as the mortgagee on the insurance policy. What does that mean?
+Agent: Great question. When you have a mortgage, the lender needs to be listed on your homeowners policy as a mortgagee or loss payee. This ensures that in the event of a covered loss, the insurance payout is properly distributed. Your current lender, which is us, Cornerstone Mortgage, should already be listed on your Nationwide policy.
+Caller: And when I close on the refinance, that needs to change to the new lender?
+Agent: Exactly right. When you close, you'll need to have your insurance updated to list the new lender as the mortgagee. Your insurance agent can usually do that with a quick call once you have the new lender's information.
+Caller: And then I guess Cornerstone gets removed?
+Agent: Correct. Cornerstone would be removed as mortgagee and the new lender would be added. Your insurance agent handles that part.
+Caller: This is all making more sense. So my action items are to call Nationwide, get the declarations page, have them send it to the new lender, and then update the mortgagee after closing?
+Agent: That's exactly right. You've got it perfectly summarized.
+Caller: Great. Is there anything else on my account I should know before I refinance?
+Agent: Just make sure your payment is current before closing, which it is. And the new lender will request a payoff statement from us when they're ready to fund, so that part is handled on their end.
+Caller: Perfect. Thank you so much for all your help, Sandra.
+Agent: Absolutely my pleasure, Terrence. The confirmation email will go out shortly. Is there anything else I can do for you today?
+Caller: No, that's everything. Thanks again.
+Agent: Take care. Goodbye.
+Caller: Bye.

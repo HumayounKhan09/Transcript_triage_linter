@@ -1,0 +1,39 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Sandra. How can I assist you today?
+Caller: Hi Sandra. My name is Patricia Holloway. My mother passed away last month and I'm handling her estate. I need to get a payoff statement — I think they call it a certified payoff — so we can settle the estate and potentially sell the house.
+Agent: Ms. Holloway, I'm very sorry for your loss. I can help you with a payoff statement request for estate purposes. Because this involves a deceased borrower, there's a slightly different process than a standard payoff request, and I'll walk you through everything. First, can you give me the property address?
+Caller: Yes. It's 228 Magnolia Avenue, Memphis, Tennessee, 38104.
+Agent: Thank you. And can I get your mother's name as it appears on the loan?
+Caller: Her name was Dorothy Jean Holloway.
+Agent: And do you have the loan number handy, or should I look it up?
+Caller: I don't have it handy.
+Agent: That's fine, I can look it up by address. I do need to note that since you are not the borrower of record, there are certain limitations on what account information I can share with you directly. However, for estate purposes, we have a process for this. Can I ask — have you been named the executor or personal representative of the estate?
+Caller: Yes, I'm the executor. I have the Letters Testamentary from the probate court.
+Agent: That's exactly what we need. Letters Testamentary establishes your legal authority to act on behalf of the estate, including requesting a payoff statement. Before I proceed, can you spell your full name for me?
+Caller: Patricia Ann Holloway. P-A-T-R-I-C-I-A, A-N-N, H-O-L-L-O-W-A-Y.
+Agent: Thank you. I found the account associated with 228 Magnolia Avenue. The loan is in the name of Dorothy Jean Holloway. Here's what we'll need from you to process a certified payoff statement for estate purposes. We need a copy of the death certificate, and a copy of the Letters Testamentary showing your authority as executor. Once we have those documents, we can issue a certified payoff statement.
+Caller: How do I send those to you?
+Agent: You can send them by fax to our estate processing department, by certified mail to our correspondence address, or you can upload them through our secure document portal on our website. The secure upload is usually the quickest option.
+Caller: Okay. And once you have those, how long does it take to get the payoff statement?
+Agent: For estate cases, once we have the documentation verified, the payoff statement is typically issued within five business days. A certified payoff statement is valid for a specific period — usually thirty days — and it will show the exact amount needed to pay off the loan in full, including the outstanding principal, accrued interest, any fees, and any escrow balance that would be refunded.
+Caller: We're planning to sell the property to settle the estate. Will the title company need this document?
+Agent: Yes, the title company handling the sale will require a payoff statement so they know exactly how much of the sale proceeds need to be applied to satisfy the mortgage. They'll typically work directly with us at closing as well. You'll want to make sure the payoff statement is requested close enough to the closing date that it's still within the valid period.
+Caller: Good to know. Can you tell me anything about what the outstanding balance is right now, approximately?
+Agent: I can see the account, but because the borrower is deceased and I haven't yet verified your executor status with documentation, I'm limited in what detail I can share right now. What I can tell you is that once we receive your documentation and verify your authority, you'll have full access to the payoff figures and account details. I don't want to give you a number that could be misused or that's inaccurate without the formal payoff calculation being run.
+Caller: I understand. That's reasonable. Is there a special department I should address the documents to?
+Agent: Yes, please address them to our Estate Services department. When you send the documents, include a brief cover letter noting the property address, the loan number if you have it — I can provide that to you now — and that you're requesting a certified payoff statement for estate purposes.
+Caller: Can I have the loan number?
+Agent: The loan number is 4-0-0-6-1-8-8-4-3.
+Caller: Got it, I'll write that down. And do you have a fax number for the Estate Services department?
+Agent: The fax number is 1-800-555-0198. And our mailing address if you prefer to mail is Meridian Mortgage Servicing, Estate Services, PO Box 7740, Dallas, Texas, 75201.
+Caller: And once the estate is closed and the loan is paid off, will there be anything else I need to do?
+Agent: Once the loan is paid off at closing, the title company will typically coordinate with us to get a satisfaction of mortgage issued. That document gets recorded with the county recorder's office and officially releases the lien on the property. You don't usually need to do anything separately — the title company handles it. But if for any reason it's not resolved, you have the right to request the satisfaction of mortgage directly.
+Caller: Okay. Is there anything else on the account I should know about? Like is there a second mortgage or any other liens?
+Agent: I can see only the one loan on our end associated with this property. We wouldn't necessarily have visibility into liens from other sources, but the title company will do a full title search as part of the sale process, which will surface any other liens.
+Caller: Perfect. This has been really helpful, Sandra. I've been dealing with a lot of different things and this one I wasn't sure about.
+Agent: Handling an estate is a lot to manage, and I'm sorry you're going through it. You're asking exactly the right questions. Once we receive the death certificate and Letters Testamentary, everything should move fairly smoothly.
+Caller: Thank you. I'll get those documents uploaded today.
+Agent: Wonderful. And if you have any questions after submitting, please call back and reference your loan number and our estate services team will be able to assist you. Is there anything else I can help with today?
+Caller: No, that's everything. Thank you again.
+Agent: Of course. Thank you for calling Meridian Mortgage, and take care of yourself.
+Caller: Thank you. Bye.
+Agent: Goodbye.

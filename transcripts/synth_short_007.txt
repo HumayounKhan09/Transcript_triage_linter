@@ -1,0 +1,33 @@
+Agent: Thank you for calling BluePath Mortgage, this is Maria. How may I assist you?
+Caller: Hi. I was wondering if my mortgage has a grace period. Like if I can't pay exactly on the first, am I automatically late?
+Agent: Great question. I can look that up for you. May I have your name?
+Caller: Gerald Hutchins.
+Agent: Thank you, Mr. Hutchins. And the last four of your Social?
+Caller: 8834.
+Agent: And your property address?
+Caller: 77 Lakeview Terrace, Memphis, Tennessee 38103.
+Agent: Got it. I've pulled up your account. Your payment due date is the 1st of each month, and yes, your loan does have a grace period through the 15th of each month.
+Caller: Okay so I have until the 15th before I'm actually considered late?
+Agent: That's correct. As long as your payment is received and posted by the 15th, no late fee is charged and the payment is not reported to credit bureaus as late.
+Caller: What about the 15th itself — is that included?
+Agent: Yes, the 15th is included. So you have from the 1st through and including the 15th. If the 15th falls on a weekend or holiday, the grace period typically extends to the next business day.
+Caller: Oh that's a relief. I get paid on the 12th every month so sometimes I'm cutting it close.
+Agent: The 12th gives you three days to make the payment and have it post. If you pay online, payments usually post same day or next business day. Mailed checks can take a few days, so keep that in mind.
+Caller: Yeah I always pay online so same day is fine.
+Agent: Then you should have no issues paying on the 12th. You'd still be well within the grace period.
+Caller: Okay. And just to clarify, does paying in the grace period affect my credit in any way?
+Agent: No, not at all. The grace period exists specifically to avoid penalizing borrowers for timing. As long as you pay by the 15th, your credit report will show the payment as on time.
+Caller: Good. Now a silly question — if I consistently pay on the 12th every month for years, does that have any effect on the loan? Like, does more interest accrue?
+Agent: That's actually not a silly question at all. Interest on your loan accrues daily, so if you pay on the 12th instead of the 1st, you do accrue 11 extra days of interest each month. Over time that adds up slightly.
+Caller: Really? So it's better to pay early?
+Agent: From a pure interest standpoint, yes. The earlier in the month you pay, the less total interest you pay over the life of the loan. But the difference is small on a monthly basis.
+Caller: Can you tell me how much more I'd pay by going with the 12th versus the 1st?
+Agent: Your daily interest accrual is approximately $28.40 per day based on your current balance and rate. So paying 11 days later each month adds about $312 per year in interest over that pattern.
+Caller: Huh. Not huge but not nothing either.
+Agent: Exactly. Something to be aware of, but please don't stress over it. Many customers pay mid-month and it's perfectly fine.
+Caller: I'll try to push it up a bit. This was really helpful.
+Agent: Glad I could clarify. Is there anything else you'd like to know about your account?
+Caller: No, that covered everything I was wondering about. Thanks Maria.
+Agent: Of course, Mr. Hutchins. Thank you for calling BluePath Mortgage. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

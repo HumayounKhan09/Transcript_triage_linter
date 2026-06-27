@@ -1,0 +1,30 @@
+Agent: Thank you for calling Lakeside Mortgage Servicing. My name is Fatima. How can I assist you today?
+Caller: Hi Fatima. I set up autopay a few months ago and it's been working fine, but it pulls from my account on the first of each month. I'd really like to change it to the 15th to align better with my paycheck schedule. Is that something you can do?
+Agent: Yes, we do allow customers to request a specific draft date for autopay within a range of available options. Let me pull up your account and we can go over what's available. Can I get your name and loan number?
+Caller: My name is Reginald Fontenot. The loan number is 9912-44-PP200.
+Agent: Thank you Reginald. And can you verify the last four of your Social Security number?
+Caller: 2214.
+Agent: And the zip code on the property?
+Caller: 77056. That's Houston, Texas.
+Agent: Great, I have your account. So Reginald, you're currently enrolled in autopay with a draft date of the first of the month. Let me check what draft date options are available for your loan.
+Caller: Sure, take your time.
+Agent: Okay, so for your loan type we can offer draft dates from the first through the sixteenth of the month. So the 15th is definitely an available option.
+Caller: Oh perfect. I was a little worried you might only offer a few specific dates.
+Agent: We have quite a bit of flexibility. So I can update your autopay draft date to the 15th of the month. I do want to make sure you understand how the change will work. Your payment is technically due on the first of each month with a grace period through the 15th. So if we move your draft date to the 15th, your payment will still be on time since the grace period covers through that date.
+Caller: Right, I know the grace period goes to the 15th. I've always paid on time, I just want the draft to happen on the 15th instead of the first so it doesn't hit my account before my paycheck lands.
+Agent: That completely makes sense. I'll make that change for you. I do want to mention one thing — when will your next payment be coming up?
+Caller: My next payment is due June 1st, so it would draft June 1st under the current setup.
+Agent: Since we're currently in May, I want to make sure the change processes before June 1st. I'm going to make the update now and note that the new draft date should take effect beginning with the June payment. That would mean your June payment would draft on June 15th rather than June 1st.
+Caller: That's exactly what I want.
+Agent: Perfect. Let me process that change now. Alright, I've updated your autopay draft date to the 15th of each month. You'll receive a confirmation by email within two to three business days.
+Caller: And I won't be charged any late fees even though it's drafting on the 15th?
+Agent: Correct. Your payment is not considered late until after the grace period ends, which is the 15th, so as long as the payment drafts and processes successfully on the 15th it will be considered on time.
+Caller: What if the 15th falls on a weekend or holiday?
+Agent: Good question. If the 15th falls on a weekend or bank holiday, the draft will process on the next available business day. As long as it processes within the grace period you will not be charged a late fee. I'd recommend being aware of months where the 15th is a Saturday and making sure funds are available a bit earlier.
+Caller: That's helpful advice. And the draft comes directly from my checking account, right? Nothing changes about the payment method itself?
+Agent: Correct. Only the draft date is changing. Your bank account on file remains the same. If you ever need to update your bank information you can do that through your online account portal.
+Caller: Great. I think that's everything I needed. Thank you so much Fatima.
+Agent: You're very welcome Reginald. Is there anything else I can help you with today?
+Caller: No, that's all. Have a good day.
+Agent: You too, thank you for calling. Goodbye.
+Caller: Bye.

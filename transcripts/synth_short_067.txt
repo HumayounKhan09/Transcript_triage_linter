@@ -1,0 +1,29 @@
+Agent: Thank you for calling Horizon Mortgage Servicing. My name is Rachel. How can I assist you today?
+Caller: Hi Rachel. I got my property tax bill in the mail and I think there's an error. The assessed value on the bill seems way too high. I want to dispute it but I'm not sure who to contact. Should I be calling you?
+Agent: That's a great question and I want to make sure you reach the right place. Let me pull up your account and I'll point you in the right direction. Can I get your name and loan number?
+Caller: Yes, my name is Franklin Okafor. Loan number is 1102-WW-60055.
+Agent: Thank you Franklin. And can you verify the property address?
+Caller: 5802 Chestnut Hill Drive, Columbus, Ohio 43220.
+Agent: And the last four digits of your Social Security number?
+Caller: 7718.
+Agent: Perfect, I have your account. So Franklin, I can hear that you're concerned about your property tax assessment, and I want to explain how this works. Property taxes are assessed and billed by your local government — in your case that would be Franklin County, here in Ohio. They determine the property value and the tax amount. We as the mortgage servicer have no authority over that assessment or the tax bill itself.
+Caller: So I shouldn't be calling you about this?
+Agent: Correct. For disputing the assessed value on your property tax bill, you would need to contact the Franklin County Auditor's office. They handle property assessments and they have a formal appeals process if you believe the assessed value is incorrect.
+Caller: How would I reach them?
+Agent: The Franklin County Auditor's office can be reached at 614-525-3240. You can also visit their website at auditor.franklincountyohio.gov. They typically have a process called an informal review or a formal board of revision appeal that allows property owners to challenge assessments.
+Caller: Is there a deadline for appealing?
+Agent: There is typically a deadline, yes. In Ohio, appeals to the County Board of Revision must generally be filed by April 1st of the tax year in question. However, I'd strongly recommend confirming the specific deadline with the auditor's office since those dates can vary and I want to make sure you have accurate information directly from the source.
+Caller: And what if the tax amount changes after a dispute? Like if it goes down? Does that affect my escrow payment?
+Agent: Great question. If your property tax bill decreases due to a successful appeal, the county would update the amount owed and you'd receive a corrected bill. We would then receive updated tax information and it would be factored into your next annual escrow analysis. If there's an overpayment, it would either be refunded by the county or credited toward future taxes depending on their process.
+Caller: And in the meantime, would you still pay the full assessed amount from my escrow?
+Agent: Yes. We would pay the bill as stated by the county by the due date to avoid any penalties. If the dispute is successful after payment has already been made, the county would issue a refund or credit, which would then flow back through your escrow account.
+Caller: Okay. So I need to move quickly to get the appeal in before you pay it.
+Agent: That's a wise approach. If the dispute is resolved before the tax due date, it could result in a lower payment amount. Once it's paid, you'd be seeking a refund rather than preventing the overpayment.
+Caller: When is my property tax due?
+Agent: Let me check. Your property taxes in Franklin County are typically due in two installments — one in February and one in July. The next installment due is July 17th.
+Caller: Okay, so I have a little time. I'll call the county auditor first thing tomorrow.
+Agent: That sounds like the right move. Is there anything else I can help you with today?
+Caller: No, that's perfect. You've been very helpful Rachel even though it's not really your department.
+Agent: Of course, we want to make sure you get to the right place. Good luck with the appeal. Have a wonderful day.
+Caller: Thanks, bye.
+Agent: Goodbye Franklin.

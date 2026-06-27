@@ -1,0 +1,47 @@
+Agent: Thank you for calling Keystone Mortgage Servicing, this is Anita speaking. Can I get your loan number to get started?
+Caller: Yes, it's 6614-77903.
+Agent: And your name and last four digits of your Social Security number for verification?
+Caller: Carlos Montoya. Social ends in 8814.
+Agent: Thank you, Mr. Montoya. I've got your account. Property at 2290 Westfield Court, Las Vegas, Nevada. What can I help you with today?
+Caller: I'm in a tough spot. I bought this house in 2006 for $385,000. It's only worth about $215,000 now based on what my neighbor sold for. I owe $347,000 still and I've missed three payments. I can't afford the payments anymore, and I'm thinking I need to do a short sale. Can you tell me how all that works?
+Agent: I understand this is a difficult situation, Mr. Montoya. I want to give you a thorough explanation of the short sale process so you understand every step and what to expect. First, can I ask — are you currently employed? Have you experienced a financial hardship that caused the payment difficulty?
+Caller: I had my hours cut at work significantly. I'm making about $2,800 a month now and the mortgage is $2,150. It just doesn't work anymore.
+Agent: I understand. A short sale is when we agree to accept less than the full payoff amount to allow you to sell the property. Because your home's current value — roughly $215,000 — is significantly less than the $347,000 you owe, you cannot simply sell the home without our approval. We have to agree to release the lien for less than the full balance.
+Caller: Right. How do I even start that process?
+Agent: The first step is submitting a short sale package to our loss mitigation department. That package includes a hardship letter explaining your situation — the hour cuts, your income, your inability to afford the payment. It also includes financial documentation: your two most recent pay stubs, two months of bank statements, and your two most recent tax returns or a tax return transcript.
+Caller: That's a lot of paperwork. What happens after I send it?
+Agent: Once we receive a complete package, we assign it to a dedicated loss mitigation specialist. They review your financials to confirm you qualify for a short sale. While that review is happening, you'd typically be working with a real estate agent to list and find a buyer for the property. Once you have an offer, you submit that offer to us along with a preliminary HUD-1 settlement statement showing the breakdown of the sale — the purchase price, commissions, closing costs, and what would net to us.
+Caller: So I find a buyer first and then you approve the deal?
+Agent: Exactly. We can't approve a price without an actual offer. Once we receive the offer and complete package, we order what's called a Broker Price Opinion, or BPO. That's an appraisal-like assessment conducted by an independent real estate broker to verify the offer price is reasonable given current market conditions.
+Caller: What if the BPO comes back higher than the offer?
+Agent: If the BPO is significantly higher than the offer — say more than 10 percent — we may counter the offer or reject it and ask you to relist at a higher price. If the BPO is in line with the offer, we'll move forward with the approval process.
+Caller: How long does all this take?
+Agent: I want to be honest with you — short sales can take anywhere from 60 days to six months or more. The typical timeline after a complete package is submitted and an offer is received is 60 to 90 days for a decision. If the investor — the owner of your loan — requires additional approval steps, it can take longer. Your loan is owned by a GSE, so there are specific guidelines and it's fairly straightforward, but I don't want to promise a specific timeframe.
+Caller: My three missed payments — what happens to those during the process?
+Agent: Those missed payments accumulate as delinquency on the account. We will not be pursuing foreclosure immediately because you're actively engaged in the loss mitigation process. However, I want to be transparent — we do have timelines, and if a short sale drags significantly or falls through, foreclosure timelines can resume. You'll be assigned a single point of contact who will keep you informed of where things stand.
+Caller: What about the deficiency? I owe $347,000 and the house might sell for $215,000. That's a $132,000 difference. Do I have to pay that?
+Agent: This is one of the most important questions, and I'm glad you asked. The deficiency — that $132,000 gap — depends on what we agree to in the short sale approval letter. We may agree to waive the deficiency entirely, which means we accept the sale proceeds and write off the remaining balance with no further obligation from you. Or we may try to negotiate a partial contribution from you — sometimes a small lump sum or promissory note.
+Caller: Can I push for a full waiver?
+Agent: You can and you should. Your attorney or HUD-approved housing counselor can negotiate on your behalf. Many short sales, especially on primary residences with documented hardships, do result in full deficiency waivers. However, I cannot promise that outcome on this call — it depends on the investor's guidelines and your specific circumstances.
+Caller: My attorney mentioned Nevada has some protections around deficiency. Is that right?
+Agent: Yes — Nevada has anti-deficiency statutes that can limit or eliminate deficiency judgments in certain circumstances, particularly for residential properties. This is exactly the type of thing your attorney should be advising you on because state laws significantly affect your liability. I'd encourage you to rely on legal counsel for the state law aspect.
+Caller: What about my credit? Three missed payments — and now a short sale. How bad is it going to be?
+Agent: The three missed payments have already impacted your credit. Each missed payment is reported as 30, 60, and 90 days late. A short sale itself is typically reported as "settled for less than full amount" or "account not paid as agreed." The credit impact of a short sale is significant — it can stay on your report for up to seven years. However, many borrowers find that the short sale impact fades more quickly in practice than foreclosure, and some lenders distinguish between the two.
+Caller: How does a short sale compare to foreclosure for my credit?
+Agent: Foreclosure is generally viewed more negatively by future lenders and takes longer to recover from. Fannie Mae guidelines, for example, currently require a seven-year waiting period after foreclosure to obtain a new conventional mortgage, compared to two to four years after a short sale depending on circumstances. So from a credit recovery standpoint, a short sale is generally a better outcome than foreclosure.
+Caller: Can I buy another house someday?
+Agent: Yes. Many people who go through a short sale are able to qualify for new mortgages within two to four years, especially if they rebuild their credit in the meantime. FHA has its own guidelines, and VA loans have specific rules for veterans. Once the waiting period passes and your credit improves, homeownership is absolutely attainable again.
+Caller: What do I need to do right now as the first step?
+Agent: First, I'd recommend calling a HUD-approved housing counselor. They're free, and they can help you prepare the package and negotiate. You can find one at HUD.gov or by calling 1-800-569-4287. Second, contact a local real estate agent who has experience with short sales in Las Vegas. Third, submit your short sale package to us — I can give you our loss mitigation fax number and upload portal.
+Caller: Please give me those.
+Agent: Our loss mitigation fax number is 1-866-442-9910. You can also upload documents at KeystoneMortgage.com, under the loss mitigation section, logging in with your loan number and ZIP code. The cover sheet should include your name, loan number 6614-77903, and "Short Sale Package" clearly written.
+Caller: And I should get a real estate agent before I submit the package or at the same time?
+Agent: You can do both simultaneously. Some borrowers submit the package first to get approval-in-principle and then list, while others list and find a buyer first. Either order works. The critical thing is that once you have an offer, everything needs to come together quickly — offer, package, and BPO all happening in the same window.
+Caller: Okay. This has been a lot of information but it helps to understand the whole picture.
+Agent: Absolutely. To recap the key points: short sale requires a hardship package, a real estate listing, and an offer; we then order a BPO and review; deficiency waiver is possible and should be negotiated; credit impact is significant but generally better than foreclosure; consult an attorney about Nevada law and a HUD counselor for free guidance.
+Caller: Thank you, Anita. I really appreciate you not sugarcoating it.
+Agent: Of course. I want you to make informed decisions. Is there anything else I can help you with today?
+Caller: No, that covers it. Thank you.
+Agent: Good luck, Mr. Montoya. We're here whenever you need us. Take care.
+Caller: Thank you. Goodbye.
+Agent: Goodbye.

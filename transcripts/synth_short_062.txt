@@ -1,0 +1,32 @@
+Agent: Thank you for calling Blue Ridge Mortgage, this is Rachel. How may I help you?
+Caller: Hi Rachel. I have a question about my escrow account. I heard from a friend that mortgage companies do something called an escrow analysis once a year. Is that true? And when does that happen for my account?
+Agent: Great question. Yes, escrow analyses are performed annually and I can look up when yours is scheduled. Let me get your account information. Can I have your name and loan number?
+Caller: Sure, my name is Vincent Calabrese. Loan number is 5503-RR-28819.
+Agent: Thank you Vincent. And can you confirm the property address?
+Caller: 89 Tulip Tree Drive, Nashville, Tennessee 37205.
+Agent: And the last four of your Social Security number?
+Caller: 1178.
+Agent: I have your account. So Vincent, to answer your first question — yes, we are required by federal law under RESPA, which stands for the Real Estate Settlement Procedures Act, to conduct an escrow analysis at least once every twelve months.
+Caller: What exactly does the analysis do?
+Agent: The analysis looks at how much money has been collected in your escrow account over the past year and how much was actually disbursed for property taxes and insurance. It also projects what the upcoming year's expenses are expected to be, based on the most current tax and insurance information we have. The goal is to make sure your monthly escrow contribution is set at the right level going forward.
+Caller: And what happens if it's off? Like if I've been paying too much or too little?
+Agent: If you've been paying too much and there's a surplus above a certain threshold, we're required to return that overage to you, typically as a check or a credit toward your next payment. If there's a shortage, we'll notify you and either ask you to make a lump sum payment to cover the shortfall or we'll spread the shortage across your payments for the next twelve months, which will increase your monthly payment slightly.
+Caller: Okay. So when is mine coming up?
+Agent: Your annual escrow analysis is scheduled for August of this year. You'll receive a written escrow account statement after the analysis is completed showing the results and any adjustment to your monthly payment.
+Caller: Is August the same every year?
+Agent: Typically yes, your analysis is anchored to the same time of year unless your loan is transferred or there's a significant change in taxes or insurance that prompts an interim analysis.
+Caller: What would trigger an interim one?
+Agent: If your property taxes increase significantly — for example after a reassessment — we might receive a new tax bill that's much higher than what we projected. That could prompt us to do an analysis outside the normal cycle to make sure your escrow isn't going to fall short.
+Caller: Has that happened on my account before?
+Agent: Let me check your history. It looks like your last escrow analysis was in August of last year and resulted in a small shortage of one hundred and forty-two dollars. You opted to have that spread over twelve months, which added about eleven dollars and eighty cents to your monthly payment. That adjustment is still in place.
+Caller: Oh right, I remember seeing that on my statement. I just didn't fully understand what it was for.
+Agent: That's very common. The escrow analysis statement can be a bit detailed. If you'd like I can send you a copy of last year's analysis to review.
+Caller: That might be helpful actually. Can you email it?
+Agent: Yes, if we have an email address on file I can request that. What email would you like to use?
+Caller: Use vincal1978 at gmail dot com.
+Agent: Got it, I'll submit that request. You should receive it within two to three business days.
+Caller: Perfect. Thank you so much Rachel, this was really informative.
+Agent: You're very welcome Vincent. Is there anything else I can help with today?
+Caller: No, I think that covered it. Have a great day.
+Agent: You too. Goodbye.
+Caller: Bye.

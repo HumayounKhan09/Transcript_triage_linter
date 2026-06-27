@@ -1,0 +1,37 @@
+Agent: Thank you for calling BlueStar Mortgage, this is Beth. How can I assist you today?
+Caller: Hi Beth. I want to find out how many years I have left on my mortgage. Like, what's my remaining amortization term?
+Agent: Sure, I can look that up for you. Let me just verify your account first. Can I get your full name?
+Caller: Raymond Castillo.
+Agent: Thank you, Mr. Castillo. And your loan number or the address on the property?
+Caller: The address is 2209 Fernwood Avenue, Sacramento, California.
+Agent: And to verify your identity, can you give me the last four digits of your Social Security number?
+Caller: 5582.
+Agent: And date of birth?
+Caller: October 17, 1972.
+Agent: Thank you, I've confirmed your identity. One moment while I pull up your account.
+Caller: No problem.
+Agent: Okay, I have your loan details here. Your loan was a 30-year fixed-rate mortgage originated on April 1, 2015. Based on your payment history, you currently have approximately 228 months remaining on your loan, which works out to 19 years.
+Caller: So I'm about 11 years in?
+Agent: That's correct. You've been in the loan for approximately 132 months, or 11 years, and you have 228 months left. Your loan is scheduled to pay off on April 1, 2045.
+Caller: Wow, 2045. That seems so far away.
+Agent: It can feel that way, yes. Though it's worth noting that 11 years in on a 30-year loan, you've made meaningful progress on the loan term even if the principal balance reduction feels slower at this stage.
+Caller: Yeah, I've noticed I've been paying for years but the balance doesn't seem to go down much.
+Agent: That's completely normal with how mortgage amortization works. In the early years of a loan, a larger portion of each payment goes toward interest and a smaller portion goes toward principal. As the loan matures, that ratio gradually shifts. Around the halfway point you start paying more toward principal than interest each month.
+Caller: So I'm not even to the halfway point yet?
+Agent: Not quite. The crossover point on your loan, where your monthly payment begins applying more to principal than to interest, would occur around month 166, which is roughly month 34 from now, or about three years from now.
+Caller: Interesting. I didn't know it worked that way. So for the first half of the loan, most of what I pay is interest?
+Agent: That's essentially correct. Your current monthly payment is $1,523.18. Right now, approximately $891 of that goes to interest and about $632 goes to principal. By year 20, that breakdown will have flipped considerably.
+Caller: That's kind of frustrating when you think about it.
+Agent: A lot of people feel that way when they first understand amortization. One way to shorten the term and reduce total interest paid is to make additional principal payments. Even a modest extra amount each month can shave years off the loan and save significantly in interest.
+Caller: How much would I need to pay extra to pay it off in, say, 10 more years instead of 19?
+Agent: To pay off in 10 years from today, you'd need to pay off the remaining balance over 120 months instead of 228. That would require a significantly higher monthly payment. I can note that on your account for you, but for an exact calculation I'd recommend using our online payoff calculator at our website, or I can transfer you to our loan advisor team who can run those numbers with you.
+Caller: The website has a calculator?
+Agent: Yes, under the loan management section, there's a payoff calculator tool where you can enter extra payment amounts and see the impact on your term and total interest.
+Caller: I'll check that out. But to confirm, my remaining term right now is 19 years?
+Agent: Correct. 19 years and approximately 228 monthly payments remaining, with a maturity date of April 1, 2045.
+Caller: Alright, that's what I needed. Thanks, Beth.
+Agent: Happy to help. Is there anything else I can assist you with today?
+Caller: No, that's it. Thanks again.
+Agent: Thank you for calling BlueStar Mortgage, Mr. Castillo. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

@@ -1,0 +1,40 @@
+Agent: Thank you for calling Broadstone Mortgage, this is Jessica. How can I help you today?
+Caller: Hi Jessica. My name is Yolanda Tran. I was going over my loan paperwork from when I closed last month and I noticed my note rate says 7.125 percent, but then the APR listed on my disclosure is 7.389 percent. I want to understand why those are different numbers.
+Agent: Hi Ms. Tran, that's a really common question and it's great that you're reviewing your documents closely. Let me pull up your account first. Can I get your loan number?
+Caller: It's 1199-5566.
+Agent: And the property address?
+Caller: 908 Wisteria Place, Raleigh, North Carolina, 27615.
+Agent: And last four of your Social?
+Caller: 6682.
+Agent: Thank you. I've got your account. Your note rate is 7.125 percent and your APR is 7.389 percent — you're right that those are different and I can explain why.
+Caller: I just want to make sure there's no error.
+Agent: No error. The difference between your note rate and your APR is intentional and required by federal law under the Truth in Lending Act, which you may have heard referred to as TILA. The two numbers measure different things.
+Caller: Okay, what does each one measure?
+Agent: Your note rate — sometimes called the contract rate or interest rate — is the actual rate used to calculate your monthly mortgage payment. It's what your payment is based on. So your principal and interest payment each month is calculated using 7.125 percent.
+Caller: Okay, that part I understood.
+Agent: The APR — Annual Percentage Rate — is a broader measure of the cost of credit. It takes your note rate and also incorporates certain fees and costs associated with the loan, then expresses the total as an annualized rate. The idea is to give you an apples-to-apples comparison when shopping for loans.
+Caller: So what fees are included in my APR?
+Agent: I can see your closing disclosure. The fees that were factored into your APR include your origination fee, which was $1,875; discount points, which you didn't pay any of, so zero there; and mortgage insurance premiums or prepaid interest in some cases. In your case the main driver is the origination fee.
+Caller: So the APR is higher because of the fees?
+Agent: Exactly. Those fees get spread over the assumed life of the loan — thirty years in your case — and layered on top of the note rate mathematically. The result is a higher effective rate that theoretically captures the total cost of borrowing.
+Caller: Why theoretically?
+Agent: Because the APR calculation makes assumptions that may not match your actual situation. It assumes you keep the loan for the full thirty-year term. If you sell the house or refinance in seven years, the way the fees are amortized changes, so the real cost of that loan would be different. APR is a useful comparison tool but not a perfect predictor of actual cost.
+Caller: So if I had paid more fees, the APR would be even higher?
+Agent: Correct. Two loans with the same note rate but different fee structures will have different APRs. A loan with no fees would have an APR equal to the note rate. That's why the regulation requires lenders to disclose APR — so you can see the true cost including fees, not just the headline rate.
+Caller: Why wouldn't the lender just tell you the total fees?
+Agent: They do — your closing disclosure itemizes all your fees. But APR was designed as a quick single-number comparison so that a consumer shopping between lenders can compare on an equal basis. The challenge is that different lenders include slightly different fees in their APR calculation, which can make even that comparison imperfect.
+Caller: Wait, so not every lender calculates APR the same way?
+Agent: There's a standardized definition of which fees must be included, but there are gray areas. For example, some fees are excluded from the APR calculation entirely — like title insurance, appraisal fees, and escrow-related fees. Those are required closing costs but they don't flow into the APR.
+Caller: So my APR doesn't include my title insurance costs?
+Agent: Correct. Title insurance, recording fees, and several other third-party charges are excluded from the APR formula. Your origination charge — the lender's fee — is included, which is the main reason your APR is higher than your note rate.
+Caller: That seems like it makes the APR a little misleading then.
+Agent: It's a fair critique. The APR is still a useful benchmark, but sophisticated borrowers learn to look at both the rate and the total itemized closing costs side by side rather than relying solely on APR.
+Caller: I was comparing my offer with another lender's offer and they had a lower APR but higher note rate.
+Agent: That's a classic scenario. A higher rate with low fees versus a lower rate with higher fees. Which is better depends on how long you keep the loan. If you stay in the house long-term, paying fees upfront to buy down the rate can save money. If you sell or refi in a few years, the lower-fee loan usually wins even at a higher rate.
+Caller: I'm planning to stay for at least ten years.
+Agent: Then you made a reasonable trade-off either way, depending on the specifics. But to answer your original question — the difference between your note rate and your APR is entirely normal and is caused by the inclusion of your origination fee in the APR calculation. Your loan is correctly documented.
+Caller: That's a relief. I was a little worried something was wrong.
+Agent: Nothing is wrong. Your loan documents are accurate. Is there anything else I can help you with today?
+Caller: No, that completely answers my question. Thank you so much for explaining it so clearly.
+Agent: Happy to help, Ms. Tran. Welcome to homeownership, and have a wonderful day.
+Caller: Thank you, Jessica. You too.

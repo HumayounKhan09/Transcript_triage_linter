@@ -1,0 +1,47 @@
+Agent: Thank you for calling Summit Ridge Mortgage Servicing. My name is Tyler. Can I get your loan number please?
+Caller: Hi Tyler. My name is Maria Gonzalez. Loan number is 2-2-6-7-9-4-1.
+Agent: Thank you, Ms. Gonzalez. And I'll need to verify — last four of your Social and your property address?
+Caller: Sure. It's 8-8-1-4. Address is 7730 Oleander Parkway, San Antonio, Texas 78240.
+Agent: Got it, I see your account. What can I help you with today?
+Caller: I'm in a trial modification plan right now. I've been on it since April. My trial payments are $1,124 a month, and I've made the April and May payments. But something came up and I'm not sure I can make the June payment on time. Like, it'll probably be a week or two late. I need to know what happens if I miss one of the trial payments.
+Agent: I appreciate you calling about this ahead of time, Ms. Gonzalez — that's exactly the right move. Let me look at your account here. Yes, I can see your trial modification plan was effective April 1st, and we do show the April 15th and May 15th trial payments received. Your June trial payment would be due June 15th. Is that correct?
+Caller: Yes, that's right. June 15th. I'm maybe looking at being able to pay around June 25th or June 28th. So about 10 to 13 days late.
+Agent: I understand. Let me explain how trial plans work in terms of payment timing, because this is really important. A trial modification plan — sometimes called a trial period plan or TPP — is a three-month trial where you demonstrate you can sustain the proposed new payment before the modification becomes permanent. The trial payments must generally be received within the month in which they are due.
+Caller: So if it's due June 15th, does that mean it has to be received by June 30th?
+Agent: The requirement is that it must be received within the calendar month. So technically, a payment received June 29th would still be within June and would typically be counted as the June trial payment. However — and this is critical — different investors can have slightly different guidelines. Let me check who owns your loan.
+Caller: I was told it's a Fannie Mae loan.
+Agent: Yes, I can confirm that here. For Fannie Mae, the guideline is that each trial period payment must be received no later than the last day of the month in which it's due. So your June payment would need to arrive by June 30th to be counted. If it arrives July 1st or later, it would technically be missed.
+Caller: Okay. So as long as I get it in by June 30th I should be okay?
+Agent: That's correct. If the payment arrives by June 30th, Fannie Mae guidelines would generally allow us to treat it as a timely trial payment. But I want to be clear that it needs to post to your account by that date, not just be mailed. If you're paying by check, the postal time matters. Electronic payment would be safer.
+Caller: I always pay online through your website. So if I submit it on June 28th it should post the same day or next day?
+Agent: For online payments made through our portal, yes, they typically post within one business day. So submitting on June 28th should result in a posting date of June 28th or June 29th, which is within the calendar month.
+Caller: Okay, that's a relief. But let me ask the bigger question — what if something worse happened and I genuinely couldn't make a trial payment at all? Like, what happens then?
+Agent: That's an important question and I want to give you a complete answer. If a trial period payment is missed — not just late, but not received within that calendar month — the general outcome is that the trial modification is terminated.
+Caller: Terminated. So I lose the modification?
+Agent: Under Fannie Mae guidelines, yes. If a trial payment is missed, the servicer is required to cancel the trial plan and notify you. At that point, the permanent modification would not be completed and your loan would revert to its original terms, with all the delinquency that existed before the trial still on the books.
+Caller: That sounds really serious. Is there any way to appeal that or start over?
+Agent: There are a couple of things that could happen. In some cases, if there's a documented extenuating circumstance — a natural disaster, a medical emergency that occurred right at the time of the missed payment, something truly outside your control — a servicer may have some discretion to evaluate an exception. But that's not guaranteed, and it's not a standard process.
+Caller: And if the trial is terminated, could I re-apply for modification?
+Agent: Potentially, yes. Being denied or terminated from one modification attempt doesn't permanently bar you from applying again. However, there are considerations — Fannie Mae guidelines generally require a certain seasoning period or a new hardship event before a subsequent modification review. And if your loan were terminated from a trial and then fell further into delinquency, your options would narrow.
+Caller: That's scary. I'm going to make absolutely sure the June payment gets in before June 30th.
+Agent: That's the best plan. Can I ask what caused the concern — is this a cash flow timing issue, like a paycheck comes after the due date?
+Caller: My employer switched payroll companies and my direct deposit is coming in three days later than usual this month. It's a one-time thing but it just happened to land in June.
+Agent: That's completely understandable, and it sounds like it really is a temporary timing issue rather than an inability to pay. Given that, if you're confident you'll have the funds by June 28th, you should be fine to make the payment online that day and have it post within the month.
+Caller: What if something totally unexpected happened and I couldn't get it in before June 30th? Is there anyone I could call?
+Agent: If something changed before June 30th, you should call us immediately — same day. Don't wait. Our loss mitigation team would document any extenuating circumstances in real time, and that contemporaneous documentation would support any exception request we might make to the investor. The worst thing to do would be to miss the deadline and then call after the fact.
+Caller: Understood. I'll call the moment I think something's going wrong.
+Agent: Exactly. And your relationship manager for this trial plan — do you have their contact info?
+Caller: I have a general 1-800 number. I don't have anyone specific.
+Agent: Let me note that on your account and see if there's a specific case manager assigned. Yes, it looks like your file is managed by our central loss mitigation team. You can reach them directly at extension 4412 when you call our main line at 1-800-555-0188. That's usually faster than the general queue.
+Caller: Got it, I'll save that.
+Agent: Let me also just confirm — after the June trial payment, your third and final trial payment would be due July 15th. Assuming all three are received within their respective months, the permanent modification would then be processed and finalized, and you'd receive the permanent modification agreement to sign.
+Caller: And once I sign that, what are the new loan terms?
+Agent: Your permanent modified terms would match the trial terms — $1,124 per month at the modified rate. Let me see what your new rate would be — it looks like your interest rate would be 4.875% fixed, and the term would be extended. I show a remaining term of approximately 38 years after modification.
+Caller: Okay. And my original payment before all of this was what?
+Agent: Your original payment was $1,489 per month. So the modification would reduce your monthly payment by $365.
+Caller: That makes a real difference. I really don't want to lose this. I'll make sure June is in on time.
+Agent: You're in good shape, Ms. Gonzalez. One payment made on time or a few days late but within the month, and you're on track to finalize this. Is there anything else I can help with today?
+Caller: No, I think that covers everything. Thank you so much, Tyler. You really explained this clearly.
+Agent: Happy to help. Please don't hesitate to call us if anything changes before June 30th. Have a great day.
+Caller: You too. Goodbye.
+Agent: Goodbye, Ms. Gonzalez.

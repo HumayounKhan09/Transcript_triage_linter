@@ -1,0 +1,43 @@
+Agent: Thank you for calling Homeward Mortgage Services, this is Sarah. How can I assist you today?
+Caller: Hi Sarah, this is Darlene Hutchinson. I closed on my home about three weeks ago and I just got my first mortgage statement. I'm looking at these payment amounts and they don't match what I thought my payment was going to be. I'm a little confused.
+Agent: I completely understand, Darlene. That can definitely be surprising, especially when you're used to seeing one number during the process. Can I pull up your account while we talk? Do you have your loan number handy?
+Caller: Yes, it's 7739-4451-B.
+Agent: Perfect, one moment. Okay, I have your loan here, Darlene Hutchinson, closed on June 6th, 2026. I see you have a 2-1 buydown on this loan. Is that right?
+Caller: Yes, the builder paid for it. But I still don't understand the payment schedule. I thought my first payment would be one amount, and then it just changes?
+Agent: Yes, exactly. Let me walk you through the buydown payment schedule in detail so it all makes sense. With your 2-1 buydown, your note rate is 7.0 percent. In year one, your interest rate is 5.0 percent. In year two, it's 6.0 percent. Starting in year three, you pay the full 7.0 percent.
+Caller: Right, my loan officer explained that generally. But the statement has different columns and I'm not sure which number I'm supposed to pay.
+Agent: Absolutely, let me make that crystal clear. Your loan balance is $385,000. At 5.0 percent for year one, your principal and interest payment is $2,067 per month. That's the amount due for July 2026 through June 2027 — your first twelve payments. That payment amount is what you should be sending.
+Caller: Okay, $2,067. And then what happens after twelve months?
+Agent: Starting with your July 2027 payment, your rate adjusts to 6.0 percent and your principal and interest payment increases to $2,312. That amount continues for twelve months through June 2028.
+Caller: And then year three is the full rate?
+Agent: Correct. Beginning July 2028, your payment goes to the full 7.0 percent rate. At that point, because you've been paying down principal for two years, your exact payment will be calculated on the remaining balance. But we estimate it will be approximately $2,551 per month for principal and interest.
+Caller: So I'm going to feel that jump pretty significantly going from $2,067 to $2,551. That's almost $500 more a month.
+Agent: It is a meaningful increase, and it's important to plan for it. The increase from year one to year three is $484 per month based on those projections. A lot of homeowners use the buydown period to build up savings specifically for that adjustment, or to try to refinance before year three if rates improve.
+Caller: My loan officer mentioned something about that — if rates drop we might refinance before then.
+Agent: That's a common strategy. If prevailing rates come down, you could refinance out of the 7.0 percent note rate and potentially lock in something lower before the full payment kicks in. Just keep in mind there are closing costs associated with refinancing, so you'd want to make sure the numbers work in your favor.
+Caller: Right. Now, I also see something on the statement about an escrow account. I thought the builder funded that?
+Agent: Yes, the builder contributed funds to a buydown escrow account. That account holds the money that subsidizes your payment during the buydown period. Each month, the servicer draws from that account to make up the difference between what you pay and what the full 7.0 percent payment would be. So effectively your payment is $2,067, but the lender receives $2,336 — the actual full-rate equivalent payment — with the difference coming from the escrow.
+Caller: So the escrow balance goes down each month?
+Agent: Exactly. The buydown escrow started with a balance of roughly $6,252, which is enough to cover the difference for years one and two. I can see the current balance is $5,938 after the first draw.
+Caller: What happens if I refinance or sell before the buydown is used up?
+Agent: If you refinance or sell the home, any remaining balance in the buydown escrow is applied to reduce your loan payoff. So if you refinance in month six, for example, the remaining escrow funds would reduce what you owe, which effectively benefits you.
+Caller: That's good to know. I was worried that money would just disappear.
+Agent: No, it doesn't disappear. It's held in your name and applied accordingly if the loan pays off early.
+Caller: Okay, so back to practical matters. The statement shows a total amount due that's higher than $2,067. Why is that?
+Agent: Your total monthly payment includes principal and interest, which is the $2,067 we discussed, plus your escrow for property taxes and homeowners insurance. Let me see — your tax and insurance escrow is $487 per month. So your total payment due is $2,554 per month right now.
+Caller: Okay, that makes much more sense. I thought the $2,554 was somehow the principal and interest part and I was confused about where the rate reduction went.
+Agent: That's a very common misunderstanding. The rate reduction only applies to the principal and interest portion. Taxes and insurance are collected separately and don't change based on your buydown.
+Caller: Got it. So I just write the check or send the payment for $2,554 and everything sorts itself out?
+Agent: Exactly. You make one payment of $2,554. The servicer allocates the $2,067 to principal and interest and draws the remaining from the buydown escrow on the back end. You don't need to do anything separately.
+Caller: That's a relief. It seemed more complicated than it needed to be.
+Agent: It can look complicated on paper, but in practice you just make one payment each month. The system handles all the allocation.
+Caller: Do I get any kind of year-end statement showing what came from the escrow?
+Agent: Yes, at the end of each calendar year you'll receive a mortgage interest statement — a 1098 — which shows the interest paid. The buydown escrow draws are generally not considered income to you and won't appear as taxable. You should consult a tax professional for specifics, but the short answer is that the buydown is structured to be tax-neutral for the borrower.
+Caller: Great. One last thing — can I set up autopay for the $2,554 and will it automatically update when the payment changes in year two?
+Agent: Yes. If you enroll in autopay through our online portal, the system will automatically adjust to the new payment amount when the buydown rate steps up in July 2027. You'll receive advance notice — typically 30 to 60 days before any payment change — so you're never surprised.
+Caller: Perfect. I think you've answered all my questions. This all makes a lot more sense now.
+Agent: I'm really glad, Darlene. Don't hesitate to call back if the statement is confusing in future months. Is there anything else I can help you with today?
+Caller: No, I think that's everything. Thank you so much, Sarah.
+Agent: My pleasure. Welcome to homeownership, Darlene. Have a wonderful day.
+Caller: You too, goodbye.
+Agent: Goodbye.

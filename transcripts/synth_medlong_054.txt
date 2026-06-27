@@ -1,0 +1,43 @@
+Agent: Thank you for calling Horizon Home Lending. This is Deepa. How can I help you today?
+Caller: Hi, my name is Gerald Simmons. Loan number is 9934-2201-07. I got a letter saying my forbearance is ending next month and I have to pick an option. I need to understand what my options are.
+Agent: Of course, Mr. Simmons. Let me pull up your account. Can you confirm your Social Security number last four digits and the property address?
+Caller: Last four is 5528. Property is 2241 Westbrook Lane, Memphis, Tennessee 38117.
+Agent: Got it, I'm in your account now. Let me review your forbearance history. I can see you entered a COVID-19 forbearance in January 2024 and you've been in it for 18 months. Your forbearance period ends June 30, 2026, which is just a few days away. You have a deferred amount of $21,600. Is that consistent with what your letter shows?
+Caller: Yes, $21,600 is what the letter says. It says I have to choose from four options and I don't understand any of them.
+Agent: I'm going to walk you through every option with the actual numbers for your loan so you can make an informed decision. Your current regular monthly payment before forbearance was $1,200. Let me confirm that's still what your statement shows.
+Caller: Yes, $1,200 a month. Principal and interest plus escrow.
+Agent: Good. So here's the full breakdown of every exit option available to you.
+Caller: Okay. Go ahead.
+Agent: The first option is called a lump sum reinstatement. This means you pay the full $21,600 in one payment by your end date. Your regular $1,200 payment would resume as normal starting August 1, 2026. This is the simplest option but it requires having the full amount available. Is that something that's possible for you?
+Caller: No. I don't have $21,600 sitting around. That's why I was in forbearance.
+Agent: Completely understandable. Most people coming out of forbearance are in the same position. Option two is a repayment plan. This is where you spread the $21,600 over a set number of months on top of your regular payment. For example, if you spread it over 12 months, you'd be paying $1,800 a month — the $21,600 divided by 12 is $1,800, added to your regular $1,200 is $3,000 a month. If you spread it over 18 months, you'd divide $21,600 by 18, which is $1,200, added to your regular $1,200 is $2,400 a month. And over 24 months, the maximum for a repayment plan, it would be $21,600 divided by 24, which is $900, added to your regular $1,200 is $2,100 a month.
+Caller: So even at 24 months I'd be paying $2,100 instead of my normal $1,200. That's still a big jump. I'm not sure I can do that.
+Agent: I understand. Let me keep going through the options. Option three is a COVID-19 deferral. This is probably the option that gets people's attention the most. Under a deferral, the $21,600 in missed payments is moved to the end of your loan as a non-interest-bearing balloon. That means you don't pay it now, you don't pay it monthly. It just sits at the end of the loan. Your regular monthly payment goes back to your normal $1,200 starting August 1, 2026, same as before the forbearance.
+Caller: So I just go back to paying my regular $1,200 and the $21,600 is forgotten?
+Agent: Not forgotten — deferred. It becomes due when your loan matures, when you pay it off, or when you sell or refinance the property. Whenever the loan ends, the deferred amount comes due at that point. So if you sell in ten years, the buyer's payment to you or your equity would need to cover that $21,600 in addition to the remaining principal balance. But importantly, no interest accrues on that deferred amount. And your monthly payment returns to exactly what it was — $1,200.
+Caller: That sounds like the best option. Why would anyone pick the repayment plan over that?
+Agent: The deferral works best for people who plan to stay in the home long-term or who have enough equity that the deferred amount won't be a problem when they eventually sell. Some people choose the repayment plan if they know they're planning to sell soon and want to get the $21,600 out of the way first, so there's less complexity at closing. But for someone planning to stay in the home, the deferral is often the least disruptive.
+Caller: Okay, what's option four?
+Agent: Option four is a loan modification. This is the most comprehensive option. In a modification, we'd apply the $21,600 to your principal balance, and then we'd look at restructuring your entire loan — potentially extending your term, potentially adjusting your interest rate — to reduce your monthly payment. This option requires a full financial review and documentation. It takes four to eight weeks to process. It also requires you to complete a three-month trial payment period at the new proposed payment before the modification becomes permanent.
+Caller: What might my payment be if I did a modification?
+Agent: I can't give you an exact figure without running the numbers, but I can give you a rough idea. Your current rate is 5.25%. If a modification were to extend your term and apply a rate around 4.5%, with the capitalized balance of roughly $294,000 — that's your current principal plus the deferred amount — your payment over a 40-year term would be approximately $1,330 to $1,400 per month including escrow. So it might save you a small amount monthly, but you'd be extending the loan significantly.
+Caller: And during the four to eight weeks while the modification is being reviewed, what happens to my loan?
+Agent: If you submit a complete modification application before your forbearance end date of June 30th, dual-tracking protections apply. No foreclosure action can proceed while a complete application is under active review. Your account would remain in forbearance status effectively while the modification is being reviewed.
+Caller: I think I want to do the deferral. That seems the most straightforward for me.
+Agent: The deferral is a very common choice. To proceed, I can start the deferral request right now on this call. You don't need to submit any documents. I'll process the request and you'll receive a deferral agreement in the mail within five to seven business days. Once you receive it, you sign it and return it, and your first regular payment of $1,200 will be due August 1, 2026.
+Caller: Do I have to sign something before the June 30th deadline?
+Agent: The request needs to be submitted by June 30th, which I'm doing right now on your behalf. You'll receive the paperwork after that, but initiating it today locks in your election before the deadline. You'll have time to sign and return the agreement after you receive it.
+Caller: Okay. What happens if I miss the August 1st payment after the deferral?
+Agent: I want to make sure you understand this clearly. The deferral agreement contains a condition that you make your first payment on time. If you miss that August payment, the deferral can be rescinded and your account would be considered delinquent again, which could re-expose you to foreclosure risk. So August 1st is a critical date.
+Caller: I'll make that payment. I've been able to cover my regular payment — I just couldn't come up with the lump sum for the arrears.
+Agent: That's exactly the situation the deferral is designed for. Let me document this in your account. I'm noting today's date, June 27, 2026, that you verbally elected the COVID-19 deferral option for the $21,600 deferred amount. The deferral agreement will be mailed to 2241 Westbrook Lane, Memphis, Tennessee 38117. Is that the right address?
+Caller: Yes, that's correct.
+Agent: Perfect. You'll also receive an email confirmation to the address on file. Can you confirm your email?
+Caller: It's gerr.simmons57@yahoo.com.
+Agent: Thank you. I've updated the email and I'm sending a summary of today's conversation to that address. Is there anything else you'd like to go over about any of the other options or anything else on your account?
+Caller: I think I'm all set. You explained everything really clearly. The deferral makes sense for me.
+Agent: I'm glad it was helpful. You made a sound decision for your situation. Is there anything else before we wrap up?
+Caller: No. Thank you, Deepa.
+Agent: Thank you for calling Horizon Home Lending, Mr. Simmons. Take care.
+Caller: You too. Goodbye.
+Agent: Goodbye.

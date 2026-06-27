@@ -1,0 +1,49 @@
+Agent: Thank you for calling Keystone Mortgage Servicing, this is Priya, how can I help you today?
+Caller: Hi, my name is Clifton Bauer. I've been struggling with my mortgage for over a year now and I've looked into a lot of options. I wanted to ask specifically about a deed-in-lieu of foreclosure. I've heard the term but I want to understand exactly what it is and whether I could qualify.
+Agent: Hi Clifton, I'm glad you called and I'm glad you're researching your options carefully. A deed-in-lieu is definitely one of the loss mitigation options we offer, and it's worth having a full conversation about. Let me pull up your account first. Can I get your loan number or property address?
+Caller: It's 9028 Westfall Boulevard, Cincinnati, Ohio, 45238. Loan number is KM-77-553241.
+Agent: And for verification — last four of your Social and date of birth?
+Caller: Social ends in 8814, birthday is June 5th, 1967.
+Agent: Thank you, Clifton. I have your account. Loan balance of $198,700, monthly payment of $1,441, you're currently ninety-three days past due — three full payments missed. Your home is a conventional loan through Fannie Mae. I also see there was a forbearance that ended four months ago. Okay, so let me give you a thorough explanation of a deed-in-lieu.
+Caller: Please.
+Agent: A deed-in-lieu of foreclosure, often shortened to DIL, is an agreement where you voluntarily transfer ownership of the property to us — the lender — in exchange for being released from the mortgage debt. Instead of going through a foreclosure, which is a court or public process, you're essentially handing us the keys and we agree to forgive the remaining mortgage obligation.
+Caller: So the debt just goes away?
+Agent: In most cases, yes. The key phrase is that you're released from the mortgage debt. We agree not to pursue you for any remaining balance — what's called the deficiency — after the transfer. That said, this needs to be explicitly stated in the deed-in-lieu agreement. You'd want to confirm in writing that the deficiency is waived, not just assumed.
+Caller: What are the benefits versus just letting it go to foreclosure?
+Agent: Several significant benefits. First, it's much faster — a foreclosure in Ohio can take twelve to eighteen months or more going through the court process. A deed-in-lieu can be completed in sixty to ninety days. Second, it's less damaging to your credit in terms of the public record. Foreclosure is a courthouse legal action and it stays on your credit for seven years, but its impact can be more severe than a deed-in-lieu notation, which also stays for seven years but is often viewed slightly more favorably by future lenders. Third, you avoid the stress and public nature of a foreclosure proceeding. And fourth — many servicers, including us under Fannie Mae guidelines, offer what's called relocation assistance. That's typically a cash payment to help you transition.
+Caller: How much relocation assistance are we talking about?
+Agent: Under current Fannie Mae guidelines, relocation assistance for a deed-in-lieu is typically $3,000. This is paid at the time you vacate and transfer the property. It's meant to help with moving costs, deposits on a new rental, and transition expenses.
+Caller: Three thousand dollars isn't a lot when you're leaving your home, but it's something.
+Agent: It is something, and it comes with no strings attached — you don't have to repay it. Now let me walk you through the eligibility requirements, because there are specific criteria.
+Caller: Go ahead.
+Agent: First, the home generally needs to be your primary residence — it cannot be an investment property. Is this your primary home?
+Caller: Yes, it's where I live.
+Agent: Good. Second, you generally need to demonstrate a qualifying hardship — a reason you can no longer afford the mortgage. What's been your situation financially?
+Caller: I had a medical emergency about eighteen months ago. I had a heart attack, I was out of work for about five months, and then I went back to work but at reduced hours. I'm still not back to full capacity and the bills have piled up.
+Agent: I'm sorry to hear that, Clifton. A medical hardship is absolutely a qualifying reason. We'll need a hardship letter from you explaining the situation, and any documentation you have — hospital records, a letter from your employer about reduced hours, that sort of thing.
+Caller: I have all of that.
+Agent: Third — and this is important — the property needs to be what we call marketable. We'll order an appraisal or broker price opinion to determine value. If the home is in poor condition, it can complicate the process, though it doesn't necessarily disqualify it.
+Caller: The house is in decent shape. Nothing major. Normal wear and tear.
+Agent: Good. Fourth, you generally need to have the property free of other liens — or those other liens need to be resolved as part of the process. Do you have any other liens? A second mortgage, a HELOC, or any tax liens?
+Caller: There's a small personal loan I took out — it's not secured by the house though.
+Agent: Unsecured debt doesn't affect this. If it's not a lien on the property, it's not an issue for the deed-in-lieu. What's the current home value in your estimate?
+Caller: A neighbor sold last spring for $205,000 and my house is similar. So probably around $200,000 to $210,000.
+Agent: With your balance at $198,700 and an estimated value of $200,000 to $210,000, you're approximately at break-even or slightly above water, which actually is a consideration. For a deed-in-lieu, we're accepting a loss — or at least forgoing a profit — so we want to confirm the numbers work. In your case, with the value close to the balance, we'd also want to look at whether a short sale might be appropriate, because if the home could sell at or above the loan balance, a traditional sale might actually be better for you.
+Caller: I thought about that. But I've been in this house twenty years and I don't have the energy to deal with listing it and strangers walking through and the uncertainty. The deed-in-lieu seems cleaner.
+Agent: That's a completely valid perspective. The deed-in-lieu is cleaner and more controlled. In your situation with equity near break-even, you do qualify to pursue it. Here's the process: you'd submit a formal loss mitigation application with your hardship documentation. We'd review it, order a property valuation, and if everything checks out, we'd send you the deed-in-lieu agreement. You'd have time to review it and have an attorney look it over — I strongly recommend that.
+Caller: Should I have an attorney involved?
+Agent: Yes, I would strongly encourage it. A deed-in-lieu is a legal transfer of real property. An attorney can review the agreement to make sure the deficiency waiver language is clear, that there are no conditions you're unaware of, and that the transfer is handled properly.
+Caller: Does that cost money I don't have?
+Agent: Some nonprofit housing counselors can also provide guidance on reviewing these documents at no cost. I'd recommend calling the HUD counseling hotline at 1-800-569-4287 and requesting a housing counselor familiar with deed-in-lieu transactions. They can sometimes provide a lot of the guidance you'd otherwise need an attorney for, at no charge.
+Caller: That's really helpful. What about my credit? You mentioned seven years.
+Agent: The deed-in-lieu will be reported to the credit bureaus. Typically it's reported as a settled or transferred account. The notation will remain for seven years from the date of the event, but many people find that their credit recovers meaningfully within two to three years, especially if they keep other accounts in good standing.
+Caller: And after it's complete, is there any waiting period before I could get another mortgage someday?
+Agent: Yes. For a conventional loan backed by Fannie Mae, after a deed-in-lieu there's typically a four-year waiting period before you're eligible for another conventional loan. For FHA loans, it's typically three years. Your situation and whether any deficiency was waived can sometimes affect those timelines.
+Caller: Four years is a long time. But I understand. If I'm handing the house back, that's a serious decision and lenders are going to treat it that way.
+Agent: Exactly. And during those four years you have the opportunity to rebuild your credit, build savings, and eventually be in a stronger position. A lot of people do successfully return to homeownership after a deed-in-lieu.
+Caller: Alright. I think I want to pursue this. What do I do next?
+Agent: I'll flag your account for a loss mitigation referral and have our team send you the borrower assistance application. You should also call that HUD number. Once you submit a complete application, our team has thirty days to evaluate it and respond.
+Caller: Perfect. Thank you for such a thorough explanation, Priya. This is the clearest picture I've had of my options in months.
+Agent: I'm glad. You're making an informed decision and that's the best thing you can do. Is there anything else today?
+Caller: No, that's everything. Thank you.
+Agent: Take care, Clifton. Goodbye.

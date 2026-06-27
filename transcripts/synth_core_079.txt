@@ -1,0 +1,35 @@
+Agent: Thank you for calling Summit Home Lending, this is Ray. How can I assist you today?
+Caller: Hi Ray, my name is Yoshiko Tanaka. I'm calling because I submitted my homeowner's insurance policy a few weeks ago and you guys are still charging me for that force-placed insurance. My loan number is 3309-8851.
+Agent: Hi Yoshiko, I'm sorry to hear that's still ongoing. Let me pull up your account right now. Okay, I see your loan — a thirty-year fixed on your property in Portland, Oregon. I can see there's a lender-placed insurance policy on the account. Let me check the status of any documentation we may have received.
+Caller: I faxed my declarations page on June second. I have the fax confirmation right here showing it went through at 9:14 in the morning.
+Agent: I appreciate you having that documentation. Let me look through the insurance notes on your account. I can see a notation here — it looks like a fax was received on June second, but I'm showing it was routed to our imaging queue and may not have been reviewed and linked to your account yet. I apologize for that delay.
+Caller: It's been almost a month. My policy effective date was May fifteenth. You guys placed the force insurance on May twenty-second. I provided my own policy before you even charged me for a full month.
+Agent: You're absolutely right, and I want to make sure this gets corrected today. Let me look at what was force-placed and what charges have gone on your account. I'm seeing a force-placed hazard insurance charge of two hundred fourteen dollars that posted on June tenth. That's the only charge at this point.
+Caller: Yes, that's the one. I want that removed because my own policy was in effect before you placed yours, and I submitted proof.
+Agent: Understood. Here's what I'm going to do — I'm going to escalate this to our insurance review team with a priority flag. Based on what you're telling me and the fax confirmation you have, it sounds like the documentation was received but not processed in a timely manner. That two hundred fourteen dollar charge should be refunded.
+Caller: How long will the refund take?
+Agent: Once the insurance team reviews your policy documents and confirms your coverage was in place as of May fifteenth, the force-placed policy will be cancelled retroactively and the charge will be reversed. That typically takes three to five business days from when the team receives the escalation.
+Caller: So today you're escalating it, and within five days it should be resolved?
+Agent: Yes, that's the goal. I'm also going to note in your file today's call and the June second fax date with the confirmation number. Can you read me that confirmation number?
+Caller: Sure, it's 0602-94417-TX.
+Agent: Got it — 0602-94417-TX received June second at 9:14 a.m. I'm adding that to the notes right now. Now, let me also confirm that we actually have your policy linked in our system so this doesn't happen again.
+Caller: Please. My insurance company is Safeguard Property Insurance. Policy number SP-7741209. It's a twelve-month policy running May fifteenth this year through May fifteenth next year. Annual premium is one thousand three hundred eighty dollars.
+Agent: And the coverage amount?
+Caller: Two hundred eighty thousand dollars for the dwelling. My loan balance is about one ninety-five, so it's well above the requirement.
+Agent: Yes, that meets our requirement. The dwelling coverage needs to be at least equal to the outstanding principal balance or the replacement cost value — two hundred eighty thousand definitely covers you. Let me update the insurance record in our system with this information.
+Caller: Also, I want to make sure I'm listed correctly as the insured and the mortgagee is listed correctly. My insurance agent said she listed Summit Home Lending but I'm not sure of the exact address she used.
+Agent: The correct mortgagee clause is: Summit Home Lending, ISAOA/ATIMA, PO Box 88300, Portland, OR 97288. ISAOA/ATIMA means "its successors and/or assigns, as their interests may appear." That ensures coverage follows the loan if it's ever transferred.
+Caller: I'll double-check with my agent that she has that exact address. She might have a slightly different one.
+Agent: It's worth verifying. If the mortgagee clause is incorrect, it can create issues with claims processing. Your insurer should be able to update it and reissue the declarations page at no charge.
+Caller: Okay. Now back to the refund — will it go back to my escrow account or back to my bank account?
+Agent: The force-placed premium was charged to your escrow account, so the refund will be credited back to your escrow. It won't go directly to your bank account, but it will reduce your escrow disbursement or be reflected in your next escrow analysis as a positive balance.
+Caller: Will that affect my monthly payment?
+Agent: It depends on your escrow balance. If the credit creates a surplus over a certain threshold — typically one to two months of your escrow payment — you'd receive a surplus check or it could reduce your monthly escrow portion. But two hundred fourteen dollars is likely below the surplus threshold for a refund check, so it will probably just sit in the escrow account as a credit buffer.
+Caller: That's fine. I just want the charge off my account.
+Agent: Completely understandable. I've submitted the escalation to the insurance team and noted all the details we discussed. You should receive either a call or written confirmation within five business days. If you haven't heard anything by July fifth, please call back and reference today's case note — I'll put today's date and my ID, which is R-4492, in the notes.
+Caller: Ray, R-4492, today's date. I've got it written down.
+Agent: Perfect. Is there anything else I can help you with today?
+Caller: I think that covers it. I really appreciate you actually taking the time to dig into it. Last time I called, someone just told me to wait.
+Agent: I understand that's frustrating, and I apologize for the earlier experience. You did everything right by submitting the documentation and keeping the confirmation. We should have caught this sooner on our end.
+Caller: Thank you, Ray. I'll wait for the confirmation.
+Agent: Sounds good, Yoshiko. Have a great day.

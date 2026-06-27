@@ -1,0 +1,45 @@
+Agent: Thank you for calling Crestwood Mortgage Servicing. This is Sandra. May I have your loan number?
+Caller: Loan number is 614788. My name is Philip Garrett. And I need to speak to a supervisor, so you might as well get one on the line now.
+Agent: Mr. Garrett, I hear that you're frustrated and I absolutely want to get this resolved for you. Let me pull up your account and understand what's happening, and if we need to escalate, I will do that. Can you verify your property address and last four of your Social?
+Caller: 2211 Oak Summit Road, Raleigh, North Carolina. Social ends in 4402. And I'll tell you what's happening — your company paid my property taxes late, the county assessed a penalty, and now I've got a $340 late fee on my tax bill that your escrow department caused.
+Agent: I understand, and I appreciate you giving me that context right away. Let me pull up your escrow activity. I'm looking at your account now, Mr. Garrett. Your current escrow balance is $2,840, and your annual property tax obligation is listed here as $4,180 for Wake County. Can you tell me when you received notice of this penalty?
+Caller: I got my property tax bill last week. It shows the full year tax of $4,180 was due September 1st. There's a note on it that says the payment was received October 15th, which is past the due date. The county charges 2% for late payment, so $83.60 penalty. And there's also a $256.40 interest charge for the 44 days late. So total extra charge is $340 on top of what I owe.
+Agent: Okay, so the total penalty and interest is $340. Let me see what I can find in our records about when we disbursed that tax payment. Give me just a moment please.
+Caller: Take your time. I've got documentation.
+Agent: Thank you. I'm looking at your escrow disbursement history. I can see a property tax disbursement — it was processed on October 12th. The county would have received it a few days after that, which would align with what your bill shows as October 15th receipt.
+Caller: Right. And the due date was September 1st. So your company was 41 days late making that payment. I want to know why.
+Agent: Let me look at our escrow analysis and disbursement schedule. According to our records, your escrow account showed a shortage as of August 15th when we ran the scheduled disbursement. The county tax authority had sent us a revised bill — it appears there was a special assessment added to your property that changed the tax amount, and our system flagged it for manual review because the amount didn't match our estimated disbursement.
+Caller: So your system held the payment because there was a discrepancy?
+Agent: That appears to be what happened. When a disbursed amount significantly differs from the anticipated amount, our system flags it for an escrow analyst to review before releasing the funds, as a control against paying incorrect amounts. However — and I want to be very clear about this — that internal review process should not result in a late payment to the county. There should be procedures to ensure payment goes out even while a review is in progress.
+Caller: Exactly. And it didn't. And now I'm being billed $340 that I shouldn't owe.
+Agent: Mr. Garrett, based on what I'm seeing, this appears to be a servicer error. I want to make sure I'm handling this properly and with the right level of authority, so I'm going to put you on a brief hold while I get my team lead involved. Is that alright?
+Caller: Yes. That's what I asked for when I called in.
+Agent: I appreciate your patience. Please hold.
+Agent: Mr. Garrett, thank you for holding. I have my team lead Kevin Shields joining us right now.
+Agent: Mr. Garrett, this is Kevin Shields, senior escrow team lead. Sandra has briefed me on your situation. I've also pulled up your account and I've been reviewing the disbursement log during the hold. Can I share what I'm finding?
+Caller: Please do.
+Agent: So there are a few things that happened here. You're right that we received a revised tax bill from Wake County in late July reflecting an additional special assessment of $412 for a stormwater infrastructure project. Our system correctly flagged this for review because it was outside the normal disbursement threshold. The review request was generated on August 2nd. The problem I'm finding is that the analyst who was assigned that review was on medical leave beginning August 4th, and the reassignment protocol was not followed correctly. The review sat in a queue unactioned until early October.
+Caller: So it just sat there for two months?
+Agent: That is what the records show, and I want to apologize to you directly for that. This is an operational failure on our part. You should not be bearing the financial consequence of that.
+Caller: I'm glad to hear you say that. So what are you going to do about it?
+Agent: Here is what I can do. I can initiate an escrow error reimbursement for the penalty and interest charges — the $340. To do that formally, you'll need to send us a copy of your county tax bill showing the delinquency charges itemized. We'll review it and issue a credit to your escrow account within 10 business days, which will then result in either a reduction to your monthly escrow payment or a direct check if your escrow balance permits it.
+Caller: I want a check, not a credit to my escrow. This isn't a loan balance issue, this is money your company cost me.
+Agent: I understand that distinction. Let me look at what our reimbursement options are. For an escrow error that resulted in a third-party penalty, we do have the ability to issue a direct reimbursement by check. That would typically take 15 to 20 business days for processing and mailing. Can I get a confirmation of your mailing address?
+Caller: Same as the property. 2211 Oak Summit Road, Raleigh, NC, 27604.
+Agent: Got it. I also want to address the special assessment. The $412 for the stormwater project — has your county billing shown that as part of the October payment, or is that still outstanding?
+Caller: That was part of the $4,180 on the bill. It's included.
+Agent: Okay, so the full tax obligation including the assessment was in that one disbursement, and our delayed payment caused the penalty and interest on the total amount. That makes the servicer liability clear. Let me also make a note about your ongoing escrow — because that special assessment is now part of your base tax rate, we should update our tax record so that next year's disbursement is scheduled correctly from the start. I'm going to flag your account for an escrow re-analysis to make sure the new tax amount is reflected going forward.
+Caller: Is that going to change my monthly payment?
+Agent: It likely will slightly, yes. Your current monthly escrow contribution is approximately $348 based on the $4,180 annual estimate. With the actual confirmed tax of $4,180 plus whatever the county bills next year — assuming no change — you should be close. But we may also build in a small buffer if we're uncertain whether the special assessment recurs. The escrow re-analysis letter will show you the exact new monthly contribution.
+Caller: I don't want my payment to jump dramatically because of your mistake.
+Agent: The payment adjustment, if any, would be based on actual tax obligations — the servicer error doesn't create additional escrow charges for you. The reimbursement check is a separate matter from how we calculate next year's escrow. I want to make sure those are clear as two separate things.
+Caller: Alright. So what do I need to do?
+Agent: You need to send us the county tax bill showing the delinquency charges. You can email it to escrow.support at CrestwoodMortgage.com, fax it to 1-877-520-4400, or upload it to your online portal under the Documents section. Please note the reference number I'm about to give you on the document when you send it — that will tie directly to this reimbursement request. Your reference number is ESC-2024-PGR-7841.
+Caller: ESC-2024-PGR-7841. Got it. And how will I know when the check is being mailed?
+Agent: You'll receive a written notice to your mailing address within 5 business days of us receiving and approving your documentation. That notice will confirm the check amount and the expected mail date. If you don't receive that notice within 5 business days of submitting the bill, call back and reference that number.
+Caller: And if there's any pushback from someone else on your team who wasn't on this call?
+Agent: Mr. Garrett, I'm noting this call, my conversation with Sandra, and the specific findings from the disbursement log — including the workflow failure — in your account record right now. Anyone who pulls up your file will see the full history. This is documented as a confirmed servicer error.
+Caller: Okay. Kevin, Sandra — I appreciate that you took this seriously. This is all I wanted, honestly.
+Agent: You were right to call and right to escalate. We failed you on this one and we're going to make it right. Is there anything else we can help you with today?
+Caller: No, that covers it. Thank you both.
+Agent: Thank you, Mr. Garrett. Have a good day.

@@ -1,0 +1,50 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, this is Maria, how can I help you today?
+Caller: Hi, yeah, um, I'm calling on behalf of my mother. She's — she has dementia and she can't handle her own affairs anymore. I'm trying to get some information about her mortgage.
+Agent: I understand, and thank you for being there to help your mother. I do need to go through a few steps before I can share account information, because we're required to protect our borrower's privacy. Can I start with the loan number or property address?
+Caller: Sure, the address is 78 Oleander Street, Tampa, Florida. And I believe the loan number is 661284.
+Agent: Thank you. And can I get your name?
+Caller: I'm Andrew Ferreira. Her name is Dolores Ferreira. She's my mother.
+Agent: Thank you Andrew. Now, before I can discuss any account details with you, I need to let you know that our privacy policies require that only the borrower or an authorized third party can access account information. Has your mother designated you as an authorized person on this account, or do you have a legal document authorizing you to act on her behalf?
+Caller: That's what I want to talk to you about. She was diagnosed about eight months ago. She's in memory care now. I've been managing everything else — her bank accounts, her bills — but I'm realizing I never set anything up with the mortgage company.
+Agent: I see. Do you have a Power of Attorney document for your mother?
+Caller: Yes. I went to an attorney last spring and we set up a durable Power of Attorney. I have the document.
+Agent: Perfect. A durable Power of Attorney is exactly what we need. I want to walk you through what we'll need to get you set up as an authorized third party on this account.
+Caller: Okay, I was afraid I was going to hit a wall here.
+Agent: Not at all. This is actually a documented process we handle fairly often. Here's what we need. We need to review the POA document to confirm it's valid, that it covers financial matters, and that it specifically grants you the authority to manage real estate and mortgage-related transactions. Some POAs are limited in scope, so we do need to review it carefully.
+Caller: It's a durable financial POA. My attorney said it should cover everything financial.
+Agent: That's what we'd expect. Once we receive and review the document, our legal team verifies it typically within five to seven business days. After that, we add you to the account as the authorized representative, and you'll be able to call in, receive account information, and act on your mother's behalf.
+Caller: How do I send it to you?
+Agent: You can upload a clear, legible copy through our document portal at our website, or you can fax or mail it to our third-party authorization department. I'd recommend the online portal for speed. You can also go to a local branch if there's one near you in Tampa.
+Caller: There's actually one about three miles from me. Can I just bring it in?
+Agent: Yes, absolutely. Bring the original or a notarized copy — they'll make a certified copy and return your original to you. That's often the fastest option.
+Caller: Okay, I'll do that. What about in the meantime? I can't find out anything until this goes through?
+Agent: I can confirm very limited information — things that are essentially public record — but I can't discuss account balances, payment history, escrow details, or anything sensitive without authorization in place. I'm sorry for that inconvenience, I know it puts you in a difficult spot.
+Caller: I understand. Can you at least tell me if the mortgage is current? Because I'm worried she may have missed a payment before we got everything organized.
+Agent: I'm not able to share that without authorization, unfortunately. However, I can tell you that if there is any delinquency on the account, you'd typically receive written notices at the property address. Have you been checking the mail there?
+Caller: Yes, I have access to the house. I haven't seen any notices, but I'm not sure if I would recognize one if I saw it.
+Agent: Mortgage delinquency notices are usually very clearly labeled. They'll say things like "Notice of Late Payment," "Important Notice Regarding Your Account," or they'll have our name prominently on the envelope. If you haven't seen any of that, that's a reasonably good sign.
+Caller: Okay. I want to make sure payments keep getting made. She has income — Social Security and a small pension — and it's going into a bank account I now control.
+Agent: Once you're set up as the authorized representative, I'd strongly recommend setting up automatic payment from whatever account you're managing for her. That way you don't have to worry month to month.
+Caller: That's what I'm planning. Can I also ask about the escrow account? I'm not sure if she's been paying her property taxes separately or if they're included.
+Agent: That's a great question and a common source of confusion with older properties. Once I can verify your authorization, I can pull up the escrow details and walk you through everything. But if you want to do some homework ahead of that — property tax records for Hillsborough County are available online, and you could confirm whether the taxes are being paid by the servicer or by your mother directly.
+Caller: I'll do that. What else should I be thinking about?
+Agent: A few things. One, is there a homeowner's insurance policy on the property? That needs to stay active — if it lapses, we would purchase what's called force-placed insurance on your behalf, which is much more expensive. Two, if she's living in memory care, is the house occupied? An unoccupied home can sometimes affect insurance coverage — some homeowner's policies have vacancy clauses.
+Caller: The house is unoccupied. My brother has been going over to check on it weekly.
+Agent: I'd recommend calling her insurance company and letting them know the property is currently vacant. They may adjust the policy. You'll want to keep that coverage continuous.
+Caller: That's really helpful. I didn't think about that.
+Agent: Also, depending on your mother's financial situation and the equity in the home, you may want to consult with an elder law attorney about long-term planning — whether to keep the home, sell it, or explore other options. That's outside our scope but it's an important consideration.
+Caller: We've already started talking about that. We're not sure if she'll ever be able to go back to the house.
+Agent: I understand. When you come in with the POA, also ask the branch staff about adding a notification contact — someone who gets a copy of any account notices. That way you won't miss anything even if a letter goes to the property.
+Caller: Oh that's smart. Can I do that even before the POA is fully processed?
+Agent: The branch can advise on that, but typically the notification contact is set up as part of the authorization process. So you'd want to handle both on the same visit.
+Caller: Okay, I'll head to the branch tomorrow or this week. Let me write down what I need. The POA document — original or notarized copy. And you said ask about a notification contact.
+Agent: Correct. And have your own government-issued ID ready as well.
+Caller: Right. And the branch address — do you have the Tampa location's address?
+Agent: The Tampa branch on West Kennedy Boulevard — 3105 West Kennedy Boulevard, Tampa. They're open weekdays nine to five and Saturdays nine to noon.
+Caller: Perfect. That's close to me. Okay, I feel better having a plan. Thank you Maria.
+Agent: You're doing the right thing for your mother, Andrew. It can feel overwhelming but once the authorization is in place, managing everything gets much easier.
+Caller: I hope so. She worked hard for that house and I want to make sure it's protected.
+Agent: I understand. We'll do everything we can to make this smooth. Is there anything else I can help you with today?
+Caller: I think I have what I need for now. Thank you.
+Agent: You're welcome. Good luck tomorrow. Goodbye.
+Caller: Thank you. Bye.

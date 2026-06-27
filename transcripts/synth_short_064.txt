@@ -1,0 +1,30 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, my name is Yuki. How can I help you today?
+Caller: Hi Yuki. I made an extra payment on my mortgage last month and on my statement I see the words "principal curtailment" on the line for that payment. I have no idea what that means and I just want to make sure the payment was applied correctly.
+Agent: That's a great question and I'm glad you checked. Principal curtailment is the correct term for what happened, and it means your extra payment was applied exactly as intended. Let me pull up your account to confirm the details. Can I get your name and loan number?
+Caller: Yes, my name is Lamont Jefferson. My loan number is 4410-NN-78002.
+Agent: Thank you Lamont. Can you verify the property address?
+Caller: 2200 Cypress Glen Road, Charleston, South Carolina 29412.
+Agent: And the last four of your SSN?
+Caller: 3319.
+Agent: Perfect. I have your account. I can see the transaction you're referring to. On the 23rd of last month, a payment of five hundred dollars was received and posted as a principal curtailment.
+Caller: So what exactly does that mean? What did it do?
+Agent: A principal curtailment means the entire five hundred dollars was applied directly to your outstanding principal balance — that is, the actual amount you owe on the loan — without any portion going to interest or escrow. It directly reduced your loan balance by five hundred dollars.
+Caller: Oh good! That's exactly what I wanted. I thought I was paying down the loan faster.
+Agent: You are. When you make principal curtailments like this, you're reducing the balance you owe. Since your interest each month is calculated on your remaining balance, a lower balance means you'll pay less interest over the life of the loan and you may pay it off sooner.
+Caller: Can you tell me by how much? Like did my payoff date change?
+Agent: I can give you a general idea. Your original remaining term before this payment was approximately twenty-six years and two months. After applying this curtailment, based on your current payment schedule, you've shortened that by roughly two months. Making regular additional curtailments can add up significantly over time.
+Caller: Only two months for five hundred dollars?
+Agent: It may seem modest for a single payment, but keep in mind this is in the context of a large remaining balance. The real power comes from making curtailments consistently over time. For example, if you added even a hundred dollars extra per month from now on, you could shorten your loan by several years and save tens of thousands in interest.
+Caller: Wow, that's significant. I didn't realize how much of a difference consistent extra payments could make.
+Agent: It's one of the most effective ways to pay off a mortgage faster without refinancing.
+Caller: Can I designate that any extra payment I make always goes to principal? Or do I have to specify each time?
+Agent: When you send a payment that exceeds your regular monthly amount, our system typically applies the overage to principal automatically after the current month's payment is satisfied. However, if you want to be absolutely certain, you can include a note on a check or use the designate to principal option on our website. That way there's no ambiguity.
+Caller: I used the website last time. Was there an option there to mark it as principal?
+Agent: Yes, when you initiate an additional payment through our online portal there's a field where you can select principal reduction as the purpose. If you used that, that's why it shows as a curtailment on your statement.
+Caller: Yes, I did select that. So everything worked correctly.
+Agent: Everything applied correctly. Your balance was reduced and your payment history is clean.
+Caller: That's a relief. Thank you Yuki, you explained that really well.
+Agent: My pleasure Lamont. Is there anything else I can help you with today?
+Caller: No, that's all. Thanks again.
+Agent: You're welcome. Have a great day. Goodbye.
+Caller: Bye.

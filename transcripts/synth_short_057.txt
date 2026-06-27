@@ -1,0 +1,28 @@
+Agent: Thank you for calling Meridian Mortgage, this is Rachel. How can I assist you today?
+Caller: Hi Rachel. I'm trying to refinance and the new lender asked me if there are any flags or issues on my current mortgage account. I honestly don't know and I wanted to call and ask you directly.
+Agent: That's a smart thing to verify before going through a refinance. I can look at your account status for you. Can I get your name and loan number?
+Caller: Yes, my name is Gloria Osei and my loan number is 8825-HH-3301.
+Agent: Thank you Gloria. And for identity verification can you give me the last four digits of your Social Security number?
+Caller: 7743.
+Agent: And the property address?
+Caller: It's 304 Clover Lane, Durham, North Carolina 27701.
+Agent: Thank you. Pulling up your account now. Okay Gloria, I'm looking at your account status. Your loan is currently showing as active and in good standing. I don't see any open flags, alerts, or negative notations on the account.
+Caller: Okay, that's a relief. What kinds of things would show up as flags if there were any?
+Agent: A few different things could appear as account flags or notations. Late payments are a common one, particularly if a payment was more than thirty days past due at any point. We can also have flags for returned payments, which means a check or electronic payment that bounced. There can be notations for things like active loss mitigation plans, open disputes, or insurance-related issues on the property.
+Caller: I did make one payment late a while back. Would that show up?
+Agent: If a payment was late but eventually made, it typically appears in the payment history as a late payment record rather than as an active flag. An active flag would indicate something currently unresolved. Your payment history shows one instance of a payment that was received thirty-four days past the due date, but there is no active delinquency flag on the account now.
+Caller: Would that late payment be a problem for my refinance?
+Agent: That's really a question for your new lender, as they'll be evaluating your full credit profile and history. From our side we can confirm the account is in good standing today. We can also provide a mortgage verification of status letter if your new lender requests one.
+Caller: Oh, would that letter show the late payment?
+Agent: A verification of mortgage letter typically includes your payment history, current balance, monthly payment amount, and account status. It would reflect the full history including that late payment. Most lenders order this type of letter as part of their underwriting process.
+Caller: Alright, good to know. Is there anything else on the account I should be aware of? Like any escrow issues or anything?
+Agent: Let me check your escrow account. Your escrow balance appears normal. You had an escrow analysis completed in February and your monthly escrow amount was adjusted slightly upward to cover a property tax increase, but that adjustment was applied without issue. No escrow deficiency or shortage flags.
+Caller: And my insurance is all current?
+Agent: Our records show homeowner's insurance on file with a current expiration date of next March. As long as you renew before then and we receive updated declarations, there should be no insurance-related issues.
+Caller: Great, that all sounds good. So I can tell my new lender the account is in good standing with no active flags?
+Agent: Yes, that's accurate based on what I see. And if they need it in writing, just have them contact us to request a verification of mortgage letter.
+Caller: Perfect, that's exactly what I needed to know. Thank you so much Rachel.
+Agent: You're welcome, Gloria. Good luck with your refinance. Is there anything else I can help you with?
+Caller: No, that's it. Have a great day.
+Agent: You too, goodbye.
+Caller: Bye.

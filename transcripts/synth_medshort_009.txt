@@ -1,0 +1,40 @@
+Agent: Thank you for calling Pinnacle Home Mortgage, this is Kevin speaking. How can I help you today?
+Caller: Kevin, I'm really worried. I just got a notice from my county saying my property taxes are overdue. But I have an escrow account. Isn't that supposed to pay my taxes automatically?
+Agent: I understand why that would be alarming. Let me pull up your account right away and we can figure out what's going on. Can I get your name and property address?
+Caller: My name is Dorothy Chen. The address is 908 Hillcrest Boulevard, San Jose, California 95124.
+Agent: Thank you, Dorothy. Last four of your Social Security number?
+Caller: 3318.
+Agent: And last four of your loan number?
+Caller: 7726.
+Agent: Great. I've got your account and I can see your escrow information. Can you tell me more about the notice you received? Does it say what tax period it's for?
+Caller: Yes. It says the first installment of fiscal year 2024-2025 is past due. It shows an amount of $3,418.
+Agent: Okay, let me check our disbursement records. Give me a moment to look this up, Dorothy.
+Caller: Of course. I'm just worried because it says there may be penalties if it's not paid soon.
+Agent: I completely understand. All right, I'm looking at your escrow disbursement history. I can see that a payment of $3,418.00 was disbursed from your escrow account on November 1st of last year, which is the standard disbursement date for California first installment property taxes.
+Caller: So you did send the payment?
+Agent: Yes, we sent the payment. However, let me look a bit further. I see the payment was processed as a check, and I want to verify the delivery and cashing status.
+Caller: Oh. Could a check have gotten lost?
+Agent: It's possible but uncommon. Let me check. I'm seeing here that the check was issued November 1st to Santa Clara County Tax Collector. I'm pulling the check clearance information. The check cleared on November 14th. That means the county received and cashed the check.
+Caller: Then why are they saying it's past due?
+Agent: That's a great question and there are a couple of possibilities. One is that there was a processing or posting error on the county's end. Another is that the payment may have been applied to a different tax account or parcel number. This does happen occasionally.
+Caller: What do I do? Should I pay it out of pocket to stop the penalties and then fight for a refund?
+Agent: I would not recommend paying out of pocket just yet. Because we can confirm our payment cleared the county's bank account, this almost certainly is a county-side posting issue. What I'd recommend is that you contact the Santa Clara County Tax Collector directly with our proof of payment, and we can provide that to you.
+Caller: Can you give me that proof today?
+Agent: Absolutely. I'll generate a payment confirmation letter that includes the check number, the amount, the payee, the disbursement date, and the clearance date. I can email that to you or fax it if you prefer.
+Caller: Email, please. It's dorothy.chen1965 at yahoo dot com.
+Agent: Perfect. Dorothy.chen1965 at yahoo.com. I'll send that documentation today within the next couple of hours.
+Caller: And what should I say when I call the county?
+Agent: Tell them your escrow servicer, which is Pinnacle Home Mortgage, disbursed a payment on your behalf, that the check cleared, and that you have a payment confirmation letter. Give them the check number, which I'll include in the letter. Ask them to locate the payment and properly apply it to your parcel and fiscal year.
+Caller: Should I also mention the penalties?
+Agent: Yes. Once you provide proof of payment that predates the penalty, you can request that any penalty be waived since the payment was timely made. Most counties will accommodate this when you show documentation.
+Caller: What if the county still can't find the payment?
+Agent: If the county can't resolve it, call us back and we'll escalate to our escrow research team. They can contact the county directly and work with them to trace the payment. We're not going to leave you with an unresolved delinquency when we can confirm our disbursement cleared.
+Caller: That makes me feel a lot better. So in the meantime my escrow account isn't short or anything?
+Agent: Your escrow account balance is fine. The disbursement went out as expected. This is a county-side application issue, not an escrow problem.
+Caller: Okay. I'll call the county today with the documentation once I receive your email.
+Agent: That sounds like a great plan. If you haven't heard from the county within five business days or if they tell you they can't locate the payment, please call us back and we'll step in.
+Caller: Will do. Thank you so much, Kevin. You really put my mind at ease.
+Agent: Happy to help. I'll get that email out to you shortly. Is there anything else I can help you with today, Dorothy?
+Caller: No, that's everything. Thank you.
+Agent: Of course. Have a good afternoon. Goodbye.
+Caller: Goodbye.

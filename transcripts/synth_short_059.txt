@@ -1,0 +1,31 @@
+Agent: Thank you for calling Horizon Mortgage Servicing. This is Yuki speaking. How may I help you?
+Caller: Hi Yuki. I'm doing my taxes and my accountant asked me when my mortgage loan originally closed. I thought I had the paperwork but I can't find it right now and I really need that date. Can you look it up?
+Agent: Yes, absolutely. The original closing date is something I can pull up from your loan record. Let me get your account information first. Can I have your name?
+Caller: My name is Connie Abramowitz.
+Agent: And your loan number?
+Caller: It's 6630-KK-19200.
+Agent: Thank you Connie. For verification, can you confirm the last four digits of your Social Security number?
+Caller: 8847.
+Agent: And the property address?
+Caller: 12 Whispering Pines Circle, Portland, Maine 04101.
+Agent: Thank you. Pulling up your account. Okay Connie, I can see your loan record here. Your loan's original closing date was October 18th, 2019.
+Caller: October 18th, 2019. Perfect. And just to make sure I'm giving my accountant the right thing — is the closing date the same as the origination date?
+Agent: Those terms are often used interchangeably but there can be a subtle difference. The closing date is the date you signed the final loan documents and the transaction was legally completed. The origination date can sometimes refer to when the loan was funded or when it was first recorded with the servicer. In most cases they're the same date or within a day or two of each other.
+Caller: So what does it show for origination on my account?
+Agent: Your loan shows the same date for both — October 18th, 2019. The funding date is also October 18th, 2019. So for your tax purposes all three dates are the same.
+Caller: Great, that makes it simple. And my accountant also asked about the original loan amount at closing. Can you tell me that?
+Agent: Yes. Your original principal balance at closing was three hundred and forty-two thousand dollars.
+Caller: Three hundred forty-two thousand. Got it. Is the current balance different from that obviously?
+Agent: It is. Your current principal balance is approximately three hundred and eighteen thousand, four hundred dollars. So you've paid down about twenty-three thousand six hundred in principal since closing.
+Caller: Okay, that tracks. And the interest rate on the loan at closing — was that the same as it is now?
+Agent: Your loan is a fixed-rate mortgage, so yes, the rate has not changed. Your interest rate at closing and your current rate is the same, which is 4.75 percent.
+Caller: Perfect. And one more question — my accountant may also ask for the name of the lender at origination, not necessarily the current servicer. Do you have that?
+Agent: Yes. Your loan was originally originated by Clearfield Bank and Trust. At some point after closing the servicing rights were transferred to us at Horizon Mortgage Servicing, but the original lender on the note was Clearfield Bank and Trust.
+Caller: Oh interesting, I didn't know that. When did it transfer to Horizon?
+Agent: The servicing was transferred to us on April 1st, 2021. You would have received a transfer notice from both the prior servicer and us around that time.
+Caller: I vaguely remember something about that. Okay, I think I have everything my accountant needs. Closing date October 18th, 2019, original loan amount three forty-two thousand, original lender Clearfield Bank and Trust.
+Agent: That's all correct. Do you need me to send any documentation confirming those details?
+Caller: I don't think so, this should be enough for what he needs. Thank you so much Yuki.
+Agent: Happy to help Connie. Have a great rest of your day.
+Caller: You too, goodbye.
+Agent: Goodbye.

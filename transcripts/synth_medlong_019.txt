@@ -1,0 +1,48 @@
+Agent: Good afternoon, Pinnacle Home Loans servicing department, this is Priya speaking. Can I pull up your account?
+Caller: Yes, my loan number is 3302-56178.
+Agent: And your name and last four of Social for verification?
+Caller: Margaret Hollowell. Social ends in 7823.
+Agent: Thank you, Ms. Hollowell. I see your property at 1148 Ridgecrest Avenue, Portland, Oregon. What can I help you with today?
+Caller: My husband and I just set up a revocable living trust with our estate attorney, and she told us we should transfer the house into the trust. But I wasn't sure how that affects the mortgage. Can you walk me through that?
+Agent: Absolutely, this is something we get calls about fairly often. So first, good news — transferring real property into a revocable living trust is generally allowed and we do accommodate it. Let me explain the full picture so you know what to expect.
+Caller: Please, yes. Our attorney mentioned something about a due-on-sale clause and it scared me a bit.
+Agent: That's a really good thing to bring up. The due-on-sale clause in your mortgage gives the lender the right to demand full repayment if the property is transferred. However, there's a federal law called the Garn-St. Germain Depository Institutions Act of 1982 that specifically protects transfers into revocable living trusts under certain conditions.
+Caller: What conditions?
+Agent: The main conditions are: the borrower must be and remain a beneficiary of the trust, the borrower must retain the right to occupy the property as their primary residence, and the transfer must not result in a change of occupancy. So if you and your husband transfer your home — which I see is your primary residence — into a trust where you are both trustees and beneficiaries, and you continue to live there, Garn-St. Germain protects that transfer and we cannot call the loan due.
+Caller: That's reassuring. So you wouldn't be able to demand payoff just because we put the house in a trust?
+Agent: Correct, as long as those conditions are met. This is why estate attorneys routinely advise this — it's a well-established protected transaction. Now, even though the law protects you, we do ask borrowers to notify us and submit some documentation so we can update the account records.
+Caller: What documentation do you need?
+Agent: We typically ask for a copy of the trust documents — specifically the trust agreement and the certification of trust. We need to verify the trust is revocable, that you and your husband are the trustees and beneficiaries, and that the property is intended to be your primary residence. We also need the deed transferring the property into the trust, which your attorney will prepare.
+Caller: The deed — do we record that with the county first, or does that come after you approve it?
+Agent: Typically your attorney will prepare the deed and record it with the county. Once recorded, you send us a copy of the recorded deed along with the trust documents. We don't need to approve the transfer beforehand for a protected revocable living trust — the law allows it. But you should notify us promptly after the recording so we can update the account.
+Caller: Our attorney mentioned something about a title insurance endorsement. Do we need one?
+Agent: That's a good question. Some title insurance companies issue an endorsement — sometimes called a trust endorsement or a Trustee endorsement — when property is transferred into a trust. It's a good idea to contact your title insurance company to let them know about the transfer so they can update your owner's title policy. We may also require the title company to confirm the transfer doesn't affect the first lien position. Your attorney should handle coordinating that.
+Caller: What about insurance — do I need to update my homeowner's insurance?
+Agent: Yes, definitely. You'll want to contact your homeowner's insurance carrier and let them know the property is now held in trust. They may need to update the named insured on the policy. Many carriers simply add the trust as an additional insured. If insurance lapses or the policy isn't updated and a claim is filed, there could be complications. Your mortgage requires you to maintain adequate coverage regardless.
+Caller: Okay, so the to-do list is: trust documents to you, recorded deed to you, notify title insurance, notify homeowner's insurance. Anything else?
+Agent: That covers the main points. We'll also send you an acknowledgment letter once we've reviewed the documents and updated the account. The mortgage remains in your name — the loan obligation doesn't transfer to the trust, only the title to the property does. You and your husband remain personally liable on the note.
+Caller: Right, our attorney explained that. The loan stays in our names but the house is in the trust name.
+Agent: Exactly. The loan documents stay as-is. If at some point you want to refinance, the new loan would typically need to be in your personal names or the lender would need to approve lending to the trust as trustee. That varies by lender.
+Caller: What if we want to sell the house — does the trust complicate that?
+Agent: Not significantly. You'd sell as trustees on behalf of the trust. The title company handling the sale would verify the trustee authority through the trust documents. It's a fairly standard transaction in states like Oregon where living trusts are common.
+Caller: What about the name on the monthly statements — will that change?
+Agent: The loan is in your and your husband's names, so statements will continue to show your names. We may add a note indicating the property is held in trust, but the borrower names on the note don't change.
+Caller: Can I ask about the escrow account? We have taxes and insurance impounded. Does any of that change?
+Agent: The escrow account stays exactly the same. Taxes and insurance continue to be escrowed and paid on your behalf as before. The property transfer into a trust doesn't affect how the escrow is administered.
+Caller: What's the timeline for all of this? Our attorney is ready to prepare the deed.
+Agent: Once your attorney prepares and records the deed — which can often happen within a week or two depending on county recording times — you can send us the documents. We'll review and update the account within 10 to 15 business days of receiving everything. There's no fee from us for processing this.
+Caller: No fee? That's nice.
+Agent: Correct, no charge from our servicing department. Your attorney will charge for the trust creation and deed preparation, but that's separate from us.
+Caller: Can I upload the documents online or do I need to mail them?
+Agent: You can upload them through our secure document portal at PinnacleLoan.com under the documents section, or you can mail them to our address at PO Box 44800, Portland, Oregon 97201. Uploading is faster.
+Caller: I'll upload them. Can I make a note on the account that these documents are coming?
+Agent: I'll make a note right now — Margaret Hollowell on loan 3302-56178 will be submitting trust transfer documents including trust certification and recorded deed in the coming weeks. When the documents arrive, our team will know to look for them.
+Caller: That's great. One more question — if my husband passes away and I'm the surviving trustee, does the mortgage change at all?
+Agent: That's an important question. If the trust is a revocable living trust that becomes irrevocable upon death, the surviving trustee typically has authority to continue making mortgage payments and managing the property. However, the servicer may need to be notified and may review the trust to confirm successor trustee authority. You'd want to work with an estate attorney at that time. Our servicing team would guide you through the notification process.
+Caller: Okay. This has been extremely helpful, Priya.
+Agent: I'm glad. So to summarize — your transfer is protected under federal law, the loan stays in your names, and we need the trust certification and recorded deed. Once submitted, we update the account in 10 to 15 business days. Don't forget to notify your title and homeowner's insurance carriers.
+Caller: Got it. Thank you so much.
+Agent: Of course, Ms. Hollowell. Is there anything else I can help with today?
+Caller: No, that's everything. Thank you, Priya.
+Agent: Have a wonderful day. Goodbye.
+Caller: Bye.

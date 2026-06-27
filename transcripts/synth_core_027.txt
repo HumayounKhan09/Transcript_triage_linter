@@ -1,0 +1,39 @@
+Agent: Thank you for calling Premier Home Lending, this is Tom, how can I assist you today?
+Caller: Hi Tom, my name is Sandra Kowalski. I'm going through a divorce and my attorney told me I need to get my ex-husband's name off the mortgage. I'm keeping the house, he's agreed to it, we have a signed separation agreement. I just need to know how to do that.
+Agent: Hi Sandra, congratulations on reaching a settlement — I know that's not easy. This is actually a very common question and I want to make sure I give you accurate information because there are a couple of ways people think this works, and the reality is a little more specific. Can I pull up your account first? I'll need your loan number or the property address.
+Caller: The address is 2218 Birchwood Drive, Columbus, Ohio, 43215. The loan number I have written down is 88-441-2290.
+Agent: Thank you. And I need to verify your identity — last four of your Social and date of birth?
+Caller: Social ends in 3318, birthday is July 22nd, 1982.
+Agent: Perfect. I've got your account. Sandra Kowalski and Robert Kowalski, joint borrowers. The loan was originated in 2018, current balance is $231,400, fixed rate at 4.125%, monthly payment of $1,544. Okay, so let me walk you through this carefully.
+Caller: Please. My attorney made it sound simple — just remove him. But I had a feeling it wasn't that easy.
+Agent: Your attorney is right about the goal but the path is a bit more involved on the mortgage side. A divorce decree or separation agreement doesn't automatically change who's on the mortgage. The mortgage is a contract between both borrowers and us, the lender, and the lender has to agree to any change in that obligation.
+Caller: So how do I get him off?
+Agent: There are two potential paths. The most common one, and frankly the most straightforward, is a refinance. You'd take out a new loan in your name only, use the proceeds to pay off the existing joint loan, and Robert's obligation ends because the old loan no longer exists.
+Caller: But my interest rate is 4.125%. If I refinance now the rates are way higher. Won't I lose that?
+Agent: That's a very legitimate concern and yes, if you refinance today you'd be looking at current market rates, which are higher than what you have. However, it is the most reliable path because you'd be qualifying on your own income and credit, and it gives Robert a clean break — his name comes off and he's no longer liable.
+Caller: What's the second option?
+Agent: The second option is called a mortgage assumption. In theory, you'd assume the existing loan — keep the same rate, same terms — and remove Robert from the obligation. However, there are important limitations. Most conventional loans, including yours, contain what's called a due-on-sale clause. That clause gives us the right to call the full loan balance due if ownership or borrower status changes without our approval. So assumptions on conventional loans are generally not permitted.
+Caller: So it's basically not an option?
+Agent: For most conventional loans, that's correct. There are exceptions — FHA loans and VA loans are assumable under specific conditions, and I can see your loan is a conventional loan through Fannie Mae, so the due-on-sale clause applies.
+Caller: What about a quitclaim deed? My ex said we just do a quitclaim deed and that handles it.
+Agent: I hear that a lot and I want to clarify — a quitclaim deed affects title, not the mortgage. So Robert could sign a quitclaim deed transferring his ownership interest in the property to you, and that would remove him from the deed, meaning he no longer has an ownership claim to the house. But it does not remove him from the mortgage. He would still be legally obligated on the loan even after signing the quitclaim deed.
+Caller: Wait — so he'd have no ownership rights but still owe on the loan?
+Agent: Exactly. Which is why most attorneys advise against a quitclaim deed without also addressing the mortgage, because it leaves him exposed. He'd be on the hook for a debt secured by property he no longer owns. That's a problematic position for him.
+Caller: Okay, so really the only real option is refinancing.
+Agent: In your case with a conventional loan, yes. The refinance is the proper route. Now, there are some things worth noting. First, you'd need to qualify on your own — your income, your credit score, your debt-to-income ratio all matter. Have you looked at your current financial picture in terms of solo qualification?
+Caller: I work full-time, I make about $78,000 a year. My credit score the last time I checked was around 720. The house appraised at $310,000 last year.
+Agent: Those are solid numbers. With $78,000 in income and a 720 credit score, and an LTV around 75% — meaning your $231,000 balance against $310,000 value — you'd likely be in a good position to qualify, depending on your other debts. You'd want to speak with one of our loan officers who can run a full pre-qualification. The rate increase is real, but there are also costs to consider — closing costs on a refinance typically run between $4,000 and $7,000 depending on the loan size.
+Caller: Can I roll those into the loan?
+Agent: Often yes, if you have enough equity, which you do. You could roll closing costs into the new loan balance so you're not paying out of pocket at closing.
+Caller: What's the process from here? Do I start with you or with a separate department?
+Agent: I'd suggest calling our refinance origination team. They'll pull your credit, look at your income documentation, and give you a formal quote and timeline. The number for originations is 1-800-443-6610. Tell them you're refinancing to remove a co-borrower following a divorce — they have a specific process for that. They'll also likely ask for the signed separation agreement or divorce decree, which shows the legal basis for the change.
+Caller: My divorce won't be final for another two months. Can I start the application now?
+Agent: You can start gathering documentation and get pre-qualified, but you'll typically need the final decree to complete the transaction. Some lenders will allow you to proceed if the separation agreement is sufficiently detailed about property division, but the originations team will advise you on exactly what they'll need.
+Caller: This is really helpful. I feel like I understand it now. My ex kept saying just file the paperwork but I knew there was more to it.
+Agent: You were right to dig into it. The mortgage side often gets overlooked during divorce proceedings. One more thing — until the refinance closes, both of you remain responsible for the mortgage payments. So if payments get missed, it affects both your credit scores. It's worth making sure that whoever is responsible for payments in the interim keeps them current.
+Caller: Yeah, per our agreement I'm staying in the house and making payments. I've kept it current.
+Agent: That's great. And the on-time payment history will help you when you go through the refinance application. Is there anything else I can help you with today?
+Caller: No, I think that covers everything. I'm going to call the originations number and get that ball rolling.
+Agent: Sounds like a good plan, Sandra. Good luck with everything — I hope the process goes smoothly.
+Caller: Thank you, Tom. Really appreciate the clear explanation.
+Agent: Absolutely. Take care, goodbye.

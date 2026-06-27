@@ -1,0 +1,50 @@
+Agent: Thank you for calling Horizon Mortgage Servicing, this is Lisa, how can I assist you today?
+Caller: Hi Lisa, I'm calling about removing my PMI. I've been paying it for a few years now and I think I've built up enough equity to get rid of it.
+Agent: Great, that's something we can definitely look into. Let me pull up your account first. Can I get your loan number or property address?
+Caller: Loan number is 847392. And the property is 56 Ridgeline Drive, Boise, Idaho.
+Agent: And your name and last four of your Social?
+Caller: Carla Hutchinson, Social ends in 2207.
+Agent: Perfect, thank you Carla. I've got your account. I can see you do have private mortgage insurance. Your current loan balance is two hundred and twelve thousand four hundred dollars. Now, can I ask — do you know what your home's original purchase price was?
+Caller: We paid two hundred and sixty-five thousand for it in 2019.
+Agent: And your original loan amount?
+Caller: We put down twenty-five thousand so it was two hundred and forty thousand.
+Agent: Okay, so your original loan-to-value ratio was a little over ninety percent, which is why PMI was required. Now let me explain how PMI removal works because there are actually two different thresholds and they work differently.
+Caller: Okay, I didn't know that.
+Agent: Right, so the first is what's called automated cancellation. Under federal law — specifically the Homeowners Protection Act — once your loan balance reaches seventy-eight percent of the original purchase price, we are required to automatically cancel your PMI without you having to do anything.
+Caller: What's seventy-eight percent of two sixty-five?
+Agent: Two hundred and six thousand seven hundred dollars. Your current balance is two hundred and twelve thousand, so you're not quite there yet for automatic cancellation. You're about five thousand seven hundred dollars away from that threshold.
+Caller: Okay. But I thought if you're at eighty percent you can request removal?
+Agent: You're absolutely right. That's the second threshold. At eighty percent loan-to-value based on the original value, you can request cancellation — you don't have to wait for the automatic seventy-eight percent. Eighty percent of two sixty-five is two hundred and twelve thousand. You're right at the edge, actually. Your balance is two twelve four, so you're very close but just barely above that line on paper.
+Caller: So I'm like four hundred dollars away?
+Agent: Essentially, yes, based on the original purchase price. But here's where it gets a little more nuanced. For the borrower-requested cancellation at the eighty percent threshold, there are a few additional requirements beyond just the loan balance.
+Caller: Like what?
+Agent: First, you need a good payment history — no payments thirty days or more late in the past twelve months, no payments sixty days or more late in the past twenty-four months. Let me check yours. Your payment history looks excellent, Carla. No late payments noted. That's the first box checked.
+Caller: Good. What else?
+Agent: The second requirement is that the property value needs to support the eighty percent threshold. And here's the thing — we use the original purchase price for the automatic cancellation at seventy-eight percent, but for borrower-requested cancellation at eighty percent, the lender may require evidence that the value hasn't declined. In most cases, that means an appraisal.
+Caller: An appraisal? That costs money, doesn't it?
+Agent: It does. Typically three hundred to five hundred dollars depending on your area. But here's the upside — if your home has appreciated since you bought it in 2019, which seems likely given Idaho real estate trends, the appraisal could actually work significantly in your favor. Because if your home is now worth, say, three hundred thousand, then eighty percent of three hundred thousand is two hundred and forty thousand, and your balance of two twelve is well under that. You'd remove PMI easily.
+Caller: Oh, that's interesting. So the appraisal could actually help me even more?
+Agent: Exactly. If your value has gone up, you'd clear the eighty percent threshold by a much wider margin. And I should mention — if your current value supports an eighty percent threshold, we could remove PMI right now rather than waiting another few months for the balance to naturally drop to seventy-eight percent of the original value.
+Caller: How much am I paying in PMI every month?
+Agent: Looking at your account, your PMI premium is ninety-six dollars per month.
+Caller: So if I pay three fifty for an appraisal and it gets rid of PMI, I break even in under four months.
+Agent: That's exactly right. And you'd save ninety-six dollars every month thereafter. Over a year that's eleven hundred and fifty-two dollars. It can absolutely be worth it.
+Caller: Okay, how do I start that process?
+Agent: You'd submit a written request for PMI cancellation. You can do that online through your account portal or in writing by mail. In the request, you'd ask for a borrower-initiated cancellation based on current value. We'd then order an approved appraisal — it has to be one we order, you can't bring your own.
+Caller: You order it? Do I pay upfront or does it come out of escrow?
+Agent: You'd typically pay for it directly when the appraiser schedules the inspection. It won't come from your escrow account since escrow is for taxes and insurance.
+Caller: And how long does the whole process take?
+Agent: Once you submit the request, we'll order the appraisal within about a week. Then the appraiser contacts you to schedule — that usually takes another one to two weeks. After the appraisal is complete, we have thirty days to make a decision. So you're looking at roughly six to eight weeks total from the time you submit the request.
+Caller: That's not too bad. And if I just wait, when does the automatic cancellation kick in?
+Agent: Based on your current payment and amortization schedule, you'd hit the seventy-eight percent threshold — two hundred and six thousand seven hundred — in approximately four to five more months.
+Caller: So if the appraisal costs three fifty, I might save two months of PMI by doing it now versus waiting, which is only a hundred and ninety-two dollars. That's kind of close.
+Agent: You're doing the math exactly right. The question is whether your home value has appreciated. If it has, you'd be clearing PMI at a higher threshold and saving it sooner. If not, waiting four months might be the simpler path.
+Caller: My neighbor's house sold for three twenty last month and it's basically the same floor plan as mine.
+Agent: In that case, requesting the appraisal could make a lot of sense. Your eighty percent threshold on three twenty would be two hundred and fifty-six thousand, your balance is two twelve — you'd clear it with room to spare.
+Caller: Okay, I think I want to go ahead and request it. What do I do right now?
+Agent: Log into your account online and look for the PMI removal request under your account settings, or you can call back to our PMI department directly. I'll also note today's conversation on your account so there's context if you call back. Would you like me to transfer you to the PMI team right now?
+Caller: Sure, yeah, let's do that.
+Agent: Perfect. I'll transfer you over and they can start the request right now. Just give them the same information you gave me and reference your loan number, 847392.
+Caller: Great. Thank you Lisa, this was really helpful.
+Agent: My pleasure, Carla. Good luck with the appraisal. Have a great day.
+Caller: You too.

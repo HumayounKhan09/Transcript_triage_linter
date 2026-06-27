@@ -1,0 +1,38 @@
+Agent: Thank you for calling Clearwater Home Loans, this is Lisa, how may I assist you?
+Caller: Hi Lisa. I need to update the phone number on my account. I got a new phone and my number changed.
+Agent: Sure, I can take care of that for you. Can I get your name please?
+Caller: Marcus Webb.
+Agent: Thank you, Mr. Webb. And the last four of your Social?
+Caller: 6628.
+Agent: And can you verify your property address?
+Caller: 1740 Sunstone Drive, Las Vegas, Nevada 89134.
+Agent: Got it, I have your account up. Before I make any changes, can you confirm the phone number we currently have on file? Just so you know what's being replaced.
+Caller: Yeah, it should be 702-555-0194. That was my old cell.
+Agent: I do show a number ending in 0194, that's correct. And what's the new number you'd like to use?
+Caller: The new one is 725-555-0371.
+Agent: Let me repeat that back. 725-555-0371?
+Caller: That's it.
+Agent: Is this a cell phone, home phone, or work phone?
+Caller: It's my cell. Only number I have really.
+Agent: Got it. And would you like this to be your primary contact number?
+Caller: Yes, please.
+Agent: I'll update that now. Just so you're aware, we use your phone number for account alerts, payment reminders, and identity verification on future calls. Is it okay if we send text messages to this number as well?
+Caller: Yes, text is fine.
+Agent: Great. And do you currently receive any text alerts from us, or would you like me to enroll you?
+Caller: I think I was getting some texts on the old number. I'd like to get them on the new one.
+Agent: I can transfer your text alert preferences over to the new number. You're currently enrolled for payment due reminders and payment confirmation texts. I'll keep those active on the new number.
+Caller: Perfect. Is there any verification I need to do on the new number?
+Agent: We'll send a one-time confirmation text to your new number 725-555-0371 once the update is complete. It will just say your contact information has been updated. You don't need to reply to it.
+Caller: Okay. And will the old number stop getting messages right away?
+Agent: Yes, once I save the change the old number is immediately replaced in the system. Any future communications will go to the new number only.
+Caller: Good. I don't have that old number anymore so I wouldn't want anything going to it.
+Agent: Understood. The update is saved. Is there anything else on the account I can help with while I have you?
+Caller: Actually yeah, while you're in there — I want to make sure my email is still right too. Is it marcuswebb at yahoo dot com?
+Agent: Let me check. I show marcuswebb at yahoo dot com, yes.
+Caller: Good, that one's fine then.
+Agent: Perfect. So to confirm, your primary phone number is now 725-555-0371, and your email remains marcuswebb at yahoo dot com. Text alerts are still active.
+Caller: That's everything. Thanks Lisa.
+Agent: Absolutely. Thank you for calling Clearwater Home Loans, Mr. Webb. Is there anything else before I let you go?
+Caller: No that's it. Have a good one.
+Agent: You as well. Goodbye.
+Caller: Bye.

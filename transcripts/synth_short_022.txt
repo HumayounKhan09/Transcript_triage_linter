@@ -1,0 +1,39 @@
+Agent: Thank you for calling Pacific Coast Mortgage, this is Maria. How may I help you?
+Caller: Hi Maria. I need to get a copy of a recent statement. I need it for a loan application I'm doing.
+Agent: Sure, I can help you with that. Can I start with your name?
+Caller: Carolyn Tran.
+Agent: Thank you, Ms. Tran. And the last four of your Social Security Number?
+Caller: 8823.
+Agent: And the property address on the account?
+Caller: 1501 Ocean Breeze Way, San Diego, California 92101.
+Agent: Got it, I have your account. Which statement are you looking for — your most recent one, or a specific month?
+Caller: The most recent one. Also possibly the one before that. My loan officer said she might need two months.
+Agent: No problem at all. Your most recent statement was generated May 31st, for the June billing period. The one before that was generated April 30th, for the May period. I can get both to you.
+Caller: Perfect. Can you email them to me?
+Agent: Yes. I have your email on file as carolyn.tran at yahoo dot com. Is that correct?
+Caller: Yes, that's right.
+Agent: I'll send both statements to that email. They'll come as PDFs. You should receive them within 30 minutes.
+Caller: Great. And they'll look official? Like, will they have your company letterhead and the account details on them?
+Agent: Yes. They're the same statements that are generated monthly and available in your portal. They include our company name, your loan number, payment history, and current balance information — fully official for lender review purposes.
+Caller: Good. My loan officer was pretty specific about wanting official documents, not screenshots.
+Agent: These are the real thing. Most lenders accept them without issue.
+Caller: Okay. While I have you, what's actually on the statement? Like, what information does it show?
+Agent: Your monthly statement shows your loan number and borrower name, the property address, your current outstanding balance, the amount due and due date, a breakdown of your payment between principal, interest, escrow, and any other charges, recent payment history, and your escrow balance.
+Caller: Does it show my interest rate?
+Agent: Yes, your interest rate is listed on the statement as well.
+Caller: Perfect. My loan officer might use it to verify my rate. Okay, and the statements — what dates will they show activity through?
+Agent: The June statement will reflect activity through May 31st. The May statement through April 30th. If your loan officer needs more recent activity, I can note that your June payment was received on June 4th.
+Caller: Actually, can you include something that shows June was paid? Is there a payment confirmation I can get?
+Agent: I can provide a payment history printout that shows all payments through today's date. That would be a separate document from the statements.
+Caller: Can you add that to the email as well?
+Agent: Absolutely. I'll include the statements for May and June plus a payment history through today's date. Three documents total.
+Caller: That would be wonderful. Thank you.
+Agent: My pleasure. Is there anything else you need for your application?
+Caller: I think that covers it from your end. My loan officer has everything else.
+Agent: Perfect. Keep an eye on your inbox. If for any reason the emails don't arrive within an hour, just give us a call and we'll resend.
+Caller: Will do. Thank you Maria, this was fast and easy.
+Agent: Happy to help. Good luck with your loan application. Is there anything else before I let you go?
+Caller: No, that's it. Thank you.
+Agent: Of course. Thank you for calling Pacific Coast Mortgage. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.

@@ -1,0 +1,42 @@
+Agent: Thank you for calling Meridian Home Lending. My name is Monique. How can I help you today?
+Caller: Hi Monique. My name is Terrence Waverly. I just pulled my credit report and I see that one of my mortgage payments is showing as thirty days late from eight months ago, and that is not accurate. I made that payment on time. I want to know how to dispute that.
+Agent: I'm sorry to hear that, Terrence. An inaccurate late payment on a credit report can definitely be stressful, and I want to help you work through this. Let me pull up your account first so I can verify what our records show. Can I get your loan number?
+Caller: It's 3-3-9-0-7-2-5.
+Agent: And the property address?
+Caller: 2204 Ridgecrest Avenue, Denver, Colorado, 80220.
+Agent: Last four of your Social Security number?
+Caller: 5-5-1-7.
+Agent: Thank you, Terrence. I have your account. Let me look at your payment history. Which month are we looking at specifically?
+Caller: The credit report shows November of last year as thirty days late.
+Agent: Okay, let me pull up November. I can see we received a payment in November. Let me look at the exact posting date and what period it covers.
+Caller: I'm pretty sure I paid online. I have a bank statement showing it came out of my checking account.
+Agent: Good, that's exactly the kind of documentation you'll need. I can see in our system that a payment was received and posted on November ninth of last year, which was within the grace period. The due date was November first, and our grace period runs through the fifteenth. A posting date of November ninth is absolutely on time by our standards.
+Caller: So your records show it was on time?
+Agent: Our records show the payment posted on November ninth, which is within the grace period. We would not have reported that as thirty days late to the credit bureaus.
+Caller: Then why does my credit report show it as late?
+Agent: There are a few possible explanations. It's possible there was a reporting error on our end, which does happen occasionally. It's also possible it's a display error on the credit bureau's side, or there's a mix-up with another account. Regardless of the cause, we can take steps to investigate and correct it.
+Caller: What do I need to do?
+Agent: The process has a couple of tracks. The first is that you can dispute it directly with the credit bureau — Equifax, Experian, or TransUnion, whichever is showing the error. They're required under the Fair Credit Reporting Act to investigate within thirty days of receiving your dispute.
+Caller: I did pull it from all three. It's only showing on Equifax.
+Agent: Okay, so you'd want to file the dispute specifically with Equifax. You can do this online at Equifax dot com, by phone, or by mail. When you file, you'll want to state that the November payment was made on time, and include any documentation you have from your bank showing the transaction.
+Caller: What about on your end? Can you send something to Equifax to correct it?
+Agent: Yes, and that's the second track. I'm going to submit what's called a Metro 2 correction request from our side. This is a formal update we send to the credit bureaus to correct information we reported. Since our records show the payment was made within the grace period and should not have been reported as late, I can initiate a dispute on our end right now.
+Caller: Please do that.
+Agent: I'm submitting it as we speak. Our credit reporting team will review the November payment history, confirm the posting date, and if the reporting was in error, they'll send a correction to Equifax. That process typically takes two to three weeks.
+Caller: Two to three weeks. Is there anything I can do to speed it up?
+Agent: Filing the dispute directly with Equifax in parallel is the best way to move on two fronts simultaneously. The bureaus and the data furnisher — which is us — both investigating at the same time often leads to faster resolution than waiting on one avenue alone.
+Caller: Can you give me a reference number for what you just submitted so I can reference it if I need to call back?
+Agent: Absolutely. Your dispute reference number is DIS-2-0-4-5-5-8-1. Write that down. Any of our agents can pull up this dispute using that number.
+Caller: DIS-2-0-4-5-5-8-1. Got it. And what happens after you investigate?
+Agent: If our review confirms that the November payment was reported in error, we'll send a deletion or correction to Equifax and they'll update your report. You should see the change reflected within about thirty to forty-five days of our submission, depending on Equifax's processing time.
+Caller: Will you notify me?
+Agent: We'll send a letter to your address of record once the investigation is complete, regardless of the outcome. If the correction was submitted, the letter will confirm that. If somehow our records showed a different result, we'd explain the findings.
+Caller: And if it turns out to be correct — which I don't think it is — what would happen then?
+Agent: If we found that the payment was genuinely late and we reported it accurately, then the dispute would be resolved in favor of the reported information. But honestly, based on what I'm seeing in the system, the November ninth posting date is well within your grace period. I have no reason to believe this is anything other than a reporting error.
+Caller: Good. I'm going to file with Equifax today as well.
+Agent: That's the right move. And when you do, include your bank statement showing the debit, and reference our loan number in your dispute letter. That helps them connect the dots faster.
+Caller: Perfect. Thank you for taking this seriously, Monique. Some people I've talked to at other companies just tell me to deal with the credit bureau myself.
+Agent: This is absolutely something we can help address from our side. You shouldn't have to fight that alone. Is there anything else I can help with today?
+Caller: No, that's everything. I really appreciate it.
+Agent: Of course. Have a great rest of your day, Terrence.
+Caller: You too. Thanks.

@@ -1,0 +1,39 @@
+Agent: Thank you for calling Clearwater Mortgage Services, this is Ashley speaking. How can I help you today?
+Caller: Hi. My name is Douglas Heffner. I have a balloon mortgage and it's coming due in about 90 days and I'm in a panic. I don't have the equity to refinance and I don't know what my options are.
+Agent: Hi Douglas, I can hear the stress in your voice, and I want you to know that we're going to work through this with you. A balloon maturity can feel very sudden but there are more options than most people realize. Let me pull up your account first. Do you have your loan number?
+Caller: Yes, it's 6612074.
+Agent: One moment. Okay, I have your account. Your balloon note was originated in June 2019 with a 7-year term, so the maturity date is September 1st, 2026. The outstanding balance is $163,488.22 and the property is at 55 Wren Hollow Road. Is that all correct?
+Caller: Yes, that's right.
+Agent: And you mentioned you don't think you have enough equity to refinance. What makes you say that — have you had the home appraised recently?
+Caller: Not formally, but I've been watching the market and homes in my neighborhood have been selling for around $175,000 to $180,000. With the $163,000 still owed, there's almost nothing left over.
+Agent: I see. So if the home appraised at, say, $178,000 and you owe $163,488, your loan-to-value ratio would be about 91 percent. That's tight but not necessarily impossible. A few programs go up to 97 percent LTV. What's your credit score situation?
+Caller: Not great. I had some medical bills go to collections last year. I'm probably around 590 to 610.
+Agent: Okay, that does constrain your options somewhat. FHA loans go down to 580 with a 3.5 percent down payment, but for a refinance you'd need sufficient equity. At 91 percent LTV with a 590 score, we're at the edge. Let me explore a few angles with you.
+Caller: Please. I'm willing to listen to anything.
+Agent: First option is a loan modification or balloon reset. Some balloon mortgage servicers offer a reset option, where instead of requiring full repayment, they extend the loan for another term — say 5 or 10 years — with or without a rate adjustment. I need to check whether your original loan documents include that option.
+Caller: I didn't even know that was a thing.
+Agent: It's not universal — it depends on the loan contract. Let me look at the notes on your account. Your loan does have a conditional extension option, Douglas. There's a clause that allows for a one-time rate reset and 5-year extension at the lender's discretion, subject to you meeting certain conditions: the loan being current, no more than one late payment in the preceding 12 months, and an updated appraisal. Is your loan current?
+Caller: Yes, I've never missed a payment. Not once in seven years.
+Agent: That's excellent and it's exactly what they'll want to see. And you'd need to meet the appraisal requirement. If the appraisal comes in at $178,000 or above and your loan balance is $163,488, your LTV would be around 91 percent. The extension terms in your contract require LTV to be at or below 95 percent, so you'd qualify on that front.
+Caller: What would the new interest rate be if they extend it?
+Agent: The contract specifies that the reset rate would be based on the 10-year Treasury rate plus a margin of 2.5 percent. As of today, the 10-year Treasury is around 4.35 percent, so the reset rate would be approximately 6.85 percent. Your current balloon rate has been 5.25 percent, so it would go up.
+Caller: How much more would I pay per month?
+Agent: At 5.25 percent on $163,488 your current principal and interest was around $1,011 per month. At 6.85 percent on a 5-year balloon with the same balance, roughly around $1,178 per month — about $167 more per month. But it buys you five more years to build equity and stabilize before you face this situation again.
+Caller: That's manageable. What would I need to do to apply for the extension?
+Agent: I'll flag your account for the balloon extension review team today. They will send you a formal request packet — you'll need to submit a completed application, give consent for a new appraisal, and provide proof of income and homeowners insurance. The process typically takes 45 to 60 days, which is tight given your 90-day window, so we should get moving as soon as possible.
+Caller: Is there a fee for the appraisal?
+Agent: Yes, the appraisal fee is typically between $450 and $600, depending on the appraiser. That's your cost. The extension itself may have a processing fee — I'd need the extension team to confirm, but it's typically around $350.
+Caller: That's fine. What about other options? What if the extension doesn't get approved?
+Agent: Good to think through that as well. If the extension isn't approved, your options would include: selling the property before the maturity date and using the proceeds to pay off the balloon; seeking a new mortgage from a different lender, which might be possible if you can find one that accepts higher LTV or has non-QM programs; or requesting additional time from the servicer through a forbearance agreement while you arrange financing. There's also the possibility of a short sale if you truly can't cover the balance from proceeds, but that would harm your credit significantly.
+Caller: A short sale sounds terrible. I'd rather do anything else.
+Agent: Understood. Given your clean payment history and the extension clause in your contract, I think the balloon reset is your most realistic path. Seven years of on-time payments is a very strong argument in your favor.
+Caller: I just wish I had called earlier and not waited until 90 days out.
+Agent: I hear that. Balloon mortgages can sneak up on people. The important thing is you're calling now with time to act. Shall I flag your account today and get the extension team to reach out to you?
+Caller: Yes, please. Whatever gets this moving.
+Agent: I'll put the flag in now and note that you are requesting the balloon extension review. Someone from that team will contact you within two business days. Is the best contact number the one on file, ending in 7714?
+Caller: Yes, that's my cell.
+Agent: Perfect. Douglas, please don't wait on their call — if you don't hear anything within three business days, please call us back and ask for the balloon resolution team specifically.
+Caller: I will. Thank you so much, Ashley. I feel a lot better having talked this through.
+Agent: I'm glad. You have options and a realistic path forward. Take care, and we'll be in touch.
+Caller: Thank you. Bye.
+Agent: Goodbye, Douglas. Good luck.

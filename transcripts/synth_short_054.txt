@@ -1,0 +1,35 @@
+Agent: Thank you for calling Clearwater Mortgage Servicing. My name is Yuki. How may I help you today?
+Caller: Hi Yuki. I have an ARM and I'm trying to understand the cap structure. Specifically the periodic cap — like how much my rate can change at each adjustment. Can you help me with that?
+Agent: Of course, that's an important piece of your loan terms. I can pull that up for you. May I have your name and loan number please?
+Caller: Yes, I'm Marcus Eberly and my loan number is 5502-BB-91447.
+Agent: Thank you Marcus. And for verification, can you confirm the last four of your Social Security number?
+Caller: 3388.
+Agent: And the zip code on the property?
+Caller: 30309. That's Atlanta, Georgia.
+Agent: Thank you, I have your account pulled up. So Marcus, your loan has a periodic adjustment cap of two percent. That means at each scheduled adjustment date, your interest rate can increase or decrease by no more than two percentage points from the previous rate.
+Caller: So if my rate right now is 5 percent, it can only go up to 7 percent at the next adjustment at most?
+Agent: That's exactly right. And conversely, it could only decrease by a maximum of two percent, so it couldn't drop below 3 percent in that single adjustment either.
+Caller: Okay. And is the cap the same every single time it adjusts, or does it change?
+Agent: Your periodic cap of two percent applies at every adjustment throughout the life of the loan after the initial fixed period. It's consistent each time.
+Caller: What about the very first adjustment? Is that different?
+Agent: Great question. Some ARMs have a first adjustment cap that's higher than the ongoing periodic cap. Let me check your specific terms. Yes, for your loan the first adjustment cap is five percent. So at your very first adjustment coming up, your rate could move by up to five percentage points in either direction.
+Caller: Oh, that's quite a bit different. So the first one could be more dramatic than the subsequent ones?
+Agent: Correct. The first adjustment cap is typically larger to account for the fact that rates may have moved significantly during the initial fixed period. After that first adjustment though, the two percent periodic cap kicks in for all future adjustments.
+Caller: Okay, so let me make sure I understand. First adjustment, up to five percent change. Every adjustment after that, up to two percent change.
+Agent: You've got it exactly right.
+Caller: And what's my current rate right now?
+Agent: Your current rate is 4.875 percent.
+Caller: So theoretically at my first adjustment I could be looking at up to 9.875 percent?
+Agent: In theory the cap would allow that, yes. However that would require the index plus your margin to exceed 9.875, which depends entirely on market conditions at the time of adjustment.
+Caller: That's kind of alarming to think about.
+Agent: I understand that concern. It's worth noting that the cap protects you on the upside, but actual rate changes depend on the index value. We'd encourage you to review your adjustment notice carefully when it arrives, which will show the actual calculated rate.
+Caller: When is my first adjustment?
+Agent: Your first rate adjustment is scheduled for March 1st of next year.
+Caller: Alright. That gives me some time to think about my options. Would it be worth looking into refinancing before then?
+Agent: That's a conversation we'd encourage you to have with a loan officer who can look at your current situation and compare options. I can note your account and have someone reach out if you'd like.
+Caller: Yes actually, that might be a good idea.
+Agent: I'll flag that for a loan consultant to contact you. Is there anything else I can help you with today?
+Caller: No, I think that covered everything. Thank you Yuki.
+Agent: Absolutely, thank you for calling. Have a good day Marcus.
+Caller: You too, bye.
+Agent: Goodbye.

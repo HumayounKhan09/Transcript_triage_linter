@@ -1,0 +1,38 @@
+Agent: Thank you for calling Lakeview Mortgage Solutions, this is Diana speaking. How can I help you today?
+Caller: Hi Diana, my name is Bethany Crowder. I'm looking to buy a manufactured home — it's a double-wide on its own land — and I'm trying to figure out what mortgage options are available to me. I've been to two banks and they both turned me down.
+Agent: Hi Bethany, thanks for calling. Financing manufactured homes can definitely be trickier than site-built homes, but there are options out there. Can you tell me a little more about the property? When was it built, and is it on a permanent foundation?
+Caller: It was built in 2004 and yes, the seller said it's on a permanent foundation with a poured concrete perimeter. It's titled as real property, not personal property.
+Agent: That's actually very helpful and it significantly opens up your options. The single biggest distinction in manufactured home lending is whether the home is on a permanent foundation and titled as real property — which yours is — versus on a rented lot or titled as personal property. The latter is much harder to finance with a conventional mortgage.
+Caller: The two banks I went to just said they don't do manufactured homes at all.
+Agent: That does happen. Some lenders have overlays — meaning internal policies that are stricter than what the loan programs technically allow — that exclude manufactured homes. But there are programs specifically designed for them.
+Caller: What programs are available?
+Agent: For a home titled as real property on a permanent foundation, you have several options. First is FHA Title II, which is a federally backed loan program that allows manufactured homes as long as they meet specific requirements — including the permanent foundation, real property title, and that the home was built after June 15th, 1976, and has a HUD certification label. Yours was built in 2004 so it should qualify on the age requirement.
+Caller: What's the down payment for FHA?
+Agent: FHA loans require a minimum of 3.5 percent down if your credit score is 580 or above. If your score is between 500 and 579, the minimum is 10 percent down. What's the purchase price on the manufactured home?
+Caller: We agreed on $187,000 including the land.
+Agent: So at 3.5 percent down, you're looking at a down payment of about $6,545. That's quite manageable. There's also mortgage insurance on FHA loans — an upfront premium of 1.75 percent of the loan amount and an annual premium that's included in your monthly payment. The upfront premium can be rolled into the loan.
+Caller: Are there other options besides FHA?
+Agent: Yes. Fannie Mae has a program called MH Advantage that applies to certain manufactured homes that meet higher construction and design standards — things like a pitched roof, energy efficient features, and a look more similar to site-built homes. If the home qualifies for MH Advantage, you can get conventional financing with as little as 3 percent down and potentially better mortgage insurance terms than FHA.
+Caller: That sounds better. How do I know if this specific home qualifies for MH Advantage?
+Agent: The home needs to be tagged by the manufacturer with an MH Advantage sticker. That's something the seller or listing agent would be able to confirm. If the home doesn't have that designation, it can still qualify for standard conventional manufactured home financing, but the requirements are a bit stricter — typically 5 percent down and the property must meet specific standards.
+Caller: What about USDA or VA loans?
+Agent: USDA Rural Development loans are available for manufactured homes in eligible rural areas. If the property's location qualifies — which you can check on the USDA eligibility map — USDA loans offer 100 percent financing with no down payment, which is a significant benefit. The home would still need to meet their standards for manufactured housing.
+Caller: I didn't know USDA was a thing for regular people buying homes.
+Agent: It's definitely underutilized. It's income-based as well — there are household income limits that vary by county. As for VA loans, those are available if you or your spouse are a veteran, active military, or eligible surviving spouse. VA loans also allow zero down payment.
+Caller: I'm not military so VA is out. What about USDA income limits?
+Agent: For your area I'd need to know the county, but generally the income limit for a one-to-four person household is around $110,650 in most standard counties in 2026. Is the property in a rural area?
+Caller: It's in Randolph County, North Carolina.
+Agent: Randolph County is likely eligible for USDA. I'd recommend going to the USDA eligibility website and entering the property address to confirm. If it qualifies, that zero-down option could be very attractive.
+Caller: That would be amazing. What else do I need to think about for manufactured home financing?
+Agent: A few important things. First, the lender will require an appraisal, and it needs to be done by an appraiser with manufactured home experience. Not all appraisers are familiar with manufactured homes. Second, the home should have its HUD data plate still attached — it's typically inside the home on a cabinet — and the HUD certification labels on the exterior. Without those, getting financing can be very difficult.
+Caller: What if those labels are missing?
+Agent: There's a process to get a letter of label verification from the Institute for Building Technology and Safety, which is a HUD contractor. It's not impossible but it adds time and cost. The seller may also need to verify the foundation meets HUD permanent foundation guidelines — sometimes a structural engineer's certification is required.
+Caller: This is so much more complicated than a regular house.
+Agent: It does have more steps, but it's very doable with the right lender and the right preparation. The key is working with a lender who has specific manufactured home experience. Would you like to start a loan application with us? We work with FHA and USDA manufactured home loans regularly.
+Caller: Yes, I think I'd like to do that. What do I need to gather?
+Agent: I'll have one of our loan officers reach out to get you started. You'll need two years of tax returns and W-2s, recent pay stubs, two months of bank statements, and information about the property including its HUD number if available. Can I take your contact information?
+Caller: Sure. My number is 336-555-0184 and my email is bcrowder44@mailnet.com.
+Agent: Perfect. I'll have someone from our manufactured home team reach out within one business day. Is there anything else I can help you with today?
+Caller: No, that was incredibly informative. Thank you so much, Diana.
+Agent: Of course, Bethany. Good luck with the home purchase. Have a wonderful day!
+Caller: You too, thanks!

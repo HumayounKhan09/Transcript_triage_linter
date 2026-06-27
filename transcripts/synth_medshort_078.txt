@@ -1,0 +1,39 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, this is Deepa. How can I help you today?
+Caller: Hi Deepa, my name is Robert Tannenbaum. I'm calling because my wife and I set up a living trust last year, and our attorney said we need to contact you to update the records so the property is in the trust's name. I'm not exactly sure how any of this works.
+Agent: Hi Mr. Tannenbaum, congratulations on setting up the trust — that's a smart estate planning step. I can definitely help you understand the process. Before I access your account details, I need to verify your identity. Can you give me the property address?
+Caller: Of course. It's 14 Sycamore Court, Boca Raton, Florida, 33432.
+Agent: Thank you. And the last four digits of your Social Security number?
+Caller: 8819.
+Agent: And your date of birth?
+Caller: January 22nd, 1952.
+Agent: Thank you, Mr. Tannenbaum. I've got your account up. Now, this is actually a fairly common request and it involves a few different pieces. Let me start by asking — when you say the property is in the trust's name, are you asking about updating the mortgage records, or are you asking about deeding the property into the trust?
+Caller: Honestly, maybe both? Our attorney already did something with the deed, I think. She said the property was transferred into the trust but that the mortgage still needs to be dealt with separately.
+Agent: Your attorney is correct. What typically happens is that the deed gets recorded — so the property title is now held in the name of the trust. But the mortgage, which is a separate document and obligation, stays in the names of the original borrowers. The note — the promise to repay — doesn't change just because you moved the title.
+Caller: Okay, so I still owe the money. The trust doesn't somehow own the mortgage?
+Agent: Exactly. The mortgage is tied to you personally as borrowers. The trust holds the property, but the debt obligation remains yours. What we can do is update our records to reflect that there's a trust involved, and we can note the trust information so our records align with the title.
+Caller: Is there a problem with us having transferred the property into the trust? My neighbor said something about a due-on-sale clause.
+Agent: That's a great question and you're right to ask. Most mortgages do contain a due-on-sale clause, which means the lender can demand full repayment if the property is transferred. However, federal law — specifically the Garn-St. Germain Depository Institutions Act — provides an exemption for transfers into a living trust where the borrower remains a beneficiary and the property is still used as their principal residence.
+Caller: So we're protected?
+Agent: Generally yes, as long as you and your wife remain beneficiaries of the trust and the home is still your primary residence, the transfer into a living trust falls under that federal exemption. We would not be calling the loan due simply because of that type of transfer.
+Caller: That's a relief. Our attorney said the same thing, but I wanted to hear it from you.
+Agent: Completely understandable. Now, in terms of actually updating our records — what we typically need is a copy of the trust document, or at minimum the trust certification or abstract. Some servicers require the full trust agreement, others accept a certification that shows the trustee's authority. Do you know what type of document your attorney prepared?
+Caller: She gave us a document called a Certificate of Trust. It's about three pages and shows who the trustees are — my wife and I are both co-trustees — and what powers we have.
+Agent: A Certificate of Trust is usually exactly what we need. It shows the trust name, the trustees, and their authority without disclosing all the private details of your full trust document. What I'd recommend is sending that to us so we can update our records and notate the account. We'll also want a copy of the recorded deed showing the transfer, if you have that.
+Caller: I think I have both of those. How do I send them to you?
+Agent: You can send them by fax to our document processing department — I can give you that number — or you can mail them to our correspondence address. We also have a secure document upload available through our website if you have online account access.
+Caller: I'll probably use the website since I pay my mortgage that way already. What should I put in the subject line or reference?
+Agent: When you upload, there should be a document category you can select. Look for something like "title or ownership update" or "trust documentation." Include your loan number, which I can give you right now if you need it, and a brief note saying you're requesting the account be updated to reflect a revocable living trust transfer.
+Caller: That would be helpful, yes. Can you give me the loan number?
+Agent: Your loan number is 4-0-0-7-7-2-8-8-1. I'll repeat that: 4-0-0-7-7-2-8-8-1.
+Caller: Got it, I wrote that down. And once you get the documents, how long does it take to update the records?
+Agent: Typically it's processed within seven to ten business days of receipt. You'll receive a confirmation letter once the update is made. After that, correspondence will reference both the original borrower names and the trust.
+Caller: Does this change anything about how we make payments or our interest rate?
+Agent: No, it doesn't change anything about your loan terms, your payment amount, your interest rate, or your payment method. It's purely an administrative record update on our end to align our records with the title.
+Caller: Okay. And one more thing — should the trust name be on our homeowner's insurance policy as well?
+Agent: That's a great question and the answer is generally yes — your insurance company should also be updated so the trust is listed as an additional insured. Your insurance agent can walk you through that. It's a separate process from updating with us, but it's equally important.
+Caller: My attorney mentioned that too but I hadn't gotten around to it yet. I'll call them next.
+Agent: It's a good idea to take care of it soon. Is there anything else I can help you with today, Mr. Tannenbaum?
+Caller: No, I think you've answered everything. I'll gather those documents and upload them this week.
+Agent: Wonderful. Thank you for being proactive about this, and feel free to call us if you have any questions after you've submitted. Thank you for calling Meridian Mortgage.
+Caller: Thank you Deepa, very helpful.
+Agent: You're very welcome. Have a great day.

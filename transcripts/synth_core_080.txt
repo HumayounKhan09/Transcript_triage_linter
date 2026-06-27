@@ -1,0 +1,37 @@
+Agent: Thank you for calling Landmark Mortgage Services, this is Fatima. How can I help you today?
+Caller: Hi Fatima. I'm calling about a charge on my account — it says force-placed insurance and it's three hundred forty-two dollars. I'm very confused because I have homeowner's insurance. My name is Bruce Holloway, loan number 2218-6604.
+Agent: Hi Bruce, let me look up your account. I have your loan here — a thirty-year fixed on a property in Memphis, Tennessee. And I can see that charge. Let me investigate what happened here.
+Caller: Please. Because I've had homeowners insurance the whole time. I've never let it lapse.
+Agent: I understand, and I want to figure out exactly what triggered this. Let me look at the insurance history on your account. Okay — so I'm seeing that our records show your previous policy, which was with Keystone Home Insurers, had an expiration date of March thirty-first of this year. Our records don't show a renewal or a new policy on file after that date, which is why the system flagged your loan and initiated the force-placed coverage effective April fifteenth.
+Caller: Oh. Okay, I did switch insurance companies. I moved from Keystone to AllState in February. The AllState policy started February twenty-eighth.
+Agent: That explains it. When you switch carriers, the new insurer is supposed to send us a certificate or declarations page, and in many cases your escrow account — if you have one — would show a change in who we're paying the premium to. Let me check your escrow. I see we made a payment to Keystone on January tenth for the annual premium. I don't see any payment or policy record for Allstate.
+Caller: So you never got any notice from Allstate?
+Agent: It doesn't appear so. This can happen when a new policy is issued but the mortgage company isn't listed or the insurer doesn't send us a copy. Did you instruct Allstate to list Landmark Mortgage Services as the mortgagee?
+Caller: Honestly I'm not sure. My agent set it all up and I assumed he took care of it.
+Agent: That's a very common situation. The insurance agent sometimes forgets to add the mortgagee clause, or uses an old address, or doesn't transmit the declarations page. The result is exactly what happened here — our records show a lapsed policy and we're required to place coverage to protect the collateral.
+Caller: Okay, so it wasn't intentional on my part. Is the charge going to be reversed?
+Agent: If you can provide us with proof that your Allstate policy was in effect continuously from February twenty-eighth — before the force-placed policy was even initiated — we should be able to back-date the cancellation of the force-placed coverage and reverse the charge.
+Caller: I can get that. I have the AllState declarations page right here actually. Policy number ASH-4492-88. It shows effective date of February twenty-eighth, dwelling coverage of three hundred ten thousand, and the annual premium is one thousand five hundred sixty dollars.
+Agent: That's exactly what I need. Does the declarations page show Landmark Mortgage Services as the mortgagee?
+Caller: Let me look... it just says the insured is Bruce Holloway. It doesn't say anything about Landmark Mortgage.
+Agent: Okay, so the mortgagee clause is missing. That's not unusual but it does need to be corrected. Here's what I'd suggest — call your Allstate agent today and ask them to update the mortgagee clause and send us a corrected declarations page or a certificate of insurance. The correct mortgagee information for us is: Landmark Mortgage Services, ISAOA, PO Box 55100, Memphis, TN 38101.
+Caller: And once you get that corrected page, will you reverse the charge?
+Agent: Yes. Once we receive the declarations page showing continuous coverage from February twenty-eighth with the correct mortgagee clause, our insurance team will review it, cancel the force-placed policy retroactively, and reverse the three hundred forty-two dollar charge. The reversal typically takes three to five business days after the documentation is received.
+Caller: What if my Allstate agent can send it today — could it be resolved this week?
+Agent: Absolutely possible. If the corrected declarations page comes in today or tomorrow, the insurance team generally turns around reviews within two to three business days, so you could see the reversal by end of next week.
+Caller: Okay. Now, the escrow — if I'm paying Allstate directly, what's happening with my escrow? I thought my escrow pays the insurance.
+Agent: Good question. If your policy is currently being paid directly — meaning Allstate billed you personally and you paid them — then we need to update your escrow accordingly. Were you billed by Allstate directly or through some other arrangement?
+Caller: My Allstate premium was billed directly to me and I paid it monthly through their payment plan.
+Agent: Understood. So your escrow currently has a budget for hazard insurance that was based on the Keystone premium. Since you switched to direct billing with Allstate, we would need to adjust the escrow analysis to reflect that insurance is no longer being disbursed from escrow. This might create a surplus in your escrow account.
+Caller: A surplus is good I guess?
+Agent: It can be. If the surplus exceeds one month of your escrow payment, you typically receive a refund check or a reduction in your monthly payment. I'd recommend having your Allstate agent send the declarations page and also confirm in writing that you're on a direct billing plan. That way our escrow team can update everything accurately.
+Caller: This is getting complicated. Is there someone at Allstate I should talk to specifically about this?
+Agent: Your Allstate agent is the right point of contact. Just explain that you have a mortgage and need the mortgagee clause added to your policy and a declarations page sent to us. They deal with this regularly. If you want, I can give you a fax number and email so they have both options to transmit to us.
+Caller: Yes please.
+Agent: You can email to insurance@landmarkmortgage.com with loan number 2218-6604 in the subject line. Fax is 888-776-0033. Your agent can use whichever is easier.
+Caller: Perfect. I'll call my agent as soon as I hang up. Is there anything else I should know?
+Agent: Just make sure the declarations page clearly shows the effective date of February twenty-eighth. That's critical for backing out the force-placed charge since we need to show your coverage was in place before our force-placed policy kicked in on April fifteenth. As long as that date is clearly documented, the reversal should go smoothly.
+Caller: February twenty-eighth is definitely on my declarations page already. I'm looking at it right now.
+Agent: Then you should be in good shape. Once the corrected version with the mortgagee clause comes to us, it'll be straightforward. Is there anything else I can help you with?
+Caller: No, I think that's everything. Thank you, Fatima. You really cleared this up.
+Agent: My pleasure, Bruce. Don't hesitate to call back if you have any trouble. Have a good day.

@@ -1,0 +1,52 @@
+Agent: Meridian Mortgage Servicing, this is James, how can I assist you today?
+Caller: Hi James, my name is Vivienne Tran. I'm calling because I just applied for a car loan and I got denied because apparently my credit report shows a 90-day late payment on my mortgage. But I was never 90 days late. Something is very wrong.
+Agent: Ms. Tran, I'm sorry to hear that happened, especially if it caused a denial on another application. Let me pull up your account and take a look. Can I get your loan number or property address and your date of birth?
+Caller: Loan number 6630-441-221. Property is 88 Hollister Court, Portland, Oregon 97214. Date of birth is September 2, 1984.
+Agent: Thank you. And the last four of your Social Security number?
+Caller: 5519.
+Agent: Perfect. I've got your account on screen. Give me a moment to look at the payment history here.
+Caller: Take your time. But I can tell you right now, I have never been 90 days late. I have automatic payments set up and they come out every month. I've been in this house since 2020.
+Agent: Okay, I'm looking at your payment history. I can see your auto-draft payments. Thirty-year fixed, rate of 3.875 percent, originated in August 2020, current balance of $318,200. And I see your payments going back to origination. Let me look at the specific periods that could correspond to a 90-day late report.
+Caller: The car dealership said the derogatory mark was from 2023. First quarter of 2023, I think they said.
+Agent: Looking at early 2023 — January, February, March 2023. I see payments here. January 15, February 12, March 9. All three were received. But let me look at whether there was an application timing issue. You know, sometimes if a payment posts after the reporting date but before the actual late date it can look different to a bureau.
+Caller: What does that mean? Are you saying my payments were late?
+Agent: No, I'm not saying that. What I'm looking at is whether there was a reporting discrepancy. The actual ledger shows payments received. But I want to check when those reported to the bureaus. Give me a moment.
+Caller: Because I set up auto-pay specifically so this would never happen. The payment comes out on the 10th of every month and my due date is the 1st with a 15-day grace period.
+Agent: Right, so you'd be within grace on the 10th. That should never trigger a late. And indeed, I'm looking at the payment history — none of those were past the 15th. So there should be no late reporting here. Let me look at the bureau reporting log.
+Caller: Can you actually see what was reported?
+Agent: We have an internal reporting record that shows what was transmitted to the bureaus each month. Looking at the first quarter of 2023 — okay. I'm seeing something here. In February 2023 there is a notation that a reporting file was transmitted with a coding error on a batch of accounts. Your account number falls within that range.
+Caller: So you reported me as late by mistake?
+Agent: Based on what I'm seeing, it appears there may have been a batch reporting error in February 2023 that affected your account. I don't want to state with absolute certainty until the formal investigation confirms it, but this is consistent with what you're describing. I'm initiating a credit reporting dispute investigation right now.
+Caller: What does that process look like? Because I need this fixed quickly. I need that car.
+Agent: I completely understand. Here's the process. I'm opening a Notice of Error for credit reporting under case number CRD-2025-019882. Our credit reporting team will review the bureau transmission records against your actual payment history. If they confirm an error, we submit what's called an AUD — an automated universal data form — to Experian, Equifax, and TransUnion to correct or delete the erroneous tradeline entry.
+Caller: How long does that take?
+Agent: The investigation has up to thirty business days under Regulation X. Once we submit the correction to the bureaus, the bureaus have thirty days to update their records under the Fair Credit Reporting Act. So the full process could be sixty days end to end.
+Caller: Sixty days? I need a car now, James. I can't wait two months.
+Agent: I hear you, and there are a couple of things I can do to help in the meantime. First, I can issue you a written verification of mortgage letter — sometimes called a VOM letter — that documents your actual payment history from our records. That letter shows you have been current on your mortgage and can be provided directly to the car lender for manual review.
+Caller: Would that help? Would they accept that?
+Agent: Some lenders will accept it, especially if the rest of your credit profile is strong. It's not guaranteed, but it demonstrates the error is disputed and under investigation. I can have that letter to you within 24 to 48 business hours.
+Caller: Yes, please do that. And can you also write something specifically saying the 90-day late is under investigation and believed to be a servicer error?
+Agent: Yes. The letter can include language stating that the derogatory mark is under formal investigation as a potential servicer reporting error. I can include the case number so the lender can reference it.
+Caller: Good. What's the case number again?
+Caller: CRD-2025-019882.
+Agent: That's right. And I'll include the date the investigation was opened, today June 27, 2025. Now, regarding the bureaus — once our investigation concludes, do you want us to request deletion of the late mark or correction to show current?
+Caller: Deletion. If it was never valid it should never be there at all.
+Agent: Agreed. If the investigation confirms this was our error, the appropriate resolution is a deletion request rather than a correction. That removes it entirely from your report rather than just updating the status. I'll note your preference.
+Caller: And all three bureaus?
+Agent: All three — Experian, Equifax, and TransUnion. We report to all three so the correction goes to all three simultaneously.
+Caller: What was my credit score before this happened? Can you see that?
+Agent: We don't have your credit score in our system — we can only see what we transmit to the bureaus, not the resulting scores. But if you have a monitoring service or your score from the car dealer, you can compare it after the correction is processed. A deletion of a 90-day late mark typically results in a meaningful score improvement.
+Caller: The dealer said my score was 641. Before I bought this house in 2020, my score was 728. It's been going down and I couldn't figure out why. This might be why.
+Agent: That's a significant drop. If this reporting error has been on your file since early 2023, it very likely has been suppressing your score for two years. The good news is that once deleted, the impact goes away.
+Caller: Can I file a CFPB complaint about this?
+Agent: You have every right to file a complaint with the Consumer Financial Protection Bureau. Their website is consumerfinance.gov and you can file online. When a servicer error affects credit reporting, that is exactly the kind of issue they handle. Filing a complaint does not affect your case with us — it runs in parallel.
+Caller: I might do that. This has cost me real money. I'm renting a car right now.
+Agent: I understand the frustration extends beyond just the credit report. While I can't promise compensation for consequential damages — that would be a decision made at a higher level than my role — if you want to formally request consideration of any losses related to this error, I can open a separate complaint file alongside the dispute.
+Caller: Please do that. I want it all documented.
+Agent: Done. Complaint file linked to CRD-2025-019882. Now let me confirm your email so I can send the acknowledgment and the VOM letter request.
+Caller: It's vtran.pdx at gmail dot com.
+Agent: Got it. You'll receive the acknowledgment within one business day and the VOM letter within 48 business hours. Is there anything else I can help you with today?
+Caller: I just hope this gets fixed. I've been paying every month for five years without missing a beat.
+Agent: Your payment history in our system reflects exactly that. Five years, clean. We'll get this corrected. Thank you for calling, Ms. Tran.
+Caller: Thank you James. Goodbye.
+Agent: Goodbye.

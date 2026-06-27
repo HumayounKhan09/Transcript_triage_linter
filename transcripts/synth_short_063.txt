@@ -1,0 +1,35 @@
+Agent: Thank you for calling Keystone Mortgage Servicing, this is James. How can I help you today?
+Caller: Hi James. I got my mortgage statement in the mail and I'm honestly a little confused by it. There are a lot of line items and I don't fully understand what I'm looking at. Can you walk me through it?
+Agent: Absolutely, I'd be happy to help you understand your statement. Let me pull up your account so I can follow along with what you're seeing. Can I have your name and loan number?
+Caller: My name is Dolores Marchetti. And my loan number is 7701-CC-55023.
+Agent: Thank you Dolores. Can you verify the last four of your Social Security number?
+Caller: 4402.
+Agent: And the property address?
+Caller: 3318 Sandstone Way, Albuquerque, New Mexico 87106.
+Agent: Perfect. I have your account. Go ahead and grab your statement and I'll walk you through it section by section.
+Caller: Okay, I have it. At the top it shows my account number and the statement date. I understand that part.
+Agent: Good. Right below that you should see a payment summary box. That typically shows the total amount due, the due date, and the payment breakdown.
+Caller: Yes. It says total payment due is one thousand, six hundred and twelve dollars and thirty-eight cents.
+Agent: That total is made up of three components. The first is your principal and interest payment, which is the fixed portion that goes toward paying down your loan and covering interest charges. Can you see what that amount is?
+Caller: It says principal and interest is one thousand, two hundred and four dollars and sixteen cents.
+Agent: That's your base mortgage payment and it stays the same every month because you have a fixed-rate loan. The next line should show your escrow payment.
+Caller: Yes, it shows escrow as four hundred and eight dollars and twenty-two cents.
+Agent: That escrow amount covers your property taxes and homeowner's insurance. We collect it monthly and hold it in your escrow account, then pay those bills when they come due. So combined, principal and interest plus escrow equals your total payment.
+Caller: Okay, that adds up. Then there's another section that shows a payment breakdown. It has a lot of columns. One says principal, one says interest, one says escrow, and one says fees.
+Agent: Yes. That section shows you exactly how your payment is being allocated. The principal column shows how much of your payment is actually reducing your loan balance. The interest column shows how much is going to interest charges based on your current balance and rate.
+Caller: My principal portion is only two hundred and twenty-one dollars? That seems low.
+Agent: That's actually typical, especially in the earlier years of a mortgage. Because of how amortization works, your early payments are weighted more toward interest. As your balance decreases over time, a larger and larger portion of each payment goes to principal.
+Caller: Oh, okay. So eventually more will go to principal?
+Agent: Exactly. By the end of your loan term, almost your entire payment would be going to principal rather than interest.
+Caller: Got it. There's also a section at the bottom showing my escrow account activity. It lists disbursements.
+Agent: Yes. That section shows you every payment that went out of your escrow account — usually your property tax payments and insurance premium payments — along with the current balance in your escrow account.
+Caller: And there's something that says YTD interest paid. What does YTD mean?
+Agent: YTD stands for year to date. That figure shows the total amount of interest you've paid so far this calendar year. That can be useful for tax purposes since mortgage interest is often deductible.
+Caller: Oh, that's important! My accountant will want that.
+Agent: Absolutely. And we also send out a Form 1098 in January each year which officially reports the total mortgage interest you paid for the prior year.
+Caller: I think I understand the statement much better now. Thank you James.
+Agent: Happy to help Dolores. Is there anything else I can explain for you?
+Caller: No, I think I'm good. You're very patient, I appreciate it.
+Agent: Not at all. Have a great day.
+Caller: You too, bye.
+Agent: Goodbye.

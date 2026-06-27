@@ -1,0 +1,41 @@
+Agent: Thank you for calling Horizon Home Lending, this is Jennifer speaking. How can I assist you today?
+Caller: Hi Jennifer, I'd like to make a payment on my mortgage by phone if that's possible.
+Agent: Absolutely, I can help you with that. Before we get started, I'll need to pull up your account. Can I get your full name and the property address on the loan?
+Caller: Sure, it's Marcus Delgado, and the address is 4412 Birchwood Lane, Columbus, Ohio 43215.
+Agent: Thank you, Marcus. And for verification purposes, can you confirm the last four digits of your Social Security number?
+Caller: It's 7834.
+Agent: Perfect. And can you confirm the last four digits of your loan account number?
+Caller: Let me grab that. It's 9901.
+Agent: Great, I've got your account pulled up here, Marcus. I can see your loan is current. What would you like to pay today?
+Caller: I want to pay my regular monthly payment, which I believe is $2,100. Is that right?
+Agent: That's correct. Your regular monthly payment is $2,100, which includes principal, interest, and escrow. Your payment is due on the first, and we do have a grace period through the fifteenth.
+Caller: Good, good. Now, is there a fee for paying by phone? I've heard some companies charge for that.
+Agent: That's a great question. Yes, there is a convenience fee of $12.50 for payments processed by phone or through our automated system using a debit card or bank account. However, if you use our online portal at HorizonHomeLending.com, you can make an ACH payment directly from your bank account with no fee at all.
+Caller: I don't really use the online stuff much. I'd rather just do it here with you. The $12.50 is fine.
+Agent: Absolutely, not a problem. So the total I'll be processing today would be $2,112.50. Now I'll need your bank routing number and checking or savings account number.
+Caller: Okay, let me get my checkbook. All right. The routing number is 044000037.
+Agent: Got it. And the account number?
+Caller: 7723094815.
+Agent: Thank you. And is this a checking or savings account?
+Caller: Checking.
+Agent: Perfect. And just to confirm, you're authorizing Horizon Home Lending to draft $2,112.50 from your checking account ending in 4815 at the routing number you provided?
+Caller: Yes, that's right.
+Agent: Wonderful. I do want to let you know that this payment will post to your account within one to two business days. Today is the ninth, so you are well within the grace period. You'll receive a confirmation number once the transaction is processed.
+Caller: Can you tell me what day it'll actually hit my bank account so I make sure I have the funds?
+Agent: Great question. Because we're processing this today before three PM Eastern, it will typically draft from your bank account within one business day, so likely tomorrow, the tenth. I'd recommend ensuring the funds are available by end of day today just to be safe.
+Caller: That works. I get paid on the eighth so I should be fine.
+Agent: Perfect. Let me go ahead and process that now. One moment please. All right, Marcus, I've submitted your payment of $2,112.50. Your confirmation number is PHN-2024-0093847. I'd recommend writing that down or taking a note of it.
+Caller: Hold on. PHN-2024-0093847?
+Agent: That's correct.
+Caller: Got it. And this covers my payment for this month? Like June?
+Agent: Yes, this payment will apply to your June installment. Once it posts, your next payment due will be July first.
+Caller: Great. Now one more question. I usually send a check in the mail. Is it cheaper to just keep doing that?
+Agent: Mailing a check does not have any associated fee, that's correct. If you're comfortable with it, mailing a check or using our online portal are both free options. The phone payment convenience fee just covers the cost of processing it this way.
+Caller: Makes sense. I might try the online thing one of these days. My daughter keeps telling me to.
+Agent: It's actually pretty straightforward once you get set up. You just need your account number and bank information, and you can schedule payments in advance too, which is convenient.
+Caller: Maybe I'll give it a shot. All right, so I'm all set for this month?
+Agent: You are. Your payment is submitted, your confirmation number is PHN-2024-0093847, and it should post within one to two business days. Is there anything else I can help you with today, Marcus?
+Caller: No, I think that covers it. Thanks for making it easy.
+Agent: My pleasure, Marcus. Thank you for calling Horizon Home Lending. Have a wonderful day.
+Caller: You too, Jennifer. Bye.
+Agent: Goodbye.

@@ -1,0 +1,37 @@
+Agent: Thank you for calling Pinnacle Home Lending, this is Marcus speaking. How can I assist you today?
+Caller: Hi Marcus, I'm calling because I got a letter saying flood insurance is being added to my escrow account and I'm a little shocked by the cost. My name is Darlene Fuentes, loan number 6693-4417.
+Agent: Hi Darlene, let me pull up your account. One moment please. Okay, I have your loan here — a thirty-year fixed on a property in Baton Rouge, Louisiana. And yes, I can see the flood insurance notification went out. What questions do you have?
+Caller: Well first, why is this happening now? I've had this loan for four years and no one ever said anything about flood insurance before.
+Agent: That's a fair question and I understand the frustration. There are a couple of reasons this can happen. The most common is that FEMA updates its flood zone maps periodically, and properties can move from a lower-risk zone into a high-risk zone called Special Flood Hazard Area, or SFHA. When that happens, federal law — specifically the National Flood Insurance Reform Act — requires lenders to mandate flood insurance.
+Caller: So my property got remapped?
+Agent: Let me confirm that for you. Yes, I'm seeing a note on your account from February of this year indicating a FEMA flood zone determination update. Your property was previously in Zone X, which is a minimal flood risk area with no insurance requirement. It's now mapped in Zone AE, which is within the Special Flood Hazard Area. That triggers the mandatory purchase requirement.
+Caller: Zone AE — that doesn't sound good. Does that mean I'm definitely going to flood?
+Agent: Not necessarily. Being in Zone AE means FEMA has determined there's a statistical one percent chance of flooding in any given year — that's sometimes called the hundred-year flood zone. It doesn't mean flooding is certain, but the risk is elevated enough that federal regulation requires flood insurance on mortgaged properties in that zone.
+Caller: Okay. So what's the cost that's being added to my escrow?
+Agent: The letter you received would have stated the estimated annual premium. Looking at your account, the flood insurance policy that was identified has an annual premium of two thousand one hundred sixty dollars. That breaks down to one hundred eighty dollars per month being added to your escrow payment.
+Caller: One hundred eighty dollars a month is a lot. My mortgage payment is going to go from fourteen hundred to over sixteen hundred dollars just like that?
+Agent: I understand that's a significant increase. Your escrow payment adjustment is effective with your August payment. The total will go from approximately fourteen hundred twenty dollars to sixteen hundred dollars even, based on the current escrow analysis.
+Caller: Is there anything I can do to lower that cost?
+Agent: There are a few options worth exploring. First, you can shop for flood insurance through private insurers. The two thousand one hundred sixty dollar figure was based on a National Flood Insurance Program quote, but private flood insurance can sometimes be less expensive for certain property profiles. You'd want to get a few quotes.
+Caller: Okay. What else?
+Agent: Second, you could hire a licensed surveyor to prepare what's called an Elevation Certificate. This document measures your home's elevation relative to the base flood elevation in your area. If your home is elevated above the base flood elevation, your NFIP premium could be significantly lower — sometimes by several hundred dollars per year. The certificate itself costs roughly four hundred to seven hundred dollars to obtain, but the savings can outweigh that quickly.
+Caller: So the certificate might lower the insurance cost?
+Agent: Yes, substantially in some cases. If your home was built with the finished floor a couple of feet above the base flood elevation, your premium could drop by thirty to fifty percent. It's worth checking especially since you're in Baton Rouge and many homes in your area were built with elevated foundations.
+Caller: That actually gives me hope. Now, the letter mentioned I had thirty days to provide my own policy. Can I get my own flood insurance instead of you guys placing one?
+Agent: Absolutely, and that's actually the preferred approach. If you purchase your own flood insurance policy — whether through the NFIP via an insurance agent or through a private flood insurer — and provide us with proof of that policy, we would not place coverage on your behalf. You just need to make sure the policy meets our minimum requirements.
+Caller: What are those requirements?
+Agent: The policy needs to cover the lesser of the outstanding loan balance or the replacement cost of the structure. Your current loan balance is one hundred twelve thousand four hundred dollars. The policy must also list Pinnacle Home Lending as the mortgagee and loss payee. And it needs to be a continuous policy without lapses.
+Caller: My loan balance is only a hundred twelve thousand? So I don't need two hundred thousand in coverage?
+Agent: Correct — federal guidelines allow the coverage to be the lesser of the outstanding principal balance, the replacement cost, or the maximum NFIP limit which is two hundred fifty thousand. Since your balance is one hundred twelve thousand, a policy at that level satisfies the requirement, which could also reduce your premium compared to a higher coverage amount.
+Caller: That's really useful to know. So my insurance agent might not know to do it that way?
+Agent: Some agents default to higher coverage amounts without necessarily explaining this option. It's worth specifically asking for a quote at the one hundred twelve thousand dollar dwelling coverage level and seeing how that affects the premium.
+Caller: Okay, I'm going to call my agent today. If I get a policy in the next few weeks, how do I send it to you?
+Agent: You can email the declarations page to floodinsurance@pinnaclelending.com with your loan number 6693-4417 in the subject line. You can also fax it to 855-440-2291 or upload it through your account at pinnaclelending.com. Once we receive and review the policy, we'll update your escrow account accordingly.
+Caller: And if I get it within the thirty days, will the escrow increase be paused?
+Agent: If you provide an acceptable policy before the escrow change takes effect, we can hold the adjustment. The deadline to provide proof of insurance is July fifteenth. If we receive the policy by then, your August payment won't include the increased escrow amount for flood insurance.
+Caller: July fifteenth — I have a couple weeks then. That's doable.
+Agent: It is. I'd recommend calling your insurance agent today or tomorrow just to leave enough time for the policy to be issued and the documents sent over.
+Caller: I will. Marcus, this has been really helpful. I feel a lot better about this now.
+Agent: I'm glad. Flood insurance situations can feel overwhelming at first but there are definitely steps you can take to manage the cost. Is there anything else I can help you with today?
+Caller: No, I think I'm good. Thank you so much.
+Agent: Of course, Darlene. Have a great day and good luck with the insurance search.

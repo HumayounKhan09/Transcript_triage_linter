@@ -1,0 +1,33 @@
+Agent: Thank you for calling PinnaclePath Mortgage, this is Anita. How can I help you today?
+Caller: Hi Anita, my name is Frank Delacroix. I'm calling because I want to make an extra principal payment in December — before the end of the year — because my accountant told me it might help with my taxes. I want to make sure I do this correctly.
+Agent: Hi Mr. Delacroix, that's a great proactive call to make. Let me pull up your account first and then I can walk you through how to do this correctly and also set some accurate expectations about the tax deduction. Can I get your loan number or property address?
+Caller: Sure, it's 77 Poplar Creek Road, Louisville, Kentucky 40207. Loan number is M-9-9-4-3-8-1.
+Agent: And can you verify the last four of your Social?
+Caller: 3367.
+Agent: Thank you, Mr. Delacroix. I have your account. Now, before I explain the process, I want to ask a clarifying question — your accountant mentioned a tax deduction. Did they specify whether the deduction benefit comes from the interest portion or the principal portion of a mortgage payment?
+Caller: Honestly, I'm not totally sure. I think he said something about deducting mortgage interest?
+Agent: That's exactly right, and this is an important distinction. The mortgage interest deduction allows you to deduct the interest you pay on your mortgage from your federal taxable income, assuming you itemize deductions. Principal payments — meaning payments that reduce your loan balance — are not tax-deductible. Only the interest portion is deductible.
+Caller: Oh. So making an extra principal payment in December wouldn't actually give me a bigger deduction?
+Agent: Not from the principal itself, no. However, here's where it gets nuanced. If you're making a regular monthly payment in December that you would otherwise make in January, the interest included in that payment would be deductible for the tax year in which it's paid. So if you prepay your January payment in December, you get to deduct that January interest in the current tax year.
+Caller: Okay, that actually makes sense. My accountant might have meant that.
+Agent: That's likely what he was referring to. It's a common strategy for people who itemize and want to shift one extra month's interest into the current tax year. I'd encourage you to confirm with him exactly what he intended, but the mechanics would be: you make your regular December payment as usual, and then you make an additional payment in December that covers January's payment amount. The interest component of that January payment would then be deductible this year.
+Caller: How do I make sure the extra payment is applied correctly? I don't want it just sitting there as a partial payment or getting messed up.
+Agent: Great question. The key is how you designate the extra payment. If you submit it without designation, our system will typically apply it as a principal-only payment, which means it reduces your balance but doesn't advance your due date. If you want it to function as an advance payment of January's installment — interest plus principal for next month — you'd need to indicate that clearly.
+Caller: How do I indicate that?
+Agent: You have a couple of options. If you pay through our online portal, there's an option when submitting additional payments to designate the payment as a regular installment advance versus a principal reduction. If you mail a check, you would include a note or coupon indicating it's a January payment. And if you call us to process it over the phone, we can enter it with the correct designation.
+Caller: I usually pay online. Let me log in real quick — actually, can you just walk me through what it looks like?
+Agent: Sure. When you log in and go to make a payment, you'll see your regular payment amount and then below it an option to add additional funds. There should be a drop-down or radio button that asks how to apply any amount above the regular payment. The options typically include principal only, next installment, or suspense. You'd want to select next installment for this purpose.
+Caller: Got it. And what's suspense? That sounds ominous.
+Agent: Suspense just means the funds are held in a suspense account until enough accumulates to make a full payment. It's not harmful, but it's also not what you want in this case, so you're right to ask.
+Caller: Okay. So the timing — if I want this to count as a December payment for tax purposes, does it need to hit your system by December 31st?
+Agent: For tax deduction purposes, what matters is the date the payment is made, not the date it posts. If you initiate the payment through our online system or a bank bill pay on or before December 31st, the IRS generally considers that the payment date. You should receive a Form 1098 from us in January showing all mortgage interest paid during the calendar year, and that December payment will be included.
+Caller: Perfect. And my regular December payment — I already made that. It's showing as posted.
+Agent: I can confirm that, yes. Your December payment is posted and your account is current with a due date of January 1st. So any additional payment you make now would be either a principal reduction or an advance payment for January, depending on how you designate it.
+Caller: What would you recommend? Should I advance January's payment or just do principal reduction?
+Agent: That depends on your goal. If the tax angle is the priority, advance January's installment so there's a clear interest component in December. If you just want to reduce your balance and shorten your loan, principal-only makes more sense. Your accountant would be the best person to confirm which better serves you.
+Caller: I'll call him today. This has been really helpful, Anita. I feel like I actually understand what I'm doing now.
+Agent: I'm glad to hear it. Just remember — log in, add the extra payment, designate it correctly, and you're all set. Is there anything else I can help you with?
+Caller: No, that's it. Thanks again.
+Agent: Absolutely. Have a great day, Mr. Delacroix.
+Caller: You too. Bye.
+Agent: Goodbye.

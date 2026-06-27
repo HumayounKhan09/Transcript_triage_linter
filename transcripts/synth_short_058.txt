@@ -1,0 +1,31 @@
+Agent: Thank you for calling Pinnacle Mortgage Servicing. My name is James. How can I help you today?
+Caller: Hi James. I need to set up bill pay through my credit union and they're asking me for my loan account number. I have a number written down from my closing documents but I'm not sure if it's the right one or in the right format. Can you help me?
+Agent: Absolutely, that's a common question and I want to make sure you have the correct number to avoid any payment issues. Can I pull up your account? I'll need your name and some identifying information.
+Caller: My name is Bernard Tillman. And I think my loan number is 440-29-8810-A. Is that even right?
+Agent: Let me look that up. I'll need to verify your identity first. Can you confirm the property address?
+Caller: Sure, it's 1820 Pinehurst Drive, Tucson, Arizona 85712.
+Agent: And the last four of your SSN?
+Caller: 5529.
+Agent: Thank you Bernard. I've located your account. The number you provided — 440-29-8810-A — is actually your loan origination number, which was used during the application and closing process. For ongoing servicing and bill payments, we use a different account number.
+Caller: Oh, I had a feeling that might be the case. What's the right number then?
+Agent: Your servicing loan number, which is what you'll use for bill pay and any correspondence with us, is 0044-029-8810. It's similar but formatted differently and without the letter suffix.
+Caller: 0044-029-8810. Okay. And when I enter that into my credit union's bill pay, how should I format it? With the dashes, or without?
+Agent: Most bill pay systems accept it either way, but I'd recommend entering it without dashes as a string of digits: 0044029881 — actually let me restate that clearly. The number is zero zero four four zero two nine eight eight one zero. That's ten digits total.
+Caller: Let me write that down. Zero zero four four zero two nine eight eight one zero. Ten digits.
+Agent: That's correct.
+Caller: And the payee name — should I put Pinnacle Mortgage Servicing, or is there a specific payee name I should use?
+Agent: For bill pay purposes the payee should be listed as Pinnacle Mortgage Servicing LLC. Some bill pay systems may have us pre-loaded in their database, so you might find us if you search for Pinnacle Mortgage.
+Caller: And what mailing address should bill pay send to if it uses a paper check?
+Agent: Our payment processing address for bill pay checks is Post Office Box 77410, Cincinnati, Ohio 45277. That's different from our corporate address so please make sure that's the address used.
+Caller: P.O. Box 77410, Cincinnati, Ohio, 45277. Got it.
+Agent: Exactly right. That address processes payments quickly. If the check is sent anywhere else it could cause a delay.
+Caller: Good to know. Okay, just to confirm everything — loan number 0044029881 0, payee Pinnacle Mortgage Servicing LLC, address P.O. Box 77410 Cincinnati Ohio 45277.
+Agent: Almost perfect — the loan number is ten digits: zero zero four four zero two nine eight eight one zero. Let me spell it out: 0-0-4-4-0-2-9-8-8-1-0. Eleven digits, actually, I apologize for the confusion.
+Caller: Eleven digits, 00440298810.
+Agent: Yes, that's correct. I apologize for my error earlier. Eleven digits.
+Caller: No worries, I appreciate you catching that. And just so I know, should I expect a confirmation that my bill pay is set up correctly?
+Agent: Your first payment will process and post to your account and you'll see it reflected on your next statement. If there's ever an issue with the account number we'd receive a returned payment and reach out to you. But with the correct number you've just written down, it should process smoothly.
+Caller: Perfect. Thanks James, this was really helpful.
+Agent: My pleasure Bernard. Is there anything else I can help you with today?
+Caller: No, that's it. Have a good one.
+Agent: You too. Goodbye.

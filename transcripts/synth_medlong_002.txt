@@ -1,0 +1,49 @@
+Agent: Thank you for calling Pinnacle Home Lending, this is Maria. May I have your loan number please?
+Caller: Hi Maria. It's 739204. My name is Claudette Oduya.
+Agent: Thank you, Ms. Oduya. Can you verify your property address and the last four digits of your Social Security number?
+Caller: Sure. 892 Willowbrook Drive, Memphis, Tennessee. Social ends in 3318.
+Agent: Thank you, I have your account. How can I help you today?
+Caller: I need to apply for loss mitigation. I was laid off six weeks ago — I worked at FedEx for nine years, and my whole division was restructured. I've been looking for work but I have two kids in school and I'm really scared about losing my house.
+Agent: Ms. Oduya, I'm sorry to hear what you're going through, and I want to assure you that you've called the right place at the right time. The fact that you're calling proactively rather than waiting until you're several months behind puts you in a much stronger position. Let me look at your loan details while we talk. I'm seeing a balance of $198,450, monthly payment of $1,644 including escrow, and you're currently current through last month. Is that right?
+Caller: Yes, I made June's payment. I used the last of my savings. I don't think I can make July's.
+Agent: That's very helpful context. So we have time to work through this properly. Let me explain how the loss mitigation process works from start to finish, and then we'll talk about what you'll need to gather. Does that sound okay?
+Caller: Yes please.
+Agent: When a borrower experiences a hardship like a job loss, we have a formal process called loss mitigation — this is the umbrella term for all the programs that can help keep you in your home. It starts with what we call a hardship application or a Uniform Borrower Assistance Form — sometimes called a Form 710 if you're looking it up. This is a multi-page document that covers your income, expenses, the nature of your hardship, and your preferences for how you'd like to be helped. Alongside that form, we need supporting documents. For a job loss situation, we need your termination letter or a notice of layoff from your employer. Do you have anything like that?
+Caller: I got a letter from HR, yeah. It has the date of my last day, which was May 19th.
+Agent: Perfect. That's exactly what we need. We'll also need your most recent paystubs — typically the last two months — even if your last check was in May. Do you have those available?
+Caller: I think so. I probably have them on my phone, I get electronic ones.
+Agent: Great. We also need two years of federal tax returns — 2022 and 2023 — or your most recent two years of W-2s if you don't have the full returns. And we'll need a copy of your most recent bank statement, all pages, for all accounts. When I say all pages, I mean even the blank ones at the end of a statement — that's actually required by the underwriters.
+Caller: Why the blank pages?
+Agent: I know it sounds odd. It's to confirm that the document is complete and unaltered. Underwriters see a lot of fraudulent submissions, so even if page 6 of a 6-page statement is blank, they need to see it. It's just a document integrity thing.
+Caller: Okay. I have a checking and a savings account.
+Agent: We need statements for both. Now, if you're currently receiving unemployment benefits, we'll also need your award letter from the Tennessee Department of Labor — that's the document that shows how much you're receiving per week and for how long. Are you receiving unemployment?
+Caller: I applied. I got approved but I've only gotten two payments so far. I get $482 a week.
+Agent: Okay, so $482 a week is roughly $2,090 a month. We'll document that as income in your application. Now I also need to ask about other sources of income in the household — a spouse, partner, child support, any rental income?
+Caller: My husband passed away two years ago. It's just me and the kids. I have no other income.
+Agent: I'm so sorry for your loss. And I appreciate you sharing that — it's important for the complete picture. So we're working with unemployment benefits as your sole documented income right now. That actually matters a lot for which programs you may qualify for. Let me explain what could happen with your application.
+Caller: Okay.
+Agent: There are typically three outcomes from a loss mitigation application. First, you might qualify for a forbearance — that's a temporary pause or reduction of payments while you look for work. Your loan is a conventional loan backed by Fannie Mae, and they do have short-term forbearance programs for hardship. Second, if your hardship is going to last longer and you do find work eventually, you might be evaluated for a repayment plan or a deferral — which we'd set up once you have income again. Third, if your situation is more permanent, you'd be evaluated for a loan modification, which changes the terms of your loan. Which of those sounds most relevant to your situation?
+Caller: I'm actively looking for work. I have an interview next week actually. So I think it's temporary — but I can't know for sure.
+Agent: That's honest and helpful. In that case, we'd likely look at a short-term forbearance — maybe three months — which buys you time while you look for work, and then we'd reassess. If you're employed again in three months, we could set up a manageable repayment plan. If not, we extend the forbearance or look at longer-term options.
+Caller: That sounds like what I need. So how do I actually submit all this?
+Agent: Great question. You have three options. The easiest is our online portal — you log into PinnacleLending.com with your account credentials, and there's an upload tool right in the documents section. You can photograph documents with your phone and upload them as JPEGs or PDFs. Second option is fax — our loss mitigation fax line is 1-888-400-7734. Third is mail, but I'd strongly recommend against mail if you can avoid it because of the time involved.
+Caller: I'll do it online. Can you help me set up my portal access?
+Agent: Absolutely. I can send you a password reset link to the email we have on file. We have claudette.oduya at gmail dot com — is that still current?
+Caller: Yes, that's right.
+Agent: Okay, I'm sending that now. You should get it within a few minutes. Now let me make sure you understand the timeline, because this matters. Once you submit a complete application — meaning all documents included — we have 5 business days to acknowledge receipt. Then we have 30 days to evaluate and send you a decision letter. During those 30 days, if your account goes past due, we cannot refer your loan to foreclosure as long as a complete application is pending. That protection is very important.
+Caller: So they can't start foreclosure while I'm applying?
+Agent: Correct — once we receive a complete application. The key word is complete. An incomplete application does not trigger that protection. So if you send everything but, say, the bank statement, and we send you an incomplete notice, the clock doesn't start until we have everything. I really want to emphasize that, because we see borrowers assume they're protected when they've submitted something partial.
+Caller: So I need to make sure everything is in there.
+Agent: Exactly. Let me give you a checklist. Number one: completed Form 710 — you'll find it in the portal under Loss Mitigation Forms. Number two: your termination letter from FedEx HR dated May 19th. Number three: your last two pay stubs — May and April. Number four: your Tennessee unemployment award letter. Number five: two years of tax returns, 2022 and 2023, or W-2s for those years. Number six: bank statements for both accounts, all pages, most recent month. That's your complete package.
+Caller: Can I write that down? Can you repeat that slower?
+Agent: Of course. Do you want me to wait while you get something to write with?
+Caller: Yes, one second. Okay, ready.
+Agent: Form 710 from the portal. Termination letter from FedEx. Last two paystubs. Unemployment award letter from Tennessee. Tax returns for 2022 and 2023 — or W-2s. And bank statements for both accounts, all pages, most recent statement. Did you get all of that?
+Caller: Yes. And if I send something they don't like, they'll contact me?
+Agent: Yes. If the application is incomplete or if they need clarification, you'll receive what's called a Notice of Incomplete Application within 5 business days. It will list exactly what's missing. At that point you have a specific window — typically 30 days — to provide the missing items. If you don't respond within that window, the application is closed and you'd have to start over.
+Caller: I'm definitely going to get this done this week.
+Agent: I think that's the right plan. Can I also tell you about one more thing? If July 1st comes and you can't make your payment, please do not just let it pass silently. Call us right away. We can note your account that you have a pending application in process, and our collections team will have that context when they call.
+Caller: I will. This is all really helpful. I feel a little less panicked now.
+Agent: I'm really glad to hear that. You called at the right time, you have documentation, and you have income in the form of unemployment. You're in a much better position than a lot of people who reach us. Your reference number for today's call is 5520-CLA-DJO. Is there anything else I can answer before we hang up?
+Caller: I don't think so. Thank you so much, Maria.
+Agent: Of course. Good luck with your interview next week. Take care, Ms. Oduya.

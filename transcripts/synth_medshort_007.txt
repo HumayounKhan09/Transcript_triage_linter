@@ -1,0 +1,39 @@
+Agent: Thank you for calling Heritage Mortgage Servicing, this is Maria speaking. How can I assist you today?
+Caller: Hi Maria. I'm selling my house and my real estate agent told me I need something called a payoff quote. Can you help me get that?
+Agent: Absolutely, I can provide a payoff quote for you today. Let me pull up your account first. Can I get your full name and the property address?
+Caller: My name is Cynthia Baxter. The property is 1108 Winding Brook Way, Atlanta, Georgia 30327.
+Agent: Thank you, Cynthia. And the last four of your Social Security number for verification?
+Caller: It's 2265.
+Agent: And the last four of your loan number?
+Caller: 5594.
+Agent: Great. I've got your account. Now before I give you the payoff quote, I want to explain a couple of important things about how this works.
+Caller: Sure. My agent was talking about something called a per-diem. I didn't really follow what she meant.
+Agent: That's actually one of the most important parts. Mortgage interest is collected in arrears, meaning you're always paying the interest from the prior month. Because of this, the payoff amount changes every single day as interest accrues. That daily interest amount is what we call the per-diem.
+Caller: Okay, so the payoff today would be different from the payoff in two weeks?
+Agent: Exactly right. So when I give you this quote, I'll give you the payoff amount as of today, the per-diem daily interest rate, and a good-through date, which is the last day the quote is valid. After that date, you'd need to request a new quote.
+Caller: Got it. My closing is scheduled for June 28th. So should I have you calculate it for that date?
+Agent: Yes, let's do a payoff quote good through June 28th. That way your closing attorney will know exactly what to wire and through when. Let me calculate that now.
+Caller: My agent mentioned the closing attorney usually receives this directly. Do you mail it to them or can I just bring the numbers?
+Agent: We typically fax or email the payoff quote directly to the closing attorney or title company. We'll need their information. However, I can also give you the numbers verbally today and you can share them, with the understanding that the attorney will likely want to receive the official written quote directly from us.
+Caller: That makes sense. Let me give you their info in a second. What are the numbers?
+Agent: All right. Your current principal balance as of today is $198,435.12. Interest has accrued for the days in June so far. Your per-diem interest rate is $28.47 per day. Through June 28th, that adds $682.16 in accrued interest. We also have a fee for the payoff statement itself of $30, which is required. So your total payoff amount good through June 28th is $199,147.28.
+Caller: Okay, let me write that down. $199,147.28 good through June 28th?
+Agent: That's correct. And your per-diem is $28.47, meaning if the closing happens on June 29th or 30th, you'd add $28.47 for each additional day past the good-through date.
+Caller: What if closing gets delayed? These things sometimes fall apart.
+Agent: If your closing is delayed past June 28th, you'll need to call us back and we'll issue a new payoff quote with an updated good-through date. There may be a small fee for each additional quote request.
+Caller: I see. Okay so let me give you the attorney's fax number. It's Greenfield Title and Escrow, the fax is 404-555-0128.
+Agent: Got it. Greenfield Title and Escrow, fax 404-555-0128. I'll submit the payoff quote for fax delivery today. They should receive it within four business hours. I'd recommend having them confirm receipt.
+Caller: Do you also send it by email?
+Agent: We can email it as well. Do you have their email address?
+Caller: It's closing at greenfield-title dot com.
+Agent: Perfect. Closing at greenfield-title.com. I'll send the payoff quote both by fax and by email today.
+Caller: Wonderful. Now after I sell the house, what happens to my mortgage?
+Agent: Once we receive the wire with the full payoff amount by the close of business on or before June 28th, we'll process the payoff, apply the funds, and your loan will be marked satisfied. We'll then send a release of lien, also called a reconveyance deed, to the appropriate county recorder's office within the legally required timeframe, which is typically thirty days.
+Caller: And I'll get confirmation that it's paid off?
+Agent: Yes. You'll receive a written payoff confirmation letter from us once the funds are received and applied. You should also receive a copy of the recorded release of lien from the county after it's been recorded.
+Caller: This is my first time selling a home, so this is all new to me. You've been very helpful.
+Agent: It's my pleasure. Selling a home comes with a lot of moving pieces. Is there anything else I can help clarify for you today, Cynthia?
+Caller: I think I'm good. Thank you so much, Maria.
+Agent: Of course. Good luck with your closing. Have a wonderful day.
+Caller: Thank you. Bye.
+Agent: Goodbye.

@@ -1,0 +1,37 @@
+Agent: Thank you for calling Keystone Mortgage Services, this is Anita. How can I help you today?
+Caller: Hi Anita. I want to make my mortgage payment with a credit card. Is that an option?
+Agent: Thank you for asking. Let me pull up your account so I can give you account-specific information, and then I'll go over your payment options. Can I get your full name?
+Caller: Robert Talbott.
+Agent: Thank you, Mr. Talbott. And your loan number or property address?
+Caller: The loan number is 00561-88230.
+Agent: And to verify your identity, the last four of your Social Security number?
+Caller: 4471.
+Agent: And your date of birth?
+Caller: August 30, 1963.
+Agent: Thank you. One moment to pull up your account.
+Caller: Sure.
+Agent: Okay, I have your account here, Mr. Talbott. Unfortunately, we are not able to accept credit card payments for mortgage payments. I know that's probably not what you were hoping to hear.
+Caller: Oh. Why not?
+Agent: There are a few reasons. Mortgage servicers are generally prohibited or strongly discouraged from accepting credit card payments due to regulatory concerns about consumers taking on additional debt to pay secured debt. Essentially, using a credit card to pay a mortgage could put someone in a more precarious financial position by adding high-interest credit card debt on top of the mortgage obligation.
+Caller: I see. It wasn't about getting into debt for me, I was actually trying to earn rewards points on a big payment.
+Agent: That's a very common reason people ask, and it's totally understandable. Mortgage payments are one of the largest regular transactions most people make, so earning rewards on them would be great. Unfortunately the policy still applies regardless of the reason.
+Caller: Are there any workarounds? Like a third-party service or anything like that?
+Agent: There are some third-party payment services that allow you to fund payments with a credit card and then they send us an ACH or check. However, those services typically charge a processing fee of two to three percent, which would generally offset any rewards you might earn unless you have a card with exceptionally high rewards rates. And we'd still need to caution that this can carry risk.
+Caller: Yeah, if they charge three percent and I'm only getting two percent back, that doesn't make sense.
+Agent: Exactly. For most people the math doesn't work out in their favor. The fees tend to eat into any rewards benefit.
+Caller: What payment methods do you accept?
+Agent: We accept several other forms of payment. You can pay by ACH electronic transfer directly from a checking or savings account, which is free of charge. You can also pay by personal check mailed to our payment address, by money order, or by wire transfer for large payments. We also have a phone payment option where you can use your bank account over the phone, also at no charge.
+Caller: Can I set up automatic payments from my checking account?
+Agent: Yes, absolutely. AutoPay is available and it's a popular option. We can set it up so your payment is automatically drafted from your checking account on the due date or another date you prefer. A lot of customers find it convenient and it helps avoid any late payments.
+Caller: How do I enroll in that?
+Agent: You can enroll online through your account on our website. Under the payment settings section there's an AutoPay enrollment option where you enter your bank account routing and account numbers. You can also call in and we can set it up over the phone, or there's a form you can fill out and mail or fax in.
+Caller: I might just do it online. Seems easiest.
+Agent: That's usually the fastest option. Once set up, the first automatic draft typically takes one billing cycle to activate, so you'd want to make sure your next payment is covered manually if you're enrolling close to your due date.
+Caller: Good to know. When is my due date?
+Agent: Your payment is due on the first of each month, with a grace period through the 15th.
+Caller: Okay. I'll set up AutoPay tonight then. Thanks for explaining everything, Anita.
+Agent: Of course. Sorry we can't do the credit card, but AutoPay is a great alternative. Is there anything else I can help you with?
+Caller: Nope, that's it. Thanks again.
+Agent: Thank you for calling Keystone Mortgage Services, Mr. Talbott. Have a great day.
+Caller: You too. Bye.
+Agent: Goodbye.
