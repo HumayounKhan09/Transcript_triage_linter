@@ -1,0 +1,66 @@
+Agent: Thank you for calling Harbor Point Mortgage, my name is Derek, how can I help you today?
+Caller: Hi, um, I'm calling about my mortgage. I'm not sure exactly who I need to talk to or what I need to do. It's kind of a complicated situation.
+Agent: That's okay, we can figure it out together. Can I start by getting your loan number and verifying your account?
+Caller: Yeah. The loan number is 407625. My name is Theresa Whitman.
+Agent: Thank you, Theresa. And your property address?
+Caller: 861 Maple Glen Court, Rochester, New York, 14618.
+Agent: Thank you. Last four of your Social Security number?
+Caller: 9026.
+Agent: And date of birth?
+Caller: July 7th, 1981.
+Agent: Thank you, Theresa. I've pulled up the account. I can see loan 407625, property on Maple Glen Court. I want to let you know — I see the loan is in both your name and a co-borrower, a Daniel Whitman. Are you aware of that?
+Caller: Yes. He's my husband. Or — we're going through a divorce. That's actually why I'm calling.
+Agent: I understand. I'm sorry to hear that, Theresa. That's a difficult situation and I want to help you understand your options as best I can. Can you tell me a bit about where things stand? Are you still living in the property?
+Caller: Yes, I'm still in the house. He moved out about four months ago. We're in the middle of divorce proceedings and I'm trying to figure out what happens with the mortgage.
+Agent: Okay. That makes sense and it's actually something we deal with fairly often. Let me just look at the account before we go further. Your loan originated in August 2019. Current unpaid principal balance is $229,614. Your interest rate is 3.875% fixed, 30-year loan. Monthly payment is $1,394.22 including principal, interest, taxes, and insurance escrow. The account is currently showing current — last payment received was May 28th. Is that right?
+Caller: Yes, I've been making the payments. He hasn't been helping with the mortgage at all since he left, but I've been covering it because I don't want to lose the house.
+Agent: I understand and I want you to know that you making those payments is important and I'm glad you have. It's protecting your credit and keeping the loan in good standing. Now let me ask — what specifically are you trying to figure out today? Are there a few different things or one main thing?
+Caller: A few things, I guess. I want to know — can I get him off the loan? Can I stay in the house? Is there anything you can do if I start to struggle with payments? And I need to understand what happens if he just refuses to cooperate on anything, because that's very possible. He's being really difficult.
+Agent: Those are all really valid questions and I want to take them one at a time so we make sure we cover everything. Let me start with the first one — getting him off the loan. In mortgage terms, the way to remove a co-borrower from a loan is through a refinance. You would apply for a new loan in your name only, and if you qualify, the new loan pays off the existing joint loan, and he is no longer on it.
+Caller: Okay. And would I qualify? I mean, I work, I have income. But I don't know if I make enough on my own.
+Agent: I can't do a full credit or income analysis here on the servicing line — that would need to go through a loan officer — but I can tell you what factors they'd look at. Your debt-to-income ratio — meaning your gross monthly income compared to all your monthly debt obligations including the new mortgage payment — generally needs to be at or below 43% to 45% for most loan programs. Can you give me a rough idea of your gross monthly income?
+Caller: I make about $72,000 a year. So that's like, six thousand a month.
+Agent: At $6,000 gross monthly income, your housing expense — if we assume the payment stays around $1,394 — that's about 23% of your gross income, which is very reasonable. The question would be total debt including car payments, student loans, credit cards. Do you have significant other debt?
+Caller: I have a car payment, $387 a month. And I have some credit card debt, minimum payments are maybe $200 a month. Student loans are on income-based repayment, I pay about $180 a month.
+Agent: So your total monthly debt obligations, including the mortgage, would be approximately $2,161. Divided by $6,000 gross income, that's about 36% debt-to-income. That's within the qualifying range for most conventional loan programs. You might actually qualify to refinance in your name only, especially if your credit score is solid.
+Caller: I think my credit is decent. I've never missed a payment on anything.
+Agent: That's a strong indicator. I want to be honest — I can't give you a loan approval or a rate quote here, but based on what you're describing, a solo refinance is worth exploring. Have you talked to any lenders about this yet?
+Caller: No, I've been overwhelmed. The divorce stuff is taking up all of my energy and I haven't even known where to start with the mortgage.
+Agent: I understand. And you don't have to have everything figured out today. The most important thing right now is that the loan is current, which it is, and that you continue to make payments while you're working through the legal process.
+Caller: Okay. Now what about — what if I can't afford it? Like I said, he was contributing before, or at least he was supposed to be, and now I'm covering the full amount. And my attorney's fees are getting really expensive.
+Agent: I hear you. If you reach a point where you're struggling to make the full payment, I want you to call us before you miss a payment — don't wait until you're already behind. When a borrower contacts us proactively about a hardship, there are options we can explore. These include things like a temporary forbearance plan, which allows reduced or suspended payments for a defined period while you stabilize your situation. Or a repayment plan if payments have been missed. Divorce or separation can qualify as a financial hardship.
+Caller: Okay, but here's the thing. The loan is in both our names. If I call to ask for help, does he have to agree to it? Because I can't get him to agree to anything. He's not talking to me, he communicates through his lawyer.
+Agent: That is one of the most important questions you could ask and I want to give you a careful answer. On a joint loan, both borrowers have equal rights to call in and request information about the account. Either of you can make a payment. Either of you can request a forbearance or a payment assistance plan. We do not require both borrowers to consent to a loss mitigation application — you can apply on your own.
+Caller: Really? So I could ask for help without his signature?
+Agent: For the purpose of applying for assistance, yes. You as a borrower on the loan have the right to submit a hardship application. However — and this is important — we would notify both borrowers of any action taken on the account, because he is also on the loan and has rights too. So he would receive communication about it. If that's a concern for you legally, I'd recommend talking to your divorce attorney before initiating any formal hardship process, just to make sure it doesn't create complications in your proceedings.
+Caller: Yeah, my attorney is going to need to know about all of this.
+Agent: I would agree. Your attorney should know the status of the mortgage, what options are available, and what impact any decisions about the mortgage might have on the divorce settlement. Sometimes these things interact in ways that aren't obvious.
+Caller: Can you tell me — what happens to the mortgage in the divorce legally? Like who's responsible?
+Agent: I want to be careful here because I'm not a lawyer and I can't give you legal advice. What I can tell you from a mortgage servicing perspective is this: a divorce decree does not change who is responsible to the lender. Even if a judge orders Daniel to pay the mortgage, if his name is on the loan, you are both still legally liable to us. If the loan goes delinquent, it affects both of your credit. The divorce court can order him to pay, but if he doesn't, we as the servicer would still pursue the delinquency against both borrowers. The only way to fully separate the mortgage obligation is to either refinance it into one person's name or sell the property.
+Caller: So even if a judge says it's my house and he has to pay, if he doesn't pay, it still messes up my credit?
+Agent: From a mortgage servicer standpoint, yes. Because our contract is with both of you as co-borrowers, not with whoever the divorce judge designates. If you want the loan to be solely your responsibility, a refinance in your name only is the cleanest solution.
+Caller: And if I can't qualify for a refinance on my own, or if he won't cooperate — what then?
+Agent: If you can't refinance and can't come to an agreement, the most common outcome in divorce situations is selling the property. If there's equity in the home, the proceeds pay off the mortgage and the remaining equity is divided per the divorce settlement. It's not the outcome anyone wants emotionally, but it does cleanly resolve the mortgage obligation.
+Caller: God. I really don't want to sell this house. I've been there seven years. My kids are in school there.
+Agent: I hear you. And I'm not saying that's what will happen — it's just one scenario. Given what you've described — your income, your credit history, the loan balance — a solo refinance genuinely seems possible for you. That should probably be the first thing you explore with a loan officer.
+Caller: Okay. Can you help me with that here, or is that a different department?
+Agent: It's a different department — servicing and originations are separate. But I can transfer you to our refinance inquiry line if you'd like to start that conversation today, or I can give you that number so you can call when you're ready.
+Caller: Maybe just give me the number. I'm not ready to talk to someone about that today, I need to process all of this first.
+Agent: Of course. Our refinance department can be reached at 1-800-555-0317. They're available Monday through Friday, 8am to 7pm Eastern. When you call, just tell them you're an existing customer looking at a solo refinance due to a divorce situation — they'll know the right process.
+Caller: Okay. And what about the account here — is there anything I should have on file? Like, can I note somewhere that I'm the one making payments and he's out of the picture?
+Agent: I can add a note to your account today documenting this call and the situation you've described. However, I can't change the account ownership — both borrowers remain on the loan until either a refinance or a payoff occurs. What I would suggest is making sure your own contact information is on file so that you receive all correspondence. Let me check what we have.
+Caller: Please.
+Agent: I'm showing the primary contact email as dwhitman1978 at yahoo dot com. That appears to be his email. Do you want to add your own email address to the account so you receive communications as well?
+Caller: Yes. It's theresawhitman81 at gmail dot com.
+Agent: Adding that now. Theresa Whitman, theresawhitman81 at gmail. And I want to flag — we can add your email as an additional contact but I'm not able to remove his, because he is still a co-borrower with rights to account information. Going forward, you should both receive communications.
+Caller: That's fine, as long as I get them too. Because in the past, stuff was going to his email and I wasn't seeing anything.
+Agent: Understood. I've added your email. Going forward you should both be copied. Is there a phone number I should update as well?
+Caller: My cell is 585-555-0294.
+Agent: 585-555-0294, added. Is there anything else you want to ask today? I know this is a lot to absorb.
+Caller: I think — I think I just need to breathe for a second. This has been really overwhelming. Can I call back if I have more questions?
+Agent: Absolutely. And when you call, if you ask to speak with a senior account specialist, they'll be able to see all the notes I've added today about your situation so you won't have to start from scratch. Reference today's call date, June 27th, if it helps.
+Caller: Okay. And Derek — thank you. You were really patient with me. I've been kind of a wreck about all of this.
+Agent: You don't need to apologize at all. You're in a hard situation and you're handling it responsibly — you're making your payments, you're asking the right questions, you're getting information before things become a crisis. That's the right approach.
+Caller: I hope so. Okay. I'll let you go. Thank you.
+Agent: Take care of yourself, Theresa. Feel free to call anytime. Goodbye.
+Caller: Bye.

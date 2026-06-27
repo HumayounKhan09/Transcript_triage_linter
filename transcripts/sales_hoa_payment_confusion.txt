@@ -1,0 +1,81 @@
+Agent: Thank you for calling Lakeview Mortgage Servicing, this is Fatima, how can I help you today?
+Caller: Hi, yes, I need help figuring out what happened to a payment I made. I'm very confused and I've been going back and forth between you guys and my HOA and nobody seems to know where the money went.
+Agent: Oh, I'm sorry to hear that, let's see if we can get this sorted out for you. Can I start with your loan number and get you verified?
+Caller: Sure, yes. Loan number is 358904. My name is Paul Hernandez.
+Agent: Thank you, Mr. Hernandez. And your property address?
+Caller: 14 Stonegate Circle, Unit 7, Frisco, Texas, 75034.
+Agent: Thank you. Last four of your Social?
+Caller: 8817.
+Agent: And your date of birth?
+Caller: February 28th, 1977.
+Agent: Perfect, thank you. I've verified your account. I can see loan 358904, the condo unit at 14 Stonegate Circle Unit 7 in Frisco. Before we dig into the payment issue, let me just pull up your full account overview so I can see everything that's going on. One moment.
+Caller: Sure.
+Agent: Okay. Your loan is a 30-year fixed, originated in March 2021, interest rate 3.625%, current unpaid balance approximately $198,770. Your monthly payment is $1,687.44. Now I see your loan is set up with an escrow account. Your escrow includes property taxes and homeowner's insurance. I do not see HOA dues included in your escrow. Is that consistent with what you were expecting?
+Caller: That's actually part of the problem. I thought they were included. Or at least I thought they were supposed to be. But let me tell you what happened.
+Agent: Please, go ahead, take your time.
+Caller: Okay so. I bought this condo in 2021. At closing, nobody really explained to me super clearly what was going to be escrowed and what wasn't. I just kind of assumed everything — taxes, insurance, HOA — was all going to be wrapped into my monthly payment. So for the first like eight months, I was paying my mortgage payment every month and I thought everything was covered. Then in November 2021, I get a letter from the HOA saying I owe them six months of back dues and I'm facing a lien.
+Agent: Oh my goodness.
+Caller: Yeah. So that was a mess. I paid the back dues directly to the HOA — it was $1,740 for the six months I hadn't paid. And I set up autopay directly with them. So at that point everything was fine for a while. My HOA dues are $290 a month.
+Agent: Okay, I'm following you. So starting in late 2021 you're paying your mortgage separately and your HOA dues separately via autopay. Got it.
+Caller: Right. Now here's where it gets complicated. In January of this year, I get a letter from you guys — from Lakeview — saying that my escrow account is being updated and my monthly payment is changing. My payment went up to $1,687.44, which is what you said.
+Agent: Yes, that matches what I'm showing.
+Caller: So I assumed — and maybe this was dumb of me — I assumed that the escrow analysis bumped up my payment because HOA was now being included. Because why else would it go up, right?
+Agent: I can see why you'd make that assumption. Can I ask — did you read the escrow analysis disclosure that would have come with that letter? It would have itemized what's in the escrow.
+Caller: Honestly? No. I just saw the new payment amount and thought okay, it's higher, probably they added the HOA, great. So then I canceled my HOA autopay because I thought you guys were covering it.
+Agent: Oh, Mr. Hernandez. Okay. I think I'm starting to see the picture.
+Caller: Yeah. So it's now June. That means from February through June — five months — I have not been paying my HOA dues because I thought you were paying them. And last week I got another letter from the HOA saying I owe five months of dues, $1,450, plus a $200 late fee. And they're threatening another lien.
+Agent: Okay. Let me look at your escrow account breakdown right now so I can confirm exactly what's in there.
+Caller: Please.
+Agent: Looking at your escrow analysis from January. Your escrow account is collecting for: property taxes — you're in Frisco, Texas, Collin County, and your annual tax is being estimated at $5,184, so $432 per month in escrow. And homeowner's insurance — your annual premium is $1,418, so $118.17 per month. Your total escrow is $550.17 per month. HOA dues are not listed in your escrow account. They were not added in January.
+Caller: So why did my payment go up then?
+Agent: The escrow analysis in January likely showed a shortage in your existing escrow account — meaning the balance in escrow was lower than required, possibly because your taxes or insurance went up. The monthly payment increase would have been to catch up on that shortage and fund the new required amount going forward. Let me look at that specifically.
+Caller: Okay.
+Agent: Yes, I can see it. Your property taxes increased from the prior year estimate. The county reassessed your property value and your tax went up from $4,712 per year to $5,184 per year. There was also a shortage of $318.44 in the escrow account that's being spread across your payments over 12 months, which adds another $26.54 per month. So your payment increase was entirely due to the tax increase and the shortage — nothing to do with HOA.
+Caller: Okay. I understand that now. But nobody told me that. The letter didn't say clearly enough.
+Agent: I understand your frustration. The escrow analysis statement can be dense and difficult to parse, especially if you're not used to reading them. I'm not going to argue with you about whether the disclosure was clear — what I want to do right now is help you figure out how to resolve the HOA situation.
+Caller: Right. So here's the next part of the problem. After I got the HOA letter last week, I freaked out and I went online and made a payment through what I thought was your payment portal. I paid $1,650 to cover the HOA back dues and late fee. But I think I accidentally made the payment to you — to Lakeview — instead of to the HOA.
+Agent: Did you use our website or portal at lakviewmortgage.com?
+Caller: I think so. I was panicking and I had multiple tabs open. I had your site and the HOA management company's site and I honestly think I put the payment in the wrong place.
+Agent: Let me look at your payment history right now. I am showing a payment of $1,650.00 received on June 19th. Is that the payment you're referring to?
+Caller: Yes! Okay so it did come to you. Oh my god.
+Agent: Okay. So that $1,650 came to Lakeview, not to your HOA. Let me look at how it was applied. When an unusual payment amount comes in — meaning it doesn't match your regular monthly payment amount — our system applies it according to a specific protocol. Let me trace where this went.
+Caller: Oh no.
+Agent: Okay. I can see that on June 19th, $1,650 came in. At that time your account showed no outstanding regular monthly payment due — your June payment of $1,687.44 had already been paid on June 5th. So this $1,650 was processed as a principal curtailment — meaning it was applied directly to reduce your principal balance.
+Caller: It went to my principal balance?
+Agent: Yes. Because there was no outstanding payment due, the system treated it as an extra payment toward principal. Your balance was reduced by $1,650. On paper that's actually a positive thing for your loan, but I understand it's not where you intended to send that money.
+Caller: Okay so I need that money back because I need to pay my HOA.
+Agent: Yes, that makes sense. This is going to be a principal refund request. We can absolutely process that. I want to walk you through how it works. You would need to submit a written request for a principal refund — we can do that today, I can initiate it — and once it's approved, we would reverse the principal curtailment and issue a check or ACH refund to you for the $1,650.
+Caller: How long does that take?
+Agent: Typically ten to fifteen business days for a check. If you want it by ACH direct deposit, it can be seven to ten business days, and we'd need your bank account information on file.
+Caller: Ten to fifteen business days. But the HOA is threatening a lien. They said I have 15 days from their letter, and the letter was dated June 23rd.
+Agent: That's a tight window. Let me see what options we have to expedite this. I'm going to note your account with the full details of this situation and flag it for expedited processing. I can also provide you with written confirmation of this call that you could potentially share with your HOA to demonstrate you have a refund in process. Some HOA management companies will grant a brief extension if they see you're actively working to resolve it.
+Caller: Do you have a direct number for the HOA management company? Or can I get a letter from you to them?
+Agent: I can generate a letter on Lakeview letterhead confirming that a payment of $1,650 was received on June 19th and is being refunded due to a misdirected payment. That letter could be faxed or emailed directly to your HOA management company if you give me their contact information. That's often enough to put a hold on collection action while the refund processes.
+Caller: Okay. The management company is Stonegate Community Management. Their email is accounts at stonegatecm dot com and their fax is 972-555-0148.
+Agent: Stonegate Community Management, accounts at stonegatecm dot com, fax 972-555-0148. I'll note all of that. The letter won't go out instantaneously — it would need to go through our document team, typically within 24 to 48 business hours. But I'm going to flag it urgent given the timeline.
+Caller: Okay. And what about the late fee? The HOA is charging me a $200 late fee. Is that something you can help with?
+Agent: Mr. Hernandez, I want to be honest with you. The late fee is between you and your HOA — it's not something Lakeview can waive because it's not our charge. However, if your HOA is willing to waive it given the circumstances — a misdirected payment, which is a documented error — many management companies will waive the late fee on a one-time basis if you ask nicely and explain the situation. Especially if you've been a good payer historically.
+Caller: I mean I usually pay on time. This was just a really confusing situation.
+Agent: I understand. And when you speak to them, it might help to explain that you had a mortgage payment change in January and genuinely misunderstood whether HOA was included in your escrow. It wasn't a deliberate non-payment. That context may help.
+Caller: Yeah, okay. Is there anything else I should be doing on my end?
+Agent: A few things. First, once you get the refund, pay your HOA immediately — $1,450 plus whatever late fee they land on. Second, re-establish your HOA autopay directly with Stonegate Community Management for $290 per month going forward. Third, I'd recommend reviewing your escrow analysis statement each year when it comes — I know it's dense, but it'll help you catch situations like this early. And fourth, if you ever get a letter from us about a payment change and you're not sure why, please call us right away. We're happy to walk through it.
+Caller: Yeah, I wish I had called in January. I wouldn't have canceled my autopay.
+Agent: It's an easy mistake to make and you're not the first person I've talked to in this exact situation. Condos especially are complicated because you've got the mortgage, escrow, HOA, and sometimes a master insurance policy all overlapping and it can be genuinely confusing.
+Caller: It really is. Okay, so let me make sure I understand what's happening today. You're submitting a request to refund my $1,650 principal payment. That'll take seven to fifteen business days depending on method. You're going to generate an urgent letter to Stonegate confirming the misdirected payment and the refund in process. And you're flagging my account for expedited handling.
+Agent: That's correct. And I'm also going to give you a confirmation number for today's call so you can reference it if you call back. Your case reference number is LV-2025-004417. Write that down.
+Caller: LV-2025-004417. Got it. And Fatima, is there a direct number or extension for you in case I need to follow up?
+Agent: I don't have a direct extension, but you can call our main servicing line at 1-800-555-0214 and reference that case number. Any agent will be able to see the full notes from today. If you ask for a senior specialist, they'll have full access to everything I've documented.
+Caller: Okay. And the refund — ACH or check? Which is faster?
+Agent: ACH is faster. If you want to provide your bank routing and account number, I can add it to the refund request right now.
+Caller: Okay yeah. Routing number is 111000025. Account number is 0047391628.
+Agent: Got it. Routing 111000025, account 0047391628. I've added that. We'll attempt the ACH refund — you should see it within seven to ten business days. I'll note in the case that you prefer ACH.
+Caller: And I'll also get the letter to Stonegate within 48 hours?
+Agent: That's our target. If you haven't received confirmation from Stonegate that they received it by June 30th, I'd recommend calling us back to check the status.
+Caller: Okay. Honestly, I feel so much better than when I called. I was so stressed.
+Agent: I'm glad we could get some clarity. This was a genuinely complicated sequence of events and none of it was malicious on your part. You had a misunderstanding about escrow, you made a payment in good faith, it went to the wrong place. We're going to fix it.
+Caller: Thank you, Fatima. You've been incredibly patient with my whole rambling story.
+Agent: Not rambling at all — the whole context was necessary to understand what happened. Is there anything else before I let you go?
+Caller: No, I think that covers everything. Thank you so much.
+Agent: My pleasure, Mr. Hernandez. Have a great rest of your day and don't hesitate to call if anything comes up.
+Caller: Will do. Thanks. Bye.
+Agent: Take care. Goodbye.
