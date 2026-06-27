@@ -1,0 +1,67 @@
+Agent: Thank you for calling Meridian Mortgage Servicing, my name is Anita, how can I help you today?
+Caller: Yeah I need to talk to someone about my PMI because this is absolutely ridiculous and I want it removed TODAY.
+Agent: I understand you're frustrated, sir, and I definitely want to help you get this sorted out. Can I start by getting your loan number and verifying your identity?
+Caller: Yes. Fine. Loan number 519348. My name is Gregory Fontaine.
+Agent: Thank you, Mr. Fontaine. And your property address?
+Caller: 2209 Crestview Drive, Tucson, Arizona, 85718.
+Agent: Thank you. Last four of your Social?
+Caller: 4401.
+Agent: And date of birth?
+Caller: September 22nd, 1969.
+Agent: Thank you, Mr. Fontaine. I've verified your account. I can see loan number 519348, the property on Crestview Drive. Let me pull up the full account details here. Just give me one moment.
+Caller: Yeah sure.
+Agent: Okay, I'm looking at your account now. Can you tell me a little bit about what's been happening with the PMI? What's the situation from your perspective?
+Caller: The situation is that I have been paying PMI on this loan for going on six years, and I know for a fact that my loan-to-value is below 80%. I've been making extra principal payments for three years. I looked it up. The federal law — Homeowners Protection Act — says you are required to cancel PMI automatically when the LTV reaches 80% based on the original amortization schedule. And I've been WELL below 80% for over a year now and you people have been charging me $148 a month for PMI that you should have already removed. That is eighteen months times $148. That's $2,664 that I have been paying that I should not have been paying. And I want a refund.
+Agent: Mr. Fontaine, I hear you and I want to take everything you're saying seriously. Let me pull up your current PMI status and your loan-to-value information so I can see exactly what we're working with.
+Caller: Please do that. Because I've been getting the runaround for weeks. I called in March, someone told me they'd open a review. I called again in May, someone said it was still under review. It's now June and I'm still being charged and nobody has given me an answer.
+Agent: I can see a notation from March 14th that a PMI review was opened, and another notation from May 8th indicating the review was ongoing. I do not see a resolution on the account and I sincerely apologize for that. That's not acceptable.
+Caller: No it is not acceptable. This is the third time I'm calling about the same thing.
+Agent: I understand, and I'm not going to make you tell the story again. Let me actually look at the numbers right now while you're on the phone and let's get to a real answer today. Is that okay?
+Caller: That would be great.
+Agent: Alright. Your original loan amount was $312,000. Your loan originated in November 2018. Your original appraised value at origination was $365,000. Your original LTV was 85.5%, which is why PMI was required. Your current unpaid principal balance as of today is $271,448.
+Caller: Right. And what's 80% of $365,000? It's $292,000. My balance is already $21,000 below that. So tell me why I'm still paying PMI.
+Agent: You're correct on the math. 80% of the original value of $365,000 is $292,000, and your current balance of $271,448 is well below that threshold. Let me check what the system shows for your scheduled PMI termination date.
+Caller: Oh this should be good.
+Agent: The system is showing a scheduled automatic PMI termination date of March 2026. But that date is based on your original amortization schedule — meaning it's projecting the date based on your making minimum payments only, without accounting for your additional principal payments. Because you've been making those extra payments, your balance has dropped faster than the original schedule projected.
+Caller: So the system doesn't update when I make extra payments?
+Agent: That's exactly the issue, and it's a legitimate frustration. Under the Homeowners Protection Act, there are two different cancellation scenarios. The first is automatic cancellation, which occurs when the loan reaches the midpoint of its amortization or when your scheduled balance — based on original amortization — reaches 80% of original value, whichever comes first. The second is borrower-requested cancellation, which you can trigger when your actual current balance reaches 80% of the original appraised value, as long as you have a good payment history and, in some cases, a current appraisal confirming the value hasn't declined.
+Caller: So you're telling me that even though I've paid my balance down to $271,000, you won't automatically remove it because the schedule doesn't show me hitting that point until March 2026?
+Agent: Based on what I'm seeing in the system right now, yes, the automatic cancellation was tied to the original schedule. However — and I want to be very clear — you absolutely have the right to request cancellation now based on your current actual balance, which is below 80% of original value. That's what we call a borrower-initiated cancellation request and I don't see a formal one ever being submitted on your account.
+Caller: Are you telling me those calls in March and May did not result in a formal cancellation request being submitted?
+Agent: Mr. Fontaine, I'm looking at those notes and they indicate a "PMI review" was initiated, but I do not see documentation of a formal HPA cancellation request being submitted to our PMI department. I don't know exactly what happened on those calls but I want to be honest with you about what I see in the system.
+Caller: So I've been waiting three months and nobody actually filed the right paperwork? That is unbelievable. I want to speak to a supervisor.
+Agent: I completely understand and you have every right to speak with a supervisor. I want to be transparent with you — I'm going to flag this for a supervisor, but while we wait for one to become available, I would like to actually start the process for you right now so that today's call results in concrete action. Is that okay?
+Caller: You can do both. Start the process AND get me a supervisor.
+Agent: Absolutely. I'm going to initiate the formal HPA cancellation request right now and I am also going to reach out to get a supervisor on the line. Can you hold for a few minutes?
+Caller: Yes. Fine.
+Agent: Thank you, Mr. Fontaine. I'm placing you on a brief hold. It may be three to five minutes.
+Caller: Fine.
+Agent: Mr. Fontaine, thank you for holding. I have my supervisor Derek on the line and I've briefed him on your situation.
+Caller: Good.
+Agent: Derek: Mr. Fontaine, this is Derek, I'm the floor supervisor here at Meridian. Anita has walked me through your account and I've pulled it up myself. First, I want to apologize on behalf of Meridian Mortgage for the handling of this situation. You called in March, you called in May, and we should have resolved this for you months ago. I'm sorry.
+Caller: Thank you. And what are you going to do about it?
+Agent: Derek: Here's what I'm doing right now. I'm submitting a formal borrower-requested PMI cancellation based on the Homeowners Protection Act. Your current balance of $271,448 is 74.3% of your original appraised value of $365,000. That is well below the 80% threshold. Your payment history shows no 30-day late payments in the past 24 months. Under those conditions, you qualify for cancellation without requiring a new appraisal, because we are using the original appraised value, not a new one.
+Caller: Okay. And when does that take effect?
+Agent: Derek: Once I submit this today, our PMI department will confirm the cancellation in writing within 30 days — that's the regulatory requirement. However, I am flagging your account for expedited processing given the history here, and I'm going to request this be confirmed within five to seven business days. Your PMI charge of $148 per month will be removed from your payment going forward.
+Caller: And the refund? Because like I said, I've been paying this for at least eighteen months past when I should have stopped.
+Agent: Derek: Mr. Fontaine, I want to be straightforward with you about the refund question because I don't want to overpromise. The Homeowners Protection Act requires automatic cancellation when the scheduled balance reaches 80% based on the original amortization. By that standard, your automatic termination date was set for March 2026. However, you had the right to request borrower-initiated cancellation well before now — our records show your balance crossed below the 80% threshold of original value approximately 14 months ago.
+Caller: Right. So fourteen months times $148 is $2,072 that I should not have paid.
+Agent: Derek: The argument you're making is that you should have been informed of your right to cancel and that our prior agents failed to process your requests properly. I believe that argument has merit and I am going to escalate this to our PMI dispute resolution team to review whether a refund or credit is warranted. I cannot promise you a refund today — I don't have the authority to issue a refund of that size unilaterally — but I am personally going to flag this for escalation and make sure a decision-maker reviews it within 10 business days.
+Caller: I want that in writing.
+Agent: Derek: Absolutely. Can you confirm your email address?
+Caller: It's gfontaine at comcast dot net.
+Agent: Derek: G-Fontaine at comcast dot net. I'm going to send you a written confirmation of today's call within 24 hours. It will confirm: one, that a formal PMI cancellation request has been submitted today with a target confirmation date of seven business days. Two, that your PMI charge of $148 will be removed from your monthly payment effective next billing cycle. And three, that a PMI dispute review has been initiated regarding the potential refund of PMI charges collected during the period when your balance was below 80% of original value, and that you will receive a determination within 10 business days.
+Caller: Okay. And who do I contact if I don't hear back within ten business days?
+Agent: Derek: You can ask for me by name — Derek — or ask for the PMI Dispute Resolution team specifically. Our direct line for escalated PMI matters is 1-888-555-0233. I'm also going to make sure your account is flagged so that if you call back on our main line, any agent can see this escalation is open and can reach me or my team.
+Caller: And you're absolutely sure that my PMI will be removed? Like there's no scenario where you come back and say oh actually you need an appraisal or something?
+Agent: Derek: Based on what I'm seeing on your account today — balance of $271,448, original value of $365,000, no late payments, loan is not a high-risk product — you meet every criterion for borrower-initiated cancellation using the original appraised value. No new appraisal is required in your situation. I am confident the cancellation will be confirmed.
+Caller: Okay. Because I want to tell you — if I get a letter in 30 days saying I need an appraisal, I'm filing a CFPB complaint. I want you to know that.
+Agent: Derek: That is absolutely your right and I would not discourage you from doing that. But I genuinely believe you won't need to. I'm going to make sure this is resolved correctly.
+Caller: Alright. I appreciate you being straight with me. Anita, you were helpful too, I'm not trying to be a jerk, I'm just very frustrated.
+Agent: No apology necessary, Mr. Fontaine. You've been waiting three months on something that should have been resolved in one call. Your frustration is completely valid.
+Caller: Okay. So Derek, you're sending an email today?
+Agent: Derek: Within 24 hours, yes. You'll see it at gfontaine at comcast dot net. Is there anything else I can address for you today?
+Caller: No. That covers it. Let's just get this done.
+Agent: Derek: Understood. I'm sorry again for the experience, Mr. Fontaine. We'll make this right. Have a good afternoon.
+Caller: Yeah. Thanks. Bye.
+Agent: Goodbye, Mr. Fontaine. Thank you for your patience.

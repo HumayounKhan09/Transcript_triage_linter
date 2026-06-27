@@ -1,0 +1,43 @@
+Agent: Thank you for calling Meridian Home Lending, this is Monique, how can I assist you today?
+Caller: Hi Monique, my name is Dale Hendricks. I recently came into a fairly significant amount of money — my aunt passed away and left me an inheritance — and I want to put a chunk of it toward my mortgage. I'm talking about making a large extra principal payment.
+Agent: First, I'm so sorry for your loss, Dale. It sounds like you're making a very thoughtful decision with your inheritance. I'd be happy to walk you through how a large principal payment works. Let me pull up your account first. Can I get your loan number?
+Caller: Sure, it's five nine zero three two seven.
+Agent: Five nine zero three two seven. And can I verify your full name and the last four of your Social?
+Caller: Dale Hendricks, and the last four is eight eight four one.
+Agent: And your property address?
+Caller: Thirty-three Chestnut Ridge Road, Roanoke, Virginia, two four oh one eight.
+Agent: Perfect, thank you Dale. Let me pull up your account here. Okay, I have you. So your current principal balance is two hundred and forty-six thousand, seven hundred and fifty-three dollars and forty-four cents. Your loan originated back in March of twenty-nineteen, it's a thirty-year fixed at four point three seven five percent. Your monthly payment is one thousand two hundred and eighty-nine dollars and sixteen cents. How much were you thinking of putting toward principal?
+Caller: I was thinking twenty-five thousand dollars. Is that something I can just do over the phone with a bank transfer, or do I have to mail a check?
+Agent: You can absolutely do it over the phone using our one-time ACH payment option. I'll walk you through that. But first, let me make sure you understand how this works and answer any questions you might have, because a lot of people have the same questions.
+Caller: Please, yeah. I want to make sure I understand what this actually does. Does it lower my monthly payment?
+Agent: Great question, and this is probably the most important thing to clarify upfront. On a standard fixed-rate mortgage like yours, making an extra principal payment does not automatically lower your monthly payment. Your required monthly payment stays the same — one thousand two hundred and eighty-nine dollars and sixteen cents — but the big benefit is that you are shortening the life of the loan.
+Caller: So the payment stays the same but I pay it off sooner?
+Agent: Exactly. When you make a twenty-five-thousand-dollar principal reduction, that money goes directly to reducing your balance. Because your balance is lower, each subsequent monthly payment allocates more toward principal and less toward interest, which accelerates your payoff date significantly.
+Caller: Okay, how much sooner are we talking? Like years?
+Agent: Let me give you a rough estimate. With your current balance of about two forty-six thousand at four point three seven five percent, you have — let me check your remaining term — you have about twenty-two years and nine months left on the loan as of today. If you apply twenty-five thousand dollars to principal today, you could expect to shave roughly three to four years off your loan term, bringing it down to somewhere around eighteen to nineteen years remaining. The exact number depends on how interest accrues, but that's the ballpark.
+Caller: Three to four years. That's actually really significant.
+Agent: It really is. And think about the interest savings — at your rate, over those extra years, you would have paid a substantial amount in interest. A rough estimate is that a twenty-five-thousand-dollar principal payment today could save you somewhere in the neighborhood of fifteen to twenty thousand dollars in total interest over the life of the loan.
+Caller: Wow. Okay. And does it change — like if I wanted to, could I request a new amortization schedule or something?
+Agent: Absolutely. After the payment posts, you can request an updated amortization schedule from us at no charge, and it will show you the new projected payoff date and the breakdown of principal versus interest for every remaining payment. I would strongly recommend doing that so you have it in writing and can see exactly where you stand.
+Caller: Okay good. Now the thing I'm a little worried about — I've heard of some loans having prepayment penalties. Does mine have one of those?
+Agent: That is a very smart question to ask, Dale. Let me check your loan terms right now. Okay, looking at your loan documents on file — your loan originated in March twenty-nineteen and it is a conventional fixed-rate mortgage. I can confirm that your loan does not carry a prepayment penalty. There is no restriction on how much extra principal you can pay down, and there is no fee for doing so. You are free to make this payment at no penalty whatsoever.
+Caller: Oh thank goodness. I was a little scared about that.
+Agent: It's very common to be concerned about it, but most conventional mortgages originated in the last fifteen years or so do not have prepayment penalties. Yours is clean on that front.
+Caller: Okay. And one more thing — if I make this payment, I want to make sure it actually goes to principal and not just counts as an early monthly payment. Because I've heard of that happening where they just apply it as your next month's payment.
+Agent: You are absolutely right to flag that, and it's an important distinction. When you make this payment, you'll need to designate it explicitly as a principal-only payment. When I process it over the phone, I will code it as a principal reduction payment, which means one hundred percent of the twenty-five thousand dollars goes directly to reducing your loan balance. It will not be applied as a regular monthly payment and it will not satisfy your August installment. You'll still need to make your regular monthly payment of one thousand two hundred and eighty-nine dollars and sixteen cents by your due date.
+Caller: Okay, that makes total sense. So this is on top of my regular payment, not instead of it.
+Agent: Exactly right. Two separate things. Your regular monthly payment is still due on the first, and this twenty-five thousand will be processed as a separate principal-only payment.
+Caller: Alright, I'm ready to go ahead and do it. How do we do this?
+Agent: Perfect. I'll need your bank's routing number and your checking account number to set up the one-time ACH transfer. Do you have that information handy?
+Caller: Yeah, hold on one second. Okay, routing number is zero six four two zero zero two three two. And the account number is one three eight eight four four seven zero nine.
+Agent: Got it. Routing zero six four two zero zero two three two, account ending in seven zero nine. And just to confirm, the amount is twenty-five thousand dollars, designated as principal-only?
+Caller: That's correct.
+Agent: Alright. I'm going to process this now. The payment may take one to two business days to post to your account. Once it posts, your new principal balance will reflect approximately two hundred and twenty-one thousand, seven hundred and fifty-three dollars, plus or minus any daily interest accrual. You'll also receive a payment confirmation by mail or email — which do you prefer?
+Caller: Email is fine. It's dale dot hendricks at gmail dot com.
+Agent: Perfect, I have that noted. Dale, I've submitted the principal-only payment request for twenty-five thousand dollars from your account ending in seven zero nine. You should see it post within one to two business days, and a confirmation will go to your email. After it posts, just call us back or log into your online account portal and you can request that updated amortization schedule.
+Caller: Great. I really appreciate you explaining all of that. I feel a lot better about the decision.
+Agent: It's a wonderful financial move, Dale. Your aunt would be proud. Is there anything else I can help you with today?
+Caller: No, I think that covers it. Thank you so much, Monique.
+Agent: Of course. I'm sorry again for your loss, and thank you for being a Meridian customer. You have a good day, Dale.
+Caller: Thanks. You too. Bye.
+Agent: Take care. Goodbye.

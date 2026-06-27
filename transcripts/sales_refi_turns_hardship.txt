@@ -1,0 +1,84 @@
+# Transcript: sales_refi_turns_hardship.txt
+
+Agent: Good afternoon, thank you for calling Pinnacle Mortgage Servicing. This is Priya speaking. How can I help you today?
+Caller: Hi Priya. Yeah, I'm calling because I want to look into refinancing. I've been hearing that rates have — well, I don't know, I guess I want to know what's going on with rates right now and whether it makes sense for me to refinance. My name is Dennis Hartwell.
+Agent: Hi Dennis, happy to help with that. Let me pull up your account and we can take a look. Can I get your loan number?
+Caller: Sure, it's 6-6-2-0-8-5.
+Agent: 662085. And the property address?
+Caller: 3316 Sycamore Ridge Road, Raleigh, North Carolina, 27609.
+Agent: And the last four of your Social Security?
+Caller: 4-4-7-7.
+Agent: Date of birth?
+Caller: September 28th, 1974.
+Agent: Perfect. I've got your account here. Give me just a moment to look at your current loan details.
+Caller: Sure.
+Agent: Okay, Dennis. I can see your loan here. Your current interest rate is 6.875%, your current monthly payment is $1,922.00, and your remaining balance is approximately $247,400. Is that consistent with what you're seeing on your statements?
+Caller: Yeah, that sounds about right. Yeah. So I guess I was wondering — what are rates doing right now? Like could I get a lower rate if I refinanced?
+Agent: So I want to be transparent with you — Pinnacle Mortgage Servicing is your loan servicer, which means we handle your payments, your escrow, and account management. We're not a direct lender for refinancing. If you were to refinance, you would go through a lender — which could be us or another institution — and they would give you a rate based on your credit score, the current market, and other factors.
+Caller: Oh, okay. I thought maybe you guys did that.
+Agent: Some servicers do have affiliated lending operations. What I can do is tell you that refinance rates in today's market are generally in the mid-to-upper six percent range for a thirty-year conventional loan, though rates can vary quite a bit based on your credit and loan-to-value ratio. Your current rate of 6.875% might not leave a lot of room for savings depending on where rates are when you apply.
+Caller: So it might not even make sense.
+Agent: It might not result in dramatic savings, no. The general rule of thumb is that refinancing makes sense if you can lower your rate by at least half a percentage point to one full percentage point, and if you plan to stay in the home long enough to recoup the closing costs. What are your goals for refinancing? Are you trying to lower the monthly payment, or maybe access equity, or both?
+Caller: Um. A little of both, honestly. I mean, the monthly payment — it's kind of tight right now. And I was thinking maybe if I could lower it even a little bit that would help.
+Agent: I see. Can I ask — is the tightness in your budget something that's been building for a while, or is it tied to something specific that's happened recently?
+Caller: I mean — I don't know. It's — it's kind of both, I guess. Things have been tight for a while but it's gotten worse recently.
+Agent: I understand. If you don't mind me asking — sometimes when customers mention the payment feeling tight, there are options we have as a servicer that might be relevant beyond just a refinance. Would you be open to me asking a couple of questions about your financial situation? I'm not trying to pry — I just want to make sure I point you in the right direction.
+Caller: I mean, sure. I guess.
+Agent: Thank you. So when you say things have gotten tighter recently — has there been a change in your income or your expenses that's made the mortgage harder to manage?
+Caller: Yeah, honestly. Yeah. I — I went from working full time to part time back in April. At my company. They cut a lot of people back, not full layoffs but reduced hours. So I went from about fifty-five hours a week on salary basically to thirty hours. And my pay dropped pretty significantly.
+Agent: I'm sorry to hear that, Dennis. That's a significant change. And you mentioned it was in April — so that's a couple of months ago. Have you been able to make your payments since April?
+Caller: I have. Yeah. I've kept up with it. But it's — I mean, it's been stressful. I had to dip into savings a couple of times. And my savings aren't — they're not huge. So I'm worried about what happens in another month or two if things don't change.
+Agent: That's really important that you're telling me this, and I want to acknowledge that — it takes courage to be honest about financial stress, especially when you called in asking about something different. Can I share some information with you about options that might be available to you directly through Pinnacle, outside of a refinance?
+Caller: Sure. Yeah, go ahead.
+Agent: Okay. What you're describing — a reduction in income due to reduced hours at your employer — qualifies as a financial hardship under the programs we have available. I want to walk you through a couple of options that might give you more immediate relief than a refinance would.
+Caller: Okay. What kind of options?
+Agent: The first is forbearance. This is a temporary arrangement where we would reduce or pause your mortgage payment for a set period — typically three to six months — to give your income time to stabilize. The payments that are paused don't go away, but they're deferred and you'd have options at the end of the period to catch up. It's designed exactly for situations like yours where the hardship is temporary.
+Caller: So I just — stop paying for a few months?
+Agent: You would pay a reduced amount, or in some cases nothing, depending on the hardship assistance program you qualify for. And importantly — it wouldn't automatically go to credit reporting as missed payments while you're in an active forbearance. Though I want to be clear that reporting details depend on your specific loan type and circumstances.
+Caller: What type is my loan?
+Agent: Let me check. Your loan is a conventional loan, investor is Freddie Mac. And under Freddie Mac guidelines, there are solid hardship protections. Let me look at what you'd specifically qualify for.
+Caller: I appreciate that. I didn't even know this was a thing, honestly. I called about refinancing and I didn't think to ask about this.
+Agent: That's very common. A lot of people assume refinancing is the only option and they don't know that servicers have a whole set of loss mitigation tools available. Refinancing actually requires going through underwriting, which means your reduced income could actually work against you right now.
+Caller: Wait — really?
+Agent: Yes. When you apply for a refinance, the lender is going to look at your current income. If your income has dropped significantly since April, you might not qualify for the same rate or even the same loan amount you have now. It could actually be a difficult time to refinance for that reason.
+Caller: Huh. I hadn't thought about that.
+Agent: It's worth being aware of. I'm not saying a refinance is completely off the table for the future — but right now, getting some breathing room through a hardship program might make more sense, and then revisiting a refinance once your income recovers.
+Caller: Yeah. Yeah, that makes sense. So — if I do this forbearance thing, what happens to my credit?
+Agent: So as I mentioned, while you're in active forbearance under the current Freddie Mac guidelines, your account should not be reported as delinquent to the credit bureaus. However, some lenders may see the forbearance status when they pull your mortgage history — it's visible in mortgage credit reports even if it doesn't show as a missed payment. I want to make sure you have the full picture.
+Caller: So if I tried to refinance after this, a lender might see it?
+Agent: They might. But here's the thing — if you fall behind on payments because you didn't get help, that is much more visible and much more damaging than a forbearance. The forbearance is designed to help you avoid delinquency in the first place.
+Caller: Right. Right, that's a good point.
+Agent: And there's another option that's worth mentioning alongside forbearance — a payment reduction plan. If your income is reduced but not completely gone, we might be able to structure something where you pay a reduced amount each month — say, 80% of your normal payment — while the remainder is tracked and addressed later. That's less disruptive than a full pause.
+Caller: Could we do something like that? Like, I'm not saying I can't pay anything. I'm saying I'm struggling to pay the full amount.
+Agent: That's exactly the kind of situation a partial payment plan is designed for. Your current payment is $1,922. If your income has dropped to roughly what level, if you don't mind sharing?
+Caller: I was making about $7,200 a month. Now I'm closer to $4,100, maybe $4,200.
+Agent: Okay. So at $4,100 a month, your mortgage at $1,922 is almost 47% of your gross income. That's quite high by most guidelines. Even getting it temporarily reduced to something like $1,500 or $1,600 during the hardship period could make a meaningful difference.
+Caller: It really would. Even a few hundred dollars a month would help right now.
+Agent: I understand. Dennis, here's what I'd like to do. I want to start a formal hardship intake with you today so we can get your file flagged for Loss Mitigation review. This is the first step toward any of these options. Can I do that now?
+Caller: Yeah. Absolutely.
+Agent: Great. I'm going to need some basic information from you. First — can you confirm, is the income reduction you're experiencing currently ongoing, or is there an expected date when your hours might be restored?
+Caller: My manager said they'd reassess in August. So potentially two months from now things could go back to normal. Or they might not. I just don't know.
+Agent: That uncertainty is understandable. For the hardship letter — which you'll need to provide — you can describe it as a reduction in income due to employer-mandated reduction in hours beginning April 2026 with an uncertain end date. That covers you either way.
+Caller: Okay. What documentation do I need?
+Agent: For a hardship review you'll need: a hardship letter in your own words explaining the situation, your two most recent pay stubs, your most recent two months of bank statements, and your last two federal tax returns. If you have anything from your employer — even an email confirming your hours were reduced — that's helpful but not required.
+Caller: I don't have anything official from them but I could probably get something.
+Agent: It's not required, but it does help. Your pay stubs will reflect the change in hours clearly.
+Caller: Okay. And then I submit all that and someone contacts me?
+Agent: Correct. Once we receive a complete package, a Loss Mitigation specialist is assigned to your file and they'll reach out within five to seven business days. Your case reference for today is PM-20260627-7741.
+Caller: PM-20260627-7741. Got it.
+Agent: And Dennis — I want to emphasize again that you did the right thing calling today. You're still current on your account, you have a legitimate hardship, and the programs we have available are designed exactly for this. You have options.
+Caller: Yeah, I feel a lot better after this conversation. I almost didn't say anything about the hours thing — I was just going to ask about refinancing and leave it at that.
+Agent: I'm glad you felt comfortable sharing. Sometimes the best help isn't what you called about.
+Caller: Yeah. Really. Okay, so I upload the documents to your website?
+Agent: Yes — PinnacleMortgageServ.com, click on Hardship Assistance and then Document Upload. Make sure to include your loan number with every document.
+Caller: Got it. And you'll send me something confirming what we talked about today?
+Agent: I'll note in your account that a summary of today's conversation should be sent to your email on file. Is your email d.hartwell74 at outlook dot com?
+Caller: Yeah, that's right.
+Agent: Perfect. You should receive that within two business days.
+Caller: Okay. Priya, thank you. This has been a really helpful conversation. I'm glad I called.
+Agent: It was my pleasure, Dennis. I genuinely hope things improve for you at work in August. And please don't wait too long to get those documents in — the sooner we have them, the sooner we can get you into review.
+Caller: I'll do it this weekend. Promise.
+Agent: That's great. Take care of yourself, and call us anytime if you have questions.
+Caller: Will do. Thank you.
+Agent: Thank you for calling Pinnacle Mortgage Servicing. Have a good afternoon.
+Caller: You too. Bye.

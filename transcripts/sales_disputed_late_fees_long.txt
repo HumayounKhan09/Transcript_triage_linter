@@ -1,0 +1,91 @@
+# Transcript: sales_disputed_late_fees_long.txt
+
+Agent: Thank you for calling Pinnacle Mortgage Servicing, this is Keisha. How may I assist you today?
+Caller: Yeah, hi. My name is Franklin Osei. O-S-E-I. And I am calling because there are late fees on my account that should not be there. And I've been trying to deal with this for a while and nobody seems to be able to fix it. So I'm hoping today we can actually get this resolved.
+Agent: Hi Franklin, I understand your frustration and I'm going to do my absolute best to help you resolve this today. Let me pull up your account first. Can I get your loan number?
+Caller: Yes. It's 3-8-1-6-4-7.
+Agent: Loan number 381647. And property address?
+Caller: 1204 Hendricks Avenue, Jacksonville, Florida, 32207.
+Agent: Thank you. And the last four of your Social?
+Caller: 9-0-4-5.
+Agent: Date of birth?
+Caller: November 22nd, 1969.
+Agent: Perfect, I've got your account. Give me just a moment to look at the payment history here. Please hold.
+Caller: Okay.
+Agent: Thank you for holding. Okay, Franklin, I can see your account. I do see there are several late charges posted to the account. Can you tell me what months you believe the fees were applied in error?
+Caller: Yes. I have it written down. December, January, February, March, April, and May. Six months of late fees. Each one is $87.50. So in total you've charged me $525.00 in late fees that I should not owe.
+Agent: Okay, six late fees at $87.50 each. Let me look at the payment history for each of those months. December first — your December payment was due December 1st, and we have a grace period through the 16th. I'm showing the payment of $2,780.00 was received on December 21st.
+Caller: That is not right.
+Agent: I understand you're disputing that. When did you mail the payment?
+Caller: I mailed the December payment on December 8th. First class mail. From the post office on Main Street near my office. I have been mailing my payments the same way for eleven years and never had a late fee in eleven years. And then suddenly in December it starts.
+Agent: I hear you, and your eleven-year history is absolutely something I can see here — it does show a long track record of on-time payments. Was there any change in December — a new address you might have sent it to, a new payee?
+Caller: No. Same address I've always sent it to. P.O. Box 77400, San Antonio, Texas.
+Agent: That is the correct address, yes. So you mailed on December 8th, and the payment wasn't received until December 21st. That's thirteen days for a first-class letter.
+Caller: Which is unusual but not unheard of. But here's what I'm saying — every single month for six months? That cannot be a coincidence.
+Agent: I understand your point. Let me go through each month. January — payment due January 1st, received January 20th. February — payment due February 1st, received February 19th. March — payment due March 1st, received March 22nd. April — payment due April 1st, received April 18th. May — payment due May 1st, received May 24th.
+Caller: See, that last one — May 24th — that is not right at all. I mailed that check on May 5th. That's nineteen days. That is not possible with the post office.
+Agent: I understand you're disputing that. Do you have any proof of mailing — certified mail receipts, anything of that nature?
+Caller: No, I don't. I have never had to send certified mail in eleven years. I shouldn't have to start now. This is a problem on your end, not mine.
+Agent: I understand that's your position, Franklin. I want to be thorough here. Is it possible that the checks were mailed on time but the bank experienced any delays? Were the checks clearing your bank account around when they were received here, or earlier?
+Caller: Oh. Well — that's a good question. Let me think. I do have my bank statements. I can look at those.
+Agent: That would actually be very helpful. If your bank shows the checks clearing significantly earlier than our received dates, that could indicate a processing delay on our end rather than a mailing delay.
+Caller: Can you hold on a second while I look that up? I have December right here.
+Agent: Take your time, Franklin.
+Caller: Okay. My December check — it was check number 2241 — it cleared my bank on December 18th.
+Agent: December 18th. And we show it received December 21st. So there's a three-day gap between when your bank processed it and when we posted it.
+Caller: And your payment is due by the 16th. So if it hit my bank on the 18th, it was already late by the time my bank processed it.
+Agent: Right, which is consistent with it being mailed on December 8th and arriving here after the 16th grace period. A December 8th mailing with a December 18th bank clearance is about ten days, which is longer than typical but not impossible.
+Caller: Okay. So that one — maybe that one is borderline. But let me check May. Okay — May check, number 2296, cleared my bank on May 14th.
+Agent: May 14th on your bank's end. We show it received May 24th. That's a ten-day gap between your bank processing it and our posting date.
+Caller: Ten days? That doesn't make any sense. A check does not travel through the banking system for ten days. That is impossible. Once a check hits your bank account, it should be posted within two to three business days at most.
+Agent: You raise a valid point. If your bank cleared that check on May 14th and we didn't post it until May 24th, that is an unusually long gap. I want to make note of this and look into it further.
+Caller: There's something wrong on your side. Something is wrong with how you're processing incoming mail payments. And I am getting charged for it.
+Agent: Franklin, I'm going to be honest with you — you're raising a legitimate concern, and I think this warrants a review. I want to be transparent that I have the ability to reverse late fees as a courtesy, but for a situation involving six months and $525, I need to be careful about the process. I can reverse a limited number of fees on my level, but for the full amount I may need to involve a supervisor.
+Caller: Then please involve a supervisor. I've been very patient but I've been calling about this on and off for months and nothing has been resolved. I want this fixed today.
+Agent: I completely understand. Let me pull in my supervisor. Please hold for just a moment — I'll be right back with you.
+Caller: Fine.
+Agent: Franklin, thank you for holding. I have my supervisor, Tom, on the line with me. Tom, I've briefed him on the situation. Tom, do you want to go ahead?
+Supervisor (Tom): Hi Franklin, this is Tom, I'm the senior account manager here. Keisha has filled me in on what's going on and I appreciate your patience. Can you give me just a moment to look at your account alongside the notes she's made?
+Caller: Sure.
+Supervisor (Tom): Okay. So I'm looking at the six late charges across December through May. And I'm also looking at the note Keisha made about the May check clearing your bank on the 14th and us posting on the 24th. I'll be honest, Franklin — that gap is concerning. That is not typical of our processing timeline.
+Caller: No, it's not. And I've been saying this for months.
+Supervisor (Tom): I hear you. Let me look at the other months too. For March — do you have your bank statement showing when that check cleared?
+Caller: Hang on. March — check 2278 — cleared March 19th.
+Supervisor (Tom): We posted it March 22nd. Three days. That's within the normal range.
+Caller: But it still generated a late fee because the 16th had already passed.
+Supervisor (Tom): Correct. Now April — do you have that one?
+Caller: April — check 2285 — cleared my bank April 16th.
+Supervisor (Tom): We posted April 18th. Two days. That's a normal processing time.
+Caller: Okay but April 16th — that's the last day of my grace period. And I mailed the check on April 5th. Eleven days in the mail is not right.
+Supervisor (Tom): I agree that a consistent pattern of late arrival is suspicious. Franklin, here's where I am on this. For the May payment specifically, I have a clear processing discrepancy — ten days between your bank clearing and our posting is something we should not be seeing. I'm going to reverse that fee without question. For the other five months, I want to be honest — based on the bank clearance dates, the payments were arriving here after the grace period, and in most of those months the gap between bank clearance and our posting was within normal range. That suggests the issue may have been in the mail transit rather than our processing.
+Caller: But six months in a row after eleven years of on-time payments? You don't find that suspicious?
+Supervisor (Tom): I do find it unusual, yes. And I'm not dismissing what you're saying.
+Caller: Because I'll be very direct with you, Tom. If you can't fix this today, I'm going to file a complaint with the Better Business Bureau and I'm going to contact my state's Attorney General's office because I believe this is a systemic problem with how you're posting mailed payments and you're profiting off of it.
+Supervisor (Tom): I hear you, Franklin, and I take that seriously. I don't want to be in a position where you feel you have to go that route. Let me do this — I'm going to reverse three of the six late fees, which is $262.50, based on the unusual pattern and your eleven-year clean payment history. And I'm going to flag your account for a payment processing review, which will look at whether there are any systematic delays in our mail processing during the December through May time frame.
+Caller: Three out of six is not good enough. These are all wrong. Every single one of them.
+Supervisor (Tom): I understand that's your position. My position is that based on what I can document right now — the May payment processing delay — I can clearly justify reversing that one. The others are more ambiguous and I have to go by the records we have. But I want to work with you here. Let me go to four. I'll reverse four of the six, which is $350. And I'll escalate the account for review.
+Caller: I want all six reversed.
+Supervisor (Tom): Franklin, I'm going to be honest with you — I'm not in a position to reverse all six without additional documentation. If you can provide bank statements showing significant gaps between clearance and our posting for each month, I can take that to our payment research team and they would be empowered to issue the full credit.
+Caller: So if I send in my bank statements —
+Supervisor (Tom): Yes. If you send them all in — December through May — to our customer dispute address, and they show patterns similar to what we saw in May, the research team has full authority to credit all remaining fees.
+Caller: What is that address?
+Supervisor (Tom): It's Pinnacle Mortgage Servicing, Attn: Payment Disputes, P.O. Box 82200, San Antonio, Texas 78282. Or you can upload documents through the portal on our website.
+Caller: And what is the turnaround on that?
+Supervisor (Tom): Research disputes typically take five to ten business days once we receive a complete package with your loan number and the bank statements.
+Caller: Okay. So you'll reverse four now, and then I send in the statements, and if they show what I believe they show, I get the other two back?
+Supervisor (Tom): Correct. That's what I'm proposing.
+Caller: And the four that are reversed now — when does that credit appear?
+Supervisor (Tom): I'll process the reversal on my end right now. It should appear on your account within one to two business days.
+Caller: Alright. And the BBB complaint — I will hold off on filing that while this review is going on. But if I don't hear anything back in two weeks, I'm filing it.
+Supervisor (Tom): I think that's a very reasonable position, Franklin. And I'd encourage you to call back if you haven't received any update within ten business days. Reference today's call — your case reference number is PM-20260627-5504.
+Caller: PM-20260627-5504. Got it.
+Supervisor (Tom): Is there anything else I can help you with today?
+Caller: No. I mean, I'm not happy about only getting four of the six reversed right now, but I understand the process you're explaining. I'll send in the bank statements.
+Supervisor (Tom): I appreciate your patience and your willingness to work through the process. And Franklin — eleven years of clean payment history does mean something to us. We value long-term customers and I want to see this resolved in your favor if the documentation supports it.
+Caller: I appreciate that. Okay. I'll send those statements in.
+Supervisor (Tom): Thank you, Franklin. Keisha, is there anything you want to add?
+Agent: Just that I've documented everything in the notes on your account, Franklin, so the research team will have full context when they receive your bank statements. You won't have to start from scratch explaining it.
+Caller: Good. Okay. Thank you both.
+Supervisor (Tom): Thank you for calling, Franklin. Have a good day.
+Agent: Take care, Franklin. Thank you for your patience.
+Caller: Alright. Goodbye.

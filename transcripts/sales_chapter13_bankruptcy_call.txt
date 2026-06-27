@@ -1,0 +1,63 @@
+# Transcript: sales_chapter13_bankruptcy_call.txt
+
+Agent: Thank you for calling Cornerstone Mortgage Servicing, this is Marcus, how can I help you today?
+Caller: Hi Marcus, my name is Patricia Nguyen. My loan number is four seven eight two one nine. I'm calling because my attorney told me I need to contact my mortgage servicer and let you know that I've filed for Chapter 13 bankruptcy.
+Agent: Thank you for calling us, Patricia. I'm sorry to hear you're going through this — I know it can be a really stressful time. Let me pull up your account. Can you verify your full name and the property address for me?
+Caller: Patricia Nguyen, N-G-U-Y-E-N. The property is one forty-four Birchwood Lane, Decatur, Georgia, three zero zero three two.
+Agent: And can you verify the last four of your Social Security number?
+Caller: Six seven one four.
+Agent: Thank you, Patricia. I have your account here. Loan number four seven eight two one nine, and I can see this is a thirty-year fixed-rate mortgage originated in March of two thousand nineteen. Your current principal balance shows four hundred and twelve thousand dollars. Before I go any further — can I ask, has the bankruptcy petition already been filed with the court, or are you in the process of filing?
+Caller: It was filed. My attorney filed it on Monday. June twenty-third.
+Agent: Okay. And do you have a case number from the bankruptcy court?
+Caller: Yes, I wrote it down. It's two four dash B K dash one five seven seven zero, Northern District of Georgia, Atlanta Division.
+Agent: Let me write that down. Two four dash B K dash one five seven seven zero, Northern District of Georgia, Atlanta Division. Filed June twenty-third, two thousand twenty-four. Is that right?
+Caller: Yes.
+Agent: Okay, Patricia, thank you. So the first thing I want to tell you is that as soon as a Chapter 13 petition is filed, something called the automatic stay goes into effect. That means we are legally prohibited from taking any collection actions, contacting you about the debt outside of this type of informational call, or initiating or continuing any foreclosure action. So if there was any foreclosure process underway, that is paused.
+Caller: There wasn't a foreclosure yet but we were behind two months. That's part of why we filed.
+Agent: Understood. Okay, so let me explain how Chapter 13 works in relation to your mortgage, because it's a little different from Chapter 7, and I want to make sure you have the right picture. Can I take a few minutes to walk you through this?
+Caller: Yes please. My attorney explained some of it but I want to hear it from the bank's side too.
+Agent: Of course. So Chapter 13 is sometimes called the reorganization bankruptcy or the wage earner's plan. Unlike Chapter 7 where debts can be discharged, Chapter 13 lets you propose a repayment plan — typically three to five years — to catch up on what you owe. For a mortgage specifically, the goal is usually to keep the home and cure, meaning repay, the arrears, which is the amount you're behind on.
+Caller: Right. That's exactly what we want. We want to keep the house.
+Agent: Good. So here's how that typically works. The arrears — in your case, the two missed payments — get rolled into your Chapter 13 repayment plan and paid back over the life of the plan, usually three to five years, through your Chapter 13 trustee. At the same time, going forward, you are required to resume making your regular monthly mortgage payments directly to us, starting with the first payment due after the date of filing.
+Caller: Wait, so I still have to pay my mortgage on top of the Chapter 13 plan payment?
+Agent: That's correct. Your regular ongoing mortgage payment is what's called a post-petition obligation, meaning it comes after the filing date, and those you pay directly to us — not through the trustee. The trustee handles the pre-petition arrears, the amount you were behind before you filed. It's two separate payment streams.
+Caller: Okay. What is my regular monthly payment amount?
+Agent: Looking at your account, your monthly mortgage payment is two thousand one hundred and forty-four dollars. That includes principal and interest of one thousand seven hundred and eighty dollars, plus your escrow for taxes and insurance which totals three hundred and sixty-four dollars.
+Caller: And we missed June and July?
+Agent: Let me check the payment history. I show a missed payment for May and June of this year, so the arrears as of today's date would be the two payments totaling four thousand two hundred and eighty-eight dollars, plus any applicable late fees. The late fee on your loan is four percent of the overdue principal and interest payment, so that's four percent of seventeen hundred and eighty dollars, which is seventy-one dollars and twenty cents per missed payment. So total arrears are approximately four thousand four hundred and thirty dollars and forty cents.
+Caller: And that's what my attorney would include in the bankruptcy plan?
+Agent: That's correct. Your attorney will file what's called a proof of claim on your behalf, or we may file our own proof of claim with the bankruptcy court, documenting the arrears amount. The trustee will then pay that amount to us over the course of the plan, typically thirty-six to sixty months. Your attorney will know more about the specific plan terms.
+Caller: And during that time, as long as I keep making my regular mortgage payment, you won't foreclose?
+Agent: As long as you are current on post-petition payments — meaning payments due after the filing date — and your plan is confirmed by the court and you're making your trustee payments, we cannot initiate foreclosure. However, if you miss post-petition payments, the automatic stay does not protect you indefinitely. We would have the ability to file a motion for relief from the automatic stay with the bankruptcy court, which could allow us to proceed with foreclosure if the court grants it. That's why it's critical that going forward, those direct payments to us come in on time every month.
+Caller: My attorney said the same thing. I just needed to hear it again.
+Agent: It's very important. When is your next payment due?
+Caller: It would normally be the first of the month. So July first.
+Agent: Right. So your July payment of two thousand one hundred and forty-four dollars would be your first post-petition payment, and that needs to come to us directly. Will you be able to make that payment?
+Caller: Yes. That's actually why we filed when we did — we wanted to get the automatic stay in place and then we were going to start catching up. My husband got his job back and we have income coming in now.
+Agent: That's really good news, Patricia. I'm glad things are stabilizing for you. I do want to mention a few procedural things on our end. We will be notified of the bankruptcy filing through the court's PACER system and also through notice sent to our bankruptcy department. Once we receive official notice, your account will be coded in our system as bankruptcy active, and your assigned servicer contact will change to our bankruptcy department rather than general customer service. Going forward for any questions about your account, you'll want to call our bankruptcy servicing line at eight hundred, five five five, four four nine seven. They have access to all the same information but they specialize in handling bankruptcy accounts.
+Caller: Okay. Can I write that down? Eight hundred, five five five, four four nine seven?
+Agent: That's correct. And I can send you a written confirmation of this call and that phone number if you'd like — do you have an email address on file?
+Caller: I think it's patricia dot nguyen at yahoo dot com.
+Agent: Let me check what we have. We show patricia nguyen — all one word — at hotmail dot com. Would you like to update that?
+Caller: Oh, that's an old one. Yes, please update it to patricia dot nguyen at yahoo dot com.
+Agent: Patricia dot Nguyen at yahoo dot com. Got it, I've updated that. Now, I also want to let you know — your attorney will likely be reaching out to our legal department directly. We have a process where once we have your case number and the attorney's contact information, any formal correspondence about the bankruptcy should go through your attorney. Can you give me your attorney's name and contact?
+Caller: Her name is Maria Castellano, Castellano Law Group, her number is four oh four, five five five, eight eight two one.
+Agent: Four oh four, five five five, eight eight two one, attorney Maria Castellano, Castellano Law Group. I've noted that. Patricia, I should also mention — during the bankruptcy, we are limited in what we can discuss with you directly regarding the debt. Many communications may need to go through your attorney. Your attorney may request a single point of contact at our institution, which we are required to provide under the mortgage servicing rules.
+Caller: Yes, she mentioned she would be doing that.
+Agent: Perfect. She can send that request to our legal servicing address at Cornerstone Mortgage, legal correspondence, P.O. Box three three seven seven, Columbus, Ohio, four three two one six.
+Caller: Okay, I'll pass that along to her.
+Agent: One more thing I want to make sure you understand. During the bankruptcy, you'll still receive regular account statements from us — that's required by law. Those statements are informational only and are not attempts to collect a debt from you personally. They'll have a disclosure on them noting the account is in bankruptcy. You don't need to be alarmed if you see a statement arrive.
+Caller: Okay, good. My neighbor said she stopped getting statements during her bankruptcy and didn't know she was behind. I didn't want that to happen.
+Agent: That was actually a rule change a few years ago — servicers are now required to send statements even during active bankruptcy, specifically to prevent situations like your neighbor's. So you'll stay informed.
+Caller: Good. And what about my escrow? Will that keep being funded normally?
+Agent: Yes. Escrow continues to be collected as part of your regular monthly payment. We'll continue to pay your property taxes and insurance out of the escrow account as they come due. You should make sure your homeowner's insurance policy stays current — if it lapses we're required to force-place coverage, which is much more expensive and would increase your escrow payment.
+Caller: My insurance is paid through February. I'll make sure to renew it.
+Agent: Great. Is there anything else on your mind, Patricia? I know there's a lot of information here.
+Caller: Yeah, one more thing. What about the credit reporting? Is this going to be on my credit report?
+Agent: I do need to be honest with you — yes, the bankruptcy itself will appear on your credit report, typically for seven years for Chapter 13. And the missed payments that occurred before the filing are also reportable. During the active bankruptcy, we may report the account status as included in bankruptcy. However, if you successfully complete your Chapter 13 plan — typically three to five years — you receive a discharge of the remaining unsecured debt, and many people see their credit scores begin recovering during and after the plan because they've demonstrated consistent payment. It's not the end of your credit history, just a significant event that takes time to recover from.
+Caller: That's kind of what my attorney said. Okay. I think that covers everything I needed to know.
+Agent: You've been great to work with, Patricia, and I can tell you've been thorough and prepared for this call. Again, the most important things are: resume your direct mortgage payments starting July first, two thousand one hundred and forty-four dollars to us directly; keep your bankruptcy plan payments current through the trustee; and reach out to our bankruptcy department at eight hundred five five five four four nine seven for any future questions. And tell Attorney Castellano to send that single point of contact request to our legal correspondence address.
+Caller: I'll do all of that. Thank you so much, Marcus. This is a scary situation and you made it feel a little less overwhelming.
+Agent: I'm really glad I could help. You're doing the right thing by being proactive. Best of luck to you and your family.
+Caller: Thank you. Have a good day.
+Agent: You too, Patricia. Take care.

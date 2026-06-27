@@ -1,0 +1,31 @@
+Agent: Thank you for calling Meridian Home Lending, this is Kevin, how can I help you today?
+Caller: Hi Kevin, I just need to update my phone number on my account. I got a new cell number a few weeks ago and I keep getting notices that go to the old one.
+Agent: Sure, I can take care of that for you. Let me pull up your account first. Can I get your full name?
+Caller: It's Gerald Fitch. G-E-R-A-L-D F-I-T-C-H.
+Agent: Thank you, Gerald. And do you have your loan number available?
+Caller: I think so, let me look. Okay yeah, it's eight three one five zero four.
+Agent: Got it, eight three one five zero four. I'll also need to verify your identity with a couple of quick questions. Can you give me the last four of your Social?
+Caller: Yeah, it's two two seven nine.
+Agent: And the property address on the account?
+Caller: Eight oh one Sandpiper Court, Smyrna, Tennessee, three seven one six seven.
+Agent: Perfect, everything checks out. Alright Gerald, I can see your account here. I do see we have a phone number on file — it looks like it's a number ending in four four one two. Is that the old number you're referring to?
+Caller: Yes, that's the old one. I don't even have that number anymore. My new cell is six one five, five five five, oh three eight eight.
+Agent: Got it. Six one five, five five five, zero three eight eight. And is this a cell phone?
+Caller: Yes, it's my cell. That's the best number for me now.
+Agent: Great. And do you have a secondary or home phone number you'd like to add or update as well, or just the one?
+Caller: Just the one. That's the only number I use.
+Agent: Understood. Before I make the update, I do need to let you know that we may occasionally contact you at this number regarding your account, including payment reminders, and in the future you may receive offers or information about products and services. Would you like to be enrolled in text message alerts as well? We can send you payment confirmation texts and due date reminders.
+Caller: Oh, that actually sounds useful. Sure, go ahead and add that.
+Agent: Great. I'll note that you're opting in to SMS notifications at that number. Okay, so I'm updating your primary phone number from the number ending in four four one two to six one five, five five five, zero three eight eight, and I'm adding SMS notifications to that number. Let me process that now.
+Caller: Sounds good.
+Agent: Alright, that's been updated in our system. You should start receiving any account communications at your new number going forward. Is there anything else I can help you with today, Gerald?
+Caller: Actually, yeah — while I have you, can you tell me what my payoff amount would be? Just ballpark.
+Agent: Of course. Let me pull that up. So your current principal balance as of today is one hundred and sixty-seven thousand, eight hundred and twelve dollars and ninety cents. The official payoff amount would also include any accrued daily interest up to your payoff date, plus any outstanding fees. If you'd like, I can generate a formal payoff quote — it would be good through a specific date, say thirty days out, and you'd receive it in writing.
+Caller: Nah, I don't need it in writing, I'm not actually paying it off. I was just curious where I stood.
+Agent: Totally understandable. So just under one sixty-eight thousand. You're in good standing on the account too, no issues.
+Caller: Good to know. Alright, that's all I needed. Thanks for the quick help.
+Agent: Absolutely, happy to help. So just to confirm — we updated your phone number to six one five, five five five, zero three eight eight and enrolled you in text notifications. You're all set.
+Caller: Yep, perfect. Thanks Kevin.
+Agent: My pleasure. You have a great day, Gerald.
+Caller: You too. Bye.
+Agent: Bye now.

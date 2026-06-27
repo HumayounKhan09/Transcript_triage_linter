@@ -1,0 +1,87 @@
+# Transcript: sales_loan_mod_job_loss.txt
+
+Agent: Thank you for calling Pinnacle Mortgage Servicing, this is David. How can I help you today?
+Caller: Hi, David. My name is Renee Castillo. And I'm on the call with my husband, Eddie. We're on speakerphone right now because we both need to be part of this conversation.
+Agent: Absolutely, that's perfectly fine. Good morning to both of you. Before we get into anything, I do need to verify the account. Can I get the loan number, please?
+Caller: Yes, it's 5-5-8-3-0-4.
+Agent: Loan number 558304. And can I get the property address?
+Caller: 8822 Maplecrest Lane, Tucson, Arizona. 85710.
+Agent: Thank you. And the last four of the primary borrower's Social Security number?
+Caller: That's me, Renee. It's 6-6-1-4.
+Agent: And date of birth for the primary borrower?
+Caller: July 3rd, 1978.
+Agent: Perfect. I've pulled up the account. I can see you're currently — let me just take a look here — your account is current, your last payment of $2,445.00 was received on June 2nd. What can I help you with today, Renee?
+Caller: Okay. So here's the situation. Eddie lost his job about three months ago. He was a logistics coordinator at a distribution company and they had layoffs — it wasn't a performance thing, it was a big round of layoffs — and we've been managing since then but it's getting really tight. And I've been reading online about forbearance and loan modifications and I guess I just want to know what our options are. Because we want to keep our house.
+Agent: Renee, Eddie, first let me say I'm sorry to hear about the job loss — I know that's an incredibly stressful situation, and you're doing exactly the right thing by calling us proactively while you're still current on the account. That puts you in a much better position than a lot of people who wait. Let me explain the different options available to you and then we can figure out what makes the most sense. Does that work?
+Caller: Yes, please.
+Husband (background): Yeah, go ahead.
+Agent: Great. So the two main categories of assistance are forbearance and loan modification. They're different tools and they serve different purposes. Can I walk through each one?
+Caller: Yes.
+Agent: Okay. Forbearance is essentially a temporary pause or reduction in your mortgage payments. It's not forgiveness — the payments that are paused are still owed — but it gives you breathing room for a short period, typically three to six months, sometimes up to twelve months depending on circumstances. During a forbearance period you would make reduced payments or in some cases no payment at all, and at the end of the forbearance we'd work with you on a plan to repay the amounts that were paused.
+Caller: Okay. And loan modification?
+Agent: Loan modification is a more permanent change to the terms of your loan. That could mean a reduction in your interest rate, an extension of your loan term, or in some cases adding the past-due balance to the back end of the loan. It's typically for people who have resolved the hardship or are about to resolve it and need a permanent adjustment to make the payment sustainable going forward.
+Eddie: Can I ask something? If we do the forbearance — what happens at the end? Like do they expect us to pay everything at once?
+Agent: Great question, Eddie. The repayment terms at the end of forbearance depend on the type of forbearance and your loan type. For example, if you have an FHA or conventional loan backed by Fannie Mae or Freddie Mac, there are options at the end of forbearance where you would not have to pay everything in one lump sum. You could have a repayment plan where you pay a little extra each month, or in many cases you can apply for a loan modification to restructure the deferred amount. Let me check what type of loan you have.
+Caller: Okay.
+Agent: Bear with me just a moment. Okay — your loan is a conventional loan, and it is owned by Fannie Mae. That's actually very helpful because Fannie Mae has specific guidelines around forbearance and loss mitigation that give us quite a few tools. With a Fannie Mae loan, at the end of forbearance you would not be required to make a lump-sum payment. You'd have several options — repayment plan, loan modification, or a payment deferral where the missed amounts are moved to the end of the loan.
+Caller: A payment deferral?
+Agent: Yes. A deferral means the paused payments are essentially moved to the very end of your loan term — they don't accrue additional interest and you don't pay them back until the loan matures or you sell or refinance. It's one of the better options for people who just need a temporary bridge.
+Eddie: That sounds pretty good actually.
+Caller: Yeah, that does sound good. How do we apply for that?
+Agent: So the way it works is we first need to establish the forbearance, and then at the end of the forbearance period we look at your situation and determine the best exit option. You can't go directly into a deferral right now — you have to go through the forbearance first. Does that make sense?
+Caller: Yes, that makes sense.
+Agent: Okay. Now, I do need to collect some information to start the hardship assistance process. I want to be transparent — there's going to be some documentation required. Are you ready to go through what you'll need to provide?
+Caller: Yes, go ahead.
+Agent: Alright. The first thing we'll need is a hardship letter or statement. This doesn't have to be formal — it can be a simple written explanation of what happened, when it happened, and how it's impacted your ability to make your mortgage payment. Loss of employment definitely qualifies as a hardship.
+Caller: Okay, so just like a letter explaining that Eddie got laid off?
+Agent: Exactly. Include the date of the layoff, his employer's name, and why it affected your household income. That's the hardship letter.
+Eddie: Do I need to get something from my old employer too?
+Agent: We will need documentation of the income loss. That typically means a termination letter or a separation notice from the employer, or your most recent pay stubs showing the reduction in income. Do you have a termination letter from when Eddie was laid off?
+Eddie: I have a letter. It was like a formal notice from HR. It says the effective date and everything.
+Agent: That's perfect. That's exactly what we need.
+Caller: Okay, what else?
+Agent: Next, we'll need your most recent income documentation. That means paystubs for any income that continues — Renee, are you employed?
+Caller: Yes, I work at a dental office. I'm a dental hygienist.
+Agent: Great. We'll need your two most recent pay stubs. And if Eddie is receiving unemployment, we'll need documentation of that as well — a benefit determination letter or a bank statement showing the deposits.
+Eddie: I am getting unemployment. I have the letter from the state that shows how much I get each week.
+Agent: That counts as income and we'll need to include it. Okay, continuing — we'll need your two most recent federal tax returns. And your two most recent bank statements for all accounts, showing your income and expenses. And finally, a completed borrower assistance form, which I'll tell you more about in a moment.
+Caller: Okay, that's — that's a lot. Can you go through that again a little more slowly?
+Agent: Of course. Let me list it step by step. One: a signed hardship letter explaining the job loss. Two: Eddie's termination or layoff notice from his employer. Three: Renee's two most recent pay stubs. Four: Eddie's unemployment benefit documentation. Five: your two most recent federal tax returns — that would be 2023 and 2024. Six: two months of bank statements for all accounts. And seven: a completed borrower assistance form, which you can find on our website or we can mail to you.
+Caller: Can you email us the form? Or can we download it online?
+Agent: Yes. If you go to PinnacleMortgageServ.com and click on the Loss Mitigation section, you'll find the Borrower Assistance Form available for download. You can also call back and request that we mail it. Once you complete it, you can upload everything through the document portal on our website, or fax it to 1-888-550-4422.
+Caller: Okay. And is there a deadline for getting all this in?
+Agent: There's no hard deadline on your end right now because you're still current — and that's actually good. But I do want to be transparent: the more quickly you get the documents in, the faster we can get your account into review. Typically once we have a complete package, a decision can take fourteen to thirty business days.
+Eddie: Thirty business days is like six weeks.
+Agent: It can be, yes. That's why I recommend getting the package together as soon as possible. And while the review is happening, your account won't be reported as delinquent as long as you're in active review with us.
+Caller: So during the — the forbearance period, will it affect our credit?
+Agent: I want to be transparent about this because it's a common question. During an active forbearance, the way the account is reported to the credit bureaus depends on several factors. Typically, if you are current when you enter forbearance, the account should be reported as current during the forbearance period. But I do want you to speak to our Loss Mitigation team directly to confirm how this will impact your credit, as that department handles those specifics.
+Caller: Okay. So you're not in the Loss Mitigation department?
+Agent: I'm in Mortgage Servicing and I can start the intake process and get your file flagged for Loss Mitigation review. But a dedicated Loss Mitigation specialist would be handling your case through the review. I can transfer you to that team today if you'd like.
+Caller: Maybe. Before we do that — can you tell us what the payment would be if we did a loan modification? Like what would our payment look like?
+Agent: That's really a question the Loss Mitigation team would be able to answer once they review your financials, because the modification terms depend on your income, your current balance, your interest rate, and the investor guidelines. I can tell you that the goal of a modification is typically to bring your payment to an affordable level based on your household income — often targeting a percentage of your gross monthly income.
+Eddie: What percentage?
+Agent: The common benchmark is around 31% of gross monthly income for the front-end housing payment, though this can vary. So if I can ask — and you don't have to share this, but it helps me give you a sense of what might be possible — what is your current combined monthly income including Renee's salary and Eddie's unemployment?
+Caller: Um — Eddie, is that okay to say?
+Eddie: Yeah, go ahead.
+Caller: I make about $4,800 a month before taxes. And Eddie's unemployment is about $1,650 a month. So together that's like sixty-four fifty a month?
+Agent: So approximately $6,450 per month gross. At that income level, 31% would be about $1,999 per month for the housing payment. Your current payment is $2,445, so there is a gap there that a modification could potentially address, depending on how the numbers work out.
+Caller: So our payment could potentially go down to around two thousand?
+Agent: That's a possible target, but I want to be careful — I don't want to overpromise. The actual modification terms are determined through a formal process and the Loss Mitigation team makes that determination. But based on the income you've described, it does sound like you may have a case to make.
+Eddie: Okay. What do we need to do next?
+Agent: Here's what I'd recommend. Number one — I'll flag your account for Loss Mitigation review right now, and I'll note in the file that you called today and discussed forbearance options. Number two — gather those seven documents I listed. Number three — submit them through the portal or by fax as soon as possible. Number four — after they receive your package, a Loss Mitigation specialist will be assigned to your file and will reach out to you.
+Caller: Okay. And they'll call us?
+Agent: Yes, you'll be contacted by a dedicated point of contact once your file is assigned. They'll walk you through the next steps specific to your situation.
+Caller: David, one more question. If we don't get approved for a modification or forbearance — what happens?
+Agent: I understand why you're asking that. If for some reason assistance isn't available, we would still work with you to explore all other options. But given that you're current, you have a documented hardship, and you have income — I think it's premature to worry about that. You're in a much better position than many people who contact us in hardship situations.
+Caller: Okay. That makes me feel better.
+Eddie: Yeah, thank you. This is a lot of information but it's helpful.
+Agent: I'm glad it's helpful. Before I let you go, let me give you a reference number for today's call. Your case reference is PM-20260627-3812. Please write that down in case you need to reference today's conversation.
+Caller: PM-20260627-3812?
+Agent: That's correct. And my name is David — if you call back and want to speak with me specifically, you can ask for David in Mortgage Servicing, though I can't guarantee I'll be the one who picks up.
+Caller: Okay, David. Thank you so much. You've been really helpful and patient with us.
+Eddie: Yeah, appreciate it man.
+Agent: It's my pleasure. I genuinely hope things turn around quickly for you both. You've done the right thing by calling early. Is there anything else before we wrap up?
+Caller: No, I think we have everything we need to get started.
+Agent: Wonderful. Thank you for calling Pinnacle Mortgage Servicing and have a good rest of your day.
+Caller: You too, thanks.
+Agent: Take care.
