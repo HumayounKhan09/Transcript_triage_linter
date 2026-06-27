@@ -70,8 +70,7 @@ class TriagePipeline:
         This grows quickly for small batches (where adding a worker helps a
         lot) and flattens out for large ones (where we hit the CPU ceiling).
         """
-        cpu = os.cpu_count() or 4
-        return min(cpu, math.ceil(math.sqrt(batch_size)))
+        return math.ceil(math.sqrt(batch_size))
 
     def _get_pool(self, batch_size: int) -> PipelinePool:
         optimal = self._optimal_workers(batch_size)
