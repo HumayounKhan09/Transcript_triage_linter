@@ -78,19 +78,24 @@ python cli.py --batch --format csv
 python cli.py --list
 ```
 
-### Persistent Warm Pool (high-throughput)
+### Programmatic API
 
-Use `PipelinePool` when processing many batches — worker processes are initialized once and reused, avoiding repeated engine construction overhead.
+`TriagePipeline` picks the right strategy automatically:
 
 ```python
-from engines.pipelinePool import PipelinePool
+from engines.triageResult import TriagePipeline
 import glob
 
 files = glob.glob("transcripts/*.txt")
 
-with PipelinePool(workers=4) as pool:
-    results = pool.process_batch(files[:100])   # warm after first call
-    results2 = pool.process_batch(files[100:])  # ~40ms/batch sustained
+with TriagePipeline() as pipeline:
+    # < 8 files → runs sequentially
+    result = pipeline.process_single("transcripts/synth_short_001.txt")
+
+    # ≥ 8 files → spins up the warm pool on first call, keeps it alive
+    results = pipeline.process_batch(files[:100])
+    results2 = pipeline.process_batch(files[100:])  # pool already warm
+# pool shut down automatically on context exit
 ```
 
 ### Run Benchmark
@@ -208,7 +213,7 @@ Every transcript uses `Agent:` / `Caller:` speaker labels only, includes identit
 | Cold parallel | ~1.5ms/transcript | `ProcessPoolExecutor`, fresh workers |
 | Warm pool (steady state) | ~1.2ms/transcript | `PipelinePool`, workers pre-initialized |
 
-Parallel processing kicks in automatically for batches ≥ 8 files via `TriagePipeline.process_batch()`. For sustained batch workloads, use `PipelinePool` directly to amortize worker startup cost across multiple calls.
+Parallel processing and warm pool management are handled automatically by `TriagePipeline.process_batch()` — small batches run sequentially, large batches use the persistent warm pool with no extra setup required.
 
 ## Testing
 
