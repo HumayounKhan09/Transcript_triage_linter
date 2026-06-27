@@ -1,0 +1,41 @@
+Agent: Thank you for calling Summit Crest Mortgage, this is Beth. How can I help you today?
+Caller: Hi Beth. My name is Gloria Petersen. I just received an escrow analysis in the mail and my monthly payment is going up by $187 a month. I was shocked. I have not made any changes to my loan and I wasn't expecting this. I need to understand why this is happening.
+Agent: Hi Ms. Petersen. I completely understand how jarring that can be, and I want to make sure you have a full explanation. An increase of that size is typically tied to either a property tax reassessment or a significant change in insurance premiums — or sometimes both. Let me pull up your account and look at the specific numbers. Can I get your loan number or property address?
+Caller: It's 4771 Maple Crest Drive, Scottsdale, Arizona 85251. Loan number is SCM-772-41-0089.
+Agent: And your full name for verification?
+Caller: Gloria Jean Petersen.
+Agent: Last four of your Social?
+Caller: 3340.
+Agent: Thank you. I have your account. Let me look at your new escrow analysis in detail. Before I walk through the numbers, let me explain how an escrow analysis works. Once a year, we calculate how much money we need to collect each month to cover your property taxes and homeowner's insurance when those bills come due. We project the coming year's costs and divide by 12. If costs have gone up, the monthly collection goes up — and your total payment increases.
+Caller: I know the basics of how escrow works. I'm asking specifically why it jumped $187.
+Agent: Completely fair. Let me look at the line items. Your previous escrow analysis was based on an annual property tax disbursement of $3,144, which is $262 per month. Your new escrow analysis is based on an annual property tax disbursement of $5,292, which is $441 per month.
+Caller: That's almost double. Why did my property tax double?
+Agent: That is a very significant increase. The most common reason for a property tax increase of this magnitude is a property reassessment by the county assessor's office. In Maricopa County — which covers Scottsdale — properties are reassessed periodically, and the assessed value can increase significantly if property values in your area have risen sharply. Did you receive anything from the Maricopa County Assessor's Office in the past year?
+Caller: I did get a notice in the spring but I assumed it was routine and I didn't look at it carefully. Maybe I should have.
+Agent: It was likely your Notice of Value, which shows the assessor's determination of your property's value for tax purposes. That value directly determines your property taxes. If the assessor raised your assessed value significantly — which has been common in parts of Arizona given property appreciation — your taxes would follow.
+Caller: Can I dispute that assessment? Isn't it too late?
+Agent: There are appeal windows — in Maricopa County, the deadline to appeal the Notice of Value is typically in April or May of the tax year. The window for the most recent cycle may have passed, but I'd encourage you to contact the Maricopa County Assessor's Office directly to ask about the current status and whether any appeal options remain. They can tell you your assessed value, the applicable tax rate, and whether the notice you received was a reassessment.
+Caller: What if I appeal and the taxes come down? Would my escrow be adjusted?
+Agent: Yes. If the assessed value is reduced through a successful appeal, your actual tax bill would come in lower than what we projected. At the next annual escrow analysis — or in some cases sooner, if the change is significant — your escrow requirement would be recalculated to reflect the corrected tax amount and your payment would be adjusted accordingly. If we over-collected, you'd receive a refund.
+Caller: That's at least something. Now, is the full $187 increase from taxes or is some of it from insurance too?
+Agent: Good question. Let me look at the insurance side. Your prior year insurance disbursement was $1,320 annually, which is $110 per month. Your new insurance disbursement is $1,488, which is $124 per month. That's an increase of $14 per month. So most of the increase — about $173 of the $187 — is from the property tax jump. The remaining $14 is from a modest insurance premium increase.
+Caller: My insurance went up too. I just renewed last month and they said rates were going up everywhere in Arizona.
+Agent: That's accurate — homeowner's insurance rates in Arizona and the Southwest generally have increased in recent years due to wildfire risk, increased claims, and reinsurance market factors. Your increase there is smaller but real.
+Caller: Okay. So let's say I appeal the taxes and win. How long before I'd see relief on the payment?
+Agent: The timeline depends on how quickly the appeal resolves. Tax appeals can take months. Once the Maricopa County Assessor or the Arizona Board of Equalization issues a decision and a corrected tax bill is issued, we'd receive that updated bill through our tax service. We'd then conduct an interim escrow analysis and recalculate your payment. The timeline from a successful appeal to a payment reduction could be six to twelve months in realistic terms.
+Caller: That's a while. Is there anything I can do in the short term about the $187 increase?
+Agent: There are a couple of options. One is to accept the new payment and wait for the appeal process to play out, knowing you'd eventually get a refund if the appeal succeeds. Another option — if the escrow analysis shows a shortage that's driving part of the increase — is to pay the shortage amount in a lump sum. Let me check if there's a shortage component here.
+Caller: Yes, it mentions a shortage of about $620.
+Agent: Okay. Part of your monthly increase is amortizing that $620 shortage over 12 months — that's about $51.67 per month. If you pay the $620 shortage upfront in a lump sum, that portion of the increase would be removed and your payment increase would be reduced from $187 to approximately $135.
+Caller: So I can pay $620 now and save about $52 a month?
+Agent: Yes. That's the math. It depends on whether you'd rather pay $620 today or have it spread over the year. Over 12 months, spreading it out costs the same total.
+Caller: If I'm going to appeal and potentially get a refund anyway, maybe I'll just spread it out for now.
+Agent: That's a reasonable approach. Is there anything else I can help you clarify about the analysis?
+Caller: Just tell me where to start with the tax appeal.
+Agent: Call the Maricopa County Assessor's Office — their main number is 602-506-3406, and they also have an online portal for looking up your property's assessed value and appeal procedures. Have your property address and parcel number ready if you can find it. The parcel number may be on your tax bill or the county assessor's website.
+Caller: I'll do that today. Beth, thank you for explaining all of this. I'm still frustrated but at least I understand it now.
+Agent: That's exactly the right reaction — understanding it is the first step toward doing something about it. I hope the appeal goes well. Is there anything else I can help you with?
+Caller: No, that's everything. Thanks again.
+Agent: Of course. Have a good day, Ms. Petersen.
+Caller: You too. Bye.
+Agent: Goodbye.
